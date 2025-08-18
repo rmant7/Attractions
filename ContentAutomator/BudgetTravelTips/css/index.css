@@ -1,0 +1,132 @@
+/*========================================== title + details ====================================================*/
+.section-title {
+  color: #000;
+  font-size: 3rem;
+  text-align: center;
+  padding: 5px;
+}
+
+.city-details-main {
+  color: #000;
+  text-align: center;
+  font-size: 1.2rem;
+  text-indent: 0;
+  padding: 20px;
+}
+
+.city-item__image {
+  width: 100%;
+  padding: 15px;
+  border-radius: 40px;
+}
+
+.city-item__name {
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  color: #000;
+  background-color: rgba(255, 255, 255, 0.7);
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+.city-item__name:hover {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+@media screen and (max-width: 320px) {
+  .section-title {
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 375px) and (max-height: 667px) {
+  .city-details-main {
+    color: #000;
+    text-align: center;
+    font-size: 0.8rem;
+    text-indent: 0;
+  }
+}
+
+
+/*==========================================carousel====================================================*/
+.owl-carousel .owl-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1;
+}
+
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel .owl-nav button.owl-next {
+  background: none;
+  color: #ff5722;
+  font-size: 2rem;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.owl-carousel .owl-dots {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+
+.owl-carousel .owl-dots .owl-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #ccc;
+  margin: 0 5px;
+  
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.owl-carousel .owl-dots .owl-dot.active {
+  background-color: #ff5722;
+}
+
+
+/*========================================== ruler + headline======================================================*/
+hr.ruler {
+  border: 1px solid orangered
+}
+
+h3{
+  margin: 0;
+  text-align: center;
+}
+
+
+/*==========================================city list====================================================*/
+.city-list ul {
+  width: 100%;
+  margin: 0;
+  padding: 15px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(205px, 1fr));
+  gap: 10px;
+  list-style: none;
+  font-size: 1.23em;
+  text-align: center;
+  align-items: center;
+}
+.city-list li a {
+  color: #ff5722;
+}

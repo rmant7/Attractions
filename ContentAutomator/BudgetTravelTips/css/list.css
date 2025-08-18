@@ -1,0 +1,63 @@
+/* ------------------------------------------common----------------------------------------------- */
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+/* -------------------------------------------events_festivals------------------------------------ */
+.item-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid #ff5722;
+    border-radius: 20px;
+    padding: 10px 10px 20px;
+    margin: 5px;
+    flex: 1 0 19%;
+}
+  
+.item-content{
+    width: 100%;
+}
+
+.item-content a{
+    color: orangered;
+}
+
+img {
+    width: 100%;
+}
+
+.text-header{
+    text-align: center;
+    margin: 20px 0px 10px;
+}
+
+.text{
+    text-align: justify;
+    padding: 0px 0px;
+    margin: 0px 0px 10px;
+}
+
+@media screen and (max-width: 1500px){
+    .item-container{
+        flex: 1 0 30%;
+    }
+
+    .item-container .act-btn-cont{
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 1000px){
+    .item-container{
+        flex: 1 0 48%;
+    }
+}
+
+@media screen and (max-width: 800px){
+    .main-container{
+        flex-direction: column;
+    }
+}
+/* ------------------------------------------------------------------------ */

@@ -1,0 +1,22 @@
+{
+    "1": {
+        "name": "London Underground",
+        "description": "Discover London's iconic Underground system, a cheap and efficient way to travel around the city. With over 270 stations, the Tube covers all major areas of London, making it easy to get around. With frequent trains and affordable fares, the Underground is perfect for budget-conscious travellers. Don't forget to purchase an Oyster card for even more savings!"
+    },
+    "2": {
+        "name": "London Buses",
+        "description": "Hop on a London bus and explore the city at your own pace. With over 8,000 buses and 700 routes, London's bus network is one of the largest in the world. Buses run 24/7, making it easy to get around at any time of day. With affordable fares and the option to use your Oyster card, travelling by bus is a great choice for budget-conscious travellers."
+    },
+    "3": {
+        "name": "Boris Bikes",
+        "description": "Experience London on two wheels with Boris Bikes, the city's bike-sharing scheme. With over 11,000 bikes and 750 docking stations, Boris Bikes are a convenient and affordable way to explore the city. With prices starting at just \u00a32 for 24 hours, it's a great option for budget-conscious travellers. Don't forget to wear a helmet and follow the rules of the road!"
+    },
+    "4": {
+        "name": "Walking",
+        "description": "Discover London on foot and see the city from a different perspective. With so many iconic landmarks and hidden gems to explore, walking is a great way to experience the city. Plus, it's completely free! Take a stroll through Hyde Park, explore the vibrant streets of Soho, or wander along the Thames. With so much to see and do, walking is a great option for budget-conscious travellers."
+    },
+    "5": {
+        "name": "Docklands Light Railway",
+        "description": "Explore London's Docklands area with the Docklands Light Railway (DLR). With over 45 stations, the DLR covers the east and south-east of London, making it easy to get around. With affordable fares and the option to use your Oyster card, travelling by DLR is a great choice for budget-conscious travellers. Don't forget to take in the stunning views of the city skyline as you ride!"
+    }
+}

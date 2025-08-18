@@ -1,0 +1,6 @@
+*.env
+__pycache__/
+.idea/
+groups/ 
+files/
+801.json
