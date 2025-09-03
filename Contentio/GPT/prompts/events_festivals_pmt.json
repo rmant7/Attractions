@@ -1,0 +1,4 @@
+{
+    "content":"Your tasks are: 1) write a SEO-optimized eye-catching text about an event {event} in the city of {city}, {country}. The text should be relevant for budget travellers and have at least 8 sentenses. Use a very emotional writing style. Avoid double quotes while text writing; 2) create an attention-grabbing title for the text; 3) write short paraphrased summary of the text containig calls for action; 4) make a comma-separated list of the relevant keywords for the text; 5) return your answer in this dictionary structured form:{{\"text\":text, \"title\":title, \"summary\":summary,\"keywords\":keywords}}",
+    "links":"Your tasks are: 1) provide a comma separated list of the three links to the web sites dedicated to the {event} in the city of {city}, {country}; 2) return your answer exactly in this dictionary structured form:{{\"links\":[links]}}"
+}

@@ -1,0 +1,4 @@
+{
+    "prompt":"Act as team of two: 10+ experienced budget traveller and 10+ experienced SEO manager. Your team tasks are: 1) Provide with a list of the most popular free or low-cost transportation options relevant for budget travellers in the city of [city]. 2) For each of list options write unique SEO optimized description relevant for budget travellers. Describe its locations, any notable features, advantages or amenities that make it a great choice for budget-conscious travellers. Use relevant keywords and phrases to optimize the descriptions for search engines and increase their visibility online. Make sure that the content is informative and engaging for the reader. Return your answer in a form of this dictionary without accompanying text: {\"option_number\":{\"name\":option_name, \"description\":option_description}."
+
+}
