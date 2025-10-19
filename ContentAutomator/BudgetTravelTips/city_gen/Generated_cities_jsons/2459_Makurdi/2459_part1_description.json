@@ -1,0 +1,65 @@
+{
+  "id": "2459",
+  "name": "Makurdi",
+  "country": "Nigeria",
+  "description": "Nestled along the scenic banks of the River Benue, Makurdi stands as the vibrant capital of Benue State, often dubbed the \"Food Basket of the Nation.\" This bustling city offers a unique blend of cultural richness, agricultural prowess, and serene riverine beauty. Makurdi is predominantly inhabited by the Tiv people, whose rich heritage is evident in their vibrant traditions, colorful attire, and spirited music and dance. Visitors can immerse themselves in local markets brimming with fresh produce, explore the state's cultural history at the Benue State Museum, or enjoy tranquil boat rides on the expansive River Benue, providing picturesque views of the city. While not a conventional tourist hotspot, Makurdi offers an authentic Nigerian experience, far from the urban rush of Lagos or Abuja. It's a gateway to understanding the agricultural backbone of Nigeria and the warmth of its people. Exploring the Benue State University campus provides a glimpse into academic life, while local eateries serve up traditional delicacies like 'pounded yam with egusi soup' or 'tuwo shinkafa'. Makurdi promises an engaging journey for those seeking cultural immersion and a taste of everyday Nigerian life.",
+  "themes": [
+    "Riverine Beauty",
+    "Cultural Immersion",
+    "Agricultural Hub",
+    "Local Markets",
+    "Authentic Nigeria"
+  ],
+  "body_attributes": {
+    "climate": "Tropical savanna climate with distinct wet and dry seasons. The wet season (April-October) is characterized by heavy rainfall, while the dry season (November-March) is hot and dusty.",
+    "best_time_to_visit": "November to February (dry season) for more comfortable weather and easier travel.",
+    "population": "500000",
+    "area": "820 sq km",
+    "transport_summary": "Transportation within Makurdi primarily relies on motorcycles (Okada), tricycles (Keke Napep), and taxis. Inter-city travel is typically by bus or private vehicle.",
+    "safety_level": "Medium",
+    "geographical_features": "Located on the south bank of the River Benue, Makurdi features flat plains and fertile agricultural land, making it a prominent hub for crop production."
+  },
+  "travel_tips": [
+    "Always negotiate prices for rides and items in markets before committing.",
+    "Stay hydrated, especially during the dry season, and protect yourself from the sun.",
+    "Dress modestly, particularly when visiting local communities or religious sites, to show respect.",
+    "Be mindful of your surroundings, especially at night, and avoid walking alone in poorly lit areas."
+  ],
+  "budget_tips": [
+    "Eat at local 'buka' (small restaurants) for authentic and inexpensive meals.",
+    "Utilize 'Keke Napep' (tricycles) or 'Okada' (motorcycles) for transport, as they are cheaper than taxis.",
+    "Haggle politely in markets for souvenirs and goods to get the best prices.",
+    "Consider guesthouses or smaller hotels outside the city center for more affordable accommodation options."
+  ],
+  "seo": {
+    "seo_title": "Makurdi, Nigeria Travel Guide: River Benue & Tiv Culture",
+    "seo_description": "Discover Makurdi, Nigeria's 'Food Basket' capital. Explore Tiv culture, the River Benue, local markets, and authentic experiences. Your guide to Makurdi travel.",
+    "keywords": [
+      "Makurdi travel",
+      "Benue State",
+      "Nigeria tourism",
+      "River Benue",
+      "Tiv culture"
+    ]
+  },
+  "meta": {
+    "continent": "Africa",
+    "currency": "Nigerian Naira (NGN)",
+    "language": "English, Tiv, Idoma, Igede",
+    "time_zone": "WAT (West Africa Time)",
+    "popular_airlines": [
+      "Air Peace",
+      "Arik Air",
+      "Aero Contractors",
+      "ValueJet"
+    ]
+  },
+  "title": "Makurdi: Discovering Nigeria's Food Basket on the Benue River",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bridge_across_River_Benue_in_Makurdi%2C_Benue_State%2C_Nigeria_from_above.jpg"
+  ],
+  "coordinates": [
+    7.733611106872559,
+    8.52138900756836
+  ]
+}

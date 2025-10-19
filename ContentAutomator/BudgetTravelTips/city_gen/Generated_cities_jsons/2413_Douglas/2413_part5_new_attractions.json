@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Douglas",
+    "city_id": "2413"
+  },
+  "items": [
+    {
+      "id": "DBVRX001",
+      "name": "Douglas Bay VR Immersion",
+      "short_description": "Step into a virtual reality journey exploring Douglas Bay's history and marine life, offering a truly unique perspective of the island's capital.",
+      "address": "12 Marina Road, Douglas, IM1 2JA",
+      "opening_hours": "10:00-19:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1629815049581-229ef5e07662?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+      "tags": [
+        "virtual reality",
+        "history",
+        "interactive"
+      ]
+    },
+    {
+      "id": "MSDTR002",
+      "name": "Manx Spirit Craft Distillery",
+      "short_description": "Discover the art of artisan gin and whisky production on the Isle of Man with a guided tour, followed by a tutored tasting of their unique spirits.",
+      "address": "North Quay, Douglas, IM1 4LT",
+      "opening_hours": "11:00-20:00 (Wed-Sat), 12:00-18:00 (Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616788534863-74b33b0066d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2832&q=80",
+      "tags": [
+        "gin",
+        "distillery",
+        "tasting"
+      ]
+    },
+    {
+      "id": "TMYG003",
+      "name": "The Manx Yarn Gallery",
+      "short_description": "A contemporary textile art gallery showcasing local and international artists, with a focus on traditional Manx crafts reimagined for the modern era.",
+      "address": "3 Victoria Street, Douglas, IM1 2PJ",
+      "opening_hours": "09:30-17:30 (Mon-Sat)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596707328606-2c933b4d4b1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+      "tags": [
+        "art gallery",
+        "textile",
+        "crafts"
+      ]
+    },
+    {
+      "id": "DSFM004",
+      "name": "Douglas Waterfront Food Hall",
+      "short_description": "A vibrant indoor market featuring diverse local and international street food vendors, live music, and artisan produce right on the waterfront.",
+      "address": "Lord Street, Douglas, IM1 1LH",
+      "opening_hours": "11:00-21:00 (Thu-Sun)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1542838500-1533475d4ed1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80",
+      "tags": [
+        "food market",
+        "dining",
+        "local produce"
+      ]
+    },
+    {
+      "id": "CEDC005",
+      "name": "Manx Marine & Coastal Hub",
+      "short_description": "An interactive center dedicated to the Isle of Man's marine biodiversity, offering educational exhibits, touch tanks, and guided coastal walks.",
+      "address": "Sea Terminal, Douglas, IM1 2RF",
+      "opening_hours": "09:00-17:00 (Daily)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579705354516-f3b1716e9198?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+      "tags": [
+        "nature",
+        "education",
+        "marine life"
+      ]
+    },
+    {
+      "id": "DUCA006",
+      "name": "Summit Walls Douglas",
+      "short_description": "Challenge yourself at Douglas's premier indoor bouldering and climbing center, catering to all skill levels from beginners to experienced climbers.",
+      "address": "Braddan Bridge Industrial Estate, Douglas, IM4 4HL",
+      "opening_hours": "07:00-22:00 (Daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549419137-b6f3b018599a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+      "tags": [
+        "adventure",
+        "sport",
+        "indoor activity"
+      ]
+    },
+    {
+      "id": "IOMTER007",
+      "name": "Manx Time Lock Escape Rooms",
+      "short_description": "Immerse yourself in thrilling, Manx-themed escape rooms, challenging your wits and teamwork against the clock to uncover island secrets.",
+      "address": "8 Duke Street, Douglas, IM1 2AY",
+      "opening_hours": "10:00-22:00 (Mon-Sat), 11:00-20:00 (Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1560960579-251f284e3146?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+      "tags": [
+        "escape room",
+        "puzzle",
+        "team activity"
+      ]
+    },
+    {
+      "id": "DDSO008",
+      "name": "Douglas Star Gazer's Lounge",
+      "short_description": "Experience the wonders of the night sky at this modern observatory with powerful telescopes, public viewing sessions, and an integrated cafe.",
+      "address": "Onchan Head, Douglas, IM3 1HL",
+      "opening_hours": "19:00-23:00 (Fri-Sat, seasonal), 09:00-17:00 (Cafe daily)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1533230485002-39f091c0159f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80",
+      "tags": [
+        "astronomy",
+        "stargazing",
+        "nightlife"
+      ]
+    },
+    {
+      "id": "EBHC009",
+      "name": "Douglas E-Bike Explorer",
+      "short_description": "Rent electric bikes to explore Douglas and its stunning coastal paths with ease, complemented by a cozy cafe offering local snacks and refreshments.",
+      "address": "Queen's Promenade, Douglas, IM2 4NF",
+      "opening_hours": "08:30-18:00 (Daily, seasonal)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1623861596555-4672f0739c91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2835&q=80",
+      "tags": [
+        "cycling",
+        "outdoor",
+        "cafe"
+      ]
+    },
+    {
+      "id": "DWHS010",
+      "name": "Aura Wellness & Hydro Spa",
+      "short_description": "A serene urban oasis offering rejuvenating hydrotherapy pools, bespoke spa treatments, and relaxation zones for ultimate indulgence.",
+      "address": "Central Promenade, Douglas, IM2 4NQ",
+      "opening_hours": "08:00-20:00 (Daily)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1544161510-482065842c13?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+      "tags": [
+        "spa",
+        "wellness",
+        "relaxation"
+      ]
+    }
+  ]
+}

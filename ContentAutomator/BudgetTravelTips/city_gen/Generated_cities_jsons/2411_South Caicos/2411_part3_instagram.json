@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "South Caicos",
+    "city_id": "2411"
+  },
+  "items": [
+    {
+      "id": "SC_SA_001",
+      "name": "Cockburn Harbour's Colorful Fleet",
+      "short_description": "Discover the vibrant, hand-painted fishing boats docked in Cockburn Harbour. Each vessel tells a story through its unique colors and designs, offering a picturesque glimpse into local life.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Cockburn Harbour docks, South Caicos",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549646461-8b012b1c4c8f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "local culture",
+        "fishing boats",
+        "vibrant"
+      ]
+    },
+    {
+      "id": "SC_SA_002",
+      "name": "Fisherman's Wharf Graffiti Wall",
+      "short_description": "A dynamic, ever-evolving wall near the old Fisherman's Wharf, adorned with local tags, simple drawings, and messages from islanders. It's a raw, authentic expression of South Caicos' spirit.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near Fisherman's Wharf, Cockburn Harbour",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596541544453-bd186a87799d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "urban art",
+        "local charm",
+        "authentic"
+      ]
+    },
+    {
+      "id": "SC_SA_003",
+      "name": "Pastel Alleyway Artistry",
+      "short_description": "Wander through an unnamed alleyway lined with historic homes boasting vibrant pastel facades. The interplay of colors and textures creates an open-air art gallery unique to the island.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Historic district, Cockburn Harbour",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1601362771690-3b91811a0d3b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "architecture",
+        "colorful buildings",
+        "hidden gem"
+      ]
+    },
+    {
+      "id": "SC_SA_004",
+      "name": "Island Spirit Mural at Community Center",
+      "short_description": "A charming mural adorning the side of the local community center, depicting scenes of island life, marine wildlife, and the salt industry. It's a testament to South Caicos' rich heritage.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "South Caicos Community Center",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582847551066-880629731df4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "community art",
+        "cultural",
+        "local history"
+      ]
+    },
+    {
+      "id": "SC_HA_001",
+      "name": "Old Salt Merchant's Courtyard",
+      "short_description": "Tucked away behind historic buildings, this charming courtyard once belonged to a salt merchant. Discover crumbling walls, lush greenery, and a sense of forgotten history.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Behind Main Street, Cockburn Harbour",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596707323214-41d9a24c13a0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "historic",
+        "secluded",
+        "architecture"
+      ]
+    },
+    {
+      "id": "SC_HA_002",
+      "name": "Fisherman's Path to the Sea",
+      "short_description": "A narrow, winding path between colorful homes leads directly to a secluded stretch of beach, offering stunning ocean views and a peaceful escape from the main village.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "East side of Cockburn Harbour",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1589133486026-c774d6c478a8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ocean views",
+        "pathway",
+        "serene"
+      ]
+    },
+    {
+      "id": "SC_HA_003",
+      "name": "The Secret Garden of the Old Dispensary",
+      "short_description": "Behind the dilapidated Old Dispensary, a surprisingly vibrant secret garden flourishes, filled with tropical plants and a quiet, contemplative atmosphere perfect for a reflective moment.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Near Government Dock, Cockburn Harbour",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1542152203-c0d12e967a14?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "lush greenery",
+        "peaceful",
+        "urban exploration"
+      ]
+    },
+    {
+      "id": "SC_HA_004",
+      "name": "Boathouse Back Alleys",
+      "short_description": "Explore the narrow passages behind the active boathouses, where fishing nets are mended and boats are repaired. It offers a candid, gritty insight into the island's working life.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Along the waterfront, Cockburn Harbour",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563725807962-d2d47610fb17?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "authentic",
+        "local life",
+        "backstreets"
+      ]
+    },
+    {
+      "id": "SC_BO_001",
+      "name": "Plandon Cay Cut Bridge",
+      "short_description": "This small, rustic bridge spanning Plandon Cay Cut offers breathtaking views of turquoise waters flowing between the islands. It's a prime spot for photography, especially at high tide.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Between South Caicos and Plandon Cay",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1620295191196-036894c21966?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ocean views",
+        "scenic",
+        "natural beauty"
+      ]
+    },
+    {
+      "id": "SC_BO_002",
+      "name": "High Bluff Lookout",
+      "short_description": "Perched on one of the island's highest points, High Bluff Lookout provides panoramic vistas of the shimmering salt pans, Cockburn Harbour, and the vast expanse of the Atlantic.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "East of Cockburn Harbour",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1506197603052-3b68c81559b1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "panoramic",
+        "salt flats",
+        "ocean views"
+      ]
+    },
+    {
+      "id": "SC_BO_003",
+      "name": "Government Dock Observation Deck",
+      "short_description": "While primarily a working dock, a small elevated section offers excellent views of arriving and departing boats, local fishermen, and the colorful waterfront of Cockburn Harbour.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Government Dock, Cockburn Harbour",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549419163-f27301284d72?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "harbor views",
+        "local life",
+        "dock"
+      ]
+    },
+    {
+      "id": "SC_BO_004",
+      "name": "East Bay Sunset Point",
+      "short_description": "A secluded bluff on the eastern side of the island provides an unobstructed, dramatic view of the sun dipping below the horizon, painting the sky in fiery hues over the Atlantic.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "East Bay, South Caicos",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sunset",
+        "romantic",
+        "coastal views"
+      ]
+    },
+    {
+      "id": "SC_UNW_001",
+      "name": "The Boiling Hole",
+      "short_description": "A mysterious tidal hole where water appears to 'boil' and bubble due to the subterranean limestone caverns and tidal currents. It's an intriguing natural phenomenon unique to the island.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "North-east coast of South Caicos",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Boiling_Springs_Lake_in_Lassen_Volcanic_National_Park.jpg/1280px-Boiling_Springs_Lake_in_Lassen_Volcanic_National_Park.jpg",
+      "tags": [
+        "geological",
+        "mysterious",
+        "coastal"
+      ]
+    },
+    {
+      "id": "SC_UNW_002",
+      "name": "Flamingo Pond's Pink Spectacle",
+      "short_description": "Witness thousands of magnificent flamingos feeding in the vibrant pink salt ponds. The sheer number and their graceful movements create an unforgettable natural spectacle.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Central salt pans, South Caicos",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582234032483-29472d8a9561?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wildlife",
+        "birdwatching",
+        "salt flats"
+      ]
+    },
+    {
+      "id": "SC_UNW_003",
+      "name": "Dragon Cay Rock Formation",
+      "short_description": "On the dramatic east coast, find the 'Dragon Cay,' a rugged rock formation resembling a mythical beast rising from the sea. Its raw beauty is captivating, especially against crashing waves.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "East Coast Beach, South Caicos",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1601056559632-68c16cf4c2c5?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "rock formation",
+        "coastal landscape",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "SC_UNW_004",
+      "name": "Mangrove Tunnels of the North Shore",
+      "short_description": "Explore winding natural tunnels formed by dense mangrove forests along the northern shoreline. Kayaking or paddleboarding through these serene waterways is an ethereal experience.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "North Shore, South Caicos",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1627918366967-5f12e84c47bb?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "mangroves",
+        "kayaking",
+        "serene"
+      ]
+    },
+    {
+      "id": "SC_IL_001",
+      "name": "Cockburn Harbour Lighthouse Ruins",
+      "short_description": "The picturesque ruins of the historic Cockburn Harbour Lighthouse stand as a sentinel over the channel, offering a poignant glimpse into the island's maritime past and stunning views.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "South-west tip of South Caicos",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1544605151-6c2e71d37446?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "historic",
+        "lighthouse",
+        "coastal"
+      ]
+    },
+    {
+      "id": "SC_IL_002",
+      "name": "The Old Salt Salina",
+      "short_description": "Vast, shimmering salt pans that were once the lifeblood of South Caicos. These historic salinas are a testament to the island's salt production heritage, especially beautiful at sunrise.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Central South Caicos",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596707323214-41d9a24c13a0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "history",
+        "salt flats",
+        "industrial heritage"
+      ]
+    },
+    {
+      "id": "SC_IL_003",
+      "name": "Cockburn Harbour Waterfront",
+      "short_description": "The bustling heart of the island, where colorful buildings line the historic harbor. It's a vibrant hub of local activity, fishing boats, and charming colonial architecture.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Cockburn Harbour",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596541544453-bd186a87799d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "harbor",
+        "architecture",
+        "lively"
+      ]
+    },
+    {
+      "id": "SC_IL_004",
+      "name": "The Admiral's Residence (Ruins)",
+      "short_description": "The evocative ruins of a grand colonial residence, rumored to have housed a British Admiral. Its weathered walls and overgrown garden offer a dramatic backdrop for photos.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "High Bluff, near Cockburn Harbour",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1563725807962-d2d47610fb17?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "colonial history",
+        "ruins",
+        "atmospheric"
+      ]
+    },
+    {
+      "id": "SC_FDS_001",
+      "name": "Skipper's Seafood Shack",
+      "short_description": "A rustic, beloved local eatery famous for its fresh-off-the-boat seafood, especially conch fritters and grilled fish, served with breathtaking ocean views.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Waterfront, Cockburn Harbour",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1593348122904-8b63e9f3f982?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "seafood",
+        "local cuisine",
+        "oceanfront dining"
+      ]
+    },
+    {
+      "id": "SC_FDS_002",
+      "name": "The Sunset Lounge & Grill",
+      "short_description": "Enjoy delectable Caribbean dishes and signature cocktails from a patio overlooking the western sea, providing unparalleled views of South Caicos' famous sunsets.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "East Bay Resort, South Caicos",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1574345229676-e17f766e4761?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fine dining",
+        "cocktails",
+        "sunset views"
+      ]
+    },
+    {
+      "id": "SC_FDS_003",
+      "name": "Local Bakery & Coffee Stop",
+      "short_description": "A charming, no-frills spot where locals gather for freshly baked bread, pastries, and strong island coffee. Experience authentic island hospitality and flavors.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Main Street, Cockburn Harbour",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549419163-f27301284d72?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "bakery",
+        "coffee",
+        "local experience"
+      ]
+    },
+    {
+      "id": "SC_FDS_004",
+      "name": "Fish Fry Fridays",
+      "short_description": "Every Friday, local vendors set up grills and fry stations, offering an array of freshly caught fish, lobster, and conch. A lively, informal culinary event with music and community spirit.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Government Dock area, Cockburn Harbour",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1582234032483-29472d8a9561?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "street food",
+        "community event",
+        "fresh seafood"
+      ]
+    },
+    {
+      "id": "SC_IP_001",
+      "name": "East Bay Resort Infinity Pool",
+      "short_description": "Gaze across the vast turquoise expanse of the Caribbean Sea from the stunning infinity pool at East Bay Resort. Perfect for a serene swim or a breathtaking photo op.",
+      "subtype": "Infinity Pools",
+      "location_hint": "East Bay Resort, South Caicos",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1506197603052-3b68c81559b1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "luxury",
+        "ocean views",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "SC_IP_002",
+      "name": "The Meridian Club's Seaview Pool",
+      "short_description": "This tranquil infinity pool at The Meridian Club offers a seamless blend with the horizon, providing a peaceful retreat with panoramic ocean vistas, ideal for unwinding.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Pine Cay (accessible from South Caicos)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1601362771690-3b91811a0d3b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "exclusive",
+        "resort pool",
+        "scenic"
+      ]
+    },
+    {
+      "id": "SC_IP_003",
+      "name": "Secret Beach Tidal Infinity Pool",
+      "short_description": "Discover a natural 'infinity pool' created by tidal formations on a secluded beach. As the tide comes in, calm, clear water fills a natural rock basin, offering a unique ocean-side soak.",
+      "subtype": "Infinity Pools",
+      "location_hint": "North-east coast, South Caicos",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1589133486026-c774d6c478a8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "natural pool",
+        "secluded beach",
+        "unique experience"
+      ]
+    },
+    {
+      "id": "SC_IP_004",
+      "name": "South Caicos Ocean Club Pool",
+      "short_description": "The elegant infinity pool at the South Caicos Ocean Club provides stunning views of the Caicos Bank, perfect for watching boats glide by or enjoying a quiet swim under the Caribbean sun.",
+      "subtype": "Infinity Pools",
+      "location_hint": "South Caicos Ocean Club, East Bay",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1620295191196-036894c21966?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "luxury resort",
+        "swim",
+        "panoramic views"
+      ]
+    },
+    {
+      "id": "SC_MB_001",
+      "name": "Cockburn Harbour Fish Market",
+      "short_description": "Experience the authentic daily catch at Cockburn Harbour's bustling fish market. Watch local fishermen bring in their hauls, from snapper to lobster, and immerse yourself in island life.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Government Dock, Cockburn Harbour",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549646461-8b012b1c4c8f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "local market",
+        "fresh seafood",
+        "authentic"
+      ]
+    },
+    {
+      "id": "SC_MB_002",
+      "name": "Saturday Morning Fresh Produce Stand",
+      "short_description": "A small, vibrant roadside stand pops up every Saturday, offering fresh, seasonal produce grown locally. A chance to taste island flavors and support local farmers.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Near Community Center, Cockburn Harbour",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596707323214-41d9a24c13a0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "local produce",
+        "farmers market",
+        "fresh"
+      ]
+    },
+    {
+      "id": "SC_MB_003",
+      "name": "Island Crafts & Souvenir Kiosk",
+      "short_description": "A quaint kiosk near the harbor, selling handmade crafts, shell jewelry, and unique souvenirs created by local artisans. Perfect for finding a memorable piece of South Caicos.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Near Government Dock, Cockburn Harbour",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582847551066-880629731df4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "handmade crafts",
+        "souvenirs",
+        "local art"
+      ]
+    },
+    {
+      "id": "SC_MB_004",
+      "name": "The Weekly Community Exchange",
+      "short_description": "An informal weekly gathering where islanders trade goods, share stories, and sell homemade treats. It's less of a market and more of a genuine community interaction.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Main Street Park, Cockburn Harbour",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1506197603052-3b68c81559b1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "community",
+        "local exchange",
+        "unique experience"
+      ]
+    },
+    {
+      "id": "SC_FE_001",
+      "name": "South Caicos Regatta",
+      "short_description": "An annual celebration of sailing, culture, and community. Watch thrilling boat races, enjoy live music, traditional food, and immerse yourself in the vibrant island spirit.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Cockburn Harbour & surrounding waters",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1563725807962-d2d47610fb17?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "annual event",
+        "sailing",
+        "cultural festival"
+      ]
+    },
+    {
+      "id": "SC_FE_002",
+      "name": "Fisherman's Day Festival",
+      "short_description": "A lively festival honoring the island's fishing heritage. Expect fresh seafood feasts, fishing competitions, live music, and dancing, celebrating the heart of South Caicos.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Government Dock, Cockburn Harbour",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1593348122904-8b63e9f3f982?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "local festival",
+        "seafood",
+        "community celebration"
+      ]
+    },
+    {
+      "id": "SC_FE_003",
+      "name": "National Heroes Day Parade",
+      "short_description": "Witness a colorful parade celebrating national heroes with vibrant costumes, traditional music, and community spirit. A deep dive into the patriotic heart of the Turks & Caicos.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Main Street, Cockburn Harbour",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1601362771690-3b91811a0d3b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "national holiday",
+        "parade",
+        "cultural event"
+      ]
+    },
+    {
+      "id": "SC_FE_004",
+      "name": "Christmas Tree Lighting Ceremony",
+      "short_description": "Experience the festive season with a local Christmas tree lighting, carols, and community gathering. A heartwarming event reflecting island holiday traditions.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Central Park, Cockburn Harbour",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1574345229676-e17f766e4761?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "holiday season",
+        "community event",
+        "festive"
+      ]
+    },
+    {
+      "id": "SC_CI_001",
+      "name": "The Salt History Trail Markers",
+      "short_description": "Scattered throughout the old salt pans, interpretive markers and remnants of the salt industry tell the story of South Caicos' vital role in salt production. An open-air historical exhibit.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Old Salt Salinas, South Caicos",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596707323214-41d9a24c13a0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "history",
+        "industrial heritage",
+        "open-air museum"
+      ]
+    },
+    {
+      "id": "SC_CI_002",
+      "name": "Fisherman's Memorial Anchor",
+      "short_description": "A solemn yet striking anchor installation dedicated to the island's fishermen lost at sea. It serves as a tribute and a poignant reminder of the sea's power and generosity.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Waterfront promenade, Cockburn Harbour",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549646461-8b012b1c4c8f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "memorial",
+        "maritime",
+        "local heritage"
+      ]
+    },
+    {
+      "id": "SC_CI_003",
+      "name": "The Conch Shell Archway",
+      "short_description": "A whimsical archway crafted entirely from discarded conch shells, celebrating the island's abundant marine life and a sustainable use of natural resources. A unique photo opportunity.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Near Skipper's Seafood Shack, Cockburn Harbour",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1589133486026-c774d6c478a8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "public art",
+        "sustainable",
+        "marine life"
+      ]
+    },
+    {
+      "id": "SC_CI_004",
+      "name": "Old Colonial Cannon Display",
+      "short_description": "Historic cannons, remnants of colonial defense, stand guard overlooking the harbor. These rusty relics offer a tangible link to South Caicos' strategic past.",
+      "subtype": "Cultural Installations",
+      "location_hint": "High Bluff, near the lighthouse ruins",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1544605151-6c2e71d37446?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "colonial history",
+        "military heritage",
+        "historical artifacts"
+      ]
+    }
+  ]
+}

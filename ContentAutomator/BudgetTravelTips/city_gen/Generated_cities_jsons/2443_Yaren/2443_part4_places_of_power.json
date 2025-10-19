@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Yaren",
+    "city_id": "2443"
+  },
+  "items": [
+    {
+      "id": "YarenJunction",
+      "name": "Junction of Whispering Winds",
+      "short_description": "An ancient crossroads where paths from different parts of the island once converged, believed to be a point of spiritual convergence and decision-making for ancestral spirits and travelers.",
+      "subtype": "Crossroads",
+      "address": "Main Road Intersection (near Ewa Road), Yaren District",
+      "visiting_hours": "00:00-23:59",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549419137-023a9d7010a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1NTJ8MHwxfHNlYXJjaHwyMHx8aXNsYW5kJTIwcm9hZCUyMGp1bmN0aW9ufGVufDB8fHx8MTcwOTEzNDIwN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "convergence",
+        "ancestral paths",
+        "spirituality"
+      ]
+    },
+    {
+      "id": "ReefsideRetreat",
+      "name": "Reefside Contemplation Hut",
+      "short_description": "A secluded, simple hut overlooking the pristine reef, traditionally used by island elders for quiet meditation and deep contemplation, seeking guidance from the ocean spirits.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Western Coastline, near Anibare Bay, Yaren District",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1623916960759-3382c443b7e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1NTJ8MHwxfHNlYXJjaHwzfHxpc2xhbmQlMjBoZXJtaXRhZ2V8ZW58MHx8fHwxNzA5MTM0MjA4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "meditation",
+        "ocean spirits",
+        "seclusion"
+      ]
+    },
+    {
+      "id": "CoralTerrace",
+      "name": "Coral Terrace of Ancestors",
+      "short_description": "An ancient, stepped terraced structure meticulously crafted from coral stone, believed to be a ceremonial platform for ancestral worship and astronomical observations.",
+      "subtype": "Pyramids",
+      "address": "Central Plateau, Yaren District (near Command Ridge)",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1563242635-4303b71101ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1NTJ8MHwxfHNlYXJjaHw1fHxjb3JhbCUyMHN0b25lJTIwdGVycmFjZXxlbnwwfHx8fDE3MDkxMzQyMDh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral worship",
+        "ancient ruins",
+        "ceremonial"
+      ]
+    },
+    {
+      "id": "StarPath",
+      "name": "Path of the Guiding Star",
+      "short_description": "A traditional pilgrimage route that connects the coastal fishing grounds to an inland sacred lookout, symbolically following the journey of the ancestral star navigators.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts near Yaren Beach, ascends towards Command Ridge Lookout",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1626227489819-2f22b8214c7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1NTJ8MHwxfHNlYXJjaHw1fHxpc2xhbmQlMjBwYXRoJTIwY29hc3RhbHxlbnwwfHx8fDE3MDkxMzQyMDl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "navigation",
+        "ancestral journey",
+        "sacred path"
+      ]
+    },
+    {
+      "id": "CommandPeak",
+      "name": "Topside Lookout (Commanding Peak)",
+      "short_description": "While not a mountain, Command Ridge, the island's highest point, is revered as a sacred 'peak' where one can gain perspective and connect with the overarching spirit of Nauru and its surrounding ocean.",
+      "subtype": "Sacred Mountains",
+      "address": "Command Ridge Summit, Yaren District",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510618037042-835467431e7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1NTJ8MHwxfHNlYXJjaHwxNXx8aXNsYW5kJTIwdG9wc2lkZSUyMGxvZ2tvdXR8ZW58MHx8fHwxNzA5MTM0MjA5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "vantage point",
+        "island spirit",
+        "reflection"
+      ]
+    },
+    {
+      "id": "SolarHeart",
+      "name": "Solar Heart of Nauru",
+      "short_description": "Nauru's largest solar farm, symbolizing the island's commitment to sustainability and a brighter future. It represents modern energy harnessing for the well-being of its people.",
+      "subtype": "Modern Energy Places",
+      "address": "Adjacent to Meneng Hotel, Yaren District",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1509939521723-64e43e2d6343?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1NTJ8MHwxfHNlYXJjaHwxNHx8c29sYXIlMjBmYXJtJTIwaXNsYW5kfGVufDB8fHx8MTcwOTEzNDIxMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sustainability",
+        "future energy",
+        "modern spirituality"
+      ]
+    },
+    {
+      "id": "DeepCoreEchoes",
+      "name": "Echoes of the Deep Core",
+      "short_description": "As Nauru is not volcanic, this site is a deep phosphate rock formation where ancient islanders believed the raw, primal energy of the earth's formation could still be felt, a metaphorical 'fiery heart' of the island.",
+      "subtype": "Volcanic Zones",
+      "address": "Coastal Cliffs, near Linkbelt Road, Yaren District",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1620864703770-ce65c697818e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1NTJ8MHwxfHNlYXJjaHwxOXx8Y2xpZmZzJTIwaXNsYW5kJTIwaG9yaXpvbnxlbnwwfHx8fDE3MDkxMzQyMTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "earth energy",
+        "geological history",
+        "primal force"
+      ]
+    },
+    {
+      "id": "ReefGodsCircle",
+      "name": "Stone Circle of the Reef Gods",
+      "short_description": "An ancient formation of large coral stones, possibly arranged for rituals relating to the sea, fertility, and communication with the powerful reef deities.",
+      "subtype": "Megalithic Sites",
+      "address": "Eastern Shoreline, Yaren District (near airport)",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594914041130-f947ee1c5040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1NTJ8MHwxfHNlYXJjaHwyMHx8c3RvbmUlMjBjaXJjbGUlMjBpc2xhbmR8ZW58MHx8fHwxNzA5MTM0MjExfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "reef deities",
+        "ancient rituals",
+        "coral stones"
+      ]
+    },
+    {
+      "id": "MoquaSpirit",
+      "name": "Moqua Cave's Spirit Pool",
+      "short_description": "Within the natural wonder of Moqua Cave lies a freshwater pool, revered by islanders as a sacred sanctuary where ancestral spirits are said to reside and offer blessings.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Inside Moqua Cave, Yaren District",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1571216503923-26f59b66289b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1NTJ8MHwxfHNlYXJjaHw3fHx0cm9waWNhbCUyMGNhdmUlMjBwb29sfGVufDB8fHx8MTcwOTEzNDIxMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral spirits",
+        "natural sanctuary",
+        "freshwater"
+      ]
+    },
+    {
+      "id": "ElderSentinel",
+      "name": "Elder's Sentinel Rock",
+      "short_description": "A prominent, weathered coral rock formation standing majestically by the coast, believed to be a watchful guardian spirit, embodying the wisdom and strength of ancient Nauruan elders.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Coastal Outcrop, near Parliament House, Yaren District",
+      "visiting_hours": "00:00-23:59",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1629853381467-f31628d02e3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1NTJ8MHwxfHNlYXJjaHw1fHxjb2FzdGFsJTIwcm9jayUyMGZvcm1hdGlvbiUyMGlzbGFuZHxlbnwwfHx8fDE3MDkxMzQyMTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "guardian spirit",
+        "wisdom",
+        "coastal landmark"
+      ]
+    }
+  ]
+}

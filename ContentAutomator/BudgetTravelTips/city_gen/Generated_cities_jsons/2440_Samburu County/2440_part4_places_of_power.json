@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Samburu County",
+    "city_id": "2440"
+  },
+  "items": [
+    {
+      "id": "OLOKWEALTAR001",
+      "name": "Ololokwe's Sky Altar",
+      "short_description": "A revered ancient rock formation on Mount Ololokwe, believed to be a direct channel for ancestral spirits and used for rainmaking ceremonies.",
+      "subtype": "Ancient Temples",
+      "address": "Summit of Mount Ololokwe, Namunyak Conservancy, Samburu East",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596707323114-6b2a4b87c7b8",
+      "tags": [
+        "Ancestral Worship",
+        "Sacred Mountain",
+        "Rainmaking"
+      ]
+    },
+    {
+      "id": "NDOTOTEMPL002",
+      "name": "Ndoto Stone Circle of Elders",
+      "short_description": "An ancient arrangement of stones in the Ndoto Mountains, historically a meeting place for elders to resolve disputes and perform blessing rituals.",
+      "subtype": "Ancient Temples",
+      "address": "Near Serolipi, Ndoto Mountains, Samburu East",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/1769809/pexels-photo-1769809.jpeg",
+      "tags": [
+        "Elder Council",
+        "Ritual Site",
+        "Historical"
+      ]
+    },
+    {
+      "id": "LOROGHIROC003",
+      "name": "Loroghi Rock Shelter Shrine",
+      "short_description": "A secluded rock shelter within the Loroghi Hills, adorned with faded pictographs and considered a sacred place for healing and spiritual guidance.",
+      "subtype": "Ancient Temples",
+      "address": "Mid-Loroghi Hills, near Barsaloi, Samburu North",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Rock_art_at_Namoratunga.jpg/640px-Rock_art_at_Namoratunga.jpg",
+      "tags": [
+        "Healing",
+        "Rock Art",
+        "Ancestral Spirits"
+      ]
+    },
+    {
+      "id": "PORORITREA004",
+      "name": "Poror Itreana Sacred Tree Grove",
+      "short_description": "A grove of ancient acacia trees, each representing a generation, where important traditional ceremonies and prayers for fertility and prosperity are offered.",
+      "subtype": "Ancient Temples",
+      "address": "Along Ewaso Ng'iro River, near Archer's Post, Samburu East",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506454794132-8406f52e5057",
+      "tags": [
+        "Nature Worship",
+        "Fertility Rituals",
+        "Community Gathering"
+      ]
+    },
+    {
+      "id": "EWASONGIROSP001",
+      "name": "Ewaso Ng'iro Purification Spring",
+      "short_description": "A vital spring feeding the Ewaso Ng'iro River, revered for its pure waters believed to cleanse one's spirit and offer blessings for journeys.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Near Lodungokwe, along Ewaso Ng'iro River, Samburu East",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549419163-f26b5c3e6b77",
+      "tags": [
+        "Purification",
+        "Blessings",
+        "Water Source"
+      ]
+    },
+    {
+      "id": "WAMBAPURIF002",
+      "name": "Wamba Healing Well",
+      "short_description": "An ancient well in Wamba town, known for its consistent flow of cool water and traditional belief in its healing properties for various ailments.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Central Wamba Town, Samburu East",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1547481182-359f137e0e4b",
+      "tags": [
+        "Healing Waters",
+        "Community Well",
+        "Traditional Medicine"
+      ]
+    },
+    {
+      "id": "SUGUTAVALL003",
+      "name": "Suguta Valley Ancestral Soak",
+      "short_description": "A geothermal spring in the harsh Suguta Valley, where warriors traditionally bathed before battles for strength and spiritual protection.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Northern Suguta Valley, near Baragoi, Samburu North",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1532298679462-23c2a0d1e66c",
+      "tags": [
+        "Warrior Rituals",
+        "Geothermal",
+        "Spiritual Protection"
+      ]
+    },
+    {
+      "id": "NAMUNYAKSPR004",
+      "name": "Namunyak Sacred Grotto Spring",
+      "short_description": "Hidden within a rock grotto, this spring is a tranquil site for individual prayer and offerings, believed to connect one with the spirits of the wild.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Namunyak Conservancy, near Sarara Camp, Samburu East",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1589139369165-f8510a7f1e78",
+      "tags": [
+        "Nature Spirituality",
+        "Prayer Site",
+        "Wildlife Connection"
+      ]
+    },
+    {
+      "id": "OLMARALALPY001",
+      "name": "Ol Maralal Ancestral Cairn",
+      "short_description": "A large, ancient stone cairn on the outskirts of Maralal, traditionally used as a memorial for revered ancestors and a site for blessings.",
+      "subtype": "Pyramids",
+      "address": "5km East of Maralal Town, Samburu Central",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594917452331-50e417a8e718",
+      "tags": [
+        "Ancestral Memorial",
+        "Stone Structure",
+        "Blessing Site"
+      ]
+    },
+    {
+      "id": "LOROGHICONI002",
+      "name": "Loroghi Conical Hill of Spirits",
+      "short_description": "A naturally occurring conical hill in the Loroghi Range, its distinct shape is believed to draw spiritual energy and serves as a natural beacon for prayers.",
+      "subtype": "Pyramids",
+      "address": "Loroghi Hills, near Barsaloi-Maralal Road, Samburu North",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502391054363-2339d73d6b7b",
+      "tags": [
+        "Natural Formation",
+        "Spiritual Energy",
+        "Prayer Point"
+      ]
+    },
+    {
+      "id": "NDOTOMOUND003",
+      "name": "Ndoto Mountains Burial Mound",
+      "short_description": "An ancient, pyramid-like earth mound in the Ndoto Mountains, rumored to be the burial site of a legendary Samburu chief or prophet.",
+      "subtype": "Pyramids",
+      "address": "Ndoto Mountains, near Laisamis Junction, Samburu East",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Olmec_Pyramid_at_La_Venta.jpg/640px-Olmec_Pyramid_at_La_Venta.jpg",
+      "tags": [
+        "Ancient Burial",
+        "Legendary Site",
+        "Chief's Tomb"
+      ]
+    },
+    {
+      "id": "OLOKWEROCK004",
+      "name": "Ololokwe Rock Pinnacle",
+      "short_description": "A striking natural rock pinnacle on the slopes of Mount Ololokwe, resembling a towering monument, used by initiates for vision quests.",
+      "subtype": "Pyramids",
+      "address": "Lower slopes of Mount Ololokwe, Namunyak, Samburu East",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1500388481488-ea9e782d2251",
+      "tags": [
+        "Initiation Site",
+        "Vision Quest",
+        "Natural Monument"
+      ]
+    },
+    {
+      "id": "BARAGOIBTL001",
+      "name": "Baragoi Valley Peace Ground",
+      "short_description": "Site of historic inter-communal conflicts, now revered as a place where peace was brokered, embodying the struggle and resolution for survival.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Baragoi Valley, 10km North of Baragoi Town, Samburu North",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517454238719-2169b1d9b35b",
+      "tags": [
+        "Peace Treaty",
+        "Conflict Resolution",
+        "Historical Site"
+      ]
+    },
+    {
+      "id": "EWASONGIROW002",
+      "name": "Ewaso Ng'iro Warrior Stand",
+      "short_description": "A strategic river bend where Samburu warriors famously defended their cattle and territory, a symbol of courage and resilience.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Near Archer's Post Bridge, Ewaso Ng'iro River, Samburu East",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628173516369-0524021200b3",
+      "tags": [
+        "Warrior History",
+        "Defense Site",
+        "Courage"
+      ]
+    },
+    {
+      "id": "KISIMAENCO003",
+      "name": "Kisima Elder's Encampment",
+      "short_description": "The historical site of a significant council of elders during times of tribal warfare, where crucial decisions impacting the Samburu future were made.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Kisima Area, 20km South of Maralal, Samburu Central",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1516247072592-80b6299b92b6",
+      "tags": [
+        "Tribal Council",
+        "Strategic Decisions",
+        "Historical"
+      ]
+    },
+    {
+      "id": "SUGUTAVALL004",
+      "name": "Suguta Valley Survival Point",
+      "short_description": "A rugged and harsh location where Samburu herds historically endured extreme conditions, a testament to their adaptability and connection to the land.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Central Suguta Valley, Samburu North",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1551000627-2e2124d62c5e",
+      "tags": [
+        "Survival",
+        "Resilience",
+        "Nomadic History"
+      ]
+    },
+    {
+      "id": "OLDOINYOLEN001",
+      "name": "Ol Doinyo Lenkai's Sister Peak (Samburu)",
+      "short_description": "A local volcanic peak, distinct from the Tanzanian Ol Doinyo Lenkai, revered by Samburu as a sacred 'Mountain of God' for its powerful spiritual emanations.",
+      "subtype": "Volcanic Zones",
+      "address": "North of Lodungokwe, near the Great Rift Valley escarpment, Samburu East",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1520684705094-1a06f3b0c53a",
+      "tags": [
+        "Sacred Mountain",
+        "Volcanic Energy",
+        "Spirituality"
+      ]
+    },
+    {
+      "id": "KULALHOTSP002",
+      "name": "Mount Kulal Geothermal Springs",
+      "short_description": "Warm geothermal springs on the slopes of Mount Kulal, believed to be blessed by nature spirits and used for traditional healing baths.",
+      "subtype": "Volcanic Zones",
+      "address": "Lower slopes of Mount Kulal, near Korr, Samburu North",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547481182-359f137e0e4b",
+      "tags": [
+        "Geothermal Healing",
+        "Nature Spirits",
+        "Traditional Baths"
+      ]
+    },
+    {
+      "id": "HORRVALLEY003",
+      "name": "Horr Valley Lava Flow Shrine",
+      "short_description": "An ancient lava flow within the Horr Valley, where unique rock formations are seen as natural altars for offerings to the earth deities.",
+      "subtype": "Volcanic Zones",
+      "address": "Central Horr Valley, 30km East of Baragoi, Samburu North",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1610488665099-2a9121a97e68",
+      "tags": [
+        "Earth Deities",
+        "Lava Formations",
+        "Offerings"
+      ]
+    },
+    {
+      "id": "LOOSUKCAVE004",
+      "name": "Loosuk Volcanic Cave",
+      "short_description": "A large cave formed by ancient volcanic activity, used as a secluded site for spiritual introspection and seeking visions from the ancestors.",
+      "subtype": "Volcanic Zones",
+      "address": "Loosuk Plateau, 25km West of Maralal, Samburu Central",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1594917452331-50e417a8e718",
+      "tags": [
+        "Spiritual Retreat",
+        "Vision Seeking",
+        "Volcanic Cave"
+      ]
+    },
+    {
+      "id": "LOROGHIANC001",
+      "name": "Loroghi Ancestral Village Ruins",
+      "short_description": "Remains of an ancient Samburu settlement in the Loroghi Hills, offering insights into traditional architectural styles and communal living.",
+      "subtype": "Ancient Cities",
+      "address": "Upper Loroghi Hills, near Lolkunono, Samburu North",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gede_Ancient_Town_ruins.jpg/640px-Gede_Ancient_Town_ruins.jpg",
+      "tags": [
+        "Historical Settlement",
+        "Traditional Architecture",
+        "Archaeology"
+      ]
+    },
+    {
+      "id": "WAMBAOLDSET002",
+      "name": "Wamba Old Settlement Remains",
+      "short_description": "Traces of an early settlement at the site of present-day Wamba, believed to be a central gathering point for various Samburu clans.",
+      "subtype": "Ancient Cities",
+      "address": "Outskirts of Wamba Town, Samburu East",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1534066548773-633d062e75e9",
+      "tags": [
+        "Clan History",
+        "Communal Site",
+        "Early Settlement"
+      ]
+    },
+    {
+      "id": "NDOTOMTNEL003",
+      "name": "Ndoto Mountains Elder's Council Site",
+      "short_description": "A secluded plateau in the Ndoto Mountains, historically used as a prestigious gathering place for the most revered elders to make crucial community decisions.",
+      "subtype": "Ancient Cities",
+      "address": "Ndoto Mountains, near Loldire, Samburu East",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1531771694665-27ec491ff29d",
+      "tags": [
+        "Elder Leadership",
+        "Historical Gathering",
+        "Decision Making"
+      ]
+    },
+    {
+      "id": "MARALALANCE004",
+      "name": "Maralal Ancestral Kraal Site",
+      "short_description": "The foundational site of an ancient kraal that eventually grew into Maralal town, holding deep ancestral significance for the local community.",
+      "subtype": "Ancient Cities",
+      "address": "Northern Maralal Town, near Kenyatta Highway, Samburu Central",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549419163-f26b5c3e6b77",
+      "tags": [
+        "Foundational Site",
+        "Kraal History",
+        "Urban Origin"
+      ]
+    },
+    {
+      "id": "NDOTOCAVES001",
+      "name": "Ndoto Mountains Seclusion Caves",
+      "short_description": "A series of natural caves in the Ndoto Mountains, traditionally used by Samburu spiritual leaders and prophets for solitary meditation and seeking divine visions.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "High Ndoto Mountains, near Wamba, Samburu East",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1510688005391-7f8e3a241e12",
+      "tags": [
+        "Spiritual Retreat",
+        "Prophetic Visions",
+        "Meditation"
+      ]
+    },
+    {
+      "id": "LOROGHIHERM002",
+      "name": "Loroghi Hills Elder's Hermitage",
+      "short_description": "A secluded dwelling nestled in the Loroghi Hills, where revered Samburu elders would retreat to offer prayers and impart wisdom to initiates.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Remote Loroghi Hills, 15km West of Barsaloi, Samburu North",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1534066548773-633d062e75e9",
+      "tags": [
+        "Wisdom Sharing",
+        "Elderly Retreat",
+        "Initiation"
+      ]
+    },
+    {
+      "id": "KIRISIAFORE003",
+      "name": "Kirisia Forest Shaman's Dwelling",
+      "short_description": "A hidden, rustic dwelling within the Kirisia Forest, known as the abode of powerful local shamans and traditional healers seeking herbs and spiritual communion.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Deep within Kirisia Forest, near Maralal, Samburu Central",
+      "visiting_hours": "By appointment only",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1594917452331-50e417a8e718",
+      "tags": [
+        "Shamanism",
+        "Traditional Healing",
+        "Herbalism"
+      ]
+    },
+    {
+      "id": "SARARASPA004",
+      "name": "Sarara Springs Spiritual Sanctuary",
+      "short_description": "A tranquil, naturally secluded area around a series of springs in Namunyak, used by Samburu for solitary contemplation and connecting with nature spirits.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Namunyak Conservancy, near Sarara Camp, Samburu East",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1547481182-359f137e0e4b",
+      "tags": [
+        "Nature Connection",
+        "Solitude",
+        "Spiritual Growth"
+      ]
+    },
+    {
+      "id": "OLOKWEASCE001",
+      "name": "Mount Ololokwe Ascent Path",
+      "short_description": "The sacred trail leading to the summit of Mount Ololokwe, undertaken as a spiritual pilgrimage for blessings and ancestral connection.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Base of Mount Ololokwe, Namunyak Conservancy, Samburu East",
+      "visiting_hours": "06:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1510688005391-7f8e3a241e12",
+      "tags": [
+        "Sacred Journey",
+        "Mountain Climb",
+        "Ancestral Connection"
+      ]
+    },
+    {
+      "id": "EWASONGIROB002",
+      "name": "Ewaso Ng'iro Blessing Trail",
+      "short_description": "A traditional route along the Ewaso Ng'iro River, followed by pastoralists for seasonal migrations, believed to bring blessings to their herds.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Along Ewaso Ng'iro River, from Archer's Post to Lodungokwe, Samburu East",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628173516369-0524021200b3",
+      "tags": [
+        "Pastoral Migration",
+        "Cattle Blessing",
+        "Nomadic Route"
+      ]
+    },
+    {
+      "id": "NDOTOMTPIL003",
+      "name": "Ndoto Mountains Healing Journey",
+      "short_description": "A challenging route through the Ndoto Mountains, undertaken by those seeking spiritual healing or guidance from reclusive elders and shamans.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts from Serolipi, leading into Ndoto Mountains, Samburu East",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549419163-f26b5c3e6b77",
+      "tags": [
+        "Healing Journey",
+        "Spiritual Guidance",
+        "Mountain Trek"
+      ]
+    },
+    {
+      "id": "KIRISIAGRAZ004",
+      "name": "Kirisia Forest Grazing Route",
+      "short_description": "An ancient path within the Kirisia Forest, used by herders to access sacred grazing grounds, believed to ensure the health and abundance of their livestock.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Kirisia Forest, starting near Maralal, Samburu Central",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506454794132-8406f52e5057",
+      "tags": [
+        "Sacred Grazing",
+        "Livestock Blessings",
+        "Forest Path"
+      ]
+    },
+    {
+      "id": "BARAGOIMKT001",
+      "name": "Baragoi Market Crossroads",
+      "short_description": "A bustling historical market hub where different communities and nomadic routes intersect, symbolizing cultural exchange and vital social connections.",
+      "subtype": "Crossroads",
+      "address": "Central Baragoi Town, Samburu North",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517454238719-2169b1d9b35b",
+      "tags": [
+        "Cultural Exchange",
+        "Trade Route",
+        "Community Hub"
+      ]
+    },
+    {
+      "id": "EWASONGIROCO02",
+      "name": "Ewaso Ng'iro River Confluence Point",
+      "short_description": "The symbolic meeting point of two major river branches, a place of profound natural power and traditional site for peace talks and resource sharing.",
+      "subtype": "Crossroads",
+      "address": "North of Lodungokwe, where tributaries meet Ewaso Ng'iro, Samburu East",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549419163-f26b5c3e6b77",
+      "tags": [
+        "Natural Confluence",
+        "Peace Talks",
+        "Resource Sharing"
+      ]
+    },
+    {
+      "id": "MARALALJUNCT003",
+      "name": "Maralal Junction of Clans",
+      "short_description": "A historic meeting point near Maralal, where different Samburu clans traditionally gathered for festivals, ceremonies, and significant communal decisions.",
+      "subtype": "Crossroads",
+      "address": "5km South of Maralal Town, along main road, Samburu Central",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1516247072592-80b6299b92b6",
+      "tags": [
+        "Clan Meetings",
+        "Festivals",
+        "Communal Decisions"
+      ]
+    },
+    {
+      "id": "WAIRIMATRAD004",
+      "name": "Wairima Ancient Trade Route",
+      "short_description": "A historical crossroads of ancient trade paths that connected Samburu with neighboring communities, symbolizing ancient commerce and cultural diffusion.",
+      "subtype": "Crossroads",
+      "address": "Near Wairima Village, 20km West of Wamba, Samburu East",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502391054363-2339d73d6b7b",
+      "tags": [
+        "Ancient Trade",
+        "Cultural Diffusion",
+        "Historical Path"
+      ]
+    },
+    {
+      "id": "RETETIELEPH001",
+      "name": "Reteti Elephant Sanctuary",
+      "short_description": "A community-owned and run elephant orphanage, representing modern Samburu conservation efforts and a spiritual connection to wildlife.",
+      "subtype": "Modern Energy Places",
+      "address": "Namunyak Conservancy, near Namunyak Wildlife Trust, Samburu East",
+      "visiting_hours": "09:00-12:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1590483259968-38b4d8d1797c",
+      "tags": [
+        "Conservation",
+        "Community Empowerment",
+        "Wildlife Spirituality"
+      ]
+    },
+    {
+      "id": "SAMBURUWOM002",
+      "name": "Samburu Women's Cultural Center",
+      "short_description": "A vibrant center in Maralal showcasing Samburu women's artistry, traditional skills, and entrepreneurship, fostering cultural preservation and empowerment.",
+      "subtype": "Modern Energy Places",
+      "address": "Maralal Town, along Samburu Road, Samburu Central",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620296766782-990799426f43",
+      "tags": [
+        "Cultural Revival",
+        "Women's Empowerment",
+        "Art & Craft"
+      ]
+    },
+    {
+      "id": "WAMBAYOUTHC003",
+      "name": "Wamba Youth Empowerment Hub",
+      "short_description": "A contemporary gathering place for Samburu youth, focusing on education, skill development, and preserving cultural identity in a changing world.",
+      "subtype": "Modern Energy Places",
+      "address": "Wamba Town, near County Offices, Samburu East",
+      "visiting_hours": "08:30-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582218084260-295b9a89d4d8",
+      "tags": [
+        "Youth Development",
+        "Cultural Education",
+        "Community Progress"
+      ]
+    },
+    {
+      "id": "KALAMANDRIF004",
+      "name": "Kalamandiri Drought Resilience Project",
+      "short_description": "A groundbreaking community-led initiative addressing climate change impacts through sustainable practices, embodying hope and resilience for the future.",
+      "subtype": "Modern Energy Places",
+      "address": "Kalamandiri Village, 30km South of Baragoi, Samburu North",
+      "visiting_hours": "By appointment only",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506454794132-8406f52e5057",
+      "tags": [
+        "Climate Resilience",
+        "Sustainable Living",
+        "Community Innovation"
+      ]
+    }
+  ]
+}

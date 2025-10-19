@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Sokoto",
+    "city_id": "2462"
+  },
+  "items": [
+    {
+      "id": "SOK-VZ-001",
+      "name": "Upland of Whispering Obsidian",
+      "short_description": "An ancient volcanic remnant site, believed to channel the earth's primal energy and used by elders for divination and seeking wisdom from deep geological forces.",
+      "subtype": "Volcanic Zones",
+      "address": "Near Gada Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549646401-496517a6c6c7",
+      "tags": [
+        "geological wonder",
+        "divination",
+        "earth energy"
+      ]
+    },
+    {
+      "id": "SOK-VZ-002",
+      "name": "Ash Hills of the Ancestors",
+      "short_description": "Gently sloping hills composed of ancient volcanic ash, revered as the resting place of early settlers and believed to hold their enduring spirits and communal memories.",
+      "subtype": "Volcanic Zones",
+      "address": "Off Goronyo-Binji Road, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563725586617-640a33a92984",
+      "tags": [
+        "ancestral site",
+        "sacred landscape",
+        "historical lore"
+      ]
+    },
+    {
+      "id": "SOK-VZ-003",
+      "name": "Geothermal Grotto of Serenity",
+      "short_description": "A secluded grotto fed by a warm, subterranean spring, its waters are believed to possess profound healing properties derived from the earth's ancient, dormant heat.",
+      "subtype": "Volcanic Zones",
+      "address": "Remote area east of Bodinga, Sokoto State, Nigeria",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1510343354432-6a6873138b1f",
+      "tags": [
+        "healing waters",
+        "geothermal spring",
+        "meditation spot"
+      ]
+    },
+    {
+      "id": "SOK-VZ-004",
+      "name": "The Crystal Vents of Creation",
+      "short_description": "Sites where unique mineral crystals, formed by ancient volcanic activity, emerge from the earth, revered for their vibrant energy and believed to be conduits of life force.",
+      "subtype": "Volcanic Zones",
+      "address": "North of Tambuwal, near Kebbi State border, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount (NGN 500)",
+      "images": "https://images.unsplash.com/photo-1589134440539-72c67675e2a2",
+      "tags": [
+        "mineral site",
+        "earth energy",
+        "creation myths"
+      ]
+    },
+    {
+      "id": "SOK-MRF-001",
+      "name": "Gigantic Camel Rock of Gandu",
+      "short_description": "A massive, naturally sculpted rock formation resembling a resting camel, revered as a symbol of endurance, guidance, and spiritual journeys across the desert.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Gandu Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596495394200-a681329c36a6",
+      "tags": [
+        "natural landmark",
+        "desert symbolism",
+        "pilgrimage"
+      ]
+    },
+    {
+      "id": "SOK-MRF-002",
+      "name": "Whispering Stone Arches of Wurno",
+      "short_description": "Natural rock arches where the desert wind creates haunting, melodic sounds, believed to be the ethereal voices of ancient griots and storytellers.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Wurno Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1591526462413-5847672221b6",
+      "tags": [
+        "wind-carved",
+        "ancestral voices",
+        "natural acoustics"
+      ]
+    },
+    {
+      "id": "SOK-MRF-003",
+      "name": "The Twelve Pillars of Shagari",
+      "short_description": "A cluster of twelve distinct, towering rock pillars, said to represent the twelve foundational ancient clans of the region, embodying their unity and strength.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "South of Shagari, Sokoto State, Nigeria",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1544075193-4a169b2b5125",
+      "tags": [
+        "clan history",
+        "sacred pillars",
+        "tribal heritage"
+      ]
+    },
+    {
+      "id": "SOK-MRF-004",
+      "name": "Mystic Mushroom Rocks of Silame",
+      "short_description": "Unique mushroom-shaped rock formations, sculpted by millennia of erosion, seen as symbols of the earth's nurturing power and the resilience of life in arid lands.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Silame Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount (NGN 300)",
+      "images": "https://images.unsplash.com/photo-1563456381-817457731778",
+      "tags": [
+        "erosion art",
+        "earth symbolism",
+        "natural sculpture"
+      ]
+    },
+    {
+      "id": "SOK-HSW-001",
+      "name": "Rima River Source Spring",
+      "short_description": "The revered source of a vital tributary to the Rima River, its pure, flowing waters are believed to possess ancient healing properties and spiritual cleansing power.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Near Gwadabawa, where tributaries feed into the Rima River, Sokoto State, Nigeria",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563185382-f5f4b2383c8a",
+      "tags": [
+        "healing water",
+        "river source",
+        "spiritual cleansing"
+      ]
+    },
+    {
+      "id": "SOK-HSW-002",
+      "name": "Well of the Prophet's Blessings",
+      "short_description": "An ancient community well, said to have been blessed by a holy figure centuries ago, its water is sought after for its miraculous healing and protective qualities.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Old Quarter, Sokoto City, Sokoto State, Nigeria",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579782539075-e8d3568916d2",
+      "tags": [
+        "blessed well",
+        "healing properties",
+        "religious site"
+      ]
+    },
+    {
+      "id": "SOK-HSW-003",
+      "name": "The Moonlit Oasis Spring",
+      "short_description": "A tranquil natural spring nestled within a secluded desert oasis, believed to possess heightened spiritual energy and a unique calm during the full moon phases.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Remote area west of Dange-Shuni, Sokoto State, Nigeria",
+      "visiting_hours": "24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1522851259688-e2187f54070a",
+      "tags": [
+        "desert oasis",
+        "lunar ritual",
+        "tranquil spot"
+      ]
+    },
+    {
+      "id": "SOK-HSW-004",
+      "name": "Birni Well of Ancestral Wisdom",
+      "short_description": "An ancient well, central to the founding of a historical settlement, believed to connect those who drink from it to the collective wisdom and stories of their ancestors.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Old Birni Village, North-East Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1510411850389-c4547908c691",
+      "tags": [
+        "founding site",
+        "ancestral connection",
+        "historical well"
+      ]
+    },
+    {
+      "id": "SOK-AC-001",
+      "name": "Ruins of Gobirawa Walled City",
+      "short_description": "The impressive remains of a formidable pre-Caliphate walled city, steeped in legends of powerful kings, fierce warriors, and a vibrant, long-lost civilization.",
+      "subtype": "Ancient Cities",
+      "address": "Near Gada Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount (NGN 1000)",
+      "images": "https://images.unsplash.com/photo-1573041933083-d9d3f1d8c1e4",
+      "tags": [
+        "archaeological site",
+        "pre-caliphate",
+        "ancient history"
+      ]
+    },
+    {
+      "id": "SOK-AC-002",
+      "name": "Old Birnin Kwandawa Foundations",
+      "short_description": "Subterranean ruins believed to be the deep foundations of an even older city beneath the present, revealing layers of human history and lost civilizations of the region.",
+      "subtype": "Ancient Cities",
+      "address": "Kwandawa, near Wamakko, Sokoto State, Nigeria",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "fixed amount (NGN 750)",
+      "images": "https://images.unsplash.com/photo-1528646698991-6284242e2b34",
+      "tags": [
+        "subterranean ruins",
+        "archaeological dig",
+        "lost city"
+      ]
+    },
+    {
+      "id": "SOK-AC-003",
+      "name": "Sokoto Caliphate's First Capital Remnants",
+      "short_description": "The sacred archaeological remnants of Degel, the initial settlement and first capital of the Sokoto Caliphate, marking the pivotal birth of a powerful Islamic empire.",
+      "subtype": "Ancient Cities",
+      "address": "Degel, near Sokoto City, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1576081498679-05244955b9e0",
+      "tags": [
+        "caliphate history",
+        "islamic heritage",
+        "historical landmark"
+      ]
+    },
+    {
+      "id": "SOK-AC-004",
+      "name": "Akwatashi Merchant Town Remains",
+      "short_description": "The evocative ruins of a once-thriving ancient merchant town, believed to have been blessed with enduring prosperity and strategic trade routes, now a site of reflection.",
+      "subtype": "Ancient Cities",
+      "address": "Akwatashi, Bodinga Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1558913926-d27a4e6a88b8",
+      "tags": [
+        "trade history",
+        "ancient economy",
+        "prosperity blessings"
+      ]
+    },
+    {
+      "id": "SOK-RST-001",
+      "name": "Tomb of Usman Dan Fodio's First Disciple",
+      "short_description": "The revered resting place of one of Sheikh Usman Dan Fodio's earliest and most devoted followers, serving as a tranquil site for quiet contemplation and spiritual seeking.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Southern Sokoto, near Bodinga, Sokoto State, Nigeria",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1620253818967-b508f7f52554",
+      "tags": [
+        "islamic saint",
+        "sufi heritage",
+        "pilgrimage site"
+      ]
+    },
+    {
+      "id": "SOK-RST-002",
+      "name": "Shrine of the Warrior Queen Nana Asmau's Legacy",
+      "short_description": "A memorial shrine dedicated to Nana Asmau, revered for her scholarship, poetry, and leadership, inspiring female empowerment and education across generations.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Sultan Bello Road, Sokoto City, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1589139257-89774640d21a",
+      "tags": [
+        "female leadership",
+        "islamic scholar",
+        "educational heritage"
+      ]
+    },
+    {
+      "id": "SOK-RST-003",
+      "name": "The Sufi Elder's Relic Chamber",
+      "short_description": "A secluded chamber within the old city walls, holding personal effects and ancient teachings of a revered Sufi saint, visited by devotees for blessings and spiritual wisdom.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Hidden within the old city walls, Sokoto City, Sokoto State, Nigeria",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1559952528-98e91983eb05",
+      "tags": [
+        "sufi saint",
+        "spiritual artifacts",
+        "blessing site"
+      ]
+    },
+    {
+      "id": "SOK-RST-004",
+      "name": "Sacred Burial Grounds of the Nine Clan Leaders",
+      "short_description": "An ancient burial ground for the legendary founders of the region's nine original clans, believed to hold the collective wisdom and protective spirits of the ancestors.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Near Sifawa, Bodinga Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "24 hours (respectful visits)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1598460678850-d46e297825d1",
+      "tags": [
+        "ancestral graveyard",
+        "clan founders",
+        "historical reverence"
+      ]
+    },
+    {
+      "id": "SOK-SF-001",
+      "name": "Gandi Sacred Grove of the Baobabs",
+      "short_description": "A protected grove of ancient, majestic baobab trees, believed to be the vigilant guardians of the land and repositories of ancestral spirits and ancient knowledge.",
+      "subtype": "Sacred Forests",
+      "address": "Gandi, Rabah Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1620455850974-2792d4f29107",
+      "tags": [
+        "baobab trees",
+        "ancestral spirits",
+        "nature sanctuary"
+      ]
+    },
+    {
+      "id": "SOK-SF-002",
+      "name": "Kwalkwalawa Riverine Sanctuary",
+      "short_description": "A lush, verdant forest thriving along the banks of the Kwalkwalawa River, revered for its rich biodiversity and believed to be a place of potent natural healing and rejuvenation.",
+      "subtype": "Sacred Forests",
+      "address": "Along Kwalkwalawa River, South-East of Sokoto City, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount (NGN 400)",
+      "images": "https://images.unsplash.com/photo-1602495682705-728b1b369234",
+      "tags": [
+        "biodiversity",
+        "healing nature",
+        "river ecosystem"
+      ]
+    },
+    {
+      "id": "SOK-SF-003",
+      "name": "The Wise Elders' Forest Retreat",
+      "short_description": "A dense, ancient patch of old-growth trees, historically utilized by spiritual leaders for deep meditation, ceremonial gatherings, and communing with nature's wisdom.",
+      "subtype": "Sacred Forests",
+      "address": "Remote area near Wamakko, Sokoto State, Nigeria",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1507613386-81c8b3260ccb",
+      "tags": [
+        "meditation space",
+        "ancient trees",
+        "spiritual retreat"
+      ]
+    },
+    {
+      "id": "SOK-SF-004",
+      "name": "Forest of the Sacred Monkeys",
+      "short_description": "A unique forest where a specific species of monkey is considered sacred, believed to act as playful messengers between the human and spirit worlds.",
+      "subtype": "Sacred Forests",
+      "address": "Near Tabanni, Sokoto East, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount (NGN 500)",
+      "images": "https://images.unsplash.com/photo-1601672658814-1f19f20e3a07",
+      "tags": [
+        "sacred animals",
+        "wildlife sanctuary",
+        "messenger spirits"
+      ]
+    },
+    {
+      "id": "SOK-L-001",
+      "name": "Desert Sandstone Maze of Wisdom",
+      "short_description": "Naturally eroded sandstone formations creating a bewildering, maze-like network of paths, believed to offer clarity and profound insights to those who navigate its twists and turns.",
+      "subtype": "Labyrinths",
+      "address": "Remote area near Isa Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517596814249-166297371d3c",
+      "tags": [
+        "natural maze",
+        "spiritual journey",
+        "introspection"
+      ]
+    },
+    {
+      "id": "SOK-L-002",
+      "name": "The Serpent's Coil Stone Path",
+      "short_description": "An ancient, winding stone path intricately designed to mimic the journey of life and enlightenment, leading pilgrims to a central, sacred point of reflection.",
+      "subtype": "Labyrinths",
+      "address": "Ancient site near Kware, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1505705307374-245842825d7c",
+      "tags": [
+        "ritual path",
+        "enlightenment",
+        "stone art"
+      ]
+    },
+    {
+      "id": "SOK-L-003",
+      "name": "Underground River Grotto Labyrinth",
+      "short_description": "A fascinating network of underground passages and chambers carved by an ancient river, explored for spiritual introspection and connection to the mysterious underworld.",
+      "subtype": "Labyrinths",
+      "address": "Hidden entrance near Sokoto-Gusau Road, Sokoto State, Nigeria",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "fixed amount (NGN 1500)",
+      "images": "https://images.unsplash.com/photo-1504930263688-a3f11d1e442c",
+      "tags": [
+        "cave system",
+        "underworld connection",
+        "geological wonder"
+      ]
+    },
+    {
+      "id": "SOK-L-004",
+      "name": "The Ritual Circuit of the Djenne Traders",
+      "short_description": "An ancient earthwork path, believed to have been used by Djenne traders for protective rituals before long journeys, guiding them safely and ensuring prosperity.",
+      "subtype": "Labyrinths",
+      "address": "Historic trade route near Goronyo, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506195764032-1b1e9b2c5b3c",
+      "tags": [
+        "trade history",
+        "ritual path",
+        "ancient earthwork"
+      ]
+    },
+    {
+      "id": "SOK-SM-001",
+      "name": "Mount Kodingo of Ascetic Sages",
+      "short_description": "A prominent isolated hill, historically a revered retreat for spiritual ascetics seeking profound enlightenment, solitude, and communion with the divine.",
+      "subtype": "Sacred Mountains",
+      "address": "Kodingo, Wamakko Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1518778844510-9111867c87c1",
+      "tags": [
+        "ascetic retreat",
+        "solitude",
+        "spiritual enlightenment"
+      ]
+    },
+    {
+      "id": "SOK-SM-002",
+      "name": "The Whispering Summit of Dange",
+      "short_description": "A revered hill where local traditions hold that ancestral spirits communicate through the gentle rustling of the wind, offering guidance and blessings to the community.",
+      "subtype": "Sacred Mountains",
+      "address": "Dange-Shuni Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1562947936-ce47b2c556b6",
+      "tags": [
+        "ancestral communication",
+        "wind lore",
+        "community guidance"
+      ]
+    },
+    {
+      "id": "SOK-SM-003",
+      "name": "Goronyo Rock of Visions",
+      "short_description": "A large, distinctive flat-topped inselberg, believed to be a sacred place where spiritual leaders once received profound visions and prophetic insights for the land.",
+      "subtype": "Sacred Mountains",
+      "address": "Goronyo Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1632766343542-a5e1e124d5e1",
+      "tags": [
+        "prophetic site",
+        "vision quest",
+        "natural landmark"
+      ]
+    },
+    {
+      "id": "SOK-SM-004",
+      "name": "Tabanni Hill of Pilgrimage",
+      "short_description": "A significant hill where annual pilgrimages are made, particularly during harvest season, to offer thanks and seek blessings for fertility and abundant harvests.",
+      "subtype": "Sacred Mountains",
+      "address": "Tabanni Village, North-East Sokoto, Sokoto State, Nigeria",
+      "visiting_hours": "24 hours (pilgrimage access)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1601625902094-bf8357f189c4",
+      "tags": [
+        "pilgrimage",
+        "fertility blessings",
+        "harvest rituals"
+      ]
+    },
+    {
+      "id": "SOK-CAS-001",
+      "name": "Sun-Dagger of the Equinox",
+      "short_description": "An ancient rock formation with a narrow opening that precisely aligns with the sun on the equinoxes, historically marking critical planting and harvest times.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Near Binji Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "07:00-18:00 (special equinox access)",
+      "entry_fee": "fixed amount (NGN 800)",
+      "images": "https://images.unsplash.com/photo-1579737152010-3b0f55c2d139",
+      "tags": [
+        "solstice site",
+        "ancient astronomy",
+        "agricultural calendar"
+      ]
+    },
+    {
+      "id": "SOK-CAS-002",
+      "name": "Lunar Crescent Observation Point",
+      "short_description": "A crescent-shaped natural depression or ancient stone arrangement, used for centuries by local sages to meticulously observe and mark the sacred phases of the moon.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Remote area west of Sokoto City, Sokoto State, Nigeria",
+      "visiting_hours": "24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1616429399433-281b37494488",
+      "tags": [
+        "lunar observation",
+        "astronomical site",
+        "ancient rituals"
+      ]
+    },
+    {
+      "id": "SOK-CAS-003",
+      "name": "The Star Gazer's Plateau",
+      "short_description": "A high, flat plateau with minimal light pollution, historically used by ancient astronomers and spiritual guides for profound study of the stars and their cosmic influence.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Northern reaches of Sokoto State, near Niger border, Nigeria",
+      "visiting_hours": "24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1507960164634-8c010d7a040b",
+      "tags": [
+        "stargazing",
+        "ancient astronomy",
+        "cosmic connection"
+      ]
+    },
+    {
+      "id": "SOK-CAS-004",
+      "name": "Comet Stone Circle of Guidance",
+      "short_description": "An enigmatic ancient stone circle believed to have been erected after a significant comet sighting, serving as a beacon of cosmic guidance and protection for the community.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "South of Shagari Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1541344605967-171ef9998126",
+      "tags": [
+        "stone circle",
+        "comet lore",
+        "cosmic guidance"
+      ]
+    },
+    {
+      "id": "SOK-DPS-001",
+      "name": "The Singing Sands of Kware",
+      "short_description": "Specific desert dunes that, under certain wind conditions, produce a low, ethereal humming sound, believed to be the ancient desert spirits communicating with the land.",
+      "subtype": "Desert Power Sites",
+      "address": "Desert fringe near Kware, Sokoto State, Nigeria",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1534067981358-8686615b3644",
+      "tags": [
+        "singing dunes",
+        "desert spirits",
+        "natural phenomenon"
+      ]
+    },
+    {
+      "id": "SOK-DPS-002",
+      "name": "Oasis of Silent Reflection",
+      "short_description": "A small, secluded oasis deep within the desert, revered for its profound tranquility and its unique ability to foster deep spiritual contemplation and inner peace.",
+      "subtype": "Desert Power Sites",
+      "address": "Deep desert, South-West of Sokoto State, Nigeria",
+      "visiting_hours": "24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1616239103855-6c702a46599b",
+      "tags": [
+        "desert oasis",
+        "meditation spot",
+        "tranquility"
+      ]
+    },
+    {
+      "id": "SOK-DPS-003",
+      "name": "The Wind-Swept Ancestral Stones",
+      "short_description": "Isolated standing stones scattered across the vast desert, believed to be petrified ancestors or markers of powerful energy conduits traversing the arid plains.",
+      "subtype": "Desert Power Sites",
+      "address": "East of Isa Local Government Area, Sokoto State, Nigeria",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563189914-cd5a87723223",
+      "tags": [
+        "ancestral markers",
+        "desert energy",
+        "sacred stones"
+      ]
+    },
+    {
+      "id": "SOK-DPS-004",
+      "name": "Salt Flats of Purification",
+      "short_description": "Expansive, shimmering salt flats, historically used by indigenous communities for powerful purification rituals and believed to cleanse both the spirit and body.",
+      "subtype": "Desert Power Sites",
+      "address": "Near the wetlands of Goronyo, Sokoto State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1555677042-e1d8858d4e73",
+      "tags": [
+        "purification rituals",
+        "salt plains",
+        "spiritual cleansing"
+      ]
+    }
+  ]
+}

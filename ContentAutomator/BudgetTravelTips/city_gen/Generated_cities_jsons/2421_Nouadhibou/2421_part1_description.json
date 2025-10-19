@@ -1,0 +1,67 @@
+{
+  "id": "2421",
+  "name": "Nouadhibou",
+  "country": "Mauritania",
+  "description": "Nouadhibou, Mauritania’s second-largest city and primary economic engine, is a captivating coastal hub situated on a slender peninsula extending into the Atlantic. This bustling port city thrives on its extensive fishing industry and serves as the crucial terminus for the Mauritania Railway, transporting vast quantities of iron ore from the nation's interior. Visitors are drawn to Nouadhibou for its unique blend of desert and ocean landscapes, offering a raw, authentic glimpse into the daily life of Mauritania. Key highlights include the Cap Blanc peninsula, a protected natural reserve renowned for housing a small, critically endangered population of Mediterranean monk seals, one of the last remaining in the world. Equally iconic, though in a more somber way, is the infamous ship graveyard—an expansive, eerie collection of rusting vessels that line the coast, creating a hauntingly beautiful and photogenic spectacle. The city’s vibrant central market is a sensory overload, bustling with activity, offering everything from freshly caught fish and seafood to traditional textiles, spices, and artisanal crafts, reflecting the strong Hassaniya Arab and Berber cultural influences prevalent in the region. While tourist infrastructure is nascent, the warmth and hospitality of its people, coupled with the stark beauty of its surroundings, make Nouadhibou a truly memorable, off-the-beaten-path destination. Engaging with local fishermen, witnessing the dynamic port activities, or simply observing the dramatic confluence of the Sahara Desert and the Atlantic Ocean are quintessential Nouadhibou experiences. The city acts as a gateway to the vast, undeveloped desert to its east, though most points of interest are concentrated along the peninsula. Its unpolished charm, strategic importance, and unique natural and industrial attractions provide a distinct travel experience for those seeking adventure beyond conventional tourism, deeply embedding visitors in the rhythm of Mauritanian coastal life.",
+  "themes": [
+    "Coastal",
+    "Desert",
+    "Fishing",
+    "Port City",
+    "Authentic Culture"
+  ],
+  "body_attributes": {
+    "climate": "Hot desert climate (Köppen: BWh) tempered by coastal winds, making it milder than inland desert areas. Summers are warm to hot, winters are mild.",
+    "best_time_to_visit": "November to April, when temperatures are cooler and more pleasant.",
+    "population": "150,000",
+    "area": "approx. 100 sq km",
+    "transport_summary": "Primarily shared taxis (local and inter-city) for getting around the city and connecting to other towns like Nouakchott. A limited bus service is also available.",
+    "safety_level": "Medium",
+    "geographical_features": "Located on a long, narrow peninsula (Ras Nouadhibou or Cap Blanc peninsula) forming the Dakhlet Nouadhibou bay. Bordered by the Atlantic Ocean to the west and the bay to the east, with desert landscapes immediately east of the city."
+  },
+  "travel_tips": [
+    "Dress modestly, especially women, to respect local Islamic customs and traditions.",
+    "Stay hydrated, even in cooler months, and protect yourself from the intense sun.",
+    "Learn a few basic Arabic (Hassaniya dialect) or French phrases; English is not widely spoken.",
+    "Be mindful of photography, especially of people; always ask for permission before taking pictures."
+  ],
+  "budget_tips": [
+    "Eat at local eateries and markets for affordable, authentic Mauritanian meals.",
+    "Utilize shared taxis (taxi brousse or collective taxis) for cost-effective inter-city travel and local commutes.",
+    "Bargain respectfully when shopping in markets for souvenirs or goods; it's a common practice.",
+    "Opt for guesthouses or smaller, family-run hotels outside the main port area for better value accommodation."
+  ],
+  "seo": {
+    "seo_title": "Nouadhibou Travel Guide: Mauritania's Coastal Gateway & Ship Graveyard",
+    "seo_description": "Explore Nouadhibou, Mauritania's bustling port city. Discover its unique coastal desert landscape, vibrant fishing culture, Cap Blanc monk seals, and the infamous ship graveyard.",
+    "keywords": [
+      "Nouadhibou travel",
+      "Mauritania coast",
+      "Cap Blanc",
+      "ship graveyard",
+      "fishing port",
+      "Mauritania tourism",
+      "desert coast"
+    ]
+  },
+  "meta": {
+    "continent": "Africa",
+    "currency": "Mauritanian Ouguiya (MRU)",
+    "language": "Arabic (Hassaniya dialect), French",
+    "time_zone": "GMT (Greenwich Mean Time)",
+    "popular_airlines": [
+      "Mauritania Airlines International",
+      "Royal Air Maroc",
+      "Air France"
+    ]
+  },
+  "title": "Nouadhibou: Mauritania's Iron Heart, Coastal Wonders & Shipwrecked Tales",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e6/Vue_de_la_ville_de_Nouadhibou.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e2/Port_de_p%C3%AAche_Nouadhibou.jpg"
+  ],
+  "coordinates": [
+    20.94251823425293,
+    -17.036226272583008
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Nema",
+    "city_id": "2420"
+  },
+  "items": [
+    {
+      "id": "BD-001",
+      "name": "The Field of Whispers",
+      "short_description": "A hallowed plain where the Battle of Aethel determined Nema's independence, believed to still echo with the spirits of fallen heroes. It's a place for quiet reflection on sacrifice and freedom.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Aethel Plains, Nema",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549757620-3b48325b3310?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "heroic",
+        "remembrance",
+        "historical"
+      ]
+    },
+    {
+      "id": "BD-002",
+      "name": "Serpent's Pass Memorial",
+      "short_description": "Commemorates the ancient skirmish that unified the nomadic tribes of Nema, turning a strategic mountain pass into a symbol of unity and overcoming division.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Serpent's Pass, Nema Highlands, Nema",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1518098268026-6275d4d62593?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "unity",
+        "mountain",
+        "ancient"
+      ]
+    },
+    {
+      "id": "BD-003",
+      "name": "The Sunken Citadel Battlegrounds",
+      "short_description": "The underwater ruins of a coastal city, site of a legendary battle against an encroaching sea entity. Divers visit to meditate on resilience against overwhelming forces.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Off the Whisperwind Coast, Nema",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "50 NCD",
+      "images": "https://images.unsplash.com/photo-1547847775-fe087799b45b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "underwater",
+        "resilience",
+        "legendary"
+      ]
+    },
+    {
+      "id": "BD-004",
+      "name": "Skywatcher's Ridge Conflict Site",
+      "short_description": "Where ancient astrologers and protectors defended Nema from a celestial threat, leaving behind scattered artifacts and an enduring sense of cosmic vigilance.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Skywatcher's Ridge, Stellar Peaks, Nema",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "10 NCD",
+      "images": "https://images.unsplash.com/photo-1692225881472-f67f67756f93?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cosmic",
+        "astronomy",
+        "defense"
+      ]
+    },
+    {
+      "id": "DPS-001",
+      "name": "The Singing Sands Dunes",
+      "short_description": "Vast dunes known for their unique acoustical phenomena, believed to be the ancient whispers of desert spirits or a natural amplifier of Earth's energies.",
+      "subtype": "Desert Power Sites",
+      "address": "Azure Desert, Nema",
+      "visiting_hours": "06:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1507725914619-ec12a514b8a2?q=80&w=2803&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "acoustics",
+        "desert",
+        "spiritual"
+      ]
+    },
+    {
+      "id": "DPS-002",
+      "name": "Sunstone Obelisk Field",
+      "short_description": "A scattering of naturally formed obelisks that glow faintly at dawn and dusk, said to be charged with solar energy and used by ancient nomads for healing rituals.",
+      "subtype": "Desert Power Sites",
+      "address": "Sunstone Wastes, Azure Desert, Nema",
+      "visiting_hours": "05:00-21:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1533729864239-01f2f8166c30?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "obelisks",
+        "solar",
+        "healing"
+      ]
+    },
+    {
+      "id": "DPS-003",
+      "name": "Whispering Canyons Labyrinth",
+      "short_description": "A complex network of red rock canyons where the wind creates haunting melodies. It's a place for deep introspection and connecting with the raw, untamed essence of the land.",
+      "subtype": "Desert Power Sites",
+      "address": "Whispering Canyons, Southern Azure Desert, Nema",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1629858712163-5464522a578e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "introspection",
+        "canyon",
+        "nature"
+      ]
+    },
+    {
+      "id": "DPS-004",
+      "name": "Star-Gazer's Mesa",
+      "short_description": "A flat-topped mountain isolated in the desert, offering unparalleled views of the night sky. Ancient desert shamans used it for astrological observations and cosmic communion.",
+      "subtype": "Desert Power Sites",
+      "address": "Star-Gazer's Mesa, Silent Sands Region, Nema",
+      "visiting_hours": "18:00-06:00",
+      "entry_fee": "15 NCD",
+      "images": "https://images.unsplash.com/photo-1542491953-2947e923838d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "astronomy",
+        "mesa",
+        "communion"
+      ]
+    },
+    {
+      "id": "MS-001",
+      "name": "The Standing Stones of Eldrin",
+      "short_description": "A majestic circle of colossal stones, perfectly aligned with solstices and equinoxes, believed to be an ancient calendar and a gate to other dimensions.",
+      "subtype": "Megalithic Sites",
+      "address": "Eldrin Valley, Veridian Mountains, Nema",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1521746200216-981152a5585b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "calendar",
+        "celestial",
+        "ancient"
+      ]
+    },
+    {
+      "id": "MS-002",
+      "name": "Dolmen of the Ancestors",
+      "short_description": "A massive capstone resting on three uprights, marking a revered burial site of Nema's founding elders. It's a place for honoring lineage and seeking ancestral wisdom.",
+      "subtype": "Megalithic Sites",
+      "address": "Stone-Crest Hills, Nema",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1550478716-cd34c6792f9d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestors",
+        "wisdom",
+        "burial"
+      ]
+    },
+    {
+      "id": "MS-003",
+      "name": "Serpent Mound of the Dawn",
+      "short_description": "An enormous effigy mound in the shape of a coiled serpent, intricately aligned to lunar cycles. Pilgrims visit at dawn to witness the interplay of light and shadow, invoking primal energy.",
+      "subtype": "Megalithic Sites",
+      "address": "Echoing Plains, Eastern Nema",
+      "visiting_hours": "05:00-20:00",
+      "entry_fee": "8 NCD",
+      "images": "https://images.unsplash.com/photo-1623916962450-9c2b810486c9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "lunar",
+        "effigy",
+        "primal"
+      ]
+    },
+    {
+      "id": "MS-004",
+      "name": "The Atlas Stones",
+      "short_description": "A cluster of gravity-defying boulders seemingly placed by giants, believed to be the ancient world's pillars, holding the sky in place. A site for contemplating cosmic forces.",
+      "subtype": "Megalithic Sites",
+      "address": "Sky-Reach Peaks, Veridian Mountains, Nema",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579201401314-e0c6553258c4?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cosmic",
+        "geological",
+        "mystery"
+      ]
+    },
+    {
+      "id": "MH-001",
+      "name": "Monastery of the Silent Path",
+      "short_description": "Perched precariously on Dragon's Peak, this ancient monastery is a beacon of peace and ascetic discipline, dedicated to quiet contemplation and meditation.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Dragon's Peak, Northern Nema",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1563207086-a2123b31054b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "monastic",
+        "meditation",
+        "peace"
+      ]
+    },
+    {
+      "id": "MH-002",
+      "name": "Hermitage of the Emerald Glade",
+      "short_description": "A secluded dwelling nestled deep within an ancient forest, offering a haven for solitary spiritual seekers. Visitors can join guided silent retreats.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Emerald Glade, Whispering Woods, Nema",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "25 NCD",
+      "images": "https://images.unsplash.com/photo-1533035343468-450bf02e88a0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "solitude",
+        "retreat",
+        "forest"
+      ]
+    },
+    {
+      "id": "MH-003",
+      "name": "Sky-Cloister of the Azure Dawn",
+      "short_description": "Built into the side of a cliff overlooking the Azure Desert, this monastery is known for its breathtaking sunrises and its monks' devotion to the 'Path of Illumination.'",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Cloud-Kissed Cliffs, Eastern Nema",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596541103239-656209b5523a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cliffside",
+        "illumination",
+        "devotion"
+      ]
+    },
+    {
+      "id": "MH-004",
+      "name": "The Caves of Solace Hermitage",
+      "short_description": "A series of natural caves adapted into simple hermitages, used for centuries by reclusive mystics. The caves offer profound quietude for self-discovery.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Solace Hills, Serene Valley, Nema",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1595180023477-84c07c4d51b2?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "caves",
+        "mysticism",
+        "self-discovery"
+      ]
+    },
+    {
+      "id": "HSW-001",
+      "name": "The Wellspring of Vitality",
+      "short_description": "A gushing spring whose waters are believed to grant rejuvenation and healing, drawing pilgrims seeking physical and spiritual renewal for centuries.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Crystalwood Forest, Nema",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1520624976451-f2f22b7a0d4c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "healing",
+        "rejuvenation",
+        "water"
+      ]
+    },
+    {
+      "id": "HSW-002",
+      "name": "Oracle's Reflection Pool",
+      "short_description": "A still, clear pool fed by an underground spring, traditionally used by oracles to gaze into future events. Its calm surface encourages deep introspection.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Oracle's Grove, Whisperwind Coast, Nema",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1517454228919-b54190c76579?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "reflection",
+        "oracle",
+        "future"
+      ]
+    },
+    {
+      "id": "HSW-003",
+      "name": "The Fae's Fountain",
+      "short_description": "Tucked away in a hidden glade, this mystical fountain is said to be a gateway to the Fae realm, its sparkling waters inspiring creativity and wonder.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Emerald Glade, Ancient Woods, Nema",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "7 NCD",
+      "images": "https://images.unsplash.com/photo-1624641072973-195b4f620f32?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "mythical",
+        "creativity",
+        "wonder"
+      ]
+    },
+    {
+      "id": "HSW-004",
+      "name": "The Pilgrimage Well of Whispers",
+      "short_description": "An ancient stone well at the heart of a pilgrimage route, where travelers traditionally leave offerings and whisper their deepest prayers and intentions.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Pilgrimage Trail, Central Nema",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628173426868-bb956c321045?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "pilgrimage",
+        "prayer",
+        "intentions"
+      ]
+    },
+    {
+      "id": "CR-001",
+      "name": "The Nexus of Paths",
+      "short_description": "A historic intersection where ancient trade routes converged, now a symbolic point for travelers and those at life's turning points to make decisions and set intentions.",
+      "subtype": "Crossroads",
+      "address": "Nexus Point, Central Nema City, Nema",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1519782835251-540707c5709b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "decision",
+        "convergence",
+        "travel"
+      ]
+    },
+    {
+      "id": "CR-002",
+      "name": "Four Winds Junction",
+      "short_description": "A desolate but powerful crossroads where four major ley lines are believed to meet, making it a potent site for magical workings and spiritual manifestations.",
+      "subtype": "Crossroads",
+      "address": "Four Winds Junction, Aethel Plains, Nema",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506540846555-5f25785a2283?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ley lines",
+        "manifestation",
+        "magic"
+      ]
+    },
+    {
+      "id": "CR-003",
+      "name": "The Crossroads of Elders",
+      "short_description": "Marked by an ancient oak tree, this intersection was where tribal elders once met to discuss important matters. It represents diplomacy, community, and shared wisdom.",
+      "subtype": "Crossroads",
+      "address": "Elder's Grove, Verdant Hills, Nema",
+      "visiting_hours": "07:00-20:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1594770138977-833e2dd757f4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "community",
+        "diplomacy",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "CR-004",
+      "name": "Meridian's Crossing",
+      "short_description": "The precise point where Nema's spiritual and geographical meridians intersect, considered a vortex of energy ideal for balancing and aligning one's inner self.",
+      "subtype": "Crossroads",
+      "address": "Meridian's Crossing, Heartlands, Nema",
+      "visiting_hours": "06:00-22:00",
+      "entry_fee": "12 NCD",
+      "images": "https://images.unsplash.com/photo-1528659556272-b7e6c4667b93?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "alignment",
+        "vortex",
+        "balance"
+      ]
+    },
+    {
+      "id": "MEP-001",
+      "name": "The Crystal Spire Sanctuary",
+      "short_description": "A contemporary architectural marvel housing a vast natural crystal formation, designed to amplify positive energy and facilitate deep meditative states for urban dwellers.",
+      "subtype": "Modern Energy Places",
+      "address": "Innovation District, Nema City, Nema",
+      "visiting_hours": "09:00-21:00",
+      "entry_fee": "20 NCD",
+      "images": "https://images.unsplash.com/photo-1588147814488-8772074e06bc?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "modern",
+        "crystal",
+        "meditation"
+      ]
+    },
+    {
+      "id": "MEP-002",
+      "name": "Eco-Harmony Gardens",
+      "short_description": "A sprawling botanical garden meticulously designed using principles of sacred geometry and permaculture, fostering well-being and a connection to sustainable living.",
+      "subtype": "Modern Energy Places",
+      "address": "Eco-Harmony Gardens, Greenbelt District, Nema City, Nema",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "15 NCD",
+      "images": "https://images.unsplash.com/photo-1502691875150-13a0c5c643b2?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sustainability",
+        "gardens",
+        "well-being"
+      ]
+    },
+    {
+      "id": "MEP-003",
+      "name": "The Sound Healing Dome",
+      "short_description": "An acoustically engineered dome utilizing advanced sound frequencies and vibratory therapies to promote deep relaxation, emotional release, and spiritual attunement.",
+      "subtype": "Modern Energy Places",
+      "address": "Serenity Park, Nema City Suburbs, Nema",
+      "visiting_hours": "10:00-20:00",
+      "entry_fee": "30 NCD",
+      "images": "https://images.unsplash.com/photo-1608226071858-a590c67530e3?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sound healing",
+        "relaxation",
+        "attunement"
+      ]
+    },
+    {
+      "id": "MEP-004",
+      "name": "Quantum Labyrinth Park",
+      "short_description": "A modern, abstract labyrinth constructed with reflective materials and light installations, designed to guide visitors through a symbolic journey of self-discovery and consciousness expansion.",
+      "subtype": "Modern Energy Places",
+      "address": "Tech Valley, Nema City Outskirts, Nema",
+      "visiting_hours": "09:00-22:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582218706911-ec0f413a290a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "labyrinth",
+        "consciousness",
+        "modern art"
+      ]
+    },
+    {
+      "id": "AT-001",
+      "name": "Temple of the Celestial Serpent",
+      "short_description": "The awe-inspiring ruins of an ancient temple dedicated to a cosmic serpent deity, its massive stone carvings depicting the cycles of creation and destruction.",
+      "subtype": "Ancient Temples",
+      "address": "Skywatch Peaks, Nema",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "10 NCD",
+      "images": "https://images.unsplash.com/photo-1594943965646-f98b251213f0?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ruins",
+        "serpent deity",
+        "cosmic"
+      ]
+    },
+    {
+      "id": "AT-002",
+      "name": "Sunken Temple of Eldoria",
+      "short_description": "A partially submerged temple complex, once a bustling center of worship, now a mystical dive site where ancient rituals are said to echo in the watery depths.",
+      "subtype": "Ancient Temples",
+      "address": "Off the Whisperwind Coast, Nema",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "75 NCD",
+      "images": "https://images.unsplash.com/photo-1627017282855-bf59d5ec42ec?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "underwater",
+        "ruins",
+        "ancient rituals"
+      ]
+    },
+    {
+      "id": "AT-003",
+      "name": "The Verdant Canopy Shrine",
+      "short_description": "Hidden deep within an untouched old-growth forest, this open-air shrine is where ancient nature spirits were revered. Its living architecture is a testament to natural spirituality.",
+      "subtype": "Ancient Temples",
+      "address": "Verdant Canopy Forest, Nema",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594191374530-eb3543b591b6?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature worship",
+        "forest",
+        "spirits"
+      ]
+    },
+    {
+      "id": "AT-004",
+      "name": "Temple of the Silent Echo",
+      "short_description": "Carved into a sheer cliff face, this temple is renowned for its unique acoustics, where even a whisper can be heard throughout, creating a profound sense of shared presence and reverence.",
+      "subtype": "Ancient Temples",
+      "address": "Echo Gorge, Nema Highlands, Nema",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582121379434-d02c3b88523c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "acoustics",
+        "cliffside",
+        "reverence"
+      ]
+    },
+    {
+      "id": "OS-001",
+      "name": "The Whispering Chasm Oracle",
+      "short_description": "A deep, wind-swept chasm where ancient seers interpreted the sounds of the wind as divine messages. Visitors can experience deep contemplation amidst the elemental forces.",
+      "subtype": "Oracle Sites",
+      "address": "Whispering Chasm, Azure Desert, Nema",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596755498877-a890787e1081?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wind",
+        "prophecy",
+        "elemental"
+      ]
+    },
+    {
+      "id": "OS-002",
+      "name": "Seer's Summit",
+      "short_description": "The highest peak in the Seer's Mountains, where ancient mystics would ascend to receive visions under the starry sky. It offers unparalleled views and a profound sense of cosmic connection.",
+      "subtype": "Oracle Sites",
+      "address": "Seer's Summit, Seer's Mountains, Nema",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "20 NCD",
+      "images": "https://images.unsplash.com/photo-1510443905527-fb01c90a16b9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "visions",
+        "cosmic",
+        "mountain"
+      ]
+    },
+    {
+      "id": "OS-003",
+      "name": "Oracle's Veil Spring",
+      "short_description": "A secluded spring shrouded in perpetual mist, said to reveal glimpses of the future to those who meditate by its waters with a pure heart. A place of gentle foresight.",
+      "subtype": "Oracle Sites",
+      "address": "Oracle's Veil, Misty Fen, Nema",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1529686001294-b2c6df44865f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "foresight",
+        "mist",
+        "meditation"
+      ]
+    },
+    {
+      "id": "OS-004",
+      "name": "The Shaman's Hearthstone",
+      "short_description": "An ancient fire pit surrounded by petroglyphs, where tribal shamans once communed with spirits for guidance and future insights. It emanates a primal, earthy energy.",
+      "subtype": "Oracle Sites",
+      "address": "Hearthstone Valley, Ancient Hunting Grounds, Nema",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "10 NCD",
+      "images": "https://images.unsplash.com/photo-1587847926941-86c62c2f4628?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "shamanic",
+        "guidance",
+        "primal"
+      ]
+    },
+    {
+      "id": "CS-001",
+      "name": "Shadowpeak Caverns of Whispers",
+      "short_description": "A vast network of limestone caves, known for their eerie echoes and impressive stalactite formations. Ancient people sought refuge and spiritual guidance within their silent depths.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Shadowpeak Mountains, Western Nema",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "18 NCD",
+      "images": "https://images.unsplash.com/photo-1509930873265-d04dd263158c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "caves",
+        "guidance",
+        "refuge"
+      ]
+    },
+    {
+      "id": "CS-002",
+      "name": "Grotto of Reflection",
+      "short_description": "A small, serene grotto with a clear underground pool, traditionally used for quiet contemplation and self-reflection. The natural light filtering in creates a meditative atmosphere.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Grotto Hills, Serene Valley, Nema",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1558229986-e89c09d57a3e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "reflection",
+        "grotto",
+        "meditative"
+      ]
+    },
+    {
+      "id": "CS-003",
+      "name": "The Crystal Labyrinth Sanctuary",
+      "short_description": "A hidden cave adorned with glittering natural crystal formations, forming a winding labyrinth. It's believed to cleanse the aura and enhance spiritual clarity for those who walk its path.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Crystal Labyrinth Caverns, Emerald Peaks, Nema",
+      "visiting_hours": "10:00-17:00",
+      "entry_fee": "25 NCD",
+      "images": "https://images.unsplash.com/photo-1610486790924-a1a72d7331c1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "crystals",
+        "labyrinth",
+        "clarity"
+      ]
+    },
+    {
+      "id": "CS-004",
+      "name": "Ancestral Rock Shelter Shrine",
+      "short_description": "A natural rock overhang used for millennia as a sacred gathering place and shrine by indigenous communities. Petroglyphs on the walls depict ancient stories and spiritual journeys.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Ancient Riverbend, Nema Outback, Nema",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1632766863073-6112a97573f8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "indigenous",
+        "petroglyphs",
+        "ancient stories"
+      ]
+    }
+  ]
+}

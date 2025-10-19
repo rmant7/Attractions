@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Nema",
+    "city_id": "2420"
+  },
+  "items": [
+    {
+      "id": "AQUA001",
+      "name": "Nema Oceanarium",
+      "short_description": "Explore vast marine ecosystems and encounter fascinating sea creatures from around the world. A truly immersive underwater journey for all ages.",
+      "subtype": "Aquariums",
+      "address": "12 Ocean Drive, Nema Lakeside District",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1547432095-d14207904085?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "marine life",
+        "education",
+        "underwater"
+      ]
+    },
+    {
+      "id": "AQUA002",
+      "name": "Coral Cove Aquarium",
+      "short_description": "Dive into the vibrant world of coral reefs, home to colorful fish and unique invertebrates. Interactive exhibits teach about ocean conservation.",
+      "subtype": "Aquariums",
+      "address": "34 Coral Way, Nema Greenbelt",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579308104526-73d8a11a847f?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "coral reefs",
+        "interactive",
+        "conservation"
+      ]
+    },
+    {
+      "id": "AQUA003",
+      "name": "Deep Sea Discovery Center",
+      "short_description": "Journey to the mysterious depths of the ocean, encountering giant squids, anglerfish, and other incredible creatures of the abyss. Features a thrilling simulated submarine ride.",
+      "subtype": "Aquariums",
+      "address": "56 Abyss Street, Nema Downtown",
+      "opening_hours": "09:30-18:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510414842594-a615786195a9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8fHx8fA%3D%3D",
+      "tags": [
+        "deep sea",
+        "immersive",
+        "sharks"
+      ]
+    },
+    {
+      "id": "AQUA004",
+      "name": "River's Edge Marine Life",
+      "short_description": "Discover the diverse freshwater ecosystems of Nema's rivers and lakes, alongside unique coastal species. Offers hands-on touch tanks for kids.",
+      "subtype": "Aquariums",
+      "address": "78 Riverfront Road, Nema Riverfront",
+      "opening_hours": "10:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627889392287-3b91d2932f8b?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "freshwater",
+        "touch tank",
+        "local wildlife"
+      ]
+    },
+    {
+      "id": "CIRC001",
+      "name": "Nema Puppet Palace",
+      "short_description": "A magical theater showcasing classic and new puppet shows, bringing beloved stories to life with intricate puppets and talented puppeteers.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "23 Storybook Lane, Nema Arts Quarter",
+      "opening_hours": "11:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1544777402-995f70a7df84?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "puppets",
+        "storytelling",
+        "theater"
+      ]
+    },
+    {
+      "id": "CIRC002",
+      "name": "Starlight Circus Tent",
+      "short_description": "Experience the wonder of a traditional circus under the big top, featuring acrobats, clowns, and dazzling performances without animal acts.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "45 Performance Blvd, Nema Central Park",
+      "opening_hours": "14:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582235940733-dc19d9b62f7e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "circus",
+        "acrobats",
+        "family entertainment"
+      ]
+    },
+    {
+      "id": "CIRC003",
+      "name": "Whimsical Wonders Puppet Show",
+      "short_description": "An intimate puppet theater known for its imaginative, hand-crafted puppets and interactive performances that engage young audiences.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "67 Imagination Alley, Nema West End",
+      "opening_hours": "10:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533220478796-03d32ef5fb93?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive",
+        "handcrafted",
+        "creativity"
+      ]
+    },
+    {
+      "id": "CIRC004",
+      "name": "Jester's Jamboree Variety Show",
+      "short_description": "A dynamic children's variety show combining comedic acts, magic tricks, and musical performances, perfect for a lively afternoon of fun.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "89 Merriment Square, Nema Downtown",
+      "opening_hours": "13:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510257007931-15891338d1a1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "comedy",
+        "magic",
+        "variety show"
+      ]
+    },
+    {
+      "id": "AMUSE001",
+      "name": "Thrillville Nema",
+      "short_description": "A vibrant amusement park filled with exciting rides for all ages, from gentle carousels to thrilling rollercoasters.",
+      "subtype": "Amusement Rides",
+      "address": "10 Wild Ride Road, Nema Heights",
+      "opening_hours": "10:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563214532-61361287c880?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "rollercoasters",
+        "thrill rides",
+        "family fun"
+      ]
+    },
+    {
+      "id": "AMUSE002",
+      "name": "Speedy Swirls Park",
+      "short_description": "A park dedicated to spinning, whirling, and zooming rides, offering dizzying delights for kids who love motion and speed.",
+      "subtype": "Amusement Rides",
+      "address": "20 Dizzy Drive, Nema West End",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620863116853-22879685ae22?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "spinning rides",
+        "carnival",
+        "fast"
+      ]
+    },
+    {
+      "id": "AMUSE003",
+      "name": "Rainbow Rollercoaster Lane",
+      "short_description": "Home to several vibrant rollercoasters designed specifically for younger children, ensuring safe thrills and big smiles.",
+      "subtype": "Amusement Rides",
+      "address": "30 Loop-de-Loop Lane, Nema Lakeside",
+      "opening_hours": "09:30-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579737920194-c2c6114e1f74?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "kids rollercoasters",
+        "colorful",
+        "safe thrills"
+      ]
+    },
+    {
+      "id": "AMUSE004",
+      "name": "Kiddie Coaster Canyon",
+      "short_description": "A charming section of a larger park, featuring gentle mini-coasters and classic rides perfect for toddlers and preschoolers.",
+      "subtype": "Amusement Rides",
+      "address": "40 Tiny Tracks Road, Nema Greenbelt",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627727142168-3e4b370603f9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddlers",
+        "preschoolers",
+        "gentle rides"
+      ]
+    },
+    {
+      "id": "DINO001",
+      "name": "Dino Valley Nema",
+      "short_description": "Walk among life-sized animatronic dinosaurs in lush, prehistoric landscapes. Educational exhibits teach about the Mesozoic Era.",
+      "subtype": "Dinosaur Parks",
+      "address": "50 Jurassic Junction, Nema Hills",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596770542385-e65b263914a1?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "animatronics",
+        "paleontology",
+        "interactive"
+      ]
+    },
+    {
+      "id": "DINO002",
+      "name": "Prehistoric Paradise",
+      "short_description": "An adventurous park where kids can dig for fossils, explore dinosaur-themed play areas, and learn about ancient creatures through engaging activities.",
+      "subtype": "Dinosaur Parks",
+      "address": "60 Fossil Find Lane, Nema Industrial Park",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621345984639-65ed66539e08?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fossil hunt",
+        "play area",
+        "educational"
+      ]
+    },
+    {
+      "id": "DINO003",
+      "name": "Raptor Ridge Reserve",
+      "short_description": "A thrilling and educational outdoor experience, featuring realistic dinosaur models nestled in a natural forest setting. Includes a jeep safari tour.",
+      "subtype": "Dinosaur Parks",
+      "address": "70 Predator Path, Nema Greenbelt",
+      "opening_hours": "09:30-18:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1629864222384-e75a6c4a8618?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "outdoor",
+        "safari",
+        "realistic models"
+      ]
+    },
+    {
+      "id": "DINO004",
+      "name": "Triassic Trails Discovery",
+      "short_description": "A family-friendly dinosaur park with walking trails, informative signage, and a dedicated 'hatchery' exhibit where kids can see baby dinosaur models.",
+      "subtype": "Dinosaur Parks",
+      "address": "80 Dino Drive, Nema Lakeside",
+      "opening_hours": "10:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1554904944-e283a00508fc?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "walking trails",
+        "exhibits",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": "PLAN001",
+      "name": "Little Star Gazer Dome",
+      "short_description": "An engaging planetarium designed specifically for young astronomers, featuring vibrant shows about stars, planets, and space exploration.",
+      "subtype": "Planetariums for Kids",
+      "address": "90 Celestial Circle, Nema Hills",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1516086820577-bc687352374b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "astronomy",
+        "space",
+        "interactive shows"
+      ]
+    },
+    {
+      "id": "PLAN002",
+      "name": "Cosmic Kids Planetarium",
+      "short_description": "Blast off into adventure with interactive exhibits and stunning dome projections that teach children about the solar system and beyond.",
+      "subtype": "Planetariums for Kids",
+      "address": "100 Galaxy Gate, Nema Science Quarter",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510300109598-a320573e86c0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "solar system",
+        "educational",
+        "immersive"
+      ]
+    },
+    {
+      "id": "PLAN003",
+      "name": "Astro Adventure Center",
+      "short_description": "Combines a planetarium with hands-on space-themed activities, including rocket building and virtual reality space walks.",
+      "subtype": "Planetariums for Kids",
+      "address": "110 Orbit Avenue, Nema Downtown",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1518175001423-f308edb93e3d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "VR",
+        "rockets",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "PLAN004",
+      "name": "Galactic Gateway Observatory",
+      "short_description": "Beyond the dome shows, this center offers outdoor stargazing events on clear nights with powerful telescopes for families to explore the real night sky.",
+      "subtype": "Planetariums for Kids",
+      "address": "120 Comet Court, Nema Greenbelt",
+      "opening_hours": "18:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1532464738596-f94294060879?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "stargazing",
+        "telescopes",
+        "night sky"
+      ]
+    },
+    {
+      "id": "FAIR001",
+      "name": "Enchanted Forest Nema",
+      "short_description": "Wander through a magical forest where classic fairy tales come to life with enchanting scenes, character meet-and-greets, and gentle rides.",
+      "subtype": "Fairy Tale Parks",
+      "address": "130 Pixie Path, Nema Heights",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1518973680961-d7d81a8b13d2?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fairy tales",
+        "magic",
+        "character meet"
+      ]
+    },
+    {
+      "id": "FAIR002",
+      "name": "Storybook Sanctuary",
+      "short_description": "Step into the pages of your favorite storybooks, exploring themed villages and interactive exhibits inspired by beloved children's literature.",
+      "subtype": "Fairy Tale Parks",
+      "address": "140 Fable Street, Nema Arts Quarter",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1521799276527-2c13038b3684?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "literature",
+        "interactive",
+        "themed villages"
+      ]
+    },
+    {
+      "id": "FAIR003",
+      "name": "Pixie Dust Path Adventure",
+      "short_description": "A whimsical adventure park designed for preschoolers, featuring gentle rides, play areas, and enchanting encounters with forest sprites and gnomes.",
+      "subtype": "Fairy Tale Parks",
+      "address": "150 Whimsy Way, Nema Lakeside",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1543793741-f7033ec097f4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "preschoolers",
+        "whimsical",
+        "Gnomes"
+      ]
+    },
+    {
+      "id": "FAIR004",
+      "name": "Kingdom of Whispers",
+      "short_description": "Discover a land of ancient tales and hidden wonders, where children can explore a miniature castle, solve mythical riddles, and participate in royal quests.",
+      "subtype": "Fairy Tale Parks",
+      "address": "160 Castle Keep, Nema Downtown",
+      "opening_hours": "10:30-16:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1560932174-883906a5b9b6?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "castles",
+        "quests",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "LEGO001",
+      "name": "Nema Bricktopia",
+      "short_description": "A world built entirely of bricks, featuring magnificent Lego models, interactive building zones, and gentle rides.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "170 Block Boulevard, Nema Industrial Park",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627931327178-e5f629c41d7d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Lego models",
+        "building",
+        "creativity"
+      ]
+    },
+    {
+      "id": "LEGO002",
+      "name": "Mega Builder's Land",
+      "short_description": "An expansive outdoor park where kids can operate miniature diggers, cranes, and other construction equipment in a safe and fun environment.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "180 Excavator Avenue, Nema West End",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582294155694-811c752697ff?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "construction",
+        "heavy equipment",
+        "outdoor play"
+      ]
+    },
+    {
+      "id": "LEGO003",
+      "name": "Block Borough Park",
+      "short_description": "A creative hub where children are encouraged to design and build their own structures using a wide array of oversized blocks and materials.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "190 Blueprint Road, Nema Greenbelt",
+      "opening_hours": "10:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1589254065646-f94d31d451a6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "oversized blocks",
+        "design",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "LEGO004",
+      "name": "Imagination Station Bricks",
+      "short_description": "An indoor play space brimming with countless Lego bricks, inviting children to free-build, participate in challenges, and display their creations.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "200 Creative Court, Nema Central Park",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1595156557876-b9b5961e9f1a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "indoor play",
+        "free build",
+        "challenges"
+      ]
+    },
+    {
+      "id": "ZOO001",
+      "name": "Nema Wild Kingdom",
+      "short_description": "A vast zoo home to exotic animals from across the globe, focusing on conservation and educational experiences. Features a dedicated children's zoo section.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "210 Safari Drive, Nema Greenbelt",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549417277-c990a424a1b0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "exotic animals",
+        "conservation",
+        "education"
+      ]
+    },
+    {
+      "id": "ZOO002",
+      "name": "Critter Corner Petting Zoo",
+      "short_description": "A delightful petting zoo where children can safely interact with friendly farm animals, offering hands-on feeding and grooming opportunities.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "220 Barnyard Lane, Nema Hills",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1583002626577-742918df9c10?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "farm animals",
+        "petting",
+        "interactive"
+      ]
+    },
+    {
+      "id": "ZOO003",
+      "name": "Safari Springs Zoological Park",
+      "short_description": "Embark on an immersive safari adventure, observing animals in spacious, naturalistic habitats. Guided tours and special animal encounters are available.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "230 Savannah Way, Nema Outskirts",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1589656499343-7f722f98f6ba?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "safari",
+        "natural habitats",
+        "animal encounters"
+      ]
+    },
+    {
+      "id": "ZOO004",
+      "name": "Woodland Wonders Wildlife Haven",
+      "short_description": "Focused on local and North American wildlife, this sanctuary provides up-close views and educational programs about animals native to the region.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "240 Forest Edge Road, Nema Lakeside",
+      "opening_hours": "10:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628178652417-a02ec109d9ae?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "local wildlife",
+        "sanctuary",
+        "educational"
+      ]
+    },
+    {
+      "id": "SCI001",
+      "name": "Nema Discovery Lab",
+      "short_description": "An interactive science center offering hands-on exhibits in physics, chemistry, and biology, designed to spark curiosity in young minds.",
+      "subtype": "Science Centers",
+      "address": "250 Experiment Street, Nema Science Quarter",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1523320392350-0f04c7f07e5b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive",
+        "experiments",
+        "physics"
+      ]
+    },
+    {
+      "id": "SCI002",
+      "name": "Curiosity Corner Science",
+      "short_description": "A vibrant space for young learners to explore various scientific principles through play, featuring a popular water play area and a sound lab.",
+      "subtype": "Science Centers",
+      "address": "260 Innovation Drive, Nema Downtown",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1532094340763-7188719d380e?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "play-based learning",
+        "water play",
+        "sound"
+      ]
+    },
+    {
+      "id": "SCI003",
+      "name": "ExploraZone Nema",
+      "short_description": "An expansive science museum with dedicated zones for technology, space, and human body exploration. Features a thrilling giant-screen theater.",
+      "subtype": "Science Centers",
+      "address": "270 Tech Hub Way, Nema Industrial Park",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1628469956417-a2f0c784ec81?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "technology",
+        "space",
+        "human body"
+      ]
+    },
+    {
+      "id": "SCI004",
+      "name": "Inventopia Interactive Museum",
+      "short_description": "Fosters young inventors and problem-solvers with creative challenges, engineering stations, and workshops to build and test their own creations.",
+      "subtype": "Science Centers",
+      "address": "280 Genius Lane, Nema Arts Quarter",
+      "opening_hours": "10:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601053427181-e23a634458f2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "invention",
+        "engineering",
+        "workshops"
+      ]
+    },
+    {
+      "id": "THEME001",
+      "name": "Funlandia Nema",
+      "short_description": "A sprawling theme park designed with children in mind, offering a mix of gentle rides, character zones, and live entertainment.",
+      "subtype": "Theme Parks for Kids",
+      "address": "290 Adventure Parkway, Nema Heights",
+      "opening_hours": "09:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1606700810363-2384f88461b7?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "family entertainment",
+        "live shows",
+        "character zones"
+      ]
+    },
+    {
+      "id": "THEME002",
+      "name": "Adventure Island Kids",
+      "short_description": "An island-themed park with water rides, a pirate ship play structure, and interactive treasure hunts suitable for younger adventurers.",
+      "subtype": "Theme Parks for Kids",
+      "address": "300 Treasure Map Trail, Nema Lakeside",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574516104273-a8ee81867160?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "water rides",
+        "pirates",
+        "treasure hunt"
+      ]
+    },
+    {
+      "id": "THEME003",
+      "name": "Whimsy World Park",
+      "short_description": "A fantastical park where imagination takes flight, with colorful characters, gentle spinning rides, and daily parades. Ideal for younger visitors.",
+      "subtype": "Theme Parks for Kids",
+      "address": "310 Rainbow Road, Nema Central Park",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1599839655459-712497d3935a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "whimsical",
+        "parades",
+        "spinning rides"
+      ]
+    },
+    {
+      "id": "THEME004",
+      "name": "Playtopia Central",
+      "short_description": "Nema's largest theme park for kids, featuring themed lands, interactive play zones, and a variety of shows and entertainment throughout the day.",
+      "subtype": "Theme Parks for Kids",
+      "address": "320 Fun Factory Blvd, Nema Downtown",
+      "opening_hours": "10:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627918451737-2936a7edc702?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "themed lands",
+        "interactive play",
+        "entertainment"
+      ]
+    }
+  ]
+}

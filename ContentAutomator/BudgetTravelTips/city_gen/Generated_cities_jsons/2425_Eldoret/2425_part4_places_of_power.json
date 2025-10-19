@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Eldoret",
+    "city_id": "2425"
+  },
+  "items": [
+    {
+      "id": "MRF001",
+      "name": "Koitalel's Whisper Stone",
+      "short_description": "A revered natural monolith said to carry the wisdom and whispers of Koitalel Arap Samoei, a legendary Nandi Oloiboni, acting as a site for reflection and ancestral connection.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Kapsoya Estate, Off Iten Road, Eldoret",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1616421426466-91e0b57147b4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Nandi culture",
+        "Ancestral site",
+        "Meditation"
+      ]
+    },
+    {
+      "id": "MRF002",
+      "name": "Sisimwo Boulder of Elders",
+      "short_description": "This ancient, massive boulder served as a traditional meeting point for community elders, where disputes were resolved and wisdom shared under its shade, symbolizing communal unity.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Uasin Gishu County Assembly Grounds, Eldoret",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628126742511-b0e5d03a1154?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Community heritage",
+        "Sacred rock",
+        "Historical landmark"
+      ]
+    },
+    {
+      "id": "MRF003",
+      "name": "Chepkoilel Meditation Rock",
+      "short_description": "A solitary, naturally sculpted rock formation known for its serene atmosphere, attracting individuals seeking quiet contemplation and spiritual solace away from urban bustle.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Near Moi University, Chepkoilel Campus, Eldoret",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594916698940-5477b7f56195?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Solitude",
+        "Meditation spot",
+        "Nature"
+      ]
+    },
+    {
+      "id": "MRF004",
+      "name": "Kipsigis Standing Stones",
+      "short_description": "A cluster of naturally occurring standing stones, believed to have been a spiritual marker or boundary by early Kipsigis communities, imbued with ancient energy.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Along Eldoret-Kapsabet Road, Near Kipsigis Border",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1534008139556-55a0f2b343a4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Ancient markers",
+        "Kipsigis heritage",
+        "Boundary"
+      ]
+    },
+    {
+      "id": "SF001",
+      "name": "Nandi Ancestral Grove",
+      "short_description": "A dense, ancient forest revered by the Nandi people as a place where ancestors reside and traditional rituals are still occasionally performed, maintaining a deep spiritual connection.",
+      "subtype": "Sacred Forests",
+      "address": "Outskirts of Nandi Hills Town, Eldoret proximity",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1592634421118-8f85f4039369?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Ancestral worship",
+        "Nandi culture",
+        "Ritual site"
+      ]
+    },
+    {
+      "id": "SF002",
+      "name": "Kaptagat Healing Woods",
+      "short_description": "Known for its biodiversity and tranquility, this forest is traditionally visited for herbal medicine collection and spiritual healing practices, believed to harbor potent natural energies.",
+      "subtype": "Sacred Forests",
+      "address": "Kaptagat Forest Reserve, Near Eldoret",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1627993074811-9a7071649938?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Healing",
+        "Nature therapy",
+        "Traditional medicine"
+      ]
+    },
+    {
+      "id": "SF003",
+      "name": "Sosiani Riverine Sanctuary",
+      "short_description": "A strip of protected forest along the Sosiani River, considered sacred for its role in sustaining life and providing a peaceful retreat for spiritual reflection and cleansing rituals.",
+      "subtype": "Sacred Forests",
+      "address": "Along Sosiani River, Near Kapseret, Eldoret",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1518066000714-cd4f1585325c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "River spirit",
+        "Cleansing rituals",
+        "Nature walk"
+      ]
+    },
+    {
+      "id": "SF004",
+      "name": "Lemook Wisdom Forest",
+      "short_description": "This secluded forest is historically where Kalenjin elders would retreat to impart wisdom, mediate on community matters, and connect with nature for guidance.",
+      "subtype": "Sacred Forests",
+      "address": "Along Eldoret-Ziwa Road, Lemook Area",
+      "visiting_hours": "08:30-17:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1542601905-2d1d0337f90c?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Kalenjin tradition",
+        "Elder's retreat",
+        "Wisdom"
+      ]
+    },
+    {
+      "id": "SM001",
+      "name": "Cherangani Foothills Sanctuary",
+      "short_description": "The lower slopes of the majestic Cherangani Hills, revered as a gateway to the heavens and a source of life-giving springs, often visited for prayer and seeking blessings.",
+      "subtype": "Sacred Mountains",
+      "address": "Near Chepkorio, Eldoret-Iten Road",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1620317871363-231a47738246?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Cherangani Hills",
+        "Prayer site",
+        "Blessings"
+      ]
+    },
+    {
+      "id": "SM002",
+      "name": "Kipkabus Prayer Hill",
+      "short_description": "A prominent local hill in Kipkabus, offering panoramic views and used by various spiritual groups for quiet prayer, meditation, and seeking divine connection, especially at dawn.",
+      "subtype": "Sacred Mountains",
+      "address": "Kipkabus Town, Eldoret-Nakuru Highway",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506929562872-bb443d211ee3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Sunrise views",
+        "Interfaith prayer",
+        "Contemplation"
+      ]
+    },
+    {
+      "id": "SM003",
+      "name": "Metkei Ascent of Spirits",
+      "short_description": "A less frequented, rugged ascent known for its intense spiritual energy, believed to be a path where ancestral spirits are most accessible for profound introspection and guidance.",
+      "subtype": "Sacred Mountains",
+      "address": "Metkei Valley, Near Lessos, Uasin Gishu",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1549880153-f725619195b0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Ancestral connection",
+        "Spiritual journey",
+        "Rugged hike"
+      ]
+    },
+    {
+      "id": "SM004",
+      "name": "Elgon View Heights Observation",
+      "short_description": "While Mount Elgon is distant, this elevated point in Eldoret offers a sacred vista, allowing for reflection on the grandeur of creation and drawing spiritual inspiration from the far-off peak.",
+      "subtype": "Sacred Mountains",
+      "address": "Elgon View Estate, Eldoret",
+      "visiting_hours": "06:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1520630857321-4f31c519c5c9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Panoramic view",
+        "Mount Elgon",
+        "Inspiration"
+      ]
+    },
+    {
+      "id": "CAS001",
+      "name": "Kiplagat's Star Circle",
+      "short_description": "An ancient stone circle, rediscovered and believed to have been used by early Kalenjin astronomers to track celestial movements, signifying seasonal changes and planting cycles.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Off Kisumu Road, Near Kapsaret Centre, Eldoret",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1518342416390-e291244e82f2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Ancient astronomy",
+        "Kalenjin history",
+        "Solstice observation"
+      ]
+    },
+    {
+      "id": "CAS002",
+      "name": "Rift Valley Constellation Vista",
+      "short_description": "A natural elevated platform offering an unobstructed view of the night sky, historically used for observing constellations and understanding the cosmic patterns vital to ancestral livelihoods.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Along Eldoret-Iten Road, Rift Valley Escarpment",
+      "visiting_hours": "18:00-06:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1534067783941-51c9c23ecefd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Stargazing",
+        "Rift Valley",
+        "Cosmic connection"
+      ]
+    },
+    {
+      "id": "CAS003",
+      "name": "Chepkorio Sky Oracle",
+      "short_description": "An ancient, elevated site near Chepkorio where Kalenjin seers would interpret celestial phenomena for prophecies and guidance, especially during significant community events.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Chepkorio Hills, Near Eldoret",
+      "visiting_hours": "Sunset-Sunrise",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549219859-450f3844f2d7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Prophecy",
+        "Astronomy",
+        "Ancient rituals"
+      ]
+    },
+    {
+      "id": "CAS004",
+      "name": "Lemurio Lunar Watch",
+      "short_description": "A quiet clearing traditionally used for observing lunar cycles, which guided planting, harvesting, and initiation rites for various Kalenjin sub-tribes.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Lemurio Forest Edge, Off Webuye Road, Eldoret",
+      "visiting_hours": "19:00-05:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502126244791-0371900350d0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Lunar cycles",
+        "Agricultural calendar",
+        "Kalenjin traditions"
+      ]
+    },
+    {
+      "id": "PYR001",
+      "name": "Tugen Ancestral Terraces",
+      "short_description": "Though not true pyramids, these ancient tiered earthworks built by the Tugen community are believed to be sacred burial mounds or ceremonial platforms for ancestor veneration.",
+      "subtype": "Pyramids",
+      "address": "Baringo-Eldoret Border, Near Kabarnet Junction",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1621213346452-95f725350917?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Burial mounds",
+        "Tugen heritage",
+        "Ancestral veneration"
+      ]
+    },
+    {
+      "id": "PYR002",
+      "name": "Sirikwa Mound of Ages",
+      "short_description": "A large, reinterpreted ancient Sirikwa dwelling mound, believed to have had tiered ritual significance, now a site for historical reflection and connection to pre-Kalenjin inhabitants.",
+      "subtype": "Pyramids",
+      "address": "Kipkenyo Area, Off Kapsaret Road, Eldoret",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549414571-0ae107142750?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Sirikwa culture",
+        "Archaeological site",
+        "Tiered structure"
+      ]
+    },
+    {
+      "id": "PYR003",
+      "name": "Kalenjin Spirit Tower",
+      "short_description": "A modern, artistically designed tiered structure inspired by traditional Kalenjin homesteads and spiritual concepts, serving as a peaceful meditation and contemplation space.",
+      "subtype": "Pyramids",
+      "address": "Eldoret Town Centre, Near Zion Mall",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1622359235063-48d68d18413b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Modern art",
+        "Meditation",
+        "Kalenjin symbolism"
+      ]
+    },
+    {
+      "id": "PYR004",
+      "name": "Elgon View Tiered Sanctuary",
+      "short_description": "An earthwork or landscape feature with symbolic tiers, designed as a tranquil sanctuary for spiritual ascension and reflection, echoing ancient, natural architectural forms.",
+      "subtype": "Pyramids",
+      "address": "Elgon View Estate, Off Eldoret-Kapsabet Road",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1596700086884-ec03b87d6067?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Landscape art",
+        "Spiritual ascension",
+        "Tranquility"
+      ]
+    },
+    {
+      "id": "AT001",
+      "name": "Sirikwa Ritual Ruins",
+      "short_description": "Remnants of an ancient Sirikwa communal spiritual center, comprising stone foundations and artifacts, offering a glimpse into the sophisticated rituals of pre-Kalenjin inhabitants.",
+      "subtype": "Ancient Temples",
+      "address": "Moiben Area, Eldoret North",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1577772635397-9e4a3b782928?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Sirikwa history",
+        "Archaeological site",
+        "Ancient shrine"
+      ]
+    },
+    {
+      "id": "AT002",
+      "name": "Nandi Forest Shrine Remnants",
+      "short_description": "Deep within a sacred forest, lie the overgrown remains of a Nandi spiritual shrine, where powerful Oloiboni once performed ceremonies for protection and prosperity.",
+      "subtype": "Ancient Temples",
+      "address": "Nandi Forest Reserve, Near Cheptiret, Uasin Gishu",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1533214896-1a5116790a6f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Nandi Oloiboni",
+        "Forest rituals",
+        "Forgotten site"
+      ]
+    },
+    {
+      "id": "AT003",
+      "name": "Pokot Sacred Hearth Stones",
+      "short_description": "An ancient site featuring large, fire-scorched stones, believed to be the communal hearth of early Pokot communities, where spiritual leaders conducted ancestral fire rituals.",
+      "subtype": "Ancient Temples",
+      "address": "West Pokot Border, Off Kapsowar Road, Eldoret proximity",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1629859556214-41d9c57d5970?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Pokot culture",
+        "Fire rituals",
+        "Communal site"
+      ]
+    },
+    {
+      "id": "AT004",
+      "name": "Marakwet Valley Altar",
+      "short_description": "A natural rock formation in the Marakwet Valley, enhanced by ancient carvings, used as an open-air altar for ceremonies and sacrifices by the Marakwet people for centuries.",
+      "subtype": "Ancient Temples",
+      "address": "Marakwet Escarpment, Near Iten, Uasin Gishu",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1599307994404-5188f01b7a8d?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Marakwet culture",
+        "Natural altar",
+        "Sacrificial site"
+      ]
+    },
+    {
+      "id": "DPS001",
+      "name": "Koita Wind Swept Ridge",
+      "short_description": "An exposed ridge renowned for its relentless winds and panoramic, stark beauty, offering a profound sense of raw elemental power and solitude, akin to a desert's spiritual pull.",
+      "subtype": "Desert Power Sites",
+      "address": "Koita Hills, Off Eldoret-Kaptagat Road",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596773229649-6f9202ed6915?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Elemental energy",
+        "Solitude",
+        "Wind swept"
+      ]
+    },
+    {
+      "id": "DPS002",
+      "name": "Kerio Valley Solitude Point",
+      "short_description": "A breathtaking viewpoint overlooking the vast Kerio Valley, whose arid beauty and profound stillness offer an intense spiritual experience, a place for deep meditation and introspection.",
+      "subtype": "Desert Power Sites",
+      "address": "Along Eldoret-Iten Road, Kerio Valley Escarpment",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1607599026786-8d597e742514?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Kerio Valley",
+        "Vastness",
+        "Introspection"
+      ]
+    },
+    {
+      "id": "DPS003",
+      "name": "Mogotio Hot Springs of Renewal (Influence Zone)",
+      "short_description": "Though the springs are distant, this Eldoret 'influence zone' is a local site for spiritual renewal, drawing metaphorical power from the region's geothermal activity for healing and purification.",
+      "subtype": "Desert Power Sites",
+      "address": "Kipkaren River Area, Eldoret East",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1582239459200-a521a0a552b0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Geothermal energy",
+        "Healing",
+        "Purification"
+      ]
+    },
+    {
+      "id": "DPS004",
+      "name": "Kiplombe Gorge Whisper Spot",
+      "short_description": "A secluded part of the Kiplombe Gorge, known for its profound stillness and the subtle whispers of wind, offering a deep connection to raw nature's undisturbed energy, much like desert solitude.",
+      "subtype": "Desert Power Sites",
+      "address": "Kiplombe Area, Along Eldoret-Uganda Road",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628126742511-b0e5d03a1154?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Gorge",
+        "Stillness",
+        "Nature's power"
+      ]
+    },
+    {
+      "id": "MEP001",
+      "name": "Eldoret Interfaith Harmony Centre",
+      "short_description": "A contemporary space designed to foster understanding and spiritual exchange among diverse faiths, hosting workshops, dialogues, and interfaith prayer sessions for peace.",
+      "subtype": "Modern Energy Places",
+      "address": "Uganda Road, Central Business District, Eldoret",
+      "visiting_hours": "09:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1623992224792-7f98e54146a7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Interfaith dialogue",
+        "Community",
+        "Peace"
+      ]
+    },
+    {
+      "id": "MEP002",
+      "name": "Uasin Gishu Healing Arts Collective",
+      "short_description": "A vibrant hub for holistic wellness, offering practices like yoga, meditation, sound healing, and alternative therapies, attracting those seeking modern spiritual and physical well-being.",
+      "subtype": "Modern Energy Places",
+      "address": "Action Area, Off Eldoret-Iten Road",
+      "visiting_hours": "07:00-20:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1544367520-cfaf77906d2c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Holistic wellness",
+        "Yoga",
+        "Alternative therapy"
+      ]
+    },
+    {
+      "id": "MEP003",
+      "name": "Kenyatta Avenue Meditation Hub",
+      "short_description": "A serene, modern urban oasis providing guided meditation sessions, quiet reflection zones, and mindfulness workshops for busy city dwellers seeking inner peace and clarity.",
+      "subtype": "Modern Energy Places",
+      "address": "Kenyatta Avenue, CBD, Eldoret",
+      "visiting_hours": "06:00-21:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1502444330042-d1a277f7221d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Urban oasis",
+        "Mindfulness",
+        "Meditation"
+      ]
+    },
+    {
+      "id": "MEP004",
+      "name": "Pioneer Estate Community Shrine",
+      "short_description": "A contemporary community-built spiritual space reflecting local artistry and values, serving as a gathering point for collective prayer, celebration, and shared spiritual practices.",
+      "subtype": "Modern Energy Places",
+      "address": "Pioneer Estate, Off Eldoret-Uganda Highway",
+      "visiting_hours": "08:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1577772635397-9e4a3b782928?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Community shrine",
+        "Local artistry",
+        "Collective prayer"
+      ]
+    },
+    {
+      "id": "BOD001",
+      "name": "Cheplaskei Peace Memorial",
+      "short_description": "The solemn site of a significant historical conflict between local communities, now transformed into a memorial park dedicated to peace, reconciliation, and remembrance of past struggles.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Cheplaskei, Off Eldoret-Kapsabet Road",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1629859556214-41d9c57d5970?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Peace memorial",
+        "Reconciliation",
+        "Historical conflict"
+      ]
+    },
+    {
+      "id": "BOD002",
+      "name": "Nandi Resistance Ground",
+      "short_description": "A historical site where the Nandi people fiercely resisted colonial rule, imbued with the spirit of defiance and bravery, serving as a powerful reminder of ancestral resilience.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Near Nandi Hills, Nandi County (Eldoret proximity)",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1560965354-9a9972c842b0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Nandi resistance",
+        "Colonial history",
+        "Bravery"
+      ]
+    },
+    {
+      "id": "BOD003",
+      "name": "Kapsabet Border Skirmish Site",
+      "short_description": "This area marks a traditional borderland where numerous skirmishes and territorial disputes occurred between Kalenjin sub-tribes, now a place for reflection on tribal identities and shared history.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Along Eldoret-Kapsabet Road, Boundary Area",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579752838971-855c707d896c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Tribal history",
+        "Border disputes",
+        "Identity"
+      ]
+    },
+    {
+      "id": "BOD004",
+      "name": "Sosiani River Ambush Point",
+      "short_description": "A strategic bend in the Sosiani River, historically known as a site for ambushes during inter-clan conflicts, now a somber reminder of past rivalries and the value of peace.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Sosiani River Bank, Near Langas, Eldoret",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1518066000714-cd4f1585325c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Clan history",
+        "Conflict resolution",
+        "Riverside"
+      ]
+    },
+    {
+      "id": "PR001",
+      "name": "Koitalel Samoei Ancestral Path",
+      "short_description": "A historic walking trail honoring the journey of Koitalel Arap Samoei, revered Nandi Oloiboni, taken by those seeking wisdom, guidance, and connection to his powerful spirit.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts from Nandi Hills, leads towards Eldoret outskirts",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1506190100779-781e09c1ee3f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Nandi pilgrimage",
+        "Historical figure",
+        "Spiritual walk"
+      ]
+    },
+    {
+      "id": "PR002",
+      "name": "Kalenjin Unity Walk Trail",
+      "short_description": "A designated route used for community solidarity and peace walks, uniting various Kalenjin sub-tribes in a shared journey of cultural pride and reconciliation.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting Point: Kapsabet Road, Eldoret",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1533214896-1a5116790a6f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Community unity",
+        "Kalenjin culture",
+        "Peace walk"
+      ]
+    },
+    {
+      "id": "PR003",
+      "name": "Eldoret Dawn Prayer Route",
+      "short_description": "A popular urban-edge path favored by local residents for early morning spiritual walks, prayer, and reflection, offering a tranquil start to the day with scenic views.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Along Sosiani River, Off Nandi Road, Eldoret",
+      "visiting_hours": "05:00-08:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549414571-0ae107142750?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Morning prayer",
+        "Urban spiritual",
+        "Tranquil walk"
+      ]
+    },
+    {
+      "id": "PR004",
+      "name": "Cheptiret Healing Journey",
+      "short_description": "A rural path believed to possess healing properties, traversed by individuals seeking spiritual and physical restoration, connecting them with the nurturing energy of the land.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Cheptiret Rural Area, Uasin Gishu County",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1534008139556-55a0f2b343a4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Healing path",
+        "Rural pilgrimage",
+        "Nature connection"
+      ]
+    }
+  ]
+}

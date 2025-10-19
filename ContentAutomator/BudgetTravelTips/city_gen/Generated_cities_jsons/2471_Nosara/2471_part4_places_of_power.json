@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Nosara",
+    "city_id": "2471"
+  },
+  "items": [
+    {
+      "id": "NosaraTemple01",
+      "name": "Temple of the Sun Stone",
+      "short_description": "A reconstructed Chorotega ceremonial platform, where ancient peoples honored the sun's journey, believed to imbue visitors with vitality and clarity.",
+      "subtype": "Ancient Temples",
+      "address": "End of Calle Pescador, near Playa Pelada, Nosara",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cerro_Zapatera_Nicaragua_001.jpg/1024px-Cerro_Zapatera_Nicaragua_001.jpg",
+      "tags": [
+        "Chorotega heritage",
+        "sun worship",
+        "ancient rituals"
+      ]
+    },
+    {
+      "id": "NosaraTemple02",
+      "name": "Serenity Temple of Guiones",
+      "short_description": "A contemporary spiritual center built with natural materials, designed to mimic ancient temple aesthetics, fostering deep meditation and inner peace amidst Nosara's lush nature.",
+      "subtype": "Ancient Temples",
+      "address": "150m East of Playa Guiones Main Entrance, Nosara",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1579737119106-9b3b0c608053?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "yoga",
+        "meditation",
+        "wellness sanctuary"
+      ]
+    },
+    {
+      "id": "NosaraTemple03",
+      "name": "Temple of Whispering Waters",
+      "short_description": "An ancient, simple shrine beside the Nosara River, revered by indigenous groups for its healing energies, where the river's flow is believed to carry away burdens.",
+      "subtype": "Ancient Temples",
+      "address": "Along Rio Nosara, near Puente de Nosara, Nosara",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596205763073-19597a7a51d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "river spiritualism",
+        "indigenous reverence",
+        "healing waters"
+      ]
+    },
+    {
+      "id": "NosaraTemple04",
+      "name": "Temple of the Earth Spirit",
+      "short_description": "Nestled deep within the forest, this ancient stone circle, partially reclaimed by nature, is a place where locals connect with the primal energy of the earth and the spirits of the trees.",
+      "subtype": "Ancient Temples",
+      "address": "Inside Reserva Biológica Nosara, accessible via guided trail",
+      "visiting_hours": "07:00-15:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1589416972074-a4f65c92842c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "earth energy",
+        "forest spirituality",
+        "ancient ruins"
+      ]
+    },
+    {
+      "id": "NosaraDesert01",
+      "name": "Mirador del Sol",
+      "short_description": "A high, open clearing with expansive views, known for intense solar energy during the dry season, perfect for sun-gazing and energy absorption at dawn or dusk.",
+      "subtype": "Desert Power Sites",
+      "address": "Top of Ruta 160 scenic overlook, near Nosara Airport",
+      "visiting_hours": "05:30-18:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547481119-948f29d2b217?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "solar energy",
+        "vista point",
+        "meditation spot"
+      ]
+    },
+    {
+      "id": "NosaraDesert02",
+      "name": "The Whispering Savannah",
+      "short_description": "A tranquil, sun-drenched savannah pocket within the dry forest, where the wind carries ancient whispers, inviting deep contemplation and connection to the vastness.",
+      "subtype": "Desert Power Sites",
+      "address": "Off Camino del Sol, 2km inland from Playa Pelada, Nosara",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579717523999-52e6973e4a93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "wind spirits",
+        "open space",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "NosaraDesert03",
+      "name": "Canyon of the Ancestors",
+      "short_description": "A small, dry canyon carved by seasonal rains, its ancient rock walls said to hold the echoes of Chorotega rituals, providing a profound sense of historical presence and power.",
+      "subtype": "Desert Power Sites",
+      "address": "Near Finca Austria, accessible via hiking trail, Nosara",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1541819660-84f932470f7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ancestral energy",
+        "geological wonder",
+        "historical site"
+      ]
+    },
+    {
+      "id": "NosaraDesert04",
+      "name": "The Radiant Clearing",
+      "short_description": "A naturally occurring circular clearing in the dry forest, where the earth's electromagnetic energy is noticeably concentrated, invigorating visitors and facilitating deep grounding practices.",
+      "subtype": "Desert Power Sites",
+      "address": "Within the Ostional Wildlife Refuge buffer zone, via specific trail",
+      "visiting_hours": "06:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1509939527263-cf9d9361e687?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "earth energy",
+        "grounding",
+        "natural vortex"
+      ]
+    },
+    {
+      "id": "NosaraVolcano01",
+      "name": "Fumaroles of the Forgotten Spring",
+      "short_description": "A hidden geothermal area several kilometers inland, featuring small mud pots and steam vents, believed to be the breath of the Earth, offering powerful detoxification and spiritual cleansing.",
+      "subtype": "Volcanic Zones",
+      "address": "20km East of Nosara, near Río Montaña headwaters",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1596707323136-231a477ce682?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "geothermal",
+        "detoxification",
+        "earth's breath"
+      ]
+    },
+    {
+      "id": "NosaraVolcano02",
+      "name": "The Obsidian Grotto",
+      "short_description": "A small cave with walls rich in ancient obsidian deposits, remnants of distant volcanic activity, revered for its reflective qualities and connection to deeper subconscious realms.",
+      "subtype": "Volcanic Zones",
+      "address": "Hidden Cave, off Ruta 160 North, near Lagarto",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549721759-4f7f6311634b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "obsidian",
+        "introspection",
+        "ancient geology"
+      ]
+    },
+    {
+      "id": "NosaraVolcano03",
+      "name": "Phoenix Ash Hills",
+      "short_description": "A series of low, fertile hills where the soil is enriched by ancient volcanic ash, symbolizing rebirth and renewal, making it a sacred place for new beginnings and releasing the past.",
+      "subtype": "Volcanic Zones",
+      "address": "On the Eastern edge of Finca Nosara, near Santa Marta",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510404368595-5d9c72c114f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "rebirth",
+        "fertile land",
+        "volcanic soil"
+      ]
+    },
+    {
+      "id": "NosaraVolcano04",
+      "name": "The Sulphur Breath Pools",
+      "short_description": "Secluded hot springs slightly inland, characterized by their therapeutic mineral content and a gentle sulfur aroma, believed to cleanse the spirit and soothe the body.",
+      "subtype": "Volcanic Zones",
+      "address": "Off Route 160, 25km East of Nosara, accessible by 4x4",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1547900720-7f999650212a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "hot springs",
+        "healing waters",
+        "mineral baths"
+      ]
+    },
+    {
+      "id": "NosaraCelestial01",
+      "name": "Star Weaver's Mesa",
+      "short_description": "A flat-topped hill offering unobstructed panoramic views of the night sky, revered by ancient people for its clear celestial alignments, perfect for stargazing and cosmic connection.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Northern point of Ostional Wildlife Refuge, inland mesa",
+      "visiting_hours": "18:00-05:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502421865910-3c2243d9a5b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "stargazing",
+        "astronomy",
+        "cosmic energy"
+      ]
+    },
+    {
+      "id": "NosaraCelestial02",
+      "name": "Solstice Stone Circle",
+      "short_description": "A small, contemporary stone circle, precisely arranged to mark the solstices and equinoxes, facilitating communal celebrations and deep attunement to seasonal cosmic rhythms.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Finca Armonia, 500m North of Playa Guiones, Nosara",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596566068069-42b453e9a030?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "solstice",
+        "equinox",
+        "celestial mechanics"
+      ]
+    },
+    {
+      "id": "NosaraCelestial03",
+      "name": "Lunar Bay Viewpoint",
+      "short_description": "A cliffside overlook providing breathtaking views of the moon reflecting on the ocean, especially potent during full and new moons for lunar rituals and introspection.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "North end of Playa Pelada cliffs, Nosara",
+      "visiting_hours": "18:00-06:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1559132204-610170a46698?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "lunar cycle",
+        "ocean view",
+        "meditation"
+      ]
+    },
+    {
+      "id": "NosaraCelestial04",
+      "name": "Equinox Tree Spiral",
+      "short_description": "A meticulously planted spiral of native trees, designed to align with the rising sun on the equinoxes, creating a natural meditative path for energetic renewal and balance.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Near Harmony Hotel, Bodhi Tree Yoga Resort area, Nosara",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1498064953930-a922883f3e18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "tree meditation",
+        "equinox ritual",
+        "nature alignment"
+      ]
+    },
+    {
+      "id": "NosaraModern01",
+      "name": "The Bodhi Tree Sanctuary",
+      "short_description": "A renowned yoga and wellness retreat, featuring open-air studios, healing spa, and a vibrant community, designed to cultivate inner peace, physical vitality, and spiritual growth.",
+      "subtype": "Modern Energy Places",
+      "address": "Bodhi Tree Yoga Resort, 500m North of Playa Guiones, Nosara",
+      "visiting_hours": "06:00-21:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1549439600-60b5e40632b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "yoga retreat",
+        "wellness",
+        "spiritual growth"
+      ]
+    },
+    {
+      "id": "NosaraModern02",
+      "name": "Nosara Healing Arts Center",
+      "short_description": "A hub for various holistic healing modalities, including sound baths, reiki, and ancestral healing workshops, providing a contemporary space for profound personal transformation.",
+      "subtype": "Modern Energy Places",
+      "address": "Calle Vista de Guiones, across from Super Nosara",
+      "visiting_hours": "09:00-19:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1533035345686-302ef33d069b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "holistic healing",
+        "sound therapy",
+        "reiki"
+      ]
+    },
+    {
+      "id": "NosaraModern03",
+      "name": "The Flow State Surf Sanctuary",
+      "short_description": "A unique center combining surf instruction with mindfulness practices, emphasizing the spiritual connection to the ocean and achieving 'flow state' as a form of active meditation.",
+      "subtype": "Modern Energy Places",
+      "address": "Playa Guiones South, near main beach access",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1614051088484-9c0202951e18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "surf spirituality",
+        "mindfulness",
+        "ocean connection"
+      ]
+    },
+    {
+      "id": "NosaraModern04",
+      "name": "Ecstatic Dance Temple",
+      "short_description": "A vibrant, open-air pavilion dedicated to ecstatic dance and movement meditation, fostering self-expression, community, and release of stagnant energy through rhythmic movement.",
+      "subtype": "Modern Energy Places",
+      "address": "Near Hotel Nalu, off Calle Los Mangos, Nosara",
+      "visiting_hours": "18:30-22:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1517524008697-d8667a42398e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ecstatic dance",
+        "movement therapy",
+        "community"
+      ]
+    },
+    {
+      "id": "NosaraBattle01",
+      "name": "Memorial of the Chorotega Stand",
+      "short_description": "A quiet glade where, according to local legend, Chorotega warriors made a final stand against encroaching forces, now a place for reflection on resilience and ancestral strength.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Inland trail within Reserva Biológica Nosara, marked path",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1589133465492-4f3b235f3d79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "indigenous history",
+        "resilience",
+        "ancestral memory"
+      ]
+    },
+    {
+      "id": "NosaraBattle02",
+      "name": "Point of No Return (Environmental)",
+      "short_description": "A rugged stretch of coastline where early conservationists fought to protect the vital turtle nesting grounds, symbolizing the ongoing battle for environmental preservation and future generations.",
+      "subtype": "Battlefields of Destiny",
+      "address": "North end of Ostional Wildlife Refuge beach, Nosara",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1549721666-4a478b274e2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "conservation",
+        "environmental activism",
+        "turtle protection"
+      ]
+    },
+    {
+      "id": "NosaraBattle03",
+      "name": "The Crossroads of Choices",
+      "short_description": "A historically significant intersection where early settlers and indigenous traders met, often leading to crucial decisions shaping the region's destiny, now a contemplative spot for personal guidance.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Intersection of Ruta 160 and Calle Playa Nosara",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1522075782780-6060c29f632b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "decision point",
+        "historical meeting",
+        "personal destiny"
+      ]
+    },
+    {
+      "id": "NosaraBattle04",
+      "name": "The Sanctuary of Surrender",
+      "short_description": "A secluded, peaceful beach cove known locally as a place to 'surrender' personal struggles and conflicts, transforming inner battles into peace and acceptance through the ocean's calming power.",
+      "subtype": "Battlefields of Destiny",
+      "address": "North end of Playa Rosada, accessible by foot/kayak, Nosara",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1507204646706-0561bb515a6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "inner peace",
+        "surrender",
+        "ocean healing"
+      ]
+    },
+    {
+      "id": "NosaraAncientCity01",
+      "name": "Chorotega Echoes Village",
+      "short_description": "A site showcasing reconstructed Chorotega dwellings and communal spaces, offering insight into the daily life and spiritual practices of Nosara's ancient inhabitants.",
+      "subtype": "Ancient Cities",
+      "address": "Near Finca Pura Vida, 5km inland from Playa Nosara",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cerro_Zapatera_Nicaragua_001.jpg/1024px-Cerro_Zapatera_Nicaragua_001.jpg",
+      "tags": [
+        "Chorotega history",
+        "indigenous culture",
+        "reconstructed village"
+      ]
+    },
+    {
+      "id": "NosaraAncientCity02",
+      "name": "Sacred Pottery Mounds",
+      "short_description": "Low earth mounds where ancient pottery fragments and artifacts are frequently found, indicating a former ceremonial or residential center, imbued with the spirits of past communities.",
+      "subtype": "Ancient Cities",
+      "address": "Along the lower Nosara River, near the bridge, private land access",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1506744038136-4015f2125f49?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "archaeology",
+        "ancient community",
+        "earthen structures"
+      ]
+    },
+    {
+      "id": "NosaraAncientCity03",
+      "name": "The Lost Garden of Spirits",
+      "short_description": "An overgrown area of ancient terraced gardens, once part of a larger indigenous settlement, believed to be tended by nature spirits, promoting growth and abundance.",
+      "subtype": "Ancient Cities",
+      "address": "Northern slope of Cerro Azul, accessible via private land permit",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1500382017468-ba2586230678?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ancient agriculture",
+        "nature spirits",
+        "fertility rituals"
+      ]
+    },
+    {
+      "id": "NosaraAncientCity04",
+      "name": "Ancestral Trading Post Ruins",
+      "short_description": "Remnants of a vital pre-Columbian trading post, where goods and ideas were exchanged between coastal and inland tribes, fostering a sense of interconnectedness and ancient commerce.",
+      "subtype": "Ancient Cities",
+      "address": "Near the confluence of Río Nosara and Río Montaña, upstream",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1557608447-90c74ce0f7f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ancient trade",
+        "interconnectedness",
+        "historical ruins"
+      ]
+    },
+    {
+      "id": "NosaraMonolith01",
+      "name": "Guardian Rock of Playa Pelada",
+      "short_description": "A striking natural rock arch on the beach, revered by locals as a sentinel overseeing the coast, offering protection and inspiring strength.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Playa Pelada, North end, Nosara",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563212876-0f8c8d8b63e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "coastal landmark",
+        "protection",
+        "natural wonder"
+      ]
+    },
+    {
+      "id": "NosaraMonolith02",
+      "name": "The Serpent Stone",
+      "short_description": "A massive, naturally carved rock formation resembling a coiled serpent, considered a sacred animal in many indigenous cultures, representing transformation and primordial wisdom.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Along the hiking trail in Nosara Biological Reserve",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1528696803738-f9b1d9d95f24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "serpent symbolism",
+        "transformation",
+        "indigenous lore"
+      ]
+    },
+    {
+      "id": "NosaraMonolith03",
+      "name": "The Crying Rock",
+      "short_description": "A large rock with natural seeps that make it appear to 'cry,' especially during the dry season, symbolizing sorrow, cleansing, and emotional release.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Near the waterfall on the road to Ostional, Nosara",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1507548766158-b12e3288b8f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "emotional release",
+        "natural spring",
+        "symbology"
+      ]
+    },
+    {
+      "id": "NosaraMonolith04",
+      "name": "The Oracle's Bluff",
+      "short_description": "A prominent cliffside bluff overlooking the ocean, where indigenous elders once sought visions and guidance, its wind-swept heights still offer clarity and insight.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "South end of Playa Guiones, cliff path",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1505299446059-4d648b2d7139?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "divination",
+        "wisdom",
+        "ocean view"
+      ]
+    },
+    {
+      "id": "NosaraForest01",
+      "name": "The Cathedral of Ceiba Trees",
+      "short_description": "A majestic grove of ancient Ceiba trees, their immense trunks and towering canopies forming a natural cathedral, revered as sacred portals to higher realms and ancestral spirits.",
+      "subtype": "Sacred Forests",
+      "address": "Within the private reserve of Lagarta Lodge, Nosara",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1563841029858-a5c7f8e8b030?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ancient trees",
+        "forest bathing",
+        "spirituality"
+      ]
+    },
+    {
+      "id": "NosaraForest02",
+      "name": "Mangrove Labyrinth of Souls",
+      "short_description": "A tranquil and intricate mangrove ecosystem, its winding waterways and root systems forming a natural labyrinth, inviting quiet contemplation and connection to the primal forces of life and death.",
+      "subtype": "Sacred Forests",
+      "address": "Rio Nosara Estuary, accessible by kayak tour",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1548074698-b80c102a926d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "mangrove",
+        "nature meditation",
+        "ecosystem"
+      ]
+    },
+    {
+      "id": "NosaraForest03",
+      "name": "The Healing Undergrowth",
+      "short_description": "A dense, untouched section of the dry forest, rich in medicinal plants and potent earth energies, known by local shamans as a place for deep healing and spiritual rejuvenation.",
+      "subtype": "Sacred Forests",
+      "address": "Designated trail within the Nosara Biological Reserve",
+      "visiting_hours": "07:00-15:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1502421865910-3c2243d9a5b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB3MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "medicinal plants",
+        "shamanism",
+        "forest healing"
+      ]
+    },
+    {
+      "id": "NosaraForest04",
+      "name": "Grove of the Elder Fig",
+      "short_description": "Centered around an immense, ancient Strangler Fig tree, this grove is a powerful site for reflection on interconnectedness, growth, and the cyclical nature of life.",
+      "subtype": "Sacred Forests",
+      "address": "Near the main road to Playa Pelada, behind Olas Verdes Hotel",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1614838640161-0407784f18d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "strangler fig",
+        "interconnectedness",
+        "nature cycles"
+      ]
+    },
+    {
+      "id": "NosaraMountain01",
+      "name": "Cerro Nosara (Mount of Wisdom)",
+      "short_description": "The highest point in the immediate Nosara area, offering panoramic views of the ocean and forest, historically a site for vision quests and seeking wisdom from above.",
+      "subtype": "Sacred Mountains",
+      "address": "Summit of Cerro Nosara, accessible via challenging hike",
+      "visiting_hours": "06:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502691350106-9524022a101b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "vision quest",
+        "panoramic view",
+        "wisdom seeking"
+      ]
+    },
+    {
+      "id": "NosaraMountain02",
+      "name": "The Spirit Ridge Trail",
+      "short_description": "A winding trail along a prominent ridge, offering elevated perspectives and a sense of connection to both the sky and the earth, ideal for walking meditations and grounding.",
+      "subtype": "Sacred Mountains",
+      "address": "Starting point near Delicias, Nosara Hills",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1533229605335-e11739c9f4d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "walking meditation",
+        "ridge hike",
+        "grounding"
+      ]
+    },
+    {
+      "id": "NosaraMountain03",
+      "name": "Peak of the Ocean Song",
+      "short_description": "A smaller peak overlooking Playa Guiones, where the sound of the ocean swells rises up the hills, inspiring creative expression and deep emotional resonance.",
+      "subtype": "Sacred Mountains",
+      "address": "Hilltop overlooking Playa Guiones, accessible via Bodhi Tree path",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510414936237-774f767072a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "creative inspiration",
+        "ocean sounds",
+        "emotional resonance"
+      ]
+    },
+    {
+      "id": "NosaraMountain04",
+      "name": "Ancestral Fire Summit",
+      "short_description": "A secluded, natural plateau on a lesser-known hill, historically used by indigenous tribes for ceremonial fires and smoke signals, connecting earth and sky, past and present.",
+      "subtype": "Sacred Mountains",
+      "address": "Deep within the hills East of San Juan, Nosara",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1511210515124-ed98b4791e3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB3MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ceremonial fire",
+        "indigenous rituals",
+        "connection to ancestors"
+      ]
+    }
+  ]
+}

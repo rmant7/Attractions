@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "San José",
+    "city_id": "2476"
+  },
+  "items": [
+    {
+      "id": "SVIL001",
+      "name": "Silicon Valley Immersive Lab",
+      "short_description": "Dive into the future with cutting-edge exhibits on artificial intelligence, robotics, and virtual reality, offering hands-on experiences for all ages.",
+      "address": "100 Innovation Way, San José, CA 95113",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510511459019-5fda7724fd8f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "technology",
+        "interactive",
+        "education"
+      ]
+    },
+    {
+      "id": "GRG002",
+      "name": "Guadalupe Riverfront Gardens",
+      "short_description": "A beautifully revitalized urban oasis featuring native plant landscapes, public art installations, and serene walking paths along the Guadalupe River.",
+      "address": "300 W Hedding St, San José, CA 95110",
+      "opening_hours": "24/7",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1507525428034-b732cf96133e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "park",
+        "nature",
+        "art"
+      ]
+    },
+    {
+      "id": "SJMC003",
+      "name": "The San José Market Collective",
+      "short_description": "A vibrant indoor market hall showcasing an eclectic mix of local culinary talents, artisan crafts, and community events in a lively atmosphere.",
+      "address": "350 S 1st St, San José, CA 95113",
+      "opening_hours": "09:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542838132-9257e1327157?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food",
+        "market",
+        "local"
+      ]
+    },
+    {
+      "id": "CCAM004",
+      "name": "Catalyst Contemporary Art Museum",
+      "short_description": "Explore groundbreaking contemporary art with a focus on digital media and experimental installations from emerging and established artists.",
+      "address": "490 S 1st St, San José, CA 95113",
+      "opening_hours": "11:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1588660341142-b36c4b2b2a63?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "museum",
+        "culture"
+      ]
+    },
+    {
+      "id": "GGAVR005",
+      "name": "Gravity Games Arcade & VR Zone",
+      "short_description": "Unleash your competitive spirit in this state-of-the-art entertainment hub featuring classic and modern arcade games, cutting-edge VR experiences, and esports arenas.",
+      "address": "1550 N Berryessa Rd, San José, CA 95133",
+      "opening_hours": "10:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1569055871274-12349e4ae71f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "arcade",
+        "VR",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": "IHLMS006",
+      "name": "Innovation Hub Library & Maker Space",
+      "short_description": "More than just books, this new community center offers 3D printing, coding workshops, co-working spaces, and resources for creative learning.",
+      "address": "1200 Branham Ln, San José, CA 95118",
+      "opening_hours": "09:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1533230623190-20412753066d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "library",
+        "community",
+        "education"
+      ]
+    },
+    {
+      "id": "CCBP007",
+      "name": "Coyote Creek Bouldering Park",
+      "short_description": "An innovative outdoor recreation spot featuring custom-designed bouldering walls for all skill levels, nestled alongside the scenic Coyote Creek Trail.",
+      "address": "1770 E Capitol Expy, San José, CA 95121",
+      "opening_hours": "06:00-22:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628108535043-41c30438a44b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "outdoor",
+        "sports",
+        "adventure"
+      ]
+    },
+    {
+      "id": "TESDW008",
+      "name": "The Echo Stage at Downtown West",
+      "short_description": "An intimate and acoustically superb venue dedicated to live music, stand-up comedy, and diverse performing arts, bringing fresh talent to San José.",
+      "address": "10 N Autumn St, San José, CA 95110",
+      "opening_hours": "Varies by event (typically 18:00-23:00)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549488347-1f4f5a34e892?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "music",
+        "performing arts",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "QCL009",
+      "name": "Quantum Coffee Lab",
+      "short_description": "Experience coffee reimagined in this sleek, science-inspired cafe where precision brewing techniques and unique flavor profiles create an unforgettable cup.",
+      "address": "250 S 4th St, San José, CA 95112",
+      "opening_hours": "07:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627916538059-4f7f502d35e1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cafe",
+        "coffee",
+        "unique"
+      ]
+    },
+    {
+      "id": "AHPC010",
+      "name": "Adobe Heritage Park & Interpretive Center",
+      "short_description": "Step back in time at this beautifully restored park, showcasing historic adobe buildings and interactive exhibits that tell the story of early Californian life.",
+      "address": "310 S Montgomery St, San José, CA 95110",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1601666497334-92701f2f354f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "history",
+        "culture",
+        "park"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Mombasa",
+    "city_id": "2437"
+  },
+  "items": [
+    {
+      "id": "MBS001",
+      "name": "Skyline Terrace & Lounge",
+      "short_description": "Enjoy breathtaking panoramic views of Mombasa's skyline and the Indian Ocean from this chic rooftop lounge. Perfect for sundowners and sophisticated evenings.",
+      "address": "Moi Avenue, Central Business District, Mombasa",
+      "opening_hours": "17:00-01:00 (daily)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549488310-f1c5c0a3e8e1?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nightlife",
+        "views",
+        "dining"
+      ]
+    },
+    {
+      "id": "MBS002",
+      "name": "Mombasa Oceanarium & Discovery Center",
+      "short_description": "An interactive center dedicated to marine conservation, featuring touch pools, educational exhibits, and a large aquarium showcasing East Africa's vibrant underwater ecosystem.",
+      "address": "Mama Ngina Waterfront Park, Likoni, Mombasa",
+      "opening_hours": "09:30-17:30 (Tuesday-Sunday)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1543888351-4089e9005934?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "education",
+        "nature",
+        "family"
+      ]
+    },
+    {
+      "id": "MBS003",
+      "name": "Jungle Canopy Zipline & Adventure Park",
+      "short_description": "Thrilling zipline courses, canopy walks, and obstacle challenges set amidst a lush coastal forest. An adrenaline-pumping experience for all ages.",
+      "address": "Diani Road, South Coast (near Ukunda), Mombasa",
+      "opening_hours": "09:00-16:00 (daily)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1579248740529-577cf4122d64?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "family",
+        "eco-tourism"
+      ]
+    },
+    {
+      "id": "MBS004",
+      "name": "Pwani Contemporary Art Gallery",
+      "short_description": "Discover emerging and established East African artists in this vibrant gallery space. Features rotating exhibitions, workshops, and a gift shop with unique local crafts.",
+      "address": "Biashara Street, Old Town, Mombasa",
+      "opening_hours": "10:00-18:00 (Monday-Saturday)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1588667825590-7f61b0c0f4f9?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "culture",
+        "art",
+        "shopping"
+      ]
+    },
+    {
+      "id": "MBS005",
+      "name": "Kilindini Floating Bites",
+      "short_description": "Experience Mombasa's culinary scene aboard a unique floating platform. Enjoy fresh seafood, local delicacies, and live music with stunning harbor views.",
+      "address": "Kilindini Harbour, Near Likoni Ferry Terminal, Mombasa",
+      "opening_hours": "12:00-22:00 (daily)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596701046162-b7e174b5b7b9?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food",
+        "unique",
+        "dining"
+      ]
+    },
+    {
+      "id": "MBS006",
+      "name": "Dolphin Bay Beach Club",
+      "short_description": "A vibrant beach club offering watersports, beachfront dining, and live entertainment. Relax by the ocean, try jet-skiing, or simply soak up the sun.",
+      "address": "Bamburi Beach, North Coast, Mombasa",
+      "opening_hours": "10:00-00:00 (daily)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563729780447-e1763ef8013c?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "beach",
+        "watersports",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "MBS007",
+      "name": "Old Town Echoes Museum & Trail",
+      "short_description": "An immersive experience blending augmented reality and traditional exhibits to bring Mombasa's Old Town history to life. Follow a self-guided trail with interactive points.",
+      "address": "Fort Jesus Road, Old Town, Mombasa",
+      "opening_hours": "09:00-17:00 (daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1547844111-d0ac24128f73?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "history",
+        "culture",
+        "walking tour"
+      ]
+    },
+    {
+      "id": "MBS008",
+      "name": "Coastline Harvest Farm & Kitchen",
+      "short_description": "A sustainable organic farm offering tours, cooking classes using fresh produce, and a farm-to-table restaurant. Learn about local agriculture and taste authentic Swahili flavors.",
+      "address": "Nyali-Shanzu Road, North Coast, Mombasa",
+      "opening_hours": "09:00-18:00 (Tuesday-Sunday)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1507963339174-8b5d3761899a?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food",
+        "nature",
+        "education"
+      ]
+    },
+    {
+      "id": "MBS009",
+      "name": "Funky Town Family Entertainment Centre",
+      "short_description": "Mombasa's largest indoor family entertainment centre featuring arcade games, laser tag, soft play areas, and a mini-golf course. Fun for kids and adults alike.",
+      "address": "Links Road, Nyali, Mombasa",
+      "opening_hours": "10:00-22:00 (daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627960714652-5069b185361b?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "family",
+        "entertainment",
+        "kids"
+      ]
+    },
+    {
+      "id": "MBS010",
+      "name": "Serene Sands Wellness Retreat",
+      "short_description": "A tranquil escape offering luxurious spa treatments, yoga classes by the beach, and healthy dining options. Rejuvenate your mind, body, and soul in a peaceful coastal setting.",
+      "address": "Shanzu Beach, North Coast, Mombasa",
+      "opening_hours": "08:00-20:00 (daily)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563911302283-d2bc129e9670?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wellness",
+        "relaxation",
+        "luxury"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Warri",
+    "city_id": "2464"
+  },
+  "items": [
+    {
+      "id": "WAR-AQ1",
+      "name": "Warri Ocean Wonders",
+      "short_description": "Explore the vibrant marine life of the Atlantic and local Delta rivers in an immersive and educational setting. Features large tanks and fascinating exhibits.",
+      "subtype": "Aquariums",
+      "address": "12 Marine Drive, Effurun, Warri, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549740510-14e3040333d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw0OXx8YWR1bHQlMjBhbmQlMjBjaGlsZHJlbiUyMGFxdWFyaXVtfGVufDB8fHx8MTcwNjY5NTkwNnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marine life",
+        "education",
+        "aquatic animals"
+      ]
+    },
+    {
+      "id": "WAR-AQ2",
+      "name": "Delta Deep Dive Aquarium",
+      "short_description": "A unique aquarium focusing on the diverse freshwater and brackish water ecosystems of the Niger Delta. Discover rare local species and their habitats.",
+      "subtype": "Aquariums",
+      "address": "Sapele-Warri Road, near Ekpan Junction, Warri, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510414842594-df862e2be67d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwzfHxmcmVzaHdhdGVyJTIwYXF1YXJpdW18ZW58MHx8fHwxNzA2Njk2MDIyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Niger Delta",
+        "freshwater",
+        "conservation"
+      ]
+    },
+    {
+      "id": "WAR-AQ3",
+      "name": "Aqua Kids Discovery Centre",
+      "short_description": "Designed for young explorers, this interactive centre features touch tanks, feeding sessions, and engaging exhibits to spark curiosity about aquatic creatures.",
+      "subtype": "Aquariums",
+      "address": "5 Okumagba Avenue, Warri, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1534003294334-a2123e429215?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw4fHxpbnRlcmFjdGl2ZSUyMGFxdWFyaXVtfGVufDB8fHx8MTcwNjY5NjA0OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "interactive",
+        "children",
+        "education"
+      ]
+    },
+    {
+      "id": "WAR-AQ4",
+      "name": "Riverine Realm Aquarium",
+      "short_description": "Step into a world showcasing the rich biodiversity of Warri's riverine environment. Learn about different fish species, reptiles, and amphibians native to the region.",
+      "subtype": "Aquariums",
+      "address": "Plot 20, Bendel Estate, Off Airport Road, Warri, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1589182372132-e0c1a938c538?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw3fHxiaW9kaXZlcnNpdHklMjBhcnJlbmF8ZW58MHx8fHwxNzA2Njk2MDY4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "local wildlife",
+        "reptiles",
+        "amphibians"
+      ]
+    },
+    {
+      "id": "WAR-ST1",
+      "name": "Tales of Warri Garden",
+      "short_description": "A serene park where Warri's rich oral traditions and folklore come alive. Listen to engaging stories under ancient trees and explore cultural sculptures.",
+      "subtype": "Storytelling Parks",
+      "address": "15 Okere Road, Warri, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563721454553-6c84136e4f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw0NXx8c3Rvcnl0ZWxsaW5nJTIwZ2FyZGVufGVufDB8fHx8MTcwNjY5NjIzMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "folklore",
+        "culture",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "WAR-ST2",
+      "name": "The Imagination Grove",
+      "short_description": "An interactive park where children can immerse themselves in diverse stories through themed play areas, puppet shows, and storytelling sessions.",
+      "subtype": "Storytelling Parks",
+      "address": "Off Jakpa Road, near Ugbomro, Warri, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596798030278-8316c1411c5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHxjaGlsZHJlbiUyMHBhcmt8ZW58MHx8fHwxNzA2Njk2Mjk1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "interactive play",
+        "imagination",
+        "puppet shows"
+      ]
+    },
+    {
+      "id": "WAR-ST3",
+      "name": "Adventure Narratives Park",
+      "short_description": "Embark on a quest through this park, where each path leads to a new part of an ongoing adventure story. Solve riddles and discover hidden treasures.",
+      "subtype": "Storytelling Parks",
+      "address": "Plot 7, Refinery Road, Ekpan, Warri, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579737150035-0814421b5853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwzMHx8YWR2ZW50dXJlJTIwcGFya3xlbnwwfHx8fDE3MDY2OTYzNDN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "adventure",
+        "quests",
+        "riddles"
+      ]
+    },
+    {
+      "id": "WAR-ST4",
+      "name": "Whispering Woods Storyland",
+      "short_description": "A tranquil park set amidst lush greenery, perfect for quiet reflection and listening to gentle nature-themed stories. Picnic spots available.",
+      "subtype": "Storytelling Parks",
+      "address": "Enerhen Road, Ugborikoko, Warri, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1470252197176-7848039c4a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw3OXx8Zm9yZXN0JTIwcGFya3xlbnwwfHx8fDE3MDY2OTYzNzF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature",
+        "tranquil",
+        "picnic"
+      ]
+    },
+    {
+      "id": "WAR-DP1",
+      "name": "Jurassic Jungle Warri",
+      "short_description": "Step back in time to the age of dinosaurs! Encounter life-sized animatronic dinosaurs hidden in a lush, prehistoric jungle setting.",
+      "subtype": "Dinosaur Parks",
+      "address": "Airport Road, near NNPC Housing Complex, Warri, Delta State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549487950-e889d701a243?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwzNHx8ZGlub3NhdXIlMjBhbmltYXRyb25pY3N8ZW58MHx8fHwxNzA2Njk2NTQ3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animatronics",
+        "prehistoric",
+        "adventure"
+      ]
+    },
+    {
+      "id": "WAR-DP2",
+      "name": "Dino Dig Discovery Zone",
+      "short_description": "Become a paleontologist for a day! Children can unearth replica fossils in sand pits and learn about different dinosaur species and their history.",
+      "subtype": "Dinosaur Parks",
+      "address": "8 Enerhen Road, Warri, Delta State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1629864276166-ef92f8b50b06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw0fHxkaW5vc2F1ciUyMGRpZ3xlbnwwfHx8fDE3MDY2OTY1NjZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "paleontology",
+        "excavation",
+        "educational"
+      ]
+    },
+    {
+      "id": "WAR-DP3",
+      "name": "Prehistoric Playground",
+      "short_description": "A dinosaur-themed playground featuring giant dinosaur structures for climbing, slides, and swings. Perfect for active kids who love dinosaurs.",
+      "subtype": "Dinosaur Parks",
+      "address": "Ugborikoko Layout, Off PTI Road, Warri, Delta State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1600021644778-b118742b8e3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxNXx8ZGlub3NhdXIlMjBwbGF5Z3JvdW5kfGVufDB8fHx8MTcwNjY5NjYxMnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "playground",
+        "active",
+        "fun"
+      ]
+    },
+    {
+      "id": "WAR-DP4",
+      "name": "Mesozoic Era Expedition",
+      "short_description": "A guided walking tour through different zones representing the Triassic, Jurassic, and Cretaceous periods, with realistic dinosaur models and informative displays.",
+      "subtype": "Dinosaur Parks",
+      "address": "Along NPA Expressway, Warri, Delta State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1621217036399-c8524317a027?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxMjl8fGRpbm9zYXVyJTIwcGFya3xlbnwwfHx8fDE3MDY2OTY2NDF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "walking tour",
+        "history",
+        "models"
+      ]
+    },
+    {
+      "id": "WAR-CM1",
+      "name": "Warri WonderWorks Museum",
+      "short_description": "A hands-on museum blending science, art, and local culture. Exhibits encourage exploration and critical thinking for children of all ages.",
+      "subtype": "Children’s Museums",
+      "address": "45 Airport Road, Warri, Delta State",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627889397753-1ec85c0b8951?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwyMHx8Y2hpbGRyZW4lMjBtdXNldW0lMjBleGhpYml0c3xlbnwwfHx8fDE3MDY2OTY4NDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "science",
+        "art",
+        "local culture"
+      ]
+    },
+    {
+      "id": "WAR-CM2",
+      "name": "Little Explorers Museum",
+      "short_description": "Specifically designed for toddlers and preschoolers, offering safe, engaging activities that promote early learning and sensory development.",
+      "subtype": "Children’s Museums",
+      "address": "10 PTI Road, Effurun, Warri, Delta State",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1543787352-7ed4c38d35e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxMnx8Y2hpbGRyZW4lMjBtdXNldW0lMjB0b2RkbGVyc3xlbnwwfHx8fDE3MDY2OTY4NjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "toddlers",
+        "early learning",
+        "sensory play"
+      ]
+    },
+    {
+      "id": "WAR-CM3",
+      "name": "Creative Corner Children's Museum",
+      "short_description": "A haven for budding artists and performers, offering workshops in painting, music, drama, and various crafts, fostering creativity and self-expression.",
+      "subtype": "Children’s Museums",
+      "address": "27 Ajamimogha Road, Warri, Delta State",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579294528994-1a3b169550b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxMTR8fGNoaWxkcmVuJTIwYXJ0JTIwd29ya3Nob3B8ZW58MHx8fDE3MDY2OTY4OTA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "art",
+        "creativity",
+        "workshops"
+      ]
+    },
+    {
+      "id": "WAR-CM4",
+      "name": "Future Innovators Lab",
+      "short_description": "A cutting-edge museum focused on technology, engineering, and robotics. Children can engage with interactive displays, coding games, and build their own creations.",
+      "subtype": "Children’s Museums",
+      "address": "Plot 18, Warri-Sapele Road, near Enerhen, Warri, Delta State",
+      "opening_hours": "09:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1536148332064-58e119434316?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwyOXx8Y2hpbGRyZW4lMjByb2JvdGljcyUyMGxhYnxlbnwwfHx8fDE3MDY2OTY5MjV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "technology",
+        "robotics",
+        "STEM"
+      ]
+    },
+    {
+      "id": "WAR-FT1",
+      "name": "Enchanted Delta Forest",
+      "short_description": "Wander through a magical forest filled with characters and scenes from beloved fairy tales, both local and international. Features whimsical paths and hidden surprises.",
+      "subtype": "Fairy Tale Parks",
+      "address": "33 Efurrun-Sapele Road, Warri, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506544062402-23c3b01831a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw5MXx8ZW5jaGFudGVkJTIwZm9yZXN0fGVufDB8fHx8MTcwNjY5NzExN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fantasy",
+        "magic",
+        "imagination"
+      ]
+    },
+    {
+      "id": "WAR-FT2",
+      "name": "Princess & Knights Kingdom",
+      "short_description": "Enter a medieval realm where children can dress up as princes, princesses, or knights, explore a miniature castle, and participate in royal games and parades.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Off Airport Road, Ugborikoko, Warri, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1518175440465-95dfd0c0d80e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwyMHx8Y2FzdGxlJTIwcGxheWdyb3VuZCUyMGNoaWxkcmVufGVufDB8fHx8MTcwNjY5NzExMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "role-play",
+        "medieval",
+        "costumes"
+      ]
+    },
+    {
+      "id": "WAR-FT3",
+      "name": "Magical Storybook Land",
+      "short_description": "A walk-through attraction where classic fairy tale scenes are brought to life with animated figures and immersive soundscapes. Perfect for family photos.",
+      "subtype": "Fairy Tale Parks",
+      "address": "12 Okere-Urhobo Road, Warri, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1628169225796-7b44766c6c21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw0OXx8ZmFpcnl0YWxlJTIwcGFya3xlZW58MHx8fDE3MDY2OTcxNDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "story scenes",
+        "immersive",
+        "photo opportunities"
+      ]
+    },
+    {
+      "id": "WAR-FT4",
+      "name": "Pixie Hollow Gardens",
+      "short_description": "A whimsical garden filled with vibrant flowers, tiny fairy houses, and hidden paths. Children can search for miniature magical creatures and enjoy nature's beauty.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Off Jakpa Road, Opete, Warri, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517407137237-77873836d516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwyOHx8ZmFpcnlJTIwZ2FyZGVufGVufDB8fHx8MTcwNjY5NzE3MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "gardens",
+        "fairies",
+        "nature"
+      ]
+    },
+    {
+      "id": "WAR-FA1",
+      "name": "Warri Heritage Farm",
+      "short_description": "Experience traditional farming practices and learn about local crops and livestock. Children can participate in farm chores and enjoy fresh produce.",
+      "subtype": "Farm Attractions",
+      "address": "Km 8, Sapele-Warri Road, Warri, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596700810359-c2c62c9540c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwyOXx8dHJhZGl0aW9uYWwlMjBmYXJtfGVufDB8fHx8MTcwNjY5NzMyMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "agriculture",
+        "local produce",
+        "farm chores"
+      ]
+    },
+    {
+      "id": "WAR-FA2",
+      "name": "Green Pastures Petting Farm",
+      "short_description": "A gentle petting farm where children can interact safely with friendly farm animals like goats, sheep, and rabbits. Animal feeding sessions are available.",
+      "subtype": "Farm Attractions",
+      "address": "22 Jakpa Road, Effurun, Warri, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1559869680-334d58844838?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw0fHxwZXR0aW5nJTIwZmFybXxlbnwwfHx8fDE3MDY2OTczODZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "animal interaction"
+      ]
+    },
+    {
+      "id": "WAR-FA3",
+      "name": "Harvest Haven Barn",
+      "short_description": "A seasonal attraction offering fruit picking, hayrides, and themed festivals during harvest seasons. Enjoy fresh farm treats and family fun.",
+      "subtype": "Farm Attractions",
+      "address": "Off Warri-Asaba Expressway, near Aladja, Warri, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1507724213031-bb058c42b1ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw2MHx8aGFydmVzdCUyMGZlc3RpdmFsfGVufDB8fHx8MTcwNjY5NzQ0N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "seasonal",
+        "fruit picking",
+        "hayrides"
+      ]
+    },
+    {
+      "id": "WAR-FA4",
+      "name": "Little Farmer's Funland",
+      "short_description": "A farm-themed play area featuring mini tractors, a corn maze, and barn-style play structures. Kids can pretend to be farmers for a day.",
+      "subtype": "Farm Attractions",
+      "address": "Plot 9, Ekpan-Effurun Road, Warri, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1557007357-3ae3df6e32d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwyMnx8ZmFybSUyMHBsYXlncm91bmR8ZW58MHx8fHwxNzA2Njk3NDY0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "play area",
+        "mini tractors",
+        "farm theme"
+      ]
+    },
+    {
+      "id": "WAR-ZZ1",
+      "name": "Delta Wildlife Sanctuary",
+      "short_description": "Home to a variety of animals native to the Niger Delta and Nigeria, with a strong focus on conservation and education. See local birds, monkeys, and reptiles.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Okparabe Road, Off Warri-Ughelli Road, Warri, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1593361099684-bc5f25e98f06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxMDF8fHdlc3QlMjBhZnJpY2FuJTIwbW9ua2V5JTIwem9vfGVufDB8fHx8MTcwNjY5NzY3MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "conservation",
+        "Nigerian wildlife",
+        "education"
+      ]
+    },
+    {
+      "id": "WAR-ZZ2",
+      "name": "Kids' Critter Corner",
+      "short_description": "A delightful petting zoo perfect for toddlers and young children. Interact with friendly goats, bunnies, guinea pigs, and gentle birds under supervision.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "34 Ugborikoko Road, Warri, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1522858639235-9c1782e4e16d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwzMHx8a2lkcyUyMHBldHRpbmclMjB6b298ZW58MHx8fHwxNzA2Njk3NzAwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "petting zoo",
+        "toddler friendly",
+        "gentle animals"
+      ]
+    },
+    {
+      "id": "WAR-ZZ3",
+      "name": "Safari Adventure Zoo Warri",
+      "short_description": "Home to a range of exotic and indigenous animals displayed in spacious, simulated natural habitats. Offers a mini-safari experience and educational talks.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Off NPA Expressway, By Enerhen Junction, Warri, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1533261621240-7dd1c463f283?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw0OXx8c2FmYXJpJTIwem9vfGVufDB8fHx8MTcwNjY5NzcwMnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "exotic animals",
+        "safari",
+        "habitat"
+      ]
+    },
+    {
+      "id": "WAR-ZZ4",
+      "name": "Tropical Birds Aviary",
+      "short_description": "A walk-through aviary featuring hundreds of colorful tropical birds from around the world and local species. Experience birds flying freely around you.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Km 5, Warri-Effurun Road, Warri, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574744766467-375422849e79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw3fHxhdmlhcnl8ZW58MHx8fHwxNzA2Njk3NzMxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "birds",
+        "aviary",
+        "tropical"
+      ]
+    },
+    {
+      "id": "WAR-MI1",
+      "name": "Warri Wizardry Theatre",
+      "short_description": "A grand theatre hosting spectacular magic and illusion shows suitable for all ages. Prepare to be amazed by disappearing acts, levitation, and more!",
+      "subtype": "Magic & Illusion Shows",
+      "address": "7 Delta Mall Road, Effurun, Warri, Delta State",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1516053894701-d74c0b490f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1OHx8bWFnaWMlMjBzaG93fGVufDB8fHx8MTcwNjY5Nzk0MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "grand illusions",
+        "spectacular",
+        "live show"
+      ]
+    },
+    {
+      "id": "WAR-MI2",
+      "name": "Enchanted Stage Performances",
+      "short_description": "Intimate and engaging magic shows featuring close-up magic, comedy, and audience participation. A truly personal magical experience for smaller groups.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "19 Eburu Street, Okere, Warri, Delta State",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627916694833-2a543665a95f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwyMHx8Y2xvc2UlMjB1cCUyMG1hZ2ljfGVufDB8fHx8MTcwNjY5Nzk5Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "close-up magic",
+        "interactive",
+        "comedy"
+      ]
+    },
+    {
+      "id": "WAR-MI3",
+      "name": "Illusionist's Den",
+      "short_description": "A mysterious venue where magic meets puzzles. Enjoy an illusion show with a narrative, incorporating elements of an escape room for an immersive experience.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Plot 15, Water Resources Road, Off Airport Road, Warri, Delta State",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1628174780614-747d730101b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1MHx8aWxsdXNpb25pc3R8ZW58MHx8fHwxNzA2Njk4MDE5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mystery",
+        "immersive",
+        "puzzles"
+      ]
+    },
+    {
+      "id": "WAR-MI4",
+      "name": "Junior Magician's Workshop",
+      "short_description": "An interactive workshop where children learn simple magic tricks, develop stage presence, and even perform for their peers. Includes a mini magic kit.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "25 PTI Road, Ugborikoko, Warri, Delta State",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549740510-14e3040333d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwyMnx8a2lkcyUyMG1hZ2ljJTIwd29ya3Nob3B8ZW58MHx8fHwxNzA2Njk4MDc3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "workshop",
+        "learning",
+        "interactive"
+      ]
+    },
+    {
+      "id": "WAR-CG1",
+      "name": "Toon Town Plaza",
+      "short_description": "A vibrant plaza where children can meet and greet their favorite classic and modern cartoon characters, take photos, and enjoy mini-parades.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Delta City Mall, Effurun, Warri, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579803135547-4999f8d6896f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHxjYXJ0b29uJTIwbWVldCUyMGFuZCUyMGdyZWV0fGVufDB8fHx8MTcwNjY5ODI1Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "characters",
+        "photo ops",
+        "parade"
+      ]
+    },
+    {
+      "id": "WAR-CG2",
+      "name": "Super Hero Headquarters",
+      "short_description": "Aspiring heroes can train and meet their favorite superheroes. Interactive zones, hero challenges, and daily meet & greet sessions with iconic characters.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "14 Okumagba Layout, Warri, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596798030278-8316c1411c5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw2fHxzYXlpbmdlJTIwbWVldCUyMGFuZCUyMGdyZWV0fGVufDB8fHx8MTcwNjY5ODI3MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "superheroes",
+        "interactive",
+        "challenges"
+      ]
+    },
+    {
+      "id": "WAR-CG3",
+      "name": "Princess Palace Warri",
+      "short_description": "A magical experience where children can meet beloved princesses, enjoy story time, and even partake in a royal tea party or dance.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Along Airport Road, By Warri Club, Warri, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582210874136-1e6a10ce7117?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw2fHxwcmVpbmNlc3MlMjBtZWV0JTIwYW5kJTIwZ3JlZXR8ZW58MHx8fHwxNzA2Njk4MzI3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "princesses",
+        "fairytale",
+        "tea party"
+      ]
+    },
+    {
+      "id": "WAR-CG4",
+      "name": "Mascot Mania Zone",
+      "short_description": "A fun-filled zone dedicated to mascots from local teams, popular brands, and original characters. High-energy interactions and dance-offs are common!",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "30 Enerhen Road, Ugborikoko, Warri, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596798030278-8316c1411c5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxNXx8bWFzY290JTIwY2hhcmFjdGVyJTIwZ3JlZXR8ZW58MHx8fHwxNzA2Njk4Mzg0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mascots",
+        "dance-offs",
+        "energetic"
+      ]
+    },
+    {
+      "id": "WAR-LC1",
+      "name": "Brick City Builders Warri",
+      "short_description": "An expansive park dedicated to LEGO, featuring large-scale models of famous landmarks, interactive building stations, and a massive free-play zone.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Off Warri-Sapele Road, Near PTI, Warri, Delta State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627889397753-1ec85c0b8951?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw4fHxsZWdvJTIwcGFya3xlbnwwfHx8fDE3MDY2OTg1MDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "LEGO",
+        "construction",
+        "models"
+      ]
+    },
+    {
+      "id": "WAR-LC2",
+      "name": "Mega Blocks Construction Site",
+      "short_description": "Designed for younger children, this zone features oversized foam blocks for creative building, soft play areas, and supervised construction challenges.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "50 Jakpa Road, Effurun, Warri, Delta State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1592395175955-f20384cf29b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHxpbnNpZGUlMjBjaGlsZHJlbiUyMHBhcmt8ZW58MHx8fHwxNzA2Njk4NTI5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mega blocks",
+        "toddler friendly",
+        "creative play"
+      ]
+    },
+    {
+      "id": "WAR-LC3",
+      "name": "Warri Architecture Workshop",
+      "short_description": "An educational and creative space where children use LEGO bricks to replicate famous Warri landmarks and design their own future cityscapes.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "11 Okere Road, Warri, Delta State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1605380530965-4fef06b0266e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw0OXx8bGVnb2xhbmR8ZW58MHx8fHwxNzA2Njk4Njg3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "architecture",
+        "LEGO education",
+        "design"
+      ]
+    },
+    {
+      "id": "WAR-LC4",
+      "name": "Kiddy Konstruktion Zone",
+      "short_description": "A safe and stimulating environment for the youngest builders, offering oversized soft blocks, DUPLO, and other child-friendly construction toys.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Old Airport Road, Ugborikoko, Warri, Delta State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563721454553-6c84136e4f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwyMnx8Y2hpbGRyZW4lMjBjb25zdHJ1Y3Rpb24lMjB0b3lzfGVufDB8fHx8MTcwNjY5ODcxOHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "DUPLO",
+        "toddlers",
+        "building blocks"
+      ]
+    }
+  ]
+}

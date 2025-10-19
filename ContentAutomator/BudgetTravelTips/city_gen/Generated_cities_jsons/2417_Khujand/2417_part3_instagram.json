@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Khujand",
+    "city_id": "2417"
+  },
+  "items": [
+    {
+      "id": "KHJ-CI1",
+      "name": "Khujand Historical Museum & Fortress",
+      "short_description": "Explore the reconstructed Khujand Fortress and delve into the rich history of Sughd province at its impressive museum, showcasing ancient artifacts and local heritage.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Center of Khujand, along Syr Darya",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Khujand_Fortress.jpg",
+      "tags": [
+        "history",
+        "fortress",
+        "museum"
+      ]
+    },
+    {
+      "id": "KHJ-CI2",
+      "name": "Sheikh Muslihiddin Mosque Complex",
+      "short_description": "Visit this stunning architectural ensemble, including a beautiful mosque, minaret, and mausoleum, reflecting centuries of Islamic artistry and spiritual significance.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Next to Panjshanbe Bazaar",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Panjshanbe_Bazar_and_Sheikh_Muslihiddin_Complex.jpg/1024px-Panjshanbe_Bazar_and_Sheikh_Muslihiddin_Complex.jpg",
+      "tags": [
+        "mosque",
+        "mausoleum",
+        "architecture"
+      ]
+    },
+    {
+      "id": "KHJ-CI3",
+      "name": "Arbob Cultural Palace",
+      "short_description": "Marvel at the grandeur of this Soviet-era palace, an architectural masterpiece inspired by Peterhof, significant for its historical role and ornate design.",
+      "subtype": "Cultural Installations",
+      "location_hint": "North of Khujand, near Kayrakkum",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Arbob_Palace.jpg/1280px-Arbob_Palace.jpg",
+      "tags": [
+        "soviet-era",
+        "palace",
+        "history"
+      ]
+    },
+    {
+      "id": "KHJ-CI4",
+      "name": "Ismail Somoni Monument",
+      "short_description": "Pay homage to the founder of the Samanid Empire at this imposing monument, a symbol of Tajik nationhood and a prominent feature of Khujand's central square.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Independence Square",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Monument_to_Ismail_Somoni_in_Khujand.jpg",
+      "tags": [
+        "monument",
+        "history",
+        "symbolic"
+      ]
+    },
+    {
+      "id": "KHJ-NW1",
+      "name": "Syr Darya River's Emerald Flow",
+      "short_description": "Witness the powerful and mesmerizing flow of the Syr Darya River, Central Asia's second-longest river, offering serene views and a vital natural lifeline through the city.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Central Khujand riverfront",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Syr_Darya_river_in_Khujand.jpg/1280px-Syr_Darya_river_in_Khujand.jpg",
+      "tags": [
+        "river",
+        "scenic",
+        "nature"
+      ]
+    },
+    {
+      "id": "KHJ-NW2",
+      "name": "Kayrakkum Reservoir (Tajik Sea)",
+      "short_description": "Explore the vast expanse of the Tajik Sea, an enormous man-made reservoir that has transformed the landscape, offering a sense of inland 'coastline' and stunning water vistas.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "East of Khujand",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kayrakkum_Reservoir.jpg/1280px-Kayrakkum_Reservoir.jpg",
+      "tags": [
+        "reservoir",
+        "lake",
+        "landscape"
+      ]
+    },
+    {
+      "id": "KHJ-NW3",
+      "name": "Turkestan Range Foothills Panorama",
+      "short_description": "Discover panoramic views of the distant Turkestan Range foothills, providing a rugged, natural backdrop to the city, especially striking during clear weather.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Southern outskirts viewpoint",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Turkestan_Range_mountains.jpg",
+      "tags": [
+        "mountains",
+        "panorama",
+        "scenic"
+      ]
+    },
+    {
+      "id": "KHJ-NW4",
+      "name": "River Island Oasis",
+      "short_description": "Find a quiet, green oasis on one of the small, natural islands within the Syr Darya River, providing a unique ecological pocket amidst the urban flow.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Mid-river, visible from bridges",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Khujand_Park_on_the_River_1.jpg/1024px-Khujand_Park_on_the_River_1.jpg",
+      "tags": [
+        "island",
+        "river",
+        "secluded"
+      ]
+    },
+    {
+      "id": "KHJ-BO1",
+      "name": "Khujand Central Bridge",
+      "short_description": "Stroll across the main bridge spanning the Syr Darya River, offering bustling views of city life, river traffic, and scenic perspectives of the embankments.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Connecting old and new Khujand",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Khujand_Bridge_over_the_Syr_Darya.jpg/1280px-Khujand_Bridge_over_the_Syr_Darya.jpg",
+      "tags": [
+        "bridge",
+        "river",
+        "cityscape"
+      ]
+    },
+    {
+      "id": "KHJ-BO2",
+      "name": "Kamoli Khujandi Park River Viewpoint",
+      "short_description": "Ascend to the elevated sections of Kamoli Khujandi Park for breathtaking panoramic views of the Syr Darya River, perfect for capturing sunset reflections.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Kamoli Khujandi Park",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/View_of_Syr_Darya_river_from_Kamoli_Khujandi_Park.jpg/1280px-View_of_Syr_Darya_river_from_Kamoli_Khujandi_Park.jpg",
+      "tags": [
+        "park",
+        "riverview",
+        "panorama"
+      ]
+    },
+    {
+      "id": "KHJ-BO3",
+      "name": "Khujand Fortress Walls Overlook",
+      "short_description": "Experience history with a view from the reconstructed walls of Khujand Fortress, offering a unique perspective of the surrounding city and the river.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Khujand Fortress",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Khujand_Fortress.jpg",
+      "tags": [
+        "fortress",
+        "historic",
+        "cityview"
+      ]
+    },
+    {
+      "id": "KHJ-BO4",
+      "name": "Friendship Bridge",
+      "short_description": "Cross the smaller, charming Friendship Bridge, connecting a park area, offering intimate river views and a peaceful setting for photography.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near Kamoli Khujandi Park",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Khujand_Park_on_the_River_1.jpg/1024px-Khujand_Park_on_the_River_1.jpg",
+      "tags": [
+        "bridge",
+        "park",
+        "riverwalk"
+      ]
+    },
+    {
+      "id": "KHJ-FE1",
+      "name": "Nowruz Spring Festival",
+      "short_description": "Immerse yourself in the ancient traditions of Nowruz, the Persian New Year and spring equinox, celebrated with vibrant parades, music, dance, and festive meals across Khujand.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Various city locations, parks",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nowruz_2016_at_Persepolis.jpg/1280px-Nowruz_2016_at_Persepolis.jpg",
+      "tags": [
+        "nowruz",
+        "spring",
+        "culture"
+      ]
+    },
+    {
+      "id": "KHJ-FE2",
+      "name": "Independence Day Celebrations",
+      "short_description": "Join the joyous festivities for Tajikistan's Independence Day on September 9th, featuring patriotic parades, concerts, and fireworks illuminating the Khujand sky.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Independence Square, city center",
+      "best_time": "Night",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tajikistan_Independence_Day_Parade_2021.jpg/1280px-Tajikistan_Independence_Day_Parade_2021.jpg",
+      "tags": [
+        "national holiday",
+        "celebration",
+        "fireworks"
+      ]
+    },
+    {
+      "id": "KHJ-FE3",
+      "name": "Sayri Lolaho (Festival of Tulips)",
+      "short_description": "Experience the 'Festival of Tulips', a colorful annual event celebrating the arrival of spring with stunning floral displays, traditional music, and dance performances.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Kamoli Khujandi Park, Alisher Navoi Park",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tajikistan_tulips.jpg/1280px-Tajikistan_tulips.jpg",
+      "tags": [
+        "tulips",
+        "floral",
+        "spring festival"
+      ]
+    },
+    {
+      "id": "KHJ-FE4",
+      "name": "Chaikhana Music & Dance Nights",
+      "short_description": "Enjoy traditional Tajik music and dance performances often hosted at local chaikhanas (tea houses) or cultural centers, offering an authentic glimpse into local entertainment.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Various Chaikhanas & Cultural Centers",
+      "best_time": "Night",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Uzbek_dance_in_Tashkent%2C_Uzbekistan.jpg/1280px-Uzbek_dance_in_Tashkent%2C_Uzbekistan.jpg",
+      "tags": [
+        "music",
+        "dance",
+        "tradition"
+      ]
+    },
+    {
+      "id": "KHJ-BC1",
+      "name": "Syr Darya Riverfront Promenade",
+      "short_description": "Stroll along the beautifully landscaped Syr Darya Riverfront, offering expansive 'coastal' views of the mighty river and a refreshing urban escape.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Central Khujand river banks",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Promenade_along_Syr_Darya%2C_Khujand.jpg/1280px-Promenade_along_Syr_Darya%2C_Khujand.jpg",
+      "tags": [
+        "riverwalk",
+        "promenade",
+        "waterside"
+      ]
+    },
+    {
+      "id": "KHJ-BC2",
+      "name": "Tajik Sea Recreation Zone",
+      "short_description": "Relax at the shores of the vast Kayrakkum Reservoir, often called the 'Tajik Sea,' where designated recreation zones offer lake views and a tranquil 'beach-like' ambiance.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Kayrakkum Reservoir east of Khujand",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kayrakkum_Reservoir.jpg/1280px-Kayrakkum_Reservoir.jpg",
+      "tags": [
+        "lakeside",
+        "recreation",
+        "views"
+      ]
+    },
+    {
+      "id": "KHJ-BC3",
+      "name": "Kamoli Khujandi Park Riverside Terraces",
+      "short_description": "Enjoy tiered terraces within Kamoli Khujandi Park that cascade down to the Syr Darya, providing an elevated 'coastal' dining or relaxation experience with direct river access.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Kamoli Khujandi Park",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Khujand_Park_on_the_River_1.jpg/1024px-Khujand_Park_on_the_River_1.jpg",
+      "tags": [
+        "park",
+        "riverview",
+        "terraces"
+      ]
+    },
+    {
+      "id": "KHJ-BC4",
+      "name": "Chaykhona Ar-Rahmon Riverside",
+      "short_description": "Savor traditional Tajik cuisine at a riverside Chaykhona (tea house) with outdoor seating directly overlooking the Syr Darya, offering an immersive 'coastal' dining experience.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Along Syr Darya Embankment",
+      "best_time": "Evening",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/View_of_Syr_Darya_river_from_Kamoli_Khujandi_Park.jpg/1280px-View_of_Syr_Darya_river_from_Kamoli_Khujandi_Park.jpg",
+      "tags": [
+        "riverside dining",
+        "chaykhona",
+        "ambiance"
+      ]
+    },
+    {
+      "id": "KHJ-IP1",
+      "name": "Hotel Khujand Grand Pool Terrace",
+      "short_description": "Indulge in the expansive outdoor pool area at Hotel Khujand, designed with a sleek, horizon-like edge that creates an illusion of blending with the sky.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Hotel Khujand",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Presidential_Hotel_pool_%28Dushanbe%29.jpg/1280px-Presidential_Hotel_pool_%28Dushanbe%29.jpg",
+      "tags": [
+        "luxury",
+        "hotel pool",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "KHJ-IP2",
+      "name": "Sugd Hotel Panoramic Pool",
+      "short_description": "Enjoy a refreshing dip at Hotel Sugd's rooftop or high-floor pool, offering a unique, elevated perspective of Khujand's cityscape as you swim.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Hotel Sugd",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Panorama_of_Khujand.jpg/1280px-Panorama_of_Khujand.jpg",
+      "tags": [
+        "rooftop pool",
+        "city views",
+        "modern"
+      ]
+    },
+    {
+      "id": "KHJ-IP3",
+      "name": "Kayrakkum Resort Lakeside Pool",
+      "short_description": "Escape to a serene pool at a resort along the Tajik Sea, where the poolside design maximizes views of the vast reservoir, creating a feeling of infinite water.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Kayrakkum area",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Panj_River_and_Mountains.jpg/1280px-Panj_River_and_Mountains.jpg",
+      "tags": [
+        "resort pool",
+        "lakeside",
+        "tranquil"
+      ]
+    },
+    {
+      "id": "KHJ-IP4",
+      "name": "Private Villa Pool with Garden Horizon",
+      "short_description": "Discover a hidden gem: a private villa or guesthouse pool designed to blend seamlessly with lush surrounding gardens, offering a peaceful, 'infinity-like' green horizon.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Outskirts of Khujand",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Garden_with_roses_and_water_basin_in_Bokhtari_village%2C_Tajikistan.jpg/1280px-Garden_with_roses_and_water_basin_in_Bokhtari_village%2C_Tajikistan.jpg",
+      "tags": [
+        "private pool",
+        "garden oasis",
+        "secluded"
+      ]
+    },
+    {
+      "id": "KHJ-FD1",
+      "name": "Panjshanbe Bazaar Culinary Stalls",
+      "short_description": "Dive into the bustling heart of Khujand's culinary scene at Panjshanbe Bazaar, where vibrant stalls offer fresh produce, spices, and delicious local street food.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Central Khujand",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Khujand_Panjshanbe_Bazar_1.jpg/1024px-Khujand_Panjshanbe_Bazar_1.jpg",
+      "tags": [
+        "bazaar",
+        "street food",
+        "local cuisine"
+      ]
+    },
+    {
+      "id": "KHJ-FD2",
+      "name": "Chaykhona 'Bahoriston' (Spring Tea House)",
+      "short_description": "Experience authentic Tajik hospitality at 'Bahoriston', a traditional tea house where you can savor local tea, plov, and shashlik in a serene, often garden-like setting.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Near Kamoli Khujandi Park",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Tajik_tea.jpg/1280px-Tajik_tea.jpg",
+      "tags": [
+        "tea house",
+        "plov",
+        "traditional food"
+      ]
+    },
+    {
+      "id": "KHJ-FD3",
+      "name": "Syr Darya Riverside Restaurant",
+      "short_description": "Dine with a view at one of Khujand's popular riverside restaurants, offering delectable local and international dishes with the soothing backdrop of the Syr Darya.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Syr Darya Embankment",
+      "best_time": "Evening",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/View_of_Syr_Darya_river_from_Kamoli_Khujandi_Park.jpg/1280px-View_of_Syr_Darya_river_from_Kamoli_Khujandi_Park.jpg",
+      "tags": [
+        "riverside dining",
+        "local dishes",
+        "ambiance"
+      ]
+    },
+    {
+      "id": "KHJ-FD4",
+      "name": "Plov Center 'Tajikiston'",
+      "short_description": "Indulge in Tajikistan's national dish, Plov, at 'Tajikiston', a renowned Plov center known for its rich, flavorful rice and meat dishes cooked in giant cauldrons.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "East Khujand, main road",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Plov_in_Khujand_Bazar.jpg/1024px-Plov_in_Khujand_Bazar.jpg",
+      "tags": [
+        "plov",
+        "national dish",
+        "authentic cuisine"
+      ]
+    },
+    {
+      "id": "KHJ-SA1",
+      "name": "Soviet-Era Mosaic on Culture Palace",
+      "short_description": "Discover a stunning, large-scale Soviet-era mosaic adorning the facade of a public building, depicting themes of labor, culture, and progress in vivid colors.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near former Culture Palace (e.g., Arbob)",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mosaics_in_Dushanbe_%282016%29.jpg/1280px-Mosaics_in_Dushanbe_%282016%29.jpg",
+      "tags": [
+        "mosaic",
+        "soviet art",
+        "public art"
+      ]
+    },
+    {
+      "id": "KHJ-SA2",
+      "name": "Historical Murals in Panjshanbe Bazaar",
+      "short_description": "Seek out traditional decorative murals and intricate tile work within and around Panjshanbe Bazaar, showcasing traditional Tajik patterns and historical scenes.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Panjshanbe Bazaar entrance/walls",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Panjshanbe_Bazar_gate%2C_Khujand.jpg/1024px-Panjshanbe_Bazar_gate%2C_Khujand.jpg",
+      "tags": [
+        "traditional art",
+        "market",
+        "decorations"
+      ]
+    },
+    {
+      "id": "KHJ-SA3",
+      "name": "Patriotic Murals on City Buildings",
+      "short_description": "Spot large-scale patriotic murals celebrating Tajikistan's history and national heroes, often found on the walls of residential or administrative buildings.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Main avenues, central districts",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dushanbe_city_view_4.jpg/1280px-Dushanbe_city_view_4.jpg",
+      "tags": [
+        "patriotic",
+        "large-scale",
+        "cityscape"
+      ]
+    },
+    {
+      "id": "KHJ-SA4",
+      "name": "Decorative Panels at Youth Park",
+      "short_description": "Discover artistic decorative panels and smaller murals adorning structures within Youth Park, often depicting themes of childhood, nature, or local legends.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Youth Park (Boghi Javonon)",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dushanbe_Children%27s_Park.jpg/1280px-Dushanbe_Children%27s_Park.jpg",
+      "tags": [
+        "park art",
+        "decorative",
+        "urban"
+      ]
+    },
+    {
+      "id": "KHJ-FG1",
+      "name": "Kamoli Khujandi Park's Rose Gardens",
+      "short_description": "Wander through the meticulously maintained rose gardens within Kamoli Khujandi Park, a fragrant oasis bursting with colorful blooms and tranquil pathways.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Kamoli Khujandi Park",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Khujand_Park_on_the_River_1.jpg/1024px-Khujand_Park_on_the_River_1.jpg",
+      "tags": [
+        "rose garden",
+        "park",
+        "fragrant"
+      ]
+    },
+    {
+      "id": "KHJ-FG2",
+      "name": "Alisher Navoi Park's Seasonal Displays",
+      "short_description": "Explore the expansive Alisher Navoi Park, renowned for its seasonal flower displays, especially vibrant with tulips and other blossoms in spring and early summer.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Central Khujand",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tajikistan_nature_%2834%29.jpg/1280px-Tajikistan_nature_%2834%29.jpg",
+      "tags": [
+        "flowerbeds",
+        "seasonal blooms",
+        "green space"
+      ]
+    },
+    {
+      "id": "KHJ-FG3",
+      "name": "Victory Park Memorial Gardens",
+      "short_description": "Discover the solemn beauty of Victory Park's memorial gardens, featuring well-manicured lawns, dedicated flowerbeds, and peaceful paths for reflection.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Eastern Khujand",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Victory_Park%2C_Dushanbe.jpg/1280px-Victory_Park%2C_Dushanbe.jpg",
+      "tags": [
+        "memorial",
+        "gardens",
+        "peaceful"
+      ]
+    },
+    {
+      "id": "KHJ-FG4",
+      "name": "Independence Square Floral Arrangements",
+      "short_description": "Admire the grand floral arrangements and intricate landscaping that adorn Independence Square, creating a vibrant and welcoming public space in the city center.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Independence Square",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Monument_to_Ismail_Somoni_in_Khujand.jpg/1280px-Monument_to_Ismail_Somoni_in_Khujand.jpg",
+      "tags": [
+        "public square",
+        "landscaping",
+        "city flowers"
+      ]
+    },
+    {
+      "id": "KHJ-CN1",
+      "name": "Panjshanbe Bazaar District",
+      "short_description": "Immerse yourself in the kaleidoscope of colors, sounds, and scents of the Panjshanbe Bazaar district, where vibrant textiles, fresh produce, and lively crowds create a captivating scene.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Central Khujand",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Khujand_Panjshanbe_Bazar_1.jpg/1024px-Khujand_Panjshanbe_Bazar_1.jpg",
+      "tags": [
+        "market",
+        "vibrant",
+        "local life"
+      ]
+    },
+    {
+      "id": "KHJ-CN2",
+      "name": "Old City Alleys & Courtyards",
+      "short_description": "Wander through the narrow, winding alleys of Khujand's Old City, where traditional homes, hidden courtyards, and small shops reveal a mosaic of historical charm and everyday life.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Near Sheikh Muslihiddin Complex",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Old_city_streets_in_Khujand.jpg/1024px-Old_city_streets_in_Khujand.jpg",
+      "tags": [
+        "old town",
+        "historic",
+        "charming"
+      ]
+    },
+    {
+      "id": "KHJ-CN3",
+      "name": "Syr Darya Riverfront Embankment Area",
+      "short_description": "Experience the lively and colorful atmosphere along the Syr Darya Riverfront, adorned with bright cafes, recreational activities, and people enjoying the views.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Central riverfront",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Promenade_along_Syr_Darya%2C_Khujand.jpg/1280px-Promenade_along_Syr_Darya%2C_Khujand.jpg",
+      "tags": [
+        "riverfront",
+        "lively",
+        "recreation"
+      ]
+    },
+    {
+      "id": "KHJ-CN4",
+      "name": "Modern Residential Blocks with Murals",
+      "short_description": "Discover pockets of modern residential areas featuring buildings painted in various hues, often adorned with contemporary murals that add splashes of color to the urban landscape.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Newer districts, east Khujand",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dushanbe_apartment_block.jpg/1280px-Dushanbe_apartment_block.jpg",
+      "tags": [
+        "urban",
+        "modern",
+        "residential"
+      ]
+    }
+  ]
+}

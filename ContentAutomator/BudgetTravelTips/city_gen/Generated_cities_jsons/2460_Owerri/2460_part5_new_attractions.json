@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Owerri",
+    "city_id": "2460"
+  },
+  "items": [
+    {
+      "id": "OWI001",
+      "name": "The Canvas Gallery & Bistro",
+      "short_description": "A vibrant hub showcasing contemporary Nigerian art, paired with a stylish bistro offering local and international cuisine. It's a perfect blend of culture and culinary delight, fostering Owerri's creative scene.",
+      "address": "12 Ikenegbu Layout, Owerri, Imo State",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549880193-4886b6a6552a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGFydCUyMGdhbGxlcnl8fHx8fHwxNzAzNDQ2NDM4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "art gallery",
+        "restaurant",
+        "culture"
+      ]
+    },
+    {
+      "id": "OWI002",
+      "name": "Nexus VR Arcade & Lounge",
+      "short_description": "Dive into immersive virtual reality worlds with cutting-edge headsets and a wide array of games, from thrilling adventures to mind-bending puzzles. Afterwards, relax with friends in the futuristic lounge area.",
+      "address": "25 Egbu Road, Owerri, Imo State",
+      "opening_hours": "11:00-22:00",
+      "price_level": "moderate",
+      "images": "https://www.pexels.com/photo/person-using-vr-headset-in-neon-lit-room-16788220/",
+      "tags": [
+        "VR gaming",
+        "entertainment",
+        "tech"
+      ]
+    },
+    {
+      "id": "OWI003",
+      "name": "The Ember & Vine Restaurant",
+      "short_description": "Experience modern fine dining with an Afro-fusion menu crafted by renowned chefs, using locally sourced ingredients. Its elegant ambiance makes it ideal for special occasions and sophisticated palates.",
+      "address": "Plot 7, New Owerri Extension, Owerri, Imo State",
+      "opening_hours": "17:00-23:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1555546059-0a65e7149021?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGZpbmUlMjBkaW5pbmclMjByZXN0YXVyYW50fHx8fHwxNzAzNDQ2NDM5&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fine dining",
+        "restaurant",
+        "nightlife"
+      ]
+    },
+    {
+      "id": "OWI004",
+      "name": "Palm City Funland",
+      "short_description": "A vibrant mini-amusement park offering thrilling rides, interactive games, and delightful food stalls for all ages. Perfect for family outings and creating lasting memories in a safe, fun environment.",
+      "address": "Opposite World Bank Housing Estate, Owerri, Imo State",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://www.pexels.com/photo/amusement-park-ride-with-neon-lights-7773223/",
+      "tags": [
+        "family fun",
+        "amusement park",
+        "kids"
+      ]
+    },
+    {
+      "id": "OWI005",
+      "name": "CinePulse Premium Cinemas",
+      "short_description": "Indulge in a luxurious movie-watching experience with plush reclining seats, state-of-the-art sound, and a gourmet snack bar. Redefining cinema in Owerri with comfort and technology.",
+      "address": "150 Orlu Road, Owerri, Imo State",
+      "opening_hours": "10:00-00:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522869502844-325374b31a31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGx1eHVyeSUyMGNpbmVtYXx8fHw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cinema",
+        "entertainment",
+        "movies"
+      ]
+    },
+    {
+      "id": "OWI006",
+      "name": "The Hub: Co-working & Coffee",
+      "short_description": "A modern co-working space designed for productivity and collaboration, featuring high-speed internet, ergonomic desks, and a specialty coffee shop serving fresh brews and light bites. Ideal for remote workers and entrepreneurs.",
+      "address": "89 Okigwe Road, Owerri, Imo State",
+      "opening_hours": "08:00-20:00",
+      "price_level": "cheap",
+      "images": "https://www.pexels.com/photo/a-man-and-a-woman-talking-while-working-at-a-coffee-shop-3806742/",
+      "tags": [
+        "co-working",
+        "cafe",
+        "work-friendly"
+      ]
+    },
+    {
+      "id": "OWI007",
+      "name": "Owerri Urban Skate Park",
+      "short_description": "A professionally designed concrete skate park attracting skateboarders and BMX riders from across the region. Features ramps, rails, and a vibrant youth culture, offering lessons and events.",
+      "address": "Beside Nekede Road Sports Complex, Owerri, Imo State",
+      "opening_hours": "09:00-21:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1549929813-11bf2095fefb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHNrYXRlJTIwcGFya3x8fHx8MXwxNzAzNDQ2NDQw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "skate park",
+        "sports",
+        "youth hangout"
+      ]
+    },
+    {
+      "id": "OWI008",
+      "name": "Aqua Sky Rooftop Lounge",
+      "short_description": "Perched atop one of Owerri's tallest buildings, offering panoramic city views, bespoke cocktails, and a chic atmosphere for an unforgettable evening out. Perfect for unwinding after a long day.",
+      "address": "Top Floor, Genesis Towers, Control Post, Owerri, Imo State",
+      "opening_hours": "18:00-02:00",
+      "price_level": "expensive",
+      "images": "https://www.pexels.com/photo/city-night-view-from-rooftop-bar-13769116/",
+      "tags": [
+        "rooftop bar",
+        "nightlife",
+        "views"
+      ]
+    },
+    {
+      "id": "OWI009",
+      "name": "Serene Oasis Wellness & Spa",
+      "short_description": "A tranquil escape dedicated to holistic well-being, offering massages, facials, hydrotherapy, and meditation gardens. Rejuvenate your mind, body, and soul with expert therapists.",
+      "address": "4 Harmony Gardens, Ikenegbu Extension, Owerri, Imo State",
+      "opening_hours": "09:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627196652758-c0b9a89c3f3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHNwYSUyMHJldHJlYXR8fHx8fHwxNzAzNDQ2NDQx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "spa",
+        "wellness",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "OWI010",
+      "name": "Owerri Culinary Market",
+      "short_description": "A vibrant indoor market showcasing a diverse range of local and international street food vendors, artisanal products, and regular live cooking demonstrations. A feast for all senses and tastes.",
+      "address": "Egbu Road Junction, Adjacent to Shoprite, Owerri, Imo State",
+      "opening_hours": "12:00-21:00",
+      "price_level": "cheap",
+      "images": "https://www.pexels.com/photo/people-walking-in-a-market-10332822/",
+      "tags": [
+        "food market",
+        "street food",
+        "local cuisine"
+      ]
+    }
+  ]
+}

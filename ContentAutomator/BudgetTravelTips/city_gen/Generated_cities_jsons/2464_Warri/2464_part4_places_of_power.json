@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Warri",
+    "city_id": "2464"
+  },
+  "items": [
+    {
+      "id": "OkereOracle",
+      "name": "The Whispering Oracle of Okere",
+      "short_description": "An ancient site where the High Priestess consults ancestral spirits and the river deities, offering guidance and prophecy for the community.",
+      "subtype": "Oracle Sites",
+      "address": "Okere-Urhobo Community, Warri, Delta State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Yoruba_shrine_in_Nigeria.jpg/640px-Yoruba_shrine_in_Nigeria.jpg",
+      "tags": [
+        "divination",
+        "spirituality",
+        "ancestral worship"
+      ]
+    },
+    {
+      "id": "UgbomroGrove",
+      "name": "Ugbomro Diviners' Sacred Grove",
+      "short_description": "Hidden deep within a sacred grove, this site is where ancient diviners once interpreted the rustling leaves and animal calls to reveal destinies.",
+      "subtype": "Oracle Sites",
+      "address": "Near Ugbomro Community, off Airport Road, Warri",
+      "visiting_hours": "08:30-15:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594953935934-0803c621183c?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "nature worship",
+        "folklore",
+        "meditation"
+      ]
+    },
+    {
+      "id": "EffurunOracle",
+      "name": "Effurun Shrine of Ancient Wisdom",
+      "short_description": "Believed to be a nexus point for cosmic energies, this oracle site was historically where tribal leaders sought divine counsel before major decisions.",
+      "subtype": "Oracle Sites",
+      "address": "Off PTI Road, Effurun, Warri",
+      "visiting_hours": "10:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Shrine_in_Benin_City.jpg/640px-Shrine_in_Benin_City.jpg",
+      "tags": [
+        "sacred rituals",
+        "historical significance",
+        "spiritual guidance"
+      ]
+    },
+    {
+      "id": "AladjaOracle",
+      "name": "Aladja River Spirit Oracle",
+      "short_description": "Perched near the Aladja River, this ancient site is dedicated to the revered river spirits, whose whispers are said to bring forth prophecies of flood and prosperity.",
+      "subtype": "Oracle Sites",
+      "address": "Aladja Town, near Warri-Sapele Road",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1616781223969-95a9478f7e91?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "river spirits",
+        "local legends",
+        "ancestral reverence"
+      ]
+    },
+    {
+      "id": "AncestralMound",
+      "name": "The Stepped Mound of Ancestral Ascendancy",
+      "short_description": "A unique, ancient stepped earth mound, believed to be a burial site for revered chiefs and a spiritual ladder for their souls to ascend.",
+      "subtype": "Pyramids",
+      "address": "Near Ekpan, off NPA Expressway, Warri",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_traditional_Igbo_palace.jpg/640px-A_traditional_Igbo_palace.jpg",
+      "tags": [
+        "ancestral worship",
+        "ancient architecture",
+        "burial ground"
+      ]
+    },
+    {
+      "id": "OlokunPyramid",
+      "name": "Olokun's Offering Pyramid",
+      "short_description": "This smaller, symbolic pyramid structure was historically used for elaborate offerings to Olokun, the goddess of the sea and wealth, ensuring prosperity for the fishing communities.",
+      "subtype": "Pyramids",
+      "address": "Ugbuwangue Waterfront, Warri",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1634033355080-602058b44983?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "marine deity",
+        "offerings",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "WarriorPyramid",
+      "name": "Pyramid of the Valiant Warriors",
+      "short_description": "A monument of stacked laterite blocks, commemorating legendary warriors and serving as a focal point for rituals honouring courage and sacrifice.",
+      "subtype": "Pyramids",
+      "address": "Off Enerhen Road, near Refinery Road, Warri",
+      "visiting_hours": "24/7 (exterior)",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Traditional_village_in_Nigeria.jpg/640px-Traditional_village_in_Nigeria.jpg",
+      "tags": [
+        "warrior tradition",
+        "memorial",
+        "historical landmark"
+      ]
+    },
+    {
+      "id": "HarvestPyramid",
+      "name": "The Egbokodo Harvest Pyramid",
+      "short_description": "An ancient earthwork pyramid where farmers once performed fertility rites and celebrated bountiful harvests, dedicated to the earth goddess.",
+      "subtype": "Pyramids",
+      "address": "Egbokodo Community, Warri",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1616335133610-d8650f925056?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "fertility rites",
+        "agricultural heritage",
+        "earth worship"
+      ]
+    },
+    {
+      "id": "OldWarriRelics",
+      "name": "The Old Warri Royal Enclave Relics",
+      "short_description": "Archaeological remnants of what is believed to be the original settlement of the Warri kingdom, with faint outlines of ancient palaces and ceremonial grounds.",
+      "subtype": "Ancient Cities",
+      "address": "Near Warri Main Market, Warri",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ile_Ife_gate.jpg/640px-Ile_Ife_gate.jpg",
+      "tags": [
+        "archaeology",
+        "kingdom history",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "ItsekiriRuins",
+      "name": "Ruins of Otonlu Kingdom",
+      "short_description": "A site believed to be the remains of a lost Itsekiri settlement, offering glimpses into ancient urban planning and spiritual practices through scattered pottery and foundation stones.",
+      "subtype": "Ancient Cities",
+      "address": "Off Warri-Sapele Road, near Otonlu",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1594246675003-88719d45e7e1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "lost civilization",
+        "ancient history",
+        "settlement"
+      ]
+    },
+    {
+      "id": "UrhoboSettlement",
+      "name": "Urhobo Ancient Walled Settlement",
+      "short_description": "Traces of a pre-colonial Urhobo settlement, revealing defensive walls and communal gathering spaces, significant for understanding early societal structures.",
+      "subtype": "Ancient Cities",
+      "address": "Near Ekurede-Itsekiri, Warri",
+      "visiting_hours": "09:30-16:30",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Igbo_Ukwu_archaeological_site_entrance.jpg/640px-Igbo_Ukwu_archaeological_site_entrance.jpg",
+      "tags": [
+        "pre-colonial",
+        "indigenous history",
+        "archaeological site"
+      ]
+    },
+    {
+      "id": "GbaramatuOutpost",
+      "name": "Gbaramatu Riverine Outpost",
+      "short_description": "Remnants of a strategic riverine outpost from an ancient Gbaramatu Ijaw community, serving as a trade hub and spiritual guardian of the waterways.",
+      "subtype": "Ancient Cities",
+      "address": "Delta waterways, near Okerenkoko, Warri South West",
+      "visiting_hours": "10:00-15:00 (boat access only)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1577717462412-f02787c88b1b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "riverine history",
+        "trade routes",
+        "Ijaw culture"
+      ]
+    },
+    {
+      "id": "OgbaMonoliths",
+      "name": "The Ogba Monoliths of Wisdom",
+      "short_description": "A rare collection of towering natural stone monoliths, believed to be ancestral guardians and sites for powerful spiritual covenants.",
+      "subtype": "Megalithic Sites",
+      "address": "Ogba Community, off Warri-Benin Expressway",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1629858546115-3732b130a0d9?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "ancient monuments",
+        "sacred stones",
+        "ritual site"
+      ]
+    },
+    {
+      "id": "EdjebaStone",
+      "name": "Edjeba Stone Circle of Power",
+      "short_description": "An ancient circular arrangement of large stones, said to amplify spiritual energy and be a portal to other realms during solstices and equinoxes.",
+      "subtype": "Megalithic Sites",
+      "address": "Edjeba, Warri",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stone_Circle_at_Ekom_Nkum.jpg/640px-Stone_Circle_at_Ekom_Nkum.jpg",
+      "tags": [
+        "cosmic alignment",
+        "spiritual energy",
+        "prehistoric"
+      ]
+    },
+    {
+      "id": "UduRock",
+      "name": "The Udu Ancestral Rock Formations",
+      "short_description": "Naturally sculpted rock formations revered as the dwelling places of powerful ancestral spirits and sites of ancient worship.",
+      "subtype": "Megalithic Sites",
+      "address": "Udu Local Government Area, near Ovwian, Warri",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1610427848419-14a570086c07?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "natural wonders",
+        "folklore",
+        "ancestral veneration"
+      ]
+    },
+    {
+      "id": "KokoStanding",
+      "name": "Koko Standing Stones of Prophecy",
+      "short_description": "A cluster of tall, slender standing stones by the Koko River, believed to have been erected by ancient seers to mark prophetic visions.",
+      "subtype": "Megalithic Sites",
+      "address": "Koko Town, Warri North",
+      "visiting_hours": "08:30-17:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1622329868779-11c213426189?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "river culture",
+        "prophecy",
+        "ancient history"
+      ]
+    },
+    {
+      "id": "AirportCross",
+      "name": "Spirit's Confluence at Airport Road",
+      "short_description": "An ancient crossroads where paths from various communities converged, believed to be a potent spot for spirit offerings and pivotal life decisions.",
+      "subtype": "Crossroads",
+      "address": "Intersection of Airport Road and NPA Expressway, Warri",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1595166114493-272e50529683?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "spiritual intersection",
+        "offerings",
+        "fate"
+      ]
+    },
+    {
+      "id": "MarketJunction",
+      "name": "Market Junction of Destiny (Warri Main Market)",
+      "short_description": "This bustling intersection at the heart of the old market is where traders once sealed agreements and sought blessings for prosperity, believed to be watched by market spirits.",
+      "subtype": "Crossroads",
+      "address": "Warri Main Market, Warri",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1587840134015-385002084ecf?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "commerce",
+        "blessings",
+        "urban spirituality"
+      ]
+    },
+    {
+      "id": "UghelliCross",
+      "name": "Ughelli-Warri Crossroads of Peace",
+      "short_description": "A historically significant crossroads marking the boundary between ancient communities, where peace treaties were often negotiated and sealed under spiritual oversight.",
+      "subtype": "Crossroads",
+      "address": "Near Ughelli-Warri Intersect, Warri",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627915598282-36d10c8f1e56?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "peace treaties",
+        "boundaries",
+        "historical meetings"
+      ]
+    },
+    {
+      "id": "RiverConfluence",
+      "name": "Confluence of the Three River Spirits",
+      "short_description": "A mystical point where three minor rivers meet, revered as a powerful crossroads for water spirits and a site for rituals seeking purification and renewal.",
+      "subtype": "Crossroads",
+      "address": "Secret location near Warri River, accessible by boat",
+      "visiting_hours": "08:00-15:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1621287413000-c9a17a0279c1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "river spirits",
+        "purification",
+        "natural sanctuary"
+      ]
+    },
+    {
+      "id": "EbodjeWell",
+      "name": "The Ebodje Healing Well",
+      "short_description": "A centuries-old natural spring known for its clear, cool waters believed to possess powerful healing properties and spiritual cleansing powers.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Ebodje Community, Warri",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1594246675003-88719d45e7e1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "healing waters",
+        "sacred spring",
+        "purification"
+      ]
+    },
+    {
+      "id": "OgunuSpring",
+      "name": "Ogunu Ancestral Spring of Life",
+      "short_description": "This hidden spring flows from beneath an ancient iroko tree, revered as a source of vitality and a direct link to the community's founding ancestors.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Ogunu, Warri",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1608677685458-9a3d61b36952?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "ancestral reverence",
+        "vitality",
+        "natural sanctuary"
+      ]
+    },
+    {
+      "id": "UbejiWell",
+      "name": "Ubeji Well of Fertility",
+      "short_description": "A sacred well historically visited by women seeking blessings for fertility and safe childbirth, guarded by the spirit of the mother goddess.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Ubeji Community, Warri",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1616781223969-95a9478f7e91?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "fertility rites",
+        "mother goddess",
+        "blessings"
+      ]
+    },
+    {
+      "id": "KokoRiverSpring",
+      "name": "Koko River Spirit Spring",
+      "short_description": "A pristine spring feeding into the Koko River, believed to be the dwelling of a benevolent river spirit whose waters grant wisdom and clarity.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Koko Town, Warri North",
+      "visiting_hours": "08:30-17:30",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1621287413000-c9a17a0279c1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "river spirits",
+        "wisdom",
+        "natural beauty"
+      ]
+    },
+    {
+      "id": "UkpokitiClash",
+      "name": "Site of the Great Ukpokiti Clash",
+      "short_description": "The historical grounds where a decisive battle shaped the territorial boundaries and alliances of the Warri kingdom, now a place for quiet reflection.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Near Ukpokiti Community, Warri",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1616781223969-95a9478f7e91?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "historical battle",
+        "territorial disputes",
+        "remembrance"
+      ]
+    },
+    {
+      "id": "ObodoPeace",
+      "name": "Obodo Peace Pact Grounds",
+      "short_description": "This sacred field witnessed the signing of a crucial peace pact after a prolonged conflict, establishing an enduring accord among warring factions.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Obodo-Itsekiri, Warri South",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1594246675003-88719d45e7e1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "peace accord",
+        "historical event",
+        "reconciliation"
+      ]
+    },
+    {
+      "id": "IjawUrhobo",
+      "name": "Ijaw-Urhobo Frontier skirmish Site",
+      "short_description": "Marked by ancient earthworks, this area represents a historic frontier where Ijaw and Urhobo communities defended their lands, a testament to resilience.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Near Gbaramatu Kingdom border, Warri South West",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1616335133610-d8650f925056?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "frontier defense",
+        "community history",
+        "resilience"
+      ]
+    },
+    {
+      "id": "PortugueseEncounter",
+      "name": "Site of Portuguese Riverine Encounter",
+      "short_description": "This riverbank marks a significant historical spot where early European traders first encountered local warriors, influencing trade and cultural exchange.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Along Warri River, near Batere, Warri South",
+      "visiting_hours": "10:00-15:00 (boat access)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1621287413000-c9a17a0279c1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "colonial history",
+        "cultural exchange",
+        "river history"
+      ]
+    },
+    {
+      "id": "DeltaHermitage",
+      "name": "Delta Serenity Hermitage",
+      "short_description": "A secluded spiritual retreat nestled in the peaceful delta creeks, offering a sanctuary for meditation and silent contemplation amidst nature.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Hidden creek, Warri South West (boat access)",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1577717462412-f02787c88b1b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "retreat",
+        "meditation",
+        "nature sanctuary"
+      ]
+    },
+    {
+      "id": "AwhituMonastery",
+      "name": "Awhitu River Monk's Retreat",
+      "short_description": "An ancient riverside monastic site, where spiritual seekers live in harmony with the river, dedicated to ancient rituals and ecological preservation.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Along Awhitu River, Warri North",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1621287413000-c9a17a0279c1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "river spirituality",
+        "monastic life",
+        "ecological focus"
+      ]
+    },
+    {
+      "id": "ForestHermitage",
+      "name": "The Hermitage of Whispering Palms",
+      "short_description": "Deep within a quiet palm forest, this hermitage offers a solitary space for spiritual fasting and receiving visions from the forest spirits.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Off Refinery Road, Warri (guided access)",
+      "visiting_hours": "08:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1594953935934-0803c621183c?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "solitude",
+        "forest spirits",
+        "vision quest"
+      ]
+    },
+    {
+      "id": "IslandRetreat",
+      "name": "Isoko Island Monastery",
+      "short_description": "A small, self-sufficient monastery on a secluded island, dedicated to contemplative practices and the study of ancient Warri lore.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Secret Island, Isoko-North LGA (boat access from Warri)",
+      "visiting_hours": "10:00-14:00 (by appointment)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1634033355080-602058b44983?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "contemplation",
+        "ancient lore",
+        "island sanctuary"
+      ]
+    },
+    {
+      "id": "PeaceLabyrinth",
+      "name": "The Path of Inner Peace Labyrinth",
+      "short_description": "A carefully laid out stone labyrinth, traditionally walked as a meditative practice to find inner peace and clarity.",
+      "subtype": "Labyrinths",
+      "address": "Off PTI Road, Effurun, Warri",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627915598282-36d10c8f1e56?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "meditation",
+        "spiritual journey",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "EbrikiMaze",
+      "name": "Ebriki's Meditative Maze",
+      "short_description": "An ancient, symbolic earth-carved maze, believed to guide seekers through the complexities of life towards spiritual enlightenment.",
+      "subtype": "Labyrinths",
+      "address": "Ebriki Community, Warri South",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1616335133610-d8650f925056?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "enlightenment",
+        "symbolic path",
+        "ancient ritual"
+      ]
+    },
+    {
+      "id": "DestinyLabyrinth",
+      "name": "The Labyrinth of Ancestral Destiny",
+      "short_description": "A ritualistic labyrinth used by community elders to seek guidance on tribal destiny and to connect with the wisdom of past generations.",
+      "subtype": "Labyrinths",
+      "address": "Near Ekpan Community, Warri",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stone_Circle_at_Ekom_Nkum.jpg/640px-Stone_Circle_at_Ekom_Nkum.jpg",
+      "tags": [
+        "ancestral guidance",
+        "community rituals",
+        "fate"
+      ]
+    },
+    {
+      "id": "IkaLabyrinth",
+      "name": "Ika Forest Path Labyrinth",
+      "short_description": "A winding path through a sacred forest, naturally forming a labyrinth that challenges visitors to confront their fears and find their true selves.",
+      "subtype": "Labyrinths",
+      "address": "Off Warri-Benin Expressway, near Ika village",
+      "visiting_hours": "08:30-15:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1594953935934-0803c621183c?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "self-discovery",
+        "forest spirituality",
+        "challenge"
+      ]
+    },
+    {
+      "id": "OlokunTemple",
+      "name": "Temple of Olokun's Embrace",
+      "short_description": "A revered ancient temple dedicated to Olokun, the goddess of the sea and wealth, where offerings are made for prosperity and safe passage on the waters.",
+      "subtype": "Ancient Temples",
+      "address": "Ugbuwangue, near the Warri River",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Shrine_in_Benin_City.jpg/640px-Shrine_in_Benin_City.jpg",
+      "tags": [
+        "goddess worship",
+        "sea deity",
+        "prosperity"
+      ]
+    },
+    {
+      "id": "MotherTemple",
+      "name": "Shrine of the Ancient Mother",
+      "short_description": "This ancient shrine honours the earth mother goddess, the source of all life and fertility, attracting pilgrims seeking blessings for family and harvest.",
+      "subtype": "Ancient Temples",
+      "address": "Off Jakpa Road, Effurun, Warri",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Yoruba_shrine_in_Nigeria.jpg/640px-Yoruba_shrine_in_Nigeria.jpg",
+      "tags": [
+        "earth goddess",
+        "fertility",
+        "pilgrimage"
+      ]
+    },
+    {
+      "id": "WarriSkyTemple",
+      "name": "Temple of the Sky Ancestors",
+      "short_description": "Perched on one of the few elevated spots in Warri, this temple was dedicated to the sky gods and revered ancestors who watch over the community.",
+      "subtype": "Ancient Temples",
+      "address": "Near Agbarho, Warri-Ughelli Road",
+      "visiting_hours": "09:30-16:30",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_traditional_Igbo_palace.jpg/640px-A_traditional_Igbo_palace.jpg",
+      "tags": [
+        "sky gods",
+        "ancestral veneration",
+        "elevated shrine"
+      ]
+    },
+    {
+      "id": "IgbeTemple",
+      "name": "Igbe Ancestral Temple of Truth",
+      "short_description": "A sacred temple central to the Igbe religion, where adherents seek spiritual truth, purification, and direct communion with the divine.",
+      "subtype": "Ancient Temples",
+      "address": "Obiaruku, Warri North (near Warri)",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1634033355080-602058b44983?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "Igbe religion",
+        "spiritual truth",
+        "purification rituals"
+      ]
+    }
+  ]
+}

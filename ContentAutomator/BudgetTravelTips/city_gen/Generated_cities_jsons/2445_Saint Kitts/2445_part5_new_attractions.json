@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Saint Kitts",
+    "city_id": "2445"
+  },
+  "items": [
+    {
+      "id": "SK_ZIP001",
+      "name": "Emerald Canopy Zipline",
+      "short_description": "Soar through the lush rainforest canopy on a thrilling zipline adventure, offering breathtaking aerial views of Saint Kitts' vibrant interior. Experience the island's natural beauty from a unique perspective.",
+      "address": "Wingfield Estate, Old Road Town, Saint Kitts",
+      "opening_hours": "09:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549743003-ce96ac252243?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzfHx6aXBsaW5lJTIwcmFpbmZvcmVzdCUyMGNhcmliYmVhbnxlbnwwfHx8fDE3MTk3NDI3OTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "adventure",
+        "rainforest",
+        "zipline"
+      ]
+    },
+    {
+      "id": "SK_BCH002",
+      "name": "Azure Cove Beach Club",
+      "short_description": "A luxurious new beach club offering pristine sands, private cabanas, gourmet dining, and watersports in a secluded bay. Perfect for relaxation and sun-soaked indulgence.",
+      "address": "South East Peninsula Road, Frigate Bay, Saint Kitts",
+      "opening_hours": "10:00-22:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563911302988-ce21961ee1b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw1fHxjbGFzc3klMjBiZWFjaCUyMGNsdWJ8ZW58MHx8fHwxNzE5NzQyODYyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "beach",
+        "luxury",
+        "dining"
+      ]
+    },
+    {
+      "id": "SK_ECO003",
+      "name": "St. Kitts Sustainable Farm & Culinary Experience",
+      "short_description": "Explore a working organic farm, learn about sustainable agriculture, and participate in a farm-to-table cooking class using fresh, local ingredients. A true taste of island life.",
+      "address": "Estridge Estate, St. Paul's, Saint Kitts",
+      "opening_hours": "09:30-15:00 (Tues-Sat)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517702131908-cf522f183c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwxfHxwdWVydG8lMjByaWNvJTIwZmFybXxlbnwwfHx8fDE3MTk3NDI5NTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "eco-tourism",
+        "culinary",
+        "farm"
+      ]
+    },
+    {
+      "id": "SK_HKE004",
+      "name": "Majestic Peak Skywalk",
+      "short_description": "A newly constructed skywalk offering unparalleled panoramic views of Mount Liamuiga and the surrounding rainforest. Features accessible pathways and stunning photo opportunities.",
+      "address": "Sandy Point Town, Saint Kitts",
+      "opening_hours": "08:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522818957413-fe4177264a66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw1fHxza3l3YWxrJTIwbmF0dXJlfGVufDB8fHx8MTcxOTc0MzAxMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "hiking",
+        "views",
+        "nature"
+      ]
+    },
+    {
+      "id": "SK_DIV005",
+      "name": "St. Kitts Marine Discovery Center",
+      "short_description": "An interactive center dedicated to marine conservation, featuring aquariums, educational exhibits, and guided snorkeling tours to a newly established artificial reef. Fun for all ages.",
+      "address": "Port Zante, Basseterre, Saint Kitts",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1524816158098-4b77f805a968?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw1fHxhcXVhcml1bSUyMGNhcmliYmVhbnxlbnwwfHx8fDE3MTk3NDMwNzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marine life",
+        "education",
+        "snorkeling"
+      ]
+    },
+    {
+      "id": "SK_WEL006",
+      "name": "Serenity Springs Thermal Baths",
+      "short_description": "Relax in naturally heated volcanic mineral pools surrounded by lush tropical gardens. Offers therapeutic benefits and a tranquil escape from the everyday.",
+      "address": "Monkey Hill, St. Peter's Parish, Saint Kitts",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1590740685960-9195b0906b29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwxfHxob3QlMjBzcHJpbmdzJTIwY2FyaWJiZWFuJTIwc3BhfGVufDB8fHx8MTcxOTc0MzExMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wellness",
+        "spa",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "SK_CRAFT007",
+      "name": "Indigo Artisan Village",
+      "short_description": "A vibrant village showcasing local artists, craftspeople, and culinary talents. Browse handmade goods, watch live demonstrations, and enjoy authentic Kittitian food and music.",
+      "address": "Main Street, Dieppe Bay Town, Saint Kitts",
+      "opening_hours": "10:00-18:00 (Wed-Sun)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1528699119616-928929b9f71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwxfHxhcnRpc2FuJTIwbWFya2V0JTIwY2FyaWJiZWFuJTIwY3JhZnRzfGVufDB8fHx8MTcxOTc0MzE2OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "culture",
+        "crafts",
+        "local food"
+      ]
+    },
+    {
+      "id": "SK_ADVP008",
+      "name": "Sugar Cane Adventure Park",
+      "short_description": "A family-friendly adventure park built on a former sugar plantation, featuring ATV tours, obstacle courses, and interactive exhibits on the island's sugar history.",
+      "address": "Conaree Village, Saint Kitts",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1628122396117-64b58e6584c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwxfHxhdHYlMjBhZHZlbnR1cmUlMjBwYXJrJTIwY2FyaWJiZWFuJTIwdHJhY2t8ZW58MHx8fHwxNzE5NzQzMjY3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "family",
+        "adventure",
+        "history"
+      ]
+    },
+    {
+      "id": "SK_GLAMP009",
+      "name": "Rainforest Glamping Retreat",
+      "short_description": "Experience luxury glamping nestled deep within the rainforest, offering unique tented accommodations, guided nature walks, and stargazing. Connect with nature in comfort.",
+      "address": "Half Way Tree, Saint Kitts",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1528535186835-236b3b5523a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw0fHxyYWluZm9yZXN0JTIwZ2xhbXBpbmd8ZW58MHx8fHwxNzE5NzQzMzEwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "glamping",
+        "nature",
+        "unique stay"
+      ]
+    },
+    {
+      "id": "SK_NIGHT010",
+      "name": "Sunset Ridge Rooftop Bar & Grill",
+      "short_description": "Perched atop a hill overlooking the Caribbean Sea and Basseterre, this modern rooftop venue offers exquisite dining, craft cocktails, and the best sunset views on the island.",
+      "address": "Fortlands, Basseterre, Saint Kitts",
+      "opening_hours": "17:00-00:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1577717462319-33d3e6399081?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwxfHxyb29mdG9wJTIwYmFyJTIwY2FyaWJiZWFuJTIwc3Vuc2V0fGVufDB8fHx8MTcxOTc0MzM1MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nightlife",
+        "dining",
+        "views"
+      ]
+    }
+  ]
+}

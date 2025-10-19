@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Maseru",
+    "city_id": "2412"
+  },
+  "items": [
+    {
+      "id": "ThabaBosiu",
+      "name": "The Majestic Mountain Fortress of Thaba Bosiu",
+      "short_description": "Climb this historic flat-topped mountain, a symbol of Basotho resilience and independence, offering panoramic views and ancient ruins. Discover the spiritual heartland of the Basotho nation.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "20km east of Maseru",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Thaba_Bosiu_National_Shrine.jpg",
+      "tags": [
+        "BasothoHistory",
+        "MountainViews",
+        "CulturalHeritage"
+      ]
+    },
+    {
+      "id": "CaledonBridge",
+      "name": "Scenic Caledon River Overlook (Maseru Bridge)",
+      "short_description": "Witness the flow of the Caledon River with sweeping views of the border landscape and distant Maloti Mountains from the Maseru Bridge area. It offers a glimpse into the natural beauty surrounding the capital.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Maseru Border Post (South Africa-Lesotho border)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1597813589139-44585141235b?q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "RiverViews",
+        "BorderLandscape",
+        "MalotiMountains"
+      ]
+    },
+    {
+      "id": "BasothoHatBuilding",
+      "name": "The Iconic Basotho Hat Building (Mokorotlo)",
+      "short_description": "Capture the unique design of this hat-shaped building, a vibrant architectural homage to Lesotho's national symbol, the mokorotlo. It's a testament to Basotho identity and craftsmanship.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Near Maseru Market",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mokorotlo_Building.jpg",
+      "tags": [
+        "CulturalSymbol",
+        "UniqueArchitecture",
+        "LesothoPride"
+      ]
+    },
+    {
+      "id": "MaseruCathedral",
+      "name": "Grand Maseru Cathedral of Our Lady of Victory",
+      "short_description": "Marvel at the striking architecture of Maseru's prominent Roman Catholic cathedral, a serene sanctuary in the heart of the city. Its twin spires offer a picturesque backdrop.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Kingsway, Maseru City Centre",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Maseru_Cathedral_of_Our_Lady_of_Victory.jpg",
+      "tags": [
+        "ReligiousSite",
+        "ColonialArchitecture",
+        "CityLandmark"
+      ]
+    }
+  ]
+}

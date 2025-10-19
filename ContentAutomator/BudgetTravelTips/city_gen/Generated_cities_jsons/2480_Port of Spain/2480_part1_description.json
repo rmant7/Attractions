@@ -1,0 +1,68 @@
+{
+  "id": "2480",
+  "name": "Port of Spain",
+  "country": "Trinidad & Tobago",
+  "description": "Port of Spain, the vibrant capital of Trinidad & Tobago, is a pulsating hub where Caribbean charm meets diverse cultural influences. Nestled on the Gulf of Paria, it's renowned globally for hosting the 'Greatest Show on Earth' – Carnival. Beyond the spectacular feathered costumes and rhythmic soca beats, the city offers a rich tapestry of experiences. Explore the grandeur of the 'Magnificent Seven' mansions surrounding the expansive Queen's Park Savannah, a green lung that doubles as a communal gathering space and a major Carnival venue. Immerse yourself in the bustling local markets, savouring the fusion of African, Indian, European, and Creole flavours in its street food, from doubles to roti. Cultural institutions like the National Museum and Art Gallery provide insights into the nation's history and artistic expression, while the Royal Botanic Gardens offer a serene escape amidst exotic flora. The city's energy is infectious, from the lively nightlife to the warm, welcoming spirit of its people. While the downtown area buzzes with commerce, the nearby northern ranges offer lush hiking trails and breathtaking views. For a taste of the island's famous beaches, a short drive will take you to the iconic Maracas Bay. Port of Spain is an unforgettable destination for those seeking a dynamic Caribbean experience infused with music, history, and unparalleled festivity.",
+  "themes": [
+    "Carnival",
+    "Culture",
+    "Caribbean",
+    "Foodie",
+    "History"
+  ],
+  "body_attributes": {
+    "climate": "Tropical marine climate, characterized by a distinct wet season (June-December) and a dry season (January-May). Temperatures are consistently warm year-round, averaging 25-30°C (77-86°F).",
+    "best_time_to_visit": "January to May (dry season), especially February or March for Carnival (dates vary annually).",
+    "population": "37074",
+    "area": "12 sq km",
+    "transport_summary": "Public transport relies on private maxi-taxis (shared minibuses) and red-band taxis. Ride-sharing apps are also available. Rental cars offer flexibility for exploring outside the city.",
+    "safety_level": "Medium",
+    "geographical_features": "Coastal city situated on the Gulf of Paria, backed by the Northern Range hills, offering a natural harbour."
+  },
+  "travel_tips": [
+    "Stay hydrated and protect yourself from the sun, especially during the dry season.",
+    "Use reputable taxis or ride-sharing services, especially at night. Agree on fares beforehand if not metered.",
+    "Be aware of your surroundings, particularly in crowded areas and after dark.",
+    "Sample local street food but choose vendors with good hygiene practices."
+  ],
+  "budget_tips": [
+    "Utilize maxi-taxis for affordable local transportation; they cover most major routes.",
+    "Eat at local food stalls and markets for delicious and inexpensive meals.",
+    "Look for guesthouses or smaller hotels outside the immediate city center for better rates.",
+    "Many natural attractions like Queen's Park Savannah and the Botanical Gardens are free to enjoy."
+  ],
+  "seo": {
+    "seo_title": "Port of Spain Travel Guide: Carnival, Culture & Caribbean Charm",
+    "seo_description": "Explore Port of Spain, Trinidad & Tobago's vibrant capital. Discover its unique Carnival, historic architecture, diverse cuisine, and lush landscapes. Your essential guide.",
+    "keywords": [
+      "Port of Spain",
+      "Trinidad & Tobago",
+      "Carnival",
+      "Caribbean travel",
+      "Caribbean culture",
+      "travel guide"
+    ]
+  },
+  "meta": {
+    "continent": "North America",
+    "currency": "Trinidad and Tobago Dollar (TTD)",
+    "language": "English",
+    "time_zone": "Atlantic Standard Time (AST), UTC-4",
+    "popular_airlines": [
+      "Caribbean Airlines",
+      "American Airlines",
+      "JetBlue",
+      "United Airlines",
+      "Air Canada"
+    ]
+  },
+  "title": "Port of Spain: Carnival Heartbeat of the Caribbean",
+  "images": [
+    "https://images.unsplash.com/photo-1594950346083-0ec2a537f7c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+    "https://images.unsplash.com/photo-1589133491953-ce20f6cf3d15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80"
+  ],
+  "coordinates": [
+    10.661702156066895,
+    -61.51944351196289
+  ]
+}

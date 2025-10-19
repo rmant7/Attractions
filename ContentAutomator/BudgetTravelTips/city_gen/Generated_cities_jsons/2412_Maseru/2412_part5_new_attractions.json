@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Maseru",
+    "city_id": "2412"
+  },
+  "items": [
+    {
+      "id": "MSRArt001",
+      "name": "Liphakoe Contemporary Art Hub",
+      "short_description": "A vibrant new space showcasing modern Basotho artists, offering rotating exhibits, workshops, and a fresh take on local creative expression.",
+      "address": "Kingsway Road, Maseru 100",
+      "opening_hours": "10:00-17:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1629910531584-c5a4773837fe?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art gallery",
+        "contemporary",
+        "culture"
+      ]
+    },
+    {
+      "id": "MSRPark002",
+      "name": "Maluti Sky Park",
+      "short_description": "Maseru's newest green oasis, featuring meticulously designed walking trails, shaded picnic spots, and a modern children's playground. Perfect for family outings and relaxation.",
+      "address": "Lekhalong Road, Maseru 100",
+      "opening_hours": "06:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1549495764-ec387bb36359?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "park",
+        "family-friendly",
+        "outdoors"
+      ]
+    },
+    {
+      "id": "MSRCin003",
+      "name": "Basotho Film & Culture House",
+      "short_description": "An intimate, recently opened cinema and cultural center experience focusing on African films, documentaries, and independent features, alongside thought-provoking cultural events and discussions.",
+      "address": "Pioneer Road, Maseru 100",
+      "opening_hours": "14:00-22:00 (Wed-Sun)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1574267439562-b9e7c570b540?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cinema",
+        "culture",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "MSRMk004",
+      "name": "Qhobosheane Fresh Market & Eatery",
+      "short_description": "A bustling new market space offering a diverse array of fresh local produce, artisanal crafts, and a variety of food stalls serving modern Basotho and international cuisine.",
+      "address": "Motimposo Industrial Area, Maseru 100",
+      "opening_hours": "08:00-19:00 (Mon-Sat)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582283084365-b4676571556a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "market",
+        "food",
+        "local produce"
+      ]
+    },
+    {
+      "id": "MSRAdv005",
+      "name": "Liphofung Adventure Zone",
+      "short_description": "Maseru's premier indoor adventure park, recently opened, with thrilling climbing walls, bouncy trampolines, and challenging obstacle courses, catering to all ages and skill levels.",
+      "address": "Maseru Mall Complex, Maseru 100",
+      "opening_hours": "10:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1573030230219-c80f48866e4a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "kids-friendly",
+        "active"
+      ]
+    },
+    {
+      "id": "MSRBar006",
+      "name": "Sky Bar Maseru",
+      "short_description": "Perched atop a new high-rise, this stylish rooftop bar offers panoramic views of Maseru, signature cocktails, and a sophisticated atmosphere perfect for evening unwinding.",
+      "address": "Katlehong Road, Maseru 100",
+      "opening_hours": "17:00-00:00 (Tue-Sat)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1555577626-d352b2b1a100?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nightlife",
+        "views",
+        "bar"
+      ]
+    },
+    {
+      "id": "MSRSci007",
+      "name": "Lesotho Innovation Centre & Discovery Hub",
+      "short_description": "An interactive space opened to inspire curiosity in science and technology among youth and adults, featuring hands-on exhibits, engaging demonstrations, and educational programs.",
+      "address": "Ha Mabote, Maseru 100",
+      "opening_hours": "09:00-16:00 (Mon-Fri)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1629862803624-9b55238c92a5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "education",
+        "science",
+        "interactive"
+      ]
+    },
+    {
+      "id": "MSRRest008",
+      "name": "The Mountain Table",
+      "short_description": "A fine dining establishment redefining Basotho cuisine with a modern twist, using locally sourced ingredients in an elegant and recently opened setting.",
+      "address": "Hilton Road, Maseru 100",
+      "opening_hours": "18:00-22:00 (Tue-Sat)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1663080004908-08502f6ae2b4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "restaurant",
+        "fine dining",
+        "local cuisine"
+      ]
+    },
+    {
+      "id": "MSREco009",
+      "name": "Thaba-Bosiu Wellness Retreat",
+      "short_description": "A serene escape offering rejuvenating spa treatments, calming yoga sessions, and guided nature walks, focusing on holistic well-being with breathtaking views of the Thaba-Bosiu plateau.",
+      "address": "Thaba-Bosiu Road (just outside Maseru), Maseru 100",
+      "opening_hours": "08:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582234032483-ae23497d3127?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wellness",
+        "nature",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "MSRLib010",
+      "name": "The Knowledge Commons",
+      "short_description": "A state-of-the-art public library combined with modern co-working spaces, recently opened to offer extensive resources for study, collaboration, and vibrant community events.",
+      "address": "Qoaling Road, Maseru 100",
+      "opening_hours": "08:30-19:00 (Mon-Sat)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1544717297-fa95bda474b7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "library",
+        "co-working",
+        "community"
+      ]
+    }
+  ]
+}

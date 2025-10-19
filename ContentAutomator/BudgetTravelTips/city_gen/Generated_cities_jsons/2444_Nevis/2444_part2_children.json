@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Nevis",
+    "city_id": "2444"
+  },
+  "items": [
+    {
+      "id": "NVCBP001",
+      "name": "Nevis Brick Builder's Bay",
+      "short_description": "Dive into a world of endless creativity where kids can design and construct their own island wonders using thousands of LEGO bricks. Interactive building stations and design challenges await young architects.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Main Street, Charlestown, Nevis",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1577909062325-a130f40a430d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "Lego",
+        "building",
+        "creativity"
+      ]
+    },
+    {
+      "id": "NVCBP002",
+      "name": "Island Architect's Workshop",
+      "short_description": "A vibrant indoor space dedicated to imaginative play with LEGO DUPLO and traditional LEGO sets. Special workshops on engineering and robotics are offered for older children.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Pinney's Road, Gingerland, Nevis",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549298492-f04c66e792e4?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "DUPLO",
+        "robotics",
+        "workshops"
+      ]
+    },
+    {
+      "id": "NVCBP003",
+      "name": "Nevis Construct-a-Coaster",
+      "short_description": "This unique park allows children to design and test their own mini-roller coasters and car tracks using specialized LEGO components. A fun and educational experience for budding engineers.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Cotton Ground, Nevis",
+      "opening_hours": "11:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1520696956799-73fb40954e3b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "engineering",
+        "coasters",
+        "interactive"
+      ]
+    },
+    {
+      "id": "NVCBP004",
+      "name": "Volcano Brick Lab",
+      "short_description": "Explore volcanic geology through LEGO models and build your own lava flows and island landscapes. Learn about Nevis's natural history in a fun, hands-on way.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Fig Tree, Nevis",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628173499092-74718018d9f1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "geology",
+        "education",
+        "models"
+      ]
+    },
+    {
+      "id": "NVIPC001",
+      "name": "Mango Tree Maze & Play",
+      "short_description": "A multi-level soft play structure featuring slides, tunnels, ball pits, and climbing frames. Perfect for children to burn off energy on a hot or rainy day.",
+      "subtype": "Indoor Play Centers",
+      "address": "Cades Bay Road, Charlestown, Nevis",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1536761821731-50e58319e712?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "soft play",
+        "climbing",
+        "slides"
+      ]
+    },
+    {
+      "id": "NVIPC002",
+      "name": "Pirate Ship Playhouse",
+      "short_description": "Kids can embark on a grand adventure aboard a themed indoor pirate ship, complete with cannons, a lookout deck, and treasure hunt challenges. Suitable for younger buccaneers.",
+      "subtype": "Indoor Play Centers",
+      "address": "Gallows Bay, Charlestown, Nevis",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1520697923707-16ed41f40d86?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "pirate theme",
+        "imaginative play",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "NVIPC003",
+      "name": "Rainforest Rascals Funhouse",
+      "short_description": "An eco-friendly indoor play center designed with natural materials, offering rope bridges, treehouse-style climbing, and a dedicated toddler zone. Focus on active and exploratory play.",
+      "subtype": "Indoor Play Centers",
+      "address": "Morning Star Estate, Gingerland, Nevis",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1629853310467-33ae567876a9?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "eco-friendly",
+        "active play",
+        "toddler zone"
+      ]
+    },
+    {
+      "id": "NVIPC004",
+      "name": "Nevis Bounce House Bonanza",
+      "short_description": "Featuring multiple inflatable bounce houses, obstacle courses, and slides, this center is a high-energy haven for kids of all ages. Safety-supervised fun guaranteed.",
+      "subtype": "Indoor Play Centers",
+      "address": "Bachelors Hall, Newcastle, Nevis",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549419142-63b7e750e3fe?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "inflatables",
+        "bouncing",
+        "obstacle course"
+      ]
+    },
+    {
+      "id": "NVWPK001",
+      "name": "Pelican Splash Pad",
+      "short_description": "A vibrant zero-depth water play area with interactive jets, tipping buckets, and gentle slides, perfect for toddlers and younger children. Shaded areas and seating for parents available.",
+      "subtype": "Water Parks for Kids",
+      "address": "Pinney's Beach South, Nevis",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589140417258-30693a1cfd52?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "splash pad",
+        "toddler friendly",
+        "water jets"
+      ]
+    },
+    {
+      "id": "NVWPK002",
+      "name": "Coconut Creek Water Fun",
+      "short_description": "Featuring a lazy river, a multi-lane racing slide, and a dedicated shallow pool with a water playground. A fun escape from the heat for families.",
+      "subtype": "Water Parks for Kids",
+      "address": "Nisbet Plantation Road, Newcastle, Nevis",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596773343166-51ee939b4b20?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "lazy river",
+        "water slides",
+        "family fun"
+      ]
+    },
+    {
+      "id": "NVWPK003",
+      "name": "Monkey Hill Rapids",
+      "short_description": "Experience thrilling tube slides and an adventure water course with waterfalls and sprayers. Designed for slightly older children seeking more excitement.",
+      "subtype": "Water Parks for Kids",
+      "address": "Round Hill Estate, Gingerland, Nevis",
+      "opening_hours": "10:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1629253406456-9a593fb99049?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "tube slides",
+        "rapids",
+        "adventure course"
+      ]
+    },
+    {
+      "id": "NVWPK004",
+      "name": "Charlestown Aqua Park",
+      "short_description": "An inflatable obstacle course anchored just offshore, offering climbing, jumping, and sliding fun directly in the calm Caribbean Sea. Life vests provided.",
+      "subtype": "Water Parks for Kids",
+      "address": "Charlestown Bay, Nevis",
+      "opening_hours": "09:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1621217730598-c1a129033320?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "inflatable park",
+        "ocean play",
+        "obstacle course"
+      ]
+    },
+    {
+      "id": "NVCAPT001",
+      "name": "Nevis Island Puppet Troupe",
+      "short_description": "Charming traditional puppet shows bringing local folklore and Caribbean tales to life. Interactive storytelling and meet-and-greet with the puppets after each performance.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Culture House, Charlestown, Nevis",
+      "opening_hours": "14:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510408544715-992e1069b2d3?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "puppets",
+        "folklore",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "NVCAPT002",
+      "name": "The Great Sugar Mill Circus",
+      "short_description": "A family-friendly mini-circus featuring local acrobats, clowns, jugglers, and a ringmaster with hilarious antics. Held in a colorful tent, offering dazzling entertainment for all ages.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Near Golden Rock Estate, Gingerland, Nevis",
+      "opening_hours": "17:00-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547840134-8c878954cfed?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "circus",
+        "acrobats",
+        "clowns"
+      ]
+    },
+    {
+      "id": "NVCAPT003",
+      "name": "Nevis Sea Critters Puppet Show",
+      "short_description": "An educational and entertaining puppet show focused on marine life and ocean conservation. Learn about the creatures inhabiting Nevis's waters through fun, engaging characters.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Nevis Marine Environmental Center, Cades Bay, Nevis",
+      "opening_hours": "11:00-12:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1638686616469-8086208a38a7?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "educational",
+        "marine life",
+        "conservation"
+      ]
+    },
+    {
+      "id": "NVCAPT004",
+      "name": "Caribbean Carousel Circus",
+      "short_description": "A captivating, vibrant show featuring local and international performers in a blend of traditional circus acts and Caribbean dance. Seasonal performances only, check schedule.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Bath Plain, Nevis (seasonal location)",
+      "opening_hours": "19:00-20:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1574676646580-086303254580?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "seasonal",
+        "dance",
+        "international"
+      ]
+    },
+    {
+      "id": "NVTPK001",
+      "name": "Pinney's Beach Funland",
+      "short_description": "A small, charming theme park right by the beach, offering classic kiddie rides like a mini Ferris wheel, carousel, and bumper boats. Perfect for younger children.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Pinney's Beach North, Nevis",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627771746200-a5494668b594?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "kiddie rides",
+        "beachside",
+        "carousel"
+      ]
+    },
+    {
+      "id": "NVTPK002",
+      "name": "Nevis Monkey Kingdom Adventure",
+      "short_description": "A jungle-themed park where children can explore miniature replica ruins, ride a gentle train through a 'rainforest,' and enjoy a variety of animal-themed rides. Meet friendly character mascots.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Prospect Estate, Charlestown, Nevis",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1554901004-8c813a3ca7f4?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "jungle theme",
+        "train ride",
+        "mascots"
+      ]
+    },
+    {
+      "id": "NVTPK003",
+      "name": "Caribbean Kids' Carnival",
+      "short_description": "A colorful park celebrating Caribbean culture with themed rides, a small parade, and local craft stations. Enjoy vibrant music and tasty treats.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Bath Plain, Nevis",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1610444583151-26c7d242485c?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "culture",
+        "carnival",
+        "crafts"
+      ]
+    },
+    {
+      "id": "NVTPK004",
+      "name": "Nevis Sugar Mill Station",
+      "short_description": "Step back in time at this history-themed park. Kids can ride a mini steam train, learn about sugar cane harvesting, and enjoy small rides reminiscent of old-time fairgrounds.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Hamilton Estate, Gingerland, Nevis",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1520696956799-73fb40954e3b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "history",
+        "steam train",
+        "educational"
+      ]
+    },
+    {
+      "id": "NVFA001",
+      "name": "Green Pastures Petting Farm",
+      "short_description": "Get up close and personal with friendly farm animals like goats, sheep, chickens, and rabbits. Kids can participate in feeding sessions and learn about farm life.",
+      "subtype": "Farm Attractions",
+      "address": "Mountravers Estate, Gingerland, Nevis",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596773343166-51ee939b4b20?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "feeding"
+      ]
+    },
+    {
+      "id": "NVFA002",
+      "name": "Nevis Eco-Farm & Gardens",
+      "short_description": "A sustainable farm offering guided tours where children can see how fruits and vegetables grow, participate in planting activities, and taste fresh produce. Learn about organic farming.",
+      "subtype": "Farm Attractions",
+      "address": "Butlers, Nevis",
+      "opening_hours": "09:30-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1559885820-e2b217a233b8?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "organic farming",
+        "gardens",
+        "produce"
+      ]
+    },
+    {
+      "id": "NVFA003",
+      "name": "Donkey Sanctuary & Rescue",
+      "short_description": "Visit rescued donkeys and learn about their care and rehabilitation. Children can gently interact with these gentle creatures and help with grooming.",
+      "subtype": "Farm Attractions",
+      "address": "Shaws Road, St. James, Nevis",
+      "opening_hours": "10:00-14:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1579299718449-31713585e505?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "animal rescue",
+        "donkeys",
+        "animal care"
+      ]
+    },
+    {
+      "id": "NVFA004",
+      "name": "Pasture Play Barn",
+      "short_description": "A rustic farm attraction with a play barn, hay bales for jumping, and opportunities to see chickens, pigs, and calves. Features seasonal events like pumpkin patches.",
+      "subtype": "Farm Attractions",
+      "address": "Fountain Village, Nevis",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1518776606132-95cd2834b9d5?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "hay play",
+        "barn animals",
+        "seasonal events"
+      ]
+    },
+    {
+      "id": "NVCM001",
+      "name": "Nevis Little Explorers Museum",
+      "short_description": "A hands-on museum designed for children aged 2-10, featuring exhibits on Nevisian history, nature, and culture. Interactive displays encourage learning through play.",
+      "subtype": "Children’s Museums",
+      "address": "Prince Charles Street, Charlestown, Nevis",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594191370213-9a3b6a4a4d61?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "history",
+        "culture",
+        "interactive"
+      ]
+    },
+    {
+      "id": "NVCM002",
+      "name": "Sugar & Spice Discovery Center",
+      "short_description": "Explore the agricultural heritage of Nevis, focusing on sugar cane and local spices. Kids can grind cane, identify spices by smell, and learn about the island's economic past.",
+      "subtype": "Children’s Museums",
+      "address": "Nelson's Spring, Nevis",
+      "opening_hours": "10:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582294109156-34d603a12903?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "agriculture",
+        "heritage",
+        "sensory play"
+      ]
+    },
+    {
+      "id": "NVCM003",
+      "name": "Marine Marvels Children's Museum",
+      "short_description": "Dedicated to the wonders of the Caribbean Sea, this museum features touch tanks, virtual reality experiences, and exhibits on coral reefs, fish, and sea turtles.",
+      "subtype": "Children’s Museums",
+      "address": "Long Point, Nevis",
+      "opening_hours": "09:30-16:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1522068697395-5d985c7c093a?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "marine biology",
+        "ocean",
+        "touch tanks"
+      ]
+    },
+    {
+      "id": "NVCM004",
+      "name": "Nevis Art & Imagination Gallery",
+      "short_description": "A creative space where children can explore various art forms, create their own masterpieces, and learn about local Nevisian artists. Offers guided art workshops.",
+      "subtype": "Children’s Museums",
+      "address": "Chapel Street, Charlestown, Nevis",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579299718449-31713585e505?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "art",
+        "creativity",
+        "workshops"
+      ]
+    },
+    {
+      "id": "NVIMS001",
+      "name": "Mystical Monkey Magic Show",
+      "short_description": "A delightful magic show filled with disappearing acts, card tricks, and captivating illusions. The magician, 'Professor Prickly,' often incorporates local Nevisian lore.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Community Center, Charlestown, Nevis",
+      "opening_hours": "18:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1526463990861-f09b2e04130d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "magic tricks",
+        "illusions",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "NVIMS002",
+      "name": "The Great Nevisian Vanishing Act",
+      "short_description": "An interactive show where kids become part of the magic, helping the illusionist perform incredible feats. Expect lots of laughter and audience participation.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Oualie Beach Resort, Nevis",
+      "opening_hours": "19:30-20:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1589140417258-30693a1cfd52?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "interactive",
+        "audience participation",
+        "illusions"
+      ]
+    },
+    {
+      "id": "NVIMS003",
+      "name": "Island Enchantment Live",
+      "short_description": "A charming storytelling and magic show combined, where tales of Nevisian history are interwoven with small, wondrous illusions that captivate young imaginations.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Heritage Village, Gingerland, Nevis",
+      "opening_hours": "16:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1629853310467-33ae567876a9?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "storytelling",
+        "local lore",
+        "captivating"
+      ]
+    },
+    {
+      "id": "NVIMS004",
+      "name": "Nevis School of Wizardry",
+      "short_description": "More than a show, this attraction offers short workshops where kids learn simple magic tricks and illusion techniques from a master magician. A fun, hands-on experience.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "St. Kitts & Nevis College (Nevis Campus), Charlestown, Nevis",
+      "opening_hours": "10:00-12:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627771746200-a5494668b594?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "workshops",
+        "learning",
+        "tricks"
+      ]
+    },
+    {
+      "id": "NVAR001",
+      "name": "Charlestown Waterfront Carousel",
+      "short_description": "A beautiful classic carousel featuring hand-painted animals and traditional carnival music. Located right on the waterfront, offering scenic views.",
+      "subtype": "Amusement Rides",
+      "address": "Charlestown Pier, Charlestown, Nevis",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563851508605-4f4007b7dd10?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "carousel",
+        "classic ride",
+        "waterfront"
+      ]
+    },
+    {
+      "id": "NVAR002",
+      "name": "Mango Grove Mini Ferris Wheel",
+      "short_description": "Enjoy gentle spins and panoramic views of the mango groves and distant sea from this charming mini Ferris wheel. Perfect for younger riders and families.",
+      "subtype": "Amusement Rides",
+      "address": "Jessups Estate, Nevis",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621217730598-c1a129033320?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "Ferris wheel",
+        "scenic views",
+        "family ride"
+      ]
+    },
+    {
+      "id": "NVAR003",
+      "name": "Volcano Venturer Kiddie Coaster",
+      "short_description": "A small, exciting roller coaster designed for junior adventurers, taking them on a thrilling (but gentle) ride around a miniature volcano landscape.",
+      "subtype": "Amusement Rides",
+      "address": "Zetlands Estate, Gingerland, Nevis",
+      "opening_hours": "10:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582294109156-34d603a12903?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "roller coaster",
+        "kiddie ride",
+        "thrill"
+      ]
+    },
+    {
+      "id": "NVAR004",
+      "name": "Nevis Bumper Boats Lagoon",
+      "short_description": "Kids can pilot their own colorful bumper boats in a safe, shallow lagoon. A splashy and fun way to cool off and enjoy friendly collisions.",
+      "subtype": "Amusement Rides",
+      "address": "Long Point Bay, Nevis",
+      "opening_hours": "09:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1629253406456-9a593fb99049?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "bumper boats",
+        "water ride",
+        "interactive"
+      ]
+    },
+    {
+      "id": "NVSC001",
+      "name": "Nevis STEM Discovery Hub",
+      "short_description": "An interactive science center focusing on Science, Technology, Engineering, and Math. Features hands-on exhibits covering physics, biology, and local ecology.",
+      "subtype": "Science Centers",
+      "address": "Government Road, Charlestown, Nevis",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510408544715-992e1069b2d3?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "STEM",
+        "interactive",
+        "ecology"
+      ]
+    },
+    {
+      "id": "NVSC002",
+      "name": "Volcano Exploration Lab",
+      "short_description": "Learn about Nevis's volcanic origins through dynamic displays, a mock volcano eruption, and geological experiments. Understand the science behind the island's formation.",
+      "subtype": "Science Centers",
+      "address": "Fountain Estate, Gingerland, Nevis",
+      "opening_hours": "10:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628173499092-74718018d9f1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "geology",
+        "volcanoes",
+        "experiments"
+      ]
+    },
+    {
+      "id": "NVSC003",
+      "name": "Caribbean Climate Kids Center",
+      "short_description": "An engaging center dedicated to climate science, renewable energy, and environmental conservation. Children can participate in 'green' experiments and understand climate impact.",
+      "subtype": "Science Centers",
+      "address": "Low Ground, Nevis",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1559885820-e2b217a233b8?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "climate change",
+        "environment",
+        "renewable energy"
+      ]
+    },
+    {
+      "id": "NVSC004",
+      "name": "Stars & Tides Observatory",
+      "short_description": "Explore astronomy and oceanography with interactive models of the solar system, telescope viewing sessions (evenings), and exhibits on tides and marine currents.",
+      "subtype": "Science Centers",
+      "address": "Potworks, Nevis",
+      "opening_hours": "10:00-17:00 (day), 19:00-21:00 (select evenings)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1594191370213-9a3b6a4a4d61?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=800&fit=max",
+      "tags": [
+        "astronomy",
+        "oceanography",
+        "telescope"
+      ]
+    }
+  ]
+}

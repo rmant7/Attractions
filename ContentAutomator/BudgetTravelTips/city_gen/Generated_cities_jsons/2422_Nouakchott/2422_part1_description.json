@@ -1,0 +1,69 @@
+{
+  "id": "2422",
+  "name": "Nouakchott",
+  "country": "Mauritania",
+  "description": "Nouakchott, Mauritania's sprawling capital, offers a captivating glimpse into West African life where the vast Sahara desert gently meets the Atlantic Ocean. Once a modest fishing village, it has transformed into a bustling metropolis, yet proudly retains a distinct cultural flavor rooted in its Bedouin and Islamic heritage. The city’s main artery is the vibrant Port de Pêche, an incredibly dynamic scene where hundreds of colorful wooden pirogues unload their daily catch onto the sandy shores. This chaotic yet mesmerizing spectacle of fishermen, buyers, and seagulls creates a sensory overload – a truly authentic and unforgettable experience. Nearby, the Grand Marché is a labyrinth of stalls selling everything from intricate silver jewelry and traditional fabrics to fresh produce and electronics, offering an immersive shopping journey. Key religious sites include the majestic Saudi Mosque and the ornate Moroccan Mosque, showcasing stunning Islamic architecture. For a dose of history and ethnography, the National Museum provides valuable insights into Mauritania's nomadic past and diverse ethnic groups. While Nouakchott might lack conventional 'tourist attractions' in the Western sense, its undeniable charm lies in its unique atmosphere, the genuine warmth of its people, and the raw authenticity of daily life. Travelers should embrace the slower pace, engage respectfully with locals, and be prepared for a truly immersive cultural journey. Dressing modestly, staying hydrated, and being open to spontaneous interactions will greatly enhance your visit to this intriguing desert-meets-ocean capital.",
+  "themes": [
+    "Desert City",
+    "West African Culture",
+    "Fishing Port",
+    "Coastal Desert",
+    "Islamic Heritage"
+  ],
+  "body_attributes": {
+    "climate": "Arid desert climate, characterized by hot temperatures year-round, especially inland, with cooler, more pleasant evenings near the coast. Rainfall is minimal and irregular.",
+    "best_time_to_visit": "October to April, when temperatures are milder and more comfortable for exploration, avoiding the intense summer heat.",
+    "population": "Approximately 1.5 million (2023 estimate)",
+    "area": "Approximately 1,000 sq km (386 sq mi)",
+    "transport_summary": "Public transport mainly consists of shared taxis (taxis collectifs) and private taxis. Mini-buses also operate on fixed routes but can be crowded. Car rentals are available but self-driving can be challenging.",
+    "safety_level": "Medium",
+    "geographical_features": "Situated on the Atlantic coast, bordering the Sahara Desert. The city's low-lying coastal plain is susceptible to shifting sands and occasional flooding."
+  },
+  "travel_tips": [
+    "Dress modestly, especially women, to respect local Islamic customs. Light, loose-fitting clothing is recommended.",
+    "Stay hydrated by drinking plenty of bottled water, as the climate is very dry and hot.",
+    "Bargaining is expected in markets; negotiate prices respectfully but firmly.",
+    "Always carry small denominations of the local currency (MRU) as credit cards are not widely accepted."
+  ],
+  "budget_tips": [
+    "Utilize shared taxis (taxis collectifs) for affordable transportation within the city.",
+    "Eat at local street food stalls and smaller restaurants for authentic and inexpensive meals.",
+    "Negotiate rates for guesthouses or smaller hotels, especially for longer stays.",
+    "Purchase bottled water in bulk from supermarkets rather than convenience stores to save money."
+  ],
+  "seo": {
+    "seo_title": "Nouakchott Travel Guide: Mauritania's Desert Capital",
+    "seo_description": "Explore Nouakchott, Mauritania's vibrant capital, where the Sahara meets the Atlantic. Discover its bustling fishing port, Grand Marché, and unique cultural heritage.",
+    "keywords": [
+      "Nouakchott",
+      "Mauritania travel",
+      "West Africa",
+      "desert city",
+      "fishing port",
+      "Islamic culture",
+      "travel guide"
+    ]
+  },
+  "meta": {
+    "continent": "Africa",
+    "currency": "Mauritanian Ouguiya (MRU)",
+    "language": "Arabic (official), French, Hassaniya Arabic",
+    "time_zone": "GMT (Greenwich Mean Time)",
+    "popular_airlines": [
+      "Mauritania Airlines",
+      "Air France",
+      "Royal Air Maroc",
+      "Turkish Airlines",
+      "Tunisair"
+    ]
+  },
+  "title": "Nouakchott: Where the Sahara Meets the Atlantic in Mauritania's Heart",
+  "images": [
+    "https://images.pexels.com/photos/10899014/pexels-photo-10899014.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/9310861/pexels-photo-9310861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  ],
+  "coordinates": [
+    18.073530197143555,
+    -15.958236694335938
+  ]
+}

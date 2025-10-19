@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Sokoto",
+    "city_id": "2462"
+  },
+  "items": [
+    {
+      "id": "SMA1",
+      "name": "Sokoto Junior Soccer Park",
+      "short_description": "A vibrant park with multiple mini-pitches for aspiring young footballers to practice and play friendly matches. Features small goals and safe, soft turf.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Opposite Giginya Barracks, Sultan Abubakar Road, Sokoto",
+      "opening_hours": "09:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579952136034-78363717e33a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8c29jY2VyJTIwa2lkcyUyMHBhcmt8ZW58MHx8fHwxNzIwMjY2NDUzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "football",
+        "active play",
+        "sports"
+      ]
+    },
+    {
+      "id": "SMA2",
+      "name": "Daura Basketball Blitz",
+      "short_description": "An exciting indoor mini-basketball arena designed for kids to learn dribbling, shooting, and team play. Offers coaching sessions and casual games.",
+      "subtype": "Mini Sports Arenas",
+      "address": "No. 15, Bado Road, Gawon Nama, Sokoto",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1600078749176-79c8c9a3028d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8a2lkcyUyMGJhc2tldGJhbGwlMjBhcmVuYXx8ZW58MHx8fHwxNzIwMjY2NDUzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "basketball",
+        "indoor sports",
+        "skill development"
+      ]
+    },
+    {
+      "id": "SMA3",
+      "name": "Kofar Rini Mini Athletics",
+      "short_description": "A miniature track and field zone where children can try various athletic disciplines like short sprints, long jump, and obstacle races. Encourages healthy competition and physical fitness.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Near Kofar Rini Gate, Old Airport Road, Sokoto",
+      "opening_hours": "08:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549488330-9b626e3c0429?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8a2lkcyUyMHRyYWNrJTIwYW5kJTIwZmllbGR8ZW58MHx8fHwxNzIwMjY2NDUzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "athletics",
+        "running",
+        "fitness"
+      ]
+    },
+    {
+      "id": "SMA4",
+      "name": "Sokoto Sporty Sprout Arena",
+      "short_description": "A multi-sport complex offering mini-versions of tennis, badminton, and volleyball courts for young children. Perfect for trying out new sports in a fun, supportive environment.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Plot 7, University Road, Sokoto",
+      "opening_hours": "09:30-19:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627916694363-f25b290fb4e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8a2lkcyUyMG11bHRpLXNwb3J0c3xlbnwwfHx8fDE3MjAyNjY0NTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "multi-sport",
+        "racket sports",
+        "group activities"
+      ]
+    },
+    {
+      "id": "PAP1",
+      "name": "Sultan's Grand Adventure Park",
+      "short_description": "A sprawling outdoor park featuring towering climbing structures, thrilling slides, and interactive play zones inspired by local architecture. Encourages imaginative play and physical activity.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Off Sultan Abubakar Road, Near Old Market, Sokoto",
+      "opening_hours": "08:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1600746684948-c8d41e737190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8YWR2ZW50dXJlJTIwcGxheWdyb3VuZCUyMGtpZHN8ZW58MHx8fHwxNzIwMjY2NDUzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "climbing",
+        "slides",
+        "outdoor fun"
+      ]
+    },
+    {
+      "id": "PAP2",
+      "name": "Rima River Exploration Park",
+      "short_description": "An eco-friendly adventure park with a river-themed obstacle course, nature trails, and educational play areas. Kids can learn about local flora and fauna while having fun.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Along Rima River Bank, Off Gidan Igwai Road, Sokoto",
+      "opening_hours": "07:30-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549646702-b054817a54e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8bmF0dXJlJTIwcGxheWdyb3VuZCUyMGtpZHN8ZW58MHx8fHwxNzIwMjY2NDUzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature play",
+        "obstacle course",
+        "exploration"
+      ]
+    },
+    {
+      "id": "PAP3",
+      "name": "Children's Kingdom Playground",
+      "short_description": "A vibrant, colorful playground packed with swings, seesaws, and merry-go-rounds, suitable for toddlers and younger children. It's a safe and stimulating environment for early childhood development.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Plot 12, Emir Yahaya Road, Sokoto",
+      "opening_hours": "09:00-18:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1537446559385-e23f03a62853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8Y2hpbGRyZW4lMjBwbGF5Z3JvdW5kfGVufDB8fHx8MTcyMDI2NjQ1NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "toddler friendly",
+        "swings",
+        "outdoor fun"
+      ]
+    },
+    {
+      "id": "PAP4",
+      "name": "Sahara Junior Adventure Park",
+      "short_description": "An exciting adventure park with sand-based play areas, small zip lines, and climbing nets, offering a unique desert-themed experience. Perfect for energetic kids seeking a thrill.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Off Bado Road, Near Sokoto State University, Sokoto",
+      "opening_hours": "08:30-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558229868-b7f570020473?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8c2FuZCUyMHBhcmclMjBraWRzJTIwYWR2ZW50dXJlfGVufDB8fHx8MTcyMDI2NjQ1NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "adventure",
+        "zip line",
+        "desert theme"
+      ]
+    },
+    {
+      "id": "TPK1",
+      "name": "Sokoto Storyland",
+      "short_description": "A magical theme park bringing local folk tales and historical legends to life with themed rides, character meet-and-greets, and interactive shows. An immersive cultural experience for young imaginations.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Along Nitel Road, Near Usmanu Danfodiyo University, Sokoto",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1560946765-a83d3e23631f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8a2lkcyUyMHRoZW1lJTIwcGFyayUyMHJpZGVzfHxlbnwwfHx8fDE3MjAyNjY0NTR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "storytelling",
+        "rides",
+        "cultural theme"
+      ]
+    },
+    {
+      "id": "TPK2",
+      "name": "Desert Explorer's Theme Park",
+      "short_description": "Embark on an adventure through miniature desert landscapes, ancient ruins, and a 'lost oasis' with gentle rides and archaeological dig sites for kids. Perfect for little explorers.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Outskirts of Bado Road, Sokoto",
+      "opening_hours": "10:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628169222528-b0a40f8e91d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8ZGVzZXJ0JTIwdGhlbWUlMjBwYXJrfGVufDB8fHx8MTcyMDI2NjQ1NXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "exploration",
+        "adventure",
+        "desert theme"
+      ]
+    },
+    {
+      "id": "TPK3",
+      "name": "Little Sultan's Kingdom",
+      "short_description": "A charming theme park where children can role-play as princes and princesses in a miniature palace, enjoy gentle rides, and watch puppet shows. It’s a regal experience for young royalty.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Along Abdullahi Fodiyo Road, Gidan Igwai, Sokoto",
+      "opening_hours": "09:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1616012675953-b2f7634f1b21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8bWluaWF0dXJlJTIwcGFsYWNlJTIwa2lkcyUyMHRoZW1lJTIwcGFya3x8ZW58MHx8fHwxNzIwMjY2NDU1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fantasy",
+        "role-play",
+        "gentle rides"
+      ]
+    },
+    {
+      "id": "TPK4",
+      "name": "Arewa Animal Adventure",
+      "short_description": "A wildlife-themed park with animal-inspired rides, interactive exhibits, and miniature safari experiences for kids. Learn about African animals in a playful and engaging way.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Near Sokoto New Market, Along By-Pass Road, Sokoto",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547489467-f418d1a12a7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8YW5pbWFsJTIwdGhlbWUlMjBwYXJrJTIwa2lkc3xlbnwwfHx8fDE3MjAyNjY0NTUxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animals",
+        "safari",
+        "educational rides"
+      ]
+    },
+    {
+      "id": "WPK1",
+      "name": "Sokoto Splash Town",
+      "short_description": "A vibrant water park featuring multiple splash pads, kiddie slides, and water-play structures designed for safe and refreshing fun. Perfect for beating the Sokoto heat.",
+      "subtype": "Water Parks for Kids",
+      "address": "Plot 5, Abdullahi Fodiyo Road, Sokoto",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542898939-5ed6144e519e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8a2lkcyUyMHdhc2VycGFyayUyMHNwbGFzaCUyMHBhZHx8ZW58MHx8fHwxNzIwMjY2NDU1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "splash pad",
+        "water slides",
+        "summer fun"
+      ]
+    },
+    {
+      "id": "WPK2",
+      "name": "Rima River Rapids Mini-Adventure",
+      "short_description": "Experience the thrill of a gentle 'river' ride and various water fountains at this park inspired by the local Rima River. Safe and exciting for all young adventurers.",
+      "subtype": "Water Parks for Kids",
+      "address": "Off Gusau Road, Near Gidan Igwai, Sokoto",
+      "opening_hours": "10:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558229868-b7f570020473?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8a2lkcyUyMHJpdmVyJTIwcmFwaWRzJTIwd2F0ZXIlMjBwYXJrfHxlbnwwfHx8fDE3MjAyNjY0NTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water rides",
+        "fountains",
+        "river theme"
+      ]
+    },
+    {
+      "id": "WPK3",
+      "name": "Sahara Oasis Water Fun",
+      "short_description": "A refreshing water park designed as a desert oasis, featuring a shallow wave pool, water cannons, and a dedicated toddler splash zone. An ideal escape from the heat.",
+      "subtype": "Water Parks for Kids",
+      "address": "No. 20, Old Airport Road, Sokoto",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627063066345-4204d88e0b61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8a2lkcyUyMGRlc2VydCUyMG9hc2lzJTIwd2F0ZXIlMjBwYXJrfHxlbnwwfHx8fDE3MjAyNjY0NTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wave pool",
+        "water cannons",
+        "toddler zone"
+      ]
+    },
+    {
+      "id": "WPK4",
+      "name": "Sunshine Springs Water Playground",
+      "short_description": "This cheerful water playground offers multiple small slides, geysers, and interactive water features for endless splashing fun. Perfect for younger children and families.",
+      "subtype": "Water Parks for Kids",
+      "address": "Plot 10, Sultan Kado Road, Sokoto",
+      "opening_hours": "09:30-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579952136034-78363717e33a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8a2lkcyUyMHNwcmluZ3MlMjB3YXRlcnBhcmt8ZW58MHx8fHwxNzIwMjY2NDU2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water playground",
+        "geysers",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "CM1",
+      "name": "Sokoto Heritage Kids' Museum",
+      "short_description": "An interactive museum exploring the rich history and culture of Sokoto Caliphate through engaging exhibits, traditional craft workshops, and storytelling sessions. Kids can dress in historical attire.",
+      "subtype": "Children’s Museums",
+      "address": "Near Sultan's Palace, Emir Yahaya Road, Sokoto",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596707328459-a590212f4585?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8Y2hpbGRyZW4lMjBtdXNldW0lMjBoaXN0b3J5fGVufDB8fHx8MTcyMDI2NjQ1Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "history",
+        "culture",
+        "interactive learning"
+      ]
+    },
+    {
+      "id": "CM2",
+      "name": "Science & Innovation Lab for Kids",
+      "short_description": "A hands-on science museum with exciting experiments, engineering challenges, and technology exhibits designed to spark curiosity. Children can explore physics, chemistry, and robotics.",
+      "subtype": "Children’s Museums",
+      "address": "No. 8, University Road, Sokoto",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510511231627-94d232537f7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8Y2hpbGRyZW4lMjBzY2llbmNlJTIwbXVzZXVtfGVufDB8fHx8MTcyMDI2NjQ1N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "science",
+        "STEM",
+        "experiments"
+      ]
+    },
+    {
+      "id": "CM3",
+      "name": "Art & Imagination Studio",
+      "short_description": "This creative space allows children to express themselves through various art forms, including painting, sculpting, and digital art. Features rotating exhibits and guided art projects.",
+      "subtype": "Children’s Museums",
+      "address": "Off Abdullahi Fodiyo Road, Near Government House, Sokoto",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621515229352-8d4ee4d249f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8Y2hpbGRyZW4lMjBhcnQlMjBtdXNldW18ZW58MHx8fHwxNzIwMjY2NDU3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "art",
+        "creativity",
+        "workshops"
+      ]
+    },
+    {
+      "id": "CM4",
+      "name": "Global Village Kids' Museum",
+      "short_description": "Explore diverse cultures from around the world through interactive exhibits, traditional clothing, and cultural games. A wonderful way to foster global awareness and understanding.",
+      "subtype": "Children’s Museums",
+      "address": "Plot 18, Gidan Igwai Road, Sokoto",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1614030638517-8e6f1f1d1f0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8Y2hpbGRyZW4lMjBnbG9iYWwlMjBtdXNldW18ZW58MHx8fHwxNzIwMjY2NDU3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "world cultures",
+        "diversity",
+        "learning"
+      ]
+    },
+    {
+      "id": "IPC1",
+      "name": "Cool Kids' Oasis Play Center",
+      "short_description": "An air-conditioned indoor play haven with multi-level climbing frames, soft play areas, and a dedicated toddler zone. Provides a safe and fun escape from the outdoor heat.",
+      "subtype": "Indoor Play Centers",
+      "address": "Ground Floor, Sokoto City Mall, Old Airport Road, Sokoto",
+      "opening_hours": "09:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620023793663-71a76c496c82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8aW5kb29yJTIwcGxheSUyMGNlbnRlcnxlbnwwfHx8fDE3MjAyNjY0NTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "soft play",
+        "climbing",
+        "air-conditioned"
+      ]
+    },
+    {
+      "id": "IPC2",
+      "name": "Bounce & Explore Zone",
+      "short_description": "Featuring bouncy castles, inflatable slides, and ball pits, this center is perfect for energetic kids to jump, bounce, and explore. Offers party packages for birthdays.",
+      "subtype": "Indoor Play Centers",
+      "address": "No. 10, Sultan Kado Road, Sokoto",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1589133499092-1c25a071d0e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8aW5kb29yJTIwYm91bmN5JTIwY2FzdGxlfGVufDB8fHx8MTcyMDI2NjQ1OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "bouncy castle",
+        "ball pit",
+        "parties"
+      ]
+    },
+    {
+      "id": "IPC3",
+      "name": "Little Builders Workshop",
+      "short_description": "An educational indoor play space with giant building blocks, engineering kits, and construction-themed play zones. Encourages creativity and problem-solving skills.",
+      "subtype": "Indoor Play Centers",
+      "address": "Along Gawon Nama Road, Near Specialist Hospital, Sokoto",
+      "opening_hours": "09:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1543878487-171b3e944b7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8aW5kb29yJTIwYnVpbGRpbmclMjBibG9ja3N8ZW58MHx8fHwxNzIwMjY2NDU4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "building blocks",
+        "educational play",
+        "problem-solving"
+      ]
+    },
+    {
+      "id": "IPC4",
+      "name": "Dreamland Indoor Play",
+      "short_description": "A vibrant indoor center featuring interactive games, sensory play areas, and a cozy reading corner. Designed for imaginative play and relaxation.",
+      "subtype": "Indoor Play Centers",
+      "address": "Plot 3, Abdullahi Fodiyo Way, Sokoto",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627916694363-f25b290fb4e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8aW5kb29yJTIwcGxheWdyb3VuZCUyMGFyZWF8ZW58MHx8fHwxNzIwMjY2NDU4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sensory play",
+        "imaginative play",
+        "interactive games"
+      ]
+    },
+    {
+      "id": "CPT1",
+      "name": "Sokoto Puppet Storyland",
+      "short_description": "A charming puppet theater that hosts regular shows featuring traditional Sokoto fables and contemporary children's stories. Engaging performances for all ages.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Cultural Center, Emir Yahaya Road, Sokoto",
+      "opening_hours": "15:00-17:00 (showtimes)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563857500336-7c09d57a3e78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8cHVwcGV0JTIwc2hvd3xlbnwwfHx8fDE3MjAyNjY0NTh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "puppet show",
+        "storytelling",
+        "cultural arts"
+      ]
+    },
+    {
+      "id": "CPT2",
+      "name": "Northern Star Circus Troupe",
+      "short_description": "A vibrant mini-circus featuring talented acrobats, clowns, and magicians in kid-friendly performances. Expect dazzling acts and lots of laughter.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Temporary Venue (check schedule), Usually near Old Airport Road, Sokoto",
+      "opening_hours": "18:00-20:00 (showtimes)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549488330-9b626e3c0429?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8Y2lyY3VzJTIwa2lkcyUyMHRyb3VwZXx8ZW58MHx8fHwxNzIwMjY2NDU5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "acrobatics",
+        "clowns",
+        "magic show"
+      ]
+    },
+    {
+      "id": "CPT3",
+      "name": "The Enchanted Marionette Theater",
+      "short_description": "Experience the delicate artistry of marionette puppets performing classic tales and new adventures. A truly captivating visual experience for young audiences.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Arts & Crafts Village, Sultan Abubakar Road, Sokoto",
+      "opening_hours": "14:00-16:00 (weekends)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1543878487-171b3e944b7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8bWFyaW9uZXR0ZSUyMHRoZWF0ZXJ8ZW58MHx8fHwxNzIwMjY2NDU5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marionettes",
+        "visual arts",
+        "theater"
+      ]
+    },
+    {
+      "id": "CPT4",
+      "name": "Kids' Comedy & Magic Show",
+      "short_description": "A hilarious and mystifying show designed specifically for children, combining comedic sketches with impressive magic tricks. Guaranteed to leave kids amazed and laughing.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Event Hall, Sokoto Grand Hotel, University Road, Sokoto",
+      "opening_hours": "16:00-17:30 (select days)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1620023793663-71a76c496c82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8a2lkcyUyMG1hZ2ljJTIwc2hvd3x8ZW58MHx8fHwxNzIwMjY2NDU5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "comedy",
+        "magic",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "FA1",
+      "name": "Rima Farm Discovery",
+      "short_description": "A charming farm where children can meet and feed friendly farm animals like goats, chickens, and ducks. Offers guided tours and insights into farm life.",
+      "subtype": "Farm Attractions",
+      "address": "Off Bado Road, Kware Junction, Sokoto",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563857500336-7c09d57a3e78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8ZmFybSUyMGFuaW1hbHMlMjBraWRzfHxlbnwwfHx8fDE3MjAyNjY0NTl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "educational"
+      ]
+    },
+    {
+      "id": "FA2",
+      "name": "Agri-Kids Learning Center",
+      "short_description": "An interactive farm experience where kids can plant seeds, learn about crop cycles, and understand where their food comes from. Features a small garden and a mini-tractor ride.",
+      "subtype": "Farm Attractions",
+      "address": "Behind Sokoto State University, Along Gidan Igwai Road, Sokoto",
+      "opening_hours": "08:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549646702-b054817a54e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8a2lkcyUyMGFncmljdWx0dXJlJTIwZmFybXxlbnwwfHx8fDE3MjAyNjY0NjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "agriculture",
+        "gardening",
+        "learning"
+      ]
+    },
+    {
+      "id": "FA3",
+      "name": "Sokoto Ranch & Pony Rides",
+      "short_description": "This ranch offers gentle pony rides for children, along with opportunities to interact with horses and learn about their care. A serene rural escape.",
+      "subtype": "Farm Attractions",
+      "address": "Off Birnin Kebbi Road, Near Sokoto Airport, Sokoto",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510511231627-94d232537f7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8a2lkcyUyMHBvbnklMjByaWRlcyUyMGZhcm18ZW58MHx8fHwxNzIwMjY2NDYwMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "pony rides",
+        "horses",
+        "ranch life"
+      ]
+    },
+    {
+      "id": "FA4",
+      "name": "Desert Harvest Farm Tour",
+      "short_description": "A unique farm experience showcasing drought-resistant crops and animals adapted to the Sahel region. Includes a camel ride and a chance to make local treats.",
+      "subtype": "Farm Attractions",
+      "address": "Off Bado Road, Towards Wurno, Sokoto",
+      "opening_hours": "09:30-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579952136034-78363717e33a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8ZGVzZXJ0JTIwZmFybSUyMGNoaWxkcmVuJ3N8ZW58MHx8fHwxNzIwMjY2NDYwMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "desert ecology",
+        "camel ride",
+        "local crafts"
+      ]
+    },
+    {
+      "id": "FTP1",
+      "name": "Arabian Nights Enchanted Garden",
+      "short_description": "Step into a magical garden inspired by 'One Thousand and One Nights' with themed play areas, storytelling corners, and dazzling light displays. A truly immersive fantasy experience.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Adjacent to Sokoto Modern Market, Near Abdullahi Fodiyo Road, Sokoto",
+      "opening_hours": "16:00-21:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596707328459-a590212f4585?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8ZmFpcnklMjB0YWxlJTIwcGFyayUyMGdhcmRlbnx8ZW58MHx8fHwxNzIwMjY2NDYxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fantasy",
+        "storytelling",
+        "magic"
+      ]
+    },
+    {
+      "id": "FTP2",
+      "name": "African Fables Forest",
+      "short_description": "Wander through a whimsical forest featuring characters and scenes from popular African folk tales. Interactive exhibits encourage children to engage with the stories.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Off University Road, Behind Specialist Hospital, Sokoto",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1560946765-a83d3e23631f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8YWZyaWNhbiUyMGZhYmxlcyUyMGZvcmVzdHxlbnwwfHx8fDE3MjAyNjY0NjF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "folktales",
+        "nature walk",
+        "interactive"
+      ]
+    },
+    {
+      "id": "FTP3",
+      "name": "The Prince & Princess Castle Park",
+      "short_description": "A charming park centered around a miniature castle where kids can dress up, attend royal parades, and participate in knightly games and princess tea parties. Dreams come true here.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Plot 7, Sultan Abubakar Road, Sokoto",
+      "opening_hours": "10:30-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627063066345-4204d88e0b61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8ZmFpcnklMjB0YWxlJTIwY2FzdGxlJTIwcGFya3x8ZW58MHx8fHwxNzIwMjY2NDYyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "royalty",
+        "dress-up",
+        "imagination"
+      ]
+    },
+    {
+      "id": "FTP4",
+      "name": "Whispering Sands Storyland",
+      "short_description": "A unique park where desert-themed fairy tales come alive with interactive sculptures, sand play areas, and enchanting soundscapes. Explore the magic of the Sahel.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Off By-Pass Road, Near Sokoto Zoo, Sokoto",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589133499092-1c25a071d0e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8ZGVzZXJ0JTIwc3RvcnlsYW5kJTIwcGFya3x8ZW58MHx8fHwxNzIwMjY2NDYyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "desert theme",
+        "storytelling",
+        "sculptures"
+      ]
+    },
+    {
+      "id": "ZPZ1",
+      "name": "Sokoto Junior Wildlife Park",
+      "short_description": "A carefully curated mini-zoo featuring indigenous animals and exotic birds in spacious, natural habitats. Focuses on conservation education for young visitors.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Along Sokoto Eastern By-Pass, Sokoto",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1555376783-7c5040e3a479?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8a2lkcyUyMGpvJTIwd2lsZGxpZmUlMjBwYXJrfHxlbnwwfHx8fDE3MjAyNjY0NjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "indigenous animals"
+      ]
+    },
+    {
+      "id": "ZPZ2",
+      "name": "Little Paws Petting Zoo",
+      "short_description": "An intimate petting zoo where children can safely interact with friendly domestic animals like rabbits, guinea pigs, and baby goats. Offers feeding sessions and educational talks.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Off Bado Road, Near Kware, Sokoto",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1543878487-171b3e944b7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8a2lkcyUyMHBldHRpbmclMjB6b298ZW58MHx8fHwxNzIwMjY2NDYzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "petting animals",
+        "farm animals",
+        "animal interaction"
+      ]
+    },
+    {
+      "id": "ZPZ3",
+      "name": "Sahel Eco-Park & Aviary",
+      "short_description": "Dedicated to the unique ecosystem of the Sahel, this park features local birds, reptiles, and small mammals in naturalistic enclosures. Promotes environmental awareness.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Along Nitel Road, Opposite Federal University, Sokoto",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628169222528-b0a40f8e91d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8YW5pbWFsJTIwZWNvJTIwcGFya3x8ZW58MHx8fHwxNzIwMjY2NDYzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "eco-park",
+        "birds",
+        "reptiles"
+      ]
+    },
+    {
+      "id": "ZPZ4",
+      "name": "Adventure Animal Kingdom",
+      "short_description": "A comprehensive animal park combining a traditional zoo with adventure elements like animal-themed playgrounds and discovery trails. Meet animals from around the globe.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Off Gawon Nama Road, Near Industrial Layout, Sokoto",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1547489467-f418d1a12a7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8em9vJTIwYW5pbWFsJTIwa2luZ2RvbXxlbnwwfHx8fDE3MjAyNjY0NjMxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "exotic animals",
+        "adventure play",
+        "global wildlife"
+      ]
+    }
+  ]
+}

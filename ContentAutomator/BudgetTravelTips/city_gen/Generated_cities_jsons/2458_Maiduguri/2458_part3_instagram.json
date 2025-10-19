@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Maiduguri",
+    "city_id": "2458"
+  },
+  "items": [
+    {
+      "id": "MASBP001",
+      "name": "Shehu of Borno's Royal Palace",
+      "short_description": "A magnificent example of traditional Sahelian architecture, the Shehu's Palace features intricate designs and a rich history. Its grand facade is perfect for a regal photo op.",
+      "subtype": "Historic Architecture",
+      "location_hint": "City Center, near Maiduguri Central Mosque",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Shehu_of_Borno%27s_Palace%2C_Maiduguri.jpeg/1024px-Shehu_of_Borno%27s_Palace%2C_Maiduguri.jpeg",
+      "tags": [
+        "royal",
+        "palace",
+        "history"
+      ]
+    },
+    {
+      "id": "MAJG002",
+      "name": "Maiduguri Grand Mosque Arches",
+      "short_description": "Discover the stunning minarets and arched entrances of Maiduguri's Central Mosque, showcasing elegant Islamic architectural styles. The intricate details are a photographer's delight.",
+      "subtype": "Historic Architecture",
+      "location_hint": "City Center, adjacent to Shehu's Palace",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Maiduguri_Central_Mosque.jpg/1024px-Maiduguri_Central_Mosque.jpg",
+      "tags": [
+        "mosque",
+        "islamic",
+        "architecture"
+      ]
+    },
+    {
+      "id": "MAUCB003",
+      "name": "Old Residency Building Facade",
+      "short_description": "Step back in time at this colonial-era structure, with its unique blend of British and local building techniques. The weathered walls tell tales of a bygone era.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Near Government House, Old GRA",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nigerian_Museums_and_Monuments_Commission_building_in_Maiduguri.jpg/1024px-Nigerian_Museums_and_Monuments_Commission_building_in_Maiduguri.jpg",
+      "tags": [
+        "colonial",
+        "history",
+        "heritage"
+      ]
+    },
+    {
+      "id": "MANM004",
+      "name": "Ancient City Gate Remains",
+      "short_description": "Explore the remnants of Maiduguri's ancient city walls and gates, offering a glimpse into its defensive past. The rustic charm provides a dramatic backdrop for photos.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Outskirts of old city, near Monday Market",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/The_remains_of_Kano_city_gate.jpg/1024px-The_remains_of_Kano_city_gate.jpg",
+      "tags": [
+        "ruins",
+        "fortification",
+        "ancient"
+      ]
+    },
+    {
+      "id": "MAHOTELP01",
+      "name": "Grand View Oasis Pool",
+      "short_description": "Imagine escaping to a serene infinity pool atop a luxury hotel, offering panoramic views of Maiduguri's skyline. The perfect spot for a refreshing dip and stunning photos.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Hypothetical: Transcorp Hilton, Maiduguri (a future development perhaps)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1563911302-a249e29a9f2f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aW5maW5pdHklMjBwb29sfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "luxury",
+        "relaxation",
+        "skyline"
+      ]
+    },
+    {
+      "id": "MAHOTELP02",
+      "name": "Desert Mirage Resort Pool",
+      "short_description": "A tranquil infinity pool seemingly blending into the horizon, offering a cool respite from the Maiduguri heat. Capture your moments of peace against a vast sky.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Hypothetical: A high-end resort on the city's outskirts",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1579737152317-062e2193b22e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGluZmluaXR5JTIwcG9vbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "resort",
+        "desert",
+        "views"
+      ]
+    },
+    {
+      "id": "MAHOTELP03",
+      "name": "Urban Edge Pool Lounge",
+      "short_description": "This sleek infinity pool at a modern hotel provides an urban escape, perfect for unwinding while overlooking the city's vibrant pulse. Great for evening poolside shots.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Hypothetical: Premier Hotel & Suites, Maiduguri",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1596700018596-f9d6c34e007d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGluZmluaXR5JTIwcG9vbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "modern",
+        "nightlife",
+        "chill"
+      ]
+    },
+    {
+      "id": "MAHOTELP04",
+      "name": "Sunset Serenity Pool",
+      "short_description": "Witness breathtaking Maiduguri sunsets from the edge of this serene infinity pool, where the water's reflection mirrors the changing colors of the sky. A truly magical experience.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Hypothetical: A new luxury apartment complex with shared facilities",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1558990117-66a983b6b69b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGluZmluaXR5JTIwcG9vbCUyMHN1bnNldHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "sunset",
+        "romantic",
+        "peaceful"
+      ]
+    },
+    {
+      "id": "MAMTC001",
+      "name": "Monday Market's Labyrinthine Passages",
+      "short_description": "Get lost in the vibrant, bustling alleys of Maiduguri's famous Monday Market. Discover hidden stalls and colorful interactions in this sensory explosion.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Monday Market, City Center",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kaduna_Central_Market_1.jpg/1024px-Kaduna_Central_Market_1.jpg",
+      "tags": [
+        "market",
+        "bustling",
+        "local"
+      ]
+    },
+    {
+      "id": "MAOTCA002",
+      "name": "Old Town Residential Courtyards",
+      "short_description": "Venture into the quiet, unassuming courtyards nestled within Maiduguri's older residential areas. These provide a glimpse into traditional Borno living and architecture.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Old Maiduguri neighborhood",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Traditional_House_in_Zaria.jpg/1024px-Traditional_House_in_Zaria.jpg",
+      "tags": [
+        "traditional",
+        "local",
+        "authentic"
+      ]
+    },
+    {
+      "id": "MASC003",
+      "name": "Shehu's Palace Secret Garden Alley",
+      "short_description": "Behind the grandeur of the Shehu's Palace, discover a charming, secluded alley leading to a small, serene garden. A peaceful escape from the city's hustle.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Behind Shehu of Borno's Palace",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1560706248-c8a7b9f3e4b0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGhpZGRlbiUyMGdhcmRlbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "garden",
+        "serene",
+        "historic"
+      ]
+    },
+    {
+      "id": "MAUC004",
+      "name": "University Campus Quiet Walkways",
+      "short_description": "Explore the peaceful, tree-lined walkways and courtyards within the University of Maiduguri campus. A contemplative space for a stroll and quiet reflection.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "University of Maiduguri campus",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ahmadu_Bello_University_main_gate_2.jpg/1024px-Ahmadu_Bello_University_main_gate_2.jpg",
+      "tags": [
+        "campus",
+        "education",
+        "greenery"
+      ]
+    },
+    {
+      "id": "MAMGS001",
+      "name": "Grand Mosque Staircase",
+      "short_description": "The majestic steps leading up to the Maiduguri Central Mosque offer an impressive architectural feature. Perfect for a grand entrance shot.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Maiduguri Central Mosque",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Maiduguri_Central_Mosque.jpg/1024px-Maiduguri_Central_Mosque.jpg",
+      "tags": [
+        "mosque",
+        "grand",
+        "architecture"
+      ]
+    },
+    {
+      "id": "MASPS002",
+      "name": "Shehu's Palace Ceremonial Walkway",
+      "short_description": "Walk the historic path leading to the heart of the Shehu of Borno's Palace, flanked by traditional designs and an air of royal heritage. A truly unique cultural pathway.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Shehu of Borno's Palace entrance",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Shehu_of_Borno%27s_Palace%2C_Maiduguri.jpeg/1024px-Shehu_of_Borno%27s_Palace%2C_Maiduguri.jpeg",
+      "tags": [
+        "royal",
+        "ceremonial",
+        "historic"
+      ]
+    },
+    {
+      "id": "MAPG003",
+      "name": "Peace Garden Stone Pathways",
+      "short_description": "Meander through the serene stone pathways of the Maiduguri Peace Garden, surrounded by lush greenery and tranquil spots. Ideal for a peaceful stroll and nature photography.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Maiduguri Peace Garden (Hypothetical Green Space near GRA)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1517457375806-056ef9e91854?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGF0aHdheSUyMGdhcmRlbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "garden",
+        "nature",
+        "peaceful"
+      ]
+    },
+    {
+      "id": "MAMMS004",
+      "name": "Monday Market Overpass Steps",
+      "short_description": "Capture the bustling energy from the elevated steps of the pedestrian overpass near Monday Market, offering unique views of the market below.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Near Monday Market, major road intersection",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549591465-b1e06d9b233a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFya2V0JTIwcGF0aHdheXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "market",
+        "urban",
+        "perspective"
+      ]
+    },
+    {
+      "id": "MASBPL01",
+      "name": "Shehu of Borno's Palace",
+      "short_description": "The official residence of the Shehu of Borno, this grand palace is a symbol of traditional authority and rich cultural heritage in Maiduguri. Its distinctive architecture is unmistakable.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "City Center, near Maiduguri Central Mosque",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Shehu_of_Borno%27s_Palace%2C_Maiduguri.jpeg/1024px-Shehu_of_Borno%27s_Palace%2C_Maiduguri.jpeg",
+      "tags": [
+        "palace",
+        "royal",
+        "culture"
+      ]
+    },
+    {
+      "id": "MAMCML02",
+      "name": "Maiduguri Central Mosque Minarets",
+      "short_description": "The towering minarets of the Central Mosque are a prominent feature of Maiduguri's skyline, representing its spiritual heart. An architectural marvel worth capturing.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "City Center, adjacent to Shehu's Palace",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Maiduguri_Central_Mosque.jpg/1024px-Maiduguri_Central_Mosque.jpg",
+      "tags": [
+        "mosque",
+        "skyline",
+        "spiritual"
+      ]
+    },
+    {
+      "id": "MAMM03",
+      "name": "Monday Market Entrance Arch",
+      "short_description": "The bustling gateway to Maiduguri's largest market, this entrance arch symbolizes the city's commercial vibrancy and serves as a meeting point for locals and visitors alike.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Monday Market entrance",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kaduna_Central_Market_1.jpg/1024px-Kaduna_Central_Market_1.jpg",
+      "tags": [
+        "market",
+        "commerce",
+        "gateway"
+      ]
+    },
+    {
+      "id": "MAUM04",
+      "name": "University of Maiduguri Main Gate",
+      "short_description": "A symbol of learning and progress, the grand main gate of the University of Maiduguri represents the educational hub of the region. A significant modern landmark.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "University of Maiduguri campus entrance",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ahmadu_Bello_University_main_gate_2.jpg/1024px-Ahmadu_Bello_University_main_gate_2.jpg",
+      "tags": [
+        "university",
+        "education",
+        "modern"
+      ]
+    },
+    {
+      "id": "MABK001",
+      "name": "Borno Kuskus House",
+      "short_description": "Savor authentic Borno State cuisine, especially the traditional 'Kuskus' (couscous) served with rich, flavorful stews. A true taste of local hospitality.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Near Old GRA, Off Kashim Ibrahim Way",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1547595304-4531818d6e35?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y291c2NvdXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "local food",
+        "traditional",
+        "cuisine"
+      ]
+    },
+    {
+      "id": "MAKK002",
+      "name": "Kilishi King's Hub",
+      "short_description": "Experience the famous Nigerian 'Kilishi' (spiced dried meat) freshly prepared and bursting with flavor. A must-try snack spot for culinary adventurers.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Monday Market periphery",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1616790934149-c128c11438a3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG5pZ2VyaWFuJTIwZm9vZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "snack",
+        "street food",
+        "spicy"
+      ]
+    },
+    {
+      "id": "MAGS003",
+      "name": "Gala Spot & Suya Joint",
+      "short_description": "Indulge in sizzling 'Suya' (grilled skewered meat) prepared by expert local chefs, alongside other popular Nigerian street snacks. Perfect for a casual evening meal.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Along Damboa Road",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1628108990117-ee4795b6c229?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fG5pZ2VyaWFuJTIwc3V5YXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "suya",
+        "grill",
+        "night eats"
+      ]
+    },
+    {
+      "id": "MADC004",
+      "name": "Desert Cafe & Chill",
+      "short_description": "A modern cafe offering a refreshing ambiance, perfect for coffee, pastries, and light bites. A popular spot for students and young professionals.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Near University of Maiduguri",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1517260383307-e4bb42022b46?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGNhZmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "cafe",
+        "modern",
+        "coffee"
+      ]
+    },
+    {
+      "id": "MANR001",
+      "name": "Ngadda River Crossing Bridge",
+      "short_description": "This sturdy bridge over the Ngadda River offers scenic views of the water and surrounding lush areas, especially beautiful during the rainy season. A tranquil spot for reflection.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Crossing Ngadda River, near Giwa Barracks",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1502444330042-d1024f2f07cc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cml2ZXIlMjBicmlkZ2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "river",
+        "scenic",
+        "nature"
+      ]
+    },
+    {
+      "id": "MASOB002",
+      "name": "Shehu's Palace Road Overpass",
+      "short_description": "An elevated perspective near the Shehu's Palace offers unique views of the city's main thoroughfare and the palace grounds. Capture the urban pulse from above.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near Shehu of Borno's Palace",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549500642-1e9d1e39b5e5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHVyYmFuJTIwb3ZlcnBhc3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "urban",
+        "cityscape",
+        "perspective"
+      ]
+    },
+    {
+      "id": "MAMBO003",
+      "name": "Monday Market Pedestrian Bridge",
+      "short_description": "Stand atop this busy pedestrian bridge overlooking the sprawling Monday Market. It provides a fantastic vantage point to witness the vibrant chaos and capture the market's essence.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Over Monday Market, major road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1543881335-51e44f8e5699?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFya2V0JTIwcGVkZXN0cmlhbiUyMGJyaWRnZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "market",
+        "busy",
+        "streetlife"
+      ]
+    },
+    {
+      "id": "MAUL004",
+      "name": "University Lake Viewpoint",
+      "short_description": "Discover a quiet overlook near the University of Maiduguri's small lake, offering peaceful views of the water and campus greenery. A serene spot for contemplation.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "University of Maiduguri campus",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1582234047814-22b62b170e7e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGl0dGxlJTIwbGakZSUyMHZpZXdwb2ludHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "lake",
+        "campus",
+        "serene"
+      ]
+    },
+    {
+      "id": "MAMNO01",
+      "name": "Monday Market Fringe Residences",
+      "short_description": "Explore the residential areas bordering Monday Market, where homes are often painted in bright, contrasting colors, reflecting the vibrant energy of the community.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Residential areas adjacent to Monday Market",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1558299105-09a2e6f4a3e7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fGNvbG9yZnVsJTIwYWZyaWNhbiUyMGhvdXNlc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "local life",
+        "vibrant",
+        "community"
+      ]
+    },
+    {
+      "id": "MAOGRA02",
+      "name": "Old GRA Heritage Homes",
+      "short_description": "Wander through the older Government Reserved Areas (GRA) where some heritage homes retain their distinct, often pastel, colors and unique architectural details.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Old GRA district",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1577709322976-905105221081?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29sb25pYWwlMjBob21lcyUyMGFmcmljYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "heritage",
+        "architecture",
+        "historic"
+      ]
+    },
+    {
+      "id": "MAPRA03",
+      "name": "Peace Road Artisanal Enclaves",
+      "short_description": "Along Peace Road, discover pockets of artisanal workshops and homes whose vibrant colors and hand-painted signs create a unique visual tapestry.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Along Peace Road, central area",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1548545749-62323e42562d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGFmcmljYW4lMjBhcnRpc2FuYWwlMjBzZWxsZXJzJTIwc3RyZWV0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "artisan",
+        "crafts",
+        "street art"
+      ]
+    },
+    {
+      "id": "MAUC04",
+      "name": "University Staff Quarters",
+      "short_description": "The residential quarters within the university often feature a mix of architectural styles and colorful accents, reflecting the diverse community.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "University of Maiduguri campus residential area",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1577709322976-905105221081?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29sb25pYWwlMjBob21lcyUyMGFmcmljYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "campus",
+        "diversity",
+        "residential"
+      ]
+    },
+    {
+      "id": "MAMBM01",
+      "name": "Maiduguri Monday Market",
+      "short_description": "The largest and most iconic market in Maiduguri, a bustling hub of commerce and culture. Immerse yourself in the sights, sounds, and smells of local life.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "City Center, Damboa Road",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kaduna_Central_Market_1.jpg/1024px-Kaduna_Central_Market_1.jpg",
+      "tags": [
+        "market",
+        "local",
+        "bustling"
+      ]
+    },
+    {
+      "id": "MAFM02",
+      "name": "Fish Market at Lake Chad Basin",
+      "short_description": "Explore the vibrant fish market, a crucial trading point for fresh catch from the Lake Chad Basin. Witness the lively trade and unique local products.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Near Lake Chad Basin Development Authority",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fresh_Tilapia_Fishes.JPG/1024px-Fresh_Tilapia_Fishes.JPG",
+      "tags": [
+        "fish",
+        "fresh produce",
+        "lakeside"
+      ]
+    },
+    {
+      "id": "MABK03",
+      "name": "Borno Kofar Bazzaar",
+      "short_description": "A traditional bazaar specializing in local crafts, textiles, and spices. Discover unique souvenirs and interact with skilled artisans.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Old Maiduguri, near ancient city gates",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1554522033-0c3098f98a39?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YWZyaWNhbiUyMGJhYnJpY3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "crafts",
+        "textiles",
+        "souvenirs"
+      ]
+    },
+    {
+      "id": "MAMPM04",
+      "name": "Monday Market Livestock Section",
+      "short_description": "Delve into the lively and sometimes chaotic livestock section of Monday Market, offering a raw and authentic glimpse into rural commerce and life.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Outskirts of Monday Market",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cattle_in_Bodinga_Market.jpg/1024px-Cattle_in_Bodinga_Market.jpg",
+      "tags": [
+        "livestock",
+        "authentic",
+        "rural"
+      ]
+    },
+    {
+      "id": "MAGMM01",
+      "name": "Government House Legacy Murals",
+      "short_description": "Discover large-scale murals on the walls surrounding the Government House, often depicting historical events or cultural scenes of Borno State. Vibrant and educational.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Walls of Government House, Maiduguri",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1580227741349-f5383f9f4a13?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bXVyYWwlMjBhZnJpY2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "cultural",
+        "history",
+        "public art"
+      ]
+    },
+    {
+      "id": "MAUCAM02",
+      "name": "University Campus Art Walk",
+      "short_description": "Stroll through the University of Maiduguri campus to find various murals and art installations by students, showcasing contemporary Nigerian art and social messages.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "University of Maiduguri Arts Faculty area",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1579227092823-64e0d9b43f72?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fG5pZ2VyaWFuJTIwc3RyZWV0JTIwYXJ0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "student art",
+        "contemporary",
+        "campus"
+      ]
+    },
+    {
+      "id": "MAPCM03",
+      "name": "Peace Building Murals",
+      "short_description": "On various public buildings dedicated to peace and community efforts, discover colorful murals promoting unity, resilience, and hope in the region. Powerful and inspiring.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Along major roads, near NGO offices",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1621376837965-08149e6f3661?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHBhY2lmJTIwc3RyZWV0JTIwYXJ0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "peace",
+        "community",
+        "inspirational"
+      ]
+    },
+    {
+      "id": "MARSM04",
+      "name": "Roundabout Story Murals",
+      "short_description": "Several key roundabouts in Maiduguri feature large, circular murals telling visual stories of Borno's history, traditions, or wildlife. A vibrant welcome to different city zones.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Major roundabouts (e.g., Post Office Roundabout)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1558299105-09a2e6f4a3e7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fGNvbG9yZnVsJTIwYWZyaWNhbiUyMGhvdXNlc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "tags": [
+        "storytelling",
+        "landmarks",
+        "public art"
+      ]
+    }
+  ]
+}

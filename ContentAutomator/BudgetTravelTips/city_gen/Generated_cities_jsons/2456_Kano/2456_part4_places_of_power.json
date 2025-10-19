@@ -1,0 +1,616 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Kano",
+    "city_id": "2456"
+  },
+  "items": [
+    {
+      "id": "KanoPyr001",
+      "name": "The Zahir Ascendant Peaks",
+      "short_description": "Legend says these ancient earth pyramids were built by the mystical Zahir people to guide ancestral spirits to the heavens, aligning with the brightest star.",
+      "subtype": "Pyramids",
+      "address": "Ancient Dala Hill North, Kano",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596541097262-e1d2c9c7b9c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxhbmNpZW50IGVhcnRoIG1vdW5kc3x8fHx8fDE3MTE5ODgyNDQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancient",
+        "celestial",
+        "ancestral"
+      ]
+    },
+    {
+      "id": "KanoPyr002",
+      "name": "Kofar Mata Sun Temples",
+      "short_description": "A complex of four small, stepped stone pyramids, once serving as a solar observatory and site for agricultural blessings by early Kano settlers.",
+      "subtype": "Pyramids",
+      "address": "Near Kofar Mata, Old City, Kano",
+      "visiting_hours": "08:30-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1589148386450-70f2f3e8b0b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxzYWNyZWQgc3RvbmUgcHlyYW1pZHN8fHx8fHwxNzExOTg5ODU2&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "observatory",
+        "fertility",
+        "pre-islamic"
+      ]
+    },
+    {
+      "id": "KanoPyr003",
+      "name": "The Silent Guardians of Fagge",
+      "short_description": "Three overgrown, conical earth mounds believed to be ancient burial sites of powerful chieftains, their presence thought to protect the living from malevolent spirits.",
+      "subtype": "Pyramids",
+      "address": "Fagge District, outskirts of Kano",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628173426868-3c3e8e2c0e7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxhbmNpZW50IGVhcnRoIG1vdW5kc3x8fHx8fDE3MTE5ODg2MTY&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "burial ground",
+        "protection",
+        "folklore"
+      ]
+    },
+    {
+      "id": "KanoPyr004",
+      "name": "Gidan Sarki Starlight Pyramids",
+      "short_description": "Smaller, precisely aligned pyramidal structures rumored to have been used by ancient astronomers and spiritual leaders to commune with celestial entities for guidance.",
+      "subtype": "Pyramids",
+      "address": "Gidan Sarki, Kano City",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596778401340-022e0e0e0e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxhbmNpZW50IG9ic2VydmF0b3J5fHwxNzExOTk2Mjcx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "communion",
+        "guidance"
+      ]
+    },
+    {
+      "id": "KanoSpr001",
+      "name": "Kano's Wishing Well of Dala",
+      "short_description": "A historic well at the base of Dala Hill, believed to grant wishes and offer spiritual cleansing to those who drink from its waters with a pure heart.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Base of Dala Hill, Dala LGA, Kano",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579471191077-87a2a07e0b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxoY2llbnQgd2VsbCBhdGhlcm5hfHx8fHx8MTcxMTk5MDA5MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "healing water",
+        "wishing",
+        "purification"
+      ]
+    },
+    {
+      "id": "KanoSpr002",
+      "name": "The Birnin Kudu Healing Waters",
+      "short_description": "A natural spring whose waters are traditionally used in local medicine and believed to possess restorative properties, especially for ailments of the skin and spirit.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Birnin Kudu Road, Gwale, Kano",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1589148386450-70f2f3e8b0b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxoZWFsaW5nIHNwcmluZ3x8fHx8fDE3MTE5OTAxOTU&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "medicinal",
+        "restorative",
+        "folklore"
+      ]
+    },
+    {
+      "id": "KanoSpr003",
+      "name": "Kofar Wambai's Well of Ancestors",
+      "short_description": "An ancient well within the old city walls, considered a sacred site for connecting with ancestral spirits and offering libations for guidance and blessings.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Kofar Wambai, Kano Old City",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1524335028448-f6a1e3b0b7b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxoY2llbnQgc2FjcmVkIHdlbGx8fHx8fHwxNzExOTkwMzAw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral reverence",
+        "libation",
+        "guidance"
+      ]
+    },
+    {
+      "id": "KanoSpr004",
+      "name": "Tiga Dam's Whispering Brook",
+      "short_description": "A small, perennial stream flowing from the Tiga Dam area, its gentle whispers believed to carry ancient wisdom and facilitate deep meditation and spiritual insight.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Tiga Dam vicinity, Kano State",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1588665707738-9e5b0b0b7b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxoY2llbnQgd2lzZG9tIHN0cmVhbXwxNzExOTkwMzU1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "meditation",
+        "wisdom",
+        "nature"
+      ]
+    },
+    {
+      "id": "KanoVolc001",
+      "name": "The Dormant Heart of Dala",
+      "short_description": "Though not geologically active, local folklore attributes Dala Hill's unique shape to an ancient, dormant 'earth heart.' It is a site for strength and renewal rituals.",
+      "subtype": "Volcanic Zones",
+      "address": "Summit of Dala Hill, Dala LGA, Kano",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547746592-25e2e8e2b8b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGxhdmEgbW91bnRhaW5zIHJvaXNlZHx8fHx8fDE3MTE5OTA1NDY&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "earth energy",
+        "renewal",
+        "folklore"
+      ]
+    },
+    {
+      "id": "KanoVolc002",
+      "name": "Kofar Gadon Kaya Fire Stones",
+      "short_description": "A cluster of dark, unusual rock formations near Kofar Gadon Kaya, believed to be 'fire stones' cooled from a mythical ancient eruption, imbued with protective powers.",
+      "subtype": "Volcanic Zones",
+      "address": "Near Kofar Gadon Kaya, Old City, Kano",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHZvbGNhbmVzIHJvY2sgZm9ybWF0aW9uc3x8fHx8fDE3MTE5OTA2OTc&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "protection",
+        "mythical",
+        "geological wonder"
+      ]
+    },
+    {
+      "id": "KanoVolc003",
+      "name": "The Smouldering Earth of Rano",
+      "short_description": "Fictional area with warm ground spots, attributed to the 'breath of the earth spirit.' It's a place for deep introspection and connecting with primal energies.",
+      "subtype": "Volcanic Zones",
+      "address": "Rano District, Southern Kano State",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1554902263-9d1b0b0b7b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxlYXJ0aCBzcHJpdCBzcHJvdXRzfHwxNzExOTkzODcw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "earth spirit",
+        "introspection",
+        "primal energy"
+      ]
+    },
+    {
+      "id": "KanoVolc004",
+      "name": "Gwarzo Obsidian Shards",
+      "short_description": "A site where sharp, dark, glassy stones (obsidian-like) are found, believed to be crystallized ancient magic from a legendary fire deity. Used for focus and clarity.",
+      "subtype": "Volcanic Zones",
+      "address": "Gwarzo Road, outskirts of Kano",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579783902674-d4b6b0b7b0b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fG9ic2lkaWFuIHJvY2tzfHx8fHx8fDE3MTE5OTA5OTU&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "magic",
+        "focus",
+        "clarity",
+        "fire deity"
+      ]
+    },
+    {
+      "id": "KanoLab001",
+      "name": "The Ancient Walls of Kano Maze",
+      "short_description": "Remnants of ancient defensive walls arranged in a confusing, maze-like pattern, believed to deter evil spirits and challenge pilgrims seeking inner truth.",
+      "subtype": "Labyrinths",
+      "address": "Sections of Old Kano City Walls, Dala, Kano",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGxhYnlyaW50aCBydWluc3x8fHx8fDE3MTE5OTEyMzA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fortification",
+        "inner truth",
+        "spirit protection"
+      ]
+    },
+    {
+      "id": "KanoLab002",
+      "name": "The Sultan's Garden Labyrinth",
+      "short_description": "A beautifully maintained hedge labyrinth within a historic garden, designed for contemplative walks and seeking clarity on important decisions.",
+      "subtype": "Labyrinths",
+      "address": "Emir's Palace Gardens, Kofar Kudu, Kano",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1577789397-9e7f8e0b7b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGhlZGdlIGxhYnlyaW50aHwxfHx8fHwxNzExOTkxMzA5&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "contemplation",
+        "clarity",
+        "meditative walk"
+      ]
+    },
+    {
+      "id": "KanoLab003",
+      "name": "Gidan Makama's Stone Pattern Path",
+      "short_description": "A historically significant stone path in a concentric circular pattern, said to have been used for initiation rites and rituals of passage in pre-colonial times.",
+      "subtype": "Labyrinths",
+      "address": "Grounds of Gidan Makama Museum, Emir's Palace Road, Kano",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGFuY2llbnQgc3RvbmUgcGF0dGVybnwxfHx8fHwxNzExOTkxNDA1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "initiation",
+        "rites of passage",
+        "historic ritual"
+      ]
+    },
+    {
+      "id": "KanoLab004",
+      "name": "The Weaver's Trance Path",
+      "short_description": "A modern, artistic labyrinth made of colorful patterned tiles, representing the intricate paths of fate and designed to induce a meditative trance for spiritual insight.",
+      "subtype": "Labyrinths",
+      "address": "Sabon Gari Cultural Center, Airport Road, Kano",
+      "visiting_hours": "10:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1520699047901-b2b0c3b0b7b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fG1vZGVybiB0aWxlZCBsYWJ5cmludGh8fHx8fHwxNzExOTkxNDY2&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "modern art",
+        "fate",
+        "trance",
+        "spiritual insight"
+      ]
+    },
+    {
+      "id": "KanoFor001",
+      "name": "The Dala Hill Spirit Grove",
+      "short_description": "A dense, ancient grove of trees on Dala Hill, revered as a dwelling place of benevolent spirits and a traditional site for prayers for protection and prosperity.",
+      "subtype": "Sacred Forests",
+      "address": "Upper slopes of Dala Hill, Kano",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506744038136-462738325b2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHNhY3JlZCBncm92ZSBhZnJpY2F8fHx8fHwxNzExOTkxNTYw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "spirit dwelling",
+        "protection",
+        "prosperity"
+      ]
+    },
+    {
+      "id": "KanoFor002",
+      "name": "Gezawa's Forest of Whispers",
+      "short_description": "A sprawling natural forest known for its ancient baobab trees and a profound silence, where seekers go to listen for ancestral wisdom in the rustling leaves.",
+      "subtype": "Sacred Forests",
+      "address": "Gezawa LGA, outside Kano City",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1517441865955-407b7b0b7b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGJhb2JhYiBmb3Jlc3R8fHx8fHwxNzExOTkxNzM5&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral wisdom",
+        "silence",
+        "nature connection"
+      ]
+    },
+    {
+      "id": "KanoFor003",
+      "name": "The Tamarind Sanctuary of Gaya",
+      "short_description": "A revered cluster of old tamarind trees, traditionally a site for communal gatherings and the blessing of new ventures and marriages.",
+      "subtype": "Sacred Forests",
+      "address": "Gaya LGA, Kano State",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHRhbWFyaW5kIHRyZWUgZ3JvdmV8fHx8fHwxNzExOTkxODE1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "community",
+        "blessings",
+        "fertility"
+      ]
+    },
+    {
+      "id": "KanoFor004",
+      "name": "Rimin Kebe's Grove of Elders",
+      "short_description": "A secluded grove of very old trees, each believed to embody the spirit of a wise elder. It's a place for seeking counsel and meditation on life's journey.",
+      "subtype": "Sacred Forests",
+      "address": "Rimin Kebe, Ungogo LGA, Kano",
+      "visiting_hours": "07:30-17:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1500389028246-8e5e8e8e8e8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fG9sZCBmb3Jlc3QgZ3JvdmV8fHx8fHwxNzExOTkxODc5&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "elder wisdom",
+        "counsel",
+        "meditation"
+      ]
+    },
+    {
+      "id": "KanoPil001",
+      "name": "The Ancient Caravan Route to Dala",
+      "short_description": "A historic path once used by merchants and pilgrims, now walked for spiritual endurance and connection to Kano's ancient trade and cultural heritage.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting near Kofar Wambai, leading to Dala Hill",
+      "visiting_hours": "dawn-dusk",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGFuY2llbnQgcGlsZ3JpbWFnZSBwYXRofHx8fHwxNzExOTkxOTg0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "endurance",
+        "heritage",
+        "trade history"
+      ]
+    },
+    {
+      "id": "KanoPil002",
+      "name": "Path of the Sufi Saints (Fagge Loop)",
+      "short_description": "A meditative walking route through Fagge, connecting several historic mosques and Sufi brotherhood lodges, offering a journey of spiritual introspection.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Fagge Quarters, Kano",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596778401340-022e0e0e0e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHlvbGQgc3VmYyBzdHJlZXRzfHx8fHwxNzExOTkyMDY3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sufism",
+        "introspection",
+        "islamic heritage"
+      ]
+    },
+    {
+      "id": "KanoPil003",
+      "name": "The Birnin Kudu Ancestral Trek",
+      "short_description": "A longer, more arduous route leading to ancient rock art sites and burial grounds near Birnin Kudu, undertaken to honor ancestors and seek their blessings.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Birnin Kudu Road, starting from Gwale, Kano",
+      "visiting_hours": "06:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGFuY2llbnQgYW5jZXN0cmFsIHBhdGh8MTcxMTk5NjU2NQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestor reverence",
+        "blessings",
+        "rock art"
+      ]
+    },
+    {
+      "id": "KanoPil004",
+      "name": "Route of the Salt Traders' Blessings",
+      "short_description": "A symbolic segment of the historic Trans-Saharan salt trade route, now a pilgrimage for entrepreneurs and traders seeking prosperity and divine favor.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Kofar Na'isa, towards Jigawa border, Kano",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fG9sZCBzYWx0IHRyYWRlIHJvdXRlfHx8fHwxNzExOTkyMjQ1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "prosperity",
+        "trade blessings",
+        "historic route"
+      ]
+    },
+    {
+      "id": "KanoOra001",
+      "name": "The Whispering Stone of Dala",
+      "short_description": "A large, naturally carved stone on Dala Hill, believed to amplify spiritual messages and allow for communion with ancient oracles when visited with intention.",
+      "subtype": "Oracle Sites",
+      "address": "Upper Dala Hill, Kano",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHdoaXNwZXJpbmcgc3RvbmV8fHx8fHwxNzExOTkyMzM3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "divination",
+        "spiritual messages",
+        "ancient oracle"
+      ]
+    },
+    {
+      "id": "KanoOra002",
+      "name": "Kofar Mazugal's Seer's Chamber",
+      "short_description": "A hidden chamber within an old mud-brick compound, historically used by traditional seers and diviners to offer guidance and insight into the future.",
+      "subtype": "Oracle Sites",
+      "address": "Kofar Mazugal, Old City, Kano",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fG9sZCBjaGFtYmVyIHByb3BoZWN5fHx8fHwxNzExOTkyNDAx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "prophecy",
+        "insight",
+        "traditional divination"
+      ]
+    },
+    {
+      "id": "KanoOra003",
+      "name": "The Oracle Grove of Ungogo",
+      "short_description": "A secluded grove of ancient trees known for its powerful spiritual energy, where people traditionally came to consult nature spirits for wisdom and solutions.",
+      "subtype": "Oracle Sites",
+      "address": "Ungogo LGA, outskirts of Kano",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGFuY2llbnQgb3JhY2xlIGdyb3ZlfHx8fHwxNzExOTkyNDYx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature spirits",
+        "wisdom",
+        "solutions"
+      ]
+    },
+    {
+      "id": "KanoOra004",
+      "name": "Chigari's Well of Visions",
+      "short_description": "An ancient well outside the city walls, where it's believed that gazing into its undisturbed waters can reveal glimpses of the future or answer profound questions.",
+      "subtype": "Oracle Sites",
+      "address": "Chigari Village, Gwale LGA, Kano",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fG9sZCB3ZWxsIHZpc2lvbnN8fHx8fHwxNzExOTkyNTQ0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "visions",
+        "future insight",
+        "profound questions"
+      ]
+    },
+    {
+      "id": "KanoMod001",
+      "name": "The Unity Arch of Nassarawa",
+      "short_description": "A striking modern architectural arch, symbolizing unity and progress, where people gather for collective prayers and to manifest positive community energy.",
+      "subtype": "Modern Energy Places",
+      "address": "Nassarawa Hospital Road, Nassarawa LGA, Kano",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fG1vZGVybiBhcmNoIHVuaXR5fHx8fHwxNzExOTkyNjYy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "modern architecture",
+        "unity",
+        "community energy"
+      ]
+    },
+    {
+      "id": "KanoMod002",
+      "name": "Kano Tech Hub's Innovation Sphere",
+      "short_description": "A unique geodesic dome within Kano's tech hub, designed as a tranquil space for focused meditation, creative breakthroughs, and channeling innovative energy.",
+      "subtype": "Modern Energy Places",
+      "address": "Zoo Road, Guda Nassarawa, Kano",
+      "visiting_hours": "09:00-20:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGdlb2Rlc2ljIGRvbWUgaW5ub3ZhdGlvbnx8fHx8fDE3MTE5OTI3Njk&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "innovation",
+        "meditation",
+        "creative energy",
+        "geodesic dome"
+      ]
+    },
+    {
+      "id": "KanoMod003",
+      "name": "The Light Pillars of Tarauni",
+      "short_description": "A public art installation of illuminated pillars that change color, creating an immersive, calming atmosphere for urban dwellers to find peace and spiritual solace.",
+      "subtype": "Modern Energy Places",
+      "address": "Tarauni Roundabout, Kano",
+      "visiting_hours": "18:00-23:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGxpZ2h0IHBpbGxhcnMgYXJ0fHx8fHwxNzExOTkyODM5&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "public art",
+        "urban solace",
+        "calming energy"
+      ]
+    },
+    {
+      "id": "KanoMod004",
+      "name": "Gidan Kwari Textile Vortex",
+      "short_description": "A vibrant, spiraling textile market entrance designed to represent the flow of commerce and culture, where traders seek blessings for successful enterprise.",
+      "subtype": "Modern Energy Places",
+      "address": "Gidan Kwari Market Entrance, Kwari, Kano",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fG1hcmtldCB0ZXh0aWxlIHZvcnRleHwxfHx8fHwxNzExOTkyOTIy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "commerce blessings",
+        "cultural flow",
+        "market energy"
+      ]
+    },
+    {
+      "id": "KanoCav001",
+      "name": "The Dala Hill Hermit's Cave",
+      "short_description": "A secluded cave on Dala Hill, once a retreat for Sufi mystics, now a silent sanctuary for contemplation and seeking spiritual solitude.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Lower Dala Hill, Dala LGA, Kano",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGhlcm1pdCBjYXZlfHx8fHx8MTcxMTk5MzAyNg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sufi retreat",
+        "solitude",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "KanoCav002",
+      "name": "Kano Rock Art Grotto",
+      "short_description": "A small grotto near ancient settlements, adorned with fading rock art, suggesting its use as a ritual site by early inhabitants for millennia.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Outskirts of Gwale, near ancient quarry, Kano",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHJvY2sgYXJ0IGdyb3R0b3x8fHx8fDE3MTE5OTMxMTY&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "rock art",
+        "ancient rituals",
+        "prehistoric site"
+      ]
+    },
+    {
+      "id": "KanoCav003",
+      "name": "The Underground Mosque of Kofar Ruwa",
+      "short_description": "A unique, partially underground mosque, offering a cool, serene space for deep prayer and meditation, said to have been built for discreet worship during turbulent times.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Kofar Ruwa, Kano Old City",
+      "visiting_hours": "05:00-21:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHVuZGVyZ3JvdW5kIG1vc3F1ZXx8fHx8fDE3MTE5OTMyMzc&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "underground mosque",
+        "serenity",
+        "historic worship"
+      ]
+    },
+    {
+      "id": "KanoCav004",
+      "name": "Gidan Dan Hausa's Spirit Chamber",
+      "short_description": "A small, dark chamber within the historic Gidan Dan Hausa compound, believed to be a conduit for ancestral spirits and a place for seeking their direct guidance.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Gidan Dan Hausa, Fagge, Kano",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHNwaXJpdCBjaGFtYmVyIHJvb218fHx8fHwxNzExOTkzMzAy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral conduit",
+        "spirit guidance",
+        "historic chamber"
+      ]
+    },
+    {
+      "id": "KanoBat001",
+      "name": "The Field of Kofai's Last Stand",
+      "short_description": "The legendary site of a pivotal ancient battle where Kano warriors made a heroic last stand, symbolizing sacrifice, courage, and the city's enduring spirit.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Kofai, outskirts of Kano, towards Wudil",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGFuY2llbnQgYmF0dGxlZmllbGR8fHx8fHwxNzExOTkzNDA4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sacrifice",
+        "courage",
+        "historic battle",
+        "endurance"
+      ]
+    },
+    {
+      "id": "KanoBat002",
+      "name": "Fagwalawa's Treaty Ground",
+      "short_description": "Not a battlefield of war, but where a crucial peace treaty was signed after a long conflict, marking a turning point for reconciliation and a new destiny for Kano.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Fagwalawa Village, outside Kano City",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGhpc3RvcmllcCBwZWFjZSBncm91bmR8fHx8fHwxNzExOTkzNDkz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "peace",
+        "reconciliation",
+        "turning point",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "KanoBat003",
+      "name": "The Walls of Destiny (Kofar Dan Agundi)",
+      "short_description": "A section of the ancient city walls near Kofar Dan Agundi, breached during a historic siege, where the fate of Kano hung in the balance, now a site of reflection on resilience.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Kofar Dan Agundi, Kano Old City",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGFuY2llbnQgc2llZ2Ugd2FsbHN8fHx8fHwxNzExOTkzNTU1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "resilience",
+        "siege history",
+        "reflection",
+        "city defense"
+      ]
+    },
+    {
+      "id": "KanoBat004",
+      "name": "Rimin Zagara's Triumph Mound",
+      "short_description": "An elevated area where a critical victory was achieved against invading forces, considered sacred ground for prayers of success and gratitude.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Rimin Zagara, Gwale LGA, Kano",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299723232-a5d6a5d7c8c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGFuY2llbnQgdmljdG9yeSBtb3VuZHwxfHx8fHwxNzExOTkzNjE1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "victory",
+        "gratitude",
+        "success prayers",
+        "historic triumph"
+      ]
+    }
+  ]
+}

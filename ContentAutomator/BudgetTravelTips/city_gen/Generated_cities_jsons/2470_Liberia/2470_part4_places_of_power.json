@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Liberia",
+    "city_id": "2470"
+  },
+  "items": [
+    {
+      "id": "BomiAncestralTomb",
+      "name": "The Ancestral Stone Tomb of Chief Kaimba",
+      "short_description": "A revered ancient stone burial site believed to house the remains of Chief Kaimba, a legendary figure whose spirit protects the Bomi region. Pilgrims visit to offer prayers for guidance and blessings from the ancestors.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Bomi County, near Tubmanburg, Liberia",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Shrine_in_the_bush_near_Kashasha%2C_Tanzania.jpg",
+      "tags": [
+        "Ancestral Veneration",
+        "Historical Site",
+        "Spiritual Healing"
+      ]
+    },
+    {
+      "id": "NimbaSacredPeak",
+      "name": "Mount Nimba's Spirit Peak",
+      "short_description": "Though largely a nature reserve, a specific, less-visited peak within the Liberian side of the Mount Nimba range is revered by local communities as a dwelling place of powerful nature spirits and ancestors. It's a site for annual community rituals.",
+      "subtype": "Sacred Mountains",
+      "address": "Nimba County, near Yekepa, Liberia",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mount_Nimba_Stricte_Nature_Reserve_1_cropped.jpg",
+      "tags": [
+        "Nature Worship",
+        "Community Rituals",
+        "Spiritual Ascent"
+      ]
+    },
+    {
+      "id": "GrandBassaOracle",
+      "name": "The Whispering Rocks of Grand Bassa",
+      "short_description": "A formation of ancient, weathered rocks in Grand Bassa, believed to be an ancient oracle site where community elders historically sought guidance from ancestral spirits through sacred rituals. Locals still believe the wind passing through the rocks carries whispers of prophecy.",
+      "subtype": "Oracle Sites",
+      "address": "Grand Bassa County, near Buchanan, Liberia",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/29/Witch_rock%2C_Zambia.jpg",
+      "tags": [
+        "Divination",
+        "Ancestral Wisdom",
+        "Natural Landmark"
+      ]
+    },
+    {
+      "id": "LofaHealingSpring",
+      "name": "The Eternal Healing Spring of Lofa",
+      "short_description": "Tucked deep within the forests of Lofa County, this pristine spring is revered for its crystal-clear waters believed to possess powerful healing properties. Locals and spiritual seekers travel great distances to drink from its source and perform purification rituals.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Lofa County, near Voinjama, Liberia",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ogba_Springs_in_Ondo_State%2C_Nigeria.jpg",
+      "tags": [
+        "Healing Waters",
+        "Purification Rituals",
+        "Natural Sanctuary"
+      ]
+    }
+  ]
+}

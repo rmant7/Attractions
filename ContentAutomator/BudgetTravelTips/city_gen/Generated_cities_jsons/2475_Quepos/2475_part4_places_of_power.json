@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Quepos",
+    "city_id": "2475"
+  },
+  "items": [
+    {
+      "id": "SacredGroveQuepos",
+      "name": "Bosque Sagrado de Tulemne",
+      "short_description": "A hidden ancient grove revered by indigenous communities as a place of profound spiritual connection and ancestral whispers. Its ancient trees are believed to hold the spirits of forest guardians.",
+      "subtype": "Sacred Forests",
+      "address": "End of Calle Principal, near Reserva Biológica Cerro Nara, Quepos, Puntarenas Province, Costa Rica",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Manuel_Antonio_National_Park_%283457181313%29.jpg/1920px-Manuel_Antonio_National_Park_%283457181313%29.jpg",
+      "tags": [
+        "Nature",
+        "Indigenous Culture",
+        "Meditation"
+      ]
+    },
+    {
+      "id": "AncestralUrnShrine",
+      "name": "Santuario de las Urnas Doradas",
+      "short_description": "This secluded shrine protects ancient ceramic urns, believed to contain the ashes of pre-Columbian chiefs. It serves as a sacred space for remembering ancestors and seeking wisdom.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Camino a Playa Espadilla Norte, off Route 618, Quepos, Puntarenas Province, Costa Rica",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "7 USD",
+      "images": "https://images.pexels.com/photos/1761282/pexels-photo-1761282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "Archaeology",
+        "History",
+        "Ancestral Worship"
+      ]
+    },
+    {
+      "id": "QueposOracleRock",
+      "name": "La Piedra del Oráculo de Quepos",
+      "short_description": "A massive volcanic rock formation, said to have been used by ancient shamans for divination. Visitors often leave offerings and meditate, hoping for insight into their future.",
+      "subtype": "Oracle Sites",
+      "address": "Near Río Savegre, Ruta 235, Quepos, Puntarenas Province, Costa Rica",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549472658-00a207204918?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "Divination",
+        "Spiritual Guidance",
+        "Geology"
+      ]
+    },
+    {
+      "id": "FumarolasAncestrales",
+      "name": "Las Fumarolas Ancestrales de Manuel Antonio",
+      "short_description": "While not an active volcano, this geothermal area features ancient fumaroles believed to be portals to the underworld. Indigenous lore speaks of spirits communicating through the rising steam.",
+      "subtype": "Volcanic Zones",
+      "address": "Within Manuel Antonio National Park boundaries (requires park entry), Quepos, Puntarenas Province, Costa Rica",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "18 USD",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Fumaroles_on_Volcano_Po%C3%A1s%2C_Costa_Rica.JPG/1920px-Fumaroles_on_Volcano_Po%C3%A1s%2C_Costa_Rica.JPG",
+      "tags": [
+        "Geothermal",
+        "Earth Energy",
+        "Indigenous Legends"
+      ]
+    }
+  ]
+}

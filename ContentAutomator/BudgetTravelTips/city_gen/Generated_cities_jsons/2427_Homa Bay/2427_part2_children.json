@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Homa Bay",
+    "city_id": "2427"
+  },
+  "items": [
+    {
+      "id": "HBYTTP001",
+      "name": "Victoria Wonderland",
+      "short_description": "A vibrant mini-theme park featuring classic rides, a bouncy castle, and picnic areas, perfect for family fun by the lake.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Off Kisumu-Homa Bay Rd, next to Tourist Hotel, Homa Bay Town",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1606558661264-b58f8e02d847?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "rides",
+        "outdoor",
+        "family fun"
+      ]
+    },
+    {
+      "id": "KNDBTP002",
+      "name": "Kendu Bay Kids Carnival",
+      "short_description": "Enjoy a selection of small amusement rides, interactive games, and face painting, offering lively entertainment for young children.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Beach Road, Kendu Bay",
+      "opening_hours": "11:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579548122071-f9f34f711200?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "carnival",
+        "games",
+        "beachside"
+      ]
+    },
+    {
+      "id": "MBITTP003",
+      "name": "Mbita Play Park & Go-Karts",
+      "short_description": "A charming play park with a mini go-kart track, swings, and slides, providing active fun for children of all ages.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Mbita Town Centre, adjacent to the ferry terminal, Mbita",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/16843054/pexels-photo-16843054/free-photo-of-kids-on-a-go-kart-track.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "go-karts",
+        "playground",
+        "active"
+      ]
+    },
+    {
+      "id": "RUMAATPP004",
+      "name": "Ruma Safari Junior Fun Zone",
+      "short_description": "Experience a safari-themed play area with gentle rides, animal character meet-and-greets, and educational wildlife exhibits.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Adjacent to Ruma National Park entrance, Kamato",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1634732158097-9e7f7b2c01b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "safari theme",
+        "educational",
+        "rides"
+      ]
+    },
+    {
+      "id": "HBYPL001",
+      "name": "Homa Bay Stargazer Dome",
+      "short_description": "An immersive digital dome showcasing the wonders of the night sky, tailored for young astronomers with engaging stories and visuals.",
+      "subtype": "Planetariums for Kids",
+      "address": "Homa Bay Public Library, Posta Road, Homa Bay Town",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1516584281744-8d4517300c3c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "astronomy",
+        "education",
+        "stars"
+      ]
+    },
+    {
+      "id": "KMBDPL002",
+      "name": "Kosiembo Cosmic Classroom",
+      "short_description": "A portable planetarium offering interactive shows about planets, constellations, and space exploration for school groups and families.",
+      "subtype": "Planetariums for Kids",
+      "address": "Kosiembo Community Hall, off Mbita Road",
+      "opening_hours": "09:00-15:00",
+      "price_level": "cheap",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mobile_planetarium_at_a_school.jpg",
+      "tags": [
+        "space",
+        "mobile",
+        "learning"
+      ]
+    },
+    {
+      "id": "SUNAPL003",
+      "name": "Suna Star Lab",
+      "short_description": "Discover the galaxy in this small, engaging planetarium designed to inspire curiosity about the universe in young minds.",
+      "subtype": "Planetariums for Kids",
+      "address": "Suna Primary School Grounds, Rongo-Homa Bay Highway",
+      "opening_hours": "10:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549646581-c7c4b6f1e828?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "planets",
+        "science",
+        "interactive"
+      ]
+    },
+    {
+      "id": "RUGAPL004",
+      "name": "Rusinga Night Sky Experience",
+      "short_description": "An open-air viewing platform with telescopes and guided tours, revealing the beauty of the celestial sphere, ideal for older children.",
+      "subtype": "Planetariums for Kids",
+      "address": "Rusinga Island Lodge, Rusinga Island",
+      "opening_hours": "19:00-21:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1506748689610-ac0a04946e3d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "telescope",
+        "night sky",
+        "observatory"
+      ]
+    },
+    {
+      "id": "HBYMSA001",
+      "name": "Homa Bay Kids' Sports Hub",
+      "short_description": "A versatile mini-arena offering football, basketball, and netball courts, plus coaching for various sports disciplines.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Nyandiwa Estate, Homa Bay Town",
+      "opening_hours": "08:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517404215737-01303a970252?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "football",
+        "basketball",
+        "coaching"
+      ]
+    },
+    {
+      "id": "RONGMSA002",
+      "name": "Rongo Mini-Olympics Arena",
+      "short_description": "Dedicated space for children's athletics, including a small running track, long jump pit, and obstacle courses.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Rongo Town, next to Rongo University",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1544773489-082012015f8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "athletics",
+        "track and field",
+        "obstacle course"
+      ]
+    },
+    {
+      "id": "KWANGAMSA003",
+      "name": "Kwang'a Multi-Sport Park",
+      "short_description": "A community-focused mini-arena with facilities for tennis, badminton, and a designated area for roller skating and cycling.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Kwang'a Market Centre, along Kisii-Homa Bay Road",
+      "opening_hours": "10:00-18:00",
+      "price_level": "free",
+      "images": "https://images.pexels.com/photos/899661/pexels-photo-899661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "tennis",
+        "skating",
+        "community"
+      ]
+    },
+    {
+      "id": "MBITMSA004",
+      "name": "Mbita Aqua-Sports Zone",
+      "short_description": "Focuses on water-based sports like mini-kayaking and stand-up paddleboarding in a safe, supervised lagoon area, ideal for kids.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Mbita Point, next to Lake Victoria Sailing Club, Mbita",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1590489240323-28f00122e23d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "kayaking",
+        "water sports",
+        "lake activities"
+      ]
+    },
+    {
+      "id": "HBYCM001",
+      "name": "Homa Bay Discovery Centre",
+      "short_description": "An interactive museum where kids can explore local history, culture, and science through hands-on exhibits and creative play.",
+      "subtype": "Children’s Museums",
+      "address": "Government Road, Opp. County Assembly, Homa Bay Town",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510511232890-a5482e975a5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "interactive",
+        "culture",
+        "science"
+      ]
+    },
+    {
+      "id": "MBITCM002",
+      "name": "Lake Victoria Kids' Heritage Hub",
+      "short_description": "Focuses on the ecology and traditional life around Lake Victoria, with engaging displays on fishing, local crafts, and wildlife.",
+      "subtype": "Children’s Museums",
+      "address": "Sindo Town, near Sindo Beach, Mbita",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/3468802/pexels-photo-3468802.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "lake victoria",
+        "heritage",
+        "ecology"
+      ]
+    },
+    {
+      "id": "RUMACM003",
+      "name": "Ruma Wildlife Junior Explorers",
+      "short_description": "A mini-museum dedicated to the animals and plants of Ruma National Park, featuring taxidermy, sound exhibits, and fossil replicas.",
+      "subtype": "Children’s Museums",
+      "address": "Within Ruma National Park Education Centre, Kamato",
+      "opening_hours": "08:30-16:30",
+      "price_level": "expensive",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Children_in_a_natural_history_museum.jpg",
+      "tags": [
+        "wildlife",
+        "nature",
+        "safari"
+      ]
+    },
+    {
+      "id": "KNDBCM004",
+      "name": "Kendu Bay Art & Play Studio",
+      "short_description": "An experimental space where children can create art, participate in workshops, and explore different materials and techniques.",
+      "subtype": "Children’s Museums",
+      "address": "Kendu Bay Cultural Centre, Rachuonyo North",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549488344-93c68e14620f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "art",
+        "creative",
+        "workshops"
+      ]
+    },
+    {
+      "id": "HBYAQ001",
+      "name": "Victoria Lake Aquarium",
+      "short_description": "Explore the diverse aquatic life of Lake Victoria, featuring various fish species, crocodiles, and educational exhibits on freshwater ecosystems.",
+      "subtype": "Aquariums",
+      "address": "Next to Homa Bay Pier, Lake Road, Homa Bay Town",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1535791771803-09756b142965?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "lake fish",
+        "freshwater",
+        "conservation"
+      ]
+    },
+    {
+      "id": "RUGAAQ002",
+      "name": "Rusinga Island Marine Centre",
+      "short_description": "Dedicated to the unique fish and invertebrates found around Rusinga Island, offering touch tanks and guided feeding sessions.",
+      "subtype": "Aquariums",
+      "address": "Kamongo Beach, Rusinga Island",
+      "opening_hours": "10:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1547826039-bfc35e0f1466?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "marine life",
+        "touch tank",
+        "island"
+      ]
+    },
+    {
+      "id": "SAKWA003",
+      "name": "Sakwa Wetland Wonders",
+      "short_description": "A small educational center showcasing fish, amphibians, and reptiles native to the local wetlands, highlighting their ecological importance.",
+      "subtype": "Aquariums",
+      "address": "Sakwa Bondo, near River Awach Kibuon",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1550997135-24b42319ef46?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "wetlands",
+        "amphibians",
+        "reptiles"
+      ]
+    },
+    {
+      "id": "OYUGISAQ004",
+      "name": "Oyugis Fish Farm & Display",
+      "short_description": "Combines a working fish farm with educational displays about aquaculture, showcasing different types of fish farming and their benefits.",
+      "subtype": "Aquariums",
+      "address": "Oyugis Town, along Kisii-Homa Bay Highway",
+      "opening_hours": "08:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1549488344-93c68e14620f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "fish farm",
+        "aquaculture",
+        "educational"
+      ]
+    },
+    {
+      "id": "HBYFA001",
+      "name": "Green Acres Kids Farm",
+      "short_description": "A charming farm where children can interact with friendly farm animals, enjoy pony rides, and learn about sustainable farming practices.",
+      "subtype": "Farm Attractions",
+      "address": "Off Ahero-Kisii Highway, next to Homa Bay Golf Club",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520696956285-d85c8e317c37?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "petting zoo",
+        "pony rides",
+        "farm animals"
+      ]
+    },
+    {
+      "id": "KNDBFA002",
+      "name": "Kendu Bay Organic Gardens & Farm",
+      "short_description": "Kids can participate in planting and harvesting, learn about organic gardening, and meet small livestock in a serene environment.",
+      "subtype": "Farm Attractions",
+      "address": "Behind Kendu Bay Airstrip, Kendu Bay",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/10399121/pexels-photo-10399121.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "organic farming",
+        "gardening",
+        "agriculture"
+      ]
+    },
+    {
+      "id": "MBITFA003",
+      "name": "Mbita Dairy Farm Experience",
+      "short_description": "Offers children a chance to milk cows, feed calves, and understand the process of dairy production from farm to table.",
+      "subtype": "Farm Attractions",
+      "address": "On the way to Rusinga Island Ferry, Mbita",
+      "opening_hours": "08:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563630656-784869c45097?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "dairy farm",
+        "cow milking",
+        "farm education"
+      ]
+    },
+    {
+      "id": "KIMIRFA004",
+      "name": "Kimiru Poultry & Aviary",
+      "short_description": "A fun visit to a specialized poultry farm with various bird species, allowing kids to collect eggs and learn about avian life.",
+      "subtype": "Farm Attractions",
+      "address": "Kimiru Village, off Homa Bay-Rongo Road",
+      "opening_hours": "09:30-16:30",
+      "price_level": "free",
+      "images": "https://images.pexels.com/photos/8966953/pexels-photo-8966953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "poultry",
+        "birds",
+        "egg collection"
+      ]
+    },
+    {
+      "id": "HBYAQG001",
+      "name": "Homa Bay Treasure Hunt Trails",
+      "short_description": "Embark on an exciting outdoor treasure hunt with clues hidden along scenic trails, leading to a grand 'treasure'.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Homa Bay Tourist Hotel Gardens, Off Kisumu-Homa Bay Rd",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1504452072314-e53b47f7d45f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "treasure hunt",
+        "outdoor",
+        "team building"
+      ]
+    },
+    {
+      "id": "RUMAAQG002",
+      "name": "Ruma Bush Detectives",
+      "short_description": "A thrilling safari-themed quest within a designated area near Ruma National Park, teaching kids tracking and bush skills.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Ruma National Park buffer zone, Kamato",
+      "opening_hours": "08:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1605370252194-e578c773950f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "safari",
+        "tracking",
+        "wilderness"
+      ]
+    },
+    {
+      "id": "MBITAAQG003",
+      "name": "Mbita Island Explorer Challenge",
+      "short_description": "Navigate a series of challenges and puzzles across a small island, focusing on navigation and problem-solving skills.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Mfangano Island (day trip from Mbita Pier)",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627916694833-2a6c117e3a9c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "island adventure",
+        "puzzles",
+        "navigation"
+      ]
+    },
+    {
+      "id": "NDHIWAAQG004",
+      "name": "Ndhiwa Nature Scavenger Hunt",
+      "short_description": "A free-spirited scavenger hunt in a natural setting, encouraging children to discover local flora and fauna while solving riddles.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Ndhiwa Community Forest Reserve, Ndhiwa",
+      "opening_hours": "10:00-16:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1594967396030-c3d3d7d3d2e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "nature discovery",
+        "scavenger hunt",
+        "riddles"
+      ]
+    },
+    {
+      "id": "HBYMIS001",
+      "name": "Homa Bay Kiddo Magic Theatre",
+      "short_description": "A dedicated venue for enchanting magic and illusion shows, featuring local magicians and interactive acts designed for young audiences.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Homa Bay Cultural Centre, Off Hospital Road, Homa Bay Town",
+      "opening_hours": "14:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1504890002131-0164ae171d37?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "magic show",
+        "illusion",
+        "live performance"
+      ]
+    },
+    {
+      "id": "RONGMIS002",
+      "name": "Rongo's Whimsical Wonders",
+      "short_description": "A touring magic show that visits schools and community halls, offering dazzling tricks, comedy, and audience participation.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Various locations in Rongo, check schedule",
+      "opening_hours": "Varies",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/15720164/pexels-photo-15720164/free-photo-of-man-in-white-suit-and-top-hat-standing-next-to-stage-with-magic-wand.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "touring show",
+        "comedy",
+        "audience participation"
+      ]
+    },
+    {
+      "id": "KNDBMIS003",
+      "name": "Kendu Bay Illusion Palace",
+      "short_description": "A charming, intimate venue for close-up magic, mind-reading acts, and grand illusions that captivate and amaze.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Kendu Bay Waterfront Plaza, Kendu Bay",
+      "opening_hours": "15:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1588667332791-c889f81f185d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "close-up magic",
+        "mind-reading",
+        "intimate"
+      ]
+    },
+    {
+      "id": "SAKWAMIS004",
+      "name": "Sakwa Sorcery & Fun Show",
+      "short_description": "An interactive magic show tailored for birthday parties and small events, providing customized performances with a touch of local flair.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Available for booking in Sakwa & surrounding areas",
+      "opening_hours": "By appointment",
+      "price_level": "expensive",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Street_magician_in_Venice%2C_Italy.jpg",
+      "tags": [
+        "private events",
+        "birthday parties",
+        "custom shows"
+      ]
+    },
+    {
+      "id": "HBYIPC001",
+      "name": "Homa Bay Happy Hub",
+      "short_description": "A spacious indoor play center with soft play structures, ball pits, slides, and climbing frames for active fun in any weather.",
+      "subtype": "Indoor Play Centers",
+      "address": "Central Business District, Next to KCB Bank, Homa Bay Town",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582236113945-81358e5f15a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "soft play",
+        "ball pit",
+        "climbing"
+      ]
+    },
+    {
+      "id": "OYUGISIPC002",
+      "name": "Oyugis Fun Factory",
+      "short_description": "Features a multi-level play structure, trampolines, and a dedicated toddler zone, ensuring safe and exciting play for all ages.",
+      "subtype": "Indoor Play Centers",
+      "address": "Oyugis Shopping Centre, First Floor, Oyugis Town",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/1070529/pexels-photo-1070529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "trampolines",
+        "toddler zone",
+        "multi-level"
+      ]
+    },
+    {
+      "id": "MBITIPC003",
+      "name": "Mbita Adventure Play Zone",
+      "short_description": "An indoor adventure center with a small climbing wall, obstacle courses, and interactive gaming stations for older kids.",
+      "subtype": "Indoor Play Centers",
+      "address": "Mbita Point, within Mbita Hotel complex, Mbita",
+      "opening_hours": "09:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596700877918-1c4b7b25b6a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "climbing wall",
+        "obstacle course",
+        "gaming"
+      ]
+    },
+    {
+      "id": "KNDBIPC004",
+      "name": "Kendu Bay Creative Kids' Corner",
+      "short_description": "More than just play, this center offers art stations, building blocks, and imaginative play areas alongside a small soft play structure.",
+      "subtype": "Indoor Play Centers",
+      "address": "Kendu Bay Town, next to Cooperative Bank",
+      "opening_hours": "10:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1543799634-11082c61ceb3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "creative play",
+        "art stations",
+        "imaginative"
+      ]
+    },
+    {
+      "id": "HBYFTP001",
+      "name": "Homa Bay Storybook Garden",
+      "short_description": "Wander through enchanting gardens featuring life-sized sculptures of beloved fairy tale characters and interactive story points.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Near Tom Mboya University, Homa Bay Town",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1504452072314-e53b47f7d45f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "storytelling",
+        "fantasy",
+        "gardens"
+      ]
+    },
+    {
+      "id": "RONGOTP002",
+      "name": "Rongo Realm of Legends",
+      "short_description": "Explore a park dedicated to African folk tales and legends, with themed play areas and performances of traditional stories.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Rongo Town, along the Oyugis-Rongo Road",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/1013444/pexels-photo-1013444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "african folklore",
+        "legends",
+        "cultural"
+      ]
+    },
+    {
+      "id": "MBITFTP003",
+      "name": "Mbita Mythical Forest",
+      "short_description": "A natural forest trail transformed into a magical journey, where kids encounter mythical creatures and solve nature-based puzzles.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Near Mbita Hills, along Mbita-Sindo Road",
+      "opening_hours": "08:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1605370252194-e578c773950f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "forest adventure",
+        "mythical creatures",
+        "nature puzzles"
+      ]
+    },
+    {
+      "id": "KNDBFTP004",
+      "name": "Kendu Bay Gnome Village",
+      "short_description": "A charming miniature village inhabited by friendly gnomes and fairies, inviting children to imaginative role-play and exploration.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Kendu Bay Beachfront Park, Kendu Bay",
+      "opening_hours": "10:00-18:00",
+      "price_level": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gnome_Village_at_Fort_Clatsop_National_Memorial.jpg",
+      "tags": [
+        "gnomes",
+        "fairies",
+        "imagination"
+      ]
+    }
+  ]
+}

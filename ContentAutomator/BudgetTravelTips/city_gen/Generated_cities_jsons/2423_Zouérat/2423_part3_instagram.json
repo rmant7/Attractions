@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Zouérat",
+    "city_id": "2423"
+  },
+  "items": [
+    {
+      "id": "ZoueratDunes",
+      "name": "Shifting Sands of the Sahara",
+      "short_description": "Experience the majestic beauty of the vast Sahara Desert, with its ever-changing dunes and stunning horizons that offer breathtaking photographic opportunities. A truly immersive natural wonder.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Just outside Zouérat, towards F'Dérick",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1690089063520-22c7104a37a8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "desert",
+        "dunes",
+        "sahara",
+        "nature"
+      ]
+    },
+    {
+      "id": "IronOreTrainView",
+      "name": "The Iron Ore Train Passage",
+      "short_description": "Witness the legendary Iron Ore Train, one of the longest and heaviest trains in the world, as it cuts through the desert landscape. A powerful symbol of Mauritanian industry and a truly unique spectacle.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Viewpoints along the train track, outside town",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/8/87/Mauritania_iron_ore_train_near_Choum.jpg",
+      "tags": [
+        "train",
+        "industrial",
+        "landmark",
+        "desert"
+      ]
+    },
+    {
+      "id": "OldMineAdmin",
+      "name": "Zouérat Mining Heritage Site",
+      "short_description": "Explore the remnants of Zouérat's early mining operations, including the original administrative buildings and machinery that tell the story of the town's foundation and its iron ore legacy. A glimpse into industrial history.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Old mining district, eastern part of Zouérat",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1627705490076-0f74a00e008a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "history",
+        "mining",
+        "architecture",
+        "heritage"
+      ]
+    },
+    {
+      "id": "ZoueratSouk",
+      "name": "The Vibrant Zouérat Souk",
+      "short_description": "Immerse yourself in the bustling atmosphere of Zouérat's local market, where vendors offer everything from traditional Mauritanian crafts and textiles to local produce. A sensory feast and cultural experience.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Downtown Zouérat, near the central mosque",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1517748805607-0a424a138981?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "market",
+        "souk",
+        "culture",
+        "shopping"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Kano",
+    "city_id": "2456"
+  },
+  "items": [
+    {
+      "id": "KNA001",
+      "name": "Kano Heritage Hub & Gallery",
+      "short_description": "A vibrant cultural center showcasing contemporary Hausa art, traditional crafts, and modern interpretations, with interactive exhibits and workshops celebrating Kano's rich history.",
+      "address": "Maiduguri Road, Tarauni, Kano",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616763428054-f58c49e7943c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTIzMzJ8MHwxfHNlYXJjaHwxfHxhcnQlMjBnYWxsZXJ5JTIwYWZyaWNhfGVufDB8fHx8MTcwMzY3MTgwNXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Art",
+        "Culture",
+        "Exhibits"
+      ]
+    },
+    {
+      "id": "KNA002",
+      "name": "Zamani Adventure Park",
+      "short_description": "Kano's premier family entertainment park featuring thrilling rides, a refreshing splash zone, and expansive green spaces perfect for picnics and children's adventures.",
+      "address": "Zaria Road, Kumbotso, Kano",
+      "opening_hours": "11:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628173426815-468132f80c65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTIzMzJ8MHwxfHNlYXJjaHwxfHxhbXVzZW1lbnQlMjBwYXJrJTIwYWZyaWNhfGVufDB8fHx8MTcwMzY3MTg3MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Family",
+        "Amusement",
+        "Kids"
+      ]
+    },
+    {
+      "id": "KNA003",
+      "name": "Sahel Square Mall",
+      "short_description": "A state-of-the-art shopping and lifestyle complex offering international brands, local boutiques, diverse dining options, and a modern cinema experience.",
+      "address": "Murtala Mohammed Way, Nassarawa, Kano",
+      "opening_hours": "09:00-22:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1619448839077-873bb77b7389?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTIzMzJ8MHwxfHNlYXJjaHwxfHxzZWFyY2hpbmclMjBzaG9wcGluZyUyMG1hbGwlMjBhZnJpY2F8ZW58MHx8fHwxNzAzNjcyMDQ1fDB8fHwx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Shopping",
+        "Dining",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "KNA004",
+      "name": "Gidan Dan Hausa Eco-Park",
+      "short_description": "A beautifully landscaped urban park featuring serene walking trails, a small botanical garden, and dedicated areas for relaxation and community events, promoting urban greening.",
+      "address": "Audu Bako Way, Nassarawa, Kano",
+      "opening_hours": "06:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1616788665975-fcfb03b6b107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTIzMzJ8MHwxfHNlYXJjaHwxfHxlY28lMjBwYXJrJTIwYWZyaWNhfGVufDB8fHx8MTcwMzY3MjE1MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Nature",
+        "Relaxation",
+        "Outdoor"
+      ]
+    },
+    {
+      "id": "KNA005",
+      "name": "Kano Innovation Nexus",
+      "short_description": "A cutting-edge tech hub fostering innovation, hosting workshops, and providing co-working spaces, often opening its doors for public tech showcases and entrepreneurship events.",
+      "address": "Lamido Crescent, Tarauni, Kano",
+      "opening_hours": "08:00-21:00 (for public events)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1610497519395-51347ce6d8e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTIzMzJ8MHwxfHNlYXJjaHwxfHx0ZWNoJTIwaHViJTIwYWZyaWNhfGVufDB8fHx8MTcwMzY3MjIxOHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Technology",
+        "Education",
+        "Community"
+      ]
+    },
+    {
+      "id": "KNA006",
+      "name": "The Indigo Sky Lounge",
+      "short_description": "An upscale rooftop bar and restaurant offering panoramic views of Kano's vibrant skyline, serving exquisite local and international cuisine in a sophisticated ambiance.",
+      "address": "Wambai Road, Fagge, Kano",
+      "opening_hours": "17:00-00:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1650390169176-96b42b66a4f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTIzMzJ8MHwxfHNlYXJjaHwxfHxyb29mdG9wJTIwYmFyJTIwYWZyaWNhfGVufDB8fHx8MTcwMzY3MjI5MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Dining",
+        "Nightlife",
+        "Luxury"
+      ]
+    },
+    {
+      "id": "KNA007",
+      "name": "Dawanau Artisan Bazaar",
+      "short_description": "A contemporary market showcasing the finest local crafts, vibrant textiles, intricate pottery, and unique art directly from Kano's skilled artisans, with demonstration workshops available.",
+      "address": "Dawanau Grain Market Road, Dawanau, Kano",
+      "opening_hours": "09:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1598165279612-fcb11b5e3214?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTIzMzJ8MHwxfHNlYXJjaHwxfHxhcnRpc2FuJTIwbWFya2V0JTIwYWZyaWNhfGVufDB8fHx8MTcwMzY3MjM2OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Market",
+        "Crafts",
+        "Shopping"
+      ]
+    },
+    {
+      "id": "KNA008",
+      "name": "Kano Science & Discovery Centre",
+      "short_description": "An interactive museum designed to engage all ages with the wonders of science and technology through hands-on exhibits, innovative workshops, and engaging educational programs.",
+      "address": "Opposite Rumfa College, Bompai, Kano",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1606820251100-c0b8924b17a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTIzMzJ8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwbXVzZXVtJTIwa2lkcyUyMGFmcmljYXxlbnwwfHx8fDE3MDM2NzI0MjZ8MHx8MQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Education",
+        "Science",
+        "Family"
+      ]
+    },
+    {
+      "id": "KNA009",
+      "name": "Kofar Mata Sports Arena",
+      "short_description": "A newly built multi-purpose sports complex featuring modern facilities for football, basketball, and track events, regularly hosting exciting local and regional competitions.",
+      "address": "Kofar Mata Road, Waje, Kano",
+      "opening_hours": "07:00-22:00 (for public access/events)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1522279099837-1d89868e404b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTIzMzJ8MHwxfHNlYXJjaHwxfHxzcG9ydHMlMjBzdGFkaXVtJTIwYWZyaWNhfGVufDB8fHx8MTcwMzY3MjQ3M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Sports",
+        "Events",
+        "Fitness"
+      ]
+    },
+    {
+      "id": "KNA010",
+      "name": "The Literati Cafe & Bookstore",
+      "short_description": "A cozy and modern space where literature meets leisure, offering a curated selection of books, aromatic coffee, and pastries, alongside regular poetry readings and book clubs.",
+      "address": "Tarauni Housing Estate, Tarauni, Kano",
+      "opening_hours": "08:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1507842368945-81404172428c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTIzMzJ8MHwxfHNlYXJjaHwxfHxib29rc3RvcmUlMjBjYWZlJTIwYWZyaWNhfGVufDB8fHx8MTcwMzY3MjUyMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Cafe",
+        "Books",
+        "Relaxation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Enugu",
+    "city_id": "2451"
+  },
+  "items": [
+    {
+      "id": "EN_WP001",
+      "name": "AquaSplash Funland",
+      "short_description": "Dive into a world of refreshing slides, exciting splash pads, and shallow pools perfect for younger children to cool off and play.",
+      "subtype": "Water Parks for Kids",
+      "address": "15 Independence Avenue, Independence Layout, Enugu",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1571408713061-00632b6e15d8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "slides",
+        "water play",
+        "family fun"
+      ]
+    },
+    {
+      "id": "EN_WP002",
+      "name": "Enugu Lagoon Splash",
+      "short_description": "An interactive water playground featuring spray fountains, gentle waterfalls, and miniature slides designed for toddlers and preschoolers.",
+      "subtype": "Water Parks for Kids",
+      "address": "8 Trans-Ekulu Estate Road, Trans-Ekulu, Enugu",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1594953930807-7f937d2f4469?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddler friendly",
+        "splash pad",
+        "affordable"
+      ]
+    },
+    {
+      "id": "EN_WP003",
+      "name": "Hydro Hype Kids Zone",
+      "short_description": "Experience thrilling small-scale water attractions, including water cannons, tipping buckets, and a lazy river section for kids.",
+      "subtype": "Water Parks for Kids",
+      "address": "22 New Haven Road, New Haven, Enugu",
+      "opening_hours": "10:30-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1559132205-b3e1f13b1f9b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "water cannons",
+        "lazy river",
+        "exciting"
+      ]
+    },
+    {
+      "id": "EN_WP004",
+      "name": "Palm Springs Aqua Park",
+      "short_description": "A relaxed water park environment with zero-depth entry pools, fun floating toys, and comfortable shaded areas for families.",
+      "subtype": "Water Parks for Kids",
+      "address": "10 Nike Lake Road, Nike, Enugu",
+      "opening_hours": "11:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1601366114881-3058b73f324c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "zero entry",
+        "relaxed",
+        "premium"
+      ]
+    },
+    {
+      "id": "EN_MSA001",
+      "name": "Junior Champions Arena",
+      "short_description": "A multi-sport complex where kids can try mini-football, basketball, and tennis in a safe and supervised environment.",
+      "subtype": "Mini Sports Arenas",
+      "address": "7 Presidential Road, GRA, Enugu",
+      "opening_hours": "08:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1518342416041-325d7a6064f7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "multi-sport",
+        "football",
+        "basketball"
+      ]
+    },
+    {
+      "id": "EN_MSA002",
+      "name": "Enugu Kidz Sports Zone",
+      "short_description": "An indoor facility offering mini-golf, soft play areas, and small climbing walls for active children of all ages.",
+      "subtype": "Mini Sports Arenas",
+      "address": "12 Garden Avenue, Independence Layout, Enugu",
+      "opening_hours": "09:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628122104523-d34e9e4a383d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "indoor sports",
+        "mini-golf",
+        "climbing"
+      ]
+    },
+    {
+      "id": "EN_MSA003",
+      "name": "Active Little Stars Dome",
+      "short_description": "Dedicated to gymnastics, obstacle courses, and martial arts for kids, promoting fitness and coordination in a fun setting.",
+      "subtype": "Mini Sports Arenas",
+      "address": "5 Enugu-Onitsha Expressway, Trans-Ekulu, Enugu",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549480665-276f7f3a8b23?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "gymnastics",
+        "obstacle course",
+        "fitness"
+      ]
+    },
+    {
+      "id": "EN_MSA004",
+      "name": "PlayMakers Sports Hub",
+      "short_description": "A vibrant hub for table tennis, foosball, and various arcade sports games, perfect for friendly competition and group play.",
+      "subtype": "Mini Sports Arenas",
+      "address": "34 Abakpa Nike Road, New Haven, Enugu",
+      "opening_hours": "10:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1551061294-f027376c99c5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "arcade games",
+        "table tennis",
+        "group activities"
+      ]
+    },
+    {
+      "id": "EN_AR001",
+      "name": "Enugu SkyWheel Park",
+      "short_description": "Enjoy panoramic views from the grand Ferris wheel and classic spins on the vibrant merry-go-round, offering timeless fun for families.",
+      "subtype": "Amusement Rides",
+      "address": "20 Chief Okeke Street, Independence Layout, Enugu",
+      "opening_hours": "14:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1533230626305-d9196b01b637?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ferris wheel",
+        "carousel",
+        "classic rides"
+      ]
+    },
+    {
+      "id": "EN_AR002",
+      "name": "Wonderland Carousel",
+      "short_description": "A charming park centered around a beautifully restored carousel, alongside a gentle kiddie train ride that winds through a miniature landscape.",
+      "subtype": "Amusement Rides",
+      "address": "1 Agbani Road, Awkunanaw, Enugu",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1550547035-af3f9f743ed9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "merry-go-round",
+        "kiddie train",
+        "gentle rides"
+      ]
+    },
+    {
+      "id": "EN_AR003",
+      "name": "FunFair Flyer Zone",
+      "short_description": "Feel the thrill on our exciting bumper cars, a miniature roller coaster, and spinning tea cups for a day full of laughter and adventure.",
+      "subtype": "Amusement Rides",
+      "address": "9 Emene Road, Emene, Enugu",
+      "opening_hours": "12:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596537704511-d142d7a96495?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "bumper cars",
+        "mini coaster",
+        "thrilling"
+      ]
+    },
+    {
+      "id": "EN_AR004",
+      "name": "JoyRide Junction",
+      "short_description": "This park features a variety of classic children's rides including a spinning teacup ride, swing carousel, and a bouncy castle for endless fun.",
+      "subtype": "Amusement Rides",
+      "address": "4 O’Connor Street, New Haven, Enugu",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1533230626305-d9196b01b637?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "teacup ride",
+        "swing carousel",
+        "bouncy castle"
+      ]
+    },
+    {
+      "id": "EN_CMG001",
+      "name": "ToonTown Character House",
+      "short_description": "Meet and greet your favorite popular cartoon characters, take photos, and enjoy mini-shows throughout the day.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "18 Park Avenue, GRA, Enugu",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563273100-2d8d8e3d0628?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "character photos",
+        "cartoon shows",
+        "mascots"
+      ]
+    },
+    {
+      "id": "EN_CMG002",
+      "name": "Enugu Animation Alley",
+      "short_description": "Experience interactive character encounters and storytelling sessions with beloved animated figures in a vibrant, immersive setting.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "6 Rangers Avenue, Independence Layout, Enugu",
+      "opening_hours": "11:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1624653550302-698d3d928373?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive",
+        "storytelling",
+        "premium experience"
+      ]
+    },
+    {
+      "id": "EN_CMG003",
+      "name": "Mascot Manor",
+      "short_description": "Home to a rotating cast of cheerful mascots, offering daily meet & greet opportunities and fun, energetic performances for children.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "11 Okpara Avenue, Trans-Ekulu, Enugu",
+      "opening_hours": "10:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533230626305-d9196b01b637?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "mascot shows",
+        "photo opportunities",
+        "fun"
+      ]
+    },
+    {
+      "id": "EN_CMG004",
+      "name": "Storybook Friends Corner",
+      "short_description": "Children can meet characters from classic fairy tales and storybooks, participate in sing-alongs, and enjoy engaging activities.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "25 Ebeano Tunnel Road, New Haven, Enugu",
+      "opening_hours": "12:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579294576822-42173167b57b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fairy tale characters",
+        "sing-alongs",
+        "story time"
+      ]
+    },
+    {
+      "id": "EN_AQ001",
+      "name": "Enugu Deep Sea Discovery",
+      "short_description": "Explore local and exotic marine life, including colorful fish, graceful rays, and captivating jellyfish in large, immersive tanks.",
+      "subtype": "Aquariums",
+      "address": "3 Coal City Road, Independence Layout, Enugu",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549724128-4e0e5a840e69?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "marine life",
+        "exotic fish",
+        "immersive tanks"
+      ]
+    },
+    {
+      "id": "EN_AQ002",
+      "name": "River Guardians Aquarium",
+      "short_description": "Dedicated to freshwater aquatic ecosystems, featuring indigenous Nigerian fish, small turtles, and educational exhibits on river conservation.",
+      "subtype": "Aquariums",
+      "address": "14 Ogui Road, New Haven, Enugu",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1594953335522-837b3f9c6565?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "freshwater fish",
+        "conservation",
+        "educational"
+      ]
+    },
+    {
+      "id": "EN_AQ003",
+      "name": "AquaVerse Kids Exhibit",
+      "short_description": "A hands-on aquarium experience for kids, with interactive touch pools where children can gently feel starfish and other marine creatures.",
+      "subtype": "Aquariums",
+      "address": "7 Bisala Road, Nike, Enugu",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1528659858514-9b165b6e41b7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "touch pool",
+        "interactive",
+        "marine biology"
+      ]
+    },
+    {
+      "id": "EN_AQ004",
+      "name": "Ocean Wonders Hub",
+      "short_description": "Marvel at vibrant coral reef displays and observe a diverse collection of tropical fish, alongside engaging presentations about ocean health.",
+      "subtype": "Aquariums",
+      "address": "2 Okpara Square, GRA, Enugu",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579737190119-a1b72b9a764d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "coral reefs",
+        "tropical fish",
+        "oceanography"
+      ]
+    },
+    {
+      "id": "EN_ZOO001",
+      "name": "Enugu Wild Wonders Park",
+      "short_description": "Home to a variety of African animals in naturalistic habitats, including a diverse bird aviary and educational conservation programs.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "15 Airport Road, Emene, Enugu",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1559868662-3860000a01e3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "African animals",
+        "bird aviary",
+        "wildlife education"
+      ]
+    },
+    {
+      "id": "EN_ZOO002",
+      "name": "Little Paws Petting Zoo",
+      "short_description": "A delightful petting zoo where children can interact with friendly goats, cuddly rabbits, and other domestic farm animals.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "8 Garden Avenue Extension, Independence Layout, Enugu",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1557053910-d9dcd25841c3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "animal interaction"
+      ]
+    },
+    {
+      "id": "EN_ZOO003",
+      "name": "Safari Kids Encounter",
+      "short_description": "Offers a mini-safari experience with supervised animal feeding sessions and up-close views of various animal species.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "3 Trans-Ekulu Flyover, Trans-Ekulu, Enugu",
+      "opening_hours": "10:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1547794017-c102c77d4493?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "mini safari",
+        "animal feeding",
+        "wildlife encounters"
+      ]
+    },
+    {
+      "id": "EN_ZOO004",
+      "name": "Nature's Ark Zoo",
+      "short_description": "Features a specialized reptile house, playful small primates, and a unique collection of nocturnal animals in engaging exhibits.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "22 Nza Street, New Haven, Enugu",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616790937861-c8172c3b88b7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "reptiles",
+        "primates",
+        "nocturnal animals"
+      ]
+    },
+    {
+      "id": "EN_STP001",
+      "name": "Enugu Fable Forest",
+      "short_description": "Wander through themed areas bringing classic African and global fables to life with interactive displays and hidden surprises.",
+      "subtype": "Storytelling Parks",
+      "address": "1 Enugu-Port Harcourt Express, Independence Layout, Enugu",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542838385-1d6f517f8a7a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fables",
+        "interactive stories",
+        "forest walks"
+      ]
+    },
+    {
+      "id": "EN_STP002",
+      "name": "Tales & Trails Park",
+      "short_description": "Follow enchanting trails that depict scenes from popular children's stories, encouraging imagination and outdoor exploration.",
+      "subtype": "Storytelling Parks",
+      "address": "18 Nike Road, Nike, Enugu",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510511451897-f2b842d0a0b6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "story trails",
+        "imagination",
+        "outdoor play"
+      ]
+    },
+    {
+      "id": "EN_STP003",
+      "name": "Whispering Woods Stories",
+      "short_description": "Enjoy live interactive storytelling sessions and captivating puppet shows amidst a serene wooded setting.",
+      "subtype": "Storytelling Parks",
+      "address": "5 Edinburgh Road, New Haven, Enugu",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1516086801850-200779831d36?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "live storytelling",
+        "puppet shows",
+        "nature"
+      ]
+    },
+    {
+      "id": "EN_STP004",
+      "name": "Myth & Legend Gardens",
+      "short_description": "A unique park featuring statues and settings inspired by ancient myths and local legends, perfect for inspiring young minds.",
+      "subtype": "Storytelling Parks",
+      "address": "2 Okpara Avenue, GRA, Enugu",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1517865223783-66118d538661?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "myths",
+        "legends",
+        "free entry"
+      ]
+    },
+    {
+      "id": "EN_FTP001",
+      "name": "Enugu Enchanted Kingdom",
+      "short_description": "Step into a magical realm with a replica Cinderella's castle, Sleeping Beauty's forest, and other beloved fairy tale settings.",
+      "subtype": "Fairy Tale Parks",
+      "address": "10 Independence Boulevard, Independence Layout, Enugu",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1520625470870-8913364f514b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fairy tale castle",
+        "magical",
+        "themed park"
+      ]
+    },
+    {
+      "id": "EN_FTP002",
+      "name": "Magic Meadow Gardens",
+      "short_description": "Explore whimsical fairy houses, charming gnome villages, and sparkling waterfalls in this enchanting garden park.",
+      "subtype": "Fairy Tale Parks",
+      "address": "4 Trans-Ekulu Drive, Trans-Ekulu, Enugu",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549480665-276f7f3a8b23?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fairy garden",
+        "gnome village",
+        "whimsical"
+      ]
+    },
+    {
+      "id": "EN_FTP003",
+      "name": "Princess Palace Park",
+      "short_description": "A dream come true for aspiring princesses, featuring daily meet and greets with royal characters and elaborate costume play areas.",
+      "subtype": "Fairy Tale Parks",
+      "address": "16 New Haven Avenue, New Haven, Enugu",
+      "opening_hours": "11:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1551061294-f027376c99c5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "princesses",
+        "costume play",
+        "royal experience"
+      ]
+    },
+    {
+      "id": "EN_FTP004",
+      "name": "Dragonfly Dell",
+      "short_description": "Discover a realm of mystical creatures, hidden paths, and secret gardens designed to ignite the imagination of young adventurers.",
+      "subtype": "Fairy Tale Parks",
+      "address": "25 Eleyele Street, Nike, Enugu",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1542037947-f47225102a0a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "mystical",
+        "secret gardens",
+        "adventure"
+      ]
+    },
+    {
+      "id": "EN_DP001",
+      "name": "Enugu Dino Discovery Land",
+      "short_description": "Walk among life-sized, realistic dinosaur models and learn fascinating facts about the prehistoric giants that once roamed the Earth.",
+      "subtype": "Dinosaur Parks",
+      "address": "7 Presidential Boulevard, Independence Layout, Enugu",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558963661-d7790b5a373b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dinosaur models",
+        "prehistoric",
+        "educational"
+      ]
+    },
+    {
+      "id": "EN_DP002",
+      "name": "Jurassic Juniors Park",
+      "short_description": "An exciting park featuring animatronic dinosaurs, fossil digging zones, and interactive exhibits for aspiring paleontologists.",
+      "subtype": "Dinosaur Parks",
+      "address": "12 Emene Industrial Layout, Emene, Enugu",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563467439-e4d023b3a3c9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "animatronics",
+        "fossil dig",
+        "paleontology"
+      ]
+    },
+    {
+      "id": "EN_DP003",
+      "name": "Prehistoric Play Zone",
+      "short_description": "A dinosaur-themed playground with climbing structures, slides, and educational plaques, perfect for active kids.",
+      "subtype": "Dinosaur Parks",
+      "address": "9 Obiagu Road, New Haven, Enugu",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596700868853-41e9c5b6026a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dino playground",
+        "climbing",
+        "active play"
+      ]
+    },
+    {
+      "id": "EN_DP004",
+      "name": "Raptor Roar Ranch",
+      "short_description": "Experience thrilling interactive dino encounters and view impressive fossil displays at this adventure-filled dinosaur park.",
+      "subtype": "Dinosaur Parks",
+      "address": "20 Nike Lake Resort Road, Nike, Enugu",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596700868853-41e9c5b6026a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dino encounters",
+        "fossil displays",
+        "adventure"
+      ]
+    },
+    {
+      "id": "EN_SC001",
+      "name": "Enugu WonderLab",
+      "short_description": "A hands-on science center where children can conduct experiments, build contraptions, and discover the wonders of physics and chemistry.",
+      "subtype": "Science Centers",
+      "address": "1 Okpara Avenue, Independence Layout, Enugu",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517032223831-29177f0a6d59?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "hands-on science",
+        "experiments",
+        "physics"
+      ]
+    },
+    {
+      "id": "EN_SC002",
+      "name": "Little Einsteins Lab",
+      "short_description": "Focused on introducing young children to basic principles of biology, chemistry, and engineering through playful activities.",
+      "subtype": "Science Centers",
+      "address": "14 Presidential Close, GRA, Enugu",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1532187864887-8d8ef5bf669e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "early science",
+        "biology",
+        "engineering"
+      ]
+    },
+    {
+      "id": "EN_SC003",
+      "name": "Curiosity Corner Science",
+      "short_description": "Explore space exhibits, learn about renewable energy, and interact with displays covering various scientific phenomena.",
+      "subtype": "Science Centers",
+      "address": "3 Zik Avenue, New Haven, Enugu",
+      "opening_hours": "10:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579737190119-a1b72b9a764d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "space exploration",
+        "energy science",
+        "interactive displays"
+      ]
+    },
+    {
+      "id": "EN_SC004",
+      "name": "Innovation Hub for Kids",
+      "short_description": "A cutting-edge center offering workshops in robotics, coding, and engineering challenges, inspiring future innovators.",
+      "subtype": "Science Centers",
+      "address": "8 Trans-Ekulu Flyover, Trans-Ekulu, Enugu",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1531742460613-cf584f72740a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "robotics",
+        "coding",
+        "STEM education"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Samburu County",
+    "city_id": "2440"
+  },
+  "items": [
+    {
+      "id": "SamburuFarm1",
+      "name": "Maralal Goat & Camel Dairy Farm",
+      "short_description": "Kids can learn about camel and goat farming, participate in milking sessions, and even try fresh camel milk at this educational farm.",
+      "subtype": "Farm Attractions",
+      "address": "Off Maralal-Baragoi Road, Maralal, Samburu County",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1550993539-7248c899c756?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3fHxqdW5pb3IlMjBmYXJtfGVufDB8fHx8MTcwMTkxNjExOXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animal interaction",
+        "farm life",
+        "dairy"
+      ]
+    },
+    {
+      "id": "SamburuFarm2",
+      "name": "Ndoto Organic Veggie Patch",
+      "short_description": "A hands-on experience for children to plant, water, and harvest organic vegetables, promoting sustainable farming practices.",
+      "subtype": "Farm Attractions",
+      "address": "Near Wamba Town, Samburu East, Samburu County",
+      "opening_hours": "10:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579294520977-1ef081682548?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzMHx8a2lkcyUyMGdhcmRlbmluZ3xlbnwwfHx8fDE3MDE5MTY0MDl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "gardening",
+        "organic farming",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "SamburuFarm3",
+      "name": "Samburu Beehive Discovery",
+      "short_description": "Explore the fascinating world of bees and honey production. Children can safely observe beehives and learn about their vital role in the ecosystem.",
+      "subtype": "Farm Attractions",
+      "address": "Laisamis Road, North of Maralal, Samburu County",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574929780517-74312b9a1017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyfHxoYW5lYnklMjBraWRzfGVufDB8fHx8MTcwMTkxNjExNXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "beekeeping",
+        "honey",
+        "nature education"
+      ]
+    },
+    {
+      "id": "SamburuFarm4",
+      "name": "Kipsing Community Livestock Visit",
+      "short_description": "A unique opportunity to visit a traditional Samburu boma, interact with local livestock (cattle, goats), and learn about pastoralist culture firsthand.",
+      "subtype": "Farm Attractions",
+      "address": "Kipsing Area, Samburu Central, Samburu County",
+      "opening_hours": "08:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627993416482-1e9b25139a06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw1fHxhZnJpY2FuJTIwbGl2ZXN0b2NrJTIwa2lkc3xlbnwwfHx8fDE3MDE5MTY0ODl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cultural immersion",
+        "livestock",
+        "traditional life"
+      ]
+    },
+    {
+      "id": "SamburuMuseum1",
+      "name": "Maralal Children's Cultural Center",
+      "short_description": "An interactive museum celebrating Samburu traditions, art, and daily life through play, hands-on exhibits, and storytelling.",
+      "subtype": "Children’s Museums",
+      "address": "Maralal Town Center, Samburu County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582239462829-4113cb77a16b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxNHx8Y2hpbGRyZW4lMjBtdXNldW0lMjBhZnJpY2FufGVufDB8fHx8MTcwMTkxNjcwNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "culture",
+        "history",
+        "interactive exhibits"
+      ]
+    },
+    {
+      "id": "SamburuMuseum2",
+      "name": "Ewaso Ng'iro Wildlife Explorer Museum",
+      "short_description": "Kids can discover the diverse wildlife of Samburu through engaging taxidermy exhibits, animal soundscapes, and habitat dioramas.",
+      "subtype": "Children’s Museums",
+      "address": "Near Samburu National Reserve Gate, Samburu County",
+      "opening_hours": "08:30-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547847671-5586940a6b10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyfHx3aWxkbGlmZSUyMG11c2V1bSUyMGNoaWxkcmVufGVufDB8fHx8MTcwMTkxNjcwN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "nature education"
+      ]
+    },
+    {
+      "id": "SamburuMuseum3",
+      "name": "Suguta Valley Prehistoric Kids Lab",
+      "short_description": "A hands-on center where children become junior paleontologists, unearthing 'fossils' and learning about early human history and local geology.",
+      "subtype": "Children’s Museums",
+      "address": "West of Baragoi, near Suguta Valley, Samburu North, Samburu County",
+      "opening_hours": "10:00-15:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601369766915-d910a97ef169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw0fHxqdW5pb3IlMjBhcmNoYWVvbG9naXN0fGVufDB8fHx8MTcwMTkxNjczN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "archaeology",
+        "geology",
+        "prehistory"
+      ]
+    },
+    {
+      "id": "SamburuMuseum4",
+      "name": "Samburu Storytelling & Craft House",
+      "short_description": "Children engage in traditional Samburu storytelling sessions and create their own crafts inspired by local artistry and natural materials.",
+      "subtype": "Children’s Museums",
+      "address": "Wamba Town, Samburu East, Samburu County",
+      "opening_hours": "11:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1577977462612-402f0a1739c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw0fHxhZnJpY2FuJTIwY3JhZnRzJTIwa2lkc3xlbnwwfHx8fDE3MDE5MTY4NjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "crafts",
+        "storytelling",
+        "local art"
+      ]
+    },
+    {
+      "id": "SamburuSci1",
+      "name": "Ewaso Ng'iro Eco-Science Lab",
+      "short_description": "Interactive exhibits exploring water conservation, renewable energy for arid lands, and the delicate balance of the Samburu ecosystem.",
+      "subtype": "Science Centers",
+      "address": "Near Samburu County HQ, Maralal, Samburu County",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1571477462706-e7e0e7a5d3f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxMnx8c2NpZW5jZSUyMGxhYiUyMGchdm8gY2hpbGRyZW58ZW5mY3xlbnwwfHx8fDE3MDE5MTcyMzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ecology",
+        "conservation",
+        "renewable energy"
+      ]
+    },
+    {
+      "id": "SamburuSci2",
+      "name": "Desert Life Discovery Center",
+      "short_description": "Learn about the incredible adaptations of plants and animals to desert environments through engaging displays and hands-on experiments.",
+      "subtype": "Science Centers",
+      "address": "Archer's Post Road, Southern Samburu, Samburu County",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517486804562-b91a7836ce22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzMnx8ZGVzZXJ0JTIwcGxhbnRzJTIwa2lkc3xlbnwwfHx8fDE3MDE5MTcwNDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "biology",
+        "adaptations",
+        "environment"
+      ]
+    },
+    {
+      "id": "SamburuSci3",
+      "name": "Stars & Savanna Physics Zone",
+      "short_description": "Discover basic physics concepts through fun, hands-on experiments demonstrating light, sound, and motion, inspired by the savanna landscape.",
+      "subtype": "Science Centers",
+      "address": "Maralal-Rumuruti Junction, Samburu West, Samburu County",
+      "opening_hours": "10:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542382410-a24a0d923cfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzMXx8cGh5c2ljcyUyMGV4cGVyaW1lbnQlMjBraWRzfGVufDB8fHx8MTcwMTkxNzI2MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "physics",
+        "astronomy basics",
+        "motion"
+      ]
+    },
+    {
+      "id": "SamburuSci4",
+      "name": "Local Weather Watchers Station",
+      "short_description": "Children can build simple weather instruments, track local climate patterns, and understand the impact of weather on community life.",
+      "subtype": "Science Centers",
+      "address": "Baragoi Town, Samburu North, Samburu County",
+      "opening_hours": "09:00-14:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1546736417-10c90c74a96e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzNXx8d2VhdGhlciUyMHN0YXRpb24lMjBraWRzfGVufDB8fHx8MTcwMTkxNzQxNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "meteorology",
+        "climate",
+        "observation"
+      ]
+    },
+    {
+      "id": "SamburuDino1",
+      "name": "Samburu Dino-Safari Adventure",
+      "short_description": "A themed park with life-sized dinosaur models hidden among savanna-like foliage, offering an exciting 'safari' experience to find them.",
+      "subtype": "Dinosaur Parks",
+      "address": "Outskirts of Maralal, Samburu County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1581405106263-125037d00f68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyfHxkaW5vc2F1ciUyMHBhcmt8ZW5mY3xlbnwwfHx8fDE3MDE5MTc1OTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "dinosaurs",
+        "adventure",
+        "themed park"
+      ]
+    },
+    {
+      "id": "SamburuDino2",
+      "name": "Prehistoric Riverbed Dig Site",
+      "short_description": "Children become paleontologists, digging for 'dinosaur bones' in a specially designed sandpit, complete with tools and discovery guides.",
+      "subtype": "Dinosaur Parks",
+      "address": "Near Ewaso Ng'iro River, Southern Samburu, Samburu County",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563811802909-64539656461c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzfHxkaW5vc2F1ciUyMGRpZyUyMHNpdGUlMjBraWRzfGVufDB8fHx8MTcwMTkxNzYxOHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "paleontology",
+        "dig site",
+        "interactive play"
+      ]
+    },
+    {
+      "id": "SamburuDino3",
+      "name": "Volcanic Reptile Ridge",
+      "short_description": "Explore a simulated prehistoric volcanic landscape featuring animatronic flying reptiles and early dinosaurs, linking to the region's geological past.",
+      "subtype": "Dinosaur Parks",
+      "address": "Wamba Hills, Samburu East, Samburu County",
+      "opening_hours": "10:30-15:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1557008076-7e3e78f7e716?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw1fHxhbmltYXRyb25pYyUyMGRpbm9zYXVyfGVufDB8fHx8MTcwMTkxNzY2NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animatronics",
+        "geology",
+        "prehistoric reptiles"
+      ]
+    },
+    {
+      "id": "SamburuDino4",
+      "name": "Giants of the Savanna Trail",
+      "short_description": "A captivating walking trail featuring large-scale dinosaur replicas, each with informative plaques about their species and a connection to modern wildlife.",
+      "subtype": "Dinosaur Parks",
+      "address": "West of Maralal, along the road to Lake Turkana, Samburu County",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1588691889895-c990280b2a63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3fHxhbmltYXRyb25pYyUyMGRpbm9zYXVyfGVufDB8fHx8MTcwMTkxNzY2NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "dinosaur models",
+        "walking trail",
+        "education"
+      ]
+    },
+    {
+      "id": "SamburuMagic1",
+      "name": "Maralal Mystical Mirage Show",
+      "short_description": "A captivating live show featuring traditional magic tricks, grand illusions, and plenty of audience participation, bringing wonder to children.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Maralal Community Hall, Maralal, Samburu County",
+      "opening_hours": "15:00-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1507919427244-9c98ef57df92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyfHxtYWdpYyUyMHNob3d8ZW5mY3xlbnwwfHx8fDE3MDE5MTc5MDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "magic",
+        "illusion",
+        "live performance"
+      ]
+    },
+    {
+      "id": "SamburuMagic2",
+      "name": "Desert Dust Conjurer's Tent",
+      "short_description": "An intimate and enchanting magic experience in a traditional-style tent, where close-up magic and mind-bending illusions are performed.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Wamba Cultural Grounds, Samburu East, Samburu County",
+      "opening_hours": "14:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1550993539-7248c899c756?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxMHx8Y2xvc2UlMjB1cCUyMG1hZ2ljfGVufDB8fHx8MTcwMTkxNzkwNXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "close-up magic",
+        "entertainment",
+        "curiosity"
+      ]
+    },
+    {
+      "id": "SamburuMagic3",
+      "name": "Samburu Safari Sorcery",
+      "short_description": "A unique magic show with a captivating wildlife theme, featuring tricks that seem to make animals appear and disappear, or objects transform.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Samburu National Reserve HQ Area, Samburu County",
+      "opening_hours": "16:00-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1581096738981-d00d23a19e42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxMHx8bGl2ZSUyMG1hZ2ljJTIwc2hvd3xlbnwwfHx8fDE3MDE5MTgxNjN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "themed magic",
+        "wildlife",
+        "family fun"
+      ]
+    },
+    {
+      "id": "SamburuMagic4",
+      "name": "Baragoi Bewilderment Booth",
+      "short_description": "A series of interactive magic stations where kids can learn simple tricks, solve magic puzzles, and watch short, engaging illusion acts.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Baragoi Market Square, Samburu North, Samburu County",
+      "opening_hours": "10:00-13:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1533479133649-16625893d56f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw4fHxtYWdpYyUyMHRyaWNrcyUyMGtpZHN8ZW5mY3xlbnwwfHx8fDE3MDE5MTgxNjN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "interactive magic",
+        "puzzles",
+        "learning tricks"
+      ]
+    },
+    {
+      "id": "SamburuPlanet1",
+      "name": "Samburu Starlight Observatory & Planetarium",
+      "short_description": "A digital planetarium offering immersive shows about the universe, with special emphasis on constellations visible from Samburu's clear skies.",
+      "subtype": "Planetariums for Kids",
+      "address": "Maralal Education Center, Maralal, Samburu County",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510375971485-6184a29a287c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzfHhwbGFuZXRhcml1bXxlbnwwfHx8fDE3MDE5MTg0NjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "stars",
+        "universe"
+      ]
+    },
+    {
+      "id": "SamburuPlanet2",
+      "name": "Ewaso Ng'iro Night Sky Dome",
+      "short_description": "An inflatable dome planetarium that travels to schools, providing engaging shows about planets, galaxies, and celestial navigation.",
+      "subtype": "Planetariums for Kids",
+      "address": "(Mobile Location - based at Wamba Community Center), Samburu East, Samburu County",
+      "opening_hours": "09:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1521737711867-bb4392095819?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw2fHxwbGFuZXRhcml1bSUyMGNoaWxkcmVufGVufDB8fHx8MTcwMTkxODQ2Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mobile planetarium",
+        "celestial navigation",
+        "education"
+      ]
+    },
+    {
+      "id": "SamburuPlanet3",
+      "name": "Desert Sky Storytelling & Star Gazing",
+      "short_description": "A unique outdoor experience combining traditional Samburu star lore and storytelling with guided telescope observations of the pristine night sky.",
+      "subtype": "Planetariums for Kids",
+      "address": "Ol Doinyo Lengai Viewpoint, Samburu West, Samburu County",
+      "opening_hours": "18:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1530664985651-76679b398516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzfHxzdGFyJTIwZ2F6aW5nJTIwa2lkc3xlbnwwfHx8fDE3MDE5MTg2MzV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "stargazing",
+        "cultural astronomy",
+        "telescope"
+      ]
+    },
+    {
+      "id": "SamburuPlanet4",
+      "name": "Milky Way Mini Lab",
+      "short_description": "A small, interactive exhibit space where children can explore models of planets, experiment with light and shadows, and understand gravity.",
+      "subtype": "Planetariums for Kids",
+      "address": "Archer's Post Youth Center, Samburu County",
+      "opening_hours": "10:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1520664086915-d41c1f72733d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxNXx8c3BhY2UlMjBleGhpYml0JTIwY2hpbGRyZW58ZW5mY3xlbnwwfHx8fDE3MDE5MTg2MzV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "solar system",
+        "space science",
+        "gravity"
+      ]
+    },
+    {
+      "id": "SamburuZoo1",
+      "name": "Samburu Wildlife Rescue & Petting Zoo",
+      "short_description": "A sanctuary for rescued local wildlife, with a dedicated petting area for friendly domestic animals like goats and donkeys.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Off Maralal-Wamba Road, Samburu Central, Samburu County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1551061803-a3d8b2d4b9c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw1fHxwZXR0aW5nJTIwem9vJTIwZ29hdHN8ZW5mY3xlbnwwfHx8fDE3MDE5MTg3MjR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wildlife rescue",
+        "petting zoo",
+        "animal welfare"
+      ]
+    },
+    {
+      "id": "SamburuZoo2",
+      "name": "Baby Bush Friends Nursery",
+      "short_description": "A special area focused on orphaned or young native animals, offering children a chance to learn about their care and conservation.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Adjacent to Samburu National Reserve, near West Gate, Samburu County",
+      "opening_hours": "08:30-16:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1556910600-f9f3c5b8b93b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3fHxiYWJ5JTIwYW5pbWFscyUyMGtpZHN8ZW5mY3xlbnwwfHx8fDE3MDE5MTg3OTR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "orphan animals",
+        "conservation",
+        "animal care"
+      ]
+    },
+    {
+      "id": "SamburuZoo3",
+      "name": "Local Livestock Learning Center",
+      "short_description": "An educational center where children can interact with various local farm animals, understanding their role in Samburu culture and economy.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Wamba Agricultural Showgrounds, Samburu East, Samburu County",
+      "opening_hours": "10:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1547847671-5586940a6b10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxOXx8ZmFybSUyMGFuaW1hbHMlMjBraWRzfGVufDB8fHx8MTcwMTkxODc5NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "farm animals",
+        "cultural education",
+        "domestic animals"
+      ]
+    },
+    {
+      "id": "SamburuZoo4",
+      "name": "Reptile & Amphibian Haven",
+      "short_description": "A safe and educational exhibit showcasing local snakes, lizards, tortoises, and amphibians, dispelling myths and promoting understanding.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Maralal Nature Park, Maralal, Samburu County",
+      "opening_hours": "09:30-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1580918737233-a3c31b31a31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw1fHxyZXB0aWxlJTIwZXhoaWJpdHxlbnwwfHx8fDE3MDE5MTg5Nzh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "reptiles",
+        "amphibians",
+        "biodiversity"
+      ]
+    },
+    {
+      "id": "SamburuStory1",
+      "name": "Legend of the Sacred Mountain Park",
+      "short_description": "A park designed around Samburu myths and legends, featuring sculptures and interactive installations that narrate ancient tales.",
+      "subtype": "Storytelling Parks",
+      "address": "Foot of Mt. Warges, near Wamba, Samburu East, Samburu County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1558774780-e34320e6f6ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzfHxzdG9yeXRlbGxpbmclMjBwYXJrJTIwY2hpbGRyZW58ZW5mY3xlbnwwfHx8fDE3MDE5MTkwNDZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "folklore",
+        "myths",
+        "cultural stories"
+      ]
+    },
+    {
+      "id": "SamburuStory2",
+      "name": "Ewaso Ng'iro Animal Tales Trail",
+      "short_description": "A walking trail with stations where children can listen to recordings of animal fables and participate in themed games along the river.",
+      "subtype": "Storytelling Parks",
+      "address": "Along Ewaso Ng'iro River banks, Southern Samburu, Samburu County",
+      "opening_hours": "08:00-16:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1507204996963-30b146a6f4e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw0fHxuYXR1cmUlMjBzdG9yeXRlbGxpbmclMjBraWRzfGVufDB8fHx8MTcwMTkxOTE3NXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animal fables",
+        "nature stories",
+        "walking trail"
+      ]
+    },
+    {
+      "id": "SamburuStory3",
+      "name": "Maralal Elders' Wisdom Garden",
+      "short_description": "A tranquil garden where local elders share traditional stories, proverbs, and songs under shaded trees, preserving oral heritage.",
+      "subtype": "Storytelling Parks",
+      "address": "Maralal Public Library Grounds, Maralal, Samburu County",
+      "opening_hours": "10:00-14:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1524316982438-e6d15668e16d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw2fHxlbGRlcnMlMjBzdG9yeXRlbGxpbmclMjBhZnJpY2FufGVufDB8fHx8MTcwMTkxOTE3NXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "oral tradition",
+        "proverbs",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "SamburuStory4",
+      "name": "Stars & Ancestors Story Circle",
+      "short_description": "An open-air storytelling circle, especially magical at sunset, focusing on Samburu creation stories and celestial myths under the vast sky.",
+      "subtype": "Storytelling Parks",
+      "address": "Baragoi Cultural Boma, Samburu North, Samburu County",
+      "opening_hours": "17:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1531233076111-e40d853b0e3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw2fHxjYW1wZmlyZSUyMHN0b3J5dGVsbGluZ3xlbnwwfHx8fDE3MDE5MTk0MzR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "creation myths",
+        "star lore",
+        "community gathering"
+      ]
+    },
+    {
+      "id": "SamburuTheme1",
+      "name": "Samburu Savanna Adventure Park",
+      "short_description": "A mini-theme park with animal-themed rides, a small train, and a water play area designed to mimic a savanna oasis.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Maralal Town, Samburu County",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1572914841961-8b2b73715e21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzfHxraWRzJTIwdGhlbWUlMjBwYXJrJTIwcmVkfGVufDB8fHx8MTcwMTkxOTQ4N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "rides",
+        "water play",
+        "animal theme"
+      ]
+    },
+    {
+      "id": "SamburuTheme2",
+      "name": "Warrior's Training Ground Funland",
+      "short_description": "An active play park with obstacle courses, climbing structures, and mock spear-throwing games, inspired by Samburu warrior traditions.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Wamba Youth Sports Complex, Samburu East, Samburu County",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1574768340316-2a62824e86a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxMnx8a2lkcyUyMG9ic3RhY2xlJTIwY291cnNlfGVufDB8fHx8MTcwMTkxOTU2M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "obstacle course",
+        "active play",
+        "cultural games"
+      ]
+    },
+    {
+      "id": "SamburuTheme3",
+      "name": "River Journey Splash Park",
+      "short_description": "A small water park with slides, splash pads, and water cannons, offering a refreshing escape from the heat, themed around the Ewaso Ng'iro River.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Archer's Post Riverside Park, Southern Samburu, Samburu County",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549493593-9c8699741e41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw0OXx8c3BsYXNoJTIwcGFkcyUyMGtpZHN8ZW5mY3xlbnwwfHx8fDE3MDE5MTk2Nzh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water park",
+        "slides",
+        "summer fun"
+      ]
+    },
+    {
+      "id": "SamburuTheme4",
+      "name": "Bush Craft Kids Zone",
+      "short_description": "A theme area focused on outdoor survival skills for kids, including safe fire-starting, shelter building, and tracking games.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Near Maralal Game Sanctuary, Samburu County",
+      "opening_hours": "09:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1576487192135-26a97871b650?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8YnVzaGNyYWZ0JTIwa2lkc3xlbnwwfHx8fDE3MDE5MTk3Mjl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "outdoor skills",
+        "survival games",
+        "nature play"
+      ]
+    },
+    {
+      "id": "SamburuIndoor1",
+      "name": "Maralal Mega Play Planet",
+      "short_description": "A large indoor play center with multi-level climbing frames, slides, ball pits, and soft play areas for various age groups.",
+      "subtype": "Indoor Play Centers",
+      "address": "Maralal Mall, Maralal, Samburu County",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547847671-5586940a6b10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3fHxpbmRvb3IlMjBwbGF5Z3JvdW5kfGVufDB8fHx8MTcwMTkxOTg0MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "soft play",
+        "climbing",
+        "ball pit"
+      ]
+    },
+    {
+      "id": "SamburuIndoor2",
+      "name": "Samburu Bounce House Bonanza",
+      "short_description": "An indoor facility filled with inflatable bouncy castles, obstacle courses, and slides, perfect for energetic kids to jump and play.",
+      "subtype": "Indoor Play Centers",
+      "address": "Wamba Community Hall, Samburu East, Samburu County",
+      "opening_hours": "11:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582239462829-4113cb77a16b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMnx8aW5kb29yJTIwYm91bmN5JTIwY2FzdGxlfGVufDB8fHx8MTcwMTkxOTg0MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "bouncy castles",
+        "inflatables",
+        "active play"
+      ]
+    },
+    {
+      "id": "SamburuIndoor3",
+      "name": "Creative Craft Corner & Games Den",
+      "short_description": "A quiet indoor space for creative arts and crafts, board games, and puzzles, offering a calm and stimulating alternative to active play.",
+      "subtype": "Indoor Play Centers",
+      "address": "Baragoi Youth & Culture Center, Samburu North, Samburu County",
+      "opening_hours": "09:00-16:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1577977462612-402f0a1739c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw1fHxjcmFmdCUyMHdvcmtzaG9wJTIwa2lkc3xlbnwwfHx8fDE3MDE5MTk5MjR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "arts & crafts",
+        "board games",
+        "creative play"
+      ]
+    },
+    {
+      "id": "SamburuIndoor4",
+      "name": "Little Explorers Soft Play Village",
+      "short_description": "A dedicated soft play area for toddlers and younger children, featuring safe, padded structures, mini slides, and sensory play elements.",
+      "subtype": "Indoor Play Centers",
+      "address": "Archer's Post Family Centre, Samburu County",
+      "opening_hours": "10:30-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510375971485-6184a29a287c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3fHxpbmRvJTIwc29mdCUyMHBsYXl8ZW5mY3xlbnwwfHx8fDE3MDE5MTk5MjR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "toddler play",
+        "sensory play",
+        "safe play"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Nanyuki",
+    "city_id": "2439"
+  },
+  "items": [
+    {
+      "id": "EquatorLineNanyuki",
+      "name": "Nanyuki Equator Crossing Point",
+      "short_description": "Stand with one foot in the Northern Hemisphere and one in the Southern! This iconic marker offers a unique photo opportunity at the world's waistline.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Nanyuki-Meru Highway, just north of Nanyuki town",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Nanyuki_equator_sign.jpg",
+      "tags": [
+        "equator",
+        "uniquephoto",
+        "naturalwonder"
+      ]
+    },
+    {
+      "id": "BarneysFairmontNanyuki",
+      "name": "Barney's Bar & Restaurant at Fairmont Mt Kenya Safari Club",
+      "short_description": "Indulge in exquisite cuisine with stunning views of Mount Kenya. This iconic spot offers a blend of local flavors and international dishes in a sophisticated setting.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Fairmont Mount Kenya Safari Club",
+      "best_time": "Afternoon / Sunset",
+      "images": "https://images.unsplash.com/photo-1628122396349-43c224f2b96e?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fine dining",
+        "mountkenya",
+        "luxury"
+      ]
+    },
+    {
+      "id": "NanyukiMarket",
+      "name": "Nanyuki Open Air Market",
+      "short_description": "Dive into the vibrant chaos of Nanyuki's bustling local market. Discover fresh produce, unique crafts, and experience the authentic pulse of everyday life.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Nanyuki Town Center, near the main bus station",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1594967396112-c2e3678096c4?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "localmarket",
+        "culture",
+        "shopping"
+      ]
+    },
+    {
+      "id": "NanyukiRailway",
+      "name": "Nanyuki Railway Station (Old)",
+      "short_description": "Step back in time at this historic railway station, a remnant of colonial-era Kenya's transport network. Its classic architecture offers a glimpse into Nanyuki's past.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Southern end of Nanyuki town, near the railway line",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Nanyuki_railway_station.jpg",
+      "tags": [
+        "history",
+        "colonial",
+        "architecture"
+      ]
+    }
+  ]
+}

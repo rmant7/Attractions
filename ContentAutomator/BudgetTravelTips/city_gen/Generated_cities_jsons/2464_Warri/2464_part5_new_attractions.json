@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Warri",
+    "city_id": "2464"
+  },
+  "items": [
+    {
+      "id": "WGCEH001",
+      "name": "Warri Grand Cinema & Entertainment Hub",
+      "short_description": "Warri's premier state-of-the-art cinema complex featuring multiple screens, an arcade, and diverse food courts, perfect for family outings and movie lovers.",
+      "address": "Effurun-Sapele Rd, By Airport Junction, Warri, Delta State.",
+      "opening_hours": "10:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574354299932-d85c49b6d6f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzMjB8MHwxfHNlYXJjaHwxfHwzZCUyMGNpbmVtYSUyMHJvb218ZW58MHx8fHwxNzA2OTc4NjUzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cinema",
+        "entertainment",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": "DITH002",
+      "name": "Delta Innovation & Tech Hub",
+      "short_description": "A vibrant co-working and event space fostering technological growth and entrepreneurship in Warri, offering workshops, networking opportunities, and incubation programs for young innovators.",
+      "address": "PTI Rd, Effurun, Warri, Delta State.",
+      "opening_hours": "08:00-20:00 (Mon-Sat)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1542831838-8e682664556b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzMjB8MHwxfHNlYXJjaHwxfHxjoworking%20space%20interior%7C-MjQzMjB8MHwxfHNlYXJjaHwxfHxjoworking%20space%20interiorfDcwNjk3ODg3OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "tech",
+        "innovation",
+        "community"
+      ]
+    },
+    {
+      "id": "OCFMB003",
+      "name": "Oil City Food Market & Bistro",
+      "short_description": "A culinary destination offering a diverse array of local and international dishes, fresh produce, and gourmet treats within a chic, vibrant market setting.",
+      "address": "NPA Rd, Warri, Delta State.",
+      "opening_hours": "11:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1528698144709-64c9d714b29c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzMjB8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBmb29kJTIwaGFsbHxlbnwwfHx8fHwxNzA2OTc5MDQ4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "food",
+        "market",
+        "dining"
+      ]
+    },
+    {
+      "id": "WWP004",
+      "name": "Warri Waterfront Promenade",
+      "short_description": "Enjoy scenic views of the Warri River on this beautifully developed promenade, perfect for evening strolls, jogging, and relaxation with family and friends.",
+      "address": "Along Warri River, Near Miller Waterside, Warri, Delta State.",
+      "opening_hours": "06:00-22:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1620611082103-61a7a221f008?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzMjB8MHwxfHNlYXJjaHwxfHxyZXFyd2F0ZXJmcm9udCUyMHBhcmt8ZW58MHx8fHwxNzA2OTc5MTk3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "outdoors",
+        "scenic",
+        "recreation"
+      ]
+    },
+    {
+      "id": "DJMG005",
+      "name": "Delta Jungle Mini-Golf",
+      "short_description": "Putt your way through a fun, jungle-themed 18-hole mini-golf course, an exciting challenge for all ages and perfect for family fun or a friendly competition.",
+      "address": "Airport Rd, Off Jakpa Rd, Warri, Delta State.",
+      "opening_hours": "12:00-20:00 (Tue-Sun)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1524357778909-cf802b115664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzMjB8MHwxfHNlYXJjaHwxfHxtaW5pJTIwZ29sZiUyMGNvdXJzZXxlbnwwfHx8fHwxNzA2OTc5Mzc3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mini-golf",
+        "family-fun",
+        "recreation"
+      ]
+    },
+    {
+      "id": "ACHW006",
+      "name": "Art & Culture Hub Warri",
+      "short_description": "A dynamic space showcasing the vibrant contemporary art scene of Delta State and Nigeria, hosting exhibitions, workshops, and cultural events.",
+      "address": "Deco Rd, GRA, Warri, Delta State.",
+      "opening_hours": "10:00-17:00 (Mon-Fri)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1563721345941-e9411936c7a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzMjB8MHwxfHNlYXJjaHwxfHxhcnQlMjBnYWxsZXJ5JTIwaW50ZXJpb3J8ZW58MHx8fHwxNzA2OTc5NDk2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "art",
+        "culture",
+        "gallery"
+      ]
+    },
+    {
+      "id": "ASWP007",
+      "name": "Aqua Splash Water Park",
+      "short_description": "Beat the Warri heat at the city's newest water park featuring thrilling slides, interactive splash pads, and a relaxing lazy river, offering refreshing fun for all ages.",
+      "address": "Along Enerhen Rd, Warri, Delta State.",
+      "opening_hours": "10:00-18:00 (Thu-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1561726715-46ae668102d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzMjB8MHwxfHNlYXJjaHwxfHxzcGxhc2glMjBwYWR8ZW58MHx8fHwxNzA2OTc5NjY3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water park",
+        "kids-friendly",
+        "fun"
+      ]
+    },
+    {
+      "id": "TLGL008",
+      "name": "The Loft Gaming Lounge",
+      "short_description": "Dive into the ultimate gaming experience with the latest consoles, high-end PCs, and comfortable setups, perfect for competitive play or casual fun with friends.",
+      "address": "Okumagba Ave, Warri, Delta State.",
+      "opening_hours": "11:00-23:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1588694084224-dd94e7737e40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzMjB8MHwxfHNlYXJjaHwxfHxnYW1pbmclMjBsYWluZ2V8ZW58MHx8fHwxNzA2OTc5ODU5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "gaming",
+        "entertainment",
+        "youth"
+      ]
+    },
+    {
+      "id": "WEBG009",
+      "name": "Warri Eco-Park & Botanical Garden",
+      "short_description": "A serene urban oasis dedicated to preserving local biodiversity, offering walking trails, picnic spots, and educational exhibits on Delta's natural heritage.",
+      "address": "Ugbomro Rd, Warri, Delta State.",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1522276498395-6a9789338ed4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzMjB8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBwYXJrJTIwbGFuZHNjYXBlfGVufDB8fHx8fDE3MDY5Nzk5NzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature",
+        "park",
+        "outdoors"
+      ]
+    },
+    {
+      "id": "SRGP010",
+      "name": "Spice Route Gastropub",
+      "short_description": "Experience a unique blend of Nigerian and international flavors in a stylish, vibrant setting, featuring innovative dishes and a selection of local and craft beverages for a sophisticated night out.",
+      "address": "Deco Rd, GRA Extension, Warri, Delta State.",
+      "opening_hours": "17:00-00:00 (Tue-Sun)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1552566626-52f84b6f6345?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzMjB8MHwxfHNlYXJjaHwxfHxnYXN0cm9wdWIlMjBpbnRlcmlvcnxlbnwwfHx8fHwxNzA2OTgwMTE4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "gastropub",
+        "dining",
+        "nightlife"
+      ]
+    }
+  ]
+}

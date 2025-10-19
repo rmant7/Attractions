@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Atar",
+    "city_id": "2419"
+  },
+  "items": [
+    {
+      "id": "AtarMRF001",
+      "name": "The Silent Sentinels of Aeridor",
+      "short_description": "A striking formation of ancient, wind-carved monoliths, believed to be petrified guardians watching over the Ataran plains since the dawn of time. Pilgrims whisper prayers to them for protection and guidance.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Aeridor Plains, West Atar Province",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1542152341-ce8361ad2198?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxkZXNlcnQlMjByb2NrJTIwZm9ybWF0aW9uc3xlbnwwfHx8fDE3MDcxMjY2Mzl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "natural wonder",
+        "pilgrimage",
+        "ancient"
+      ]
+    },
+    {
+      "id": "AtarMRF002",
+      "name": "Echoing Canyon Pillars",
+      "short_description": "Towering natural rock pillars within a deep canyon known for their ethereal echoes. Local legends say the echoes are the voices of ancestral spirits, offering wisdom to those who listen intently.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Veridian Canyon, Atar Highlands",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "10 Atar Credits",
+      "images": "https://images.unsplash.com/photo-1527631310156-34ac135a510a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwyfHxjYW55b24lMjByb2NrJTIwcGlsbGFyc3xlbnwwfHx8fDE3MDcxMjY2NDl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "spiritual acoustics",
+        "ancestral worship",
+        "geological"
+      ]
+    },
+    {
+      "id": "AtarMRF003",
+      "name": "The Petrified Gods of Xylos",
+      "short_description": "A series of massive, weathered rock formations believed to be ancient deities turned to stone, cursed or blessed by a higher power. It is a site of deep veneration, particularly during droughts.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Xylos Desert, Eastern Atar",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1616421312384-cd253c07679a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwyfHxkZXNlcnQlMjByb2NrJTIwZm9ybWF0aW9uc3xlbnwwfHx8fDE3MDcxMjY2Mzl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "deity worship",
+        "mythology",
+        "veneration"
+      ]
+    },
+    {
+      "id": "AtarMRF004",
+      "name": "Whisperwind Spire",
+      "short_description": "A singular, elegant rock spire rising dramatically from the plains, shaped by millennia of wind. It is said that the wind carries ancient prophecies and blessings from its apex.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Gale Fields, Northern Atar",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579803274291-a186b51c142d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwzfHxyb2NrJTIwc3BpcmV8ZW58MHx8fHwxNzA3MTI2NzI0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "prophecy",
+        "wind spirits",
+        "solitude"
+      ]
+    },
+    {
+      "id": "AtarRST001",
+      "name": "The Grand Sarcophagus of Emperor Valerius",
+      "short_description": "The monumental tomb of Atar's first unifying emperor, a sprawling underground complex guarded by intricate wards and believed to hold relics of immense spiritual power. It is a place of profound historical reverence.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Beneath Atar City Plaza, Capitol District",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "25 Atar Credits",
+      "images": "https://images.unsplash.com/photo-1599818817730-a92c3951fcfd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwdG9tYnxlbnwwfHx8fDE3MDcxMjY3NTh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "imperial history",
+        "relics",
+        "funerary"
+      ]
+    },
+    {
+      "id": "AtarRST002",
+      "name": "Shrine of the Celestial Tear",
+      "short_description": "A secluded shrine housing a crystal shard, rumored to be a tear shed by a celestial being. It is sought by those seeking emotional healing and spiritual clarity.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Hidden Valley, Atar Foothills",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1577717903178-e5f8cfb7e6c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwyfHxhbmNpZW50JTIwc2hyaW5lfGVufDB8fHx8MTcwNzEyNzg3Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "healing",
+        "celestial",
+        "meditation"
+      ]
+    },
+    {
+      "id": "AtarRST003",
+      "name": "The Crypt of Whispers",
+      "short_description": "An ancient, subterranean necropolis where the first families of Atar are interred. Visitors often report hearing faint whispers, believed to be the advice of ancestors offering guidance from beyond.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Underneath Old Atar District, Atar City",
+      "visiting_hours": "09:30-16:30",
+      "entry_fee": "18 Atar Credits",
+      "images": "https://images.unsplash.com/photo-1619890123547-0d32f41855a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwY3J5cHR8ZW58MHx8fDE3MDcxMjY3ODl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral reverence",
+        "necromancy",
+        "history"
+      ]
+    },
+    {
+      "id": "AtarRST004",
+      "name": "Sepulchre of the Star-Queen Lyra",
+      "short_description": "A majestically adorned tomb of a legendary queen who supposedly communed with the stars. Her sarcophagus is aligned with a celestial constellation, visited by astrologers and seekers of cosmic wisdom.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Starfall Crags, Northern Atar",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "20 Atar Credits",
+      "images": "https://images.unsplash.com/photo-1629856555239-f9c159238356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwZXF5cHRpYW4lMjB0b21ifGVufDB8fHx8MTcwNzEyNzkxOXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "royalty",
+        "astrology",
+        "cosmic wisdom"
+      ]
+    },
+    {
+      "id": "AtarVZ001",
+      "name": "The Smoking Maw of Ignis",
+      "short_description": "A perpetually fuming volcanic vent, revered as the breathing mouth of the fire deity, Ignis. Offerings are made here to appease the deity and ensure the fertility of the Ataran lands.",
+      "subtype": "Volcanic Zones",
+      "address": "Mount Ignis, Central Atar Volcanic Belt",
+      "visiting_hours": "07:00-15:00 (weather dependent)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1620953942004-954f9a3979ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHx2b2xjYW5pYyUyMHZlbnR8ZW58MHx8fHwxNzA3MTI4MjQ1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fire deity",
+        "fertility",
+        "offerings"
+      ]
+    },
+    {
+      "id": "AtarVZ002",
+      "name": "Obsidian Heart Caverns",
+      "short_description": "A labyrinthine network of caves formed by ancient lava flows, rich in glistening obsidian. Shamans gather the 'heartstones' here for scrying and protection rituals, believing they hold the earth's raw power.",
+      "subtype": "Volcanic Zones",
+      "address": "Beneath Volkar Ridge, Southern Atar",
+      "visiting_hours": "09:00-16:00 (guided tours only)",
+      "entry_fee": "30 Atar Credits",
+      "images": "https://images.unsplash.com/photo-1549488340-9a4f6d4d1246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhYnNpZGlhbiUyMGNhdmVzJTIwZ3JvdHRvfGVufDB8fHx8MTcwNzEyODI1MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "shamanism",
+        "earth power",
+        "rituals"
+      ]
+    },
+    {
+      "id": "AtarVZ003",
+      "name": "Peak of Embers Pilgrimage",
+      "short_description": "The sacred slopes of a dormant volcano, where annual pilgrimages culminate in dawn rituals. It is believed that walking its path purifies the soul and grants strength.",
+      "subtype": "Volcanic Zones",
+      "address": "Mount Aerthos, Atar Volcanic Range",
+      "visiting_hours": "24/7 (peak pilgrimage season recommended)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517596541571-c0353be57388?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwyfHxkYXdulaNudm9sY2Fub3xlbnwwfHx8fDE3MDcxMjgyNjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "pilgrimage",
+        "purification",
+        "resilience"
+      ]
+    },
+    {
+      "id": "AtarVZ004",
+      "name": "The Geyser of Purification",
+      "short_description": "A powerful geyser erupting from ancient volcanic fissures, its steaming waters are believed to cleanse ailments and bless those who bathe near its mist. A revered site for healing.",
+      "subtype": "Volcanic Zones",
+      "address": "Geothermal Valley, Western Atar",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1616886477174-8d451b0b5e73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxnZXlzZXJ8ZW58MHx8fHwxNzA3MTI4MjcwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "healing waters",
+        "cleansing",
+        "geothermal"
+      ]
+    },
+    {
+      "id": "AtarCAS001",
+      "name": "The Atar Observatory Ruins",
+      "short_description": "The crumbling remains of an ancient observatory, its stone instruments once meticulously tracked celestial movements. It's said the spirits of ancient astronomers still linger, revealing cosmic secrets to patient observers.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Stargazer's Plateau, Central Atar",
+      "visiting_hours": "24/7 (best at night)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596700874591-1c390234a42b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwb2JzZXJ2YXRvcnl8ZW58MHx8fHwxNzA3MTI4NTAwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "cosmic wisdom",
+        "ancient ruins"
+      ]
+    },
+    {
+      "id": "AtarCAS002",
+      "name": "The Equinox Stone Circle",
+      "short_description": "A ring of colossal standing stones perfectly aligned with the sunrises of the vernal and autumnal equinoxes. Rituals performed here are believed to bring balance and harmony.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Sunken Meadows, Atar River Valley",
+      "visiting_hours": "06:00-20:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1520677154246-817a021ed675?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxzZ3VpZGxpY2F0b3IlMjBzdG9uZSUyMGNpcmNsZXxlbnwwfHx8fDE3MDcxMjg1NjV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "equinox",
+        "balance",
+        "stone circle"
+      ]
+    },
+    {
+      "id": "AtarCAS003",
+      "name": "Lunar Zenith Plateau",
+      "short_description": "A high, windswept plateau where ancient lunar calendars were etched into the bedrock. It is a favored site for moon-phase rituals and seeking prophetic dreams under a full moon.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Silvermoon Peaks, Northern Atar",
+      "visiting_hours": "24/7 (clear nights recommended)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582260667087-0b135312384c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxtb29uJTIwcml0dWFscyUyMHBsYXRlYXV8ZW58MHx8fHwxNzA3MTI4NTk1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lunar rituals",
+        "prophecy",
+        "astral"
+      ]
+    },
+    {
+      "id": "AtarCAS004",
+      "name": "Solstice Sundial Peaks",
+      "short_description": "Two prominent mountain peaks that, when viewed from a specific ancient altar, perfectly frame the setting sun during the summer and winter solstices. A powerful site for renewal and reflection.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Twin Sentinel Mountains, Eastern Atar",
+      "visiting_hours": "05:00-21:00 (solstice events draw crowds)",
+      "entry_fee": "12 Atar Credits",
+      "images": "https://images.unsplash.com/photo-1628174780521-cf7b973c66f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxzYWNyZWQlMjBtZXRhemVyc3xlbnwwfHx8fDE3MDcxMjg2Njd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "solstice",
+        "renewal",
+        "nature worship"
+      ]
+    },
+    {
+      "id": "AtarHSW001",
+      "name": "The Well of Aethel",
+      "short_description": "An ancient, deep well whose waters are renowned for their miraculous healing properties, especially for ailments of the spirit. Pilgrims travel vast distances to drink and bathe here.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Aethel Sanctuary, Verdant Valley",
+      "visiting_hours": "06:00-20:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1627964039327-1422ee513cf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwd2VsbHxlbnwwfHx8fDE3MDcxMjg5Nzh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "healing",
+        "miraculous",
+        "pilgrimage"
+      ]
+    },
+    {
+      "id": "AtarHSW002",
+      "name": "Spring of Whispers",
+      "short_description": "A tranquil spring where the gently bubbling waters are said to carry the wisdom of the earth. Meditators come here seeking clarity and answers to profound questions.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Secluded Glade, Whisperwood Forest",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549488340-9a4f6d4d1246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxzcHJpbmclMjBzYWNyZWR8ZW58MHx8fHwxNzA3MTI5MDAyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wisdom",
+        "meditation",
+        "nature"
+      ]
+    },
+    {
+      "id": "AtarHSW003",
+      "name": "The Emerald Pool of Reflection",
+      "short_description": "A naturally occurring, remarkably clear pool fed by an underground spring, known for its reflective surface. Seers and prophets historically used its waters for scrying and prophetic visions.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Crystal Caves, Eastern Highlands",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "15 Atar Credits",
+      "images": "https://images.unsplash.com/photo-1516091217351-46ddc738efdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxlbWVyYWxkJTIwcG9vbHxlbnwwfHx8fDE3MDcxMjkwMjh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "divination",
+        "prophecy",
+        "scrying"
+      ]
+    },
+    {
+      "id": "AtarHSW004",
+      "name": "Fountain of Eldoria",
+      "short_description": "An ancient, ornate fountain built over a spring said to be the source of life for the first Ataran civilization. It symbolizes eternal renewal and is often visited by those seeking blessings for new beginnings.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Eldoria Ruins, Old Atar City",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "10 Atar Credits",
+      "images": "https://images.unsplash.com/photo-1596700874591-1c390234a42b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwZnJvbnRhaW4lMjBydWluZHN8ZW58MHx8fDE3MDcxMjkwNjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "renewal",
+        "life source",
+        "blessings"
+      ]
+    },
+    {
+      "id": "AtarMS001",
+      "name": "The Sunstone Circle of Morwen",
+      "short_description": "A magnificent array of massive standing stones, precisely arranged to capture the first rays of the rising sun on specific holy days. It's a gathering place for sun worship and seasonal festivals.",
+      "subtype": "Megalithic Sites",
+      "address": "Morwen Plains, Eastern Atar",
+      "visiting_hours": "05:00-20:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1520677154246-817a021ed675?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHN0b25lJTIwY2lyY2xlJTIwc3VucmlzZXxlbnwwfHx8fDE3MDcxMjkzMjZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sun worship",
+        "festivals",
+        "ancient architecture"
+      ]
+    },
+    {
+      "id": "AtarMS002",
+      "name": "Dolmen of the Ancestors",
+      "short_description": "A massive capstone resting on upright stones, forming an ancient burial chamber. It is revered as a gateway to the ancestral realm, where offerings are left for departed loved ones.",
+      "subtype": "Megalithic Sites",
+      "address": "Whispering Hills, Southern Atar",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628174780521-cf7b973c66f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfG1lZ2FsaXRoaWMlMjBkb2xtZW58ZW58MHx8fHwxNzA3MTI5MzQyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "burial site",
+        "ancestor veneration",
+        "portal"
+      ]
+    },
+    {
+      "id": "AtarMS003",
+      "name": "The Great Stone Arch of Kael",
+      "short_description": "A monumental, naturally formed stone arch enhanced by ancient carvings and smaller megaliths. It serves as a sacred gateway for rituals of passage and blessings for travelers.",
+      "subtype": "Megalithic Sites",
+      "address": "Kael Pass, Atar Mountain Range",
+      "visiting_hours": "24/7",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1542152341-ce8361ad2198?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHN0b25lJTIwYXJjaHxlbnwwfHx8fDE3MDcxMjkzODR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "gateway",
+        "rites of passage",
+        "traveler's blessing"
+      ]
+    },
+    {
+      "id": "AtarMS004",
+      "name": "Alignment Walls of Vorlag",
+      "short_description": "Extensive, ancient stone walls stretching across the landscape, built with unknown precision by a forgotten civilization. Their purpose is still debated, but many believe they channel spiritual energy across the land.",
+      "subtype": "Megalithic Sites",
+      "address": "Vorlag Badlands, Western Atar",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627964039327-1422ee513cf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwcnVpbnMlMjB3YWxsc3xlbnwwfHx8fDE3MDcxMjk0MjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lost civilization",
+        "energy lines",
+        "mystery"
+      ]
+    },
+    {
+      "id": "AtarSM001",
+      "name": "Mount Cinderia: The Pilgrim's Ascent",
+      "short_description": "A majestic, dormant volcano revered as the resting place of ancient elemental spirits. The arduous climb to its summit is a profound pilgrimage, symbolizing spiritual purification and rebirth.",
+      "subtype": "Sacred Mountains",
+      "address": "Cinderia Range, Central Atar",
+      "visiting_hours": "24/7 (summit access restricted in winter)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1517596541571-c0353be57388?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxzYWNyZWQlMjBtb3VudGFpbiUyMHBpbGdyZW1hZ2V8ZW58MHx8fHwxNzA3MTI5NjA5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "pilgrimage",
+        "elemental spirits",
+        "rebirth"
+      ]
+    },
+    {
+      "id": "AtarSM002",
+      "name": "The Peaks of Eternal Vigil",
+      "short_description": "Twin jagged peaks said to be the vigilant eyes of the sky deities, overlooking Atar. Warriors and leaders traditionally climb them to seek wisdom and blessings for their people.",
+      "subtype": "Sacred Mountains",
+      "address": "Guardian Mountains, Northern Atar",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "fixed amount (10 Atar Credits for trail access)",
+      "images": "https://images.unsplash.com/photo-1502444330042-272710385960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwdHdpbiUyMHBlYWtzfGVufDB8fHx8MTcwNzEyOTY3MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sky deities",
+        "leadership",
+        "wisdom seeking"
+      ]
+    },
+    {
+      "id": "AtarSM003",
+      "name": "Whispering Ascent of Mount Aeliana",
+      "short_description": "A winding, ancient trail leading to a hidden sanctuary near the summit of Mount Aeliana. The wind through the pines is said to carry ancestral whispers, guiding those with open hearts.",
+      "subtype": "Sacred Mountains",
+      "address": "Mount Aeliana, Eastern Highlands",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549488340-9a4f6d4d1246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGZvcmVzdCUyMG1vdW50YWluJTIwdHJhaWx8ZW58MHx8fHwxNzA3MTI5NzI0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral guidance",
+        "solitude",
+        "nature trail"
+      ]
+    },
+    {
+      "id": "AtarSM004",
+      "name": "Cloud-Caller's Mount",
+      "short_description": "The highest peak in Atar, where ancient shamans would ascend to commune with weather spirits and bring rain to the plains. Its summit is still considered a nexus of elemental power.",
+      "subtype": "Sacred Mountains",
+      "address": "Skyreach Range, Far Northern Atar",
+      "visiting_hours": "Sunrise-Sunset (seasonal access)",
+      "entry_fee": "20 Atar Credits (for guided expedition)",
+      "images": "https://images.unsplash.com/photo-1490260400970-0ef402328766?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHBoaWxzJTIwd3lwc3RvbmdlbiUyMG9yY2xlJTIwc2l0ZXN8ZW58MHx8fHwxNzA3MTI5NzQ5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "shamanism",
+        "weather magic",
+        "elemental power"
+      ]
+    },
+    {
+      "id": "AtarOS001",
+      "name": "The Oracle of the Veiled Mist",
+      "short_description": "Hidden within a perpetually mist-shrouded cavern, the Oracle of the Veiled Mist is where ancient priestesses deliver cryptic prophecies. Seekers come for profound, albeit ambiguous, insights into their future.",
+      "subtype": "Oracle Sites",
+      "address": "Mistshroud Grotto, Deepwoods Forest",
+      "visiting_hours": "10:00-14:00 (by appointment)",
+      "entry_fee": "fixed amount (50 Atar Credits for a session)",
+      "images": "https://images.unsplash.com/photo-1616886477174-8d451b0b5e73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwY2F2ZXJuJTIwb3JhY2xlfGVufDB8fHx8MTcwNzEzMDAzNnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "prophecy",
+        "divination",
+        "mystery"
+      ]
+    },
+    {
+      "id": "AtarOS002",
+      "name": "Sanctum of Echoes",
+      "short_description": "An underground chamber with unusual acoustics where a skilled 'Echo Speaker' interprets the reverberations of whispered questions, drawing out answers from the subtle soundscape.",
+      "subtype": "Oracle Sites",
+      "address": "Whispering Caverns, Atar Subterranean Network",
+      "visiting_hours": "11:00-15:00 (guided entry)",
+      "entry_fee": "20 Atar Credits",
+      "images": "https://images.unsplash.com/photo-1549488340-9a4f6d4d1246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxlY2hvJTIwY2F2ZXJufGVufDB8fHx8MTcwNzEzMDA3MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "acoustics",
+        "interpretation",
+        "subterranean"
+      ]
+    },
+    {
+      "id": "AtarOS003",
+      "name": "Temple of the Serpent Diviner",
+      "short_description": "An ancient temple dedicated to a revered serpent deity, whose movements and shedding skin are interpreted by priest-diviners for prophecies. Visitors seek guidance on matters of fate and transformation.",
+      "subtype": "Oracle Sites",
+      "address": "Serpent's Coil Temple, Marshland Borders",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "18 Atar Credits",
+      "images": "https://images.unsplash.com/photo-1627964039327-1422ee513cf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwdGVtcGxlJTIwc2VycGVudHxlbnwwfHx8fDE3MDcxMzAwOTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "serpent worship",
+        "divination",
+        "transformation"
+      ]
+    },
+    {
+      "id": "AtarOS004",
+      "name": "The Dreaming Stone Altar",
+      "short_description": "A weathered stone altar on a high mesa, where vision quests are undertaken. Those who sleep upon the stone are believed to receive powerful dreams and insights directly from the spirit world.",
+      "subtype": "Oracle Sites",
+      "address": "Dreamweaver Mesa, Western Atar",
+      "visiting_hours": "24/7 (camping permitted)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1520677154246-817a021ed675?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwYWx0YXIlMjBzdG9uZXxlbnwwfHx8fDE3MDcxMzAxNDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "vision quest",
+        "dream interpretation",
+        "spirit world"
+      ]
+    },
+    {
+      "id": "AtarP001",
+      "name": "Pyramid of the Sky-Watchers",
+      "short_description": "A massive, stepped pyramid where ancient Atarans observed the cosmos and charted star paths. Its apex offers an unparalleled view of the night sky, considered a direct channel to celestial deities.",
+      "subtype": "Pyramids",
+      "address": "Aethera Plateau, Northern Atar",
+      "visiting_hours": "08:00-22:00",
+      "entry_fee": "30 Atar Credits",
+      "images": "https://images.unsplash.com/photo-1606787965007-7756770a92d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjBzdGVwcGVkJTIwcHlyYW1pZHxlbnwwfHx8fDE3MDcxMzA0Mjh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "celestial worship",
+        "ancient architecture"
+      ]
+    },
+    {
+      "id": "AtarP002",
+      "name": "The Obsidian Pyramid of Mourning",
+      "short_description": "Constructed entirely from dark volcanic obsidian, this imposing pyramid served as a funerary temple for Atar's most revered leaders. It is a site of solemn remembrance and communion with the departed.",
+      "subtype": "Pyramids",
+      "address": "Shadowfen Basin, Western Atar",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "28 Atar Credits",
+      "images": "https://images.unsplash.com/photo-1582260667087-0b135312384c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwdGVtcGxlJTIwZGFyayUyMHN0b25lfGVufDB8fHx8MTcwNzEzMDQ5MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "funerary rites",
+        "remembrance",
+        "obsidian"
+      ]
+    },
+    {
+      "id": "AtarP003",
+      "name": "Pyramid of Dawning Light",
+      "short_description": "An elegantly crafted pyramid precisely aligned to the sunrise of the summer solstice, dedicating its inner sanctum to the sun deity, Solara. It is a vibrant site of hope and new beginnings.",
+      "subtype": "Pyramids",
+      "address": "Solara's Rise, Eastern Atar",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "22 Atar Credits",
+      "images": "https://images.unsplash.com/photo-1588661759146-51d206f4c781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwdGVtcGxlJTIwc3VucmlzZXxlbnwwfHx8fDE3MDcxMzA1MDJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sun worship",
+        "solstice",
+        "hope"
+      ]
+    },
+    {
+      "id": "AtarP004",
+      "name": "The Twin Peaks Pyramids",
+      "short_description": "Two identical pyramids standing side-by-side, believed to honor a dualistic pantheon of creation and destruction. They represent the balance of opposing forces in Ataran cosmology.",
+      "subtype": "Pyramids",
+      "address": "Harmony Valley, Southern Atar",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "35 Atar Credits",
+      "images": "https://images.unsplash.com/photo-1582260667087-0b135312384c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwdHdpbiUyMHB5cmFtaWRzfGVufDB8fHx8MTcwNzEzMDU2M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "dualism",
+        "cosmology",
+        "balance"
+      ]
+    },
+    {
+      "id": "AtarBD001",
+      "name": "Plains of the First Victory",
+      "short_description": "The hallowed grounds where Atar's fragmented tribes united under Emperor Valerius, forging the empire. It is a site of national pride and a reminder of the sacrifices made for unity.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Valerius' Stand, Central Atar",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627964039327-1422ee513cf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHNlYXJjaHwxfGFuY2llbnQlMjBiYXR0bGVmaWVsZHxlbnwwfHx8fDE3MDcxMzA3MzB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "unity",
+        "national heritage",
+        "sacrifice"
+      ]
+    },
+    {
+      "id": "AtarBD002",
+      "name": "The Valley of Silent Swords",
+      "short_description": "A somber valley where a devastating, yet pivotal, battle for Ataran independence was fought. The spirits of fallen heroes are said to wander here, inspiring courage in times of strife.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Whisperwind Valley, Borderlands Region",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582260667087-0b135312384c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGxhbmRzY2FwZSUyMHRyYWdpYyUyMGJhdHRsZXxlbnwwfHx8fDE3MDcxMzA3Nzl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "independence",
+        "heroism",
+        "remembrance"
+      ]
+    },
+    {
+      "id": "AtarBD003",
+      "name": "Crimson Ridge",
+      "short_description": "Named for the blood spilled in a legendary last stand against overwhelming odds, Crimson Ridge marks a turning point in Ataran history. It is a symbol of defiance and unbreakable spirit.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Ironbound Mountains Foothills, Southern Atar",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517596541571-c0353be57388?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHJpZGdlJTIwYmF0dGxlZmllbGR8ZW58MHx8fDE3MDcxMzA4MDIyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "defiance",
+        "spirit",
+        "historical marker"
+      ]
+    },
+    {
+      "id": "AtarBD004",
+      "name": "The Crossroads of Fate",
+      "short_description": "A geographically strategic crossroads where multiple major battles determined the fate of Atar. It is a place for reflection on pivotal decisions and the weight of history.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Grand Junction Plains, Atar Central Territory",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "fixed amount (5 Atar Credits for museum access)",
+      "images": "https://images.unsplash.com/photo-1628174780521-cf7b973c66f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfHJ1aW5lZCUyMGZvcnRyZXNzJTIwYmF0dGxlZmllbGR8ZW58MHx8fDE3MDcxMzA4NDZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "strategy",
+        "historical turning point",
+        "reflection"
+      ]
+    }
+  ]
+}

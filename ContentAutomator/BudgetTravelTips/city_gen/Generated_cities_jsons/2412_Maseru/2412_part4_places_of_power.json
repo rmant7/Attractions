@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Maseru",
+    "city_id": "2412"
+  },
+  "items": [
+    {
+      "id": "HSW001",
+      "name": "Liqobella Healing Spring",
+      "short_description": "A natural spring revered by locals for its purported healing properties and spiritual cleansing, often visited for rituals of renewal and good fortune.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Off Main South 1 Road, near Ha Foso, Maseru District",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Hot_spring_at_Chuluut.jpg",
+      "tags": [
+        "healing",
+        "renewal",
+        "traditional"
+      ]
+    },
+    {
+      "id": "HSW002",
+      "name": "Thaba Bosiu Ancestral Well",
+      "short_description": "Located at the base of the sacred Thaba Bosiu plateau, this ancient well is believed to have sustained the Basotho nation during times of siege and holds deep spiritual significance for ancestral reverence.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Thaba Bosiu Cultural Village, Thaba Bosiu, Maseru District",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1601614742617-68b209e530b7?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral",
+        "history",
+        "sustenance"
+      ]
+    },
+    {
+      "id": "HSW003",
+      "name": "Pitseng River Purification Point",
+      "short_description": "A specific, tranquil spot along the Pitseng River where traditional healers and spiritual practitioners perform purification rites and offer prayers for cleansing and blessings.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Pitseng River bank, near Motimposo, Maseru",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620601550596-fddedfb48446?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "purification",
+        "river",
+        "blessings"
+      ]
+    },
+    {
+      "id": "HSW004",
+      "name": "Mokhotlong Cave Drips of Wisdom",
+      "short_description": "A secluded cave system where continuous water drips from the rock ceiling are collected and believed to impart wisdom and insight, used in ancient divination practices.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Remote area, past Roma, Maseru District",
+      "visiting_hours": "09:00-16:00 (guided tours only)",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/9/90/The_drip_water_in_a_cave_in_Mocochinha%2C_Paran%C3%A1%2C_Brazil.jpg",
+      "tags": [
+        "cave",
+        "wisdom",
+        "divination"
+      ]
+    },
+    {
+      "id": "MRF001",
+      "name": "The Sentinels of Lithabaneng",
+      "short_description": "Two towering sandstone monoliths standing guard over the Lithabaneng valley, believed to be ancestral spirits watching over the community. They are popular for sunrise meditations.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Lithabaneng East, Maseru",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549419137-a9c0c8b05445?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral spirits",
+        "meditation",
+        "natural landmark"
+      ]
+    },
+    {
+      "id": "MRF002",
+      "name": "Echoing Rocks of Lejoe",
+      "short_description": "A cluster of unique, resonant rock formations that produce distinct echoes and sounds when approached, traditionally believed to be the voices of the ancient ones communicating.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Rural area near Lejoe-le-Oa, Maseru District",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1598918239016-3e0e980302b1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sound healing",
+        "ancient communication",
+        "geological wonder"
+      ]
+    },
+    {
+      "id": "MRF003",
+      "name": "The Serpent's Backbone Ridge",
+      "short_description": "A dramatic, elongated rock ridge that snakes across the landscape, resembling a gigantic serpent's backbone. It is a site of power and is sometimes visited for vision quests.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Highlands, Eastern Maseru District, near Nazareth",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579450392331-509ce14e8c14?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "vision quest",
+        "power site",
+        "natural sculpture"
+      ]
+    },
+    {
+      "id": "MRF004",
+      "name": "Lion's Head Rock",
+      "short_description": "A prominent rock formation naturally sculpted to resemble a lion's head, guarding the entrance to a fertile valley. It is a symbol of strength and protection for the local Basotho clans.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Rural valley entrance, off A3, near Semonkong turn-off",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1611099688469-6d601d51a666?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "protection",
+        "strength",
+        "symbolic"
+      ]
+    },
+    {
+      "id": "RST001",
+      "name": "Shrine of the First Rainmaker",
+      "short_description": "A humble stone shrine dedicated to the legendary first rainmaker of the Basotho, where offerings are still made during times of drought for agricultural blessings.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Remote village, near Thabana Morena, Maseru District",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1533816694665-c9a173822187?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "rainmaking",
+        "ancestor worship",
+        "fertility"
+      ]
+    },
+    {
+      "id": "RST002",
+      "name": "Tomb of the Silent Healer",
+      "short_description": "An ancient, unmarked tomb believed to hold the remains of a powerful Basotho healer whose spirit is said to still offer comfort and guidance to those who visit in quiet contemplation.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Hidden grove, off Bypass Road, Maseru",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1614949505876-0f188383c260?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "healing",
+        "contemplation",
+        "ancestral spirit"
+      ]
+    },
+    {
+      "id": "RST003",
+      "name": "Maseru Martyrs' Memorial",
+      "short_description": "A solemn memorial housing relics and names of those who sacrificed their lives for the Basotho nation's freedom. It serves as a place of reflection on national identity and resilience.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Near Government Complex, Kingsway, Maseru",
+      "visiting_hours": "09:00-17:00 (weekdays)",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Martyrs_memorial.jpg",
+      "tags": [
+        "national heritage",
+        "sacrifice",
+        "remembrance"
+      ]
+    },
+    {
+      "id": "RST004",
+      "name": "Reliquary of the Chiefs' Staff",
+      "short_description": "A small, protected structure housing a collection of ancient staffs and implements belonging to former Basotho chiefs, imbued with their wisdom and leadership energies.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Within a private cultural center, Ha Hoohlo, Maseru",
+      "visiting_hours": "10:00-16:00 (by appointment)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1517457210348-b7c4a16ed6a2?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "leadership",
+        "artifacts",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "SMT001",
+      "name": "Thaba Bosiu (Mountain of Night) Plateau",
+      "short_description": "The flat-topped mountain fortress where King Moshoeshoe I established the Basotho nation. It is the most sacred site in Lesotho, a place of national pride and ancestral power.",
+      "subtype": "Sacred Mountains",
+      "address": "Thaba Bosiu, Maseru District",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Thaba_Bosiu_plateau.jpg/1920px-Thaba_Bosiu_plateau.jpg",
+      "tags": [
+        "national heritage",
+        "power site",
+        "ancestral"
+      ]
+    },
+    {
+      "id": "SMT002",
+      "name": "Mount Qiloane (The Hat) Peak",
+      "short_description": "The distinctive conical mountain that inspired the design of the Basotho hat (mokorotlo). It is revered as a symbol of the nation's identity and a place for quiet contemplation.",
+      "subtype": "Sacred Mountains",
+      "address": "Visible from Thaba Bosiu, near Berea District border",
+      "visiting_hours": "24/7 (viewpoint)",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/41/Qiloane.jpg",
+      "tags": [
+        "national symbol",
+        "contemplation",
+        "identity"
+      ]
+    },
+    {
+      "id": "SMT003",
+      "name": "Thaba Putsoa (Blue Mountain) Ascent",
+      "short_description": "A range of mountains known for their ethereal blue haze, believed to hold ancient energies and offer profound spiritual insights to those who undertake the challenging ascent.",
+      "subtype": "Sacred Mountains",
+      "address": "Southern Maseru District, starting point near Machache",
+      "visiting_hours": "06:00-18:00 (daylight hiking)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582234032549-9b92209d73d9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "spiritual journey",
+        "natural beauty",
+        "insight"
+      ]
+    },
+    {
+      "id": "SMT004",
+      "name": "Maloti Mountain Shrine Rock",
+      "short_description": "A specific, revered rock outcrop high in the Maloti Mountains, used by traditional healers for collecting medicinal plants and conducting rituals under the vast open sky.",
+      "subtype": "Sacred Mountains",
+      "address": "Maloti Mountain range, accessible via Sehlabathebe road",
+      "visiting_hours": "07:00-17:00 (seasonal access)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1549421867-b508f7ce6984?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "healing plants",
+        "rituals",
+        "mountain spirituality"
+      ]
+    },
+    {
+      "id": "CAS001",
+      "name": "Star Gazer's Stone Circle (Ha Qaba)",
+      "short_description": "An ancient arrangement of stones in the foothills, believed to have been used by early Basotho for tracking solstices and equinoxes, and for observing celestial events.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Rural plains near Ha Qaba, Maseru District",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sterkfontein_valley_stone_circle_megalith.jpg",
+      "tags": [
+        "astronomy",
+        "ancient history",
+        "solstice"
+      ]
+    },
+    {
+      "id": "CAS002",
+      "name": "Lunar Watch Rock Shelter",
+      "short_description": "A rock shelter with ancient San rock art depicting celestial bodies, strategically positioned to offer a clear view of the moon's cycles and its effects on the landscape.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Near Kome Caves, Maseru District",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/2f/San_rock_art_depicting_people%2C_animals_and_possibly_stars_at_Main_Cave%2C_Giant%27s_Castle_Nature_Reserve_%2834612470656%29.jpg",
+      "tags": [
+        "rock art",
+        "lunar cycles",
+        "ancient wisdom"
+      ]
+    },
+    {
+      "id": "CAS003",
+      "name": "Sunrise Point of the Ancestors",
+      "short_description": "A high vantage point marked by a single, weathered stone, from which ancient chiefs would observe the first light of important seasonal sunrises, believing it brought blessings.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Mountain ridge overlooking Maseru city, near Machache",
+      "visiting_hours": "05:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1493081512415-467389a44490?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sunrise",
+        "blessings",
+        "ancestral rituals"
+      ]
+    },
+    {
+      "id": "CAS004",
+      "name": "Comet's Rest Viewing Platform",
+      "short_description": "A contemporary, purpose-built platform offering unobstructed views of the night sky, drawing on traditional Basotho reverence for stars and the cosmic order.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Outskirts of Thaba-Bosiu, Maseru District",
+      "visiting_hours": "18:00-06:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1542152285-b9f1d0b3e5d0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "stargazing",
+        "cosmic order",
+        "modern spirituality"
+      ]
+    },
+    {
+      "id": "MAH001",
+      "name": "Our Lady of the Maloti Monastery",
+      "short_description": "A serene Catholic monastery nestled in the Maloti foothills, known for its contemplative atmosphere, beautiful gardens, and spiritual retreats.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Foot of Maloti Mountains, near Roma, Maseru District",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1534487779654-7221ee9001b9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Catholic",
+        "retreat",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "MAH002",
+      "name": "Hermitage of the Quiet Valley",
+      "short_description": "A secluded hermitage offering individual retreats for spiritual seekers, focusing on silence, meditation, and connection with nature in a tranquil Basotho valley.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Hidden valley near Ha Maama, Maseru District",
+      "visiting_hours": "By appointment for retreat guests",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1579203672049-755c3c0b1156?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "hermitage",
+        "meditation",
+        "silence"
+      ]
+    },
+    {
+      "id": "MAH003",
+      "name": "Anglican Convent of St. Michael",
+      "short_description": "An Anglican convent known for its community outreach, beautiful chapel, and a small guesthouse that welcomes visitors seeking peace and spiritual refreshment.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Corner of Kingsway & Pioneer Road, Maseru",
+      "visiting_hours": "09:00-16:00 (chapel visits)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596765798099-24268e2195df?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Anglican",
+        "community",
+        "chapel"
+      ]
+    },
+    {
+      "id": "MAH004",
+      "name": "Basotho Ancestral Retreat Centre",
+      "short_description": "Not a traditional monastery, but a modern center that blends Christian spirituality with traditional Basotho ancestral veneration, offering a unique space for interfaith dialogue and spiritual practice.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Near Masianokeng, Maseru District",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1629532822187-575510f845a7?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interfaith",
+        "ancestral",
+        "modern spirituality"
+      ]
+    },
+    {
+      "id": "LAB001",
+      "name": "The Path of Inner Peace",
+      "short_description": "A beautifully maintained grass labyrinth within a community garden, designed for walking meditation and finding inner calm amidst the city's bustle.",
+      "subtype": "Labyrinths",
+      "address": "Maseru City Centre Park, Kingsway, Maseru",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1616428453472-a8c7ed2b48d2?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "meditation",
+        "urban escape",
+        "inner peace"
+      ]
+    },
+    {
+      "id": "LAB002",
+      "name": "Labyrinth of the Whispering Caves",
+      "short_description": "A natural, winding cave system near the Mohokare River, whose passages evoke a sense of a natural labyrinth, believed to be a place of ancient initiation rites.",
+      "subtype": "Labyrinths",
+      "address": "Mohokare River Valley, near Mazenod, Maseru District",
+      "visiting_hours": "09:00-16:00 (guided tours only)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1549746377-a640a322c334?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cave system",
+        "initiation",
+        "mystery"
+      ]
+    },
+    {
+      "id": "LAB003",
+      "name": "Ha Lejone Stone Labyrinth",
+      "short_description": "A circular stone labyrinth built by a spiritual community in Ha Lejone, used for ceremonial walks, mindfulness, and connecting with the earth's energy.",
+      "subtype": "Labyrinths",
+      "address": "Rural settlement of Ha Lejone, Maseru District",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1520630689973-4560a6ae8c30?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ceremonial walk",
+        "mindfulness",
+        "earth energy"
+      ]
+    },
+    {
+      "id": "LAB004",
+      "name": "Maseru Botanical Gardens Mindfulness Maze",
+      "short_description": "A living hedge maze within the Maseru Botanical Gardens, designed not for puzzle-solving but for contemplative walking, encouraging reflection and connection with nature.",
+      "subtype": "Labyrinths",
+      "address": "Maseru Botanical Gardens, Off Airport Road, Maseru",
+      "visiting_hours": "08:30-16:30",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1616781297594-55038c751e13?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "botanical",
+        "reflection",
+        "nature connection"
+      ]
+    },
+    {
+      "id": "BOD001",
+      "name": "Site of the Mountain Kingdom's Stand (Thaba Bosiu)",
+      "short_description": "The exact location on Thaba Bosiu plateau where King Moshoeshoe I's forces successfully defended the Basotho nation against numerous invaders, forging its destiny.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Thaba Bosiu Cultural Village, Thaba Bosiu, Maseru District",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Thaba_Bosiu_National_Cultural_World_Heritage_Site.jpg",
+      "tags": [
+        "national defense",
+        "history",
+        "resilience"
+      ]
+    },
+    {
+      "id": "BOD002",
+      "name": "The Ridge of Courage (Ntoa ea Lerato)",
+      "short_description": "A strategic ridge where a pivotal battle for land and sovereignty took place, now a site of quiet remembrance for the warriors who fought to secure their ancestral lands.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Eastern Maseru District, near the Caledon River",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547463665-2a2b06961445?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sovereignty",
+        "remembrance",
+        "ancestral land"
+      ]
+    },
+    {
+      "id": "BOD003",
+      "name": "Mohokare River Crossing Memorial",
+      "short_description": "A memorial marking a historically significant crossing point of the Mohokare (Caledon) River, where decisive skirmishes occurred that shaped the modern border of Lesotho.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Mohokare River border post, near Maseru Bridge",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Caledon_River_between_South_Africa_and_Lesotho.jpg",
+      "tags": [
+        "border history",
+        "skirmishes",
+        "national identity"
+      ]
+    },
+    {
+      "id": "BOD004",
+      "name": "Qeme Plateau Battleground",
+      "short_description": "An expansive plateau known for fierce battles during the early formation of the Basotho nation. Its wide-open spaces invite reflection on past struggles and future peace.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Qeme Plateau, South of Maseru",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1588665796011-e374828b61e2?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "peace",
+        "historical battles",
+        "national formation"
+      ]
+    },
+    {
+      "id": "MEP001",
+      "name": "Maseru Peace Garden",
+      "short_description": "A tranquil urban garden featuring indigenous plants and a central peace monument, designed as a space for public reflection, interfaith harmony, and calm energy.",
+      "subtype": "Modern Energy Places",
+      "address": "Next to Cathedral of Our Lady of Victory, Kingsway, Maseru",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594953935392-ae923769c9ee?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "urban peace",
+        "interfaith",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "MEP002",
+      "name": "Crystal Healing Sanctuary of Lithabaneng",
+      "short_description": "A contemporary wellness center offering various crystal healing therapies, sound baths, and meditation sessions, drawing on both ancient traditions and modern energy practices.",
+      "subtype": "Modern Energy Places",
+      "address": "Lithabaneng, near Maseru Mall, Maseru",
+      "visiting_hours": "09:00-17:00 (weekdays, by appointment)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1582234551276-857e49129e92?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wellness",
+        "crystal healing",
+        "meditation"
+      ]
+    },
+    {
+      "id": "MEP003",
+      "name": "The Eco-Spirit Centre at Ha Baroana",
+      "short_description": "An innovative eco-friendly retreat and learning center focused on sustainable living and spiritual connection through workshops, permaculture, and community gatherings.",
+      "subtype": "Modern Energy Places",
+      "address": "Rural Maseru, near Ha Baroana, off Roma Road",
+      "visiting_hours": "09:00-16:00 (for scheduled events)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1555416260-eb26e3c8861e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sustainability",
+        "eco-spiritual",
+        "community"
+      ]
+    },
+    {
+      "id": "MEP004",
+      "name": "Maseru Quantum Healing Hub",
+      "short_description": "A cutting-edge facility employing biofeedback, sound frequencies, and light therapy to promote holistic well-being and align personal energy fields in a modern, serene setting.",
+      "subtype": "Modern Energy Places",
+      "address": "Office Park, Mpilo Boulevard, Maseru",
+      "visiting_hours": "10:00-18:00 (by appointment)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1550772718-c2ddc407886a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "holistic",
+        "biofeedback",
+        "modern healing"
+      ]
+    },
+    {
+      "id": "SCF001",
+      "name": "Mohokare Riverine Grove of Elders",
+      "short_description": "A protected ancient forest along the Mohokare River, home to old-growth trees and traditional plant medicines, revered as a place of ancestral spirits and healing.",
+      "subtype": "Sacred Forests",
+      "address": "Mohokare River bank, near Ha Foso, Maseru District",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1518175027878-b11822839213?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral spirits",
+        "healing plants",
+        "old growth"
+      ]
+    },
+    {
+      "id": "SCF002",
+      "name": "Forest of Whispering Leaves (Liphiring)",
+      "short_description": "A dense indigenous forest known for the soft rustling sound of its leaves, believed to be the whispers of nature spirits and ancestors, offering a deeply meditative experience.",
+      "subtype": "Sacred Forests",
+      "address": "Liphiring Valley, near Morija, Maseru District",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628108420600-61f2115169a9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature spirits",
+        "meditation",
+        "indigenous flora"
+      ]
+    },
+    {
+      "id": "SCF003",
+      "name": "Maseru Arboretum of Remembrance",
+      "short_description": "A beautifully curated arboretum serving as a living memorial, where each tree is planted in remembrance of a loved one or a national hero, fostering peace and reflection.",
+      "subtype": "Sacred Forests",
+      "address": "Next to Maseru Golf Course, Off Airport Road, Maseru",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1442502699313-2d9396e053f4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "remembrance",
+        "living memorial",
+        "peace"
+      ]
+    },
+    {
+      "id": "SCF004",
+      "name": "Ha Koali Initiation Grove",
+      "short_description": "A historically significant grove used for traditional Basotho initiation ceremonies, where young men and women undergo spiritual and cultural rites of passage.",
+      "subtype": "Sacred Forests",
+      "address": "Secluded area, near Ha Koali, Maseru District",
+      "visiting_hours": "By invitation/specific dates",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620576359254-43400d981881?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "initiation rites",
+        "cultural heritage",
+        "sacred space"
+      ]
+    }
+  ]
+}

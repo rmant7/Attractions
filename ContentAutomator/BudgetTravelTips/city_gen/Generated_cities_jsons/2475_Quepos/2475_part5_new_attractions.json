@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Quepos",
+    "city_id": "2475"
+  },
+  "items": [
+    {
+      "id": "QPS001",
+      "name": "Treetop Canopy Glamp",
+      "short_description": "Experience the rainforest like never before in luxurious, elevated tents with breathtaking ocean views. Perfect for nature lovers seeking comfort and seclusion.",
+      "address": "Road to Manuel Antonio National Park, Quepos, Puntarenas",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596255140618-977317e8c3f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "glamping",
+        "eco-luxury",
+        "rainforest"
+      ]
+    },
+    {
+      "id": "QPS002",
+      "name": "Quepos Bean-to-Bar Experience",
+      "short_description": "Discover the journey from cacao and coffee bean to delicious finished products. Enjoy interactive tours, tastings, and learn about sustainable farming practices at this new educational farm.",
+      "address": "Finca La Esperanza, 3km East of Quepos Town Center, Quepos, Puntarenas",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1590483253676-5085e68344e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "foodie",
+        "education",
+        "farm-tour"
+      ]
+    },
+    {
+      "id": "QPS003",
+      "name": "Jungle Rapids Adventure Park",
+      "short_description": "Thrill-seekers rejoice! Experience white-water rafting, extreme ziplining, and rappelling down waterfalls in this brand new adventure hub nestled in the lush jungle.",
+      "address": "Río Savegre Sector, Ruta 235, Quepos, Puntarenas",
+      "opening_hours": "08:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549721759-9602e3b2e32a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "adventure",
+        "thrill",
+        "rafting"
+      ]
+    },
+    {
+      "id": "QPS004",
+      "name": "Quepos Mangrove Paddles",
+      "short_description": "Explore the intricate waterways of the Damas Island mangroves by kayak or stand-up paddleboard. Discover diverse wildlife, including monkeys and birds, in a serene, eco-friendly tour.",
+      "address": "Estuary entrance near Damas Island, Quepos, Puntarenas",
+      "opening_hours": "07:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627068560024-e0c6a5a3a0c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "wildlife",
+        "kayaking",
+        "eco-tour"
+      ]
+    },
+    {
+      "id": "QPS005",
+      "name": "El Mercado de Arte Quepos",
+      "short_description": "A vibrant new marketplace showcasing the best local art, handmade crafts, and unique souvenirs from Quepos and surrounding regions. Meet the artists and take home a piece of Costa Rica.",
+      "address": "Calle Central, downtown Quepos, Puntarenas",
+      "opening_hours": "10:00-18:00 (closed Mondays)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1542845814-747660a5e2f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "local-art",
+        "shopping",
+        "culture"
+      ]
+    },
+    {
+      "id": "QPS006",
+      "name": "Tierra Viva Cocina",
+      "short_description": "Savor authentic Costa Rican flavors with a modern twist at this new farm-to-table restaurant. Participate in hands-on cooking classes to learn local recipes using fresh, organic ingredients.",
+      "address": "500m North of Marina Pez Vela, Quepos, Puntarenas",
+      "opening_hours": "11:00-22:00 (Restaurant), 15:00-18:00 (Classes on select days)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1504543160490-e59392c68e1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "culinary",
+        "local-food",
+        "cooking-class"
+      ]
+    },
+    {
+      "id": "QPS007",
+      "name": "Pura Vida Sunset Sail",
+      "short_description": "Embark on Quepos' newest luxury catamaran for a spectacular sunset cruise. Enjoy open bar, gourmet snacks, and breathtaking coastal views of the Pacific.",
+      "address": "Marina Pez Vela, Quepos, Puntarenas",
+      "opening_hours": "14:00-19:00 (Departure times vary seasonally)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1520147926715-4a6c6e7f805a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "boat-tour",
+        "sunset",
+        "luxury"
+      ]
+    },
+    {
+      "id": "QPS008",
+      "name": "Quepos Wildlife Sanctuary & Visitor Center",
+      "short_description": "A newly opened center dedicated to rescuing and rehabilitating local wildlife. Take an educational guided tour to learn about conservation efforts and meet the resident animals, including sloths and monkeys.",
+      "address": "7km from Quepos on Road to Dominical, Quepos, Puntarenas",
+      "opening_hours": "09:00-16:00 (Tours hourly)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549419163-f2bf29a8f4c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "conservation",
+        "wildlife",
+        "education"
+      ]
+    },
+    {
+      "id": "QPS009",
+      "name": "Vista Azul Infinity Hotel",
+      "short_description": "Perched on a hillside, this sleek boutique hotel offers unparalleled ocean vistas from its stunning infinity pool and private balconies. A new standard for luxury relaxation in Quepos.",
+      "address": "Hillside overlooking Manuel Antonio, Quepos, Puntarenas",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582268711681-424f7940e53a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "luxury",
+        "hotel",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "QPS010",
+      "name": "Green Waves Surf School",
+      "short_description": "Learn to surf or rent eco-friendly boards at Quepos' newest sustainable surf school. Certified instructors offer lessons for all levels on the beautiful local beaches.",
+      "address": "Playa Espadilla North, Manuel Antonio, Quepos, Puntarenas",
+      "opening_hours": "07:30-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558223690-3367d5ce8e3d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "surfing",
+        "beach-activity",
+        "eco-friendly"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Nairobi",
+    "city_id": "2438"
+  },
+  "items": [
+    {
+      "id": "NAQG001",
+      "name": "The Great Nairobi Scavenger Hunt",
+      "short_description": "An exciting outdoor adventure challenging families to solve puzzles and discover hidden gems across Nairobi's iconic landmarks. Perfect for developing teamwork and observation skills.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Starting Point: Uhuru Gardens, Langata Road, Nairobi",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579548122079-05ff2f4955f3",
+      "tags": [
+        "outdoor",
+        "puzzles",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "NAQG002",
+      "name": "Karura Forest Explorer Challenge",
+      "short_description": "Navigate through designated trails in Karura Forest, completing nature-themed challenges and decoding clues. A refreshing blend of physical activity and mental stimulation in a lush environment.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Karura Forest Gate C, Limuru Road, Nairobi",
+      "opening_hours": "08:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1587848248911-3965b3d7b81b",
+      "tags": [
+        "nature",
+        "hiking",
+        "discovery"
+      ]
+    },
+    {
+      "id": "NAQG003",
+      "name": "Mystery Mansion Escape",
+      "short_description": "An immersive escape room experience designed specifically for children aged 8-14. Teams work together to solve a series of age-appropriate riddles and puzzles to 'escape' a themed mansion.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Junction Mall, Ngong Road, Nairobi",
+      "opening_hours": "10:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1584617495513-33230b9f074d",
+      "tags": [
+        "escape room",
+        "indoor",
+        "logic"
+      ]
+    },
+    {
+      "id": "NAQG004",
+      "name": "The Great Safari Quest",
+      "short_description": "An interactive indoor quest where children embark on a 'safari' adventure, encountering animatronic animals and solving challenges to protect a virtual wildlife reserve.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Two Rivers Mall, Limuru Road, Nairobi",
+      "opening_hours": "10:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574761002674-8b8b4c0b4c0b",
+      "tags": [
+        "interactive",
+        "safari",
+        "indoor"
+      ]
+    },
+    {
+      "id": "NAMR001",
+      "name": "Uhuru Park Funfair",
+      "short_description": "A classic outdoor funfair offering beloved rides like carousels, mini-trains, and bumper cars. Perfect for younger children and family entertainment in the heart of the city.",
+      "subtype": "Amusement Rides",
+      "address": "Uhuru Park, Processional Way, Nairobi",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1502444330042-d1a297e17991",
+      "tags": [
+        "outdoor",
+        "classic rides",
+        "family"
+      ]
+    },
+    {
+      "id": "NAMR002",
+      "name": "Jamhuri Park Carnival Zone",
+      "short_description": "A vibrant carnival area with a range of thrilling rides for various age groups, including a Ferris wheel, spinning teacups, and a small roller coaster. Seasonal operation, check schedule.",
+      "subtype": "Amusement Rides",
+      "address": "Jamhuri Park, Ngong Road, Nairobi",
+      "opening_hours": "12:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563720703819-2780e0477196",
+      "tags": [
+        "carnival",
+        "thrill rides",
+        "seasonal"
+      ]
+    },
+    {
+      "id": "NAMR003",
+      "name": "The Waterfront Lakeside Fun",
+      "short_description": "Enjoy a selection of gentle rides, including a mini-golf course, paddle boats on the lake, and a small train ride around the scenic waterfront promenade. Ideal for a relaxed family outing.",
+      "subtype": "Amusement Rides",
+      "address": "The Waterfront Karen, Dagoretti Road, Nairobi",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579730248869-2f22b82f0f0f",
+      "tags": [
+        "lakeside",
+        "mini-golf",
+        "paddle boats"
+      ]
+    },
+    {
+      "id": "NAMR004",
+      "name": "Galleria Kids' Adventure Hub",
+      "short_description": "An indoor and outdoor area featuring bouncy castles, a small adventure playground, and coin-operated kiddie rides within the Galleria Mall complex.",
+      "subtype": "Amusement Rides",
+      "address": "Galleria Shopping Mall, Langata Road, Nairobi",
+      "opening_hours": "10:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582297893706-0370d9e4a3b1",
+      "tags": [
+        "mall fun",
+        "bouncy castles",
+        "kiddie rides"
+      ]
+    },
+    {
+      "id": "NFTP001",
+      "name": "Enchanted Forest of Gigiri",
+      "short_description": "Step into a magical realm where classic fairy tales come to life with whimsical sculptures, interactive story points, and a charming 'wishing well' garden. Perfect for imaginative play.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Gigiri Lane, Off UN Avenue, Nairobi",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628108428570-58079860b72f",
+      "tags": [
+        "fantasy",
+        "interactive",
+        "nature"
+      ]
+    },
+    {
+      "id": "NFTP002",
+      "name": "Princess Palace Gardens",
+      "short_description": "A beautifully landscaped garden themed around royal fairy tales, featuring mini castles, ornate bridges, and areas for dress-up and photo opportunities with 'royal' characters.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Karen Road, Near Karen Blixen Museum, Nairobi",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1517457371958-867c462370c0",
+      "tags": [
+        "princesses",
+        "gardens",
+        "dress-up"
+      ]
+    },
+    {
+      "id": "NFTP003",
+      "name": "Dragon's Den Adventure Playground",
+      "short_description": "A unique playground built around a dragon and medieval castle theme, offering climbing structures, slides, and 'dragon egg' discovery zones. Encourages heroic imaginative play.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Lavington Green, James Gichuru Road, Nairobi",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1574761002674-8b8b4c0b4c0b",
+      "tags": [
+        "playground",
+        "dragons",
+        "medieval"
+      ]
+    },
+    {
+      "id": "NFTP004",
+      "name": "Whispering Woods Storyland",
+      "short_description": "Walk through an enchanted trail where classical African and global fairy tales are narrated at various interactive points. Features small animal enclosures and themed picnic spots.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Langata Road, Opposite Bomas of Kenya, Nairobi",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596791552554-1a9c3b8a3e7e",
+      "tags": [
+        "folklore",
+        "storytelling",
+        "nature walk"
+      ]
+    },
+    {
+      "id": "NIPC001",
+      "name": "Funky Monkey Playland",
+      "short_description": "A multi-level indoor play structure with slides, ball pits, climbing nets, and soft play areas for children of all ages. Includes a separate toddler zone.",
+      "subtype": "Indoor Play Centers",
+      "address": "Sarit Centre, Pio Gama Pinto Road, Nairobi",
+      "opening_hours": "09:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1534086432651-7f833b5a1b5d",
+      "tags": [
+        "soft play",
+        "ball pit",
+        "all ages"
+      ]
+    },
+    {
+      "id": "NIPC002",
+      "name": "Jungle Junction Kids' Zone",
+      "short_description": "An adventurous indoor play area with a jungle theme, featuring rope bridges, tunnels, and a giant slide. Encourages physical activity and imaginative exploration.",
+      "subtype": "Indoor Play Centers",
+      "address": "Garden City Mall, Thika Superhighway, Nairobi",
+      "opening_hours": "10:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582769923190-643537233827",
+      "tags": [
+        "jungle theme",
+        "climbing",
+        "adventure"
+      ]
+    },
+    {
+      "id": "NIPC003",
+      "name": "Smart Start Play Cafe",
+      "short_description": "A cozy play center combined with a parent-friendly cafe. Offers sensory play, creative corners, and a curated selection of educational toys for younger children.",
+      "subtype": "Indoor Play Centers",
+      "address": "Yaya Centre, Argwings Kodhek Road, Nairobi",
+      "opening_hours": "08:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1555554602-d7b6a1e34e56",
+      "tags": [
+        "cafe",
+        "sensory play",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "NIPC004",
+      "name": "Bounce House Bonanza",
+      "short_description": "The ultimate indoor trampoline park and inflatable playground. Kids can bounce, flip, and jump their way through various obstacle courses and open jump zones.",
+      "subtype": "Indoor Play Centers",
+      "address": "Hub Karen, Dagoretti Road, Nairobi",
+      "opening_hours": "10:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1601620021319-751772b2a67e",
+      "tags": [
+        "trampoline",
+        "inflatable",
+        "active"
+      ]
+    },
+    {
+      "id": "NMI001",
+      "name": "The Grand Illusionist's Spectacle",
+      "short_description": "A dazzling live magic show featuring grand illusions, disappearing acts, and audience participation. Perfect for family entertainment and inspiring wonder.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Kenya National Theatre, Harry Thuku Road, Nairobi",
+      "opening_hours": "Selected Weekends: 15:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549488344-935f8dd0e176",
+      "tags": [
+        "live show",
+        "illusions",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "NMI002",
+      "name": "Mystical Wonders Workshop",
+      "short_description": "An interactive workshop where aspiring young magicians learn simple tricks and the secrets behind common illusions, culminating in their own mini-performance.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Westgate Shopping Mall, Mwanzi Road, Nairobi",
+      "opening_hours": "Selected Saturdays: 11:00-13:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510531704581-5b28709aa698",
+      "tags": [
+        "workshop",
+        "interactive",
+        "learning"
+      ]
+    },
+    {
+      "id": "NMI003",
+      "name": "Twilight Tricksters' Comedy Magic",
+      "short_description": "An evening show combining comedy, juggling, and magic tricks, designed to entertain both children and adults. Features local talent with a vibrant twist.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Village Market, Limuru Road, Nairobi",
+      "opening_hours": "Selected Evenings: 18:00-19:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1519787130635-f09b30c115c5",
+      "tags": [
+        "comedy",
+        "juggling",
+        "evening entertainment"
+      ]
+    },
+    {
+      "id": "NMI004",
+      "name": "Pop-Up Puzzles & Magic",
+      "short_description": "A rotating pop-up experience in various malls, offering short, engaging magic shows and brain-teaser puzzles. Check their social media for current locations.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Various Malls (check website)",
+      "opening_hours": "Varies",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1520607185011-30c14401a052",
+      "tags": [
+        "pop-up",
+        "interactive",
+        "puzzles"
+      ]
+    },
+    {
+      "id": "NZPZ001",
+      "name": "Nairobi Safari Walk & Animal Orphanage",
+      "short_description": "Discover Kenya's diverse wildlife on a raised boardwalk at Safari Walk, then visit the adjacent Animal Orphanage to see rescued and rehabilitated animals up close. A true Nairobi classic.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Langata Road, Opp. Nairobi National Park Main Gate",
+      "opening_hours": "08:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1588603714603-99b36d0f666f",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "NZPZ002",
+      "name": "Giraffe Centre",
+      "short_description": "Get up close and personal with endangered Rothschild's giraffes by feeding them from a raised platform. An unforgettable interactive experience that supports conservation efforts.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Duma Road, Langata, Nairobi",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1555198205-d52f829f2702",
+      "tags": [
+        "giraffes",
+        "feeding",
+        "conservation"
+      ]
+    },
+    {
+      "id": "NZPZ003",
+      "name": "Ostrich Farm & Bird Sanctuary",
+      "short_description": "Interact with ostriches, including feeding opportunities, and explore a sanctuary home to various bird species. Learn about these magnificent birds in a fun, educational setting.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Kiserian Road, Ongata Rongai, Nairobi (outskirts)",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1574761002674-8b8b4c0b4c0b",
+      "tags": [
+        "ostriches",
+        "birds",
+        "feeding"
+      ]
+    },
+    {
+      "id": "NZPZ004",
+      "name": "Happy Hooves Petting Farm",
+      "short_description": "A charming petting zoo offering children the chance to interact with friendly farm animals like goats, rabbits, chickens, and miniature donkeys. Features a small playground and picnic area.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Hardy Road, Karen, Nairobi",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1586561570535-c34091a1362e",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "interactive"
+      ]
+    },
+    {
+      "id": "NCPT001",
+      "name": "The Nairobi Big Top Circus",
+      "short_description": "A thrilling seasonal circus featuring acrobats, clowns, jugglers, and aerialists from across Kenya and beyond. A spectacular show for the whole family.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Various Locations (check website for tour dates)",
+      "opening_hours": "Seasonal: 17:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1506141380961-c301642c8d28",
+      "tags": [
+        "acrobatics",
+        "clowns",
+        "seasonal"
+      ]
+    },
+    {
+      "id": "NCPT002",
+      "name": "Kenya National Theatre Puppet Shows",
+      "short_description": "Experience classic and contemporary puppet shows brought to life by skilled puppeteers. Engaging stories and vibrant characters make for a memorable theatrical experience.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Kenya National Theatre, Harry Thuku Road, Nairobi",
+      "opening_hours": "Selected Sundays: 14:00-15:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579730248869-2f22b82f0f0f",
+      "tags": [
+        "puppets",
+        "theater",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "NCPT003",
+      "name": "Polka Dot Puppet Palace",
+      "short_description": "A dedicated puppet theater offering a rotating schedule of shows, from traditional African fables to modern tales. Also hosts puppet-making workshops for kids.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Korellia Drive, Kileleshwa, Nairobi",
+      "opening_hours": "Wed, Sat, Sun: 11:00-12:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510531704581-5b28709aa698",
+      "tags": [
+        "puppet theater",
+        "workshops",
+        "fables"
+      ]
+    },
+    {
+      "id": "NCPT004",
+      "name": "Safari Acrobatic Kids Camp",
+      "short_description": "A unique camp that teaches children basic acrobatic skills, juggling, and clowning techniques in a fun and safe environment, culminating in a small performance.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Parklands Sports Club, Forest Road, Nairobi",
+      "opening_hours": "Holiday Camps: 09:00-13:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1579730248869-2f22b82f0f0f",
+      "tags": [
+        "acrobatics",
+        "camp",
+        "active learning"
+      ]
+    },
+    {
+      "id": "NSPK001",
+      "name": "Legends of Maasailand Park",
+      "short_description": "An open-air park dedicated to preserving and sharing Maasai folklore through interactive storytelling sessions, traditional dances, and cultural exhibits. Rich in heritage.",
+      "subtype": "Storytelling Parks",
+      "address": "Masaai Lodge Road, Rongai, Nairobi",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506141380961-c301642c8d28",
+      "tags": [
+        "cultural",
+        "folklore",
+        "interactive"
+      ]
+    },
+    {
+      "id": "NSPK002",
+      "name": "The Talking Trees Garden",
+      "short_description": "A serene garden where QR codes on trees link to audio recordings of various African animal fables and nature stories. A peaceful and educational experience.",
+      "subtype": "Storytelling Parks",
+      "address": "Arboretum Road, Kilimani, Nairobi",
+      "opening_hours": "08:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1510531704581-5b28709aa698",
+      "tags": [
+        "nature",
+        "audio stories",
+        "free"
+      ]
+    },
+    {
+      "id": "NSPK003",
+      "name": "Safari Tales Storytelling Corner",
+      "short_description": "Located within a community park, this dedicated corner hosts daily storytelling sessions focused on animal adventures, African myths, and environmental themes. Includes a small play area.",
+      "subtype": "Storytelling Parks",
+      "address": "Upper Hill Park, Upper Hill Road, Nairobi",
+      "opening_hours": "Daily sessions: 11:00 & 14:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510531704581-5b28709aa698",
+      "tags": [
+        "animal stories",
+        "community",
+        "educational"
+      ]
+    },
+    {
+      "id": "NSPK004",
+      "name": "Ancient Baobab's Whispers",
+      "short_description": "Gather around an ancient baobab tree (or a representation) for captivating tales of Kenyan history, legends, and heroic figures, told by local storytellers. Experience a piece of living history.",
+      "subtype": "Storytelling Parks",
+      "address": "Bomas of Kenya, Langata Road, Nairobi",
+      "opening_hours": "Selected Afternoons: 13:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510531704581-5b28709aa698",
+      "tags": [
+        "history",
+        "legends",
+        "cultural"
+      ]
+    },
+    {
+      "id": "NTPK001",
+      "name": "Adventure Island Theme Park",
+      "short_description": "A vibrant outdoor theme park with various zones including a pirate ship playground, a mini-roller coaster, and a water splash pad. Designed for children aged 3-12.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Eastern Bypass, Ruiru, Nairobi (outskirts)",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1594911470451-b0e2b4d5a92a",
+      "tags": [
+        "outdoor",
+        "rides",
+        "water park"
+      ]
+    },
+    {
+      "id": "NTPK002",
+      "name": "Jambo Funworld",
+      "short_description": "A compact theme park offering a mix of gentle rides, arcade games, and an interactive soft play area. Ideal for younger children and family outings.",
+      "subtype": "Theme Parks for Kids",
+      "address": "TRM (Thika Road Mall), Thika Superhighway, Nairobi",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1592955986966-9b8897047f3b",
+      "tags": [
+        "arcade",
+        "soft play",
+        "family"
+      ]
+    },
+    {
+      "id": "NTPK003",
+      "name": "Safari Splash Water Park",
+      "short_description": "A dedicated water theme park featuring slides, splash zones, and a lazy river. Perfect for cooling off and having aquatic fun during Nairobi's warm days.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Mombasa Road, Near JKIA, Nairobi",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1579730248869-2f22b82f0f0f",
+      "tags": [
+        "water park",
+        "slides",
+        "summer fun"
+      ]
+    },
+    {
+      "id": "NTPK004",
+      "name": "Future Explorers Innovation Park",
+      "short_description": "An educational theme park focusing on science, technology, engineering, and mathematics (STEM) through interactive exhibits, virtual reality experiences, and hands-on challenges.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Two Rivers Mall, Limuru Road, Nairobi",
+      "opening_hours": "10:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1621213340032-9c1696200c8b",
+      "tags": [
+        "STEM",
+        "educational",
+        "virtual reality"
+      ]
+    },
+    {
+      "id": "NFA001",
+      "name": "Green Acres Learning Farm",
+      "short_description": "An interactive farm where children can learn about organic farming, feed animals, milk cows, and participate in planting activities. Emphasizes hands-on education.",
+      "subtype": "Farm Attractions",
+      "address": "Limuru Road, Near Banana Hill, Nairobi (outskirts)",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1586561570535-c34091a1362e",
+      "tags": [
+        "educational",
+        "organic farming",
+        "animal feeding"
+      ]
+    },
+    {
+      "id": "NFA002",
+      "name": "The Old Farmhouse Estate",
+      "short_description": "A charming estate offering guided farm tours, pony rides, and a chance to collect fresh eggs. Includes a farm-to-table cafe and a spacious playground.",
+      "subtype": "Farm Attractions",
+      "address": "Dagoretti Road, Karen, Nairobi",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596791552554-1a9c3b8a3e7e",
+      "tags": [
+        "pony rides",
+        "farm-to-table",
+        "playground"
+      ]
+    },
+    {
+      "id": "NFA003",
+      "name": "Orchard Valley Fruit Picking",
+      "short_description": "A seasonal attraction where families can pick their own fresh fruits (strawberries, apples, etc.) directly from the orchards. Enjoy the scenic views and fresh produce.",
+      "subtype": "Farm Attractions",
+      "address": "Kiambu Road, Near Ndumberi, Nairobi (outskirts)",
+      "opening_hours": "Seasonal, check availability: 09:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1555554602-d7b6a1e34e56",
+      "tags": [
+        "fruit picking",
+        "seasonal",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "NFA004",
+      "name": "Safari Farm Experience",
+      "short_description": "Combines a mini-safari experience with a farm visit, showcasing smaller indigenous animals alongside typical farm animals. Offers unique photo opportunities and educational talks.",
+      "subtype": "Farm Attractions",
+      "address": "Rongai-Kiserian Road, Nairobi (outskirts)",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1586561570535-c34091a1362e",
+      "tags": [
+        "mini-safari",
+        "indigenous animals",
+        "educational"
+      ]
+    }
+  ]
+}

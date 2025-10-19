@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Benin City",
+    "city_id": "2449"
+  },
+  "items": [
+    {
+      "id": "ERG001",
+      "name": "Edo Renaissance Gallery",
+      "short_description": "A vibrant space showcasing contemporary Edo art, blending traditional bronze casting and textile designs with modern abstract expressions. It's a testament to Benin's enduring artistic spirit.",
+      "address": "15 Oba Market Road, Benin City, Edo State",
+      "opening_hours": "10:00-19:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579783900882-c2d3dd755c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDkwMDJ8MHwxfHNlYXJjaHw0fHxhcnQlMjBnYWxsZXJ5fGVufDB8fHx8MTcwMTkxNjM2N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Art Gallery",
+        "Edo Culture",
+        "Modern Art"
+      ]
+    },
+    {
+      "id": "OZEP002",
+      "name": "Ogba Riverfront Eco-Park",
+      "short_description": "An expansion of the famous Ogba Zoo, this new section features boardwalks through wetlands, bird-watching hides, and picnic spots along the Ogba River. A perfect escape into nature.",
+      "address": "Off Airport Road, Benin City, Edo State",
+      "opening_hours": "08:00-17:00 (Daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627915570891-628d6537b019?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDkwMDJ8MHwxfHNlYXJjaHwyMHx8cGFyayUyMGJvYXJkd2Fsa3xlbnwwfHx8fDE3MDM0NDE4MDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Eco-Tourism",
+        "Nature",
+        "Family Friendly"
+      ]
+    },
+    {
+      "id": "BFH003",
+      "name": "Benin Food Haven & Culinary Workshops",
+      "short_description": "A modern, bustling market and food court celebrating Edo's rich culinary heritage. Enjoy authentic local dishes, fresh produce, and participate in hands-on cooking classes.",
+      "address": "7 Sapele Road, Benin City, Edo State",
+      "opening_hours": "09:00-21:00 (Daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1620641151608-5d259c6c7475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDkwMDJ8MHwxfHNlYXJjaHwxNXx8YWZyaWNhbiUyMGZvb2QlMjBtYXJrZXR8ZW58MHx8fHwxNzAzNDQxOTU3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Food",
+        "Local Cuisine",
+        "Market"
+      ]
+    },
+    {
+      "id": "OGT004",
+      "name": "Oba's Grand Theatre & Cultural Centre",
+      "short_description": "A state-of-the-art facility dedicated to preserving and showcasing Edo cultural performances, from traditional dances to contemporary plays and musical concerts.",
+      "address": "12 Ring Road, Benin City, Edo State",
+      "opening_hours": "Event-based, Box Office: 10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/1769399/pexels-photo-1769399.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tags": [
+        "Performing Arts",
+        "Culture",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "RLM005",
+      "name": "Royal Legacy Museum & Interactive History Hub",
+      "short_description": "Step back in time with cutting-edge augmented reality and immersive exhibits, exploring the glorious history of the Benin Empire, its intricate art, and powerful monarchs.",
+      "address": "Museum Street, Off Airport Road, Benin City, Edo State",
+      "opening_hours": "09:00-17:00 (Mon-Sat)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547820121-7243983377ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDkwMDJ8MHwxfHNlYXJjaHw3fHxiaXJjZSUyMG11c2V1bXxlbnwwfHx8fDE3MDM0NDIzNTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "History",
+        "Benin Empire",
+        "Interactive"
+      ]
+    },
+    {
+      "id": "BFA006",
+      "name": "Benin Funzone Arena",
+      "short_description": "The ultimate family entertainment destination, featuring a multi-level soft play area, state-of-the-art arcade games, virtual reality experiences, and a mini-golf course.",
+      "address": "18 Adesuwa Road, GRA, Benin City, Edo State",
+      "opening_hours": "10:00-22:00 (Daily)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563200926-d66827038e3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDkwMDJ8MHwxfHNlYXJjaHwxMnx8aW5kb29yJTIwcGxheWdyb3VuZHxlbnwwfHx8fDE3MDM0NDI0ODJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Family Fun",
+        "Entertainment",
+        "Kids"
+      ]
+    },
+    {
+      "id": "TBCH007",
+      "name": "The Bronze Canvas Hotel & Cultural Retreat",
+      "short_description": "A luxurious boutique hotel offering modern comforts with a deep appreciation for Edo artistry. Enjoy exquisite dining, serene suites, and exclusive workshops on traditional crafts.",
+      "address": "Plot 4, Reservation Road, GRA, Benin City, Edo State",
+      "opening_hours": "24/7 (Hotel & Restaurant)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1566073771259-d8906d28996b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDkwMDJ8MHwxfHNlYXJjaHwxOHx8Ym91dGlxdWUlMjBob3RlbHxlbnwwfHx8fDE3MDM0NDI2NDl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Luxury Stay",
+        "Cultural Immersion",
+        "Relaxation"
+      ]
+    },
+    {
+      "id": "ETCH008",
+      "name": "Edo Tech & Creatives Hub (Public Wing)",
+      "short_description": "A dynamic space fostering innovation and artistic collaboration. Its public wing features a modern co-working cafe, exhibition space for local tech/art projects, and regular workshops.",
+      "address": "27 Airport Road, Benin City, Edo State",
+      "opening_hours": "08:00-20:00 (Mon-Sat)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1549646879-c529a67417e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDkwMDJ8MHwxfHNlYXJjaHw3fHxjb2xvcmZ1bCUyMGNvLXdvcmtpbmclMjBzcGFjZXxlbnwwfHx8fDE3MDM0NDI3NjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Innovation",
+        "Cafe",
+        "Workshops"
+      ]
+    },
+    {
+      "id": "LCV009",
+      "name": "Legacy Crafts Village & Artisan Workshops",
+      "short_description": "Experience the revival of traditional Edo crafts. Watch skilled artisans create stunning bronze castings, intricate carvings, and vibrant textiles, and even try your hand at a workshop.",
+      "address": "Ugbowo-Lagos Road, Benin City, Edo State",
+      "opening_hours": "09:00-18:00 (Mon-Sat)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621257917711-209a56e30094?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDkwMDJ8MHwxfHNlYXJjaHwxMXx8YnJvbnplJTIwY2FzdGluZ3xlbnwwfHx8fDE3MDM0NDMwMDJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Crafts",
+        "Traditional Art",
+        "Workshops"
+      ]
+    },
+    {
+      "id": "HRL010",
+      "name": "Horizon Rooftop Lounge & Sky Bar",
+      "short_description": "Enjoy panoramic views of Benin City from this chic rooftop lounge. Offering craft cocktails, gourmet small bites, and a sophisticated ambiance, it's the perfect spot for an evening unwind.",
+      "address": "5 Oko Central Road, Benin City, Edo State",
+      "opening_hours": "17:00-01:00 (Wed-Sun)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1559828384-2a1975e11947?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDkwMDJ8MHwxfHNlYXJjaHwxOHx8cm9vZnRvcCUyMGJhciUyMGNpdHl8ZW58MHx8fHwxNzAzNDQzNTM0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Nightlife",
+        "Drinks",
+        "Views"
+      ]
+    }
+  ]
+}

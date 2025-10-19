@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Samburu County",
+    "city_id": "2440"
+  },
+  "items": [
+    {
+      "id": "SB001",
+      "name": "Ewaso Eco-Lodge & Spa",
+      "short_description": "A luxurious tented camp offering responsible tourism experiences along the Ewaso Ng'iro River, complete with a wilderness spa and stunning wildlife views.",
+      "address": "Westgate Conservancy, along Ewaso Ng'iro River, Archers Post, Samburu County.",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1594950853509-02c3c1e0e7a1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "Luxury",
+        "Wildlife Safari",
+        "Wellness"
+      ]
+    },
+    {
+      "id": "SB002",
+      "name": "Samburu Heritage Village",
+      "short_description": "Immerse yourself in the rich culture of the Samburu people through interactive exhibits, traditional dances, and authentic craft demonstrations in a community-run village.",
+      "address": "Off Maralal-Baragoi Road, 15km North of Maralal, Samburu County.",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1592383864708-2e38b3a7b9e0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "Culture",
+        "Community",
+        "Education"
+      ]
+    },
+    {
+      "id": "SB003",
+      "name": "Kalama Rhino Conservation & Education Centre",
+      "short_description": "Discover the critical efforts to protect black rhinos at this new conservation centre. Learn about anti-poaching, habitat preservation, and get a chance to see these magnificent creatures from designated viewpoints.",
+      "address": "Kalama Community Conservancy, 30km East of Archers Post, Samburu East, Samburu County.",
+      "opening_hours": "08:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1590861058252-0e2f5b6b1a2a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "Wildlife",
+        "Conservation",
+        "Education"
+      ]
+    },
+    {
+      "id": "SB004",
+      "name": "Sarara Valley Panorama Point",
+      "short_description": "Ascend to this newly established viewpoint offering breathtaking 360-degree vistas of the expansive Sarara Valley and the majestic Mathews Range. Guided nature walks available.",
+      "address": "Near Namunyak Conservancy entrance, Wamba-Namunyak Road, Samburu North, Samburu County.",
+      "opening_hours": "07:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621213327684-219d3b76a0a0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "Scenery",
+        "Hiking",
+        "Nature"
+      ]
+    },
+    {
+      "id": "SB005",
+      "name": "Ewaso River Kayak Adventures",
+      "short_description": "Paddle along the calm stretches of the Ewaso Ng'iro River on a guided kayak tour, offering a unique perspective for birdwatching and spotting riverside wildlife like crocodiles and elephants.",
+      "address": "River Camp, 5km South of Archers Post Town, Samburu East, Samburu County.",
+      "opening_hours": "08:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1508670266016-d35c1f0d3b6f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "Adventure",
+        "Wildlife",
+        "Water Sports"
+      ]
+    },
+    {
+      "id": "SB006",
+      "name": "Samburu Star Dome Camp",
+      "short_description": "Experience the wonders of the African night sky from transparent geodesic domes, offering an immersive stargazing experience guided by resident astronomers.",
+      "address": "Remote plains, 20km North of Wamba, Samburu East, Samburu County.",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1616429532578-1a5c1b6b1d1f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "Stargazing",
+        "Unique Stay",
+        "Night Sky"
+      ]
+    },
+    {
+      "id": "SB007",
+      "name": "Maralal Agro-Eco Farm & Training Centre",
+      "short_description": "Explore sustainable farming practices adapted for arid regions, enjoy fresh farm-to-table meals, and participate in workshops on permaculture and water harvesting.",
+      "address": "Off Maralal-Rumuruti Road, 7km South of Maralal Town, Samburu County.",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621008639534-8c8f0c3d9b1c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "Agriculture",
+        "Sustainability",
+        "Education"
+      ]
+    },
+    {
+      "id": "SB008",
+      "name": "Melako Birding Haven & Tower",
+      "short_description": "A newly developed sanctuary and multi-tiered observation tower offering exceptional opportunities for birdwatchers to spot a rich diversity of species native to the arid savanna.",
+      "address": "Melako Community Conservancy, 45km North of Laisamis (along A2), Samburu East, Samburu County.",
+      "opening_hours": "07:00-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1507567634260-8f6e8c7c1a8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "Birdwatching",
+        "Nature",
+        "Wildlife"
+      ]
+    },
+    {
+      "id": "SB009",
+      "name": "Serian Springs Wellness Retreat",
+      "short_description": "Tucked away around newly discovered warm mineral springs, this tranquil retreat offers natural therapies, traditional Samburu wellness practices, and serene natural surroundings for ultimate relaxation.",
+      "address": "Off Isiolo-Marsabit Road (A2), near Samburu-Isiolo border, Samburu East, Samburu County.",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549419137-b6a9a7a6c9e0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "Wellness",
+        "Relaxation",
+        "Nature"
+      ]
+    },
+    {
+      "id": "SB010",
+      "name": "Wamba Women's Artisan Centre",
+      "short_description": "A vibrant hub celebrating Samburu craftsmanship, where local women create exquisite beadwork, traditional carvings, and textiles. Visitors can purchase unique souvenirs or join a hands-on workshop.",
+      "address": "Wamba Town Centre, next to Local Market, Samburu East, Samburu County.",
+      "opening_hours": "09:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1594155182967-b5d1a5b8e9f5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "Crafts",
+        "Culture",
+        "Shopping"
+      ]
+    }
+  ]
+}

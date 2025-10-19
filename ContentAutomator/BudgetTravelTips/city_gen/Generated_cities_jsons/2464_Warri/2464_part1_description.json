@@ -1,0 +1,65 @@
+{
+  "id": "2464",
+  "name": "Warri",
+  "country": "Nigeria",
+  "description": "Warri, a bustling oil city in Nigeria's Niger Delta, stands as a vibrant commercial and cultural melting pot. Strategically located along the Warri River, it serves as a crucial hub for the country's petroleum industry, influencing its energetic atmosphere and diverse population. The city is a mosaic of ethnic groups, predominantly Urhobo, Itsekiri, and Ijaw, each contributing to a rich tapestry of traditions, languages, and cuisine. Visitors can explore local markets like the famous Igbudu Market, brimming with fresh produce, crafts, and the lively pulse of daily life. The Nana Living History Museum in nearby Koko offers a glimpse into the region's pre-colonial trade history, while the Palace of the Olu of Warri showcases the royal heritage of the Itsekiri people. Beyond its industrial facade, Warri offers glimpses of the Niger Delta's unique riverine landscapes, with creeks and waterways forming integral parts of local transport and livelihood. Expect a warm, albeit sometimes intense, welcome, and an immersive experience into a city that epitomizes the resilience and vibrancy of Nigeria's southern heartland. Navigating Warri requires an open mind and an appreciation for its dynamic, often unpredictable, rhythm.",
+  "themes": [
+    "Oil City",
+    "Niger Delta",
+    "Cultural Hub",
+    "Riverine",
+    "Commercial Center"
+  ],
+  "body_attributes": {
+    "climate": "Tropical savanna climate with distinct wet (April-October) and dry (November-March) seasons. High humidity year-round.",
+    "best_time_to_visit": "Dry season, typically November to March, offers more comfortable weather for exploration.",
+    "population": "600,000+",
+    "area": "300 sq km",
+    "transport_summary": "Dominated by 'Keke-Napep' (motorized tricycles), local taxis, and minibuses. Boat transport is common along the creeks and rivers.",
+    "safety_level": "Medium",
+    "geographical_features": "Low-lying city situated in the Niger Delta, characterized by a network of rivers, creeks, and mangrove swamps, bordering the Warri River."
+  },
+  "travel_tips": [
+    "Stay hydrated, especially during the hot and humid months.",
+    "Use reputable taxi services or ride-hailing apps where available; avoid unknown private vehicles.",
+    "Be mindful of your belongings in crowded areas like markets.",
+    "Respect local customs and traditions, particularly when visiting traditional sites or meeting elders."
+  ],
+  "budget_tips": [
+    "Eat local street food and patronize small restaurants for authentic and affordable meals.",
+    "Haggle respectfully when shopping in local markets for better prices.",
+    "Opt for Keke-Napep or shared taxis for cost-effective local transport.",
+    "Consider guesthouses or smaller local hotels over international chains for accommodation savings."
+  ],
+  "seo": {
+    "seo_title": "Warri Travel Guide: Explore Nigeria's Vibrant Niger Delta City",
+    "seo_description": "Discover Warri, Nigeria's energetic oil city in the Niger Delta. Explore its rich culture, bustling markets, and riverine landscapes with our essential travel guide.",
+    "keywords": [
+      "Warri Nigeria",
+      "Niger Delta travel",
+      "Nigeria oil city",
+      "Warri culture",
+      "Delta State attractions"
+    ]
+  },
+  "meta": {
+    "continent": "Africa",
+    "currency": "Nigerian Naira (NGN)",
+    "language": "English, Urhobo, Itsekiri, Ijaw",
+    "time_zone": "West Africa Time (WAT)",
+    "popular_airlines": [
+      "Air Peace",
+      "Arik Air",
+      "Aero Contractors"
+    ]
+  },
+  "title": "Warri: Nigeria's Riverine Oil Hub and Cultural Melting Pot",
+  "images": [
+    "https://images.pexels.com/photos/1723508/pexels-photo-1723508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/8910087/pexels-photo-8910087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  ],
+  "coordinates": [
+    5.554399013519287,
+    5.793200969696045
+  ]
+}

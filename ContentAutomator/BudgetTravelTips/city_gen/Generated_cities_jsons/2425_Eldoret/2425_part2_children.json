@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Eldoret",
+    "city_id": "2425"
+  },
+  "items": [
+    {
+      "id": "EWC001",
+      "name": "Eldoret Wonder Circus",
+      "short_description": "Step into a magical world under the big top with thrilling acrobats, funny clowns, and dazzling animal acts, creating unforgettable family memories.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Uganda Road, next to Moi Teaching and Referral Hospital, Eldoret",
+      "opening_hours": "17:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510425712850-9378297b4b3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "circus",
+        "acrobatics",
+        "family show"
+      ]
+    },
+    {
+      "id": "RVPG002",
+      "name": "Rift Valley Puppet Guild",
+      "short_description": "Experience enchanting stories brought to life by talented puppeteers, featuring traditional tales and original adventures for all ages.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Oloo Street, Central Business District, Eldoret",
+      "opening_hours": "10:30-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1513253579899-23f27f075d9e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "puppet show",
+        "storytelling",
+        "theater"
+      ]
+    },
+    {
+      "id": "SCS003",
+      "name": "Safari Circus School & Show",
+      "short_description": "A unique venue offering both captivating circus performances and workshops where kids can learn basic circus skills like juggling and balancing.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Kimumu Road, Kimumu Estate, Eldoret",
+      "opening_hours": "14:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549725807-ee6e828e5e6e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "circus skills",
+        "workshops",
+        "interactive"
+      ]
+    },
+    {
+      "id": "MPA004",
+      "name": "Mwangaza Puppet Adventures",
+      "short_description": "A mobile puppet troupe that regularly performs educational and entertaining shows at community centers and local events across Eldoret.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Action Estate Community Hall, Eldoret (Main office)",
+      "opening_hours": "09:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1582294157929-c5c7d81a17b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "mobile show",
+        "community",
+        "educational"
+      ]
+    },
+    {
+      "id": "EDH001",
+      "name": "Eldoret Kids' Discovery Hub",
+      "short_description": "An interactive museum where children learn through play with hands-on exhibits covering science, art, and local culture.",
+      "subtype": "Children’s Museums",
+      "address": "Elgon View Estate, off Kidiwa Road, Eldoret",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594611295966-26798835824c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "interactive exhibits",
+        "learning",
+        "play"
+      ]
+    },
+    {
+      "id": "LIM002",
+      "name": "Little Innovators Museum",
+      "short_description": "Inspiring young minds with creative workshops and innovative displays focused on technology, engineering, and problem-solving.",
+      "subtype": "Children’s Museums",
+      "address": "MTRH Roundabout, Along Uganda Road, Eldoret",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1581423447999-5f21287c89b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "innovation",
+        "technology",
+        "workshops"
+      ]
+    },
+    {
+      "id": "UGCCC03",
+      "name": "Uasin Gishu Children's Cultural Center",
+      "short_description": "A vibrant center dedicated to introducing children to the rich cultures and traditions of Kenya through storytelling, crafts, and interactive exhibits.",
+      "subtype": "Children’s Museums",
+      "address": "Off Sosiani River Road, next to Zion Mall, Eldoret",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1574749313936-e0b0e5d0f1c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "culture",
+        "heritage",
+        "crafts"
+      ]
+    },
+    {
+      "id": "TTLM004",
+      "name": "Tiny Town Learning Museum",
+      "short_description": "A miniature city where children can role-play various professions and learn about community, civics, and everyday life in a fun, immersive environment.",
+      "subtype": "Children’s Museums",
+      "address": "Off Kisumu Road, West Indies, Eldoret",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621245995200-a525f2b235ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "role-play",
+        "civics",
+        "community"
+      ]
+    },
+    {
+      "id": "ERVG001",
+      "name": "Enchanted Rift Valley Gardens",
+      "short_description": "Wander through magical themed gardens, discover whimsical fairy houses, and enjoy charming rides inspired by classic fairy tales.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Outskirts of Eldoret, along Kapsabet Road",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1570775510684-245f47021371?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "fantasy",
+        "gardens",
+        "rides"
+      ]
+    },
+    {
+      "id": "SFP002",
+      "name": "Storybook Forest Park",
+      "short_description": "Explore a whimsical forest trail dotted with character statues and interactive story scenes from beloved children's books.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Kapsoya Estate, near Eldoret Airstrip, Eldoret",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563812239-011dd592b52b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "storybook",
+        "nature walk",
+        "characters"
+      ]
+    },
+    {
+      "id": "PKOK003",
+      "name": "Princess & Knight Kingdom",
+      "short_description": "A themed playground and event space where children can dress up, meet royal characters, and participate in knightly quests and princess parties.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Along Iten Road, Near Annex, Eldoret",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616782255866-5122709e9f90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "costumes",
+        "characters",
+        "play area"
+      ]
+    },
+    {
+      "id": "WWFT004",
+      "name": "Whispering Woods Fairy Trail",
+      "short_description": "A charming walking trail through a serene forest, featuring tiny fairy doors, hidden gnomes, and magical natural sculptures.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Kaptagat Forest Edge, Eldoret North",
+      "opening_hours": "08:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510443213928-863a352069b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "nature trail",
+        "fairies",
+        "imagination"
+      ]
+    },
+    {
+      "id": "JEA001",
+      "name": "Jurassic Eldoret Adventure",
+      "short_description": "Roam among life-sized dinosaur replicas, some even animatronic, and dig for fossils in this exciting prehistoric park.",
+      "subtype": "Dinosaur Parks",
+      "address": "Off Uganda Road, near Chepkoilel University, Eldoret",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1618174574902-861c8a169b12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "dinosaurs",
+        "animatronics",
+        "fossil hunt"
+      ]
+    },
+    {
+      "id": "PPP002",
+      "name": "Prehistoric Playground Park",
+      "short_description": "A dinosaur-themed playground with climbing structures, slides, and educational panels about different dinosaur species.",
+      "subtype": "Dinosaur Parks",
+      "address": "Off Kisumu Road, Langas Area, Eldoret",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1614059288151-54c2518e9323?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "playground",
+        "dino statues",
+        "education"
+      ]
+    },
+    {
+      "id": "DVEC003",
+      "name": "Dino Valley Exploration Center",
+      "short_description": "An indoor and outdoor center offering dinosaur exhibits, paleontological digs, and interactive displays on ancient Earth.",
+      "subtype": "Dinosaur Parks",
+      "address": "Along Kapsabet Road, Annex, Eldoret",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601334641957-696716f21287?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "paleontology",
+        "exhibits",
+        "dig site"
+      ]
+    },
+    {
+      "id": "RRDC004",
+      "name": "Raptor Ridge Discovery",
+      "short_description": "Focusing on predatory dinosaurs, this park offers thrilling themed trails, scavenger hunts, and educational shows about raptors.",
+      "subtype": "Dinosaur Parks",
+      "address": "Outskirts of Eldoret, near Plateau",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627914860471-50e59a6858e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "raptors",
+        "adventure",
+        "shows"
+      ]
+    },
+    {
+      "id": "ECD001",
+      "name": "Eldoret Cosmos Dome",
+      "short_description": "Journey through the stars and galaxies in a state-of-the-art digital dome, offering immersive shows tailored for young astronomers.",
+      "subtype": "Planetariums for Kids",
+      "address": "University of Eldoret Grounds, Chepkoilel, Eldoret",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594953922616-e5ce71ed5747?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "space",
+        "stars",
+        "astronomy"
+      ]
+    },
+    {
+      "id": "LASL002",
+      "name": "Little Astronauts Star Lab",
+      "short_description": "An interactive center featuring hands-on exhibits about space travel, planets, and constellations, perfect for budding astronauts.",
+      "subtype": "Planetariums for Kids",
+      "address": "Pioneer Estate, off Kapsabet Road, Eldoret",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1595183387815-58e578c2e639?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "planets",
+        "astronauts",
+        "exhibits"
+      ]
+    },
+    {
+      "id": "RVSE003",
+      "name": "Rift Valley Space Explorers",
+      "short_description": "Combining a small planetarium dome with engaging space-themed games and learning stations about the solar system.",
+      "subtype": "Planetariums for Kids",
+      "address": "MTRH Roundabout, next to Zion Mall, Eldoret",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594953835626-6b21c4e7d9b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "solar system",
+        "games",
+        "learning"
+      ]
+    },
+    {
+      "id": "SJP004",
+      "name": "Stellar Journey Planetarium",
+      "short_description": "Offers dazzling visual experiences of the cosmos and guided tours of the night sky, making complex astronomical concepts accessible to children.",
+      "subtype": "Planetariums for Kids",
+      "address": "Kapsoya Shopping Centre, Eldoret",
+      "opening_hours": "13:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549558509-5a1835ae36cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "cosmic shows",
+        "night sky",
+        "visuals"
+      ]
+    },
+    {
+      "id": "EYSL001",
+      "name": "Eldoret Young Scientists Lab",
+      "short_description": "A dynamic science center where children can conduct experiments, explore scientific principles, and unleash their inner scientist.",
+      "subtype": "Science Centers",
+      "address": "Next to Eldoret National Polytechnic, Kapsabet Road, Eldoret",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579822601705-592671e2efd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "experiments",
+        "scientific principles",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "ISK002",
+      "name": "Innovation Station for Kids",
+      "short_description": "Featuring interactive exhibits on physics, chemistry, and biology, designed to spark curiosity and foster a love for discovery.",
+      "subtype": "Science Centers",
+      "address": "Uganda Road, Opp. Eldoret Sports Club, Eldoret",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1626296316719-20f772e06180?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "physics",
+        "biology",
+        "discovery"
+      ]
+    },
+    {
+      "id": "CCSE003",
+      "name": "Curiosity Corner Science Explorers",
+      "short_description": "A fun and educational space with rotating themed exhibits, science demonstrations, and creative challenges for young learners.",
+      "subtype": "Science Centers",
+      "address": "Elgon View Estate, next to Golf Club, Eldoret",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1599385611311-897c8d9c5e3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "demonstrations",
+        "themed exhibits",
+        "challenges"
+      ]
+    },
+    {
+      "id": "TKDH004",
+      "name": "Tech Kids Discovery Hub",
+      "short_description": "Focusing on modern technology, this center introduces kids to coding, robotics, and digital design through interactive workstations.",
+      "subtype": "Science Centers",
+      "address": "Annex Centre, Iten Road, Eldoret",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582294165506-c0d16a506a73?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "coding",
+        "robotics",
+        "digital design"
+      ]
+    },
+    {
+      "id": "ESQP001",
+      "name": "Eldoret Safari Quest Park",
+      "short_description": "An outdoor adventure park featuring ziplines, obstacle courses, and themed challenges designed to test agility and teamwork.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Along Uganda Road, near Rivatex, Eldoret",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1555132785-5a506c075253?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "ziplines",
+        "obstacle course",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "RVER002",
+      "name": "Rift Valley Escape Room for Kids",
+      "short_description": "Family-friendly escape rooms with engaging puzzles and mysteries, designed for children to solve with their parents or friends.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Zion Mall, Uganda Road, Eldoret",
+      "opening_hours": "11:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563812361664-d75d27d97652?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "escape room",
+        "puzzles",
+        "mystery"
+      ]
+    },
+    {
+      "id": "MMKC003",
+      "name": "Mystery Manor Kids Challenge",
+      "short_description": "A self-guided quest game set in a playful 'haunted' house, where children solve clues to uncover a hidden treasure.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Off Kisumu Road, West Indies, Eldoret",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1580271701046-24c64375b430?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "treasure hunt",
+        "clues",
+        "adventure"
+      ]
+    },
+    {
+      "id": "JJOC004",
+      "name": "Jungle Jumpers Obstacle Course",
+      "short_description": "An exciting outdoor course filled with nets, tunnels, balance beams, and climbing walls for kids to test their physical skills.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Along Kapsabet Road, near Eldoret Club, Eldoret",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621245995402-416b23023e98?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "physical activity",
+        "outdoor fun",
+        "climbing"
+      ]
+    },
+    {
+      "id": "GACF001",
+      "name": "Green Acres Children's Farm",
+      "short_description": "A working farm where children can interact with various farm animals, learn about crops, and enjoy tractor rides.",
+      "subtype": "Farm Attractions",
+      "address": "Outskirts of Eldoret, along Iten Road",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1507147772658-2fc8c634b071?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "farm animals",
+        "agriculture",
+        "tractor rides"
+      ]
+    },
+    {
+      "id": "HHPZ002",
+      "name": "Happy Hooves Petting Zoo & Farm",
+      "short_description": "Offers hands-on experiences with friendly farm animals, from feeding goats to petting rabbits, alongside educational farm tours.",
+      "subtype": "Farm Attractions",
+      "address": "Kapsoya Estate, near Eldoret Bypass, Eldoret",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1601618698282-e2d9b5e3c847?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "petting zoo",
+        "farm tours",
+        "animal interaction"
+      ]
+    },
+    {
+      "id": "MMFF003",
+      "name": "Maize Maze & Farm Fun",
+      "short_description": "Challenge yourself in a seasonal maize maze, then enjoy various farm-themed games, bouncy castles, and a picnic area.",
+      "subtype": "Farm Attractions",
+      "address": "Near University of Eldoret, Chepkoilel, Eldoret",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596707834515-5e043644f839?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "corn maze",
+        "outdoor games",
+        "seasonal"
+      ]
+    },
+    {
+      "id": "SFD004",
+      "name": "Sunrise Farm Discovery",
+      "short_description": "A family-friendly farm where kids can participate in daily chores, collect eggs, and learn about sustainable farming practices.",
+      "subtype": "Farm Attractions",
+      "address": "Langas Road, Huruma, Eldoret",
+      "opening_hours": "08:30-15:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1555627230-e3801f9d45e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "chores",
+        "sustainable farming",
+        "educational"
+      ]
+    },
+    {
+      "id": "EWSK001",
+      "name": "Eldoret Wildlife Sanctuary for Kids",
+      "short_description": "A sanctuary focused on local Kenyan wildlife, providing educational encounters and promoting conservation awareness for young visitors.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Along Uganda Road, near Moi's Bridge turn-off, Eldoret",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510414749323-5e921d428574?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "educational"
+      ]
+    },
+    {
+      "id": "MSZ002",
+      "name": "Miniature Savannah Zoo",
+      "short_description": "A compact zoo featuring smaller African animals and birds, designed for easy navigation by families with young children.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Off Kisumu Road, near National Bank Training School, Eldoret",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547470986-e26b38c227fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "african animals",
+        "birds",
+        "compact zoo"
+      ]
+    },
+    {
+      "id": "TBRH003",
+      "name": "Tropical Bird & Reptile House",
+      "short_description": "Discover a vibrant collection of exotic birds and fascinating reptiles in climate-controlled exhibits, perfect for curious minds.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Elgon View Estate, next to the Arboretum, Eldoret",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596827038161-00109918f6e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "exotic birds",
+        "reptiles",
+        "tropical"
+      ]
+    },
+    {
+      "id": "KCC004",
+      "name": "Kids' Critter Corner",
+      "short_description": "A dedicated petting zoo and small animal enclosure where children can safely interact with gentle domestic and small exotic animals.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Pioneer Estate, along Kapsabet Road, Eldoret",
+      "opening_hours": "10:30-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563852083162-8e10c73801f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "petting zoo",
+        "small animals",
+        "interactive"
+      ]
+    },
+    {
+      "id": "EBMK001",
+      "name": "Eldoret Brick Masters Kingdom",
+      "short_description": "An indoor wonderland filled with millions of LEGO bricks, offering free play zones, building challenges, and impressive brick creations.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Zion Mall, Ground Floor, Uganda Road, Eldoret",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582294156906-8d549aa6000d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Lego",
+        "building blocks",
+        "creative play"
+      ]
+    },
+    {
+      "id": "CBW002",
+      "name": "Creative Builders Workshop",
+      "short_description": "A dynamic space equipped with various construction materials, from giant foam blocks to intricate K'nex, encouraging imaginative engineering.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Kapsoya Shopping Centre, 1st Floor, Eldoret",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510414709-38c26027a00f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "construction",
+        "engineering",
+        "imagination"
+      ]
+    },
+    {
+      "id": "MCCZ003",
+      "name": "Mini City Construction Zone",
+      "short_description": "An outdoor park where kids can operate mini-diggers, cranes, and dump trucks in a supervised sandpit, building their own miniature city.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Off Kisumu Road, West Indies, Eldoret",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1550518335-5134700874e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "mini construction",
+        "diggers",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "BPPP004",
+      "name": "Blocktopia Play Park",
+      "short_description": "A vibrant indoor park featuring giant soft blocks, building stations with various brick types, and a dedicated toddlers' block area.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Along Iten Road, Near Annex Centre, Eldoret",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1606180351724-4f0f63a131b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "blocks",
+        "soft play",
+        "toddler friendly"
+      ]
+    }
+  ]
+}

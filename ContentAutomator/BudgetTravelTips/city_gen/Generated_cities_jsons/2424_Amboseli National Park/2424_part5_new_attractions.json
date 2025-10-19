@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Amboseli National Park",
+    "city_id": "2424"
+  },
+  "items": [
+    {
+      "id": "AMB-001",
+      "name": "Bustani ya Tembo Viewpoint",
+      "short_description": "An elevated, accessible platform offering breathtaking panoramic views of Amboseli's magnificent elephant herds against the iconic backdrop of Mount Kilimanjaro. Opened in 2022, it's a prime spot for photography and wildlife observation.",
+      "address": "Near the Ol Tukai Airstrip, Central Amboseli National Park",
+      "opening_hours": "06:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579774624469-bb1488c91834?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wildlife",
+        "viewpoint",
+        "photography"
+      ]
+    },
+    {
+      "id": "AMB-002",
+      "name": "Amboseli Discovery Trails",
+      "short_description": "Explore the park's diverse flora and smaller wildlife on newly established guided walking trails led by expert rangers. Launched in 2023, these trails provide a unique, intimate perspective of the savanna ecosystem away from traditional game drives.",
+      "address": "Starting Point near Kimana Gate, Amboseli National Park",
+      "opening_hours": "07:00-11:00, 15:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510414434937-56e632863920?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "hiking",
+        "nature",
+        "guided tour"
+      ]
+    },
+    {
+      "id": "AMB-003",
+      "name": "Kibo Panorama Deck",
+      "short_description": "A newly constructed, serene viewing deck (opened 2021) offering unparalleled, unobstructed vistas of Mount Kilimanjaro's snow-capped Kibo peak. Perfect for sunrise coffees or sundowner drinks with a truly majestic backdrop.",
+      "address": "Eastern side of Lake Amboseli, Amboseli National Park",
+      "opening_hours": "05:30-19:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579628286008-db2c1743a414?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "scenic view",
+        "photography",
+        "sunrise/sunset"
+      ]
+    },
+    {
+      "id": "AMB-004",
+      "name": "Wildlife Guardianship Centre",
+      "short_description": "An interactive educational center inaugurated in 2020, dedicated to Amboseli's pioneering conservation efforts and wildlife protection. Learn about anti-poaching, human-wildlife conflict resolution, and the park's resident species.",
+      "address": "Adjacent to Amboseli Main Gate, Amboseli National Park",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1602737669389-1e389c89e246?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "conservation",
+        "education",
+        "visitor center"
+      ]
+    },
+    {
+      "id": "AMB-005",
+      "name": "Ndovu's Nursery Exhibit",
+      "short_description": "A special exhibit opened in 2023 focusing on the lives and challenges of Amboseli's young elephants. Through engaging displays and short films, understand the vital work in protecting future generations of these magnificent giants.",
+      "address": "Within the Wildlife Guardianship Centre, Amboseli National Park",
+      "opening_hours": "09:30-16:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1563810459341-949e29544923?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "elephants",
+        "wildlife",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": "AMB-006",
+      "name": "Wetlands Avian Sanctuary",
+      "short_description": "A newly established (2022), discreet hide overlooking a vibrant wetland area, perfect for avid birdwatchers. Observe diverse waterfowl, raptors, and migratory birds in their natural habitat without disturbance.",
+      "address": "South-western swamps, Amboseli National Park",
+      "opening_hours": "06:30-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506456041300-47b85cf557b7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "birdwatching",
+        "nature",
+        "photography"
+      ]
+    },
+    {
+      "id": "AMB-007",
+      "name": "Ol Tukai Cultural Village",
+      "short_description": "Immerse yourself in an authentic Maasai cultural experience at this village, opened in 2019. Engage directly with the local community, learn about their traditions, dances, and daily life, supporting sustainable community tourism.",
+      "address": "Near Ol Tukai Lodge, Western Amboseli National Park",
+      "opening_hours": "09:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1590458925501-497747e923e4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "culture",
+        "Maasai",
+        "community tourism"
+      ]
+    },
+    {
+      "id": "AMB-008",
+      "name": "Twilight Safari Zone",
+      "short_description": "Experience the magic of Amboseli as day turns to night in this specially designated and ranger-patrolled zone, introduced in 2021. Witness nocturnal creatures emerge and the savanna transform under the fading light on a thrilling evening drive.",
+      "address": "Northern plains, accessible via Namanga Gate, Amboseli National Park",
+      "opening_hours": "18:30-21:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1518175404558-f542a129ef9f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "night safari",
+        "wildlife",
+        "adventure"
+      ]
+    },
+    {
+      "id": "AMB-009",
+      "name": "Photographer's Hideaway",
+      "short_description": "A purpose-built, camouflaged hide (opened 2020) strategically located near a perennial waterhole, offering professional and amateur photographers incredible close-up opportunities of Amboseli's abundant wildlife in comfort and stealth.",
+      "address": "Near Enkongo Narok swamp, Central Amboseli National Park",
+      "opening_hours": "06:00-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1502695579895-ec63a43697e8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "photography",
+        "wildlife",
+        "observation"
+      ]
+    },
+    {
+      "id": "AMB-010",
+      "name": "Starfall Observatory",
+      "short_description": "A newly installed (2023) open-air observatory offering unparalleled stargazing experiences away from any light pollution. Gaze at the Milky Way and constellations with powerful telescopes under the vast, clear African night sky.",
+      "address": "Northern sector, near Amboseli Bush Camp, Amboseli National Park",
+      "opening_hours": "19:30-23:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1505367623190-7d6f5195325c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "stargazing",
+        "astronomy",
+        "night activity"
+      ]
+    }
+  ]
+}

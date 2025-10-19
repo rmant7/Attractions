@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Meru",
+    "city_id": "2436"
+  },
+  "items": [
+    {
+      "id": "MeruDunes1",
+      "name": "Crimson Sands of Oasis Dune",
+      "short_description": "Explore the rolling red dunes of Oasis Dune, offering a breathtaking landscape perfect for photography and desert adventures. Witness the shifting sands come alive with vibrant colors, especially at sunrise or sunset.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Eastern Meru Desert expanse",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1552765355-6b5cf07c3f30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwyMHx8ZGVzZXJ0JTIwZHVudXxlbnwwfHx8fDE3MTQ1NzAwMzV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "desertscape",
+        "photography",
+        "adventure"
+      ]
+    },
+    {
+      "id": "MeruDunes2",
+      "name": "Whispering Winds Ridge",
+      "short_description": "Discover the tranquility of Whispering Winds Ridge, a vast stretch of golden sand dunes known for its unique patterns sculpted by the wind. A prime spot for serene walks and stargazing.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "North Meru Arid Plains",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1522867086884-6d9179d63c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHw3fHxzYW5kJTIwZHVuc3xlbnwwfHx8fDE3MTQ1NzAyMDh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "stargazing",
+        "serenity",
+        "naturewalk"
+      ]
+    },
+    {
+      "id": "MeruDunes3",
+      "name": "Mirage Vista Point",
+      "short_description": "A popular viewing point offering expansive panoramas of Meru's semi-desert region, where distant dunes create mesmerizing mirages. Perfect for capturing the vastness of the landscape.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Dune Valley Overlook",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1517409540061-f09dfd707c77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxNXx8ZGVzZXJ0JTIwdmVycml6b258ZW58MHx8fHwxNzE0NTcwMzIyfMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "panorama",
+        "scenicview",
+        "landscape"
+      ]
+    },
+    {
+      "id": "MeruDunes4",
+      "name": "Sun-Kissed Desert Trails",
+      "short_description": "Embark on guided walks through gentle desert trails, experiencing the unique flora and fauna that thrive in Meru's arid zones. Discover hidden oases and ancient rock formations.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Ancient Riverbed Preserve",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563815598284-98448834d852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxNHx8ZGVzZXJ0JTIwYmx1ZSUyMHNreXxlbnwwfHx8fDE3MTQ1NzAzODV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "hiking",
+        "wildlife",
+        "exploration"
+      ]
+    },
+    {
+      "id": "MeruHotel1",
+      "name": "Sky-Dweller Treehouse Lodge",
+      "short_description": "Perched high above the canopy, this unique eco-lodge offers luxurious treehouse suites with panoramic forest views. Experience unparalleled serenity and wake up to the sounds of nature.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Meru Forest Reserve",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1555547447-92751f2e1a3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwyMHx8dHJlZWhvdXNlJTIwbG9kZ2V8ZW58MHx8fHwxNzE0NTcwNzA3fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "eco-lodge",
+        "luxury",
+        "natureescape"
+      ]
+    },
+    {
+      "id": "MeruHotel2",
+      "name": "The Cavern Sanctuary Hotel",
+      "short_description": "An extraordinary hotel built within ancient caves, offering cool, secluded rooms and a mystical atmosphere. Enjoy modern comforts blended seamlessly with natural geological formations.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Limestone Hills Caverns",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1594911765796-cfec3e25b398?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHw3fHxjYXZlJTIwaG90ZWx8ZW58MHx8fHwxNzE0NTcwNzk0fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cavehotel",
+        "uniqueaccommodation",
+        "romantic"
+      ]
+    },
+    {
+      "id": "MeruHotel3",
+      "name": "Stargazer's Desert Glamp",
+      "short_description": "Luxury glamping tents set in a pristine desert landscape, perfect for an immersive night under a blanket of stars. Each tent offers comfort and privacy with unparalleled sky views.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Meru Aridlands",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1522262961817-48f070669279?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwyMHx8Z2xhbXBpbmclMjBkZXNlcnR8ZW58MHx8fHwxNzE0NTcwODU3fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "glamping",
+        "stargazing",
+        "desertstay"
+      ]
+    },
+    {
+      "id": "MeruHotel4",
+      "name": "Riverbend Glass House Retreat",
+      "short_description": "A minimalist glass house designed for ultimate connection with nature, nestled by a tranquil river. Enjoy 360-degree views of the surrounding wildlife and lush riparian forests.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Meru Riverbanks",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1502672260268-233f2081d69d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxMnx8Z2xhc3MlMjBob3VzZSUyMGhvdGVsfGVufDB8fHx8MTcxNDU3MDkxMnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "architecture",
+        "natureview",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "MeruMarket1",
+      "name": "The Grand Meru Souk",
+      "short_description": "Immerse yourself in the bustling atmosphere of Meru's largest traditional market, offering everything from spices and textiles to local crafts. A sensory overload of sights, sounds, and smells.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Old Town Square",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1517409540061-f09dfd707c77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxNXx8ZGVzZXJ0JTIwdmVycml6b258ZW58MHx8fHwxNzE0NTcwMzIyfMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "traditionalmarket",
+        "shopping",
+        "culture"
+      ]
+    },
+    {
+      "id": "MeruMarket2",
+      "name": "Artisan's Alley Bazaar",
+      "short_description": "Discover unique handmade goods, intricate jewelry, and local artworks in this charming, winding bazaar. Support local artisans and find perfect souvenirs.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Crafts District",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1557342080-b749ae1309f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxMHx8YXJ0aXNhbiUyMG1hcmtldHxlbnwwfHx8fDE3MTQ1NzEwOTl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "handmadecrafts",
+        "souvenirs",
+        "localart"
+      ]
+    },
+    {
+      "id": "MeruMarket3",
+      "name": "Spice Route Night Market",
+      "short_description": "As the sun sets, this market awakens with aromatic spices, fresh produce, and delicious street food. A vibrant evening experience for foodies and explorers.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Riverside Promenade",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1563725595960-936d5e1e1276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwyMHx8bmlnaHQlMjBtYXJrZXR8ZW58MHx8fHwxNzE0NTcxMTg4fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nightmarket",
+        "streetfood",
+        "spices"
+      ]
+    },
+    {
+      "id": "MeruMarket4",
+      "name": "Farmers' Fresh Hub",
+      "short_description": "A lively morning market where local farmers sell their freshly harvested produce, dairy, and baked goods. Experience the true taste of Meru and connect with local growers.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Agricultural Greenbelt",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1506801966-2246c105c3c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwyMHx8ZmFybWVyJTIwbWFya2V0fGVufDB8fHx8MTcxNDU3MTI1OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "freshproduce",
+        "localfood",
+        "community"
+      ]
+    },
+    {
+      "id": "MeruRoof1",
+      "name": "Skyline Serenity Lounge",
+      "short_description": "Enjoy sophisticated cocktails and panoramic views of Meru's urban skyline from this upscale rooftop lounge. The perfect spot for a stylish evening.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Central Business District",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1549488349-e15545199616?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxNnx8cm9vZnRvcCUyMGJhcnxlbnwwfHx8fDE3MTQ1NzEzNjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nightlife",
+        "cityview",
+        "cocktails"
+      ]
+    },
+    {
+      "id": "MeruRoof2",
+      "name": "Sunset Terrace Bar",
+      "short_description": "Boasting unparalleled sunset views over the Meru River and surrounding hills, this open-air terrace is ideal for relaxed sundowners and romantic moments.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Riverside Quarter",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1558909871-3316279930f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHw3fHxzZXR0aW5nJTIwc3Vuc2V0JTIwcml2ZXJ8ZW58MHx8fHwxNzE0NTcxNDY0fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sunsetview",
+        "romantic",
+        "drinks"
+      ]
+    },
+    {
+      "id": "MeruRoof3",
+      "name": "Mountain Vista Cafe",
+      "short_description": "Enjoy your morning coffee or afternoon tea with breathtaking views of Mount Meru and the lush valleys below. A peaceful escape above the city bustle.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Uptown Hills",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549488349-e15545199616?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxNnx8cm9vZnRvcCUyMGJhcnxlbnwwfHx8fDE3MTQ1NzEzNjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mountainview",
+        "cafe",
+        "peaceful"
+      ]
+    },
+    {
+      "id": "MeruRoof4",
+      "name": "The Observatory Deck",
+      "short_description": "A public viewing deck offering panoramic 360-degree vistas of Meru city, its surrounding landscapes, and a clear view of the stars on cloudless nights.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Heritage Tower",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1548239339-38505e839e94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxMHx8Y2l0eSUyMHJvb2Z0b3B8ZW58MHx8fHwxNzE0NTcxNTMwfMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cityscape",
+        "stargazing",
+        "viewpoint"
+      ]
+    },
+    {
+      "id": "MeruHist1",
+      "name": "The Old Meru Citadel",
+      "short_description": "Explore the imposing stone walls and ancient courtyards of the Meru Citadel, a testament to centuries of history. Discover hidden chambers and panoramic views from its ramparts.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Old Town Meru",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1579294247071-871d87e0026e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxMHx8YW5jaWVudCUyMGZvcnR8ZW58MHx8fHwxNzE0NTcxNjU3fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancientruins",
+        "fortress",
+        "history"
+      ]
+    },
+    {
+      "id": "MeruHist2",
+      "name": "Colonial Governor's Residence",
+      "short_description": "A beautifully preserved colonial-era mansion, showcasing exquisite European architecture with local influences. Now a museum, it offers a glimpse into Meru's past.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Heritage Hill",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1588636544865-c720e5884e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHw2fHxjYWxvbnklMjBhcmNoaXRlY3R1cmV8ZW58MHx8fHwxNzE0NTcxNzU4fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "colonial",
+        "museum",
+        "mansion"
+      ]
+    },
+    {
+      "id": "MeruHist3",
+      "name": "The Sanctuary of Whispers",
+      "short_description": "An ancient temple carved directly into the living rock, featuring intricate carvings and a serene, mystical atmosphere. A spiritual and architectural marvel.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Sacred Rock Formations",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1565259166708-d218d6a8b79f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHw3fHxjYXJ2ZWQlMjB0ZW1wbGV8ZW58MHx8fHwxNzE0NTcxODI4fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "rockcut",
+        "temple",
+        "spiritual"
+      ]
+    },
+    {
+      "id": "MeruHist4",
+      "name": "Meru Clock Tower",
+      "short_description": "An iconic landmark in the heart of the city, this historic clock tower stands tall as a symbol of Meru's enduring legacy. Its intricate facade is a popular photo spot.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Central Plaza",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1567117282845-6ed552d5b5ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwzMHx8Y2xvY2slMjB0b3dlcnxlbnwwfHx8fDE3MTQ1NzE4OTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "landmark",
+        "cityicon",
+        "architecture"
+      ]
+    },
+    {
+      "id": "MeruNature1",
+      "name": "The Emerald Grotto Caves",
+      "short_description": "Explore a network of stunning limestone caves, famous for their natural pools with an ethereal emerald glow caused by unique mineral deposits. A truly magical underground experience.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Hidden Valley Karst",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1520625348873-10e6edc60c38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHw5fHxteXN0ZXJpb3VzJTIwY2F2ZXxlbnwwfHx8fDE3MTQ1NzIwMTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "caveexploration",
+        "geology",
+        "glowingwater"
+      ]
+    },
+    {
+      "id": "MeruNature2",
+      "name": "Rainbow Rock Canyons",
+      "short_description": "Witness the dramatic geological formations of Rainbow Rock Canyons, where strata of colored rock create a stunning palette of natural hues. Ideal for hiking and photography.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Western Meru Badlands",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1627931327110-85f524e75618?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxNnx8cmFpbmJvdyUyMHJvY2slMjBjYW55b258ZW58MHx8fHwxNzE0NTcyMDc3fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "canyons",
+        "geological",
+        "hiking"
+      ]
+    },
+    {
+      "id": "MeruNature3",
+      "name": "The Petrified Forest of Ages",
+      "short_description": "Walk amidst a silent forest of ancient, petrified trees, perfectly preserved over millennia. A unique natural museum showcasing the passage of time.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Meru Ancient Basin",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1630176840428-662f3f90e542?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxNHx8cGV0cmlmaWVkJTIwZm9yZXN0fGVufDB8fHx8MTcxNDU3MjEzM3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "paleontology",
+        "ancienttrees",
+        "unique"
+      ]
+    },
+    {
+      "id": "MeruNature4",
+      "name": "Crystal Clear Lagoon",
+      "short_description": "A secluded, spring-fed lagoon with exceptionally clear, turquoise waters, surrounded by lush vegetation. Perfect for a refreshing dip and tranquil moments.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Hidden Meru Oasis",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549488349-e15545199616?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxNnx8cm9vZnRvcCUyMGJhcnxlbnwwfHx8fDE3MTQ1NzEzNjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "swimming",
+        "oasis",
+        "clearwater"
+      ]
+    },
+    {
+      "id": "MeruFlower1",
+      "name": "Sunstone Lavender Fields",
+      "short_description": "Wander through endless rows of fragrant lavender, blooming vibrantly in the sun. An idyllic setting for picnics, photography, and aromatic relaxation.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Highland Valleys",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1574676450-9f170c01d4a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHw3fHxsYXZlbmRlciUyMGZpZWxkc3xlbnwwfHx8fDE3MTQ1NzIyNjR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lavender",
+        "fragrant",
+        "photography"
+      ]
+    },
+    {
+      "id": "MeruFlower2",
+      "name": "Meru Botanical Sanctuary",
+      "short_description": "A meticulously curated garden showcasing indigenous Meru flora, exotic plant species, and beautifully designed landscape features. A haven for botany enthusiasts.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "City Park North",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1518717758531-13554e565b4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwzMHx8Ym90YW5pY2FsJTIwZ2FyZGVuc3xlbnwwfHx8fDE3MTQ1NzIzMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "botany",
+        "gardens",
+        "nature"
+      ]
+    },
+    {
+      "id": "MeruFlower3",
+      "name": "Whispering Petal Gardens",
+      "short_description": "A series of themed gardens featuring vibrant seasonal blooms, intricate topiaries, and serene water features. Perfect for a leisurely stroll and floral appreciation.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Estates District",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1518926941838-5182a4729f27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwyMnx8Zmxvd2VyJTIwZ2FyZGVuc3xlbnwwfHx8fDE3MTQ1NzIzNzV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "floral",
+        "topiary",
+        "serene"
+      ]
+    },
+    {
+      "id": "MeruFlower4",
+      "name": "Orchid Oasis Conservatory",
+      "short_description": "Step into a tropical paradise filled with thousands of exotic orchids in every color imaginable. This climate-controlled conservatory is a marvel of biodiversity.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Arboretum Complex",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1519785848529-652a65b05a63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwyMHx8b3JjaGlkJTIwZ2FyZGVufGVufDB8fHx8MTcxNDU3MjQ0N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "orchids",
+        "tropical",
+        "biodiversity"
+      ]
+    },
+    {
+      "id": "MeruPool1",
+      "name": "Sky-High Horizon Pool",
+      "short_description": "Perched atop a skyscraper, this stunning infinity pool offers breathtaking city views that merge seamlessly with the horizon. A luxurious escape above the urban landscape.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Downtown Luxury Hotel",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1543770485-5b87198d5c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwyMHx8aW5maW5pdHklMjBwb29sJTIwY2l0eXZpZXd8ZW58MHx8fHwxNzE0NTcyNTg0fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "luxury",
+        "cityview",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "MeruPool2",
+      "name": "Cliffside Serenity Pool",
+      "short_description": "Experience unparalleled tranquility in this infinity pool seemingly carved into a cliff, offering dramatic vistas of the ocean and rugged coastline below.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Coastal Cliffs Retreat",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1509657077366-4f4756858e99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxMnx8aW5maW5pdHklMjBwb29sJTIwY2xpZmZ8ZW58MHx8fHwxNzE0NTcyNjQ0fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "oceanview",
+        "cliffedge",
+        "meditative"
+      ]
+    },
+    {
+      "id": "MeruPool3",
+      "name": "Forest Edge Infinity Spa",
+      "short_description": "Nestled at the edge of a lush forest, this heated infinity pool provides a secluded, naturalistic bathing experience. Listen to the sounds of the wilderness as you soak.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Meru National Park Lodge",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582236531986-53d7124f5a3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxNHx8aW5maW5pdHklMjBwb29sJTIwZm9yZXN0fGVufDB8fHx8MTcxNDU3MjY4N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "forestview",
+        "spa",
+        "nature"
+      ]
+    },
+    {
+      "id": "MeruPool4",
+      "name": "Desert Oasis Infinity Pool",
+      "short_description": "A stunning infinity pool that appears to melt into the arid desert landscape, offering a refreshing escape and surreal views of sand dunes under a vast sky.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Meru Desert Eco-Resort",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1627931327110-85f524e75618?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxNnx8cmFpbmJvdyUyMHJvY2slMjBjYW55b258ZW58MHx8fHwxNzE0NTcyMDc3fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "desertretreat",
+        "oasis",
+        "unique"
+      ]
+    },
+    {
+      "id": "MeruFood1",
+      "name": "The Spice Route Eatery",
+      "short_description": "A vibrant restaurant known for its fusion of traditional Meru cuisine with international flavors, featuring locally sourced ingredients and a lively atmosphere.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Old Town Meru",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1555535313-b519f8ecf4b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHw3fHxtaWRkbGUlMjBlYXN0ZXJuJTIwcmVzdGF1cmFudHxlbnwwfHx8fDE3MTQ1NzI4OTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "localcuisine",
+        "fusionfood",
+        "lively"
+      ]
+    },
+    {
+      "id": "MeruFood2",
+      "name": "Riverside Brews & Bites",
+      "short_description": "Enjoy craft beers and gourmet snacks on a charming riverside patio, offering tranquil views and a relaxed ambiance. Perfect for an afternoon unwind.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Meru Riverfront",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549488349-e15545199616?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxNnx8cm9vZnRvcCUyMGJhcnxlbnwwfHx8fDE3MTQ1NzEzNjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "craftbeer",
+        "patio",
+        "riverside"
+      ]
+    },
+    {
+      "id": "MeruFood3",
+      "name": "The Green Leaf Cafe",
+      "short_description": "A popular spot for healthy, organic, and vegetarian dishes, serving delicious brunch options and freshly brewed coffee in a bright, airy setting.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Bohemian Quarter",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563725595960-936d5e1e1276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwyMHx8bmlnaHQlMjBtYXJrZXR8ZW58MHx8fHwxNzE0NTcxMTg4fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "organicfood",
+        "brunch",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "MeruFood4",
+      "name": "Street Food Bazaar Alley",
+      "short_description": "A bustling alleyway transformed nightly into a vibrant street food haven, offering a diverse array of Meru's best local delicacies, snacks, and sweet treats.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Market District backstreets",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1549488349-e15545199616?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwxNnx8cm9vZnRvcCUyMGJhcnxlbnwwfHx8fDE3MTQ1NzEzNjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "streetfood",
+        "localdelicacies",
+        "bustling"
+      ]
+    },
+    {
+      "id": "MeruLand1",
+      "name": "The Grand Unity Arch",
+      "short_description": "A majestic architectural marvel symbolizing Meru's strength and unity, offering stunning photo opportunities both day and night.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Central City Plaza",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1605648833190-7d72111d953a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHw3fHxhcmNoJTIwbGFuZG1hcmt8ZW58MHx8fHwxNzE0NTczMTczfMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "monument",
+        "cityicon",
+        "architecture"
+      ]
+    },
+    {
+      "id": "MeruLand2",
+      "name": "Mount Meru Peak Vista",
+      "short_description": "While not directly on the peak, this elevated viewpoint provides the most iconic and unobstructed views of majestic Mount Meru, a spiritual and natural marvel.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Meru National Park East",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1534067332145-8f6a310c3ce3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHw3fHxtb3VudGFpbiUyMHBlYWt8ZW58MHx8fHwxNzE0NTczMjU5fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mountainview",
+        "naturalwonder",
+        "scenic"
+      ]
+    },
+    {
+      "id": "MeruLand3",
+      "name": "The Ancient River Bridge",
+      "short_description": "A beautifully preserved stone bridge, centuries old, crossing the Meru River. Its timeless archways are a testament to ancient engineering and a popular historical spot.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Old River Crossing",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563725595960-936d5e1e1276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwyMHx8bmlnaHQlMjBtYXJrZXR8ZW58MHx8fHwxNzE0NTcxMTg4fMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "historicbridge",
+        "engineering",
+        "riverside"
+      ]
+    },
+    {
+      "id": "MeruLand4",
+      "name": "Meru City Fountain Park",
+      "short_description": "At the heart of Meru lies a grand fountain park, featuring impressive water displays and surrounding sculptures, serving as a lively gathering spot for locals and tourists.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "City Center Square",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1518926941838-5182a4729f27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU3Mzh8MHwxfHNlYXJjaHwyMnx8Zmxvd2VyJTIwZ2FyZGVuc3xlbnwwfHx8fDE3MTQ1NzIzNzV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fountain",
+        "publicpark",
+        "gatheringplace"
+      ]
+    }
+  ]
+}

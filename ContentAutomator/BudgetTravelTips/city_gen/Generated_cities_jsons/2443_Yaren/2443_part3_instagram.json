@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Yaren",
+    "city_id": "2443"
+  },
+  "items": [
+    {
+      "id": "YRN-RV01",
+      "name": "Command Ridge Summit View",
+      "short_description": "Ascend to Nauru's highest point for breathtaking panoramic views of the island, from its turquoise coastline to the historic phosphate pinnacles. A unique perspective on Yaren's rugged beauty awaits.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Command Ridge, Central Yaren",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nauru_topography_at_Command_Ridge.jpg/1280px-Nauru_topography_at_Command_Ridge.jpg",
+      "tags": [
+        "panoramic",
+        "highest point",
+        "island vista"
+      ]
+    },
+    {
+      "id": "YRN-RV02",
+      "name": "Menen Hotel Ocean Deck",
+      "short_description": "Enjoy a serene ocean vista from the elevated deck of the Menen Hotel. Overlooking Anibare Bay, it's the perfect spot for a tranquil morning coffee or a picturesque evening drink.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Menen Hotel, Anibare Bay",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1542382106-93d395a12448?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "oceanfront",
+        "hotel view",
+        "bay views"
+      ]
+    },
+    {
+      "id": "YRN-RV03",
+      "name": "Aiwo Overlook Platform",
+      "short_description": "Discover a unique perspective of the phosphate cantilever and the vast Pacific Ocean from an elevated platform in Aiwo District. Witness the industrial heritage blend with natural beauty.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Near Aiwo Port, Aiwo District",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Nauru_cantilever_loader_3.jpg/1280px-Nauru_cantilever_loader_3.jpg",
+      "tags": [
+        "industrial heritage",
+        "coastal",
+        "unique view"
+      ]
+    },
+    {
+      "id": "YRN-RV04",
+      "name": "Yaren Airport Control Tower Vista",
+      "short_description": "While not publicly accessible, imagine the expansive views from the airport's control tower, overseeing the runway, the surrounding districts, and the endless blue horizon. A symbol of connectivity on a remote island.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Yaren Airport",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1627993079947-f58c73809fb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "airport view",
+        "skyline",
+        "rare perspective"
+      ]
+    },
+    {
+      "id": "YRN-BO01",
+      "name": "Buada Lagoon Lookout",
+      "short_description": "Perched above the serene Buada Lagoon, this overlook provides a lush, verdant contrast to Nauru's coastal scenery. Capture the tranquil freshwater oasis nestled within the island's interior.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Buada District",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Buada_Lagoon%2C_Nauru.jpg/1280px-Buada_Lagoon%2C_Nauru.jpg",
+      "tags": [
+        "lagoon view",
+        "lush greenery",
+        "inland oasis"
+      ]
+    },
+    {
+      "id": "YRN-BO02",
+      "name": "Anibare Bay Coastal Road Overlook",
+      "short_description": "Stop along the scenic coastal road for a classic Nauruan postcard view of Anibare Bay, with its white sands and gentle waves. Perfect for a wide-angle shot of the Pacific.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Along Anibare Bay Road",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nauru_Anibare_Bay_beach_2011.jpg/1280px-Nauru_Anibare_Bay_beach_2011.jpg",
+      "tags": [
+        "coastal road",
+        "beach view",
+        "ocean vista"
+      ]
+    },
+    {
+      "id": "YRN-BO03",
+      "name": "Moqua Well Gully Bridge",
+      "short_description": "Discover a small, rustic bridge spanning a gully near Moqua Well, offering a glimpse into Nauru's unique underground cave system and hidden freshwater sources. A unique blend of natural curiosity and simple infrastructure.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near Moqua Well, Yaren District",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549646467-d86b9704702b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "natural cave",
+        "rustic bridge",
+        "hidden gem"
+      ]
+    },
+    {
+      "id": "YRN-BO04",
+      "name": "Refugee Processing Centre Lookout",
+      "short_description": "From a respectful distance, observe the expansive facilities of the Nauru Regional Processing Centre from a nearby elevated point. A stark yet significant landscape feature reflecting a unique chapter in Nauru's modern history.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near the Processing Centre, Meneng District",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nauru_Australian_detention_centre_2011.jpg/1280px-Nauru_Australian_detention_centre_2011.jpg",
+      "tags": [
+        "historical site",
+        "unique landscape",
+        "perspective"
+      ]
+    },
+    {
+      "id": "YRN-UHS01",
+      "name": "The Menen Hotel: Oceanfront Retreat",
+      "short_description": "Nauru's premier accommodation, the Menen Hotel offers a quintessential island stay with its direct access to Anibare Bay and charming, laid-back atmosphere. Enjoy ocean breezes from your balcony.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Anibare Bay, Meneng District",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1579759885994-1a37651a1e0b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "oceanfront",
+        "island hotel",
+        "relaxed luxury"
+      ]
+    },
+    {
+      "id": "YRN-UHS02",
+      "name": "OD-N Aiwo Hotel: Cultural Comfort",
+      "short_description": "Experience local hospitality at the OD-N Aiwo Hotel, known for its friendly service and proximity to Nauru's key industrial sites. A great base for exploring the unique landscape of Aiwo.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Aiwo District",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582719502750-f3b1456a0595?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "local hospitality",
+        "convenient stay",
+        "cultural immersion"
+      ]
+    },
+    {
+      "id": "YRN-UHS03",
+      "name": "Ewa Lodge: Tropical Guesthouse Charm",
+      "short_description": "Discover the intimate charm of Ewa Lodge, a smaller guesthouse offering a more personal touch. Nestled amidst tropical foliage, it promises a peaceful retreat away from the main thoroughfare.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Ewa District",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1606821213708-f46bb84615a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "guesthouse",
+        "tropical retreat",
+        "peaceful escape"
+      ]
+    },
+    {
+      "id": "YRN-UHS04",
+      "name": "Anibare Bungalows: Rustic Beachfront",
+      "short_description": "Imagine a rustic bungalow stay directly on the shores of Anibare Bay, where the sounds of the ocean lull you to sleep. A hypothetical dream for those seeking an authentic, stripped-back island experience.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Anibare Bay, Meneng District",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1520250497591-ec292390fcd4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "beachfront",
+        "rustic",
+        "authentic stay"
+      ]
+    },
+    {
+      "id": "YRN-MB01",
+      "name": "Yaren Fresh Produce Market",
+      "short_description": "Immerse yourself in the vibrant local life at Yaren's bustling fresh produce market. Discover exotic fruits, local vegetables, and the genuine warmth of Nauruan vendors.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Yaren District, near civic center",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596541673891-118f6c5e533c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "local market",
+        "fresh produce",
+        "community hub"
+      ]
+    },
+    {
+      "id": "YRN-MB02",
+      "name": "Anibare Bay Fish Market",
+      "short_description": "Witness the day's catch arrive at the informal Anibare Bay Fish Market. Fishermen display their fresh seafood, offering a glimpse into traditional Nauruan livelihoods and culinary delights.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Anibare Bay, near the beach",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1560731558-941f5e272a2f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "fish market",
+        "seafood",
+        "local livelihood"
+      ]
+    },
+    {
+      "id": "YRN-MB03",
+      "name": "Civic Centre Craft Stalls",
+      "short_description": "Though sporadic, the Civic Centre sometimes hosts craft stalls where local artisans showcase handmade goods, shell jewelry, and woven items. A chance to find unique Nauruan souvenirs.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Civic Centre, Yaren District",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1521503704284-c8c34960d70b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "crafts",
+        "souvenirs",
+        "artisan goods"
+      ]
+    },
+    {
+      "id": "YRN-MB04",
+      "name": "Baiti District Informal Trading",
+      "short_description": "Explore the more informal trading spots in Baiti District where residents exchange goods, share stories, and conduct everyday business in a relaxed, community-focused setting.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Baiti District, residential areas",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1541819665-27a964359871?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "community",
+        "informal trade",
+        "local life"
+      ]
+    },
+    {
+      "id": "YRN-HAC01",
+      "name": "Secret Beach Path, Anibare",
+      "short_description": "Venture down a discreet sandy path fringed with pandanus trees that leads to a secluded stretch of Anibare beach. A perfect spot for quiet contemplation and untouched beauty.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "East of Menen Hotel, Anibare",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1520451834914-f58c73809fb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "secluded beach",
+        "hidden path",
+        "tranquil escape"
+      ]
+    },
+    {
+      "id": "YRN-HAC02",
+      "name": "Yaren Residential Garden Nook",
+      "short_description": "Stumble upon a charming, often adorned with tropical flowers, private garden nook tucked away within Yaren's residential areas. These small, verdant spaces offer a peaceful glimpse into local home life.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Various residential spots, Yaren",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1524857434107-b3e8c9b3e157?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "private garden",
+        "local life",
+        "floral beauty"
+      ]
+    },
+    {
+      "id": "YRN-HAC03",
+      "name": "Buada Lagoon's Shady Inlet",
+      "short_description": "Follow a narrow track leading to a quiet, shaded inlet on Buada Lagoon. Surrounded by lush foliage, it’s a serene hideaway perfect for enjoying the freshwater calm.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Buada Lagoon shoreline",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1555026909-51000b0f7966?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "lagoon inlet",
+        "shaded path",
+        "peaceful retreat"
+      ]
+    },
+    {
+      "id": "YRN-HAC04",
+      "name": "Ghost Road to Old Cantilever",
+      "short_description": "Explore the overgrown 'ghost roads' near the old phosphate cantilever in Aiwo. These quiet, forgotten pathways offer a hauntingly beautiful journey through Nauru's industrial past.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Near Aiwo Port, Aiwo District",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rail_line_between_Nauru_top_site_and_phosphate_plant_2011.jpg/1280px-Rail_line_between_Nauru_top_site_and_phosphate_plant_2011.jpg",
+      "tags": [
+        "industrial ruins",
+        "overgrown path",
+        "historical echo"
+      ]
+    },
+    {
+      "id": "YRN-FFG01",
+      "name": "Yaren Hibiscus Lane",
+      "short_description": "Stroll down a particular lane in Yaren where vibrant hibiscus flowers bloom profusely, creating a colorful canopy. A simple yet stunning display of Nauru's tropical flora.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Residential areas, Yaren District",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1620959828551-7f9a1f7c0c1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "hibiscus",
+        "floral street",
+        "tropical blooms"
+      ]
+    },
+    {
+      "id": "YRN-FFG02",
+      "name": "Presidential Residence Plumeria Garden",
+      "short_description": "While private, the grounds surrounding the Presidential Residence often feature beautifully maintained gardens filled with fragrant plumeria and other tropical flowers. A glimpse of structured natural beauty.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Near Presidential Residence, Yaren",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1588667610620-3b9f33f07297?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "plumeria",
+        "formal garden",
+        "fragrant flowers"
+      ]
+    },
+    {
+      "id": "YRN-FFG03",
+      "name": "Buada Lagoon Wild Orchid Trails",
+      "short_description": "Explore the edges of Buada Lagoon where damp, lush conditions sometimes allow wild orchids and other unique ground flora to thrive. A discoverable miniature 'field' of natural wonders.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Buada Lagoon perimeter",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1622359239857-e4359670d95d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "wild orchids",
+        "lush trails",
+        "native flora"
+      ]
+    },
+    {
+      "id": "YRN-FFG04",
+      "name": "Meneng Hotel Resort Garden",
+      "short_description": "The cultivated gardens of the Meneng Hotel offer a beautiful array of tropical plants and flowers, providing a manicured backdrop for photos and a pleasant spot for a leisurely stroll.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Menen Hotel grounds, Meneng",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549642055-6670868a85f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "hotel garden",
+        "tropical plants",
+        "landscaped beauty"
+      ]
+    },
+    {
+      "id": "YRN-IP01",
+      "name": "Anibare Bay Tidal Pool",
+      "short_description": "Experience a natural 'infinity pool' as the tide fills secluded rock formations along Anibare Bay, creating calm, crystalline waters that merge seamlessly with the vast ocean at high tide.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Rocky sections of Anibare Bay",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1521404099395-585ee5b309f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "natural pool",
+        "tidal pools",
+        "ocean views"
+      ]
+    },
+    {
+      "id": "YRN-IP02",
+      "name": "Menen Hotel's Ocean-View Pool",
+      "short_description": "While not a true infinity pool, the Menen Hotel's refreshing swimming pool offers stunning, unobstructed views of Anibare Bay, giving the illusion of merging with the horizon.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Menen Hotel, Anibare Bay",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1563911302988-ce21c2104993?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "hotel pool",
+        "bay views",
+        "relaxing swim"
+      ]
+    },
+    {
+      "id": "YRN-IP03",
+      "name": "Ijuw Coast Rock Pools",
+      "short_description": "Discover a series of unique rock pools along the rugged Ijuw coast, naturally carved by the sea. These natural formations provide private, clear dipping spots with an open ocean backdrop.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Ijuw Coastline",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1562916127-d2e464c015b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "rock pools",
+        "rugged coast",
+        "natural beauty"
+      ]
+    },
+    {
+      "id": "YRN-IP04",
+      "name": "Hypothetical Private Villa Pool",
+      "short_description": "Envision a luxurious private villa perched on a coastal bluff in Yaren, featuring a sleek infinity pool that seems to spill directly into the cerulean waters of the Pacific. A dream for exclusive island escape.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Coastal Bluffs, Yaren (hypothetical)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1582294154807-1678229d008e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "luxury",
+        "private pool",
+        "dream escape"
+      ]
+    },
+    {
+      "id": "YRN-NB01",
+      "name": "Anibare Bay's Pristine Sands",
+      "short_description": "The postcard-perfect white sands and crystal-clear turquoise waters of Anibare Bay offer an idyllic tropical backdrop. Perfect for classic beach photos, swimming, and relaxation.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Anibare Bay, Meneng District",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1507525428034-b723cf961cfe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "white sand beach",
+        "turquoise water",
+        "tropical paradise"
+      ]
+    },
+    {
+      "id": "YRN-NB02",
+      "name": "Buada Lagoon's Inland Oasis",
+      "short_description": "Venture inland to the lush, freshwater Buada Lagoon, a serene contrast to the rugged coastline. Its calm waters and surrounding dense vegetation create a unique, verdant backdrop.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Buada District",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Buada_Lagoon%2C_Nauru.jpg/1280px-Buada_Lagoon%2C_Nauru.jpg",
+      "tags": [
+        "freshwater lagoon",
+        "lush greenery",
+        "serene nature"
+      ]
+    },
+    {
+      "id": "YRN-NB03",
+      "name": "Phosphate Pinnacles Landscape",
+      "short_description": "Explore the dramatic and otherworldly landscape of the phosphate pinnacles, a testament to Nauru's mining history. The rugged, coral-like formations create a truly unique and striking backdrop.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Central Plateau, various districts",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nauru_phosphate_mine_2011.jpg/1280px-Nauru_phosphate_mine_2011.jpg",
+      "tags": [
+        "phosphate formations",
+        "rugged landscape",
+        "unique geology"
+      ]
+    },
+    {
+      "id": "YRN-NB04",
+      "name": "Command Ridge Panoramic Horizon",
+      "short_description": "From the highest point on the island, Command Ridge offers a breathtaking 360-degree nature backdrop of Nauru, encompassing both the interior and the vast expanse of the Pacific Ocean.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Command Ridge, Central Yaren",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nauru_topography_at_Command_Ridge.jpg/1280px-Nauru_topography_at_Command_Ridge.jpg",
+      "tags": [
+        "panoramic views",
+        "island horizon",
+        "natural high point"
+      ]
+    },
+    {
+      "id": "YRN-CI01",
+      "name": "Nauru Museum & Heritage Centre",
+      "short_description": "Visit the Nauru Museum, though small, it serves as a central point for showcasing Nauruan history, artifacts, and cultural traditions. A vital installation preserving the island's identity.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Yaren District, near government buildings",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549480604-e57a3e61a457?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "history",
+        "artifacts",
+        "heritage"
+      ]
+    },
+    {
+      "id": "YRN-CI02",
+      "name": "Civic Centre Local Art Display",
+      "short_description": "The Civic Centre occasionally hosts small displays of local Nauruan art, crafts, and traditional tools, offering a glimpse into the island's creative and functional heritage.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Civic Centre, Yaren District",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1547372337-ee872c72b528?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "local art",
+        "crafts",
+        "traditional tools"
+      ]
+    },
+    {
+      "id": "YRN-CI03",
+      "name": "WWII Japanese Gun Emplacement",
+      "short_description": "Explore the remnants of World War II, including a well-preserved Japanese gun emplacement on Command Ridge. This historical installation provides a stark reminder of Nauru's strategic past.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Command Ridge, Central Yaren",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/WWII_gun_emplacement_Nauru.jpg/1280px-WWII_gun_emplacement_Nauru.jpg",
+      "tags": [
+        "WWII history",
+        "military ruins",
+        "historical landmark"
+      ]
+    },
+    {
+      "id": "YRN-CI04",
+      "name": "Traditional Canoe Replica Display",
+      "short_description": "Look for a display or replica of a traditional Nauruan outrigger canoe, often found near cultural centers or significant public buildings, symbolizing the island's deep connection to the sea.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Near government buildings, Yaren",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Nauruan_outrigger_canoe_2011.jpg/1280px-Nauruan_outrigger_canoe_2011.jpg",
+      "tags": [
+        "traditional canoe",
+        "maritime heritage",
+        "island culture"
+      ]
+    },
+    {
+      "id": "YRN-SAM01",
+      "name": "Yaren Post Office Mural",
+      "short_description": "Discover a vibrant mural adorning the exterior of the Yaren Post Office, often depicting scenes of Nauruan life, flora, and fauna. A colorful public art piece celebrating local identity.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Yaren Post Office",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549725227-898f793b5840?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "public art",
+        "community mural",
+        "local scenes"
+      ]
+    },
+    {
+      "id": "YRN-SAM02",
+      "name": "Ewa School Community Art",
+      "short_description": "Explore the grounds of Ewa School where students and community members sometimes contribute to cheerful murals, reflecting island themes and educational messages. A heartwarming display of local talent.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Ewa Primary School, Ewa District",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1534002640242-b132ee92ae24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "school art",
+        "youth murals",
+        "island themes"
+      ]
+    },
+    {
+      "id": "YRN-SAM03",
+      "name": "Aiwo Seawall Paintings",
+      "short_description": "Along parts of the seawall in Aiwo, local residents occasionally adorn the concrete with colorful, informal paintings, creating an evolving outdoor gallery of Nauruan expression.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Aiwo Seawall, coastal road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1517441865324-42fcf5562725?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "seawall art",
+        "coastal murals",
+        "local expression"
+      ]
+    },
+    {
+      "id": "YRN-SAM04",
+      "name": "Denigomodu Wall Art",
+      "short_description": "Discover abstract patterns and cultural motifs painted on various community buildings in Denigomodu. These unassuming wall artworks reflect indigenous designs and stories in a modern context.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Denigomodu District, community areas",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1621213346452-949e2cf47053?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "cultural motifs",
+        "abstract art",
+        "community buildings"
+      ]
+    }
+  ]
+}

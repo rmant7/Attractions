@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Malindi",
+    "city_id": "2435"
+  },
+  "items": [
+    {
+      "id": "MLD-PYR-001",
+      "name": "Malindi Ancestral Cairns of Nyali",
+      "short_description": "These ancient coral stone mounds are believed to be the burial sites of early Malindi chieftains, holding a deep spiritual connection to the ancestral spirits protecting the land.",
+      "subtype": "Pyramids",
+      "address": "Off Nyali-Watamu Rd, Malindi, Kenya",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ancient_burial_mounds_near_Ambo_Town%2C_Ethiopia.jpg",
+      "tags": [
+        "ancestral",
+        "burial",
+        "spiritual"
+      ]
+    },
+    {
+      "id": "MLD-PYR-002",
+      "name": "The Sunstone Steppe Terraces",
+      "short_description": "A series of elevated, pyramid-like terraces crafted from laterite and stone, thought to be used for ancient solar observations and ritualistic offerings to the sun god.",
+      "subtype": "Pyramids",
+      "address": "Inland Malindi, near Marereni, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1547489432-843818f40775?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YW5jaWVudCBydWlucyxlYXN0IGFmcmljYXx8fHx8fHwxNzAzNTQ0MDAx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "solar worship",
+        "ancient rituals",
+        "observation"
+      ]
+    },
+    {
+      "id": "MLD-PYR-003",
+      "name": "Gede Whispering Coral Mounds",
+      "short_description": "Within the wider Gede ruins complex, these smaller, conical coral structures are believed to be spirit houses or localized altars, echoing the prayers of bygone eras.",
+      "subtype": "Pyramids",
+      "address": "Inside Gede Ruins National Monument, Malindi, Kenya",
+      "visiting_hours": "08:00-17:30",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Malindi_Gede_Ruins_2.jpg",
+      "tags": [
+        "Gede",
+        "coral",
+        "spirit house"
+      ]
+    },
+    {
+      "id": "MLD-PYR-004",
+      "name": "Mambrui Salt Pan Pyramids",
+      "short_description": "Natural salt formations sculpted by wind and time, venerated by ancient coastal communities as natural pyramids, holding powers of purification and abundance from the earth.",
+      "subtype": "Pyramids",
+      "address": "Mambrui Salt Pans, North of Malindi, Kenya",
+      "visiting_hours": "06:30-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1624634288607-429a1b02b54d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2FsdCBwYW5zLGtlbnhhfHwwfHx8fHwxNzAzNTQ0NDU0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "natural formations",
+        "purification",
+        "Mambrui"
+      ]
+    },
+    {
+      "id": "MLD-BTL-001",
+      "name": "Field of the Lion's Last Stand",
+      "short_description": "The site of a legendary resistance battle where local Giriama warriors fiercely defended their lands against encroachers, a testament to enduring spirit and courage.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Near Kakuyuni, Malindi District, Kenya",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1624921932971-70014b29c996?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YW5jaWVudCBhZnJpY2FuIHdhcnJpb3JzfHwwfHx8fHwxNzAzNTQ0NjQz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Giriama",
+        "resistance",
+        "heroism"
+      ]
+    },
+    {
+      "id": "MLD-BTL-002",
+      "name": "Vasco da Gama's Treaty Shore",
+      "short_description": "While not a battlefield, this coastal stretch is believed to be the symbolic ground where early diplomatic encounters and crucial negotiations with European explorers shaped Malindi's future.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Near Vasco da Gama Pillar, Malindi Waterfront, Kenya",
+      "visiting_hours": "24/7 (pillar area), 08:00-18:00 (beach access)",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Vasco_Da_Gama_Pillar_Malindi_Kenya_2008.jpg",
+      "tags": [
+        "colonial history",
+        "diplomacy",
+        "cultural contact"
+      ]
+    },
+    {
+      "id": "MLD-BTL-003",
+      "name": "Shungwaya's Lament Grounds",
+      "short_description": "An area steeped in legend, where various Mijikenda sub-tribes are said to have fought for dominance or faced their final migratory battles, influencing their dispersal across the coast.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Inland scrubland, near Ganda, Malindi, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549444199-3543d41f0a20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YWZyaWNhbiBzbGNydWJsYW5kfHwwfHx8fHwxNzAzNTQ0Nzk3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Mijikenda",
+        "migration",
+        "legendary"
+      ]
+    },
+    {
+      "id": "MLD-BTL-004",
+      "name": "Mwana wa Mvita's Ambush Point",
+      "short_description": "A rocky cove rumored to be the cunning ambush site of a notorious coastal warrior or pirate leader, whose guerrilla tactics shaped local maritime power struggles.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Northern Malindi Coast, near Mayungu Beach, Kenya",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1601004318728-66236b281f26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YWZyaWNhbiByb2NreSBjb2FzdHxlbnwwfHx8fHwxNzAzNTQ0OTAx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "maritime history",
+        "pirates",
+        "coastal conflict"
+      ]
+    },
+    {
+      "id": "MLD-MEG-001",
+      "name": "The Elders' Coral Circle",
+      "short_description": "An ancient arrangement of large coral stones forming a ceremonial circle, believed to be a place of judgment, ritual, and spiritual gathering for pre-colonial communities.",
+      "subtype": "Megalithic Sites",
+      "address": "South of Malindi, near Mida Creek, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/8/87/Stone_circles_in_Senegambia.jpg",
+      "tags": [
+        "coral stones",
+        "ceremonial",
+        "ancient gathering"
+      ]
+    },
+    {
+      "id": "MLD-MEG-002",
+      "name": "Dabaso Standing Stones",
+      "short_description": "A group of weathered standing stones near the ancient Dabaso settlement, serving as markers for ancestral spirits and possibly celestial alignments.",
+      "subtype": "Megalithic Sites",
+      "address": "Dabaso Village, Watamu-Malindi Road, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1542646696-e1e793132e18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YW5jaWVudCBzdG9uZSBzdGFuZGluZ3N8ZW58MHx8fHwxNzAzNTQ1MTU3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "standing stones",
+        "ancestral markers",
+        "Dabaso"
+      ]
+    },
+    {
+      "id": "MLD-MEG-003",
+      "name": "Serpent Rock Monolith",
+      "short_description": "A massive, naturally sculpted rock formation resembling a coiled serpent, revered as a powerful spirit dwelling and a site for fertility rituals.",
+      "subtype": "Megalithic Sites",
+      "address": "Inland forest, near Gede Ruins, Malindi, Kenya",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1627063999966-2395633b4b0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2FjcmVkIHJvY2sgZm9ybWF0aW9uc3xlbnwwfHx8fHwxNzAzNTQ1MzYx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "natural monument",
+        "fertility",
+        "spirit dwelling"
+      ]
+    },
+    {
+      "id": "MLD-MEG-004",
+      "name": "Watamu Mangrove Megaliths",
+      "short_description": "Hidden within the ancient mangroves, a few exceptionally large and oddly placed coral rocks are believed to be natural megaliths, holding the secrets of the sea spirits.",
+      "subtype": "Megalithic Sites",
+      "address": "Mida Creek Mangrove Forest, Watamu, Kenya",
+      "visiting_hours": "08:00-17:00 (guided tours recommended)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1588665798952-45e3f3609349?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bWFuZ3JvdmVzLGtlbnhhfHwwfHx8fHwxNzAzNTQ1NTQw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mangrove",
+        "sea spirits",
+        "Watamu"
+      ]
+    },
+    {
+      "id": "MLD-DPS-001",
+      "name": "Ngomeni Desert Rose Sanctuary",
+      "short_description": "In the semi-arid lands north of Malindi, this site is revered for its unique desert rose rock formations, believed to channel earth's raw power and offer healing properties.",
+      "subtype": "Desert Power Sites",
+      "address": "Ngomeni Region, North Malindi, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582236528892-d6c63b4ed5f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZGVzZXJ0IHJvc2UgZm9ybWF0aW9uc3xlbnwwfHx8fHwxNzAzNTQ1Njk2&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "healing",
+        "earth energy",
+        "desert roses"
+      ]
+    },
+    {
+      "id": "MLD-DPS-002",
+      "name": "The Spirit's Thirsty Well",
+      "short_description": "An ancient, almost always dry well in a desolate landscape, yet believed to hold profound spiritual significance, visited for blessings of endurance and sustenance.",
+      "subtype": "Desert Power Sites",
+      "address": "Near Dakatcha Woodland, Malindi District, Kenya",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1534005825227-72ce6d559387?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YW5jaWVudCBkcnkgd2VsbHxlbnwwfHx8fHwxNzAzNTQ1ODYz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "blessings",
+        "endurance",
+        "water scarcity"
+      ]
+    },
+    {
+      "id": "MLD-DPS-003",
+      "name": "Nyika Sands of Ancestors",
+      "short_description": "Vast stretches of reddish, shifting sands inland from Malindi, where ancient tribes performed rituals to connect with ancestral spirits believed to roam the dry expanse.",
+      "subtype": "Desert Power Sites",
+      "address": "East of Tsavo East National Park boundary, Malindi",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "fixed amount (for guides)",
+      "images": "https://images.unsplash.com/photo-1627993424683-14966601f0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZGVzZXJ0IHNhbmRzLGFmcmljYXx8fHx8fHwxNzAzNTQ2MDQx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral communication",
+        "desert rituals",
+        "Nyika"
+      ]
+    },
+    {
+      "id": "MLD-DPS-004",
+      "name": "Marafa Hell's Kitchen overlook",
+      "short_description": "The 'Kitchen' itself is a natural wonder, but the overlook is a powerful spiritual spot, where local elders interpret the shifting colors of the sandstone gorges as messages from the earth and sky.",
+      "subtype": "Desert Power Sites",
+      "address": "Marafa Depression (Hell's Kitchen), Malindi, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1628189870425-a131804f8e65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aGVsbHMgZGl0Y2hlbixtYXJhZmF8ZW58MHx8fHwxNzAzNTQ2MTg1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "natural wonder",
+        "earth messages",
+        "Marafa"
+      ]
+    },
+    {
+      "id": "MLD-CAS-001",
+      "name": "Lunar Gateway of Watamu",
+      "short_description": "A natural rock arch on the Watamu coast, through which the moon sets during specific phases, believed to be a portal for lunar energies and ancient predictions.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Watamu Marine National Park, Malindi, Kenya",
+      "visiting_hours": "24/7 (best at night for viewing)",
+      "entry_fee": "free (park fees may apply)",
+      "images": "https://images.unsplash.com/photo-1544321045-312946c18f3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bmF0dXJhbCByb2NrIGFyY2gsbW9vbnxlbnwwfHx8fHwxNzAzNTQ2MzU4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lunar observation",
+        "natural arch",
+        "Watamu"
+      ]
+    },
+    {
+      "id": "MLD-CAS-002",
+      "name": "Gede Star Observer's Platform",
+      "short_description": "Within the Gede Ruins, an elevated, flat platform whose orientation suggests it was used by ancient astronomers or spiritual leaders to observe significant celestial events.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Inside Gede Ruins National Monument, Malindi, Kenya",
+      "visiting_hours": "08:00-17:30",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/23/Gede_Palace_Malindi_Kenya_2008.jpg",
+      "tags": [
+        "Gede",
+        "astronomy",
+        "ancient observation"
+      ]
+    },
+    {
+      "id": "MLD-CAS-003",
+      "name": "Mida Creek Equinox Stone",
+      "short_description": "A solitary, coral outcrop in Mida Creek that casts a precise shadow during the equinoxes, signaling ancient planting and harvesting seasons, and spiritual transitions.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Mida Creek Estuary, Watamu, Malindi, Kenya",
+      "visiting_hours": "08:00-17:00 (tidal access)",
+      "entry_fee": "fixed amount (for boat/guide)",
+      "images": "https://images.unsplash.com/photo-1594953331804-0c2df8b1ef3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29yYWwgb3V0Y3JvcCxjcmVla3xlbnwwfHx8fHwxNzAzNTQ2NDQy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "equinox",
+        "agricultural cycles",
+        "tidal"
+      ]
+    },
+    {
+      "id": "MLD-CAS-004",
+      "name": "Celestial Baobab Grove",
+      "short_description": "A grove of ancient baobab trees whose unique arrangement is said to align with the Southern Cross, used for navigation and spiritual guidance by early coastal mariners.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Near Malindi-Lamu Road, inland from Mambrui, Kenya",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1587397750730-1c39a3411a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YmFvYmFiIGdyb3ZlfGVufDB8fHx8fHwxNzAzNTQ2NjU3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "baobab",
+        "navigation",
+        "Southern Cross"
+      ]
+    },
+    {
+      "id": "MLD-PGR-001",
+      "name": "The Way of the Sacred Baobab",
+      "short_description": "An ancient path leading to a colossal, revered baobab tree, believed to be the dwelling of a powerful spirit, where pilgrims seek blessings and wisdom.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting near Malindi Old Town, leading 5km inland",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620803936932-a1f9a0c2045e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2FjcmVkIGJhb2JhYnxlbnwwfHx8fHwxNzAzNTQ2Nzk2&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "baobab",
+        "blessings",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "MLD-PGR-002",
+      "name": "Journey to Mida Creek's Healing Waters",
+      "short_description": "A canoe-based pilgrimage through the serene mangrove channels of Mida Creek, leading to a secluded pool believed to possess healing and purification properties.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Mida Creek Eco-Camp, Watamu, Malindi, Kenya",
+      "visiting_hours": "09:00-16:00 (tide dependent)",
+      "entry_fee": "fixed amount (for boat/guide)",
+      "images": "https://images.unsplash.com/photo-1632279213442-f5f9a65651c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bWFuZ3JvdmVzLGNyaWt8ZW58MHx8fHwxNzAzNTQ2OTMx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "healing",
+        "mangroves",
+        "purification"
+      ]
+    },
+    {
+      "id": "MLD-PGR-003",
+      "name": "Path of the Seven Wells",
+      "short_description": "An ancient inland route connecting seven natural wells, each imbued with unique spiritual significance, traversed by pilgrims seeking spiritual replenishment and blessings for safe travel.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting near Lango La Wagiri, Malindi District, Kenya",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1601004318728-66236b281f26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZHJ5IHdlbGwscGF0aHxlbnwwfHx8fHwxNzAzNTQ3MTEw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wells",
+        "blessings",
+        "spiritual journey"
+      ]
+    },
+    {
+      "id": "MLD-PGR-004",
+      "name": "Coastal Ancestors' Footpath",
+      "short_description": "A historic coastal trail along the beaches and rocky outcrops, believed to be used by early settlers to visit ancestral burial grounds and offer prayers to sea deities.",
+      "subtype": "Pilgrimage Routes",
+      "address": "From Malindi Marine Park south towards Watamu, Kenya",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free (park fees may apply)",
+      "images": "https://images.unsplash.com/photo-1582236528892-d6c63b4ed5f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29hc3RhbCBwYXRoLGFmcmljYXx8fHx8fHwxNzAzNTQ3MjU1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coastal trail",
+        "sea deities",
+        "ancestral worship"
+      ]
+    },
+    {
+      "id": "MLD-CRS-001",
+      "name": "The Spice Route Confluence (Old Market)",
+      "short_description": "This bustling historical market square was the symbolic and actual crossroads where ancient trade routes converged, blending cultures, goods, and spiritual traditions.",
+      "subtype": "Crossroads",
+      "address": "Malindi Old Town Market, Malindi, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549293888-9d8a571f547c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YWZyaWNhbiBtYXJrZXRfc3BhY2VzfGVufDB8fHx8fHwxNzAzNTQ3MzY2&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "trade routes",
+        "cultural exchange",
+        "Old Town"
+      ]
+    },
+    {
+      "id": "MLD-CRS-002",
+      "name": "Junction of Ancestral Paths",
+      "short_description": "A specific location where multiple ancient footpaths, used by various Mijikenda clans, converged, often marked by a large sacred tree, representing community and shared destiny.",
+      "subtype": "Crossroads",
+      "address": "Near Kakuyuni-Ganda Junction, Malindi, Kenya",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549444199-3543d41f0a20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YWZyaWNhbiBmb290cGF0aHN8ZW58MHx8fHwxNzAzNTQ3NTIx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Mijikenda",
+        "community",
+        "sacred tree"
+      ]
+    },
+    {
+      "id": "MLD-CRS-003",
+      "name": "Malindi's Gate of Merchants",
+      "short_description": "While the physical gate is gone, this historical site marks where ancient caravans from inland met dhows from the sea, a spiritual nexus of land and maritime cultures.",
+      "subtype": "Crossroads",
+      "address": "Near Malindi Town Jetty, along River Road, Malindi, Kenya",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1562916174-a035d3362142?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YW5jaWVudCBwb3J0LGFmcmljYXx8fHx8fHwxNzAzNTQ3NjQ2&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "caravan routes",
+        "maritime",
+        "cultural convergence"
+      ]
+    },
+    {
+      "id": "MLD-CRS-004",
+      "name": "Sabaki River Delta Exchange",
+      "short_description": "The estuary where the Sabaki River meets the Indian Ocean, historically a vital exchange point for goods, knowledge, and spiritual practices between riverine and coastal communities.",
+      "subtype": "Crossroads",
+      "address": "Sabaki River Mouth, North of Malindi, Kenya",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579848762512-b1339d2919c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cml2ZXIgZGVsdGUsYWZyaWNhfGVufDB8fHx8fHwxNzAzNTQ3Nzg1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "river delta",
+        "trade",
+        "natural junction"
+      ]
+    },
+    {
+      "id": "MLD-ANT-001",
+      "name": "Shrine of the Ocean Spirits (Mizimu ya Bahari)",
+      "short_description": "A secluded coral shrine dedicated to the powerful 'Mizimu ya Bahari' (spirits of the sea), where fishermen and mariners offer prayers for safe passage and bountiful catches.",
+      "subtype": "Ancient Temples",
+      "address": "On a secluded beach, north of Malindi Marine Park, Kenya",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1577908953928-1b60882e9b11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2FjcmVkIGNvYXN0YWwgc2hyaW5lfGVufDB8fHx8fHwxNzAzNTQ3OTU0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sea spirits",
+        "maritime",
+        "shrine"
+      ]
+    },
+    {
+      "id": "MLD-ANT-002",
+      "name": "Gede Forest Altar",
+      "short_description": "Deep within the sacred forest surrounding Gede Ruins, a natural stone altar where ancient rites and offerings were performed to the forest deities and ancestors.",
+      "subtype": "Ancient Temples",
+      "address": "Inside Gede Ruins National Monument, Malindi, Kenya",
+      "visiting_hours": "08:00-17:30",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Gede_Ruins_Malindi_Kenya_2.jpg",
+      "tags": [
+        "Gede",
+        "forest deities",
+        "ancestral rites"
+      ]
+    },
+    {
+      "id": "MLD-ANT-003",
+      "name": "The Forgotten Temple of Mwana",
+      "short_description": "Remnants of a small, early Swahili-era temple dedicated to an unknown deity, revealing a blend of indigenous and early Islamic spiritual practices.",
+      "subtype": "Ancient Temples",
+      "address": "Near Mwana River Estuary, South of Malindi, Kenya",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582236528892-d6c63b4ed5f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YW5jaWVudCBzd2FoaWxpIHJ1aW5zfGVufDB8fHx8fHwxNzAzNTQ4MTA2&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "early Swahili",
+        "syncretism",
+        "ruins"
+      ]
+    },
+    {
+      "id": "MLD-ANT-004",
+      "name": "Pillar Mosque's Sacred Courtyard",
+      "short_description": "The serene courtyard of Malindi's oldest Pillar Mosque, a site of continuous prayer and spiritual contemplation for centuries, offering a glimpse into early Islamic heritage.",
+      "subtype": "Ancient Temples",
+      "address": "Malindi Old Town, near the Pillar Mosque, Kenya",
+      "visiting_hours": "05:00-21:00 (for non-worshipers, observe prayer times)",
+      "entry_fee": "free (donations welcome)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Malindi_Pillar_Mosque.jpg",
+      "tags": [
+        "Islamic heritage",
+        "prayer",
+        "Old Town"
+      ]
+    },
+    {
+      "id": "MLD-ANC-001",
+      "name": "Gede Ruins: City of Whispers",
+      "short_description": "A magnificent ruined Swahili town, now a national monument, where ancient coral stone houses, mosques, and a palace whisper tales of its vibrant past and mysterious abandonment.",
+      "subtype": "Ancient Cities",
+      "address": "Gede Ruins National Monument, Malindi-Watamu Road, Kenya",
+      "visiting_hours": "08:00-17:30",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Gede_Ruins%2C_Malindi%2C_Kenya_02.jpg",
+      "tags": [
+        "Swahili history",
+        "archaeology",
+        "Gede"
+      ]
+    },
+    {
+      "id": "MLD-ANC-002",
+      "name": "Lost City of Dabaso",
+      "short_description": "Less excavated than Gede, Dabaso is rumored to be an even older, submerged or sand-covered ancient Swahili settlement, whose remaining fragments hint at a sophisticated spiritual culture.",
+      "subtype": "Ancient Cities",
+      "address": "Dabaso Village coastline, Watamu, Kenya",
+      "visiting_hours": "09:00-16:00 (requires local guide)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582236528892-d6c63b4ed5f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YW5jaWVudCBjb2FzdGFsIHJ1aW5zfGVufDB8fHx8fHwxNzAzNTQ4MzAx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Dabaso",
+        "unexcavated",
+        "submerged history"
+      ]
+    },
+    {
+      "id": "MLD-ANC-003",
+      "name": "Coastal Enclave of Mambrui Elders",
+      "short_description": "The archaeological remains of a small but significant ancient settlement, believed to be a spiritual retreat for Mambrui's elders, housing their sacred knowledge and rituals.",
+      "subtype": "Ancient Cities",
+      "address": "North of Mambrui Town, along the old coastal road, Kenya",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549444199-3543d41f0a20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YW5jaWVudCBzd2FoaWxpIHZpbGxhZ2V8ZW58MHx8fHwxNzAzNTQ4NDY1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Mambrui",
+        "elders",
+        "sacred retreat"
+      ]
+    },
+    {
+      "id": "MLD-ANC-004",
+      "name": "Malindi's Original Settlement Site",
+      "short_description": "The foundational site of Malindi, predating its current old town, where the earliest settlers established their community and initiated the city's long spiritual legacy.",
+      "subtype": "Ancient Cities",
+      "address": "Slightly inland from Malindi Old Town, near Sabaki Bridge, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1563851545620-e51c89366d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aGlzdG9yaWNhbCBzZXR0bGVtZW50LGFmcmljYXx8fHx8fHwxNzAzNTQ4NjAz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "foundational history",
+        "early settlers",
+        "legacy"
+      ]
+    },
+    {
+      "id": "MLD-CVS-001",
+      "name": "The Serpent's Echo Cave",
+      "short_description": "A deep, winding cave system shrouded in myth, believed to be the dwelling of a primordial serpent spirit and a site for ancient initiation rites and seeking divination.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Inland forest, near Gede Ruins, Malindi, Kenya",
+      "visiting_hours": "09:00-16:00 (guided tours essential)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1522258832103-125032e570ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2F2ZSBpbnRlcmlvcixhZnJpY2F8ZW58MHx8fHwxNzAzNTQ4NzUy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mythology",
+        "initiation",
+        "divination"
+      ]
+    },
+    {
+      "id": "MLD-CVS-002",
+      "name": "Maweni Sanctuary Grotto",
+      "short_description": "A coastal grotto accessible at low tide, used as a private sanctuary for meditation and offerings to sea spirits, its walls adorned with natural formations resembling deities.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Maweni Beach, South Malindi, Kenya",
+      "visiting_hours": "06:00-10:00, 16:00-18:00 (low tide dependent)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1528657682977-1d8f7e7f6074?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29hc3RhbCBjYXZlLGdhaWx8ZW58MHx8fHwxNzAzNTQ4ODk3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "meditation",
+        "sea spirits",
+        "grotto"
+      ]
+    },
+    {
+      "id": "MLD-CVS-003",
+      "name": "Kaya Giri Sacred Rock Shelter",
+      "short_description": "Nestled near one of the sacred Kaya forests, this ancient rock shelter served as a spiritual refuge and meeting point for Kaya elders, where important ceremonies were held.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Near Kaya Giri Forest, Inland Malindi, Kenya",
+      "visiting_hours": "09:00-16:00 (requires permission)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1549444199-3543d41f0a20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cm9jayBzY2hlbHRlcixhZnJpY2F8ZW58MHx8fHwxNzAzNTQ5MDM0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Kaya forest",
+        "elders",
+        "ceremonial"
+      ]
+    },
+    {
+      "id": "MLD-CVS-004",
+      "name": "Watamu Mangrove Shaman's Cave",
+      "short_description": "A small, hidden cave within the mangrove system of Watamu, historically used by shamans for vision quests and preparing traditional medicines, believed to be rich in spiritual energy.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Watamu Mangrove Forest, near Turtle Bay, Kenya",
+      "visiting_hours": "08:00-17:00 (guided canoe access)",
+      "entry_fee": "fixed amount (for guide/canoe)",
+      "images": "https://images.unsplash.com/photo-1627993424683-14966601f0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bWFuZ3JvdmVzIGNhdmUsYWZyaWNhfGVufDB8fHx8fHwxNzAzNTQ5MTcy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "shamans",
+        "vision quest",
+        "mangroves"
+      ]
+    }
+  ]
+}

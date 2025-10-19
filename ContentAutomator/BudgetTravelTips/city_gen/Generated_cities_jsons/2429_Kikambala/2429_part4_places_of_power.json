@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Kikambala",
+    "city_id": "2429"
+  },
+  "items": [
+    {
+      "id": "KIK_CRS_001",
+      "name": "Kwa Mizimu Crossroads",
+      "short_description": "A revered intersection where ancestral spirits are believed to guide travelers and offer insights into life's choices. Local elders often perform blessings here.",
+      "subtype": "Crossroads",
+      "address": "Junction of Kikambala-Mtwapa Road and Mbuta Access, Kikambala, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549733475-4008d72ae01d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral spirits",
+        "guidance",
+        "blessings"
+      ]
+    },
+    {
+      "id": "KIK_CRS_002",
+      "name": "Barabara ya Uchaguzi (Path of Choice)",
+      "short_description": "This ancient crossroads marks a historical branching point for Mijikenda migration routes, now a site for introspection and setting intentions for new beginnings.",
+      "subtype": "Crossroads",
+      "address": "Near Kwa Bulo, off Mombasa-Malindi Highway, Kikambala, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510257211135-c3359d992f80?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "new beginnings",
+        "introspection",
+        "migration history"
+      ]
+    },
+    {
+      "id": "KIK_CRS_003",
+      "name": "Mlango wa Roho (Gate of Souls)",
+      "short_description": "Believed to be a liminal space where the living and ancestral realms briefly converge, used for spiritual communication during specific lunar cycles.",
+      "subtype": "Crossroads",
+      "address": "Along Mwanamwenga Road, near Kikambala Beach, Kikambala, Kenya",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1588667300713-d023193a10ea?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral communication",
+        "liminal space",
+        "spiritual rituals"
+      ]
+    },
+    {
+      "id": "KIK_CRS_004",
+      "name": "Njia Panda ya Amani (Crossroads of Peace)",
+      "short_description": "A historic meeting point where rival clans once resolved conflicts, now a symbol of reconciliation and communal harmony, often used for community arbitration.",
+      "subtype": "Crossroads",
+      "address": "Near Kuruwitu Conservancy, Kikambala, Kenya",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596775871239-0d342a781078?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "reconciliation",
+        "harmony",
+        "community gathering"
+      ]
+    },
+    {
+      "id": "KIK_BAT_001",
+      "name": "Shamba la Vita la Kaya Fungo",
+      "short_description": "The site of a pivotal battle defending a sacred Kaya forest, where Mijikenda warriors achieved a legendary victory against encroachers, ensuring the Kaya's spiritual integrity.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Within Kaya Fungo Forest Reserve, Kikambala, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "KES 300",
+      "images": "https://images.unsplash.com/photo-1628100779743-956627072a2e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Kaya defense",
+        "ancestral bravery",
+        "spiritual integrity"
+      ]
+    },
+    {
+      "id": "KIK_BAT_002",
+      "name": "Mji wa Kulinda Watoto (Village of Child Protection)",
+      "short_description": "Commemorates a valiant stand by villagers to protect their children during a historical raid, now a site for invoking protective blessings for the young ones.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Mwanamwenga Village, Kikambala, Kenya",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1533615170366-235b3e6e8e8e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "protection",
+        "community resilience",
+        "children's blessings"
+      ]
+    },
+    {
+      "id": "KIK_BAT_003",
+      "name": "Pwani ya Ushindi (Shore of Victory)",
+      "short_description": "This stretch of coastline marks where local fishermen and warriors repelled foreign invaders, a testament to maritime resilience and community solidarity.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Along Kikambala Beach, near Vipingo, Kikambala, Kenya",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1520638531189-63795ac7c23f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "maritime history",
+        "defense",
+        "solidarity"
+      ]
+    },
+    {
+      "id": "KIK_BAT_004",
+      "name": "Msitu wa Azimio (Forest of Resolve)",
+      "short_description": "A dense forest where elders and warriors retreated to forge critical alliances and strategies, symbolizing unwavering resolve in times of existential threat.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Ndovuni Forest Section, Kikambala, Kenya",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1502482390886-f186c3529329?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "strategic planning",
+        "unity",
+        "resilience"
+      ]
+    },
+    {
+      "id": "KIK_MNT_001",
+      "name": "Kilima cha Wazee (Hill of Elders)",
+      "short_description": "A modest but revered hill where Mijikenda elders traditionally convened for important deliberations and to commune with ancestral spirits overseeing the land.",
+      "subtype": "Sacred Mountains",
+      "address": "Off Mavueni-Kikambala Road, near Mavueni, Kikambala, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620188737302-3114a2752697?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "elder wisdom",
+        "ancestral reverence",
+        "community gatherings"
+      ]
+    },
+    {
+      "id": "KIK_MNT_002",
+      "name": "Mlima wa Maombi (Mountain of Prayers)",
+      "short_description": "A solitary rock outcrop believed to be a direct channel to the heavens, often visited for personal prayers, healing rituals, and seeking divine intervention.",
+      "subtype": "Sacred Mountains",
+      "address": "Near Kijipwa Beach Road, Kikambala, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1565507963339-1d4e0b0468c4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "prayer",
+        "healing",
+        "divine connection"
+      ]
+    },
+    {
+      "id": "KIK_MNT_003",
+      "name": "Kipandio cha Jua (Sunrise Rise)",
+      "short_description": "A gentle slope offering a panoramic view, used for dawn rituals to honor the rising sun and its life-giving energy, symbolizing hope and renewal.",
+      "subtype": "Sacred Mountains",
+      "address": "Near Ngoloko area, overlooking the Indian Ocean, Kikambala, Kenya",
+      "visiting_hours": "05:30-18:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1530960548135-24c6e2697072?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "renewal",
+        "sun worship",
+        "hope"
+      ]
+    },
+    {
+      "id": "KIK_MNT_004",
+      "name": "Kizingiti cha Pepo (Threshold of Winds)",
+      "short_description": "A wind-swept elevation where the spirits of the air are believed to carry messages and cleanse negativity, used for cleansing ceremonies and releasing burdens.",
+      "subtype": "Sacred Mountains",
+      "address": "Off Vipingo Ridge Road, Kikambala, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1506979213190-67d7eb0b9432?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cleansing",
+        "spiritual release",
+        "wind spirits"
+      ]
+    },
+    {
+      "id": "KIK_MON_001",
+      "name": "Makazi ya Waganga (Healers' Enclave)",
+      "short_description": "A secluded compound where traditional Mijikenda healers live, learn, and practice ancient remedies, offering spiritual and physical healing to the community.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Off Kikambala-Mtwapa Road, secluded area, Kikambala, Kenya",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1574744473855-d1502447d2ce?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "traditional healing",
+        "spiritual wisdom",
+        "retreat"
+      ]
+    },
+    {
+      "id": "KIK_MON_002",
+      "name": "Nyumba ya Ukimya (House of Silence)",
+      "short_description": "A modest, ancient structure used by spiritual seekers for solitary meditation and intense introspection, emphasizing the power of quiet contemplation.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Deep within Kaya Fungo Forest, Kikambala, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "KES 100",
+      "images": "https://images.unsplash.com/photo-1619830509653-33e144a1e941?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "meditation",
+        "introspection",
+        "solitude"
+      ]
+    },
+    {
+      "id": "KIK_MON_003",
+      "name": "Kambi ya Wanafunzi (Learners' Camp)",
+      "short_description": "A semi-permanent encampment where young initiates learn the oral traditions, dances, and spiritual practices of the Mijikenda under the guidance of elders.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Near Kidogo Beach, secluded area, Kikambala, Kenya",
+      "visiting_hours": "by appointment",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1629816654766-3d2b271630c9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "initiation",
+        "oral traditions",
+        "spiritual learning"
+      ]
+    },
+    {
+      "id": "KIK_MON_004",
+      "name": "Banda la Maono (Vision Hut)",
+      "short_description": "A simple, isolated hut used by spiritual leaders to receive visions and guidance for the community through fasting and deep trance states.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Mwembeshauri area, deep in indigenous forest, Kikambala, Kenya",
+      "visiting_hours": "by appointment",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1601666494958-9631553c4df4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "visions",
+        "guidance",
+        "spiritual leadership"
+      ]
+    },
+    {
+      "id": "KIK_CAV_001",
+      "name": "Pango la Mizimu (Cave of Spirits)",
+      "short_description": "An ancient limestone cave believed to be a dwelling place for ancestral spirits, often used for powerful healing rituals and seeking blessings for fertility.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Off Shanzu-Kikambala Road, hidden trail, Kikambala, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "KES 200",
+      "images": "https://images.unsplash.com/photo-1616712399622-c8427f711204?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral spirits",
+        "healing rituals",
+        "fertility blessings"
+      ]
+    },
+    {
+      "id": "KIK_CAV_002",
+      "name": "Kaya ya Maficho (Hidden Forest Sanctuary)",
+      "short_description": "A secluded clearing within an indigenous forest, protected by dense foliage, serving as a sanctuary for secret ceremonies and deep spiritual communion.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Within Kaya Kauma Forest, Kikambala, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "KES 150",
+      "images": "https://images.unsplash.com/photo-1621217646194-e0c1f4e1f744?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "secret rituals",
+        "spiritual communion",
+        "Kaya forest"
+      ]
+    },
+    {
+      "id": "KIK_CAV_003",
+      "name": "Chumba cha Mwamba (Rock Chamber)",
+      "short_description": "A natural rock shelter utilized for ancient initiation rites, its cool, quiet interior providing a transformative space for spiritual rebirth.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Near Mtwapa Creek, secluded rock formation, Kikambala, Kenya",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1588806587428-c1161d7a31b9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "initiation rites",
+        "transformation",
+        "spiritual rebirth"
+      ]
+    },
+    {
+      "id": "KIK_CAV_004",
+      "name": "Pango la Ufunuo (Cave of Revelation)",
+      "short_description": "A deep, secluded cave where prophets and seers historically sought profound visions and received messages from the divine for their community.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Remote area near Mwenda Beach, Kikambala, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "KES 250",
+      "images": "https://images.unsplash.com/photo-1548685954-a69074092b3a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "prophecy",
+        "visions",
+        "divine messages"
+      ]
+    },
+    {
+      "id": "KIK_DPS_001",
+      "name": "Miamba ya Nguvu (Rocks of Power)",
+      "short_description": "A cluster of sun-baked rock formations along the coastline, believed to emanate potent Earth energy for grounding and revitalization.",
+      "subtype": "Desert Power Sites",
+      "address": "Kuruwitu Beach, unique rock outcrops, Kikambala, Kenya",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1587844005697-3f9f7d24c8e7?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "earth energy",
+        "grounding",
+        "revitalization"
+      ]
+    },
+    {
+      "id": "KIK_DPS_002",
+      "name": "Mti wa Roho Takatifu (Tree of Holy Spirit)",
+      "short_description": "A solitary, ancient baobab tree standing in an open, sun-drenched field, revered as a living spirit and a place for prayer and offerings.",
+      "subtype": "Desert Power Sites",
+      "address": "Near Mtwapa Bridge, open scrubland, Kikambala, Kenya",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1589710323985-649d21c436b6?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sacred tree",
+        "offerings",
+        "prayer"
+      ]
+    },
+    {
+      "id": "KIK_DPS_003",
+      "name": "Nyumba ya Mchanga (House of Sand)",
+      "short_description": "A unique, naturally formed depression in the sandy coastal plains, believed to be a vortex of subtle energies, good for spiritual cleansing and meditation.",
+      "subtype": "Desert Power Sites",
+      "address": "Secluded dunes near Kikambala Beach, Kikambala, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547820058-295058564f33?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "vortex",
+        "cleansing",
+        "meditation"
+      ]
+    },
+    {
+      "id": "KIK_DPS_004",
+      "name": "Kisima cha Siri (Secret Well)",
+      "short_description": "An ancient, brackish well located in a dry, open area, said to hold healing properties and to be a conduit for deep earth wisdom, visited for purification.",
+      "subtype": "Desert Power Sites",
+      "address": "Remote area off Malindi Road, Kikambala, Kenya",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1506744038165-bbd3126be1f7?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "healing water",
+        "earth wisdom",
+        "purification"
+      ]
+    },
+    {
+      "id": "KIK_PYR_001",
+      "name": "Kilima cha Mawe (Stone Cairn Hill)",
+      "short_description": "A gentle hill topped with a large, ancient stone cairn, believed to be an early ceremonial burial site or landmark for ancestral worship.",
+      "subtype": "Pyramids",
+      "address": "Kwa Mwaiki, near Fumbini, Kikambala, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1576839352656-91e860953926?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral burial",
+        "ceremonial site",
+        "ancient landmark"
+      ]
+    },
+    {
+      "id": "KIK_PYR_002",
+      "name": "Nyumba ya Mizimu (House of Ancestors)",
+      "short_description": "A naturally occurring, tiered rock formation resembling a stepped pyramid, held sacred as a place where the spirits of ancient chiefs are invoked.",
+      "subtype": "Pyramids",
+      "address": "Near Mida Creek, inland from Kuruwitu, Kikambala, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "KES 100",
+      "images": "https://images.unsplash.com/photo-1602750378902-861c8a160868?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral invocation",
+        "sacred geology",
+        "chiefs' spirits"
+      ]
+    },
+    {
+      "id": "KIK_PYR_003",
+      "name": "Gugu la Kumbukumbu (Mound of Remembrance)",
+      "short_description": "An overgrown, conical earth mound believed to be a communal grave site from ancient times, where offerings are still made to honor those long passed.",
+      "subtype": "Pyramids",
+      "address": "Off Vipingo-Kikambala Road, secluded area, Kikambala, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/3310065/pexels-photo-3310065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "ancient burial",
+        "remembrance",
+        "offerings"
+      ]
+    },
+    {
+      "id": "KIK_PYR_004",
+      "name": "Ngome ya Jiwe (Stone Fortress)",
+      "short_description": "Remnants of a formidable, ancient stone structure with a commanding presence, theorized to have been a defensive and ceremonial site for early coastal communities.",
+      "subtype": "Pyramids",
+      "address": "High ground near Utange, Kikambala, Kenya",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "KES 200",
+      "images": "https://images.unsplash.com/photo-1550993079-05a90757a66f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancient defense",
+        "ceremonial",
+        "community heritage"
+      ]
+    },
+    {
+      "id": "KIK_MEP_001",
+      "name": "Kituo cha Utamaduni cha Kikambala (Kikambala Cultural Center)",
+      "short_description": "A vibrant hub for preserving Mijikenda traditions through arts, crafts, and performances, fostering community spirit and cultural identity in a modern setting.",
+      "subtype": "Modern Energy Places",
+      "address": "Off Mombasa-Malindi Highway, near Kikambala town, Kikambala, Kenya",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "KES 500",
+      "images": "https://images.unsplash.com/photo-1629816654766-3d2b271630c9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cultural preservation",
+        "community hub",
+        "modern heritage"
+      ]
+    },
+    {
+      "id": "KIK_MEP_002",
+      "name": "Kanisa la Umoja (Unity Church)",
+      "short_description": "A non-denominational church founded on principles of interfaith harmony and community service, serving as a beacon of modern spiritual inclusivity.",
+      "subtype": "Modern Energy Places",
+      "address": "Main Kikambala Road, Kikambala, Kenya",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517454228913-c918338f0d57?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interfaith",
+        "community service",
+        "spiritual inclusivity"
+      ]
+    },
+    {
+      "id": "KIK_MEP_003",
+      "name": "Bustani ya Tafakari (Reflection Garden)",
+      "short_description": "A beautifully landscaped public garden designed for quiet contemplation and meditation, offering a serene escape amidst urban development.",
+      "subtype": "Modern Energy Places",
+      "address": "Adjacent to Mtwapa Creek Bridge, Kikambala, Kenya",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596775871239-0d342a77322e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "meditation",
+        "contemplation",
+        "urban oasis"
+      ]
+    },
+    {
+      "id": "KIK_MEP_004",
+      "name": "Kituo cha Vijana cha Imani (Youth Faith Center)",
+      "short_description": "A vibrant youth center that blends traditional values with modern challenges, empowering young people through mentorship, education, and spiritual guidance.",
+      "subtype": "Modern Energy Places",
+      "address": "Off Kwa Kadzengo Road, Kikambala, Kenya",
+      "visiting_hours": "10:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1528698126768-e6d165f1261d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "youth empowerment",
+        "mentorship",
+        "spiritual guidance"
+      ]
+    },
+    {
+      "id": "KIK_RST_001",
+      "name": "Kaburi la Kaya Elders (Tomb of Kaya Elders)",
+      "short_description": "A revered ancestral burial ground within a Kaya forest, holding the remains of past spiritual leaders and serving as a powerful site for ancestral veneration.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Deep within Kaya Fungo Forest, Kikambala, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "KES 300",
+      "images": "https://images.pexels.com/photos/10368551/pexels-photo-10368551.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "ancestral veneration",
+        "Kaya forest",
+        "spiritual leaders"
+      ]
+    },
+    {
+      "id": "KIK_RST_002",
+      "name": "Chembechembe Takatifu ya Mzee Juma",
+      "short_description": "A small, unassuming shrine dedicated to Mzee Juma, a legendary local healer whose spirit is believed to still bless those who seek his aid.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Kwa Juma area, off Kikambala-Mtwapa Road, Kikambala, Kenya",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/3282136/pexels-photo-3282136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "healer's shrine",
+        "blessings",
+        "local legend"
+      ]
+    },
+    {
+      "id": "KIK_RST_003",
+      "name": "Nyundo ya Wakwezaji (Hammer of the Founders)",
+      "short_description": "An ancient stone monument marking the resting place of the founding patriarchs of the Kikambala community, symbolizing their enduring legacy and strength.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Near Kipepeo Village, Kikambala, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/10777559/pexels-photo-10777559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "founding ancestors",
+        "legacy",
+        "community heritage"
+      ]
+    },
+    {
+      "id": "KIK_RST_004",
+      "name": "Pango la Hekima (Cave of Wisdom)",
+      "short_description": "A small, shallow cave where ancient scrolls and artifacts were once hidden by spiritual guardians, now revered as a place of profound ancestral knowledge.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Hidden within the limestone cliffs near Mtwapa Creek, Kikambala, Kenya",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "KES 200",
+      "images": "https://images.pexels.com/photos/7454228/pexels-photo-7454228.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "ancestral knowledge",
+        "artifacts",
+        "spiritual guardians"
+      ]
+    },
+    {
+      "id": "KIK_ANT_001",
+      "name": "Mahali pa Kuabudu (Place of Worship)",
+      "short_description": "An ancient, open-air ceremonial ground marked by sacred trees and large stones, where community-wide spiritual rituals and seasonal festivals were held.",
+      "subtype": "Ancient Temples",
+      "address": "Within Kaya Kinondo Forest, Kikambala, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "KES 250",
+      "images": "https://images.pexels.com/photos/17228394/pexels-photo-17228394/free-photo-of-ancient-temple-in-jungle.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "communal rituals",
+        "sacred grove",
+        "seasonal festivals"
+      ]
+    },
+    {
+      "id": "KIK_ANT_002",
+      "name": "Altare ya Bahari (Sea Altar)",
+      "short_description": "A natural rock formation by the ocean, historically used as an altar for offerings to the sea spirits, seeking bountiful catches and protection for fishermen.",
+      "subtype": "Ancient Temples",
+      "address": "On a secluded beach north of Kikambala, Kikambala, Kenya",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/1094086/pexels-photo-1094086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "sea spirits",
+        "offerings",
+        "fishermen's blessings"
+      ]
+    },
+    {
+      "id": "KIK_ANT_003",
+      "name": "Ngoma ya Mila (Traditional Drumming Circle)",
+      "short_description": "A circular, flattened earth area, deeply imbued with the energy of countless traditional dances and drumming ceremonies, where community stories were shared.",
+      "subtype": "Ancient Temples",
+      "address": "Near Majaoni village, open field, Kikambala, Kenya",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/6146205/pexels-photo-6146205.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "traditional dance",
+        "storytelling",
+        "community energy"
+      ]
+    },
+    {
+      "id": "KIK_ANT_004",
+      "name": "Mlima wa Dhabihu (Sacrifice Hill)",
+      "short_description": "A low hill with an ancient, flat stone slab, believed to be a site for traditional sacrifices and important covenant-making ceremonies.",
+      "subtype": "Ancient Temples",
+      "address": "Inland from Kikambala, off the main road, Kikambala, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/15720176/pexels-photo-15720176/free-photo-of-an-open-air-altar-in-an-ancient-city.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "sacrificial site",
+        "covenants",
+        "ancient rituals"
+      ]
+    }
+  ]
+}

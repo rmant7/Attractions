@@ -11,7 +11,7 @@ OUTPUT_ROOT = Path("CheapCity_generated_city_jsons")
 MODEL = "gemini-2.5-flash"
 
 START_ID = 2411
-END_ID = 2416
+END_ID = 2412
 
 NUM_CHILD_PER_SUBTYPE = 4
 NUM_INSTAGRAM_PER_SUBTYPE = 4

@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Kaduna",
+    "city_id": "2455"
+  },
+  "items": [
+    {
+      "id": "KADCM001",
+      "name": "Kaduna Discovery Hub",
+      "short_description": "An interactive museum offering hands-on exhibits in science, technology, and local culture. Perfect for curious young minds to explore and learn.",
+      "subtype": "Children’s Museums",
+      "address": "15 Ali Akilu Road, Ungwan Sarki, Kaduna",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579201502446-21820b171df5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive",
+        "science",
+        "learning"
+      ]
+    },
+    {
+      "id": "KADCM002",
+      "name": "Little Explorers Cultural Center",
+      "short_description": "Delve into the rich heritage of Nigeria through interactive displays, traditional games, and storytelling sessions designed for children.",
+      "subtype": "Children’s Museums",
+      "address": "Plot 2, Constitution Road, Kaduna North, Kaduna",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627889146522-6e27129f123c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "culture",
+        "storytelling",
+        "history"
+      ]
+    },
+    {
+      "id": "KADCM003",
+      "name": "Tech Tots & Art Space",
+      "short_description": "A modern museum focusing on early childhood development through technology-based games, creative art workshops, and sensory play.",
+      "subtype": "Children’s Museums",
+      "address": "4 Kaduna-Kachia Road, Sabon Tasha, Kaduna",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1634705574041-94944d18d451?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "tech",
+        "art",
+        "sensory play"
+      ]
+    },
+    {
+      "id": "KADCM004",
+      "name": "Kaduna Young Scientists' Lab",
+      "short_description": "Inspire future scientists with hands-on experiments, a mini planetarium, and workshops on physics, chemistry, and biology in a fun environment.",
+      "subtype": "Children’s Museums",
+      "address": "8 Sultan Road, Malali, Kaduna",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542838183-5098b671a17b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "science experiments",
+        "education",
+        "STEM"
+      ]
+    },
+    {
+      "id": "KADAQ001",
+      "name": "Kaduna River Wonders Aquarium",
+      "short_description": "Explore the aquatic life of Nigeria's rivers and beyond, featuring various freshwater fish, amphibians, and interactive exhibits on water conservation.",
+      "subtype": "Aquariums",
+      "address": "Off Ahmadu Bello Way, Near River Kaduna Bridge, Kaduna",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1590400527334-a149a4569062?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "freshwater",
+        "aquatic life",
+        "conservation"
+      ]
+    },
+    {
+      "id": "KADAQ002",
+      "name": "Ocean's Edge Discovery Center",
+      "short_description": "Although landlocked, this center brings the magic of the ocean to Kaduna with exotic marine species, coral reef displays, and educational talks.",
+      "subtype": "Aquariums",
+      "address": "34 Independence Way, GRA, Kaduna",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1588636248354-9541300971b8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "marine life",
+        "coral reef",
+        "exotic fish"
+      ]
+    },
+    {
+      "id": "KADAQ003",
+      "name": "Tiny Fins & Scales Hub",
+      "short_description": "A specialized aquarium focusing on smaller, vibrant freshwater fish and unique aquatic insects, perfect for young children to observe up close.",
+      "subtype": "Aquariums",
+      "address": "7 Narayi Road, Barnawa, Kaduna",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1606797127161-558e658a5c34?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "small fish",
+        "toddler friendly",
+        "observation"
+      ]
+    },
+    {
+      "id": "KADAQ004",
+      "name": "Aqua-Life Education Zone",
+      "short_description": "Combining an aquarium with a learning center, this attraction offers guided tours, feeding demonstrations, and workshops on aquatic biology.",
+      "subtype": "Aquariums",
+      "address": "12 Waff Road, Kaduna South, Kaduna",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1584989104052-a6d1a1b5c3b9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "education",
+        "aquatic biology",
+        "feeding shows"
+      ]
+    },
+    {
+      "id": "KADPA001",
+      "name": "Kaduna Kids Adventureland",
+      "short_description": "A sprawling outdoor adventure park with climbing frames, zip lines, swings, and obstacle courses, designed for children of all ages to explore.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Behind Murtala Square, Doka, Kaduna",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506766432655-cf6d0263f69b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "outdoor",
+        "climbing",
+        "zip lines"
+      ]
+    },
+    {
+      "id": "KADPA002",
+      "name": "Greenfield Park & Play",
+      "short_description": "Nestled within a green landscape, this park features a variety of play equipment, picnic areas, and open spaces for active games and family fun.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Eastern Bypass, Off Kaduna-Zaria Road, Kaduna",
+      "opening_hours": "08:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1555541604-0377ee16f6b0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "park",
+        "picnic",
+        "active play"
+      ]
+    },
+    {
+      "id": "KADPA003",
+      "name": "Jungle Gym Fun Hub",
+      "short_description": "An innovative playground featuring unique jungle gym designs, multi-level climbing structures, and soft-fall surfaces for safe, adventurous play.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "22 Kachia Road, Tudun Wada, Kaduna",
+      "opening_hours": "09:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1603513689456-435cfd808f90?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "jungle gym",
+        "adventure",
+        "safe play"
+      ]
+    },
+    {
+      "id": "KADPA004",
+      "name": "Kwaru Outdoor Explore Park",
+      "short_description": "Designed to connect children with nature, this park includes natural play elements, discovery trails, and a supervised stream for water play during dry season.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Kwaru Forest Reserve Access Road, Kaduna",
+      "opening_hours": "08:30-18:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1531259683707-ae78f65e2ad6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature play",
+        "discovery",
+        "outdoor fun"
+      ]
+    },
+    {
+      "id": "KADFP001",
+      "name": "Enchanted Storyland Kaduna",
+      "short_description": "Step into a world of magic and wonder, where classic fairy tales come to life with themed walk-throughs, character meet-and-greets, and gentle rides.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Off Western Bypass, Near Millennium City, Kaduna",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1584346747209-6617f0a8519e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fantasy",
+        "storytelling",
+        "characters"
+      ]
+    },
+    {
+      "id": "KADFP002",
+      "name": "Princess & Knight's Kingdom",
+      "short_description": "A regal experience awaits, with a mini-castle, royal parade routes, and interactive zones where children can dress up as their favorite fairy tale characters.",
+      "subtype": "Fairy Tale Parks",
+      "address": "9 Kaduna-Zaria Road, Rigasa, Kaduna",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563640237731-01f787b8d4f6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "princess",
+        "knights",
+        "dress-up"
+      ]
+    },
+    {
+      "id": "KADFP003",
+      "name": "Whispering Woods Wonderland",
+      "short_description": "Explore a mystical forest themed park with hidden gnome houses, a 'talking' tree, and winding paths leading to magical surprises and play areas.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Adjacent to Kaduna River Estate, Barnawa, Kaduna",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1528646061176-327e57c320d5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "magical forest",
+        "gnomes",
+        "mystery"
+      ]
+    },
+    {
+      "id": "KADFP004",
+      "name": "Mythical Creatures Garden",
+      "short_description": "Discover a garden filled with friendly mythical creatures (statues and animatronics), each with a story to tell, alongside a captivating playground.",
+      "subtype": "Fairy Tale Parks",
+      "address": "17 Nnamdi Azikiwe Expressway, Ungwan Pama, Kaduna",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1557682250-32a87a716766?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "mythical creatures",
+        "garden",
+        "playground"
+      ]
+    },
+    {
+      "id": "KADFA001",
+      "name": "Happy Hooves Farm Park",
+      "short_description": "A delightful farm experience where children can pet and feed friendly farm animals like goats, sheep, and rabbits. Enjoy tractor rides and learn about farm life.",
+      "subtype": "Farm Attractions",
+      "address": "5 Kaduna-Abuja Express Road, Kakau, Kaduna",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628172836270-e6992d95267a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "tractor rides"
+      ]
+    },
+    {
+      "id": "KADFA002",
+      "name": "Green Pastures Eco-Farm",
+      "short_description": "Focuses on sustainable farming practices, offering children the chance to participate in planting activities, harvest vegetables, and interact with farm animals.",
+      "subtype": "Farm Attractions",
+      "address": "Off Mando Road, Kawo, Kaduna",
+      "opening_hours": "08:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1507206121300-3aa75f159981?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "eco-farm",
+        "planting",
+        "sustainable"
+      ]
+    },
+    {
+      "id": "KADFA003",
+      "name": "Barnyard Buddies Petting Farm",
+      "short_description": "An intimate petting zoo setting with smaller farm animals, perfect for toddlers and preschoolers. Features educational talks and animal care demonstrations.",
+      "subtype": "Farm Attractions",
+      "address": "Plot 18, Isa Kaita Road, Ungwan Rimi, Kaduna",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563412705705-bcdd624506c7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddler friendly",
+        "animal care",
+        "small animals"
+      ]
+    },
+    {
+      "id": "KADFA004",
+      "name": "Farmer Fun Day Out",
+      "short_description": "A seasonal attraction offering corn mazes, pumpkin patches (seasonal), and interactive farm games alongside opportunities to meet farm animals.",
+      "subtype": "Farm Attractions",
+      "address": "Behind Afaka Army Barracks, Igabi, Kaduna",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589182372480-1a134a41d06e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "seasonal",
+        "corn maze",
+        "farm games"
+      ]
+    },
+    {
+      "id": "KADAR001",
+      "name": "Star Wheel Fun Zone",
+      "short_description": "Home to Kaduna's iconic mini Ferris wheel and a collection of classic amusement rides suitable for younger children and families.",
+      "subtype": "Amusement Rides",
+      "address": "10 Ahmadu Bello Way, Central Business District, Kaduna",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1534346937229-23f2f84cf130?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ferris wheel",
+        "classic rides",
+        "family fun"
+      ]
+    },
+    {
+      "id": "KADAR002",
+      "name": "Speed Racer Go-Karts & Rides",
+      "short_description": "Featuring a child-friendly go-kart track and several thrilling but safe rides, perfect for kids who love speed and excitement.",
+      "subtype": "Amusement Rides",
+      "address": "Along Expressway By-Pass, Rigachikun, Kaduna",
+      "opening_hours": "11:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1567439908682-1438964d7820?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "go-karts",
+        "thrill rides",
+        "speed"
+      ]
+    },
+    {
+      "id": "KADAR003",
+      "name": "Carousel Dreams Park",
+      "short_description": "A charming park centered around a beautiful carousel, complemented by smaller kiddie rides, bumper cars, and a play area.",
+      "subtype": "Amusement Rides",
+      "address": "5 Independence Way, Kaduna",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510522105151-240a01297593?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "carousel",
+        "kiddie rides",
+        "bumper cars"
+      ]
+    },
+    {
+      "id": "KADAR004",
+      "name": "Adrenaline Junior Zone",
+      "short_description": "Offers a collection of exciting rides tailored for pre-teens and adventurous younger kids, including a mini roller coaster and spinning rides.",
+      "subtype": "Amusement Rides",
+      "address": "Opposite Command Secondary School, NDA, Kaduna",
+      "opening_hours": "10:30-19:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558237731-15cf98e3b4a4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "roller coaster",
+        "spinning rides",
+        "adventure"
+      ]
+    },
+    {
+      "id": "KADIP001",
+      "name": "Rainy Day Fun Palace",
+      "short_description": "Kaduna's largest indoor play center, featuring multi-level soft play structures, giant slides, ball pits, and dedicated toddler zones.",
+      "subtype": "Indoor Play Centers",
+      "address": "Inside Galaxy Mall, Waff Road, Kaduna",
+      "opening_hours": "09:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582294121111-ce11e0394c8d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "soft play",
+        "ball pit",
+        "slides"
+      ]
+    },
+    {
+      "id": "KADIP002",
+      "name": "Adventure Climb & Play",
+      "short_description": "An indoor center focusing on climbing challenges, including a kid-friendly climbing wall, rope courses, and interactive obstacle challenges.",
+      "subtype": "Indoor Play Centers",
+      "address": "3 Sardauna Crescent, GRA, Kaduna",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563231365-d41c107e3a38?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "climbing wall",
+        "rope course",
+        "obstacle course"
+      ]
+    },
+    {
+      "id": "KADIP003",
+      "name": "Little Stars Soft Play Arena",
+      "short_description": "A vibrant and safe indoor play space specifically designed for younger children and toddlers, offering padded areas, small slides, and sensory toys.",
+      "subtype": "Indoor Play Centers",
+      "address": "Ground Floor, Jifatu Supermarket Building, Kano Road, Kaduna",
+      "opening_hours": "09:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1610476007469-6d6f14066903?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddler zone",
+        "sensory play",
+        "safe play"
+      ]
+    },
+    {
+      "id": "KADIP004",
+      "name": "Digital Fun Zone",
+      "short_description": "Combines physical play with interactive digital games, virtual reality experiences suitable for kids, and projection-mapped play surfaces.",
+      "subtype": "Indoor Play Centers",
+      "address": "12 Kagoro Road, Barnawa, Kaduna",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596773292497-ecf9e57724a8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "digital games",
+        "VR",
+        "interactive"
+      ]
+    },
+    {
+      "id": "KADZP001",
+      "name": "Kaduna Wildlife Park",
+      "short_description": "Home to a diverse collection of African wildlife, this park offers spacious enclosures, educational programs, and guided tours.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Off Kaduna-Zaria Express Way, NearNDA, Kaduna",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574872248030-9721798ce02f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wildlife",
+        "african animals",
+        "education"
+      ]
+    },
+    {
+      "id": "KADZP002",
+      "name": "Children's Critter Corner",
+      "short_description": "A specialized petting zoo within the city, allowing children safe and supervised interaction with friendly domestic animals and smaller exotic pets.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "4 Malali Bypass, Ungwan Rimi, Kaduna",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1581452140409-51187d9a16f2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "petting zoo",
+        "domestic animals",
+        "interaction"
+      ]
+    },
+    {
+      "id": "KADZP003",
+      "name": "Tropical Birds Aviary & Reptile House",
+      "short_description": "Discover a vibrant collection of exotic birds in a walk-through aviary and a fascinating reptile house, offering educational insights into these creatures.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "15 Kano Road, Kaduna North, Kaduna",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1576404285859-f257d07945d8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "birds",
+        "reptiles",
+        "aviary"
+      ]
+    },
+    {
+      "id": "KADZP004",
+      "name": "African Safari Junior",
+      "short_description": "A smaller-scale safari experience designed for kids, featuring viewing areas for local and pan-African animals, and a 'junior ranger' program.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Eastern Bye-Pass, Near Kaduna Airport, Kaduna",
+      "opening_hours": "09:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1534731038930-10f769df8b49?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "safari",
+        "junior ranger",
+        "conservation"
+      ]
+    },
+    {
+      "id": "KADMI001",
+      "name": "The Mystical Stage of Kaduna",
+      "short_description": "A dedicated venue for dazzling magic and illusion shows, featuring local and visiting magicians captivating audiences of all ages.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Inside Arewa House Complex, State House Road, Kaduna",
+      "opening_hours": "16:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596773539870-89196395b546?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "magic show",
+        "illusions",
+        "live performance"
+      ]
+    },
+    {
+      "id": "KADMI002",
+      "name": "Illusionist's Playhouse",
+      "short_description": "An intimate theater offering interactive magic shows, where children are often invited on stage to assist with tricks and illusions.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "First Floor, Jigo Shopping Complex, Ahmadu Bello Way, Kaduna",
+      "opening_hours": "15:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616781297184-a1e670d8a5f3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive",
+        "close-up magic",
+        "family show"
+      ]
+    },
+    {
+      "id": "KADMI003",
+      "name": "Kaduna Wonder Works",
+      "short_description": "A unique experience combining magic, puppetry, and storytelling, creating a truly enchanting and memorable performance for young audiences.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Community Hall, Barnawa Extension, Kaduna",
+      "opening_hours": "14:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1532056079965-03732f91361c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "puppetry",
+        "storytelling",
+        "enchanting"
+      ]
+    },
+    {
+      "id": "KADMI004",
+      "name": "The Great Kaduno's Magical Show",
+      "short_description": "A grand theatrical magic show with spectacular large-scale illusions, music, and special effects that will leave children spellbound.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Cultural Centre Complex, Independence Way, Kaduna",
+      "opening_hours": "18:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563290680-3333346c827c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "grand illusion",
+        "special effects",
+        "theatrical"
+      ]
+    },
+    {
+      "id": "KADTP001",
+      "name": "Kaduna Kidz World",
+      "short_description": "A full-scale theme park featuring multiple themed lands, a variety of kid-friendly rides, live entertainment, and cartoon character meet-and-greets.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Off Kaduna-Kano Express Way, Rigachikun, Kaduna",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596773264663-e387c8b21c5b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "themed lands",
+        "rides",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "KADTP002",
+      "name": "Savannah Adventure Land",
+      "short_description": "A unique theme park bringing the African savannah to life with animal-themed rides, a mini safari walk, and shows celebrating local culture and wildlife.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Behind NDA Old Site, Afaka, Kaduna",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522965384260-0a377d638706?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "savannah",
+        "animal themed",
+        "cultural shows"
+      ]
+    },
+    {
+      "id": "KADTP003",
+      "name": "WaterSplash & Fun Park",
+      "short_description": "Kaduna's premier outdoor water park combined with land attractions, offering slides, splash pads, a lazy river, and a dry play zone.",
+      "subtype": "Theme Parks for Kids",
+      "address": "7 Kachia Road, Sabon Tasha, Kaduna",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563456801-f2f5341a9d02?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "water park",
+        "slides",
+        "splash pads"
+      ]
+    },
+    {
+      "id": "KADTP004",
+      "name": "Future World Kids Park",
+      "short_description": "A futuristic-themed park with interactive exhibits, virtual reality rides for children, and educational play zones focusing on innovation and space exploration.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Along Nnamdi Azikiwe Expressway, Millennium City, Kaduna",
+      "opening_hours": "11:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627814041183-5034a7810e75?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "futuristic",
+        "VR rides",
+        "innovation"
+      ]
+    }
+  ]
+}

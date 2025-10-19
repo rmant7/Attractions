@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "South Caicos",
+    "city_id": "2411"
+  },
+  "items": [
+    {
+      "id": "SC-RFN001",
+      "name": "Bell Sound Eco-Reef Nursery",
+      "short_description": "Dive into a living laboratory where young coral propagates. This conservation project offers guided snorkeling tours to see marine biologists at work and witness the vibrant new life taking hold in South Caicos' protected waters.",
+      "address": "Bell Sound Road, South Caicos, TCI",
+      "opening_hours": "09:00-16:00 (daily for tours)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589179619119-0266e7e1f487?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "marine life",
+        "conservation",
+        "snorkeling"
+      ]
+    },
+    {
+      "id": "SC-FWT002",
+      "name": "Flamingo Flats Observation Deck",
+      "short_description": "Perched above the historic salt ponds, this newly built observation deck offers unparalleled views of migratory birds, especially the majestic flamingos, against a stunning Caribbean backdrop. Ideal for nature photographers and bird enthusiasts.",
+      "address": "Off Salt Ponds Road, near Cockburn Harbour, South Caicos, TCI",
+      "opening_hours": "24/7",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1601618683100-752402120e23?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "birdwatching",
+        "nature trail",
+        "scenic view"
+      ]
+    },
+    {
+      "id": "SC-OBG003",
+      "name": "Ocean Breeze Glamping Retreat",
+      "short_description": "Experience luxury under the stars in eco-friendly glamping tents with private decks overlooking the ocean. Enjoy the tranquility of South Caicos with gourmet dining, stargazing, and easy access to pristine beaches.",
+      "address": "East Bay Beach Road, South Caicos, TCI",
+      "opening_hours": "24/7 (for guests), 17:00-22:00 (public restaurant)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1594917409259-251f284e31e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "glamping",
+        "eco-tourism",
+        "fine dining"
+      ]
+    },
+    {
+      "id": "SC-CMH004",
+      "name": "Cockburn Harbour Artisan Market",
+      "short_description": "Discover the vibrant culture of South Caicos at this bustling new market. Browse handmade crafts, local artwork, and fresh produce, accompanied by live music and delicious island-style food stalls.",
+      "address": "Front Street, Cockburn Harbour, South Caicos, TCI",
+      "opening_hours": "09:00-14:00 (Saturdays & Wednesdays)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1509099859216-b1031923e5a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "local crafts",
+        "market",
+        "culture"
+      ]
+    },
+    {
+      "id": "SC-WSA005",
+      "name": "Caicos Coast Water Sports",
+      "short_description": "Your hub for aquatic adventures! Offering rentals and guided tours for kayaking, paddleboarding, and kiteboarding across the stunning turquoise waters of South Caicos. Beginners welcome with expert instructors on hand.",
+      "address": "Sailfish Bay, South Caicos, TCI",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae74?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "watersports",
+        "kayaking",
+        "adventure"
+      ]
+    },
+    {
+      "id": "SC-FCH006",
+      "name": "Deep Blue Fishing Charters",
+      "short_description": "Embark on an unforgettable deep-sea fishing expedition from the new South Caicos marina. Target marlin, tuna, and wahoo with experienced captains, offering both half-day and full-day charters.",
+      "address": "Cockburn Harbour Marina, South Caicos, TCI",
+      "opening_hours": "07:00-17:00 (by appointment)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1592759972323-c405903c7e0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "fishing",
+        "deep sea",
+        "boating"
+      ]
+    },
+    {
+      "id": "SC-SVO007",
+      "name": "Highlands Sunset Point",
+      "short_description": "A newly established scenic overlook on one of the island's highest points. Provides breathtaking panoramic views of South Caicos, its surrounding cays, and the most spectacular sunsets over the Caribbean Sea.",
+      "address": "Highlands Scenic Route, South Caicos, TCI",
+      "opening_hours": "24/7",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1473654728100-cb6fd308c37d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "scenic view",
+        "sunset",
+        "photography"
+      ]
+    },
+    {
+      "id": "SC-ODC008",
+      "name": "South Caicos Ocean Discovery Center",
+      "short_description": "An interactive learning center dedicated to the unique marine ecosystems of the Turks and Caicos Islands. Features engaging exhibits on coral reefs, mangrove forests, and local conservation efforts, perfect for all ages.",
+      "address": "Near Government Dock, Cockburn Harbour, South Caicos, TCI",
+      "opening_hours": "10:00-16:00 (Mon-Fri)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563608779841-f633f86e3f01?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "education",
+        "marine life",
+        "science"
+      ]
+    },
+    {
+      "id": "SC-EBC009",
+      "name": "East Bay Reef Lounge",
+      "short_description": "A chic new beach club offering a relaxed atmosphere, delicious cocktails, and fresh seafood right on the pristine sands of East Bay. Enjoy comfortable loungers, snorkeling access, and vibrant sunset gatherings.",
+      "address": "East Bay Beach, South Caicos, TCI",
+      "opening_hours": "11:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1507525428034-b723cf961cfe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "beach club",
+        "dining",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "SC-CHT010",
+      "name": "Cockburn Harbour Heritage Trail",
+      "short_description": "Step back in time on this self-guided walking trail that showcases the rich history of Cockburn Harbour. Explore renovated colonial buildings, salt industry ruins, and learn about the pioneers who shaped South Caicos.",
+      "address": "Starting point: Old Customs House, Front Street, Cockburn Harbour, South Caicos, TCI",
+      "opening_hours": "24/7",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1549487053-61b4021570d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "tags": [
+        "history",
+        "walking tour",
+        "culture"
+      ]
+    }
+  ]
+}

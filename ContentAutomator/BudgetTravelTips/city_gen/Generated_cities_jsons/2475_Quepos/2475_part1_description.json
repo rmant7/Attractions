@@ -1,0 +1,67 @@
+{
+  "id": "2475",
+  "name": "Quepos",
+  "country": "Costa Rica",
+  "description": "Quepos, a vibrant coastal town on Costa Rica's Central Pacific coast, serves as the bustling gateway to the world-renowned Manuel Antonio National Park. Once a significant banana port, it has gracefully transitioned into a lively hub for ecotourism and sport fishing. The town itself offers a captivating blend of authentic local Tico culture and an accommodating international flair. Stroll along the scenic waterfront promenade, explore the vibrant local market (feria) on weekends for fresh produce, exotic spices, and artisan crafts, or relax at one of the many charming cafes and open-air restaurants.\n\nMarina Pez Vela, a modern world-class marina, stands as a key highlight, drawing sport fishing enthusiasts from across the globe and offering a variety of tours, from exhilarating catamaran cruises to serene dolphin watching expeditions. Beyond the marina, Quepos buzzes with a laid-back, infectious energy, making it an ideal base for exploring the region. While Manuel Antonio's stunning white-sand beaches, crystal-clear waters, and abundant wildlife (sloths, monkeys, iguanas) are just a short, inexpensive bus ride away, Quepos provides a more authentic and less overtly tourist-centric experience. Engage with friendly locals, sample incredible fresh seafood at a local soda (eatery), and immerse yourself in the lush natural beauty surrounding this charming Costa Rican gem. The town is highly walkable, with most amenities, including banks, pharmacies, and souvenir shops, conveniently close at hand. Don't miss a sunset over the Pacific from a waterfront restaurant. Embrace the Pura Vida lifestyle here, where adventure meets relaxation amidst a tropical paradise.",
+  "themes": [
+    "Coastal Town",
+    "Ecotourism",
+    "Sport Fishing",
+    "Wildlife",
+    "Tropical Adventure"
+  ],
+  "body_attributes": {
+    "climate": "Tropical wet and dry, characterized by distinct dry (December to April) and rainy (May to November) seasons. High humidity year-round.",
+    "best_time_to_visit": "December to April (dry season) for sunny weather and optimal wildlife viewing, though the green season (May-Nov) offers lush landscapes and fewer crowds.",
+    "population": "Approximately 22,000 (Quepos District)",
+    "area": "Approx. 15 sq km (urban core)",
+    "transport_summary": "Local buses are frequent and affordable, connecting Quepos to Manuel Antonio. Taxis, collective taxis (colectivos), and car rentals are readily available. The town center is easily walkable.",
+    "safety_level": "Medium (petty theft can occur, especially in crowded tourist areas; exercise standard precautions like not leaving valuables unattended).",
+    "geographical_features": "Situated on the Pacific coast, surrounded by lush rainforest, rolling hills, and mangrove estuaries, with close proximity to stunning beaches and national parks."
+  },
+  "travel_tips": [
+    "Utilize the frequent local buses for convenient and inexpensive transport to Manuel Antonio National Park.",
+    "Always carry insect repellent, especially during the rainy season and for evening outings.",
+    "Book popular tours like sport fishing excursions or guided park tours in advance, particularly during peak season.",
+    "Be mindful of your belongings in crowded areas and on beaches to prevent petty theft."
+  ],
+  "budget_tips": [
+    "Eat at 'sodas' (local eateries) for authentic, inexpensive Costa Rican meals.",
+    "Buy fresh fruits, vegetables, and snacks from the local weekend market (feria) or grocery stores to save on food costs.",
+    "Walk or use public buses for short distances instead of taxis to minimize transport expenses.",
+    "Consider visiting during the green (rainy) season for potentially lower accommodation and tour prices."
+  ],
+  "seo": {
+    "seo_title": "Quepos Travel Guide | Gateway to Manuel Antonio, Costa Rica",
+    "seo_description": "Explore Quepos, Costa Rica – a vibrant coastal town and the gateway to Manuel Antonio National Park. Discover sport fishing, local culture, and tropical adventures.",
+    "keywords": [
+      "Quepos",
+      "Manuel Antonio",
+      "Costa Rica travel",
+      "Sport fishing",
+      "Ecotourism"
+    ]
+  },
+  "meta": {
+    "continent": "North America",
+    "currency": "Costa Rican Colón (CRC), USD widely accepted",
+    "language": "Spanish (English commonly spoken in tourist areas)",
+    "time_zone": "Central Standard Time (CST) / GMT-6",
+    "popular_airlines": [
+      "Sansa Airlines",
+      "Aerobell Airlines",
+      "American Airlines",
+      "United Airlines",
+      "Copa Airlines"
+    ]
+  },
+  "title": "Quepos: Your Tropical Gateway to Costa Rica's Pacific Charms",
+  "images": [
+    "https://images.unsplash.com/photo-1549419137-b45d0ed34e2f",
+    "https://images.unsplash.com/photo-1579822606554-1ec78b94871e"
+  ],
+  "coordinates": [
+    9.431867599487305,
+    -84.16191101074219
+  ]
+}

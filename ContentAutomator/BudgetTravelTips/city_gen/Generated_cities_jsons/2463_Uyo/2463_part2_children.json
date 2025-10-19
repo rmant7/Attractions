@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Uyo",
+    "city_id": "2463"
+  },
+  "items": [
+    {
+      "id": "UYOSC01",
+      "name": "Uyo Young Explorers Science Hub",
+      "short_description": "An interactive science center offering hands-on exhibits in physics, biology, and technology, designed to spark curiosity in young minds.",
+      "subtype": "Science Centers",
+      "address": "University of Uyo Annex Campus, Ikpa Road, Uyo, Akwa Ibom State",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1620023363063-e50e959ce53d",
+      "tags": [
+        "science",
+        "learning",
+        "interactive exhibits"
+      ]
+    },
+    {
+      "id": "UYOPG01",
+      "name": "Uyo Adventure Land",
+      "short_description": "A vibrant outdoor adventure park featuring climbing structures, zip lines, and themed play zones for kids of all ages to explore.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Plot 7, Ewet Housing Estate Extension, Uyo, Akwa Ibom State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596700812952-b43064731a54",
+      "tags": [
+        "outdoor play",
+        "climbing",
+        "adventure"
+      ]
+    },
+    {
+      "id": "UYOWP01",
+      "name": "Splash Zone Uyo",
+      "short_description": "A refreshing water park designed with thrilling slides, splash pads, and shallow pools for children to beat the heat and have fun.",
+      "subtype": "Water Parks for Kids",
+      "address": "Along Airport Road, close to Ibom Tropicana, Uyo, Akwa Ibom State",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1629857904037-ce9d0840b3c6",
+      "tags": [
+        "water slides",
+        "summer fun",
+        "swimming"
+      ]
+    },
+    {
+      "id": "UYOZO01",
+      "name": "Akwa Ibom Children's Zoo",
+      "short_description": "A friendly zoo experience tailored for young visitors, featuring local and exotic animals, plus a popular petting zoo area.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Near Ikot Ekpene Road, close to Uyo Township Stadium, Uyo, Akwa Ibom State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579737156942-1e96a4d7d422",
+      "tags": [
+        "animals",
+        "education",
+        "interactive"
+      ]
+    }
+  ]
+}

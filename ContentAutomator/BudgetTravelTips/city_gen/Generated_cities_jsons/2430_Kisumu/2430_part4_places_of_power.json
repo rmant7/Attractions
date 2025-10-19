@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Kisumu",
+    "city_id": "2430"
+  },
+  "items": [
+    {
+      "id": "KI-MON-001",
+      "name": "St. Mary's Catholic Monastery",
+      "short_description": "A tranquil haven for prayer and contemplation, offering spiritual retreats and a serene environment for reflection away from urban bustle.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Off Busia Road, Obunga Area, Kisumu",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/St._Benedict%27s_Monastery%2C_Wai%2C_India.jpg/1280px-St._Benedict%27s_Monastery%2C_Wai%2C_India.jpg",
+      "tags": [
+        "Catholic",
+        "Retreat",
+        "Contemplation"
+      ]
+    },
+    {
+      "id": "KI-MON-002",
+      "name": "The Ashram of Inner Peace",
+      "short_description": "A modern spiritual retreat center nestled in the quiet hills, focusing on meditation, yoga, and holistic healing practices for inner harmony.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Kajulu Hills, Kisumu-Kakamega Road, Kisumu",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1577909384803-34e85741f021",
+      "tags": [
+        "Meditation",
+        "Yoga",
+        "Holistic Healing"
+      ]
+    },
+    {
+      "id": "KI-MON-003",
+      "name": "Maseno Anglican Retreat Centre",
+      "short_description": "A historic Anglican center near Kisumu, providing a peaceful environment for spiritual workshops, clergy retreats, and communal prayer.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Maseno Town, Kisumu-Busia Road, Kisumu",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/St_Paul_University_Chapel_main.jpg/1280px-St_Paul_University_Chapel_main.jpg",
+      "tags": [
+        "Anglican",
+        "Community",
+        "Prayer"
+      ]
+    },
+    {
+      "id": "KI-MON-004",
+      "name": "Luo Ancestral Sanctuary (Simulated Hermitage)",
+      "short_description": "A quiet, preserved area dedicated to ancestor veneration and traditional Luo spiritual practices, offering a glimpse into indigenous heritage.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Near Dunga Beach, Off Airport Road, Kisumu",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Traditional_African_Shrine_in_rural_areas.jpg",
+      "tags": [
+        "Ancestral",
+        "Luo Culture",
+        "Traditional"
+      ]
+    },
+    {
+      "id": "KI-SPG-001",
+      "name": "Ombo Spring of Healing",
+      "short_description": "A natural spring believed by local communities to possess potent healing and purification properties, used for traditional ceremonies.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Ombo Estate, Off Kisumu-Busia Road, Kisumu",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Natural_Spring_in_Bialowieza_Forest_01.jpg/1280px-Natural_Spring_in_Bialowieza_Forest_01.jpg",
+      "tags": [
+        "Healing",
+        "Purification",
+        "Traditional"
+      ]
+    },
+    {
+      "id": "KI-SPG-002",
+      "name": "Nyaore's Sacred Well",
+      "short_description": "An ancient community well, central to village life and traditional rituals, often visited for blessings and fertility prayers.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Nyaore Village, Near Kisumu-Kakamega Road, Kisumu County",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1563725585-6d60a5e80d46",
+      "tags": [
+        "Community",
+        "Blessings",
+        "Fertility"
+      ]
+    },
+    {
+      "id": "KI-SPG-003",
+      "name": "Lake Victoria's Whispering Shores (Dunga)",
+      "short_description": "A specific, serene point along Dunga Beach where locals offer prayers and connect with the spiritual energies of Lake Victoria, the 'great mother'.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Dunga Beach, Kisumu",
+      "visiting_hours": "Open 24 hours",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lake_Victoria%2C_Kenya_01.jpg/1280px-Lake_Victoria%2C_Kenya_01.jpg",
+      "tags": [
+        "Lake Victoria",
+        "Nature Worship",
+        "Peace"
+      ]
+    },
+    {
+      "id": "KI-SPG-004",
+      "name": "Kibuye Holy Stream",
+      "short_description": "A small, revered stream flowing through the Kibuye area, known for its use in cleansing rituals and communal blessings by local spiritual leaders.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Behind Kibuye Market, Kisumu",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549646497-210166299d6d",
+      "tags": [
+        "Cleansing",
+        "Rituals",
+        "Local Lore"
+      ]
+    },
+    {
+      "id": "KI-CEL-001",
+      "name": "Kit Mikayi Stargazer's Point",
+      "short_description": "The towering Kit Mikayi rock formation is believed to be an ancient observation point where Luo ancestors communed with celestial bodies, especially during solstices and equinoxes.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Kit Mikayi, Kisumu-Bondo Road, Kisumu County",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kit_Mikayi_2.jpg/1280px-Kit_Mikayi_2.jpg",
+      "tags": [
+        "Luo Culture",
+        "Astronomy",
+        "Ancestral"
+      ]
+    },
+    {
+      "id": "KI-CEL-002",
+      "name": "Riat Hills Meridian View",
+      "short_description": "A specific vantage point atop Riat Hills, historically used by traditional seers to observe planetary movements and stars for predictions due to its clear night skies.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Top of Riat Hills, Kisumu",
+      "visiting_hours": "18:00-22:00 (for stargazing)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510414441369-07f060714ed9",
+      "tags": [
+        "Stargazing",
+        "Prophecy",
+        "Night Sky"
+      ]
+    },
+    {
+      "id": "KI-CEL-003",
+      "name": "Equatorial Sundial Garden",
+      "short_description": "A modern art installation and garden featuring a large sundial that precisely marks the equator's influence, symbolizing cosmic harmony and time's flow.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Milimani Estate, Kisumu",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1610487920197-2e11a2f605a9",
+      "tags": [
+        "Modern Art",
+        "Cosmic Harmony",
+        "Time"
+      ]
+    },
+    {
+      "id": "KI-CEL-004",
+      "name": "Nyaore Ancestral Stone Circle",
+      "short_description": "A reconstructed site of an ancient stone circle, believed to have been used by early communities to track lunar cycles and mark significant agricultural and ceremonial periods.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Nyaore Village, Kisumu",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502424683526-17b2e1e0a29b",
+      "tags": [
+        "Ancient Rituals",
+        "Lunar Tracking",
+        "Heritage"
+      ]
+    },
+    {
+      "id": "KI-ANC-001",
+      "name": "Kanyamkago Ancient Settlement Remains",
+      "short_description": "Archaeological remnants of an early Luo or pre-Luo settlement, providing invaluable insights into ancestral ways of life, social structures, and spiritual beliefs.",
+      "subtype": "Ancient Cities",
+      "address": "Near Awasi Town, Kisumu County",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1532296155988-1c390554c95f",
+      "tags": [
+        "Archaeology",
+        "Pre-colonial",
+        "Ancestral History"
+      ]
+    },
+    {
+      "id": "KI-ANC-002",
+      "name": "Nyamgondho Site (Legendary)",
+      "short_description": "The mythical underwater 'city' of Nyamgondho, visible at certain times in Lake Victoria, a powerful Luo legend emphasizing the spiritual consequences of greed and disrespect.",
+      "subtype": "Ancient Cities",
+      "address": "Lwanda K'Otieno Ferry Point, Lake Victoria, Kisumu County",
+      "visiting_hours": "Boat access anytime",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lake_Victoria_by_Ssejjombwe.jpg/1280px-Lake_Victoria_by_Ssejjombwe.jpg",
+      "tags": [
+        "Luo Mythology",
+        "Lake Victoria",
+        "Folklore"
+      ]
+    },
+    {
+      "id": "KI-ANC-003",
+      "name": "Old Town Market Heritage Zone",
+      "short_description": "The historical core of Kisumu's old town, where diverse communities established trade routes and built the city, embodying centuries of cultural exchange and urban development.",
+      "subtype": "Ancient Cities",
+      "address": "Oginga Odinga Street, Kisumu CBD",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kisumu_city_market.jpg/1280px-Kisumu_city_market.jpg",
+      "tags": [
+        "Urban History",
+        "Trade",
+        "Cultural Exchange"
+      ]
+    },
+    {
+      "id": "KI-ANC-004",
+      "name": "Maseno Mission Complex (Historical 'City')",
+      "short_description": "One of the earliest centers of education and Christianity in Western Kenya, representing a foundational 'city' of knowledge and spiritual transformation during the colonial era.",
+      "subtype": "Ancient Cities",
+      "address": "Maseno Town, Kisumu-Busia Road, Kisumu County",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Maseno_School_main_gate.jpg/1280px-Maseno_School_main_gate.jpg",
+      "tags": [
+        "Colonial History",
+        "Education",
+        "Christianity"
+      ]
+    },
+    {
+      "id": "KI-CAV-001",
+      "name": "Got Ramogi Sacred Caves",
+      "short_description": "A series of ancient caves within Got Ramogi, revered by the Luo as ancestral refuge sites and powerful places for traditional spiritual rituals and offerings.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Got Ramogi Hill, Bondo-Kisumu Road, Kisumu County",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Simien_Mountains_Caves.jpg/1280px-Simien_Mountains_Caves.jpg",
+      "tags": [
+        "Luo Culture",
+        "Ancestral",
+        "Ritual Site"
+      ]
+    },
+    {
+      "id": "KI-CAV-002",
+      "name": "Kogere Hill Shrine",
+      "short_description": "A secluded outdoor shrine atop Kogere Hill, known for its serene energy and used for traditional cleansing rites and communal blessings, offering spiritual solace.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Kogere Hill, Near Airport Road, Kisumu",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1536774640498-eb7ce94cf81c",
+      "tags": [
+        "Cleansing",
+        "Nature Shrine",
+        "Peaceful"
+      ]
+    },
+    {
+      "id": "KI-CAV-003",
+      "name": "Kanjira Archaeological Cave",
+      "short_description": "A significant archaeological site, this cave contains prehistoric tools and evidence of early human activity, serving as a sacred link to our deepest ancestral past.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Kanjira, Homa Bay County (accessed from Kisumu)",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1588656754095-2f928a6f3a76",
+      "tags": [
+        "Prehistory",
+        "Human Origins",
+        "Archaeology"
+      ]
+    },
+    {
+      "id": "KI-CAV-004",
+      "name": "Dunga Forest Meditation Sanctuary",
+      "short_description": "A naturally serene and quiet patch within the Dunga Swamp Forest, utilized by individuals for quiet contemplation and connecting with nature's inherent spiritual energies.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Dunga Swamp Forest, Kisumu",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mamba_village.jpg/1280px-Mamba_village.jpg",
+      "tags": [
+        "Nature Meditation",
+        "Eco-Spirituality",
+        "Tranquility"
+      ]
+    },
+    {
+      "id": "KI-LAB-001",
+      "name": "Peace Labyrinth at Botanical Gardens",
+      "short_description": "A beautifully designed walking labyrinth within the botanical gardens, inviting visitors to engage in walking meditation for inner peace and mindfulness.",
+      "subtype": "Labyrinths",
+      "address": "Kisumu Botanical Gardens, Off Kakamega Road, Kisumu",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1507987483756-3c22416b7c53",
+      "tags": [
+        "Meditation",
+        "Mindfulness",
+        "Garden"
+      ]
+    },
+    {
+      "id": "KI-LAB-002",
+      "name": "Joyland School of the Blind Sensory Maze",
+      "short_description": "While not a traditional spiritual labyrinth, this sensory maze aids students in navigation and confidence-building, offering a metaphorical journey of overcoming challenges and self-discovery.",
+      "subtype": "Labyrinths",
+      "address": "Joyland Special School, Kisumu-Busia Road, Kisumu",
+      "visiting_hours": "By appointment",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1616892330752-96541b61c162",
+      "tags": [
+        "Sensory",
+        "Therapeutic",
+        "Inspiration"
+      ]
+    },
+    {
+      "id": "KI-LAB-003",
+      "name": "Riat Hills Contemplation Path",
+      "short_description": "A long, winding hiking path ascending Riat Hills, considered by many as a metaphorical labyrinth for spiritual endurance, self-reflection, and seeking clarity amidst nature's beauty.",
+      "subtype": "Labyrinths",
+      "address": "Riat Hills Nature Trail, Kisumu",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1522075051940-571618dd5494",
+      "tags": [
+        "Hiking",
+        "Self-discovery",
+        "Nature"
+      ]
+    },
+    {
+      "id": "KI-LAB-004",
+      "name": "Urban Reflection Spiral (Art Installation)",
+      "short_description": "A captivating public art installation in a spiral shape, designed to invite visitors to walk its path for quiet reflection, mindfulness, and engaging with urban spirituality.",
+      "subtype": "Labyrinths",
+      "address": "Kisumu Museum Grounds, Kisumu",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1549437145-c49c719c86ce",
+      "tags": [
+        "Public Art",
+        "Reflection",
+        "Mindfulness"
+      ]
+    },
+    {
+      "id": "KI-DES-001",
+      "name": "Kibos Arid Rock Outcrop",
+      "short_description": "A stark, sun-baked rock formation within the Kibos plains, believed to hold intense, raw earth energy, sought out for profound spiritual clarity and connection to primal forces.",
+      "subtype": "Desert Power Sites",
+      "address": "Kibos Sugar Lands, Kisumu County",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510486337573-054238e2193e",
+      "tags": [
+        "Earth Energy",
+        "Primal Power",
+        "Solitude"
+      ]
+    },
+    {
+      "id": "KI-DES-002",
+      "name": "Awasi Stone Plateau",
+      "short_description": "A vast, exposed stone plateau where the elements are strong and untamed, considered a place of raw spiritual encounter and deep connection with nature's unyielding power.",
+      "subtype": "Desert Power Sites",
+      "address": "Awasi-Chemelil Road, Kisumu County",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1533087268962-d4b3b55c6e86",
+      "tags": [
+        "Elemental Forces",
+        "Raw Nature",
+        "Spiritual Encounter"
+      ]
+    },
+    {
+      "id": "KI-DES-003",
+      "name": "Nduru Thicket's Secluded Clearing",
+      "short_description": "A hidden clearing within a dense, almost 'impenetrable' thicket, known for its intense and untamed spiritual vibrations, a place for seeking deep solitude and primal connection.",
+      "subtype": "Desert Power Sites",
+      "address": "Nduru Thicket, Near Kisumu International Airport, Kisumu",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1442562489625-7df1b09b5550",
+      "tags": [
+        "Secluded",
+        "Wilderness",
+        "Primal Connection"
+      ]
+    },
+    {
+      "id": "KI-DES-004",
+      "name": "Odienya Rocky Hills (Ancestral Vigil)",
+      "short_description": "Exposed, rocky hills where ancestral vigils and ceremonies were historically held, connecting participants with the raw, elemental forces of the land and its deep spiritual heritage.",
+      "subtype": "Desert Power Sites",
+      "address": "Odienya Hills, Kisumu-Busia Road, Kisumu County",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506453664791-c67b2e32a245",
+      "tags": [
+        "Ancestral",
+        "Vigil Site",
+        "Elemental"
+      ]
+    },
+    {
+      "id": "KI-MOD-001",
+      "name": "Kisumu Yoga & Wellness Centre",
+      "short_description": "A vibrant hub for contemporary spiritual well-being, offering diverse yoga classes, meditation sessions, and holistic health practices to foster inner balance and community.",
+      "subtype": "Modern Energy Places",
+      "address": "Tom Mboya Estate, Kisumu",
+      "visiting_hours": "07:00-20:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1552579043-34e85741f021",
+      "tags": [
+        "Yoga",
+        "Wellness",
+        "Meditation"
+      ]
+    },
+    {
+      "id": "KI-MOD-002",
+      "name": "SDA Central Church Community Hall",
+      "short_description": "A central gathering point for diverse spiritual and community activities, fostering modern religious expression, fellowship, and social outreach within Kisumu.",
+      "subtype": "Modern Energy Places",
+      "address": "Kisumu CBD, Oginga Odinga Street, Kisumu",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1574044145025-a136e2f1f8b4",
+      "tags": [
+        "Community",
+        "Worship",
+        "Fellowship"
+      ]
+    },
+    {
+      "id": "KI-MOD-003",
+      "name": "Innovation Hub for Conscious Living",
+      "short_description": "A forward-thinking space for workshops on mindfulness, sustainable living, and conscious technology, bridging ancient wisdom with modern challenges for a better future.",
+      "subtype": "Modern Energy Places",
+      "address": "Mega City Mall Annex, Kisumu",
+      "visiting_hours": "10:00-19:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1555421715-e2a1498b31a5",
+      "tags": [
+        "Mindfulness",
+        "Sustainability",
+        "Innovation"
+      ]
+    },
+    {
+      "id": "KI-MOD-004",
+      "name": "Lake Victoria Eco-Spiritual Retreat",
+      "short_description": "A sustainable retreat offering guided meditations, nature connection experiences, and holistic practices along the serene shores of Lake Victoria, blending ecology and spirituality.",
+      "subtype": "Modern Energy Places",
+      "address": "Impala Park Road, Kisumu",
+      "visiting_hours": "By appointment",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1520299861614-7226f8d38104",
+      "tags": [
+        "Eco-tourism",
+        "Nature Retreat",
+        "Holistic"
+      ]
+    },
+    {
+      "id": "KI-TMP-001",
+      "name": "Kit Mikayi Ancestral Shrine",
+      "short_description": "A venerated site at the base of the Kit Mikayi rock, where Luo ancestors traditionally offered prayers and sacrifices, considered a natural 'temple' of immense spiritual power.",
+      "subtype": "Ancient Temples",
+      "address": "Kit Mikayi, Kisumu-Bondo Road, Kisumu County",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kit_Mikayi_rock_with_sacrifices.jpg/1280px-Kit_Mikayi_rock_with_sacrifices.jpg",
+      "tags": [
+        "Luo Culture",
+        "Ancestral Worship",
+        "Natural Temple"
+      ]
+    },
+    {
+      "id": "KI-TMP-002",
+      "name": "Got Ramogi Sacred Grove",
+      "short_description": "An ancient forest revered as a natural temple, where traditional rituals and offerings to ancestral spirits are performed, preserving indigenous spiritual practices.",
+      "subtype": "Ancient Temples",
+      "address": "Got Ramogi Hill, Bondo-Kisumu Road, Kisumu County",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1534969472302-3c3e800d9a60",
+      "tags": [
+        "Sacred Forest",
+        "Traditional Rituals",
+        "Nature Worship"
+      ]
+    },
+    {
+      "id": "KI-TMP-003",
+      "name": "Yimbo Clan Shrine Remains",
+      "short_description": "Archaeological remains of an ancient clan shrine in the Yimbo region, reflecting historical spiritual practices, community gathering, and the deep roots of Luo heritage.",
+      "subtype": "Ancient Temples",
+      "address": "Yimbo, Near Usenge, Kisumu County",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1505342751543-f111e13a0e67",
+      "tags": [
+        "Clan History",
+        "Archaeology",
+        "Heritage Site"
+      ]
+    },
+    {
+      "id": "KI-TMP-004",
+      "name": "Nyaore Village Elder's Hut (Ceremonial Hut)",
+      "short_description": "A traditional ceremonial hut where village elders perform rites, consult spirits, and provide spiritual guidance, serving as a 'temple' for community-level spiritual governance.",
+      "subtype": "Ancient Temples",
+      "address": "Nyaore Village, Kisumu",
+      "visiting_hours": "By request",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Luo_traditional_homestead.jpg/1280px-Luo_traditional_homestead.jpg",
+      "tags": [
+        "Traditional Lore",
+        "Elders",
+        "Community Shrine"
+      ]
+    },
+    {
+      "id": "KI-MEG-001",
+      "name": "Kit Mikayi Rock Formations",
+      "short_description": "The impressive towering natural rock formations of Kit Mikayi are revered by the Luo as a site of ancestral power and traditional worship, a natural megalith of profound significance.",
+      "subtype": "Megalithic Sites",
+      "address": "Kit Mikayi, Kisumu-Bondo Road, Kisumu County",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kit_Mikayi_rocks.jpg/1280px-Kit_Mikayi_rocks.jpg",
+      "tags": [
+        "Natural Wonder",
+        "Luo Culture",
+        "Ancestral"
+      ]
+    },
+    {
+      "id": "KI-MEG-002",
+      "name": "Riat Hills Boulder Clusters",
+      "short_description": "Significant clusters of large, ancient boulders scattered across the lower Riat Hills, some believed to be naturally placed markers imbued with ancient earth energy and spiritual presence.",
+      "subtype": "Megalithic Sites",
+      "address": "Lower Riat Hills, Kisumu",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1532057753173-952402287714",
+      "tags": [
+        "Earth Energy",
+        "Geological",
+        "Nature Spirituality"
+      ]
+    },
+    {
+      "id": "KI-MEG-003",
+      "name": "Awasi Standing Stones (Traditional Markers)",
+      "short_description": "A collection of large, upright stones on the Awasi Plains, believed to be ancient tribal boundary markers or sacred burial sites, carrying significant historical and spiritual weight.",
+      "subtype": "Megalithic Sites",
+      "address": "Awasi Plains, Kisumu County",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510486337573-054238e2193e",
+      "tags": [
+        "Ancient Markers",
+        "Tribal History",
+        "Burial Site"
+      ]
+    },
+    {
+      "id": "KI-MEG-004",
+      "name": "Kisumu Museum Heritage Stones",
+      "short_description": "A curated collection of large, culturally significant stones from various Luo sub-clans, representing their ancestral history, spiritual markers, and traditional storytelling.",
+      "subtype": "Megalithic Sites",
+      "address": "Kisumu Museum, Aga Khan Road, Kisumu",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1579782522770-5b77e812543d",
+      "tags": [
+        "Museum",
+        "Luo History",
+        "Cultural Artifacts"
+      ]
+    }
+  ]
+}

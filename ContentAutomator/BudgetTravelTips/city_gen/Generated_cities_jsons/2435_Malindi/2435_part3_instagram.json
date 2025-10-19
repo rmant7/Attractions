@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Malindi",
+    "city_id": "2435"
+  },
+  "items": [
+    {
+      "id": "MalindiRooftop1",
+      "name": "Hemingways Sunset Deck",
+      "short_description": "Perched above the pristine beach, this upscale deck offers breathtaking panoramic views of the Indian Ocean, perfect for an evening sundowner.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Hemingways Malindi Resort",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1549646467-f9d9d3f1a0b3?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "oceanview",
+        "luxury",
+        "sunsetspot"
+      ]
+    },
+    {
+      "id": "MalindiRooftop2",
+      "name": "Driftwood Beach Club Terrace",
+      "short_description": "Enjoy laid-back vibes and cool sea breezes from this elevated terrace, offering fantastic views over Malindi Bay and lively beach activity.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Driftwood Beach Club, Casuarina Point",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1563854191-23d9a1f5f2d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "beachclub",
+        "seaview",
+        "casual"
+      ]
+    },
+    {
+      "id": "MalindiRooftop3",
+      "name": "Che Shale Tented Restaurant View",
+      "short_description": "Though a short drive north, Che Shale's elevated dining area provides a unique, rustic-chic viewpoint over a secluded stretch of beach and a stunning lagoon.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Che Shale Beach, North Malindi",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1582290623274-123472b5f79a?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "eco-lodge",
+        "secluded",
+        "rustic"
+      ]
+    },
+    {
+      "id": "MalindiRooftop4",
+      "name": "Malindi Boutique Hotel Sky Lounge",
+      "short_description": "Experience Malindi's vibrant cityscape and distant ocean hues from a contemporary sky lounge, offering a sophisticated urban-coastal perspective.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Central Malindi (Hypothetical modern boutique hotel)",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1635848245353-8411d3780d6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "citylights",
+        "cocktails",
+        "urbanview"
+      ]
+    },
+    {
+      "id": "MalindiHotel1",
+      "name": "Che Shale Beach Boutique Hotel",
+      "short_description": "Nestled on a secluded beach, this eco-chic hotel offers stylish tented bungalows and a truly off-the-beaten-path luxury experience.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Che Shale Beach, North Malindi",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Che_Shale_Beach_Boutique_Hotel.jpg",
+      "tags": [
+        "eco-friendly",
+        "secluded",
+        "beachfront"
+      ]
+    },
+    {
+      "id": "MalindiHotel2",
+      "name": "Lion in the Sun Billionaire Resort",
+      "short_description": "Step into a world of opulent Italian design and lush tropical gardens at this grand resort, once owned by Flavio Briatore, synonymous with luxury.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Casuarina Point, Malindi",
+      "best_time": "Day",
+      "images": "https://images.unsplash.com/photo-1563911302-a2491b4020a6?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "luxury",
+        "italianstyle",
+        "exclusive"
+      ]
+    },
+    {
+      "id": "MalindiHotel3",
+      "name": "Malindi Dream Garden Resort",
+      "short_description": "A vibrant oasis featuring contemporary design, sprawling pools, and lush tropical landscapes, offering a modern paradise experience.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Casuarina Road, Malindi",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Malindi_Dream_Garden_resort.jpg",
+      "tags": [
+        "modernresort",
+        "tropicalgarden",
+        "pools"
+      ]
+    },
+    {
+      "id": "MalindiHotel4",
+      "name": "White Elephant Sea & Art Lodge",
+      "short_description": "Discover a bohemian haven where art meets the ocean, with unique sculptures and vibrant colors adorning every corner of this eclectic lodge.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Silversand Road, Malindi",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/cd/White_Elephant_Sea_and_Art_Lodge%2C_Malindi%2C_Kenya.jpg",
+      "tags": [
+        "artlodge",
+        "bohemian",
+        "oceanfront"
+      ]
+    },
+    {
+      "id": "MalindiAlley1",
+      "name": "Old Town Spice Alley",
+      "short_description": "Wander through narrow, winding alleys in Malindi's Old Town, where the scent of spices and history lingers, revealing the town's Swahili heritage.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Malindi Old Town",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Old_Town_Malindi_Alley.jpg",
+      "tags": [
+        "historic",
+        "swahili",
+        "culture"
+      ]
+    },
+    {
+      "id": "MalindiAlley2",
+      "name": "Swahili House Courtyard (Old Town)",
+      "short_description": "Discover tranquil, shaded courtyards hidden within traditional Swahili houses, offering a glimpse into private life and architectural beauty.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Malindi Old Town",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1627916666838-8a07119e7a8e?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "architecture",
+        "peaceful",
+        "traditional"
+      ]
+    },
+    {
+      "id": "MalindiAlley3",
+      "name": "Artisans' Lane by the Waterfront",
+      "short_description": "A charming, tucked-away lane showcasing local artisans at work, offering unique handmade crafts and a chance to interact with Malindi's creative spirit.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Near Vasco da Gama Pillar",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582035308658-0062400e9301?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "localcrafts",
+        "souvenirs",
+        "artisan"
+      ]
+    },
+    {
+      "id": "MalindiAlley4",
+      "name": "Mambrui Village Passages",
+      "short_description": "Explore the sandy paths and quiet corners of Mambrui Village, north of Malindi, where traditional mud and thatch homes line serene, sun-dappled passages.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Mambrui Village, North of Malindi",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1543884845-8c084e86a978?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "village",
+        "rural",
+        "authentic"
+      ]
+    },
+    {
+      "id": "MalindiMarket1",
+      "name": "Malindi Main Market",
+      "short_description": "Immerse yourself in the bustling heart of Malindi at its main market, a vibrant kaleidoscope of fresh produce, spices, and local goods.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Malindi Town Center",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/da/Malindi_Market.jpg",
+      "tags": [
+        "localmarket",
+        "freshproduce",
+        "vibrant"
+      ]
+    },
+    {
+      "id": "MalindiMarket2",
+      "name": "Malindi Fish Market",
+      "short_description": "Experience the lively energy of fishermen bringing in their catch, a sensory spectacle of colors, sounds, and the freshest seafood.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Malindi Waterfront",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/7/76/Malindi_fish_market.jpg",
+      "tags": [
+        "seafood",
+        "fishing",
+        "lively"
+      ]
+    },
+    {
+      "id": "MalindiMarket3",
+      "name": "Curio Market at Vasco da Gama",
+      "short_description": "Browse an array of handcrafted souvenirs and cultural artifacts at stalls located near the historic Vasco da Gama Pillar, perfect for unique keepsakes.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Near Vasco da Gama Pillar",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Vasco_da_Gama_Pillar_and_local_stalls.jpg",
+      "tags": [
+        "souvenirs",
+        "crafts",
+        "cultural"
+      ]
+    },
+    {
+      "id": "MalindiMarket4",
+      "name": "Malindi Fruit & Vegetable Stalls",
+      "short_description": "A vibrant cluster of roadside stalls bursting with the colorful bounty of local farms, offering a taste of Malindi's tropical produce.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Along Lamu Road",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a2/African_Market_Stall.jpg",
+      "tags": [
+        "freshfood",
+        "colorful",
+        "localproduce"
+      ]
+    },
+    {
+      "id": "MalindiStairs1",
+      "name": "Vasco da Gama Pillar Steps",
+      "short_description": "Ascend the historic steps leading to the ancient Vasco da Gama Pillar, a monument offering commanding views of the Indian Ocean and Malindi's past.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Vasco da Gama Pillar",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Vasco_da_Gama_Pillar%2C_Malindi%2C_Kenya.jpg",
+      "tags": [
+        "history",
+        "landmark",
+        "seaview"
+      ]
+    },
+    {
+      "id": "MalindiStairs2",
+      "name": "Malindi Marine Park Jetty",
+      "short_description": "Walk along the iconic jetty stretching into the turquoise waters of Malindi Marine National Park, leading to boats for snorkeling and glass-bottom tours.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Malindi Marine National Park entrance",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Malindi_Marine_National_Park_jetty.jpg",
+      "tags": [
+        "marinepark",
+        "jetty",
+        "oceanwalk"
+      ]
+    },
+    {
+      "id": "MalindiStairs3",
+      "name": "Che Shale Beach Boardwalk",
+      "short_description": "A charming wooden pathway meandering through coastal vegetation, leading to the pristine sands and tranquil waters of Che Shale Beach.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Che Shale Beach, North Malindi",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1577782631776-5743f5507a21?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "beachwalk",
+        "naturepath",
+        "secluded"
+      ]
+    },
+    {
+      "id": "MalindiStairs4",
+      "name": "Sabaki River Estuary Pathway",
+      "short_description": "Follow a rustic pathway along the Sabaki River estuary, where the river meets the ocean, offering unique views of sand dunes and birdlife.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Sabaki River Mouth",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1522206775796-0c9f80275811?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "riverview",
+        "nature",
+        "birdwatching"
+      ]
+    },
+    {
+      "id": "MalindiNature1",
+      "name": "Marafa Depression (Hell's Kitchen)",
+      "short_description": "Witness the dramatic geological marvel of Marafa Depression, a sandstone canyon displaying a kaleidoscope of colors from white to deep reds and oranges.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Marafa (approx. 30km north of Malindi)",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Marafa_Depression_3.jpg",
+      "tags": [
+        "geological",
+        "canyon",
+        "desertlandscape"
+      ]
+    },
+    {
+      "id": "MalindiNature2",
+      "name": "Malindi Marine National Park Coral Gardens",
+      "short_description": "Dive into an underwater paradise to explore vibrant coral gardens teeming with diverse marine life, a true spectacle of nature's artistry.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Malindi Marine National Park",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/9/91/Malindi_Marine_National_Park_coral.jpg",
+      "tags": [
+        "snorkeling",
+        "corals",
+        "marinlife"
+      ]
+    },
+    {
+      "id": "MalindiNature3",
+      "name": "Watamu Mangrove Forests",
+      "short_description": "Explore the serene and vital mangrove ecosystems of nearby Watamu, a unique intertidal forest crucial for coastal biodiversity.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Watamu Mida Creek (south of Malindi)",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/8/87/Watamu_Mangroves.jpg",
+      "tags": [
+        "mangroves",
+        "ecosystem",
+        "kayaking"
+      ]
+    },
+    {
+      "id": "MalindiNature4",
+      "name": "Sabaki River Estuary Dunes",
+      "short_description": "Observe where the mighty Sabaki River meets the Indian Ocean, creating unique shifting sand dunes and a haven for migratory birds.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Sabaki River Mouth",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sabaki_river_estuary.jpg/1024px-Sabaki_river_estuary.jpg",
+      "tags": [
+        "estuary",
+        "sanddunes",
+        "birdwatching"
+      ]
+    },
+    {
+      "id": "MalindiPool1",
+      "name": "Hemingways Ocean-Edge Infinity Pool",
+      "short_description": "Submerge yourself in the luxurious infinity pool that seamlessly blends with the turquoise expanse of the Indian Ocean at this iconic resort.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Hemingways Malindi Resort",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549722718-d7607a72605e?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "luxury",
+        "oceanview",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "MalindiPool2",
+      "name": "Malindi Dream Garden Main Infinity Pool",
+      "short_description": "Enjoy the expansive and stylish main infinity pool, a centerpiece of the resort's lush gardens, offering a refreshing escape.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Malindi Dream Garden Resort",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1542456017-f58c4266c2d1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "resortpool",
+        "modern",
+        "gardenview"
+      ]
+    },
+    {
+      "id": "MalindiPool3",
+      "name": "Diamond Dream of Africa Horizon Pool",
+      "short_description": "Indulge in the serene luxury of this stunning infinity pool, where water meets the horizon, promising an unforgettable tranquil experience.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Diamond Dream of Africa Resort",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1621370605936-e0b0e51b32d5?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "luxury",
+        "spa",
+        "romantic"
+      ]
+    },
+    {
+      "id": "MalindiPool4",
+      "name": "Medina Palms Beachside Infinity Pool",
+      "short_description": "Just south in Watamu, this exquisite infinity pool at Medina Palms offers a picture-perfect blend of elegant design and stunning beach vistas.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Medina Palms, Watamu (near Malindi)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1588661706684-f3c373248386?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "watamu",
+        "boutique",
+        "design"
+      ]
+    },
+    {
+      "id": "MalindiModern1",
+      "name": "Malindi Dream Garden Resort Design",
+      "short_description": "Admire the sleek lines and contemporary design of Malindi Dream Garden, an architectural marvel blending modern aesthetics with tropical charm.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Malindi Dream Garden Resort",
+      "best_time": "Day",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Malindi_Dream_Garden_resort.jpg",
+      "tags": [
+        "contemporary",
+        "resortdesign",
+        "tropicalmodern"
+      ]
+    },
+    {
+      "id": "MalindiModern2",
+      "name": "Lusty Pirate Beach Bar & Restaurant",
+      "short_description": "Experience modern coastal chic at this stylish beach bar, featuring innovative design, open spaces, and stunning ocean views.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Casuarina Beach",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1580922485586-b490f2095318?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "beachclub",
+        "minimalist",
+        "design"
+      ]
+    },
+    {
+      "id": "MalindiModern3",
+      "name": "Luxury Oceanfront Villa Design",
+      "short_description": "Discover private luxury villas in Malindi that showcase contemporary African architecture, blending spacious interiors with breathtaking sea vistas.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Casuarina Point Private Villas",
+      "best_time": "Day",
+      "images": "https://images.unsplash.com/photo-1563911302-a2491b4020a6?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "privatevilla",
+        "architecture",
+        "luxury"
+      ]
+    },
+    {
+      "id": "MalindiModern4",
+      "name": "Modern Marine Viewpoint House",
+      "short_description": "A conceptual private residence or guesthouse exemplifying sleek, modern design with expansive windows to capture the endless ocean horizons.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Silversand Beachfront",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1579737150036-ed459f77f98d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "coastalhome",
+        "minimalist",
+        "seaview"
+      ]
+    },
+    {
+      "id": "MalindiHistoric1",
+      "name": "Vasco da Gama Pillar & Chapel",
+      "short_description": "Stand before one of Africa's oldest European monuments, the Vasco da Gama Pillar, accompanied by a charming 16th-century chapel, steeped in discovery.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Malindi Waterfront",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Vasco_da_Gama_Pillar%2C_Malindi%2C_Kenya.jpg",
+      "tags": [
+        "portugueseheritage",
+        "ancient",
+        "landmark"
+      ]
+    },
+    {
+      "id": "MalindiHistoric2",
+      "name": "Juma Mosque Malindi",
+      "short_description": "Admire the beautiful and historic Juma Mosque, a testament to Malindi's rich Islamic and Swahili heritage, with its traditional architectural style.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Malindi Old Town",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Juma_Mosque_Malindi.jpg",
+      "tags": [
+        "islamicart",
+        "swahiliheritage",
+        "mosque"
+      ]
+    },
+    {
+      "id": "MalindiHistoric3",
+      "name": "Old Swahili House (Old Town)",
+      "short_description": "Step back in time exploring the intricate coral stone and carved door frames of a well-preserved Swahili house in Malindi's historic Old Town.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Malindi Old Town",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/07/Lamu_Old_Town_Swahili_architecture.jpg",
+      "tags": [
+        "swahiliculture",
+        "oldtown",
+        "carveddoors"
+      ]
+    },
+    {
+      "id": "MalindiHistoric4",
+      "name": "Malindi District Commissioner's Office",
+      "short_description": "A striking example of colonial-era architecture, this historical government building reflects Malindi's administrative past under British rule.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Malindi Town Center",
+      "best_time": "Day",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Malindi_DC%27s_office_building.jpg/1024px-Malindi_DC%27s_office_building.jpg",
+      "tags": [
+        "colonial",
+        "governmentbuilding",
+        "history"
+      ]
+    },
+    {
+      "id": "MalindiColor1",
+      "name": "Old Town Mural Walls",
+      "short_description": "Discover vibrant murals adorning the walls of Malindi's Old Town, adding bursts of color and artistic expression to its ancient streets.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Malindi Old Town",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1616782255866-2313364f7b60?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "streetart",
+        "vibrant",
+        "oldtown"
+      ]
+    },
+    {
+      "id": "MalindiColor2",
+      "name": "Local Fishing Village Huts & Boats",
+      "short_description": "Witness the charmingly colorful simple huts and brightly painted fishing dhows in a local fishing village, reflecting the vibrant life of its inhabitants.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Near Sabaki River Mouth",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1577782631776-5743f5507a21?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "fishingvillage",
+        "localculture",
+        "colorfulboats"
+      ]
+    },
+    {
+      "id": "MalindiColor3",
+      "name": "Malindi Main Market Street",
+      "short_description": "The bustling main market transforms into a colorful neighborhood street with piles of exotic fruits, vegetables, and textiles creating a lively palette.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Malindi Town Center",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/da/Malindi_Market.jpg",
+      "tags": [
+        "marketlife",
+        "foodie",
+        "streetphotography"
+      ]
+    },
+    {
+      "id": "MalindiColor4",
+      "name": "'Little Italy' Cafe Strip",
+      "short_description": "Explore a lively street or cluster of cafes and shops where Malindi's Italian influence shines through in brightly painted facades and bustling outdoor seating.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Along Lamu Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1614748425211-e77a4141d6b0?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "italianinfluence",
+        "cafes",
+        "streetscene"
+      ]
+    }
+  ]
+}

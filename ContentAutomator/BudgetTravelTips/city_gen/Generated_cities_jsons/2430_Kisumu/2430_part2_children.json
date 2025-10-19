@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Kisumu",
+    "city_id": "2430"
+  },
+  "items": [
+    {
+      "id": "KsmFairy1",
+      "name": "Lakeside Kingdom Adventure Park",
+      "short_description": "Step into a world of knights, princesses, and magical creatures in this enchanting park, perfect for young dreamers and adventurers.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Off Kakamega Road, Milimani, Kisumu",
+      "opening_hours": "09:30-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627993074092-23c31b8a531f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "fantasy",
+        "role-play",
+        "characters"
+      ]
+    },
+    {
+      "id": "KsmFairy2",
+      "name": "Enchanted Forest of Nandi",
+      "short_description": "Discover local folklore and mythical creatures inspired by Kenyan tales, hidden within a lush, interactive forest setting.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Near Kisumu Impala Sanctuary, Dunga Road, Kisumu",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596791656811-137651a70094?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "folklore",
+        "nature",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "KsmFairy3",
+      "name": "Whispering Willows Storyland",
+      "short_description": "A tranquil park where classic fairy tales come to life through engaging installations, puppet shows, and interactive story paths.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Oginga Odinga Street, Next to City Hall, Kisumu",
+      "opening_hours": "09:00-17:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1592679261303-34e2c8e22e84?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "classic tales",
+        "puppet shows",
+        "gentle fun"
+      ]
+    },
+    {
+      "id": "KsmFairy4",
+      "name": "Simba's Secret Garden",
+      "short_description": "Explore an African-themed fairy tale garden filled with animal characters, hidden treasures, and imaginative play areas.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Nyamasaria Road, near Kisumu National Polytechnic, Kisumu",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533227914-729094ce7993?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "african fables",
+        "animals",
+        "discovery"
+      ]
+    },
+    {
+      "id": "KsmMus1",
+      "name": "Kisumu Curiosity Corner",
+      "short_description": "An interactive learning space where children can explore science, art, and culture through hands-on exhibits and engaging activities.",
+      "subtype": "Children’s Museums",
+      "address": "Mega City Mall, Ground Floor, Kisumu-Busia Road, Kisumu",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621259020473-195b28d6c703?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "interactive",
+        "education",
+        "discovery"
+      ]
+    },
+    {
+      "id": "KsmMus2",
+      "name": "Little Innovators Lab",
+      "short_description": "A cutting-edge children's museum focused on STEM, encouraging young minds to experiment with robotics, coding, and engineering challenges.",
+      "subtype": "Children’s Museums",
+      "address": "Tom Mboya Estate, Next to Milimani Hospital, Kisumu",
+      "opening_hours": "10:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1616400619175-5be328109679?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "STEM",
+        "robotics",
+        "coding"
+      ]
+    },
+    {
+      "id": "KsmMus3",
+      "name": "Our City, Our Story Museum",
+      "short_description": "Learn about Kisumu's rich history, diverse cultures, and local traditions through child-friendly exhibits and hands-on cultural activities.",
+      "subtype": "Children’s Museums",
+      "address": "Along Ang'awa Avenue, CBD, Kisumu",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510125211516-7fb4b2b2432a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "local history",
+        "culture",
+        "community"
+      ]
+    },
+    {
+      "id": "KsmMus4",
+      "name": "Lakeside Explorers Museum",
+      "short_description": "Dedicated to the natural wonders of Lake Victoria and its surrounding ecosystems, featuring marine life, birdwatching, and conservation exhibits.",
+      "subtype": "Children’s Museums",
+      "address": "Dunga Beach Road, near Yacht Club, Kisumu",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1607592472719-21a5a9a19c5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "nature",
+        "ecology",
+        "conservation"
+      ]
+    },
+    {
+      "id": "KsmAmuse1",
+      "name": "Victoria Funfair Grounds",
+      "short_description": "A vibrant collection of classic amusement park rides, including a Ferris wheel, carousels, and bumper cars, for endless family fun.",
+      "subtype": "Amusement Rides",
+      "address": "Kisumu-Kakamega Highway, next to United Mall, Kisumu",
+      "opening_hours": "14:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549429712-421b8b8e05c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "carnival rides",
+        "family fun",
+        "thrills"
+      ]
+    },
+    {
+      "id": "KsmAmuse2",
+      "name": "Sky-High Swings & Slides",
+      "short_description": "Experience exhilarating swings that soar and multi-lane slides that race, offering thrills for kids of all ages.",
+      "subtype": "Amusement Rides",
+      "address": "Kondele Bypass, opposite Mamboleo Showground, Kisumu",
+      "opening_hours": "10:30-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1544487676-f78e47012d27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "swings",
+        "slides",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "KsmAmuse3",
+      "name": "Mini Racer Speedway",
+      "short_description": "Kids can get behind the wheel and race their friends on a safe and exciting mini-go-kart track, complete with fun obstacles.",
+      "subtype": "Amusement Rides",
+      "address": "Along Kisumu-Busia Road, near Kibuye Market, Kisumu",
+      "opening_hours": "11:00-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1536731976075-8ceac4f28585?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "go-karts",
+        "racing",
+        "driving"
+      ]
+    },
+    {
+      "id": "KsmAmuse4",
+      "name": "Spinning Safari Carousel",
+      "short_description": "A beautifully crafted carousel featuring African animals, providing a gentle and delightful ride for younger children.",
+      "subtype": "Amusement Rides",
+      "address": "Jomo Kenyatta Highway, adjacent to Sunset Hotel, Kisumu",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579758782357-194e4125d082?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "carousel",
+        "toddler-friendly",
+        "classic ride"
+      ]
+    },
+    {
+      "id": "KsmPlay1",
+      "name": "Jungle Gym Jamboree Park",
+      "short_description": "A sprawling playground with multi-level climbing structures, swings, and slides, designed to encourage active and imaginative play.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Milimani Estate, Kisumu Sports Ground Link, Kisumu",
+      "opening_hours": "08:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1510543666579-2476717f9e83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "climbing",
+        "swings",
+        "outdoor play"
+      ]
+    },
+    {
+      "id": "KsmPlay2",
+      "name": "Zipline Zest & Rope Challenge",
+      "short_description": "An adventure park featuring thrilling ziplines, challenging rope courses, and obstacle runs for older kids and teens seeking excitement.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Along Kisumu-Busia Road, near Coptic Hospital, Kisumu",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582238466632-4753066ac2cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "zipline",
+        "adventure course",
+        "physical challenge"
+      ]
+    },
+    {
+      "id": "KsmPlay3",
+      "name": "Splash & Play Waterpark",
+      "short_description": "Beat the heat at this water wonderland with splash pads, water slides, and shallow pools, perfect for all ages to cool off and have fun.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Mamboleo Area, next to Uzima University, Kisumu",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620359052044-f2501a351a91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "water park",
+        "splash pad",
+        "summer fun"
+      ]
+    },
+    {
+      "id": "KsmPlay4",
+      "name": "Uhuru Adventure Trail",
+      "short_description": "A nature-themed adventure park with walking trails, climbing nets, and treehouses, encouraging exploration and appreciation for the outdoors.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Kisian Town, near Kisumu International Airport, Kisumu",
+      "opening_hours": "08:30-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549487962-d26f07248356?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "nature trail",
+        "treehouses",
+        "exploration"
+      ]
+    },
+    {
+      "id": "KsmSci1",
+      "name": "Lake Victoria Discovery Center",
+      "short_description": "Explore the wonders of Lake Victoria's ecosystem through interactive exhibits on aquatic life, water science, and environmental conservation.",
+      "subtype": "Science Centers",
+      "address": "Dunga Beach Road, Next to Kisumu Impala Sanctuary, Kisumu",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596791656811-137651a70094?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "ecology",
+        "water science",
+        "conservation"
+      ]
+    },
+    {
+      "id": "KsmSci2",
+      "name": "Young Einsteins Lab",
+      "short_description": "A dynamic science center where kids can conduct experiments, discover physics principles, and engage in hands-on chemistry activities.",
+      "subtype": "Science Centers",
+      "address": "Off Nairobi Road, near Kisumu Girls High School, Kisumu",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1581092147132-a5e229e623b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "experiments",
+        "physics",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "KsmSci3",
+      "name": "Tech & Robotics Hub for Kids",
+      "short_description": "Inspire future innovators with workshops on coding, robotics, and basic engineering, using fun, accessible technology.",
+      "subtype": "Science Centers",
+      "address": "United Mall, First Floor, Kisumu-Kakamega Highway, Kisumu",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1530756059639-6536b132ed65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "robotics",
+        "coding",
+        "technology"
+      ]
+    },
+    {
+      "id": "KsmSci4",
+      "name": "Energy Explorers Zone",
+      "short_description": "Discover the power of renewable energy, electricity, and motion through interactive exhibits and safe, hands-on demonstrations.",
+      "subtype": "Science Centers",
+      "address": "Kondele Market Road, near Mama Ngina Children's Home, Kisumu",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1524334316644-b2588e360f06?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "energy",
+        "electricity",
+        "renewable resources"
+      ]
+    },
+    {
+      "id": "KsmDino1",
+      "name": "Prehistoric Giants of Kisumu",
+      "short_description": "Walk among life-sized, animatronic dinosaurs, learn about their habitats, and experience the thrilling roar of ancient beasts.",
+      "subtype": "Dinosaur Parks",
+      "address": "Off Nyerere Road, near Kisumu National Park, Kisumu",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1533227914-729094ce7993?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "animatronics",
+        "dinosaurs",
+        "paleontology"
+      ]
+    },
+    {
+      "id": "KsmDino2",
+      "name": "Dino Dig Adventure Site",
+      "short_description": "Become a junior paleontologist and unearth dinosaur fossils in a simulated dig site, perfect for hands-on discovery.",
+      "subtype": "Dinosaur Parks",
+      "address": "Kibos Road, near Kibos Sugar and Allied Industries, Kisumu",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627050314050-716499806e30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "archeology",
+        "fossils",
+        "dig site"
+      ]
+    },
+    {
+      "id": "KsmDino3",
+      "name": "Raptor Run & Roar Park",
+      "short_description": "An interactive dinosaur park with themed play areas, giant dinosaur slides, and photo opportunities with friendly dino characters.",
+      "subtype": "Dinosaur Parks",
+      "address": "Off Airport Road, near Kisumu International Airport, Kisumu",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547466144-ff7ae383021f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "play area",
+        "dino characters",
+        "photo ops"
+      ]
+    },
+    {
+      "id": "KsmDino4",
+      "name": "Mesozoic Marvels Trail",
+      "short_description": "Take an educational journey through different dinosaur eras, featuring detailed models and informative displays about prehistoric life.",
+      "subtype": "Dinosaur Parks",
+      "address": "Along Awuor Otieno Road, Milimani, Kisumu",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1606716942698-21d331cf11e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "educational",
+        "prehistoric",
+        "models"
+      ]
+    },
+    {
+      "id": "KsmMagic1",
+      "name": "The Enchanted Stage Kisumu",
+      "short_description": "Experience mind-boggling magic tricks and captivating illusions performed by a professional magician, suitable for all ages.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "United Mall Event Hall, Kisumu-Kakamega Highway, Kisumu",
+      "opening_hours": "16:00-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628109867568-7c8a6f3b063d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "magician",
+        "stage show",
+        "family entertainment"
+      ]
+    },
+    {
+      "id": "KsmMagic2",
+      "name": "Mystical Mind Benders Show",
+      "short_description": "A thrilling show combining mentalism, intricate illusions, and audience participation that will leave you questioning reality.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Acacia Premier Hotel Conference Room, Achieng Oneko Road, Kisumu",
+      "opening_hours": "17:00-18:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1548174780-b2ec405a7442?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "illusions",
+        "mentalism",
+        "interactive"
+      ]
+    },
+    {
+      "id": "KsmMagic3",
+      "name": "Professor Hocus Pocus's Wonderland",
+      "short_description": "A whimsical and comical magic show designed specifically for younger children, filled with colorful props and silly spells.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Mega City Mall, Food Court Stage, Kisumu-Busia Road, Kisumu",
+      "opening_hours": "15:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582238466632-4753066ac2cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "comedy magic",
+        "kids show",
+        "puppets"
+      ]
+    },
+    {
+      "id": "KsmMagic4",
+      "name": "Kisumu Illusion Palace",
+      "short_description": "Witness grand-scale illusions and dazzling acts in a specially designed theater, making for an unforgettable magical experience.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Oginga Odinga Street, near Kisumu Hotel, Kisumu",
+      "opening_hours": "18:00-19:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1562916175-343d81b95b8d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "grand illusions",
+        "theater",
+        "spectacle"
+      ]
+    },
+    {
+      "id": "KsmAqua1",
+      "name": "Kisumu Aquatic Life Sanctuary",
+      "short_description": "Explore the diverse freshwater fish species found in Lake Victoria and other Kenyan waterways, focusing on local biodiversity.",
+      "subtype": "Aquariums",
+      "address": "Dunga Beach Road, Adjacent to Kenya Wildlife Service, Kisumu",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1535496660144-4821928686d0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "freshwater fish",
+        "Lake Victoria",
+        "local species"
+      ]
+    },
+    {
+      "id": "KsmAqua2",
+      "name": "Ocean Wonders Mini-Aquarium",
+      "short_description": "A captivating small aquarium showcasing colorful marine life from the world's oceans, including corals, clownfish, and seahorses.",
+      "subtype": "Aquariums",
+      "address": "United Mall, Ground Floor, Kisumu-Kakamega Highway, Kisumu",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1545648585-cfc6c06a9d70?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "marine life",
+        "oceanic",
+        "tropical fish"
+      ]
+    },
+    {
+      "id": "KsmAqua3",
+      "name": "Reef Explorers Dome",
+      "short_description": "Step into a mesmerizing dome exhibit that simulates a vibrant coral reef ecosystem, teeming with diverse aquatic species.",
+      "subtype": "Aquariums",
+      "address": "Along Kisumu-Busia Road, near Great Lakes University, Kisumu",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1610486822365-c3359d992f44?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "coral reef",
+        "ecosystem",
+        "underwater"
+      ]
+    },
+    {
+      "id": "KsmAqua4",
+      "name": "Freshwater & Beyond Exhibit",
+      "short_description": "An educational aquarium comparing and contrasting freshwater ecosystems from around the globe, from rivers to remote lakes.",
+      "subtype": "Aquariums",
+      "address": "Nyamasaria Town, near National Oil Petrol Station, Kisumu",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1533134486753-c833d07a6ce8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "global freshwater",
+        "aquatic education",
+        "ecosystems"
+      ]
+    },
+    {
+      "id": "KsmStory1",
+      "name": "Fables & Folktales Garden",
+      "short_description": "A serene garden where African fables and traditional folktales are brought to life through sculptural installations and interactive story points.",
+      "subtype": "Storytelling Parks",
+      "address": "Milimani Estate, near Kisumu Museum, Kisumu",
+      "opening_hours": "09:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596791656811-137651a70094?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "african fables",
+        "folklore",
+        "outdoor stories"
+      ]
+    },
+    {
+      "id": "KsmStory2",
+      "name": "The Whispering Tree Circle",
+      "short_description": "Gather around the ancient 'Whispering Tree' for live storytelling sessions, puppet shows, and interactive drama workshops for children.",
+      "subtype": "Storytelling Parks",
+      "address": "Tom Mboya Estate, along Kakamega Road, Kisumu",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627993074092-23c31b8a531f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "live storytelling",
+        "puppet shows",
+        "drama"
+      ]
+    },
+    {
+      "id": "KsmStory3",
+      "name": "Imagination Grove",
+      "short_description": "A creative park designed to spark imagination, with zones for drawing, free-play storytelling, and impromptu role-playing.",
+      "subtype": "Storytelling Parks",
+      "address": "Along Kisumu-Busia Road, near Poly View, Kisumu",
+      "opening_hours": "09:30-17:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1592679261303-34e2c8e22e84?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "creative play",
+        "imagination",
+        "role-playing"
+      ]
+    },
+    {
+      "id": "KsmStory4",
+      "name": "Legends of the Lake Stage",
+      "short_description": "An open-air amphitheater hosting performances of local legends and mythical tales, often featuring traditional music and dance.",
+      "subtype": "Storytelling Parks",
+      "address": "Dunga Beach, next to Hippo Point, Kisumu",
+      "opening_hours": "14:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579758782357-194e4125d082?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "local legends",
+        "cultural stories",
+        "performances"
+      ]
+    },
+    {
+      "id": "KsmPlan1",
+      "name": "Kisumu Stargazers Dome",
+      "short_description": "A beginner-friendly planetarium offering immersive shows about stars, constellations, and our solar system, perfect for young astronomers.",
+      "subtype": "Planetariums for Kids",
+      "address": "Kisumu Museum Complex, Museum Road, Kisumu",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510125211516-7fb4b2b2432a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "stars",
+        "solar system",
+        "constellations"
+      ]
+    },
+    {
+      "id": "KsmPlan2",
+      "name": "Cosmic Kids Journey",
+      "short_description": "An interactive planetarium experience that takes children on a virtual journey through galaxies, nebulae, and distant planets.",
+      "subtype": "Planetariums for Kids",
+      "address": "United Mall, Second Floor, Kisumu-Kakamega Highway, Kisumu",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621259020473-195b28d6c703?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "space exploration",
+        "galaxies",
+        "virtual reality"
+      ]
+    },
+    {
+      "id": "KsmPlan3",
+      "name": "Galaxy Explorers Theater",
+      "short_description": "A state-of-the-art planetarium featuring full-dome films and live presentations about astronomy, space science, and future missions.",
+      "subtype": "Planetariums for Kids",
+      "address": "Off Oginga Odinga Street, near Kisumu National Museum, Kisumu",
+      "opening_hours": "09:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1579758782357-194e4125d082?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "astronomy",
+        "space science",
+        "full-dome films"
+      ]
+    },
+    {
+      "id": "KsmPlan4",
+      "name": "Young Astronaut Academy",
+      "short_description": "An educational center with a small planetarium dome, offering workshops and interactive lessons on becoming an astronaut and understanding the cosmos.",
+      "subtype": "Planetariums for Kids",
+      "address": "Mamboleo Area, near Kisumu Polytechnic, Kisumu",
+      "opening_hours": "10:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1581093589139-445851d77a83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "astronaut training",
+        "space education",
+        "workshops"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Liberia",
+    "city_id": "2470"
+  },
+  "items": [
+    {
+      "id": "LBR-ECO-001",
+      "name": "Gola Rainforest Skywalk",
+      "short_description": "Experience the canopy of Liberia's pristine Gola Rainforest from an elevated walkway, offering unparalleled views of diverse wildlife and lush flora. A truly immersive eco-adventure.",
+      "address": "Near Sapo National Park, Grand Gedeh County",
+      "opening_hours": "08:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/5623049/pexels-photo-5623049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "eco-tourism",
+        "rainforest",
+        "adventure"
+      ]
+    },
+    {
+      "id": "LBR-CUL-002",
+      "name": "National Museum of Liberian Arts & Culture",
+      "short_description": "A modern museum showcasing the rich artistic heritage and diverse cultural traditions of Liberia through interactive exhibits and contemporary art installations, recently expanded and modernized.",
+      "address": "14th Street & Tubman Blvd, Sinkor, Monrovia",
+      "opening_hours": "09:30-17:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/1770805/pexels-photo-1770805.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "culture",
+        "museum",
+        "art"
+      ]
+    },
+    {
+      "id": "LBR-URB-003",
+      "name": "Monrovia Waterfront Promenade",
+      "short_description": "A newly developed scenic boardwalk along the Atlantic coast, offering stunning ocean views, public art installations, and a vibrant space for leisure and community events.",
+      "address": "Bushrod Island Coastline, Monrovia",
+      "opening_hours": "24/7",
+      "price_level": "free",
+      "images": "https://images.pexels.com/photos/10368140/pexels-photo-10368140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "waterfront",
+        "public park",
+        "leisure"
+      ]
+    },
+    {
+      "id": "LBR-EDU-004",
+      "name": "Liberia Tech Innovation Hub",
+      "short_description": "A dynamic center fostering technological advancement and entrepreneurship in Liberia, featuring co-working spaces, tech workshops, and a public exhibit area showcasing local innovations.",
+      "address": "Capitol Bypass, Monrovia",
+      "opening_hours": "08:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "innovation",
+        "technology",
+        "education"
+      ]
+    },
+    {
+      "id": "LBR-BEA-005",
+      "name": "Cape Mount Eco-Beach Retreat",
+      "short_description": "A sustainable beachfront resort offering pristine sands, water sports, and guided nature walks through nearby coastal forests, focusing on responsible tourism and local conservation efforts.",
+      "address": "Robertsport, Grand Cape Mount County",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "beach",
+        "resort",
+        "eco-tourism"
+      ]
+    },
+    {
+      "id": "LBR-MKT-006",
+      "name": "ELWA Junction Food & Craft Market",
+      "short_description": "A newly established bustling market offering a wide array of local street food, handmade crafts, and fresh produce, providing a vibrant cultural experience and supporting local vendors.",
+      "address": "ELWA Junction, Paynesville, Montserrado County",
+      "opening_hours": "07:00-22:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/5921800/pexels-photo-5921800.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "market",
+        "food",
+        "crafts"
+      ]
+    },
+    {
+      "id": "LBR-WLD-007",
+      "name": "Liberian Primate Sanctuary & Research Center",
+      "short_description": "Dedicated to the rescue and rehabilitation of Liberia's endangered primate species, visitors can observe these animals in natural habitats and learn about vital conservation efforts.",
+      "address": "Margibi County (near Harbel)",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/1570172/pexels-photo-1570172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "sanctuary"
+      ]
+    },
+    {
+      "id": "LBR-ADV-008",
+      "name": "Farmington River Adventure Park",
+      "short_description": "An exciting outdoor park featuring ziplining across the Farmington River, kayaking, and hiking trails, perfect for thrill-seekers and nature lovers of all ages.",
+      "address": "Near Harbel, Margibi County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/6688583/pexels-photo-6688583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "adventure",
+        "outdoor",
+        "recreation"
+      ]
+    },
+    {
+      "id": "LBR-MEM-009",
+      "name": "Peace & Reconciliation Memorial Garden",
+      "short_description": "A serene and reflective space dedicated to Liberia's journey towards lasting peace, featuring symbolic sculptures, tranquil pathways, and educational plaques detailing the nation's history.",
+      "address": "Mamba Point, Monrovia",
+      "opening_hours": "07:00-20:00",
+      "price_level": "free",
+      "images": "https://images.pexels.com/photos/4597402/pexels-photo-4597402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "history",
+        "memorial",
+        "peace"
+      ]
+    },
+    {
+      "id": "LBR-URB-010",
+      "name": "Ducor Central Park & Botanical Gardens",
+      "short_description": "A revitalized urban green oasis in the heart of Monrovia, offering landscaped gardens, walking paths, children's play areas, and a community space for relaxation and events.",
+      "address": "Broad Street, Monrovia (near Ducor Hotel site)",
+      "opening_hours": "06:00-21:00",
+      "price_level": "free",
+      "images": "https://images.pexels.com/photos/3052744/pexels-photo-3052744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "urban park",
+        "botanical garden",
+        "family friendly"
+      ]
+    }
+  ]
+}

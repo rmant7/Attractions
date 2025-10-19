@@ -1,0 +1,66 @@
+{
+  "id": "2450",
+  "name": "Calabar",
+  "country": "Nigeria",
+  "description": "Calabar, often dubbed the \"Canaan City,\" is a jewel in Nigeria's south-eastern crown, renowned for its exceptional cleanliness, hospitality, and rich historical tapestry. As the capital of Cross River State, it stands as a significant cultural and tourism hub, famously hosting the Calabar International Carnival – Africa's biggest street party – every December, drawing global spectators with its vibrant parades and cultural displays. This captivating city offers a unique blend of colonial heritage and indigenous Efik traditions, evident in its well-preserved architecture, spicy cuisine, and vibrant arts scene.\n\nKey attractions beckon visitors to explore its past and present. The Calabar Museum, housed in the historic former Government House, narrates the region's complex history, from the transatlantic slave trade era to modern Nigeria's independence. The Marina Resort provides family-friendly entertainment, including boat rides on the Calabar River and a monorail. For a poignant historical insight, the Slave History Museum offers a powerful look into a dark but crucial chapter. Nature enthusiasts will appreciate its proximity to the pristine Cross River National Park, a biodiversity hotspot featuring rainforests, waterfalls, and diverse wildlife. Strolling through the city, visitors can admire ancient churches like Duke Town Church, Nigeria's oldest, and experience the bustling energy of local markets. Calabar's serene environment, coupled with its warm locals and delectable seafood, makes it an inviting destination for those seeking an authentic and memorable Nigerian experience. Embraced by the Calabar River and lush landscapes, the city offers a relaxed pace amidst its historical depth and cultural vibrancy.",
+  "themes": [
+    "History",
+    "Culture",
+    "Carnival",
+    "Nature",
+    "Hospitality"
+  ],
+  "body_attributes": {
+    "climate": "Tropical monsoon climate with high temperatures year-round, distinct wet (April–October) and dry (November–March) seasons, and high humidity.",
+    "best_time_to_visit": "Dry season, particularly from November to April, to enjoy the Calabar Carnival and outdoor activities without heavy rainfall.",
+    "population": "600,000",
+    "area": "142 sq km",
+    "transport_summary": "Serviced by Margaret Ekpo International Airport (CBQ) and a seaport. Local transport relies on taxis, tricycles (keke napep), and minibuses.",
+    "safety_level": "Medium",
+    "geographical_features": "Coastal city situated on the Calabar River and Cross River estuaries, characterized by its lush rainforest surroundings and proximity to the Atlantic Ocean."
+  },
+  "travel_tips": [
+    "Stay hydrated, especially during the dry season, due to the tropical heat and humidity.",
+    "Bargain respectfully when shopping in local markets or negotiating fares for local transport.",
+    "Respect local customs and traditions, particularly when visiting historical or religious sites.",
+    "Be aware of your surroundings and avoid walking alone in poorly lit areas at night."
+  ],
+  "budget_tips": [
+    "Opt for local eateries (buka) to enjoy authentic Nigerian dishes at very affordable prices.",
+    "Utilize 'keke napep' (tricycles) for short-distance travel; they are much cheaper than taxis.",
+    "Negotiate accommodation rates, especially during off-peak seasons, to find better deals.",
+    "Visit free attractions like local markets, parks, and simply soak in the city's atmosphere."
+  ],
+  "seo": {
+    "seo_title": "Calabar Travel Guide | Culture, Carnival & History in Nigeria",
+    "seo_description": "Explore Calabar, Nigeria's historic 'Canaan City'. Discover its rich culture, famous carnival, historical sites, and lush natural beauty with our comprehensive travel guide.",
+    "keywords": [
+      "Calabar travel",
+      "Nigeria tourism",
+      "Calabar Carnival",
+      "Cross River",
+      "African history"
+    ]
+  },
+  "meta": {
+    "continent": "Africa",
+    "currency": "Nigerian Naira (NGN)",
+    "language": "English, Efik, Ejagham",
+    "time_zone": "WAT (West Africa Time, UTC+1)",
+    "popular_airlines": [
+      "Air Peace",
+      "Arik Air",
+      "Ibom Air",
+      "ValueJet"
+    ]
+  },
+  "title": "Discover Calabar: Nigeria's Historic 'Canaan City' of Culture and Carnival",
+  "images": [
+    "https://images.unsplash.com/photo-1627914022066-ae34a3b7548b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODg2NzJ8MHwxfHNlYXJjaHwxfHxjYWxhYmFiYXJ8ZW58MHx8fHwxNzE3NTMzNjQxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "https://images.unsplash.com/photo-1620027179062-811c751e0e8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODg2NzJ8MHwxfHNlYXJjaHwxfHxjYWxhYmFiYXIlMjBjYXJuaXZhbHxlbnwwfHx8fDE3MTc1MzM2Nzd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  ],
+  "coordinates": [
+    4.9757161140441895,
+    8.341700553894043
+  ]
+}

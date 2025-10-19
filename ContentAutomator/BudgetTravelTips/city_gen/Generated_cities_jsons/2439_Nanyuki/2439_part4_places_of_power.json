@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Nanyuki",
+    "city_id": "2439"
+  },
+  "items": [
+    {
+      "id": "NanyukiPyramid1",
+      "name": "Ol Maisor Earth Mounds of Ancestors",
+      "short_description": "Ancient, geometrically shaped earth mounds within Ol Maisor Ranch, believed by local folklore to be celestial observatories and sacred burial sites of a pre-Maasai civilization in Laikipia.",
+      "subtype": "Pyramids",
+      "address": "Ol Maisor Ranch, Off Rumuruti Road, Nanyuki, Laikipia County",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "Ksh 750",
+      "images": "https://source.unsplash.com/800x600/?ancient-mound,africa-archaeology",
+      "tags": [
+        "ancient history",
+        "archaeology",
+        "pre-maasai"
+      ]
+    },
+    {
+      "id": "NanyukiCelestial1",
+      "name": "Equator Starstone Circle",
+      "short_description": "A ring of large, weathered standing stones precisely positioned along the Equator, believed to have been used by ancient communities for marking solstices, equinoxes, and celestial navigation.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Along Equator Line, Nanyuki-Meru Highway (A2), Nanyuki",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://source.unsplash.com/800x600/?stone-circle,astronomy,equator-line",
+      "tags": [
+        "astronomy",
+        "ancient rituals",
+        "equator"
+      ]
+    },
+    {
+      "id": "NanyukiMountain1",
+      "name": "Ngai's Watchpoint (Mount Kenya Foothills)",
+      "short_description": "A revered viewpoint situated on the lower, accessible slopes of Mount Kenya, considered sacred by the Kikuyu for its unobstructed vista of the mountain, believed to be the dwelling place of Ngai (God).",
+      "subtype": "Sacred Mountains",
+      "address": "Near Naro Moru Gate, Mount Kenya National Park, Nanyuki",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "Ksh 1000 (park fees apply)",
+      "images": "https://source.unsplash.com/800x600/?mount-kenya,sacred-view,african-mountains",
+      "tags": [
+        "mount kenya",
+        "kikuyu culture",
+        "spiritual views"
+      ]
+    },
+    {
+      "id": "NanyukiPilgrimage1",
+      "name": "Path of the Waseges Ancestors",
+      "short_description": "A tranquil, historical walking trail leading deep into a protected indigenous forest along the Waseges River, traditionally used for spiritual journeys and ancestral blessings by local communities.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Waseges River Conservancy, Nanyuki West, Laikipia County",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://source.unsplash.com/800x600/?forest-path,sacred-trail,african-pilgrimage",
+      "tags": [
+        "ancestral path",
+        "forest walk",
+        "spiritual journey"
+      ]
+    },
+    {
+      "id": "NanyukiDesert1",
+      "name": "Laikipia's Whispering Dunes",
+      "short_description": "A unique, sparsely vegetated expanse of reddish dunes and ancient rock formations in the drier northern Laikipia plains, believed by the Samburu and Maasai to possess intense earth energies and connect to ancestral spirits.",
+      "subtype": "Desert Power Sites",
+      "address": "Northern Laikipia Plains, towards Dol Dol, Nanyuki",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/800x600/?african-desert,red-dunes,spiritual-landscape",
+      "tags": [
+        "earth energy",
+        "samburu culture",
+        "arid lands"
+      ]
+    },
+    {
+      "id": "NanyukiForest1",
+      "name": "Oldaranyiro Mugumo Grove",
+      "short_description": "A revered, centuries-old grove of giant Mugumo (Sycamore Fig) trees, considered highly sacred by the Kikuyu and Maasai for rituals, blessings, and communing with nature spirits and ancestors.",
+      "subtype": "Sacred Forests",
+      "address": "Oldaranyiro Community Conservancy, Off Nanyuki-Isiolo Road, Nanyuki",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "Ksh 300",
+      "images": "https://source.unsplash.com/800x600/?sacred-grove,fig-tree,kenya-forest",
+      "tags": [
+        "kikuyu rituals",
+        "maasai spirituality",
+        "ancient trees"
+      ]
+    },
+    {
+      "id": "NanyukiMonastery1",
+      "name": "St. Benedict's Retreat on Mt. Kenya",
+      "short_description": "A secluded, contemplative Christian hermitage and retreat center situated on the serene foothills of Mount Kenya, offering a peaceful environment for spiritual reflection, prayer, and solitude.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "End of Sagana River Road, Naromoru, Nanyuki",
+      "visiting_hours": "By appointment",
+      "entry_fee": "donation (for retreats)",
+      "images": "https://source.unsplash.com/800x600/?monastery,retreat-center,african-chapel",
+      "tags": [
+        "christian spirituality",
+        "contemplation",
+        "retreat"
+      ]
+    },
+    {
+      "id": "NanyukiVolcano1",
+      "name": "Timau Lava Spirit Tunnels",
+      "short_description": "A network of ancient, weathered lava tubes and caves near Timau, believed by local traditions to be a potent conduit for primal earth energies and a dwelling place for elemental spirits.",
+      "subtype": "Volcanic Zones",
+      "address": "Off Timau-Meru Highway, near Timau Town, Nanyuki",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "Ksh 400",
+      "images": "https://source.unsplash.com/800x600/?lava-cave,kenya-geology,volcanic-tube",
+      "tags": [
+        "geothermal",
+        "earth spirits",
+        "ancient rituals"
+      ]
+    },
+    {
+      "id": "NanyukiOracle1",
+      "name": "Mutara Whispering Rocks",
+      "short_description": "A striking cluster of colossal granite boulders and rock shelters within Mutara Conservancy, revered since antiquity as an oracle site where elders sought prophetic wisdom and guidance from ancestral voices.",
+      "subtype": "Oracle Sites",
+      "address": "Mutara Conservancy, near Laikipia Air Base, Nanyuki",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "Ksh 800 (conservancy fees may apply)",
+      "images": "https://source.unsplash.com/800x600/?rock-shelter,african-oracle,spiritual-rocks",
+      "tags": [
+        "prophecy",
+        "ancestral wisdom",
+        "rock art"
+      ]
+    },
+    {
+      "id": "NanyukiSpring1",
+      "name": "Liki River Healing Source",
+      "short_description": "The pristine, secluded source of the Liki River, whose crystal-clear waters are traditionally believed to possess potent healing properties and spiritual cleansing powers by various local communities.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Liki River Forest Reserve, Nanyuki Town Boundary, Nanyuki",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/800x600/?sacred-spring,river-source,kenya-waterfall",
+      "tags": [
+        "healing waters",
+        "cleansing rituals",
+        "nature worship"
+      ]
+    }
+  ]
+}

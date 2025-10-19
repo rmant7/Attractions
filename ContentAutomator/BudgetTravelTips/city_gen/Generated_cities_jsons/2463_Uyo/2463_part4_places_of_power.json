@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Uyo",
+    "city_id": "2463"
+  },
+  "items": [
+    {
+      "id": "UyoShrine001",
+      "name": "Ancestral Shrine of Ikono Clan",
+      "short_description": "A revered shrine housing relics and effigies of ancient Ikono clan elders, serving as a focal point for communal worship and ancestral veneration.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Ikono Road, Uyo, Akwa Ibom State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1594916894089-a29d5b7c02b3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "ancestral worship",
+        "Ibibio culture",
+        "community rituals"
+      ]
+    },
+    {
+      "id": "UyoShrine002",
+      "name": "Tomb of Chief Esop Nsibidi",
+      "short_description": "The sacred resting place of Chief Esop Nsibidi, a legendary figure and spiritual guardian whose tomb is believed to radiate protective energies over Uyo.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Off Oron Road, near Nsidung, Uyo",
+      "visiting_hours": "08:30-17:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://images.unsplash.com/photo-1565576135607-0e6e0f3d9c7c?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "historical figure",
+        "spiritual protection",
+        "traditional history"
+      ]
+    },
+    {
+      "id": "UyoShrine003",
+      "name": "Sacred Osukputu Reliquary",
+      "short_description": "A hidden reliquary containing ancient Osukputu artifacts, believed to possess powerful healing and divinatory properties, accessed only by initiates.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Ewet Housing Estate, by Ikot Ekpene Rd, Uyo",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1620023647610-8b449b2c34d4?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "ancient relics",
+        "healing rituals",
+        "secret society"
+      ]
+    },
+    {
+      "id": "UyoShrine004",
+      "name": "Eka Esit's Resting Place",
+      "short_description": "The tranquil burial site of Eka Esit, a revered matriarch whose spirit is said to bless barren women and offer solace to the grieving.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Nwaniba Road, near Ibom Specialist Hospital, Uyo",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628109677271-4a1b0b5c1c0a?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "matriarch veneration",
+        "fertility prayers",
+        "peaceful retreat"
+      ]
+    },
+    {
+      "id": "UyoPyramid001",
+      "name": "The Ebon Nsidibene Mound",
+      "short_description": "An ancient, subtly stepped earth mound, once a ceremonial center for rain-making rituals and ancestral gatherings of the early Uyo people.",
+      "subtype": "Pyramids",
+      "address": "Off Airport Road, near Ekom Iman, Uyo",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sukur_cultural_landscape_terraces_1.jpg",
+      "tags": [
+        "earthworks",
+        "ancient rituals",
+        "pre-colonial history"
+      ]
+    },
+    {
+      "id": "UyoPyramid002",
+      "name": "Okon Ancient Terraces",
+      "short_description": "Remnants of ancient agricultural terraces, believed to have dual purpose as spiritual platforms for harvest festivals and community offerings.",
+      "subtype": "Pyramids",
+      "address": "Okon Clan, Itu Road, Uyo",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mound_builders_great_serpent_mound.jpg/1024px-Mound_builders_great_serpent_mound.jpg",
+      "tags": [
+        "ancient agriculture",
+        "harvest rituals",
+        "archaeological site"
+      ]
+    },
+    {
+      "id": "UyoPyramid003",
+      "name": "The Abak Earth Pyramid",
+      "short_description": "A symbolic earth pyramid constructed by ancient Abak communities, representing a connection between the earthly realm and the celestial spirits.",
+      "subtype": "Pyramids",
+      "address": "Abak Road, near Government House, Uyo",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "NGN 750",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Moundville_Site_-_Temple_Mound_N_and_Grand_Plaza.jpg/1024px-Moundville_Site_-_Temple_Mound_N_and_Grand_Plaza.jpg",
+      "tags": [
+        "symbolic structure",
+        "celestial connection",
+        "ancient wisdom"
+      ]
+    },
+    {
+      "id": "UyoPyramid004",
+      "name": "Ibiono Obong Shrine Hill",
+      "short_description": "A naturally occurring hill with a distinct stepped appearance, used for centuries as a sacred ascent to a revered ancestral shrine at its peak.",
+      "subtype": "Pyramids",
+      "address": "Ibiono Obong LGA, off Calabar-Itu Rd, Uyo",
+      "visiting_hours": "07:30-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1587569145657-3a13d7c3d2f9?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "hilltop shrine",
+        "sacred ascent",
+        "natural landmark"
+      ]
+    },
+    {
+      "id": "UyoCity001",
+      "name": "Ruins of Idung Ini",
+      "short_description": "The overgrown remnants of Idung Ini, an ancient settlement where the earliest Uyo chiefs held court and performed vital community rituals.",
+      "subtype": "Ancient Cities",
+      "address": "Ini LGA Boundary, Uyo-Aba Road, Uyo",
+      "visiting_hours": "09:00-15:00",
+      "entry_fee": "NGN 500",
+      "images": "https://images.unsplash.com/photo-1587849646452-9f3b5e4c6c0b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "archaeological ruins",
+        "early settlements",
+        "historical heritage"
+      ]
+    },
+    {
+      "id": "UyoCity002",
+      "name": "Nsit Atai Ancestral Enclave",
+      "short_description": "A preserved section of an old Nsit Atai village, offering a glimpse into ancient Ibibio communal living and the spiritual practices of its inhabitants.",
+      "subtype": "Ancient Cities",
+      "address": "Nsit Atai, along Ikot Abasi Road, Uyo",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1620023647610-8b449b2c34d4?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "traditional village",
+        "cultural preservation",
+        "Ibibio history"
+      ]
+    },
+    {
+      "id": "UyoCity003",
+      "name": "The Lost City of Ibesikpo",
+      "short_description": "A legendary site rumored to be the location of a 'lost' city, where ancient spirits are said to roam, guiding those who seek hidden wisdom.",
+      "subtype": "Ancient Cities",
+      "address": "Ibesikpo Asutan, off Aka Road, Uyo",
+      "visiting_hours": "09:30-14:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1588698944583-094d2e8e3d2c?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "mythical site",
+        "spiritual energy",
+        "ancient spirits"
+      ]
+    },
+    {
+      "id": "UyoCity004",
+      "name": "Oron Old Kingdom Remains",
+      "short_description": "Archaeological remnants and oral traditions mark this as a significant outpost of the ancient Oron Kingdom, a place of historical and spiritual power.",
+      "subtype": "Ancient Cities",
+      "address": "Oron Road, near Atamunu, Uyo",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "NGN 700",
+      "images": "https://images.unsplash.com/photo-1550543666-4c4f3e690f0c?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "kingdom history",
+        "power site",
+        "archaeological findings"
+      ]
+    },
+    {
+      "id": "UyoVolcano001",
+      "name": "The Efiat 'Burning Sands'",
+      "short_description": "A small, mysterious area where the ground is unusually warm, fostering legends of ancient spirit fires and a portal to the underworld.",
+      "subtype": "Volcanic Zones",
+      "address": "Efiat Clan, near Ikot Udo, Uyo",
+      "visiting_hours": "09:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1510414449033-66258aa410d4?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "legendary site",
+        "spirit portals",
+        "geothermal anomaly"
+      ]
+    },
+    {
+      "id": "UyoVolcano002",
+      "name": "Ukanafun Geothermal Spring",
+      "short_description": "A secluded spring with naturally warm waters, revered for its healing properties and considered a sacred bathing site by local spiritualists.",
+      "subtype": "Volcanic Zones",
+      "address": "Ukanafun LGA, Uyo-Portharcourt Exp Way, Uyo",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://images.unsplash.com/photo-1608935402633-8c44c7b8e1f5?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "healing waters",
+        "sacred spring",
+        "natural wonder"
+      ]
+    },
+    {
+      "id": "UyoVolcano003",
+      "name": "Anang Hot Stone Grove",
+      "short_description": "A grove of peculiar rocks that retain heat, used in ancient Anang rituals for purification, spiritual cleansing, and connecting with earth spirits.",
+      "subtype": "Volcanic Zones",
+      "address": "Anang Hilltop, Eket Road, Uyo",
+      "visiting_hours": "10:00-14:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549429188-f54f15d97f5f?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "purification rituals",
+        "earth spirits",
+        "ancient grove"
+      ]
+    },
+    {
+      "id": "UyoVolcano004",
+      "name": "Spirit of the Igneous Core",
+      "short_description": "A symbolic site marked by a deep fissure in the earth, believed to channel raw energy from the planet's core for powerful spiritual manifestations.",
+      "subtype": "Volcanic Zones",
+      "address": "Near Ikot Oku Ikono, Uyo-Ikot Ekpene Rd, Uyo",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "NGN 800",
+      "images": "https://images.unsplash.com/photo-1533157577543-9a3b6f2f0b7c?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "earth energy",
+        "spiritual power",
+        "manifestation site"
+      ]
+    },
+    {
+      "id": "UyoDesert001",
+      "name": "The Great Spiritual Barren",
+      "short_description": "A vast, open clearing within the forest, symbolically barren of distractions, where ancient ascetics undertook deep meditation and spiritual fasting.",
+      "subtype": "Desert Power Sites",
+      "address": "Itu-Odukpani Road, near Creek Town, Uyo",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1600741279934-2e2e7b6c7a7b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "meditation",
+        "spiritual retreat",
+        "fasting ground"
+      ]
+    },
+    {
+      "id": "UyoDesert002",
+      "name": "Ikot Ekpene Solitude Plain",
+      "short_description": "A quiet, expansive grassland far from urban noise, offering a sense of vastness and isolation conducive to spiritual introspection and cleansing.",
+      "subtype": "Desert Power Sites",
+      "address": "Ikot Ekpene Road, past Four Lanes, Uyo",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1547494578-f7b7e51c1d0b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "introspection",
+        "spiritual cleansing",
+        "natural vastness"
+      ]
+    },
+    {
+      "id": "UyoDesert003",
+      "name": "The Thirsty Earth Altar",
+      "short_description": "An ancient altar situated in a perpetually dry patch of land, where rituals for rain and abundant harvests were performed, symbolizing deep spiritual need.",
+      "subtype": "Desert Power Sites",
+      "address": "Afaha Offot, by Goodluck Jonathan Blvd, Uyo",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 600",
+      "images": "https://images.unsplash.com/photo-1587570412841-f92e8a60f6c2?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "rain rituals",
+        "fertility prayers",
+        "ancient altar"
+      ]
+    },
+    {
+      "id": "UyoDesert004",
+      "name": "Windswept Wisdom Knoll",
+      "short_description": "An elevated knoll known for its constant breeze and panoramic views, believed to be a place where ancestral wisdom is carried on the wind.",
+      "subtype": "Desert Power Sites",
+      "address": "Shelter Afrique Estate, Uyo",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1533220456073-9e4a3b8e7b9b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "ancestral wisdom",
+        "spiritual insight",
+        "elevated view"
+      ]
+    },
+    {
+      "id": "UyoCrossroad001",
+      "name": "Udo Ntak Ancestral Junction",
+      "short_description": "A historically significant crossroads where ancestral spirits are believed to convene, often marked by offerings for safe passage and good fortune.",
+      "subtype": "Crossroads",
+      "address": "Udo Ntak, Aka-Nung Udoe Rd, Uyo",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1623193427334-0a3b2b3a0e3a?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "spirit offerings",
+        "safe passage",
+        "traditional junction"
+      ]
+    },
+    {
+      "id": "UyoCrossroad002",
+      "name": "Oron Market Square Nexus",
+      "short_description": "The bustling heart of the ancient Oron market, considered a nexus of commerce and spiritual exchange where fate and fortune intersect.",
+      "subtype": "Crossroads",
+      "address": "Oron Market Road, Uyo",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1587002016335-9d32b8e3a2c0?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "market hub",
+        "fortune seeking",
+        "commercial spirituality"
+      ]
+    },
+    {
+      "id": "UyoCrossroad003",
+      "name": "The Three Paths of Destiny",
+      "short_description": "A mystical junction where three ancient paths converge, symbolizing choices and destiny, often visited for guidance in major life decisions.",
+      "subtype": "Crossroads",
+      "address": "Off Ewet Housing, by Ring Road 3, Uyo",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1558230588-423c914b43d2?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "destiny guidance",
+        "life choices",
+        "mystical paths"
+      ]
+    },
+    {
+      "id": "UyoCrossroad004",
+      "name": "Eket River Crossing Shrine",
+      "short_description": "An ancient shrine located at a historical river crossing near Eket, where travelers sought blessings for safe journeys across the waters.",
+      "subtype": "Crossroads",
+      "address": "Eket-Uyo Road, near the Eket River, Uyo",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549420088-75b5b9c47e8b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "travelers' blessings",
+        "river spirits",
+        "historical crossing"
+      ]
+    },
+    {
+      "id": "UyoOracle001",
+      "name": "The Whispering Palms Oracle",
+      "short_description": "A secluded grove of ancient palm trees where the wind through the fronds is believed to carry the whispers of ancestors, providing guidance and prophecies.",
+      "subtype": "Oracle Sites",
+      "address": "Itu Road, near the University of Uyo, Uyo",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1608935402633-8c44c7b8e1f5?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "divination",
+        "ancestral guidance",
+        "palm grove"
+      ]
+    },
+    {
+      "id": "UyoOracle002",
+      "name": "Efik Chiefdom Seer's Cave",
+      "short_description": "A hidden cave system traditionally used by Efik seers for deep meditation and receiving visions and prophecies directly from the spirit world.",
+      "subtype": "Oracle Sites",
+      "address": "Calabar-Itu Road, near Use Ikot Oku, Uyo",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "NGN 1200",
+      "images": "https://images.unsplash.com/photo-1616421949511-20d0e6b83f4b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "seer's visions",
+        "spirit communication",
+        "sacred cave"
+      ]
+    },
+    {
+      "id": "UyoOracle003",
+      "name": "Ibom Divination Waters",
+      "short_description": "A pristine, still spring whose waters are used in ancient scrying rituals to reveal future events and gain insights into complex problems.",
+      "subtype": "Oracle Sites",
+      "address": "Off Aka Road, near the Ibom Plaza, Uyo",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549429218-bb718d7f7e91?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "scrying",
+        "future telling",
+        "sacred spring"
+      ]
+    },
+    {
+      "id": "UyoOracle004",
+      "name": "The Oracle of the Forest Heart",
+      "short_description": "Deep within a secluded forest lies a clearing with an ancient Iroko tree, considered a direct channel to powerful nature spirits and primal wisdom.",
+      "subtype": "Oracle Sites",
+      "address": "Nsit Ubium LGA, off Eket-Uyo Rd, Uyo",
+      "visiting_hours": "07:30-16:30",
+      "entry_fee": "NGN 900",
+      "images": "https://images.unsplash.com/photo-1628109677271-4a1b0b5c1c0a?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "nature spirits",
+        "primal wisdom",
+        "forest shrine"
+      ]
+    },
+    {
+      "id": "UyoPilgrim001",
+      "name": "Path of the Seven Elders",
+      "short_description": "A historic route leading to an ancient council ground where the seven founding elders of Uyo are said to have met, walked for spiritual contemplation.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts from Aka Etinan Road, Uyo",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1522066699347-160a3b6d2e6b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "contemplation",
+        "elder veneration",
+        "historical path"
+      ]
+    },
+    {
+      "id": "UyoPilgrim002",
+      "name": "The Nwaniba Creek Purification Walk",
+      "short_description": "A serene riverside path along the Nwaniba Creek, used for ritual purification and spiritual cleansing before important ceremonies.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Nwaniba Road, near the Nwaniba River, Uyo",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1521743048960-e478b8a5d3f8?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "purification",
+        "river rituals",
+        "cleansing walk"
+      ]
+    },
+    {
+      "id": "UyoPilgrim003",
+      "name": "Royal Ancestor's Trail",
+      "short_description": "A solemn route taken by new chiefs to visit the burial sites of their royal predecessors, connecting them to the lineage and wisdom of their ancestors.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Off Eka Street, Ikot Ekpene Road, Uyo",
+      "visiting_hours": "09:00-15:00",
+      "entry_fee": "NGN 750",
+      "images": "https://images.unsplash.com/photo-1577708316135-2a2b0a99c9d0?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "royal lineage",
+        "ancestral veneration",
+        "chieftaincy rituals"
+      ]
+    },
+    {
+      "id": "UyoPilgrim004",
+      "name": "Journey to the Healing Tree",
+      "short_description": "A well-trodden path leading to a majestic, ancient Iroko tree, believed to possess powerful healing energies for those who seek its presence.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Off Edet Akpan Avenue, by Airport Road, Uyo",
+      "visiting_hours": "06:30-17:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594916894089-a29d5b7c02b3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "healing power",
+        "sacred tree",
+        "spiritual journey"
+      ]
+    },
+    {
+      "id": "UyoRock001",
+      "name": "The Crying Stone of Ibibio",
+      "short_description": "A unique rock formation resembling a weeping face, central to Ibibio folklore, believed to shed tears for the ancestors during times of distress.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Itam Road, near the market, Uyo",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1634865882855-4e3a4e9b9c9d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Ibibio folklore",
+        "ancestral tears",
+        "natural sculpture"
+      ]
+    },
+    {
+      "id": "UyoRock002",
+      "name": "Oku-Iboku Stone Council",
+      "short_description": "A cluster of large, flat stones arranged naturally, once used as a council ground by ancient Oku-Iboku elders for critical community decisions and spiritual gatherings.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Oku-Iboku, Itu LGA, Uyo",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579782538181-42b781b0a8d4?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "council ground",
+        "ancient gatherings",
+        "community decisions"
+      ]
+    },
+    {
+      "id": "UyoRock003",
+      "name": "The Balancing Rocks of Etebi",
+      "short_description": "A formation of precariously balanced rocks, believed to be a sacred site where ancestral spirits maintain the delicate balance of life and nature.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Etebi Village, near Mbo, Uyo",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "NGN 800",
+      "images": "https://images.unsplash.com/photo-1524316972750-f8f4a132e4d0?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "spiritual balance",
+        "nature's wonders",
+        "ancestral spirits"
+      ]
+    },
+    {
+      "id": "UyoRock004",
+      "name": "Spirit Giant's Finger",
+      "short_description": "A towering, slender monolith rising from the earth, believed to be the petrified finger of an ancient giant, a guardian spirit of the land.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Uruan LGA, along Nwaniba Road, Uyo",
+      "visiting_hours": "08:30-17:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1621251341857-79a4e8d38096?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "guardian spirit",
+        "ancient legends",
+        "natural monolith"
+      ]
+    },
+    {
+      "id": "UyoMountain001",
+      "name": "Afaha Oku Spirit Hill",
+      "short_description": "The highest prominent hill in the Afaha Oku area, home to an ancient shrine where communal prayers are offered for bountiful harvests and protection.",
+      "subtype": "Sacred Mountains",
+      "address": "Afaha Oku, Uyo-Itam Road, Uyo",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1587569145657-3a13d7c3d2f9?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "hilltop shrine",
+        "communal prayers",
+        "harvest blessings"
+      ]
+    },
+    {
+      "id": "UyoMountain002",
+      "name": "Mount Obotme",
+      "short_description": "A revered hill known locally as 'Mount Obotme', where traditional rites of passage and initiations have been performed for generations.",
+      "subtype": "Sacred Mountains",
+      "address": "Obotme Village, Ini LGA, Uyo",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://images.unsplash.com/photo-1627885011910-394f995a5f1f?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "rites of passage",
+        "initiation ceremonies",
+        "sacred hill"
+      ]
+    },
+    {
+      "id": "UyoMountain003",
+      "name": "The Ascending Path of Uruan",
+      "short_description": "A spiritual path leading up a significant elevation in Uruan, symbolizing spiritual ascent and self-improvement, culminating at a small, ancient shrine.",
+      "subtype": "Sacred Mountains",
+      "address": "Uruan LGA, off Airport Road, Uyo",
+      "visiting_hours": "06:30-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549429218-bb718d7f7e91?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "spiritual ascent",
+        "self-improvement",
+        "pilgrimage"
+      ]
+    },
+    {
+      "id": "UyoMountain004",
+      "name": "Idoro Sky Temple Mount",
+      "short_description": "A prominent natural mound, once crowned by a 'sky temple' where ancient priests communed with celestial deities and observed the stars.",
+      "subtype": "Sacred Mountains",
+      "address": "Idoro Road, near Ikpa, Uyo",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 500",
+      "images": "https://images.unsplash.com/photo-1506905925346-21f40e39baa8?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "celestial deities",
+        "ancient astronomy",
+        "mound worship"
+      ]
+    }
+  ]
+}

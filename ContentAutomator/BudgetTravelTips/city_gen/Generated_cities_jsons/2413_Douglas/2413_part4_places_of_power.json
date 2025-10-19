@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Douglas",
+    "city_id": "2413"
+  },
+  "items": [
+    {
+      "id": "SM001",
+      "name": "The Whispering Peaks of Snaefell",
+      "short_description": "Ascend the Isle's highest point, a site believed to connect the mortal realm with ancient sky spirits. Pilgrims often leave offerings for clear guidance.",
+      "subtype": "Sacred Mountains",
+      "address": "Snaefell Summit Path, Laxey, Douglas, IM4 7AS",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547470557-61c028e23f05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHdoaXNwZXJpbmclMjBwZWFrc3xlbnwwfHx8fDE3MTUyNDAyMTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "pilgrimage",
+        "nature",
+        "spiritual"
+      ]
+    },
+    {
+      "id": "SM002",
+      "name": "Ardrey's Ascent of Clarity",
+      "short_description": "This gentle mountain path leads to a plateau historically used for meditation and seeking mental clarity. Locals believe the mountain purifies thoughts.",
+      "subtype": "Sacred Mountains",
+      "address": "Ardrey Road, Baldwin, Douglas, IM4 5BS",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1577717469604-1b4e09f53835?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHBlYWNlZnVsJTIwbW91bnRhaW4lMjBwYXRofGVufDB8fHx8MTcxNTI0MDYwMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "meditation",
+        "scenic",
+        "tranquil"
+      ]
+    },
+    {
+      "id": "SM003",
+      "name": "Carrick's Sentinel Ridge",
+      "short_description": "An ancient lookout point, Carrick's Ridge is revered as a place where ancestors watched over the land, imbuing it with protective energies. Ideal for reflection and panoramic views.",
+      "subtype": "Sacred Mountains",
+      "address": "Carrick Road, Union Mills, Douglas, IM4 4AF",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1572836279435-0d7e687d8253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHdvb2RzJTIwbW91bnRhaW4lMjBoaWxsfGVufDB8fHx8MTcxNTI0MDYyMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "heritage",
+        "viewpoint",
+        "ancestral"
+      ]
+    },
+    {
+      "id": "SM004",
+      "name": "North Barrule's Sky Sanctuary",
+      "short_description": "Perched on the northern peak, this secluded area is said to be where celestial beings descend. It's a favored spot for skygazing and spiritual connection.",
+      "subtype": "Sacred Mountains",
+      "address": "North Barrule Way, Ramsey, Douglas, IM7 1AY",
+      "visiting_hours": "24/7 (daylight recommended)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1541817417637-b2861c87747e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHNoZWlsZCUyMG9mJTIwZ29kfGVufDB8fHx8MTcxNTI0MDY1NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "sacred",
+        "secluded"
+      ]
+    },
+    {
+      "id": "RS001",
+      "name": "The Crypt of St. Lupus",
+      "short_description": "Beneath the old church, this crypt houses the supposed relics of St. Lupus, a local patron saint. Many come seeking blessings for healing and protection.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "St. Lupus Church Road, Douglas, IM1 3AE",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1621644342289-4979100523ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHNoZWlsZCUyMG9mJTIwZ29kfGVufDB8fHx8MTcxNTI0MDY5OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "saints",
+        "healing",
+        "historic"
+      ]
+    },
+    {
+      "id": "RS002",
+      "name": "Ancestral Barrow of Karrin",
+      "short_description": "An ancient burial mound believed to hold the remains of powerful tribal leaders. It's a site for honoring ancestors and connecting with ancient wisdom.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Karrin Ridge, Braddan, Douglas, IM4 4LA",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1560934751-40c262c589b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGFuY2llbnQlMjBiYXJyb3d8ZW5mDB8fHx8MTcxNTI0MDczOXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "burial site",
+        "ancestors",
+        "pagan"
+      ]
+    },
+    {
+      "id": "RS003",
+      "name": "The Sunstone Reliquary",
+      "short_description": "This small, weathered shrine houses a legendary sunstone, said to glow with divine energy at dawn. It's a magnet for those seeking spiritual enlightenment.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Chapel Lane, Kirk Onchan, Douglas, IM3 2AD",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "fixed amount (5.00 GBP)",
+      "images": "https://images.unsplash.com/photo-1596708304928-1111059f1406?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHN0b25lJTIwcmVsaXF1YXJ5fGVufDB8fHx8MTcxNTI0MDc4MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "enlightenment",
+        "solar",
+        "mystical"
+      ]
+    },
+    {
+      "id": "RS004",
+      "name": "The Tomb of the Silent Monks",
+      "short_description": "A secluded and serene tomb complex where an order of silent monks once practiced. Visitors often experience profound peace and inner stillness here.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Monastery Glen, Lonan, Douglas, IM4 7AA",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1522079146197-e892c90666ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHRvbWIlMjBjb21wbGV4fGVufDB8fHx8MTcxNTI0MDgxMnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "monastic",
+        "peace",
+        "reflection"
+      ]
+    },
+    {
+      "id": "AC001",
+      "name": "Fortress of the Sea Kings (Ruins)",
+      "short_description": "The crumbling remains of an ancient stronghold, once home to powerful sea kings. It is believed to hold echoes of their formidable spirits and historical might.",
+      "subtype": "Ancient Cities",
+      "address": "Coastal Path, Port Soderick, Douglas, IM4 1BA",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "fixed amount (8.00 GBP)",
+      "images": "https://images.unsplash.com/photo-1542459740-10115c5484df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfG9sZCUyMGZvcnRyZXNzJTIwcnVpbnN8ZW5mDB8fHx8MTcxNTI0MDg1OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ruins",
+        "history",
+        "maritime"
+      ]
+    },
+    {
+      "id": "AC002",
+      "name": "Ealdor's Lost Village",
+      "short_description": "A partially excavated village, thought to be one of the earliest settlements. Visitors report a strong sense of community and the daily lives of ancient inhabitants.",
+      "subtype": "Ancient Cities",
+      "address": "Ealdor Lane, Injebreck, Douglas, IM4 4AF",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1589178224536-e0e909569ce4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGFuY2llbnQlMjB2aWxsYWdlJTIwcnVpbnN8ZW5mDB8fHx8MTcxNTI0MDg4N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "archaeology",
+        "settlement",
+        "community"
+      ]
+    },
+    {
+      "id": "AC003",
+      "name": "The Sunken City of Manannan (Mythic Site)",
+      "short_description": "Though mostly submerged, this legendary site is said to be the former domain of the sea god Manannan. It offers unique diving for experienced divers to explore its spiritual depths.",
+      "subtype": "Ancient Cities",
+      "address": "Off Coast of Douglas Bay (Boat Tour required), Douglas, IM1 2BX",
+      "visiting_hours": "By tour appointment",
+      "entry_fee": "fixed amount (50.00 GBP for dive tour)",
+      "images": "https://images.unsplash.com/photo-1628186252994-0f1e09c1356e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHN1bmtlbiUyMGNpdHl8ZW5mDB8fHx8MTcxNTI0MDkxMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mythology",
+        "underwater",
+        "adventure"
+      ]
+    },
+    {
+      "id": "AC004",
+      "name": "Chronos's Stone Enclave",
+      "short_description": "A complex of ancient stone structures believed to have been an astronomical observation point and early urban center. It embodies the wisdom of past civilizations.",
+      "subtype": "Ancient Cities",
+      "address": "Chronos Hill, Foxdale, Douglas, IM4 3AX",
+      "visiting_hours": "08:30-17:30",
+      "entry_fee": "fixed amount (6.50 GBP)",
+      "images": "https://images.unsplash.com/photo-1621245084949-c128532c253d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGFuY2llbnQlMjBzdG9uZSUyMGNpdHl8ZW5mDB8fHx8MTcxNTI0MDkyOXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "ancient architecture",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "HSW001",
+      "name": "The Wishing Well of Manannan",
+      "short_description": "A natural spring dedicated to Manannan, god of the sea. It's said that wishes made here, accompanied by a small offering, are heard and often granted.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Manannan's Path, Peel Road, Douglas, IM1 5PH",
+      "visiting_hours": "24/7",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549445952-475a89e82937?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHdpc2hpbmclMjB3ZWxsfGVufDB8fHx8MTcxNTI0MDk2MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wishes",
+        "folkore",
+        "nature"
+      ]
+    },
+    {
+      "id": "HSW002",
+      "name": "St. Bridget's Healing Spring",
+      "short_description": "This ancient spring, reputedly blessed by St. Bridget, offers waters believed to have restorative and healing properties for both body and spirit.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Bridget's Lane, Marown, Douglas, IM4 2AB",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1621375373003-a801ff5c9f57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGhlYWxpbmclMjB3YXRlcnN8ZW5mDB8fHx8MTcxNTI0MDk4Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "healing",
+        "saints",
+        "wellness"
+      ]
+    },
+    {
+      "id": "HSW003",
+      "name": "The Oracle's Whispering Well",
+      "short_description": "A secluded well, where ancient seers once sought visions. It is believed that listening closely to its murmurs can reveal insights and guidance.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Oracle's Path, Crosby, Douglas, IM4 4DP",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount (4.00 GBP)",
+      "images": "https://images.unsplash.com/photo-1596708304928-1111059f1406?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHdoaXNwZXJpbmclMjB3ZWxsfGVufDB8fHx8MTcxNTI0MTAyMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "divination",
+        "wisdom",
+        "sacred water"
+      ]
+    },
+    {
+      "id": "HSW004",
+      "name": "The Fairy Glen Spring",
+      "short_description": "Nestled deep within a mystical glen, this spring is considered a gateway to the fairy realm. Visitors often leave gifts for good fortune and connection to nature spirits.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Fairy Glen Lane, Laxey Glen, Douglas, IM4 7AF",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549887754-06900a068065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGZhaXJ5JTIwZ2xlbiUyMHNwcmluZ3xlbnwwfHx8fDE3MTUyNDEwNDF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "folklore",
+        "fairies",
+        "nature spirits"
+      ]
+    },
+    {
+      "id": "PY001",
+      "name": "The Solar Pyramid of Cregneash",
+      "short_description": "An ancient, earth-built pyramid-like structure discovered in Cregneash, believed to align with the summer solstice. It radiates ancient solar energy.",
+      "subtype": "Pyramids",
+      "address": "Cregneash Village, Douglas, IM9 5PU",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount (7.50 GBP)",
+      "images": "https://images.unsplash.com/photo-1629857997327-1473950ef916?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGVhcnRoJTIwcHlyYW1pZHxlbnwwfHx8fDE3MTUyNDExMjV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancient structure",
+        "solstice",
+        "energy"
+      ]
+    },
+    {
+      "id": "PY002",
+      "name": "The Obsidian Soul-Stone Pyramid",
+      "short_description": "A mysterious, smaller pyramid constructed from dark obsidian, rumored to amplify spiritual introspection and connection to ancestral souls.",
+      "subtype": "Pyramids",
+      "address": "Hidden Glen, East Baldwin, Douglas, IM4 5AF",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1621689363574-d4b31a89c93b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfG9ic2lkaWFuJTIwcHlyYW1pZHxlbnwwfHx8fDE3MTUyNDExNjN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "introspection",
+        "ancestral",
+        "mysterious"
+      ]
+    },
+    {
+      "id": "PY003",
+      "name": "Pyramid of the Dragon's Breath",
+      "short_description": "A geothermally active pyramid-shaped hill, where warm air currents are believed to be the 'breath' of an ancient dragon spirit, imparting vitality and courage.",
+      "subtype": "Pyramids",
+      "address": "Dragon's Tooth Ridge, Maughold, Douglas, IM7 1BA",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1629683935272-9646b9a957a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHRoZSUyMGRyYWdvbiUyMG1vdW50YWlufGVufDB8fHx8MTcxNTI0MTI2MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "vitality",
+        "courage",
+        "mythical"
+      ]
+    },
+    {
+      "id": "PY004",
+      "name": "The Stepped Sanctuary of Auldyn",
+      "short_description": "A series of ancient stepped terraces, forming a natural pyramid, used for ancient agricultural rites and celestial observation. It embodies harmony with nature.",
+      "subtype": "Pyramids",
+      "address": "Auldyn Road, Ramsey, Douglas, IM8 2AP",
+      "visiting_hours": "24/7 (daylight recommended)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549887754-06900a068065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHN0ZXBwZWQlMjByaWNlfGVufDB8fHx8MTcxNTI0MTI5MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "agriculture",
+        "harmony",
+        "ancient rites"
+      ]
+    },
+    {
+      "id": "VZ001",
+      "name": "The Obsidian Geyser Field",
+      "short_description": "Though dormant for millennia, this field of ancient obsidian formations still radiates potent earth energy. It's a place for grounding and spiritual renewal.",
+      "subtype": "Volcanic Zones",
+      "address": "Obsidian Path, Slieau Whallian, Douglas, IM5 2AB",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount (7.00 GBP)",
+      "images": "https://images.unsplash.com/photo-1579737190983-4a007f352932?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfG9ic2lkaWFuJTIwZ2V5c2VyJTIwZmllbGR8ZW5mDB8fHx8MTcxNTI0MTMyNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "geothermal",
+        "grounding",
+        "renewal"
+      ]
+    },
+    {
+      "id": "VZ002",
+      "name": "Phoenix Crater Lookout",
+      "short_description": "The remnants of an ancient, extinct volcano, believed to be a 'phoenix nest' where old energies are reborn. Ideal for letting go of the past and embracing new beginnings.",
+      "subtype": "Volcanic Zones",
+      "address": "Phoenix Summit Road, Glen Helen, Douglas, IM4 3BA",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1522810842792-62ce9d033e60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGNyYXRlciUyMGxvY2F0aW9ufGVufDB8fHx8MTcxNTI0MTM1N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "rebirth",
+        "transformation",
+        "volcanic"
+      ]
+    },
+    {
+      "id": "VZ003",
+      "name": "The Elemental Vents of Ballaugh",
+      "short_description": "A unique geological area where various mineral vents release gases, said to be the 'breathing' of elemental spirits. It's a place to connect with earth's raw power.",
+      "subtype": "Volcanic Zones",
+      "address": "Elemental Trail, Ballaugh, Douglas, IM7 5BH",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "fixed amount (6.00 GBP)",
+      "images": "https://images.unsplash.com/photo-1547847094-0f2c0032c86b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGdlb2xvZ2ljYWwlMjB2ZW50c3xlbnwwfHx8fDE3MTUyNDE0MTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "elemental",
+        "earth energy",
+        "geology"
+      ]
+    },
+    {
+      "id": "VZ004",
+      "name": "The Crystalized Lava Fields",
+      "short_description": "Fields of ancient, crystalized lava flows believed to hold the memory of the earth's fiery creation. Visitors feel a deep connection to geological time and cosmic origins.",
+      "subtype": "Volcanic Zones",
+      "address": "Crystal Valley, Patrick, Douglas, IM5 3AE",
+      "visiting_hours": "24/7 (daylight recommended)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1621245084949-c128532c253d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGNyeXN0YWxpemVkJTIwbGF2YSUyMGZpZWxkc3xlbnwwfHx8fDE3MTUyNDE0NTl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "geological",
+        "cosmic",
+        "creation"
+      ]
+    },
+    {
+      "id": "CA001",
+      "name": "The Stargazer's Circle of Ballakermeen",
+      "short_description": "An ancient stone circle meticulously aligned with major celestial events. It's a profound place for observing the cosmos and seeking cosmic wisdom.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Ballakermeen Road, Douglas, IM1 4AB",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506596357568-1ef61e7127b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGFuY2llbnQlMjBzdG9uZSUyMGNpcmNsZSUyMHN0YXJzfGVufDB8fHx8MTcxNTI0MTUwN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "stone circle",
+        "cosmic wisdom"
+      ]
+    },
+    {
+      "id": "CA002",
+      "name": "Midsummer's Cairn of Cornaa",
+      "short_description": "A historic cairn where ancient peoples gathered to mark the summer solstice. It embodies the celebration of light and the rhythm of the seasons.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Cornaa Valley, Lonan, Douglas, IM4 7AX",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549887754-06900a068065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHNvbHN0aWNlJTIwY2Fpcm58ZW5mDB8fHx8MTcxNTI0MTU3OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "solstice",
+        "seasons",
+        "celebration"
+      ]
+    },
+    {
+      "id": "CA003",
+      "name": "The Lunar Gate of Port Soderick",
+      "short_description": "A pair of natural rock formations on the coast that perfectly frame the rising full moon at specific times of the year. It's a place for lunar reverence and intuition.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Port Soderick Coast Path, Douglas, IM4 1BA",
+      "visiting_hours": "By lunar cycle (specific evenings)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1541817417637-b2861c87747e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfG1vb24lMjByaXNpbmclMjByb2NrJTIwZm9ybWF0aW9uc3xlbnwwfHx8fDE3MTUyNDE2NDJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lunar",
+        "intuition",
+        "coastline"
+      ]
+    },
+    {
+      "id": "CA004",
+      "name": "Astronomer's Dell",
+      "short_description": "A secluded dell featuring ancient markings and an unusual rock basin that reflects the night sky with remarkable clarity. Used by ancient astronomers for charting the heavens.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Astronomer's Way, Greeba, Douglas, IM4 3AN",
+      "visiting_hours": "24/7 (night recommended)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582215284307-e85df6463999?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGRlbGwlMjBuZXZhZGF8ZW5mDB8fHx8MTcxNTI0MTcxNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "stargazing",
+        "ancient science",
+        "reflection"
+      ]
+    },
+    {
+      "id": "CS001",
+      "name": "The Druid's Grotto of Kentraugh",
+      "short_description": "A deep, secluded cave system once used by ancient druids for sacred rituals and communion with earth spirits. Its atmosphere is profoundly mystical.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Kentraugh Road, Rushen, Douglas, IM9 6AL",
+      "visiting_hours": "10:00-16:00 (guided tours only)",
+      "entry_fee": "fixed amount (12.00 GBP)",
+      "images": "https://images.unsplash.com/photo-1522810842792-62ce9d033e60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGRydWlkJTIwZ3JvdHRvfGVufDB8fHx8MTcxNTI0MTc0Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "druidism",
+        "mystical",
+        "rituals"
+      ]
+    },
+    {
+      "id": "CS002",
+      "name": "The Hermit's Cavern of Silence",
+      "short_description": "A small, unassuming cave that was home to a revered hermit. Visitors seek its quiet solitude for meditation and finding inner peace.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Hermit's Way, Eairy, Douglas, IM5 2AG",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506596357568-1ef61e7127b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGNhdmVybiUyMG9mJTIwc2lsZW5jZXxlbnwwfHx8fDE3MTUyNDE4MDJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "meditation",
+        "solitude",
+        "peace"
+      ]
+    },
+    {
+      "id": "CS003",
+      "name": "Sanctuary of the Sea Nymphs",
+      "short_description": "A coastal cave accessible only at low tide, believed to be the dwelling of benevolent sea nymphs. Offerings are left for safe passage and blessings from the sea.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Nymph's Cove, Niarbyl, Douglas, IM5 2DD",
+      "visiting_hours": "Low Tide only (check local tides)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549887754-06900a068065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHNlYSUyMG55bXBoJTIwc2FjdHVhcnl8ZW5mDB8fHx8MTcxNTI0MTg2MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sea spirits",
+        "coastal",
+        "mythology"
+      ]
+    },
+    {
+      "id": "CS004",
+      "name": "The Crystal Vein Cavern",
+      "short_description": "A wondrous cavern adorned with natural crystal formations, said to amplify psychic abilities and facilitate communication with higher dimensions.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Crystal Cave Road, Sulby, Douglas, IM7 2AH",
+      "visiting_hours": "11:00-15:00 (guided tours only)",
+      "entry_fee": "fixed amount (10.00 GBP)",
+      "images": "https://images.unsplash.com/photo-152277839352-841f3d8b584a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGNyeXN0YWwlMjBjYXZlcm58ZW5mDB8fHx8MTcxNTI0MTkwN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "crystals",
+        "psychic",
+        "higher dimensions"
+      ]
+    },
+    {
+      "id": "OS001",
+      "name": "The Whispering Stone of Ealdon",
+      "short_description": "An ancient, moss-covered stone where oracles once divined the future by listening to the wind passing through its crevices. Seek clarity and guidance here.",
+      "subtype": "Oracle Sites",
+      "address": "Ealdon Heath, St. Johns, Douglas, IM4 3AE",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1629857997327-1473950ef916?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGFuY2llbnQlMjB3aGlzcGVyaW5nJTIwc3RvbmV8ZW5mDB8fHx8MTcxNTI0MTk0N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "divination",
+        "guidance",
+        "ancient"
+      ]
+    },
+    {
+      "id": "OS002",
+      "name": "The Seer's Seat at Bradda Head",
+      "short_description": "Perched on a dramatic cliff overlooking the sea, this natural rock formation was a vantage point for seers. It's said to enhance foresight and intuition.",
+      "subtype": "Oracle Sites",
+      "address": "Bradda Head Coastal Path, Port Erin, Douglas, IM9 6LD",
+      "visiting_hours": "24/7 (daylight recommended)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1541817417637-b2861c87747e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGNsaWZmJTIwb3JhY2xlfGVufDB8fHx8MTcxNTI0MjAyOHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "foresight",
+        "intuition",
+        "coastal"
+      ]
+    },
+    {
+      "id": "OS003",
+      "name": "Temple of the Prophetic Echoes",
+      "short_description": "The ruins of an ancient temple where priests would interpret echoes within its chambers as divine prophecies. Visitors can experience unique acoustic phenomena.",
+      "subtype": "Oracle Sites",
+      "address": "Prophecy Hill, Andreas, Douglas, IM7 3AN",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "fixed amount (5.50 GBP)",
+      "images": "https://images.unsplash.com/photo-1542459740-10115c5484df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHRlbXBsZSUyMHJ1aW5zJTIwZWNob2VzfGVufDB8fHx8MTcxNTI0MjA2OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "prophecy",
+        "acoustic",
+        "ancient temple"
+      ]
+    },
+    {
+      "id": "OS004",
+      "name": "The Dreamstone of Baldwin",
+      "short_description": "A megalithic stone believed to hold the power of dreams. Ancient seers would sleep near it to receive visions. Visit for clarity in dreams and subconscious insights.",
+      "subtype": "Oracle Sites",
+      "address": "Dreamstone Field, Baldwin, Douglas, IM4 5AA",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1560934751-40c262c589b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGRyZWFtc3RvbmV8ZW5mDB8fHx8MTcxNTI0MjExMnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "dreams",
+        "subconscious",
+        "megalithic"
+      ]
+    },
+    {
+      "id": "PR001",
+      "name": "The Manannan's Way Coastal Path",
+      "short_description": "A historic coastal route tracing ancient spiritual sites dedicated to the sea god Manannan. Offers breathtaking views and opportunities for reflection.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts at Douglas Promenade, Douglas, IM1 2AD",
+      "visiting_hours": "24/7 (segments vary)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1521404071302-31d77d704d9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGNvYXN0YWwlMjBwaWxncmllbWFnZSUyMHBhdGh8ZW5mDB8fHx8MTcxNTI0MjE0Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coastal",
+        "pilgrimage",
+        "reflection"
+      ]
+    },
+    {
+      "id": "PR002",
+      "name": "The Druid's Glen Sanctuary Trail",
+      "short_description": "A winding path through a verdant glen, connecting several ancient druidic sites and a sacred waterfall. It's a journey of deep connection to nature.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Druid's Glen Entrance, Glen Maye, Douglas, IM5 3AF",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1522810842792-62ce9d033e60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGdsZW4lMjB0cmFpbHxlbnwwfHx8fDE3MTUyNDIyNDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature trail",
+        "druidism",
+        "waterfall"
+      ]
+    },
+    {
+      "id": "PR003",
+      "name": "The Way of St. Patrick",
+      "short_description": "A long-distance pilgrimage route believed to follow St. Patrick's path across the island, linking early Christian sites. A journey of faith and endurance.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts at Maughold Parish Church, Douglas, IM7 1BA",
+      "visiting_hours": "24/7 (multi-day route)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506596357568-1ef61e7127b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHBpbGdyb21lJTIwcm91dGV8ZW5mDB8fHx8MTcxNTI0MjMxNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "christianity",
+        "endurance",
+        "historical"
+      ]
+    },
+    {
+      "id": "PR004",
+      "name": "The Journey of the Ancients",
+      "short_description": "This inland route connects several prehistoric sites, stone circles, and burial mounds, offering a deep immersion into the island's most ancient spiritual landscape.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts at Mull Hill, Cregneash, Douglas, IM9 5PU",
+      "visiting_hours": "09:00-17:00 (daylight recommended)",
+      "entry_fee": "fixed amount (3.00 GBP for map/guide)",
+      "images": "https://images.unsplash.com/photo-1589178224536-e0e909569ce4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfGFuY2llbnQlMjB0cmFpbHxlbnwwfHx8fDE3MTUyNDIzNDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "prehistoric",
+        "ancient landscape",
+        "exploration"
+      ]
+    }
+  ]
+}

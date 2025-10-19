@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Atar",
+    "city_id": "2419"
+  },
+  "items": [
+    {
+      "id": "MSA001",
+      "name": "Atar Kicker Kids Field",
+      "short_description": "A vibrant artificial turf pitch perfect for kids to play 5-a-side football. Includes small goals and soft balls for safe, energetic play.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Rue du Marché Central, Atar, Mauritania",
+      "opening_hours": "09:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549463953-6593ce0d2d3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwcGxheWluZyUyMGZvb3RiYWxsfHwyfHx8fHwyfDE3MTczNjAzNzJ8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "football",
+        "soccer",
+        "active play"
+      ]
+    },
+    {
+      "id": "MSA002",
+      "name": "Desert Hoops Basketball Corner",
+      "short_description": "A specially designed outdoor basketball court with child-friendly hoops and padded surfaces. Encourages teamwork and basic basketball skills in a safe environment.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Near Atar Hospital, Boulevard de la Poste, Atar, Mauritania",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1560938497-b35dd0c9d749?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwcGxheWluZyUyMGJhc2tldGJhbGx8fDIyfHx8fHwyfDE3MTczNjAyNzB8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "basketball",
+        "outdoor",
+        "team sports"
+      ]
+    },
+    {
+      "id": "MSA003",
+      "name": "Atar Sprint Stars Track",
+      "short_description": "A mini track and field area offering simplified versions of running, long jump, and obstacle courses for young athletes. Designed for fun and skill development.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Quartier Tleila, Avenue des Martyrs, Atar, Mauritania",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596489396264-b0a3318fb485?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwcnVubmluZyUyMHRyYWNrZmllbGR8fDIyfHx8fHwyfDE3MTczNjAzNzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "athletics",
+        "running",
+        "obstacle course"
+      ]
+    },
+    {
+      "id": "MSA004",
+      "name": "Oujoud Mini Tennis Academy",
+      "short_description": "Two scaled-down tennis courts with low nets and soft balls, ideal for children to learn the basics of tennis in a fun, pressure-free environment. Coaching available.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Avenue de la Liberté, Oujoud, Atar, Mauritania",
+      "opening_hours": "09:30-18:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579294576856-42fb53648e83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwdGVubmlzfHwyfHx8fHwyfDE3MTczNjAzNzZ8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "tennis",
+        "racket sports",
+        "lessons"
+      ]
+    },
+    {
+      "id": "AQG001",
+      "name": "Desert Explorer Obstacle Course",
+      "short_description": "Navigate a fun and challenging outdoor obstacle course designed for various age groups. Kids can climb, crawl, and balance their way through exciting adventures.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Route de Chinguetti, Atar, Mauritania",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1571343037943-4f9e159d3e86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwb2JzdGFjbGUlMjBjb3Vyc2V8fDIyfHx8fHwyfDE3MTczNjA0NDl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "obstacle course",
+        "climbing",
+        "outdoor adventure"
+      ]
+    },
+    {
+      "id": "AQG002",
+      "name": "Oasis Treasure Hunt",
+      "short_description": "An interactive outdoor treasure hunt where children follow clues to discover hidden 'gems' and learn about local history. Great for groups and problem-solving skills.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Parc National du Banc d'Arguin entrance, Atar, Mauritania",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1610427976851-91a92a543324?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwc2NhdmVuZ2VyJTIwaHVudHxlbnwwfHwxfHwxNzE3MzYwNDY1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "scavenger hunt",
+        "discovery",
+        "team building"
+      ]
+    },
+    {
+      "id": "AQG003",
+      "name": "Mystic Maze of Atar",
+      "short_description": "A large, child-friendly maze designed with fun twists and turns, featuring interactive puzzles and riddles to solve. Perfect for adventurous minds and physical activity.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Near Atar Public Library, Rue de la Culture, Atar, Mauritania",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582218456108-b8054a107ef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwbWF6ZXxlbnwwfHwxfHwxNzE3MzYwNDc5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "maze",
+        "puzzles",
+        "strategy game"
+      ]
+    },
+    {
+      "id": "AQG004",
+      "name": "Pharaoh's Junior Escape Room",
+      "short_description": "An exciting escape room experience tailored for children, involving ancient Egyptian themes and age-appropriate puzzles. Work together to unlock the secrets!",
+      "subtype": "Adventure & Quest Games",
+      "address": "Centre Ville, Boulevard de l'Indépendance, Atar, Mauritania",
+      "opening_hours": "11:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1588673756855-6b5c3d4f195d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwZXNjYXBlJTIwcm9vbXxlbnwwfHwxfHwxNzE3MzYwNDk2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "escape room",
+        "mystery",
+        "team challenge"
+      ]
+    },
+    {
+      "id": "LWC001",
+      "name": "Brick Builders Workshop",
+      "short_description": "A dedicated space filled with thousands of LEGO bricks, allowing children to build anything their imagination desires. Daily building challenges and free play zones.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Rue du Commerce, Atar, Mauritania",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1577239209503-4f16b2512a9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwYnVpbGRpbmclMjBMZWdvfHwyfHx8fHwyfDE3MTczNjA1NTZ8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "LEGO",
+        "building",
+        "creativity"
+      ]
+    },
+    {
+      "id": "LWC002",
+      "name": "Duplo Desert Oasis",
+      "short_description": "A soft and safe play area specifically designed for toddlers and preschoolers, featuring oversized DUPLO bricks. Encourages early motor skills and creative play.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Near Atar Museum, Rue de la Culture, Atar, Mauritania",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1566898748950-e5d7963d3c90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwRHVwbG9fMnxlbnwwfHwxfHwxNzE3MzYwNTY5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "DUPLO",
+        "toddlers",
+        "sensory play"
+      ]
+    },
+    {
+      "id": "LWC003",
+      "name": "Little Engineers Construction Site",
+      "short_description": "An interactive construction zone where kids can operate mini-diggers, build with large foam blocks, and wear construction helmets. Inspires future builders and engineers.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Industrial Zone, Atar, Mauritania",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596492364654-e0e6417b1893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwY29uc3RydWN0aW9uJTIwY2xheXxlbnwwfHwxfHwxNzE3MzYwNTk4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "construction",
+        "engineering",
+        "role-play"
+      ]
+    },
+    {
+      "id": "LWC004",
+      "name": "Robotics & Gizmos Lab for Kids",
+      "short_description": "A unique space where older children can explore basic robotics and simple machine building using various construction kits. Guided workshops foster STEM skills.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Atar Tech Hub, Avenue de la République, Atar, Mauritania",
+      "opening_hours": "11:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627974917088-e215e032332c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwZW5naW5lZXJpbmd8ZW58MHx8MXx8MTcxNzM2MDYxMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "robotics",
+        "STEM",
+        "innovation"
+      ]
+    },
+    {
+      "id": "CMG001",
+      "name": "Desert Friends Character Zone",
+      "short_description": "Meet and greet beloved local and international cartoon characters. Perfect for photo opportunities and creating magical memories with your child's favorite heroes.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Atar City Square, Place de la Justice, Atar, Mauritania",
+      "opening_hours": "15:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1629737107773-4556a3122c6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwbWFzY290JTIwbWVldHxlbnwwfHwxfHwxNzE3MzYwNzIxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "characters",
+        "photo op",
+        "family fun"
+      ]
+    },
+    {
+      "id": "CMG002",
+      "name": "Atar Animation Parade",
+      "short_description": "A dazzling parade featuring colorful cartoon characters dancing and interacting with the crowd. Kids can wave and cheer as their favorite cartoons pass by.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Along Avenue Chinguetti, Atar, Mauritania",
+      "opening_hours": "17:00-17:45",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1577785507317-a0658bb231b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwY2hhcmFjdGVyJTIwcGFyYWRlfHwyfHx8fHwyfDE3MTczNjA3NDZ8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "parade",
+        "entertainment",
+        "live show"
+      ]
+    },
+    {
+      "id": "CMG003",
+      "name": "Story Time with Super Sami",
+      "short_description": "Join 'Super Sami' and his cartoon friends for an engaging storytelling session. Children will be captivated by exciting tales and moral lessons.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Atar Cultural Center, Rue de la Paix, Atar, Mauritania",
+      "opening_hours": "14:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1557683072-a0b5b15b53d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwY2hhcmFjdGVyJTIwc3Rvcnl0aW1lfHwyfHx8fHwyfDE3MTczNjA3Nzh8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "storytelling",
+        "characters",
+        "education"
+      ]
+    },
+    {
+      "id": "CMG004",
+      "name": "Selfie Station with Kooky Kameleon",
+      "short_description": "Strike a pose and get a memorable selfie with Kooky Kameleon and other vibrant cartoon characters. A fun way to capture the magic of your visit!",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Atar Family Fun Zone, Route de l'Aéroport, Atar, Mauritania",
+      "opening_hours": "13:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596492816999-72ed62d7c5ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwcGhvdG8lMjBjaGFyYWN0ZXJ8ZW58MHx8MXx8MTcxNzM2MDgzNnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "selfie",
+        "characters",
+        "memories"
+      ]
+    },
+    {
+      "id": "FTP001",
+      "name": "Princess Palace of Adrar",
+      "short_description": "Step into a magical castle where children can meet princesses, partake in royal dances, and enjoy enchanting storytelling. A dream come true for little royals.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Outskirts of Atar, Route de Nouakchott, Atar, Mauritania",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1616788819007-889d71c11060?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwZmFpcnklMjB0YWxlJTIwY2FzdGxlfHwyfHx8fHwyfDE3MTczNjA5NzJ8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "princesses",
+        "castle",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "FTP002",
+      "name": "Enchanted Desert Grove",
+      "short_description": "Explore a whimsical desert-themed forest filled with hidden pathways, sparkling lights, and gentle magical creatures. Discover secret spots and interact with nature's magic.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Green Zone, Near Atar Oasis, Atar, Mauritania",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1617260580456-6548e65f1262?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwZW5jaGFudGVkJTIwZm9yZXN0fHwyfHx8fHwyfDE3MTczNjA5OTZ8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "forest",
+        "magic",
+        "nature walks"
+      ]
+    },
+    {
+      "id": "FTP003",
+      "name": "Tales of the Sands Amphitheater",
+      "short_description": "Enjoy captivating live performances of classic fairy tales and local legends at this open-air amphitheater. Features dazzling costumes and engaging storytellers.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Atar Cultural Quarter, Rue de la Joie, Atar, Mauritania",
+      "opening_hours": "16:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1608678070908-163e778a4876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwc3Rvcnl0ZWxsaW5nfHwyfHx8fHwyfDE3MTczNjEwMTB8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "storytelling",
+        "theater",
+        "legends"
+      ]
+    },
+    {
+      "id": "FTP004",
+      "name": "Genie's Magical Garden",
+      "short_description": "A vibrant garden themed around Arabian Nights, where children can encounter friendly genies, flying carpets, and mystical creatures. Interactive exhibits encourage imagination.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Adrar Gardens, Atar, Mauritania",
+      "opening_hours": "10:30-18:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1579549320667-27a3c39a3f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwZmFpcnklMjBjcmVhdHVyZXN8ZW58MHx8MXx8MTcxNzM2MTAzMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Arabian Nights",
+        "mythical creatures",
+        "imagination"
+      ]
+    },
+    {
+      "id": "AMR001",
+      "name": "Desert Carousel of Dreams",
+      "short_description": "A classic carousel featuring beautifully decorated animals, offering gentle spins and joyful music. A timeless ride for young children and families.",
+      "subtype": "Amusement Rides",
+      "address": "Atar Family Park, Avenue du 28 Novembre, Atar, Mauritania",
+      "opening_hours": "14:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1612443493134-8c01ee5d929f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwY2Fyb3VzZWx8ZW58MHx8MXx8MTcxNzM2MTA3OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "carousel",
+        "classic ride",
+        "gentle fun"
+      ]
+    },
+    {
+      "id": "AMR002",
+      "name": "Atar Express Mini Train",
+      "short_description": "Hop aboard a charming mini-train that takes children on a scenic loop around a landscaped garden. A relaxing and delightful ride for all ages.",
+      "subtype": "Amusement Rides",
+      "address": "Public Gardens of Atar, Rue de la Résistance, Atar, Mauritania",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596541530939-f06915f4ce62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwbWluaSUyMHRyYWlufHwyfHx8fHwyfDE3MTczNjExMjN8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mini train",
+        "scenic",
+        "relaxing ride"
+      ]
+    },
+    {
+      "id": "AMR003",
+      "name": "Little Desert Flyer Ferris Wheel",
+      "short_description": "A miniature Ferris wheel offering safe and gentle spins for young children. Provides charming views of the park from a comfortable height.",
+      "subtype": "Amusement Rides",
+      "address": "Family Entertainment Center, Atar, Mauritania",
+      "opening_hours": "16:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549293144-468ac861d15c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwZmVycmlzJTIwd2hlZWx8ZW58MHx8MXx8MTcxNzM2MzE1Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ferris wheel",
+        "views",
+        "gentle thrill"
+      ]
+    },
+    {
+      "id": "AMR004",
+      "name": "Oasis Bumper Buggies",
+      "short_description": "Let kids unleash their energy on a fun-filled bumper car track with child-sized buggies. A safe and exciting ride for friendly bumping and laughs.",
+      "subtype": "Amusement Rides",
+      "address": "Atar Adventureland, Route de l'Espoir, Atar, Mauritania",
+      "opening_hours": "15:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628178652422-901b0f585d8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwYnVtcGVyJTIwY2Fyc3xlbnwwfHwxfHwxNzE3MzYxMTk2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "bumper cars",
+        "fast-paced",
+        "interactive"
+      ]
+    },
+    {
+      "id": "IPC001",
+      "name": "Sahara Soft Play Zone",
+      "short_description": "A multi-level indoor soft play area with slides, tunnels, and climbing structures. Designed for safe, active play regardless of the weather.",
+      "subtype": "Indoor Play Centers",
+      "address": "Atar Mall, Centre Commercial, Atar, Mauritania",
+      "opening_hours": "09:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510525008587-c71597a1d7c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwc29mdCUyMHBsYXl8ZW58MHx8MXx8MTcxNzM2MTMyNnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "soft play",
+        "indoor playground",
+        "active kids"
+      ]
+    },
+    {
+      "id": "IPC002",
+      "name": "Atar Ball Pit Paradise",
+      "short_description": "Dive into a massive ball pit filled with thousands of colorful balls. A joyous and safe environment for children to splash, hide, and play.",
+      "subtype": "Indoor Play Centers",
+      "address": "Family Fun Hub, Rue de la Jeunesse, Atar, Mauritania",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1550596334-a07937965961?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwYmFsbCUyMHBpdHxlbnwwfHwxfHwxNzE3MzYxMzQ1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ball pit",
+        "sensory play",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "IPC003",
+      "name": "Climb & Conquer Tower",
+      "short_description": "An impressive indoor climbing structure with varying difficulty levels suitable for different age groups. Challenges physical agility and builds confidence.",
+      "subtype": "Indoor Play Centers",
+      "address": "Sport & Recreation Complex, Atar, Mauritania",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1556910607-b3f548d1d8a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwaW5kb29yJTIwY2xpbWJpbmclMjBzdHJ1Y3R1cmV8ZW58MHx8MXx8MTcxNzM2MzI2M3ww&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "climbing",
+        "adventure",
+        "physical challenge"
+      ]
+    },
+    {
+      "id": "IPC004",
+      "name": "Bounce House Bliss",
+      "short_description": "Multiple indoor trampolines and bouncy castles where kids can jump, flip, and burn off energy in a supervised and padded environment. Fun for all ages.",
+      "subtype": "Indoor Play Centers",
+      "address": "Atar Entertainment Palace, Boulevard de la Culture, Atar, Mauritania",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596773345479-ec0a5e2f796d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwdHJhbXBvbGluZXxlbnwwfHwxfHwxNzE3MzYxNDAwfDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "trampolines",
+        "bouncy castle",
+        "energetic play"
+      ]
+    },
+    {
+      "id": "TPK001",
+      "name": "Adrar Junior Funland",
+      "short_description": "A compact theme park featuring gentle rides, playful attractions, and themed zones designed specifically for younger children. Safe and enchanting fun.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Atar Peripheral Road, Route N1, Atar, Mauritania",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1506543884394-b25866164d14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwdGhlbWUlMjBwYXJrfHwyfHx8fHwyfDE3MTczNjE0OTB8&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "theme park",
+        "rides",
+        "family destination"
+      ]
+    },
+    {
+      "id": "TPK002",
+      "name": "Oasis Splash Water Park",
+      "short_description": "A refreshing water park with slides, splash pads, and shallow pools suitable for children of all ages. Perfect for beating the desert heat.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Near Atar Beach (artificial), Atar, Mauritania",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1528659556845-a48f7d98305c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwd2F0ZXIlMjBwYXJrfHwyfHx8fHwyfDE3MTczNjE1MTd8&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water park",
+        "slides",
+        "summer fun"
+      ]
+    },
+    {
+      "id": "TPK003",
+      "name": "Mini Mauritania Village",
+      "short_description": "Explore a miniature village showcasing famous Mauritanian landmarks and traditional life scaled down for children. Educational and visually captivating.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Atar Heritage Park, Route de l'Ancienne Ville, Atar, Mauritania",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1522079010074-dd1f3ce37604?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwbWluaWF0dXJlJTIwaG91c2VzfHwxMnx8fHwyfDE3MTczNjMzODl8&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "miniature",
+        "culture",
+        "education"
+      ]
+    },
+    {
+      "id": "TPK004",
+      "name": "Dinosaur Desert Safari",
+      "short_description": "Travel back in time to a land of animatronic dinosaurs and prehistoric landscapes. An exciting and educational safari adventure for dinosaur enthusiasts.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Atar Prehistoric Park, Adrar Mountains foothills, Atar, Mauritania",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1533267073-1081a2810ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwZGlub3NhdXIlMjBwYXJrfHwyfHx8fHwyfDE3MTczNjE1OTZ8&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "dinosaurs",
+        "safari",
+        "adventure"
+      ]
+    },
+    {
+      "id": "CHM001",
+      "name": "Atar Discovery Hub",
+      "short_description": "An interactive children's museum where kids can explore various themed zones like a mini-market, construction area, and art studio. Learning through play is key.",
+      "subtype": "Children’s Museums",
+      "address": "Atar City Center, Avenue de l'Unité, Atar, Mauritania",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601614051016-17c1a852b75f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwY2hpbGRyZW4lMjBtdXNldW18ZW58MHx8MXx8MTcxNzM2MzQzMXww&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "interactive",
+        "learning",
+        "discovery"
+      ]
+    },
+    {
+      "id": "CHM002",
+      "name": "Little Scientists Lab",
+      "short_description": "Engage in hands-on science experiments and interactive exhibits designed to spark curiosity in STEM. Kids can be geologists, chemists, and astronomers for a day.",
+      "subtype": "Children’s Museums",
+      "address": "Atar University District, Rue des Savants, Atar, Mauritania",
+      "opening_hours": "10:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1609121960241-11d8d85501fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwc2NpZW5jZSUyMGxhYnxlbnwwfHwxfHwxNzE3MzYzNDcxfDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "science",
+        "STEM",
+        "experiments"
+      ]
+    },
+    {
+      "id": "CHM003",
+      "name": "Creative Sands Art Studio",
+      "short_description": "A dedicated art space where children can unleash their creativity through painting, sculpture, and craft activities. Workshops led by local artists are available.",
+      "subtype": "Children’s Museums",
+      "address": "Artisan Quarter, Atar, Mauritania",
+      "opening_hours": "11:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582136009805-df3a404983df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwYXJ0JTIwc3R1ZGlvfGVufDB8fDB8fDE3MTczNjM1NTB8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "art",
+        "crafts",
+        "creativity"
+      ]
+    },
+    {
+      "id": "CHM004",
+      "name": "Mauritanian Journeys Exhibit",
+      "short_description": "Explore Mauritania's rich history and diverse culture through child-friendly exhibits and storytelling. Hands-on displays showcase local traditions and artifacts.",
+      "subtype": "Children’s Museums",
+      "address": "Near the Old Ksar, Atar, Mauritania",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1503892790757-b08e7e17c1e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwZGlzY292ZXJ5fGVufDB8fDB8fDE3MTczNjM3MDZ8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "culture",
+        "history",
+        "local heritage"
+      ]
+    },
+    {
+      "id": "ZOO001",
+      "name": "Atar Petting Paddock",
+      "short_description": "A charming petting zoo where children can safely interact with friendly farm animals like goats, sheep, and rabbits. Educational talks about animal care included.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Agricultural Zone, Route de Chinguetti, Atar, Mauritania",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1559981881-fb8fdd413982?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwcGV0dGluZyUyMHpvb3xlbnwwfHwxfHwxNzE3MzYxODgzfDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "animal interaction"
+      ]
+    },
+    {
+      "id": "ZOO002",
+      "name": "Mini Desert Wildlife Reserve",
+      "short_description": "A small zoo focusing on local desert wildlife, including fennec foxes, desert hares, and various reptiles. A great opportunity to learn about regional biodiversity.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Outskirts of Atar, Near Aoujeft Road, Atar, Mauritania",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1577439151528-91c6e1742416?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwbWluaSUyMHpvb3xlbnwwfHwxfHwxNzE3MzYxOTQ5fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "desert animals",
+        "local wildlife",
+        "conservation"
+      ]
+    },
+    {
+      "id": "ZOO003",
+      "name": "Atar Aviary of Songbirds",
+      "short_description": "Walk through a beautiful aviary filled with a vibrant collection of local and exotic songbirds. Listen to their melodious calls and learn about different species.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Atar Botanical Gardens, Rue des Oiseaux, Atar, Mauritania",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1591530651787-d42f5343469a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwYmlyZCUyMGF2aWFyeXxlbnwwfHwxfHwxNzE3MzYxOTU5fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "birds",
+        "aviary",
+        "nature"
+      ]
+    },
+    {
+      "id": "ZOO004",
+      "name": "Critter Corner Encounters",
+      "short_description": "Offers supervised, hands-on encounters with smaller, friendly animals like guinea pigs, tortoises, and chameleons. Learn about their habitats and care directly from keepers.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Atar Education Park, Avenue de la Connaissance, Atar, Mauritania",
+      "opening_hours": "10:30-15:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563459997107-16016e100f2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjY4Mzh8MHwxfGFsbHwxfHxraWRzJTIwYW5pbWFsJTIwZW5jb3VudGVyfGVufDB8fHwxNzE3MzYyMDQ0fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animal encounter",
+        "reptiles",
+        "education"
+      ]
+    }
+  ]
+}

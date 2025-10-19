@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Uyo",
+    "city_id": "2463"
+  },
+  "items": [
+    {
+      "id": "UAC001",
+      "name": "Uyo Art & Culture Hub",
+      "short_description": "A vibrant center showcasing contemporary Nigerian art, hosting workshops, and cultural performances in a modern, engaging space. Opened in 2021.",
+      "address": "12, Ewet Housing Estate Road, Uyo, Akwa Ibom",
+      "opening_hours": "10:00-19:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549603504-20d0f7f2b1c6?ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vZGVybiUyMGFydCUyMGdhbGxlcnl8ZW58MHx8MHx8fDA%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "art",
+        "culture",
+        "gallery"
+      ]
+    },
+    {
+      "id": "UYE002",
+      "name": "Splash & Play Family Park",
+      "short_description": "Uyo's newest family entertainment park featuring thrilling water slides, a laser tag arena, and arcade games for all ages. Opened its gates in 2022.",
+      "address": "Off Ikot Ekpene Road, near University of Uyo Annex, Uyo",
+      "opening_hours": "11:00-20:00 (Daily)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1621285090477-84f9b8c3d97f?ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHdhdGVyJTIwcGFya3xlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "family",
+        "entertainment",
+        "water park"
+      ]
+    },
+    {
+      "id": "UFC003",
+      "name": "The Gourmand's Grotto",
+      "short_description": "An upscale food court and lounge offering a diverse culinary experience from local delicacies to international cuisines, coupled with live music evenings. Established in 2020.",
+      "address": "7, Aka Road, Uyo, Akwa Ibom",
+      "opening_hours": "12:00-23:00 (Daily)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594212558564-9f430a6e5b4b?ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZvb2QlMjBjb3VydHxlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "food",
+        "dining",
+        "lounge"
+      ]
+    },
+    {
+      "id": "UNR004",
+      "name": "Green Oasis Botanical Garden",
+      "short_description": "A serene botanical garden showcasing indigenous flora, featuring winding walking trails, a butterfly garden, and peaceful picnic spots. Opened to the public in 2019.",
+      "address": "Adiabo Road, Off Oron Road, Uyo, Akwa Ibom",
+      "opening_hours": "08:00-18:00 (Daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1559139598-a1f9d2c1c3f2?ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Ym90YW5pY2FsJTIwZ2FyZGVufGVufDB8fDB8fHww%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "nature",
+        "garden",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "UEC005",
+      "name": "Zenith Grand Convention Centre",
+      "short_description": "Uyo's premier event venue, boasting state-of-the-art facilities for conferences, exhibitions, and grand social gatherings. Officially launched in 2023.",
+      "address": "15, Abak Road, Uyo, Akwa Ibom",
+      "opening_hours": "Varies by event",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1601736611388-75f1b1c6d2c4?ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y29udmVudGlvbiUyMGNlbnRyZXxlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "events",
+        "conference",
+        "architecture"
+      ]
+    },
+    {
+      "id": "UTI006",
+      "name": "Innovate Uyo Hub",
+      "short_description": "A collaborative space for tech enthusiasts and entrepreneurs, offering co-working facilities, coding bootcamps, and open innovation workshops. Established in 2021.",
+      "address": "21, Osongama Estate, Uyo, Akwa Ibom",
+      "opening_hours": "08:00-20:00 (Mon-Sat)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1552581234-26379c889f17?ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNvJTIwd29ya2luZyUyMHNwYWNlfGVufDB8fDB8fHww%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "tech",
+        "innovation",
+        "co-working"
+      ]
+    },
+    {
+      "id": "URE007",
+      "name": "Signature Mall & Arcade",
+      "short_description": "A vibrant lifestyle mall combining premium retail stores with a state-of-the-art entertainment arcade and a modern cinema complex. Opened in 2022.",
+      "address": "Oron Road, near NIPOST, Uyo, Akwa Ibom",
+      "opening_hours": "09:00-21:00 (Daily)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1556742502-3112c2901968?ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG1vZGVybiUyMHNob3BwaW5nJTIwbWFsbHxlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "shopping",
+        "entertainment",
+        "retail"
+      ]
+    },
+    {
+      "id": "UWS008",
+      "name": "The Serene Haven Wellness Centre",
+      "short_description": "An exclusive wellness retreat offering holistic spa treatments, invigorating yoga classes, and tranquil meditation gardens for ultimate relaxation and rejuvenation. Established in 2020.",
+      "address": "5, IBB Avenue, Uyo, Akwa Ibom",
+      "opening_hours": "09:00-19:00 (Mon-Sat)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1590429782522-83b0f7d5c9d1?ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8d2VsbG5lc3MlMjBjZW50cmV8ZW58MHx8MHx8fDA%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "wellness",
+        "spa",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "UCHM009",
+      "name": "Akwa Ibom Heritage House",
+      "short_description": "An interactive museum celebrating the rich history and vibrant culture of Akwa Ibom people, using modern digital exhibits and immersive storytelling. Inaugurated in 2023.",
+      "address": "Uyo-Ikot Ekpene Road, By Ring Road 3, Uyo",
+      "opening_hours": "09:00-17:00 (Tue-Sun)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1574526563604-0ce41a2f6b8a?ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fG1vZGVybiUyMG11c2V1bXxlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "history",
+        "culture",
+        "museum"
+      ]
+    },
+    {
+      "id": "UAS010",
+      "name": "Uyo Adventure Arena",
+      "short_description": "An exciting indoor adventure park featuring climbing walls, trampolines, obstacle courses, and mini-golf, perfect for active fun and parties. Opened in late 2022.",
+      "address": "18, Nwaniba Road, Uyo, Akwa Ibom",
+      "opening_hours": "10:00-21:00 (Daily)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1572948622171-8728d7a31514?ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kb29yJTIwYWR2ZW50dXJlJTIwcGFya3xlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "adventure",
+        "sports",
+        "indoor"
+      ]
+    }
+  ]
+}

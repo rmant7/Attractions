@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Calabar",
+    "city_id": "2450"
+  },
+  "items": [
+    {
+      "id": "CBLRW001",
+      "name": "Calabar Waterfront Promenade & Artisan Market",
+      "short_description": "A vibrant new riverwalk offering stunning views of the Calabar River, lined with local artisan stalls, food vendors, and performance spaces. Perfect for an evening stroll and cultural immersion.",
+      "address": "Marina Resort Road, Calabar, Cross River State",
+      "opening_hours": "08:00-22:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627572703816-7992983d95b8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "market",
+        "riverside",
+        "culture"
+      ]
+    },
+    {
+      "id": "CBLCA002",
+      "name": "Calabar Eco-Canopy Walk",
+      "short_description": "Experience the lush Calabar rainforest from a breathtaking perspective on this newly constructed canopy walk. Traverse suspended bridges high above the forest floor, spotting unique flora and fauna.",
+      "address": "Afi Mountain Wildlife Sanctuary Road (near Calabar), Cross River State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549419137-c6b7ee11a629?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "adventure",
+        "eco-tourism"
+      ]
+    },
+    {
+      "id": "CBLCB003",
+      "name": "The Calabash Bistro & Culinary Hub",
+      "short_description": "A modern culinary institute offering cooking classes on Nigerian cuisine, featuring a chic bistro serving fusion dishes. A gastronomic delight for food lovers, recently opened to celebrate local flavors.",
+      "address": "15 Eyo Ita Street, Calabar, Cross River State",
+      "opening_hours": "10:00-22:00 (Bistro), Class times vary",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1621855663675-998816c518b5?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food",
+        "culinary",
+        "restaurant"
+      ]
+    },
+    {
+      "id": "CBLDC004",
+      "name": "Calabar Kids' Discovery Land",
+      "short_description": "A state-of-the-art interactive museum designed to ignite curiosity in young minds. Features hands-on exhibits exploring science, culture, and nature, all through playful learning experiences for children.",
+      "address": "88 MCC Road, Calabar, Cross River State",
+      "opening_hours": "09:00-16:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1531557375252-09c313a21689?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "kids",
+        "education",
+        "family"
+      ]
+    },
+    {
+      "id": "CBLAG005",
+      "name": "Tinapa Art & Culture Gallery",
+      "short_description": "Showcasing contemporary Nigerian and West African art, this newly opened gallery also hosts workshops and cultural events, making it a vibrant hub for artistic expression and dialogue.",
+      "address": "Tinapa Free Trade Zone, Calabar, Cross River State",
+      "opening_hours": "10:00-18:00 (Mon-Sat)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1558591745-728b1229712a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "culture",
+        "gallery"
+      ]
+    },
+    {
+      "id": "CBLFR006",
+      "name": "The Riverview Deck (Floating Restaurant)",
+      "short_description": "Dine on the Calabar River itself at this unique floating restaurant, recently launched. Enjoy gourmet meals and cocktails with panoramic sunset views over the water, offering an unforgettable experience.",
+      "address": "Calabar River (board near Marina Resort), Calabar",
+      "opening_hours": "17:00-23:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582260651815-5e60803c6211?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dining",
+        "riverside",
+        "nightlife"
+      ]
+    },
+    {
+      "id": "CBLAP007",
+      "name": "Calabar Adrenaline Zone",
+      "short_description": "Get your pulse racing at this new adventure park featuring zip lines, high ropes courses, paintball, and rock climbing walls. Fun for teens and adults seeking a thrill and outdoor challenge.",
+      "address": "Off Airport Road, Calabar, Cross River State",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596788851410-6396e95333f0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "sports",
+        "thrill"
+      ]
+    },
+    {
+      "id": "CBLBG008",
+      "name": "The Calabar Flora Oasis",
+      "short_description": "A beautifully landscaped botanical garden, recently opened, offering a tranquil escape with diverse plant collections, walking paths, and shaded relaxation areas. Perfect for nature lovers and peaceful contemplation.",
+      "address": "22 Murtala Mohammed Highway, Calabar, Cross River State",
+      "opening_hours": "08:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533241243765-a859e2101345?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "park",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "CBLBH009",
+      "name": "Ndidem Eco-Lodge & Wellness Centre",
+      "short_description": "A sustainably built boutique lodge and spa offering luxurious comfort amidst nature. Focuses on local materials and eco-friendly practices, with rejuvenating spa treatments and serene surroundings, opened recently.",
+      "address": "Ikom-Calabar Highway (outskirts), Calabar, Cross River State",
+      "opening_hours": "24/7 (for guests), 09:00-20:00 (Spa)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563911302523-26a978c4375a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wellness",
+        "eco-friendly",
+        "luxury"
+      ]
+    },
+    {
+      "id": "CBLDS010",
+      "name": "Calabar Digital Heritage Centre",
+      "short_description": "Explore Calabar's rich history and diverse cultures through immersive digital exhibits, virtual reality experiences, and interactive displays in this cutting-edge museum, launched in the last five years.",
+      "address": "5 Duke Town Road, Calabar, Cross River State",
+      "opening_hours": "10:00-17:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1554988775-6e4693175416?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "history",
+        "digital",
+        "culture"
+      ]
+    }
+  ]
+}

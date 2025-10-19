@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Mombasa",
+    "city_id": "2437"
+  },
+  "items": [
+    {
+      "id": "Lego_001",
+      "name": "Nyali Brickopolis",
+      "short_description": "Dive into a world of endless building possibilities, featuring giant Lego sculptures and interactive construction zones for all ages.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Links Road, Nyali, Mombasa",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596706037001-c91836248d61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "Lego",
+        "building",
+        "creative play"
+      ]
+    },
+    {
+      "id": "Lego_002",
+      "name": "Bamburi Build & Play Zone",
+      "short_description": "A creative hub where kids can design, build, and test their Lego creations, complete with racing ramps and architectural challenges.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Bamburi Beach Road, Bamburi, Mombasa",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563212620-802c6115df60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "Lego",
+        "play zone",
+        "construction"
+      ]
+    },
+    {
+      "id": "Lego_003",
+      "name": "Mombasa Master Builder Academy",
+      "short_description": "Offers structured workshops and free play sessions, encouraging problem-solving and imaginative storytelling through Lego.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Moi Avenue, Mombasa CBD",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582046808794-52a16d56d15b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "Lego workshops",
+        "education",
+        "creativity"
+      ]
+    },
+    {
+      "id": "Lego_004",
+      "name": "Shanzu Stacking Station",
+      "short_description": "A vibrant park where children can explore massive Lego art installations and participate in collaborative building projects.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Shanzu Road, Shanzu, Mombasa",
+      "opening_hours": "09:30-18:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1594921915993-9d10738a1a36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "Lego art",
+        "interactive",
+        "family fun"
+      ]
+    },
+    {
+      "id": "Indoor_001",
+      "name": "Tots Tropical Tumble",
+      "short_description": "A multi-level soft play area designed for younger children, featuring slides, ball pits, and safe climbing structures.",
+      "subtype": "Indoor Play Centers",
+      "address": "City Mall, Nyali, Mombasa",
+      "opening_hours": "09:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1558509355-d14fb619207e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "soft play",
+        "toddler friendly",
+        "indoor playground"
+      ]
+    },
+    {
+      "id": "Indoor_002",
+      "name": "Kilifi Coast Climbers",
+      "short_description": "An adventurous indoor playground with challenging climbing walls, obstacle courses, and thrilling zip lines for older kids.",
+      "subtype": "Indoor Play Centers",
+      "address": "Mtwapa-Malindi Road, Mtwapa, Kilifi",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549411984-750f2ff47e19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "climbing",
+        "adventure",
+        "older kids"
+      ]
+    },
+    {
+      "id": "Indoor_003",
+      "name": "Pirate's Cove Playland",
+      "short_description": "Sail into fun with a pirate-themed indoor playground, complete with ship-shaped structures, cannonball launchers, and secret tunnels.",
+      "subtype": "Indoor Play Centers",
+      "address": "Digo Road, Mombasa CBD",
+      "opening_hours": "09:30-18:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579758801931-1554d3204ec5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "themed play",
+        "pirates",
+        "imagination"
+      ]
+    },
+    {
+      "id": "Indoor_004",
+      "name": "Funky Monkey Jungle Gym",
+      "short_description": "An energetic play center offering trampoline zones, a dedicated toddler area, and interactive game stations.",
+      "subtype": "Indoor Play Centers",
+      "address": "Mkomani Road, Nyali, Mombasa",
+      "opening_hours": "10:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620857329598-a6d96735e5d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "trampolines",
+        "toddler zone",
+        "active play"
+      ]
+    },
+    {
+      "id": "Fairy_001",
+      "name": "Enchanted Nyali Forest",
+      "short_description": "Wander through magical pathways, discover hidden gnome homes, and meet beloved fairy tale characters in a lush, whimsical setting.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Old Malindi Road, Nyali, Mombasa",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1553531384-fd2e85493026?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "fairy tales",
+        "fantasy",
+        "nature walks"
+      ]
+    },
+    {
+      "id": "Fairy_002",
+      "name": "Mombasa Mythic Meadows",
+      "short_description": "Explore sprawling gardens where stories come to life, featuring giant storybooks, character statues, and interactive storytelling sessions.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Makadara Road, Mombasa",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621255152331-5f21295b90f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "storytelling",
+        "gardens",
+        "mythology"
+      ]
+    },
+    {
+      "id": "Fairy_003",
+      "name": "Shanzu Storybook Gardens",
+      "short_description": "A beautifully landscaped park celebrating classic fables, with themed play areas and charming structures inspired by popular tales.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Shanzu Beach Road, Shanzu, Mombasa",
+      "opening_hours": "09:00-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596541544063-e3c3b0f5923b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "storybook",
+        "landscaped",
+        "play areas"
+      ]
+    },
+    {
+      "id": "Fairy_004",
+      "name": "Prince's & Princesses Palace",
+      "short_description": "A regal experience where children can dress up, attend royal balls, and meet their favorite princes and princesses for photo opportunities.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Mzizima Road, Kizingo, Mombasa",
+      "opening_hours": "11:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1558234832-6980556c42dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "princesses",
+        "dress-up",
+        "royal"
+      ]
+    },
+    {
+      "id": "Museum_001",
+      "name": "Kilindini Kids Discovery Museum",
+      "short_description": "An interactive museum focused on local history, culture, and marine life, encouraging hands-on exploration and learning.",
+      "subtype": "Children’s Museums",
+      "address": "Old Port Road, Kilindini, Mombasa",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594917544007-9200b21a11f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "history",
+        "culture",
+        "marine life"
+      ]
+    },
+    {
+      "id": "Museum_002",
+      "name": "Mombasa Junior Inventors Hub",
+      "short_description": "Ignite curiosity with STEM-focused exhibits, a creation lab, and workshops that inspire young minds to build, experiment, and innovate.",
+      "subtype": "Children’s Museums",
+      "address": "Nyerere Avenue, Mombasa",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1550993955-7d4e3e3b7b30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "STEM",
+        "science",
+        "innovation"
+      ]
+    },
+    {
+      "id": "Museum_003",
+      "name": "Swahili Coast Children's Gallery",
+      "short_description": "A vibrant space celebrating Swahili heritage through art, music, traditional games, and storytelling for children of all ages.",
+      "subtype": "Children’s Museums",
+      "address": "Fort Jesus Road, Mombasa Old Town",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1620959419137-7f97b539a489?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "culture",
+        "art",
+        "Swahili heritage"
+      ]
+    },
+    {
+      "id": "Museum_004",
+      "name": "Ocean Explorers Learning Center",
+      "short_description": "Dive deep into marine biology and conservation with engaging exhibits, virtual reality experiences, and a touch tank for sea creatures.",
+      "subtype": "Children’s Museums",
+      "address": "Mama Ngina Drive, Mombasa",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1621255018334-0d94f72f0992?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "marine biology",
+        "conservation",
+        "interactive"
+      ]
+    },
+    {
+      "id": "Circus_001",
+      "name": "Jambo Puppet Playhouse",
+      "short_description": "Experience enchanting tales brought to life by talented puppeteers, featuring traditional African folklore and modern stories.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Haile Selassie Avenue, Mombasa",
+      "opening_hours": "14:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596280453303-9d48b16a2d24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "puppet show",
+        "storytelling",
+        "African folklore"
+      ]
+    },
+    {
+      "id": "Circus_002",
+      "name": "Mombasa Magic Tent Circus",
+      "short_description": "A family-friendly circus under the big top, showcasing acrobats, clowns, magicians, and thrilling performances.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Nyali Barracks Grounds, Nyali, Mombasa",
+      "opening_hours": "18:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1625807987220-4050516e8b4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "circus",
+        "acrobatics",
+        "magic"
+      ]
+    },
+    {
+      "id": "Circus_003",
+      "name": "Coastal Clowns & Characters",
+      "short_description": "Enjoy lively clown acts, mime performances, and meet-and-greet sessions with colorful characters in a festive atmosphere.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Mama Ngina Waterfront, Mombasa",
+      "opening_hours": "16:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1588667341883-cf2d7b1d98a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "clowns",
+        "street performers",
+        "family entertainment"
+      ]
+    },
+    {
+      "id": "Circus_004",
+      "name": "Marionette Mirage Theater",
+      "short_description": "A unique theater dedicated to intricate marionette shows, telling captivating stories with beautifully crafted wooden puppets.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Dedan Kimathi Avenue, Mombasa",
+      "opening_hours": "15:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522204523234-8729aa6ed03d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "marionettes",
+        "theater",
+        "puppet art"
+      ]
+    },
+    {
+      "id": "Dino_001",
+      "name": "Jurassic Coast Mombasa",
+      "short_description": "Walk among life-sized animatronic dinosaurs, explore excavation sites, and learn about the prehistoric world.",
+      "subtype": "Dinosaur Parks",
+      "address": "Malindi Road, Bamburi, Mombasa",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1601057421946-eb3ef258ae90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "dinosaurs",
+        "animatronics",
+        "prehistoric"
+      ]
+    },
+    {
+      "id": "Dino_002",
+      "name": "Dino Discovery Dunes",
+      "short_description": "An interactive park where kids can dig for fossils, ride on friendly dinosaur replicas, and navigate through a prehistoric maze.",
+      "subtype": "Dinosaur Parks",
+      "address": "Shanzu Road, Shanzu, Mombasa",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/5623670/pexels-photo-5623670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "fossil hunt",
+        "dino rides",
+        "interactive"
+      ]
+    },
+    {
+      "id": "Dino_003",
+      "name": "Prehistoric Playland Nyali",
+      "short_description": "Combines playground fun with dinosaur themes, featuring dino-themed slides, swings, and educational exhibits.",
+      "subtype": "Dinosaur Parks",
+      "address": "Links Road, Nyali, Mombasa",
+      "opening_hours": "09:30-18:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616422774944-f89a24445217?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "dino playground",
+        "slides",
+        "education"
+      ]
+    },
+    {
+      "id": "Dino_004",
+      "name": "Mombasa Mesozoic Mile",
+      "short_description": "A walking trail showcasing different dinosaur eras, with informative displays and realistic sound effects to transport visitors back in time.",
+      "subtype": "Dinosaur Parks",
+      "address": "Port Reitz Road, Changamwe, Mombasa",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Dinosaur_Park_Tyrol_01.jpg",
+      "tags": [
+        "walking trail",
+        "dino replicas",
+        "immersive"
+      ]
+    },
+    {
+      "id": "Farm_001",
+      "name": "Bamburi Butterfly & Farm Sanctuary",
+      "short_description": "A serene sanctuary combining a vibrant butterfly garden with a small farm where children can interact with friendly farm animals.",
+      "subtype": "Farm Attractions",
+      "address": "Haller Park Road, Bamburi, Mombasa",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510443588720-30238804822f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "petting zoo",
+        "butterfly garden",
+        "farm animals"
+      ]
+    },
+    {
+      "id": "Farm_002",
+      "name": "Shanzu Mini-Farm Fun",
+      "short_description": "Offers hands-on experiences like feeding chickens, collecting eggs, and learning about sustainable farming practices in a fun environment.",
+      "subtype": "Farm Attractions",
+      "address": "Shanzu Mtwapa Road, Shanzu, Mombasa",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1543323062-a279261ed1f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "mini farm",
+        "animal feeding",
+        "educational"
+      ]
+    },
+    {
+      "id": "Farm_003",
+      "name": "Mombasa Country Kids",
+      "short_description": "A rustic farm experience with pony rides, tractor tours, and a children's garden where they can plant and harvest vegetables.",
+      "subtype": "Farm Attractions",
+      "address": "Kona Mbaya Road, Utange, Mombasa",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/3382405/pexels-photo-3382405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "pony rides",
+        "tractor tours",
+        "gardening"
+      ]
+    },
+    {
+      "id": "Farm_004",
+      "name": "Goat & Grain Gardens",
+      "short_description": "A quaint farm focusing on goats and grain cultivation, with opportunities for children to milk goats and learn about crop cycles.",
+      "subtype": "Farm Attractions",
+      "address": "Likoni-Ukunda Road, Likoni, Mombasa",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582239474708-54c730e7ed87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "goats",
+        "agriculture",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "Cartoon_001",
+      "name": "Toon Town Mombasa",
+      "short_description": "Step into a vibrant world where your favorite cartoon characters roam, offering daily meet-and-greets and photo opportunities.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Nyali Centre, Nyali, Mombasa",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1559288151-c0373c24ae60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "cartoon characters",
+        "meet & greet",
+        "photo ops"
+      ]
+    },
+    {
+      "id": "Cartoon_002",
+      "name": "Character Coastline Plaza",
+      "short_description": "A lively entertainment venue featuring interactive shows, character parades, and special themed events with popular cartoon heroes.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Moi Avenue, Mombasa CBD",
+      "opening_hours": "12:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627993072213-94c3c3937175?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "character parade",
+        "live shows",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "Cartoon_003",
+      "name": "Animated Safari Spot",
+      "short_description": "Meet safari-themed cartoon characters in a fun, educational setting, learning about wildlife with your animated friends.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Bamburi Road, Bamburi, Mombasa",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616788625906-4b21901c8a00?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "safari theme",
+        "educational",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "Cartoon_004",
+      "name": "Fantasy Friends Fair",
+      "short_description": "A magical fairground setting where fairy tale and cartoon characters mingle, offering games, treats, and personalized greetings.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Mkomani Road, Nyali, Mombasa",
+      "opening_hours": "14:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1560946761-12c8230537f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "fairground",
+        "fantasy characters",
+        "games"
+      ]
+    },
+    {
+      "id": "Zoo_001",
+      "name": "Mombasa Eco-Zoo & Conservation Center",
+      "short_description": "Dedicated to showcasing East African wildlife and promoting conservation, with spacious enclosures and educational programs.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Mwakirunge Road, Kiembeni, Mombasa",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1562217523-2883015b6352?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "eco-friendly"
+      ]
+    },
+    {
+      "id": "Zoo_002",
+      "name": "Nyali Petting Paddock",
+      "short_description": "A gentle petting zoo where children can safely interact with domestic animals like lambs, rabbits, and guinea pigs.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Links Road, Nyali, Mombasa",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/5431665/pexels-photo-5431665.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "petting zoo",
+        "domestic animals",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "Zoo_003",
+      "name": "Coastal Critter Corner",
+      "short_description": "A charming small zoo featuring coastal birds, reptiles, and smaller mammals indigenous to the Kenyan coastline.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Likoni Road, Likoni, Mombasa",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563725703814-1e528a1c97a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "coastal wildlife",
+        "reptiles",
+        "birds"
+      ]
+    },
+    {
+      "id": "Zoo_004",
+      "name": "Wild Wonders Walkthrough",
+      "short_description": "An immersive experience allowing visitors to walk through natural habitats, observing animals in semi-open enclosures.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Mombasa-Malindi Highway, Mtwapa, Kilifi",
+      "opening_hours": "08:30-16:30",
+      "price_level": "expensive",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/41/Lemur_Forest_walk-through_at_Chester_Zoo_-_panoramio.jpg",
+      "tags": [
+        "walkthrough zoo",
+        "immersive",
+        "nature"
+      ]
+    },
+    {
+      "id": "Water_001",
+      "name": "Aqua Splash Mombasa",
+      "short_description": "A thrilling water park offering giant slides, a wave pool, and dedicated splash pads for toddlers, perfect for cooling off.",
+      "subtype": "Water Parks for Kids",
+      "address": "Malindi Road, Bamburi, Mombasa",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522079088619-3226a273b064?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "water slides",
+        "wave pool",
+        "splash pad"
+      ]
+    },
+    {
+      "id": "Water_002",
+      "name": "Nyali Wave Riders",
+      "short_description": "Features state-of-the-art surf simulators, a lazy river, and interactive water playgrounds for adventurous kids and families.",
+      "subtype": "Water Parks for Kids",
+      "address": "Links Road, Nyali, Mombasa",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.pexels.com/photos/5210332/pexels-photo-5210332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "surf simulator",
+        "lazy river",
+        "water playground"
+      ]
+    },
+    {
+      "id": "Water_003",
+      "name": "Tropical Tides Water Park",
+      "short_description": "A lush, tropical-themed water park with multiple pools, water cannons, and a giant tipping bucket for endless splashing fun.",
+      "subtype": "Water Parks for Kids",
+      "address": "Shanzu Road, Shanzu, Mombasa",
+      "opening_hours": "09:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/4774653/pexels-photo-4774653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "tropical theme",
+        "water cannons",
+        "tipping bucket"
+      ]
+    },
+    {
+      "id": "Water_004",
+      "name": "Dolphin Dash Waterland",
+      "short_description": "A marine-themed water park with dolphin-shaped slides, a dedicated children's lagoon, and supervised water games.",
+      "subtype": "Water Parks for Kids",
+      "address": "Mama Ngina Drive, Mombasa",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1581456955743-c07a3c3e5366?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "marine theme",
+        "dolphin slides",
+        "kids lagoon"
+      ]
+    }
+  ]
+}

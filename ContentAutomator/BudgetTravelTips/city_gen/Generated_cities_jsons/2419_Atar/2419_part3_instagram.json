@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Atar",
+    "city_id": "2419"
+  },
+  "items": [
+    {
+      "id": "ERG_AMAT_SEA",
+      "name": "The Golden Sea of Erg Amatlich",
+      "short_description": "Witness the endless ocean of golden sand dunes, resembling a vast, tranquil sea in the heart of the Adrar. Perfect for sunrise and sunset photography.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Erg Amatlich, Adrar Plateau",
+      "best_time": "Sunrise / Sunset",
+      "images": "https://images.unsplash.com/photo-1601614725350-fdd7c1815b81?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "desert dunes",
+        "vast landscapes",
+        "golden hour"
+      ]
+    },
+    {
+      "id": "TERJIT_SHORES",
+      "name": "Terjit Oasis Desert Shores",
+      "short_description": "Discover the surprising beauty of Terjit Oasis, where lush palms meet clear, spring-fed pools. A verdant haven offering a unique 'coastal' feel in the desert.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Terjit Oasis, near Atar",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oasis_de_Terjit_%28Mauritanie%29.jpg/1280px-Oasis_de_Terjit_%28Mauritanie%29.jpg",
+      "tags": [
+        "oasis life",
+        "desert springs",
+        "palm trees"
+      ]
+    },
+    {
+      "id": "WADI_CHING_SAND",
+      "name": "Wadi Chinguetti's Shimmering Sands",
+      "short_description": "Explore the expansive dry riverbed of Wadi Chinguetti, where ancient pathways and vast stretches of sand evoke a sense of timelessness, especially at sunset.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Wadi Chinguetti, Adrar",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sand_dunes_and_wadi_near_Chinguetti.jpg/1280px-Sand_dunes_and_wadi_near_Chinguetti.jpg",
+      "tags": [
+        "desert wadi",
+        "ancient routes",
+        "sandscapes"
+      ]
+    },
+    {
+      "id": "ADRAR_PANORAMA",
+      "name": "Adrar Plateau's Horizon View",
+      "short_description": "Ascend to a high point on the Adrar Plateau for breathtaking panoramic views, where the desert horizon stretches like an endless, sandy ocean.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Adrar Plateau outskirts",
+      "best_time": "Morning / Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mauritania_-_Adrar_desert_landscape.jpg/1280px-Mauritania_-_Adrar_desert_landscape.jpg",
+      "tags": [
+        "plateau views",
+        "desert vistas",
+        "vast horizons"
+      ]
+    },
+    {
+      "id": "ATAR_SOUK_TAP",
+      "name": "Atar Grand Souk's Living Tapestry",
+      "short_description": "Immerse yourself in the bustling Grand Souk, a vibrant cultural installation where local crafts, spices, and conversations create a lively sensory experience.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Atar City Center",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/March%C3%A9_d%27Atar_%28Mauritanie%29.jpg/1280px-March%C3%A9_d%27Atar_%28Mauritanie%29.jpg",
+      "tags": [
+        "local market",
+        "mauritanian culture",
+        "artisanal crafts"
+      ]
+    },
+    {
+      "id": "NOMAD_HERIT_CAMP",
+      "name": "The Nomadic Heritage Camp",
+      "short_description": "Experience an immersive cultural setup featuring traditional Mauritanian tents, music, and storytelling, offering a glimpse into nomadic desert life.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Desert outskirts of Atar",
+      "best_time": "Afternoon / Night",
+      "images": "https://images.unsplash.com/photo-1627997086884-6338b72e5c80?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "bedouin culture",
+        "desert camp",
+        "traditional lifestyle"
+      ]
+    },
+    {
+      "id": "ADRAR_ROCK_ART",
+      "name": "Adrar Rock Art Interpretive Gallery",
+      "short_description": "An outdoor installation showcasing ancient rock carvings and paintings found in the Adrar region, telling stories of prehistoric desert inhabitants.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Adrar Plateau foothills",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Chinguetti_ancient_engravings.jpg/1280px-Chinguetti_ancient_engravings.jpg",
+      "tags": [
+        "ancient history",
+        "rock art",
+        "desert heritage"
+      ]
+    },
+    {
+      "id": "KSAR_ARTS_HUB",
+      "name": "Ksar Arts & Crafts Hub",
+      "short_description": "A dedicated space in Atar's old town, where local artisans demonstrate traditional crafts like leatherwork and weaving, often displaying their creations.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Old Atar Quarter",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Artisan_Mauritanien.jpg/1280px-Artisan_Mauritanien.jpg",
+      "tags": [
+        "local crafts",
+        "artisan workshop",
+        "cultural experience"
+      ]
+    },
+    {
+      "id": "ADRAR_ECOLODGE_POOL",
+      "name": "Adrar Eco-Lodge Infinity Pool",
+      "short_description": "A stunning infinity pool at an exclusive eco-lodge, offering breathtaking views of the surrounding palm groves and desert landscape, merging water with horizon.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Desert outskirts, near an oasis",
+      "best_time": "Afternoon / Sunset",
+      "images": "https://images.unsplash.com/photo-1549488344-f64f14124976?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "luxury escape",
+        "desert resort",
+        "panoramic views"
+      ]
+    },
+    {
+      "id": "DUNEVIEW_RETREAT_POOL",
+      "name": "Duneview Desert Retreat Infinity Pool",
+      "short_description": "Perched on the edge of rolling dunes, this infinity pool provides an illusion of endless water merging directly into the vast, golden desert.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Erg Amatlich border",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1563911302484-ac2841da943e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "desert luxury",
+        "sunset swim",
+        "dune views"
+      ]
+    },
+    {
+      "id": "CHING_STARGAZER_POOL",
+      "name": "Chinguetti Stargazer Infinity Pool",
+      "short_description": "An innovative infinity pool designed for celestial viewing, where the water reflects the incredible desert night sky, creating a truly magical experience.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Near Chinguetti (short drive from Atar)",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1579752671569-809c91b8d273?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "stargazing",
+        "night photography",
+        "desert magic"
+      ]
+    },
+    {
+      "id": "PLATEAU_RIM_DIP",
+      "name": "Adrar Plateau Rim Infinity Dip",
+      "short_description": "Imagine a secluded infinity pool carved into the edge of the Adrar Plateau, offering unparalleled views of the vast desert expanse below.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Adrar Plateau (secluded spot)",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1621644026330-81df5a7f9b87?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cliffside pool",
+        "epic views",
+        "desert oasis"
+      ]
+    },
+    {
+      "id": "OLD_ATAR_EARTH",
+      "name": "Old Atar's Earth Tones District",
+      "short_description": "Wander through the historic quarter, where buildings proudly display shades of ochre, terracotta, and sand, reflecting the desert's natural palette.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Old Atar Quarter",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ksar_de_Chinguetti_-_Maison_ancienne.jpg/1280px-Ksar_de_Chinguetti_-_Maison_ancienne.jpg",
+      "tags": [
+        "traditional architecture",
+        "desert colors",
+        "historic charm"
+      ]
+    },
+    {
+      "id": "ARTISAN_ALLEYS",
+      "name": "Artisanal Alleyways of Atar Souk",
+      "short_description": "Beyond the main market, discover narrow alleys where workshops and storefronts burst with colorful textiles, pottery, and vibrant goods against sand-colored walls.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Atar Grand Souk surroundings",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1547942701-d85c80880e69?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "souk exploration",
+        "textile art",
+        "local vibrancy"
+      ]
+    },
+    {
+      "id": "OASIS_PAINT_PALETTE",
+      "name": "Desert Oasis Paint Palette",
+      "short_description": "A charming, imagined district near an oasis where homes are painted in gentle, sun-faded pastels, contrasting beautifully with the deep green palms and golden sands.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Terjit Oasis village",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1563231365-bbd49a46327e?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "oasis village",
+        "pastel homes",
+        "charming streets"
+      ]
+    },
+    {
+      "id": "SUNRISE_GATE_DISTRICT",
+      "name": "Sunrise Gate District",
+      "short_description": "This district, leading to the ancient parts of Atar, features doorways and accents in deep blues and greens, said to ward off evil and welcome the morning sun.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Eastern Atar Old Town",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1574229971939-7756f7ef07b8?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "traditional doors",
+        "cultural symbolism",
+        "morning light"
+      ]
+    },
+    {
+      "id": "ADRAR_STORY_WALLS",
+      "name": "Adrar Story Walls",
+      "short_description": "Large-scale murals across public walls in Atar depicting historical events, local legends, and the journey of nomadic tribes across the Adrar desert.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Atar City Walls / Main thoroughfares",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582294101168-3d2371905330?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "public art",
+        "desert history",
+        "local legends"
+      ]
+    },
+    {
+      "id": "OASIS_LIFE_GALLERY",
+      "name": "Oasis Life Gallery",
+      "short_description": "Vibrant murals celebrating the flora, fauna, and human connection to water in Mauritania's oases, bringing splashes of green and blue to the city's palette.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near Terjit Oasis entrance / Atar's park areas",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1620603780517-3866632f5f19?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature art",
+        "oasis ecosystem",
+        "community art"
+      ]
+    },
+    {
+      "id": "NOMAD_SCROLL_MURAL",
+      "name": "Desert Nomadic Scroll Mural",
+      "short_description": "A sprawling, continuous mural depicting the nomadic journey, its challenges, and resilience, using traditional patterns and contemporary artistic styles.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Main Road into Atar",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1601007421873-40c2182c1613?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cultural narrative",
+        "nomadic art",
+        "urban canvas"
+      ]
+    },
+    {
+      "id": "CHING_CALLIG_MURAL",
+      "name": "Chinguetti Calligraphy Mural",
+      "short_description": "An artistic installation inspired by the ancient manuscripts of Chinguetti, featuring large-scale Arabic calligraphy and traditional patterns on old town walls.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Atar's historic quarter / Near library",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1517457493035-46aa31a5a8f4?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "arabic script",
+        "ancient knowledge",
+        "public art"
+      ]
+    },
+    {
+      "id": "RICHAT_STRUCTURE",
+      "name": "The Eye of Africa (Richat Structure)",
+      "short_description": "A colossal, circular geological formation visible from space, often called 'The Eye of Africa,' offering a truly unique and mysterious natural spectacle.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Adrar Region (best viewed from air)",
+      "best_time": "Daytime (aerial)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Richat_Structure_%28Eye_of_the_Sahara%29.jpg/1280px-Richat_Structure_%28Eye_of_the_Sahara%29.jpg",
+      "tags": [
+        "geological marvel",
+        "sahara mystery",
+        "aerial views"
+      ]
+    },
+    {
+      "id": "TERJIT_GROTTO",
+      "name": "Terjit Oasis Grotto & Springs",
+      "short_description": "Explore the hidden grottoes and natural springs within the Terjit Oasis, a breathtaking contrast of lush greenery and ancient rock formations in the arid desert.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Terjit Oasis, near Atar",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oasis_de_Terjit_%28Mauritanie%29.jpg/1280px-Oasis_de_Terjit_%28Mauritanie%29.jpg",
+      "tags": [
+        "desert oasis",
+        "natural springs",
+        "rock formations"
+      ]
+    },
+    {
+      "id": "AMATLICH_SING_DUNES",
+      "name": "Erg Amatlich Singing Dunes",
+      "short_description": "Experience the rare phenomenon of 'singing dunes' in Erg Amatlich, where shifting sands create deep, resonant sounds, a truly magical desert experience.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Erg Amatlich, Adrar Plateau",
+      "best_time": "Afternoon / Sunset",
+      "images": "https://images.unsplash.com/photo-1601614725350-fdd7c1815b81?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sonic dunes",
+        "desert phenomena",
+        "natural soundscape"
+      ]
+    },
+    {
+      "id": "WHITE_VALLEY_MOON",
+      "name": "White Valley Moonscape",
+      "short_description": "Discover a surreal landscape of pale, eroded rock formations and chalky canyons that resemble a lunar surface, providing a striking contrast to the typical golden desert.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Adrar Plateau (specific area)",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Landscape_in_Adrar%2C_Mauritania.jpg/1280px-Landscape_in_Adrar%2C_Mauritania.jpg",
+      "tags": [
+        "lunar landscape",
+        "geological formations",
+        "desert canyons"
+      ]
+    },
+    {
+      "id": "ATAR_DESERT_INST",
+      "name": "Atar Desert Institute",
+      "short_description": "A striking example of modern desert architecture, this institute features clean lines, sustainable design, and local materials, blending seamlessly with the arid surroundings.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Atar outskirts",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1628173436402-15f1118182b8?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sustainable design",
+        "desert aesthetic",
+        "contemporary art"
+      ]
+    },
+    {
+      "id": "ADRAR_GATEWAY",
+      "name": "Adrar Gateway Pavilion",
+      "short_description": "A sleek, minimalist pavilion serving as a welcome center, its geometric forms and shaded courtyards offer a cool respite and modern architectural beauty.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Entrance to Adrar Plateau routes",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1518177573673-c6b71f924d55?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "minimalist design",
+        "desert innovation",
+        "architectural landmark"
+      ]
+    },
+    {
+      "id": "SAHARA_ECO_DOME",
+      "name": "Sahara Eco-Dome Retreat",
+      "short_description": "Futuristic and eco-conscious domes designed for minimal environmental impact, offering unique desert living with panoramic views and sustainable features.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Secluded desert location",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1594895687798-f5d72f5207c4?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sustainable living",
+        "futuristic design",
+        "desert retreat"
+      ]
+    },
+    {
+      "id": "OASIS_SKY_DECK",
+      "name": "Oasis Sky Observation Deck",
+      "short_description": "A contemporary structure offering elevated views over an oasis and the vast desert, designed with sleek lines and open spaces to connect visitors with the landscape.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Near a major oasis viewpoint",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1502479483120-1b77174624b4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "panoramic deck",
+        "desert views",
+        "architectural viewpoint"
+      ]
+    },
+    {
+      "id": "CHING_LIB_STEPS",
+      "name": "Chinguetti's Ancient Library Steps",
+      "short_description": "Ascend the weathered stone steps leading to the historic manuscript libraries of Chinguetti, a journey through centuries of scholarly desert heritage.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Chinguetti Old Town (near Atar)",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Maison_de_Chinguetti_-_biblioth%C3%A8que_Coranique.jpg/1280px-Maison_de_Chinguetti_-_biblioth%C3%A8que_Coranique.jpg",
+      "tags": [
+        "ancient pathways",
+        "historical steps",
+        "unesco site"
+      ]
+    },
+    {
+      "id": "TERJIT_PALM_STAIR",
+      "name": "Terjit Oasis Palm Stairway",
+      "short_description": "Follow the winding stone and earth steps through the lush Terjit Oasis, surrounded by towering palm trees, leading to hidden springs and tranquil pools.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Terjit Oasis",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oasis_de_Terjit_%28Mauritanie%29.jpg/1280px-Oasis_de_Terjit_%28Mauritanie%29.jpg",
+      "tags": [
+        "oasis exploration",
+        "natural trails",
+        "palm groves"
+      ]
+    },
+    {
+      "id": "ADRAR_CANYON_TRAIL",
+      "name": "Adrar Canyon Ancient Trail",
+      "short_description": "Trek along ancient paths carved into the stunning canyons of the Adrar Plateau, revealing dramatic geological formations and breathtaking desert vistas.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Adrar Plateau canyons",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1616039535311-57d6929e4726?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "desert trekking",
+        "canyon views",
+        "historical routes"
+      ]
+    },
+    {
+      "id": "AMATLICH_DUNE_ASCENT",
+      "name": "Erg Amatlich Dune Summit Ascent",
+      "short_description": "The challenging yet rewarding 'path' of footprints leading to the crest of a towering Erg Amatlich dune, offering unparalleled 360-degree desert panoramas.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Erg Amatlich",
+      "best_time": "Sunrise / Sunset",
+      "images": "https://images.unsplash.com/photo-1528646014457-b08e70a79053?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sand dunes",
+        "desert adventure",
+        "panoramic hikes"
+      ]
+    },
+    {
+      "id": "ATAR_GRAND_MOSQUE",
+      "name": "The Grand Mosque of Atar",
+      "short_description": "The city's spiritual and architectural heart, this historic mosque with its distinctive minaret is a prominent landmark, especially beautiful at prayer times.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Atar City Center",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Minaret_de_la_mosqu%C3%A9e_d%27Atar.jpg/1280px-Minaret_de_la_mosqu%C3%A9e_d%27Atar.jpg",
+      "tags": [
+        "islamic architecture",
+        "city landmark",
+        "historical site"
+      ]
+    },
+    {
+      "id": "CHING_ANCIENT_MIN",
+      "name": "Chinguetti's Ancient Minaret",
+      "short_description": "The iconic, square-based minaret of the Great Mosque of Chinguetti, a UNESCO World Heritage site and a striking symbol of desert Islamic architecture.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Chinguetti (short drive from Atar)",
+      "best_time": "Morning / Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mosque_of_Chinguetti.jpg/1280px-Mosque_of_Chinguetti.jpg",
+      "tags": [
+        "unesco heritage",
+        "ancient mosque",
+        "desert architecture"
+      ]
+    },
+    {
+      "id": "ADRAR_MONOLITHS",
+      "name": "Adrar Plateau Rock Monoliths",
+      "short_description": "Giant, weather-sculpted rock formations rise majestically from the desert floor on the Adrar Plateau, appearing as ancient guardians of the landscape.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Adrar Plateau (specific formations)",
+      "best_time": "Morning / Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mauritania_-_Adrar_desert_landscape.jpg/1280px-Mauritania_-_Adrar_desert_landscape.jpg",
+      "tags": [
+        "natural monument",
+        "rock formations",
+        "desert landscape"
+      ]
+    },
+    {
+      "id": "OLD_ATAR_GATE",
+      "name": "Old Atar City Gate",
+      "short_description": "A symbolic and well-preserved gate marking the entrance to Atar's historic quarter, reflecting centuries of trade and urban life in the desert.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Entrance to Old Atar",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1574229971939-7756f7ef07b8?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "historic entrance",
+        "desert city",
+        "architectural heritage"
+      ]
+    },
+    {
+      "id": "ADRAR_GLAMPING",
+      "name": "Adrar Dune Glamping Retreat",
+      "short_description": "Experience luxury under the stars in bespoke glamping tents nestled amidst the towering dunes of the Adrar, offering comfort and unparalleled desert immersion.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Erg Amatlich (secluded)",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1600858882068-15a9f3900350?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "desert glamping",
+        "luxury camping",
+        "stargazing"
+      ]
+    },
+    {
+      "id": "OASIS_ECO_LODGE",
+      "name": "Oasis Garden Eco-Lodge",
+      "short_description": "A serene eco-lodge hidden within a vibrant oasis, blending traditional design with modern sustainability, offering a tranquil escape amidst palm groves and natural springs.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Terjit Oasis",
+      "best_time": "Daytime / Night",
+      "images": "https://images.unsplash.com/photo-1590448100511-b0e50f38b2ac?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "eco-friendly stay",
+        "oasis retreat",
+        "sustainable travel"
+      ]
+    },
+    {
+      "id": "KSAR_BOUTIQUE_HOTEL",
+      "name": "Ksar Heritage Boutique Hotel",
+      "short_description": "A beautifully restored traditional ksar (fortified village house) in Atar's old town, offering an authentic yet luxurious stay steeped in local history and architecture.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Old Atar Quarter",
+      "best_time": "Afternoon / Night",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ksar_de_Chinguetti_-_Maison_ancienne.jpg/1280px-Ksar_de_Chinguetti_-_Maison_ancienne.jpg",
+      "tags": [
+        "historic hotel",
+        "traditional charm",
+        "cultural immersion"
+      ]
+    },
+    {
+      "id": "SAHARA_STAR_DOME",
+      "name": "Sahara Star-Dome Suites",
+      "short_description": "Innovative transparent dome suites that allow for incredible 360-degree views of the desert and unparalleled stargazing from the comfort of your bed.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Secluded desert area",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1629858607106-aa97a7837837?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "stargazing pods",
+        "glamour camping",
+        "unique accommodation"
+      ]
+    }
+  ]
+}

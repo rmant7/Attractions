@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Maasai Mara",
+    "city_id": "2434"
+  },
+  "items": [
+    {
+      "id": "DPS001",
+      "name": "Olare Orok Elders' Gathering Grounds",
+      "short_description": "This expansive savanna stretch, blessed by ancient acacia trees, has traditionally been a sacred gathering place for Maasai elders to connect with Enkai (God) and seek guidance for the community.",
+      "subtype": "Desert Power Sites",
+      "address": "Olare Orok Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579435427181-424b4c73f324?ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFhc2FpJTIwbWFyYXxlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "spiritual gathering",
+        "ancestral",
+        "enlightenment"
+      ]
+    },
+    {
+      "id": "DPS002",
+      "name": "Loita Plains Vision Quest Hill",
+      "short_description": "A prominent hill on the edge of the Loita Plains, offering panoramic views, where Maasai youths historically embarked on vision quests and warriors sought spiritual strength before important journeys.",
+      "subtype": "Desert Power Sites",
+      "address": "Eastern Loita Plains, Near Naboisho Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/10186987/pexels-photo-10186987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "vision quest",
+        "warrior spirit",
+        "meditation"
+      ]
+    },
+    {
+      "id": "DPS003",
+      "name": "Talek River Sacred Confluence",
+      "short_description": "The mystical meeting point of two streams flowing into the Talek River, believed to possess powerful cleansing and healing energies, used for ritual baths and blessings.",
+      "subtype": "Desert Power Sites",
+      "address": "Confluence of seasonal rivers, Talek Area, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Maasai_Mara_National_Reserve.jpg/1280px-Maasai_Mara_National_Reserve.jpg",
+      "tags": [
+        "healing waters",
+        "blessing rituals",
+        "natural power"
+      ]
+    },
+    {
+      "id": "DPS004",
+      "name": "Enkaji Sacred Fire Place",
+      "short_description": "The site of an ancient, perpetually burning fire pit, maintained by a local Maasai community, symbolizing the enduring spirit of their people and connection to their ancestors.",
+      "subtype": "Desert Power Sites",
+      "address": "Mara North Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "10:00-17:00",
+      "entry_fee": "USD 10",
+      "images": "https://images.unsplash.com/photo-1582239105436-e0f0b4d4b1a4?ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bWFhc2FpJTIwbWFyYXxlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "ancestral fire",
+        "community",
+        "endurance"
+      ]
+    },
+    {
+      "id": "BFD001",
+      "name": "Mara River Crossing of Legends",
+      "short_description": "This specific crossing point along the Mara River is not only crucial for wildlife migration but also holds historical accounts of daring Maasai tribal movements and skirmishes.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Central Mara River, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1563530349891-9e7b2f48e5b6?ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1hYXNhaS0lMjBtYWdhcmE3NzR8ZW53MHx8MHx8fDA%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "historical battle",
+        "migration route",
+        "courage"
+      ]
+    },
+    {
+      "id": "BFD002",
+      "name": "Ngama Hills Warrior Training Grounds",
+      "short_description": "A series of rugged hills where young Maasai warriors historically honed their skills, engaged in mock battles, and learned strategic defense tactics to protect their cattle and communities.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Ngama Hills, Eastern Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1546736780-8772922e92c3?ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1hYXNhaSUyMG1hcmF8ZW53MHx8MHx8fDA%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "warrior training",
+        "historical",
+        "strategy"
+      ]
+    },
+    {
+      "id": "BFD003",
+      "name": "Siana Conservancy Elder's Pact Site",
+      "short_description": "This tranquil clearing is where significant tribal treaties and peace pacts were forged between rival Maasai clans, signifying a pivot point in regional history.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Siana Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1555547466-21a719f93946?ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bWFhc2FpJTIwbWFyYXs0Nzl8ZW53MHx8MHx8fDA%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "peace treaty",
+        "tribal history",
+        "reconciliation"
+      ]
+    },
+    {
+      "id": "BFD004",
+      "name": "Ololaimutiek Ridge of Spears",
+      "short_description": "A strategic vantage point offering wide views of the plains, historically used by Maasai morans to monitor movements and engage in swift defense against cattle raiders.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Near Ololaimutiek Gate, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/5623063/pexels-photo-5623063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "defense post",
+        "warrior history",
+        "strategic outlook"
+      ]
+    },
+    {
+      "id": "MNH001",
+      "name": "Olchorro Oirowua Seclusion Point",
+      "short_description": "A secluded kopje covered in dense vegetation, known as a favored spot for Maasai Laibons (spiritual leaders) to retreat for deep meditation and profound spiritual contemplation.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Olchorro Oirowua Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "09:00-16:00 (guided access recommended)",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maasai_Mara_Lion_King_Rock.jpg/1024px-Maasai_Mara_Lion_King_Rock.jpg",
+      "tags": [
+        "meditation",
+        "spiritual retreat",
+        "laibon's sanctuary"
+      ]
+    },
+    {
+      "id": "MNH002",
+      "name": "Mara Triangle Laibon's Retreat",
+      "short_description": "A discreet, elevated area within the Mara Triangle, said to be a secret sanctuary for powerful Laibons seeking solitude and direct communion with ancestral spirits and Enkai.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Mara Triangle, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "08:00-17:00 (restricted access possible)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1579435427181-424b4c73f324?ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFhc2FpJTIwbWFyYXxlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "solitude",
+        "ancestral connection",
+        "spiritual leader"
+      ]
+    },
+    {
+      "id": "MNH003",
+      "name": "Serengeti Migration Meditation Point",
+      "short_description": "Located at a serene viewpoint overlooking the vast plains where the Great Migration passes, this spot offers a profound sense of connection to nature's cycles and encourages deep spiritual reflection.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Southern Border of Maasai Mara, Near Serengeti National Park, Kenya",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/10186987/pexels-photo-10186987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "nature meditation",
+        "reflection",
+        "migration vista"
+      ]
+    },
+    {
+      "id": "MNH004",
+      "name": "Hidden Springs of Enkai (God)",
+      "short_description": "A pristine, secluded spring nestled within a dense grove, revered as a source of pure, life-giving water directly from Enkai, used for private blessings and spiritual cleansing.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Naboisho Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "09:00-15:00 (with local guide)",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Maasai_Mara_National_Reserve.jpg/1280px-Maasai_Mara_National_Reserve.jpg",
+      "tags": [
+        "sacred spring",
+        "blessings",
+        "purity"
+      ]
+    },
+    {
+      "id": "CAS001",
+      "name": "Nkoilale Cave of Whispers",
+      "short_description": "A small, naturally formed cave whose echoes are believed to carry the whispers of ancestors, making it a sacred space for personal prayers and quiet contemplation.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Near Nkoilale Village, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maasai_Mara_Lion_King_Rock.jpg/1024px-Maasai_Mara_Lion_King_Rock.jpg",
+      "tags": [
+        "ancestral prayers",
+        "contemplation",
+        "natural sanctuary"
+      ]
+    },
+    {
+      "id": "CAS002",
+      "name": "Oloololo Escarpment Rock Shelter",
+      "short_description": "An ancient rock shelter beneath the towering Oloololo Escarpment, offering refuge and a spiritual haven, possibly used by early inhabitants and Maasai for sacred rites.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Oloololo Escarpment, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563530349891-9e7b2f48e5b6?ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1hYXNhaS0lMjBtYWdhcmE3NzR8ZW53MHx8MHx8fDA%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "ancient rites",
+        "shelter",
+        "escarpment views"
+      ]
+    },
+    {
+      "id": "CAS003",
+      "name": "Mara North Conservancy Ancestral Chamber",
+      "short_description": "A secluded chamber within a rock outcrop, historically used by Maasai for offerings to ancestors and seeking their guidance during times of need or celebration.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Mara North Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "10:00-16:00 (guided tours only)",
+      "entry_fee": "USD 15",
+      "images": "https://images.unsplash.com/photo-1582239105436-e0f0b4d4b1a4?ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bWFhc2FpJTIwbWFyYXxlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "ancestral offerings",
+        "guidance",
+        "sacred chamber"
+      ]
+    },
+    {
+      "id": "CAS004",
+      "name": "Enkorika Healing Grotto",
+      "short_description": "A small, damp grotto near a seasonal spring, believed to possess potent healing properties through its waters and the spirits that reside there, drawing those seeking physical and spiritual restoration.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Enkorika Area, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "09:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Maasai_Mara_National_Reserve.jpg/1280px-Maasai_Mara_National_Reserve.jpg",
+      "tags": [
+        "healing waters",
+        "spiritual restoration",
+        "grotto"
+      ]
+    },
+    {
+      "id": "SCF001",
+      "name": "Mara Riverine Sacred Grove",
+      "short_description": "A lush, ancient section of the Mara Riverine Forest, protected for generations, where Maasai conduct vital ceremonies, believing the spirits of their ancestors reside within its grand trees.",
+      "subtype": "Sacred Forests",
+      "address": "Along Mara River, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579435427181-424b4c73f324?ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFhc2FpJTIwbWFyYXxlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "ancestral spirits",
+        "ceremonial site",
+        "riverine forest"
+      ]
+    },
+    {
+      "id": "SCF002",
+      "name": "Epunyatta Acacia of Blessings",
+      "short_description": "A majestically old and broad acacia tree, standing solitary on the plains, beneath which blessings are bestowed upon newborns, warriors, and departing elders.",
+      "subtype": "Sacred Forests",
+      "address": "Naboisho Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/10186987/pexels-photo-10186987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "blessing tree",
+        "life rituals",
+        "iconic tree"
+      ]
+    },
+    {
+      "id": "SCF003",
+      "name": "Forest of the Ancestors (Oloolaimutiek)",
+      "short_description": "A dense, secluded thicket near Oloolaimutiek, believed to be a quiet resting place for the spirits of departed Maasai ancestors, revered for its profound spiritual calm.",
+      "subtype": "Sacred Forests",
+      "address": "Near Oloolaimutiek Gate, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "09:00-16:00 (guided access recommended)",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Maasai_Mara_hut_with_cattle.jpg/1280px-Maasai_Mara_hut_with_cattle.jpg",
+      "tags": [
+        "ancestral resting",
+        "spiritual calm",
+        "sacred thicket"
+      ]
+    },
+    {
+      "id": "SCF004",
+      "name": "Fig Tree of Life",
+      "short_description": "An enormous, ancient Strangler Fig tree, whose extensive roots and canopy symbolize life, wisdom, and continuity, making it a powerful site for storytelling and cultural preservation.",
+      "subtype": "Sacred Forests",
+      "address": "Mara North Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "10:00-17:00",
+      "entry_fee": "USD 5",
+      "images": "https://images.unsplash.com/photo-1582239105436-e0f0b4d4b1a4?ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bWFhc2FpJTIwbWFyYXxlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "wisdom tree",
+        "storytelling",
+        "life symbol"
+      ]
+    },
+    {
+      "id": "OCS001",
+      "name": "Narok Laibon's Divination Hill",
+      "short_description": "A prominent hill historically used by the revered Laibons of Narok for powerful divination ceremonies, interpreting signs and communicating prophecies for the Maasai people.",
+      "subtype": "Oracle Sites",
+      "address": "Near Narok Town (Eastern edge of Maasai Mara influence), Kenya",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1546736780-8772922e92c3?ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1hYXNhaSUyMG1hcmF8ZW53MHx8MHx8fDA%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "divination",
+        "prophecy",
+        "laibon's site"
+      ]
+    },
+    {
+      "id": "OCS002",
+      "name": "Olare Motorogi Oracle Stone",
+      "short_description": "A unique, smooth granite boulder nestled in a quiet clearing, said to emit subtle energies that aid spiritual leaders in receiving visions and insights into future events.",
+      "subtype": "Oracle Sites",
+      "address": "Olare Motorogi Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maasai_Mara_Lion_King_Rock.jpg/1024px-Maasai_Mara_Lion_King_Rock.jpg",
+      "tags": [
+        "vision quest",
+        "insight",
+        "sacred stone"
+      ]
+    },
+    {
+      "id": "OCS003",
+      "name": "Siana Conservancy Elder's Council Clearing",
+      "short_description": "An ancient, open clearing encircled by ancient trees, where tribal elders traditionally gathered to consult with Laibons and collective wisdom for community decisions.",
+      "subtype": "Oracle Sites",
+      "address": "Siana Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/5623063/pexels-photo-5623063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "community wisdom",
+        "elder's council",
+        "prophetic guidance"
+      ]
+    },
+    {
+      "id": "OCS004",
+      "name": "Kola Rock Prophecy Outlook",
+      "short_description": "A high rock outcrop offering an unobstructed 360-degree view of the vast plains, where Maasai seers would interpret atmospheric signs, wildlife movements, and celestial patterns for prophecies.",
+      "subtype": "Oracle Sites",
+      "address": "Kola Rock Area, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/10186987/pexels-photo-10186987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "celestial observation",
+        "omens",
+        "seers"
+      ]
+    },
+    {
+      "id": "MRF001",
+      "name": "Lion's Rock (Olarro Rock)",
+      "short_description": "A towering kopje, iconic to the Mara landscape, revered as a symbol of strength and leadership, often associated with ancestral spirits and important warrior rites.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Olarro Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maasai_Mara_Lion_King_Rock.jpg/1024px-Maasai_Mara_Lion_King_Rock.jpg",
+      "tags": [
+        "strength symbol",
+        "warrior rites",
+        "iconic landmark"
+      ]
+    },
+    {
+      "id": "MRF002",
+      "name": "Elephant's Tooth Monolith",
+      "short_description": "A distinctive, solitary rock formation resembling a giant elephant tusk, believed to guard the plains and embody the enduring spirit of the land's largest creatures.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Near Talek Gate, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563530349891-9e7b2f48e5b6?ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1hYXNhaS0lMjBtYWdhcmE3NzR8ZW53MHx8MHx8fDA%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "guardian rock",
+        "wildlife spirit",
+        "natural wonder"
+      ]
+    },
+    {
+      "id": "MRF003",
+      "name": "Kajiado Sky-Watcher's Boulder",
+      "short_description": "A massive, flat-topped boulder, strategically positioned, that ancient Maasai might have used as an observatory for tracking stars, constellations, and seasonal changes for guidance.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Near Kajiado County border, Maasai Mara Region, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/10186987/pexels-photo-10186987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "astronomy",
+        "ancient observatory",
+        "guidance"
+      ]
+    },
+    {
+      "id": "MRF004",
+      "name": "Twin Peaks of Enkai",
+      "short_description": "Two symmetrical, prominent rock formations standing side-by-side, revered as representations of Enkai's dual nature (benevolence and power) or male and female principles, often a site for blessings.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Southern Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Maasai_Mara_National_Reserve.jpg/1280px-Maasai_Mara_National_Reserve.jpg",
+      "tags": [
+        "duality",
+        "blessing site",
+        "natural monument"
+      ]
+    },
+    {
+      "id": "LBY001",
+      "name": "Talek River Labyrinthine Paths",
+      "short_description": "Natural, winding footpaths and game trails along the Talek River, traditionally used by Maasai for meditative walks, connecting with the flowing life force of the river and land.",
+      "subtype": "Labyrinths",
+      "address": "Along Talek River, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579435427181-424b4c73f324?ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFhc2FpJTIwbWFyYXxlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "meditative walk",
+        "river spirit",
+        "natural pathways"
+      ]
+    },
+    {
+      "id": "LBY002",
+      "name": "Ngoyanai Sacred Spiral Mound",
+      "short_description": "A subtle, naturally formed spiral pattern on a small mound, believed to be a point of concentrated earth energy, used for ceremonial walking to induce trance or spiritual insight.",
+      "subtype": "Labyrinths",
+      "address": "Ngoyanai Area, Naboisho Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "09:00-16:00 (guided access)",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/10186987/pexels-photo-10186987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "earth energy",
+        "ceremonial walk",
+        "spiritual insight"
+      ]
+    },
+    {
+      "id": "LBY003",
+      "name": "Lost Paths of the Spirits (Koiyaki)",
+      "short_description": "An intricate network of overgrown trails within a dense thicket near Koiyaki, traditionally believed to be paths where spirits roam, used for guided spiritual journeys and introspection.",
+      "subtype": "Labyrinths",
+      "address": "Koiyaki Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "10:00-15:00 (guided tours only)",
+      "entry_fee": "USD 20",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Maasai_Mara_hut_with_cattle.jpg/1280px-Maasai_Mara_hut_with_cattle.jpg",
+      "tags": [
+        "spirit journey",
+        "introspection",
+        "ancient trails"
+      ]
+    },
+    {
+      "id": "LBY004",
+      "name": "Oserian Ritual Stone Circle",
+      "short_description": "Not a true labyrinth, but a circular arrangement of naturally placed stones, used for ritualistic movements and dances, symbolizing life's journey and cyclic nature of existence.",
+      "subtype": "Labyrinths",
+      "address": "Oserian Sanctuary, Maasai Mara Region, Kenya",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582239105436-e0f0b4d4b1a4?ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bWFhc2FpJTIwbWFyYXxlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "ritual dance",
+        "life cycle",
+        "stone circle"
+      ]
+    },
+    {
+      "id": "MGS001",
+      "name": "Olare Orok Stone Council Ring",
+      "short_description": "A naturally occurring, roughly circular arrangement of large stones, expanded upon by Maasai elders, which served as a revered council ground for critical community decisions and spiritual discourse.",
+      "subtype": "Megalithic Sites",
+      "address": "Olare Orok Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1555547466-21a719f93946?ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bWFhc2FpJTIwbWFyYXs0Nzl8ZW53MHx8MHx8fDA%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "council ground",
+        "community decisions",
+        "ancient stones"
+      ]
+    },
+    {
+      "id": "MGS002",
+      "name": "Mara Triangle Ancient Marking Stones",
+      "short_description": "A cluster of unusually large, weathered boulders, believed to be ancestral markers or boundary stones, holding stories of ancient territorial claims and spiritual protection.",
+      "subtype": "Megalithic Sites",
+      "address": "Mara Triangle, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maasai_Mara_Lion_King_Rock.jpg/1024px-Maasai_Mara_Lion_King_Rock.jpg",
+      "tags": [
+        "ancestral markers",
+        "boundary stones",
+        "territorial history"
+      ]
+    },
+    {
+      "id": "MGS003",
+      "name": "Fig Tree Grove Stone Altar",
+      "short_description": "Under the canopy of a sacred fig tree, a large flat stone serves as an ancient altar where Maasai make offerings of milk, herbs, or other blessings to ancestors and Enkai.",
+      "subtype": "Megalithic Sites",
+      "address": "Mara North Conservancy, Maasai Mara, Kenya",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582239105436-e0f0b4d4b1a4?ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bWFhc2FpJTIwbWFyYXxlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "altar",
+        "offerings",
+        "sacred rituals"
+      ]
+    },
+    {
+      "id": "MGS004",
+      "name": "Guardians of the Plains Boulders",
+      "short_description": "A striking formation of immense boulders situated at a strategic lookout, believed to be the physical embodiment of ancient guardians, watching over the land and its people.",
+      "subtype": "Megalithic Sites",
+      "address": "Southern Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579435427181-424b4c73f324?ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFhc2FpJTIwbWFyYXxlbnwwfHwwfHw%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "guardian spirits",
+        "protection",
+        "natural monument"
+      ]
+    },
+    {
+      "id": "MEP001",
+      "name": "Maasai Mara Conservancies HQ Peace Hub",
+      "short_description": "The administrative heart of the conservancies, a vibrant center where innovative conservation strategies for wildlife and community well-being converge, creating a tangible atmosphere of hope and progress.",
+      "subtype": "Modern Energy Places",
+      "address": "Near Sekanani Gate, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "08:30-16:30 (weekdays)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1546736780-8772922e92c3?ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1hYXNhaSUyMG1hcmF8ZW53MHx8MHx8fDA%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "conservation",
+        "community empowerment",
+        "future hope"
+      ]
+    },
+    {
+      "id": "MEP002",
+      "name": "Maasai Women's Beadwork Cooperative Shrine",
+      "short_description": "A bustling center celebrating Maasai women's artistry and economic independence through traditional beadwork, embodying cultural pride, sisterhood, and sustainable livelihoods.",
+      "subtype": "Modern Energy Places",
+      "address": "Talek Village, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/5623063/pexels-photo-5623063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "cultural heritage",
+        "women empowerment",
+        "artistry"
+      ]
+    },
+    {
+      "id": "MEP003",
+      "name": "Mara Predator Conservation Trust Observation Post",
+      "short_description": "A vital research and observation post dedicated to protecting the Mara's iconic predators, radiating a powerful energy of scientific dedication, empathy, and ecological balance.",
+      "subtype": "Modern Energy Places",
+      "address": "Central Maasai Mara, near Talek River, Kenya",
+      "visiting_hours": "07:00-18:00 (restricted access possible)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1563530349891-9e7b2f48e5b6?ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1hYXNhaS0lMjBtYWdhcmE3NzR8ZW53MHx8MHx8fDA%3D&ixlib=rb-4.0.3&w=1000&q=80",
+      "tags": [
+        "wildlife protection",
+        "research",
+        "ecological balance"
+      ]
+    },
+    {
+      "id": "MEP004",
+      "name": "Sustainable Community Village of Hope",
+      "short_description": "A pioneering Maasai village showcasing modern sustainable living practices, cultural preservation, and environmental education, inspiring a harmonious future for both people and nature.",
+      "subtype": "Modern Energy Places",
+      "address": "Near Oloolaimutiek Gate, Maasai Mara National Reserve, Kenya",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "USD 25",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Masai_Mara_village.jpg/1280px-Masai_Mara_village.jpg",
+      "tags": [
+        "sustainable living",
+        "cultural preservation",
+        "environmental education"
+      ]
+    }
+  ]
+}

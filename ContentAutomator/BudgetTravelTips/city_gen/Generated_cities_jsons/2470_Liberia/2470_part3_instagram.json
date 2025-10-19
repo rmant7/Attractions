@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Liberia",
+    "city_id": "2470"
+  },
+  "items": [
+    {
+      "id": "FDS001",
+      "name": "The Leaf & Bean Café",
+      "short_description": "A cozy spot in the heart of Monrovia, famous for its freshly brewed Liberian coffee and delectable pastries. Perfect for a morning pick-me-up or a relaxed afternoon.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Mamba Point, Monrovia",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1517248135467-4c7ed7bce72a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxjYWZlJTIwY296eXxlbnwwfHx8fDE3MTc4NTM0NDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Coffee Lovers",
+        "Cozy Vibes",
+        "Local Bites"
+      ]
+    },
+    {
+      "id": "FDS002",
+      "name": "Mama Bendu's Palm Butter Kitchen",
+      "short_description": "Experience authentic Liberian home-cooking at its finest with Mama Bendu's rich palm butter stew, served with fufu or rice. A true taste of local culture.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Central Monrovia Market area",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582236688582-d27845348911?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw0fHxwaW5lYXBwbGUlMjBzdHJlZXQlMjBmb29kfGVufDB8fHx8MTcxNzg1MzU5MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Authentic Cuisine",
+        "Local Delicacies",
+        "Cultural Experience"
+      ]
+    },
+    {
+      "id": "FDS003",
+      "name": "The Lighthouse Seafood Grill",
+      "short_description": "Enjoy fresh catches of the day grilled to perfection, with stunning ocean views. A romantic setting for dinner as the sun sets over the Atlantic.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Mamba Point Lighthouse, Monrovia",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1627964406560-038202d09d0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzfHxsaWdodGhvdXNlJTIwc2VhZm9vZCUyMHJlc3RhdXJhbnR8ZW53MHx8fHwxNzE3ODUzNzYyfDB8MQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Seafood Lover",
+        "Ocean View Dining",
+        "Romantic Dinner"
+      ]
+    },
+    {
+      "id": "FDS004",
+      "name": "Bushrod Island Bites",
+      "short_description": "A lively spot on Bushrod Island offering a fusion of West African flavors and international dishes, perfect for a casual lunch or a vibrant evening out.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Bushrod Island, Monrovia",
+      "best_time": "Afternoon / Night",
+      "images": "https://images.unsplash.com/photo-1543781708-41076f874551?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw2fHxhZnJpY2FuJTIwcmVzdGF1cmFudCUyMGludGVyaW9yfGVufDB8fHx8MTcxNzg1MzkwM3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Fusion Food",
+        "Lively Atmosphere",
+        "Casual Dining"
+      ]
+    },
+    {
+      "id": "SAM001",
+      "name": "Broad Street Art Walk",
+      "short_description": "Discover a vibrant collection of murals depicting Liberian history and culture along Broad Street. Each piece tells a powerful story, making for an impactful stroll.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Broad Street, Monrovia",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1605333161099-e9313b2c69fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxNXx8YWZyaWNhbiUyMHN0cmVldCUyMGFydCUyMG11cmFsfGVufDB8fHx8MTcxNzg1NDYxOXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Public Art",
+        "Cultural Stories",
+        "Urban Exploration"
+      ]
+    },
+    {
+      "id": "SAM002",
+      "name": "Executive Mansion Walls",
+      "short_description": "The historic walls around the Executive Mansion occasionally feature temporary murals or symbolic graffiti reflecting current events or national aspirations.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Capitol Hill, Monrovia",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Monrovia%2C_Liberia_%282006%29.jpg/1280px-Monrovia%2C_Liberia_%282006%29.jpg",
+      "tags": [
+        "Political Art",
+        "Historical Site",
+        "Reflective"
+      ]
+    },
+    {
+      "id": "SAM003",
+      "name": "Waterside Market Expressions",
+      "short_description": "Amidst the bustling Waterside Market, discover impromptu art and political messages painted on kiosks and walls, offering a raw glimpse into daily Liberian life and sentiment.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Waterside Market, Monrovia",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1557997321-729452b46327?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw0fHxhZnJpY2FuJTIwbWFya2V0JTIwc3RyZWV0JTIwYXJ0fGVufDB8fHx8MTcxNzg1NDY4NXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Market Life",
+        "Street Culture",
+        "Political Messaging"
+      ]
+    },
+    {
+      "id": "SAM004",
+      "name": "Soko's Creative Alley",
+      "short_description": "A hidden alleyway transformed into an outdoor gallery by local artists, showcasing a diverse range of styles from abstract to portraiture. A growing hub for artistic expression.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Sinkor, Monrovia",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549419163-9524022a101f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxMnx8c3RyZWV0JTIwYXJ0JTIwYWxsZXl8ZW53MHx8fHwxNzE3ODU0Nzk5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Local Artists",
+        "Hidden Gem",
+        "Urban Gallery"
+      ]
+    },
+    {
+      "id": "FAE001",
+      "name": "Independence Day Parade",
+      "short_description": "Celebrate Liberia's rich history and vibrant spirit with a grand parade, showcasing traditional dances, military displays, and colorful floats. A day of national pride and festivity.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Broad Street, Monrovia",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Liberian_Independence_Day_Parade%2C_Monrovia%2C_July_26%2C_2008.jpg/1024px-Liberian_Independence_Day_Parade%2C_Monrovia%2C_July_26%2C_2008.jpg",
+      "tags": [
+        "National Holiday",
+        "Cultural Celebration",
+        "Parade"
+      ]
+    },
+    {
+      "id": "FAE002",
+      "name": "Sapo Cultural Festival",
+      "short_description": "Held near Sapo National Park, this annual festival celebrates the indigenous cultures of Liberia with traditional music, dance, storytelling, and local crafts. An authentic cultural immersion.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Near Sapo National Park, Grand Gedeh County",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1579549306461-12f5e3e26129?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzfHxhZnJpY2FuJTIwY3VsdHVyYWwlMjBmZXN0aXZhbCUyMGRhbmNlcnN8ZW53MHx8fHwxNzE3ODU1MTc1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Indigenous Culture",
+        "Traditional Dance",
+        "Festival Vibes"
+      ]
+    },
+    {
+      "id": "FAE003",
+      "name": "Waterside Market Daily Buzz",
+      "short_description": "While not a single event, the daily vibrant activity and colorful displays of goods at Waterside Market are a continuous spectacle, offering a bustling and authentic Liberian experience.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Waterside Market, Monrovia",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Waterside_Market%2C_Monrovia%2C_Liberia_%282006%29.jpg/1280px-Waterside_Market%2C_Monrovia%2C_Liberia_%282006%29.jpg",
+      "tags": [
+        "Market Life",
+        "Local Commerce",
+        "Street Photography"
+      ]
+    },
+    {
+      "id": "FAE004",
+      "name": "Christmas Jamboree in Buchanan",
+      "short_description": "Experience the festive spirit in Buchanan during Christmas, with unique local traditions, community gatherings, and vibrant decorations lighting up the coastal town.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Buchanan, Grand Bassa County",
+      "best_time": "Night",
+      "images": "https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3fHxzZXdhZ2UlMjBjaHJpc3RtYXMlMjBsaWdodHN8ZW53MHx8fHwxNzE3ODU1NTI5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Holiday Season",
+        "Community Spirit",
+        "Night Photography"
+      ]
+    },
+    {
+      "id": "BNO001",
+      "name": "Gabriel Tucker Bridge Vista",
+      "short_description": "Stand on the Gabriel Tucker Bridge for panoramic views of the Mesurado River and the bustling Monrovia skyline. Best experienced as the city lights begin to twinkle.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Mesurado River, Monrovia",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Monrovia_cityscape.jpg/1280px-Monrovia_cityscape.jpg",
+      "tags": [
+        "Cityscape",
+        "River View",
+        "Sunset Spot"
+      ]
+    },
+    {
+      "id": "BNO002",
+      "name": "Ducor Palace Hotel Ruins Overlook",
+      "short_description": "Though in ruins, the former Ducor Palace Hotel offers a hauntingly beautiful overlook of Monrovia, providing a poignant glimpse into the city's past with a breathtaking modern backdrop.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Ducor Hill, Monrovia",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Former_Ducor_Hotel.JPG/1024px-Former_Ducor_Hotel.JPG",
+      "tags": [
+        "Historic Ruins",
+        "Panoramic View",
+        "Urban Decay"
+      ]
+    },
+    {
+      "id": "BNO003",
+      "name": "Farmington River Bridge",
+      "short_description": "This strategic bridge over the Farmington River provides a scenic vantage point of the river's flow and surrounding lush greenery, a serene stop on a road trip.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Marshall, Margibi County",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1533966564619-3544c9b1394a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8anVuZ2xlJTIwcml2ZXIlMjBicmlkZ2V8ZW53MHx8fHwxNzE3ODU2MTE5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Scenic Drive",
+        "River Crossing",
+        "Nature View"
+      ]
+    },
+    {
+      "id": "BNO004",
+      "name": "Providence Island Lookout",
+      "short_description": "Overlooking the historic Providence Island, this vantage point provides views of where freed American slaves first settled, blending history with scenic river and city vistas.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near Providence Island, Monrovia",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Monrovia_Island.jpg/1024px-Monrovia_Island.jpg",
+      "tags": [
+        "Historical Significance",
+        "City View",
+        "River Estuary"
+      ]
+    },
+    {
+      "id": "NB001",
+      "name": "Sapo National Park Rainforest Canopies",
+      "short_description": "Immerse yourself in the dense, pristine rainforest of Sapo National Park, Liberia's largest protected area. The towering canopies offer incredible light play and rich biodiversity.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Sapo National Park, Sinoe County",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1531627731427-bc5b128527a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzMXx8dHJvcGljYWwlMjByYWluZm9yZXN0JTIwY2Fub3B5fGVufDB8fHx8MTcxNzg1NjQ3NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Rainforest",
+        "Wildlife",
+        "Ecotourism"
+      ]
+    },
+    {
+      "id": "NB002",
+      "name": "Kpatawee Waterfall Serenity",
+      "short_description": "Discover the tranquil beauty of Kpatawee Waterfall, a serene cascade surrounded by lush greenery. Perfect for a refreshing dip or a peaceful moment in nature.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Bong County",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1577717469601-38374a697775?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzfHxhZnJpY2FuJTIwd2F0ZXJmYWxsfGVufDB8fHx8MTcxNzg1NjU2MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Waterfall",
+        "Nature Escape",
+        "Tranquil"
+      ]
+    },
+    {
+      "id": "NB003",
+      "name": "Gola Rainforest Peaks",
+      "short_description": "Explore the rugged beauty of the Gola Rainforest region, where rolling hills and distant peaks offer breathtaking vistas. An essential destination for trekkers and nature lovers.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Gola Forest National Park, Gbarpolu County",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1520625470725-b8296a6d6540?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzfHxhZnJpY2FuJTIwcmFpbmZvcmVzdCUyMGhpbGxzfGVufDB8fHx8MTcxNzg1NjY2MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Hiking",
+        "Scenic Views",
+        "Untouched Nature"
+      ]
+    },
+    {
+      "id": "NB004",
+      "name": "Cestos River Mangrove Trails",
+      "short_description": "Kayak or take a canoe through the serene mangrove forests along the Cestos River, a unique ecosystem teeming with birdlife and offering a peaceful, immersive nature experience.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Cestos River, River Cess County",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1559483329-bc1a37c35e76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxNXx8bWFuZ3JvdmUlMjBmb3Jlc3QlMjByaXZlcnxlbnwwfHx8fDE3MTc4NTY4NDF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Kayaking",
+        "Birdwatching",
+        "Wetland Ecosystem"
+      ]
+    },
+    {
+      "id": "BCV001",
+      "name": "Robertsport Surfing Beach",
+      "short_description": "Famous for its consistent waves, Robertsport Beach is a surfer's paradise. Even if you don't surf, the expansive golden sands and vibrant local scene make it a perfect coastal escape.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Robertsport, Grand Cape Mount County",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1534066929851-4040a454f762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzMXx8YWZyaWNhbiUyMHN1cmZpbmclMjBiZWFjaHxlbnwwfHx8fDE3MTc4NTY5OTF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Surfing",
+        "Golden Sands",
+        "Beach Lifestyle"
+      ]
+    },
+    {
+      "id": "BCV002",
+      "name": "Silver Beach Sunset",
+      "short_description": "Unwind at Silver Beach, a tranquil stretch of coastline near Monrovia, renowned for its spectacular sunsets. The golden hour casts a magical glow over the Atlantic.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Silver Beach, Monrovia",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1510414408103-68f7b7cf7245?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw2NXx8YWZyaWNhbiUyMGJlYWNoJTIwc3Vuc2V0fGVufDB8fHx8MTcxNzg1NzEzOXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Sunset Views",
+        "Relaxation",
+        "Coastal Beauty"
+      ]
+    },
+    {
+      "id": "BCV003",
+      "name": "Marshall Beach River Mouth",
+      "short_description": "Where the Farmington River meets the Atlantic, Marshall Beach offers a unique landscape. Enjoy boat rides along the river or simply relax on the sands watching the waves.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Marshall, Margibi County",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1574343886548-c8491c13d969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMnx8YWZyaWNhbiUyMGJlYWNoJTIwcml2ZXJ8ZW53MHx8fHwxNzE3ODU3MjI3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "River Estuary",
+        "Boat Trips",
+        "Nature Photography"
+      ]
+    },
+    {
+      "id": "BCV004",
+      "name": "Libassa Wildlife Sanctuary Beaches",
+      "short_description": "Combine wildlife encounters with beautiful coastal scenery at Libassa. Enjoy the pristine beaches adjacent to the sanctuary, a perfect blend of conservation and relaxation.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Libassa Wildlife Sanctuary, Marshall",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1627068565578-024c084a4411?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3OXx8YWZyaWNhbiUyMGJlYWNoJTIwcmVzb3J0fGVufDB8fHx8MTcxNzg1NzMzN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Wildlife Conservation",
+        "Pristine Beach",
+        "Eco-tourism"
+      ]
+    },
+    {
+      "id": "HA001",
+      "name": "Centennial Pavilion Grandeur",
+      "short_description": "A significant historical landmark, the Centennial Pavilion features grand architecture and serves as a venue for national celebrations. Its imposing presence reflects Liberia's rich past.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Ashmun Street, Monrovia",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Centennial_Pavilion%2C_Monrovia%2C_Liberia_%282006%29.jpg/1024px-Centennial_Pavilion%2C_Monrovia%2C_Liberia_%282006%29.jpg",
+      "tags": [
+        "National Landmark",
+        "Colonial Architecture",
+        "Historical Site"
+      ]
+    },
+    {
+      "id": "HA002",
+      "name": "Old Executive Mansion Facade",
+      "short_description": "Gaze upon the stately, if weathered, façade of the Executive Mansion. A symbol of Liberian governance, its classic design whispers tales of power and history.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Capitol Hill, Monrovia",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Monrovia%2C_Executive_Mansion_%282006%29.jpg/1280px-Monrovia%2C_Executive_Mansion_%282006%29.jpg",
+      "tags": [
+        "Government Building",
+        "Architectural Heritage",
+        "Political History"
+      ]
+    },
+    {
+      "id": "HA003",
+      "name": "Providence Baptist Church Spire",
+      "short_description": "The beautiful Providence Baptist Church, a cornerstone of Liberian history, stands with its distinctive spire, offering a glimpse into the nation's spiritual and architectural legacy.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Broad Street, Monrovia",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Providence_Baptist_Church_Monrovia.jpg/1280px-Providence_Baptist_Church_Monrovia.jpg",
+      "tags": [
+        "Religious Site",
+        "Historic Church",
+        "Architectural Gem"
+      ]
+    },
+    {
+      "id": "HA004",
+      "name": "Former Ducor Palace Hotel Remains",
+      "short_description": "Explore the intriguing ruins of the once-luxurious Ducor Palace Hotel. Its skeletal structure provides a dramatic backdrop for photos, echoing a bygone era of glamour.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Ducor Hill, Monrovia",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Former_Ducor_Hotel.JPG/1024px-Former_Ducor_Hotel.JPG",
+      "tags": [
+        "Abandoned Places",
+        "Historical Ruins",
+        "Dramatic Scenery"
+      ]
+    },
+    {
+      "id": "FFG001",
+      "name": "Ministry of Foreign Affairs Gardens",
+      "short_description": "The well-maintained gardens surrounding the Ministry of Foreign Affairs offer a splash of color and serenity amidst the city's hustle. A peaceful spot for a leisurely stroll.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Capitol Hill, Monrovia",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1594967389547-062e08c0ef09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyfHxhZnJpY2FuJTIwcHVibGljJTIwZ2FyZGVufGVufDB8fHx8MTcxNzg1NzU3M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Urban Oasis",
+        "Botanical Beauty",
+        "Peaceful Escape"
+      ]
+    },
+    {
+      "id": "FFG002",
+      "name": "Libassa Wildlife Sanctuary Flora",
+      "short_description": "Beyond the wildlife, Libassa boasts beautifully landscaped grounds and gardens, showcasing indigenous Liberian flora. A delightful place to connect with nature's softer side.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Libassa Wildlife Sanctuary, Marshall",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1506501131742-0f04c6328a1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8dHJvcGljYWwlMjBsYW5kc2NhcGVkJTIwZ2FyZGVufGVufDB8fHx8MTcxNzg1NzcyNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Indigenous Plants",
+        "Lush Gardens",
+        "Nature Photography"
+      ]
+    },
+    {
+      "id": "FFG003",
+      "name": "University of Liberia Botanical Section",
+      "short_description": "The University of Liberia hosts a modest botanical section, perfect for a quiet academic stroll amidst a variety of local plant species. A hidden gem for plant enthusiasts.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "University of Liberia Campus, Monrovia",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1592667104112-c28bf7ed3c45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3fHx0cm9waWNhbCUyMGJvdGFuaWNhbCUyMGdhcmRlbnxlbnwwfHx8fDE3MTc4NTc4NjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Educational Site",
+        "Plant Diversity",
+        "Quiet Walk"
+      ]
+    },
+    {
+      "id": "FFG004",
+      "name": "Beachfront Resort Floral Displays",
+      "short_description": "Upscale beachfront resorts, particularly around Robertsport or Marshall, often feature stunning floral displays and manicured gardens that perfectly complement the coastal scenery.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Coastal Resorts, Robertsport/Marshall",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1599557610015-ec6b3a32f643?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMnx8dHJvcGljYWwlMjByZXNvcnQlMjBnYXJkZW58ZW53MHx8fHwxNzE3ODU3OTc1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Luxury Resort",
+        "Coastal Gardens",
+        "Photo Opportunities"
+      ]
+    },
+    {
+      "id": "IP001",
+      "name": "Robertsport Cliffside Infinity Pool",
+      "short_description": "Imagine a luxurious retreat perched on the cliffs of Robertsport, boasting an infinity pool that seemingly merges with the vast Atlantic Ocean, offering unparalleled sunset views.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Robertsport Coastal Hills",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1598485295174-8b6a125b2067?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxOXx8Y2xpZmZzaWRlJTIwaW5maW5pdHklMjBwb29sJTIwYXRpY3xlbnwwfHx8fDE3MTc4NTgyNDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Luxury Escape",
+        "Ocean View Pool",
+        "Sunset Swim"
+      ]
+    },
+    {
+      "id": "IP002",
+      "name": "Mamba Point Boutique Hotel Pool",
+      "short_description": "A chic infinity pool at a boutique hotel in Monrovia's Mamba Point, offering refreshing dips and cityscape views, perfect for escaping the urban heat in style.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Mamba Point, Monrovia",
+      "best_time": "Afternoon / Night",
+      "images": "https://images.unsplash.com/photo-1610476044755-a50d21e8605c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxMXx8Ym91dGllJTIwaG90ZWwlMjBpbmZpbml0eSUyMHBvb2wlMjBjaXR5fGVufDB8fHx8MTcxNzg1ODM0OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Urban Oasis",
+        "Chic Design",
+        "Rooftop Pool"
+      ]
+    },
+    {
+      "id": "IP003",
+      "name": "Farmington Riverfront Resort Pool",
+      "short_description": "Envision a serene infinity pool at a resort along the Farmington River, where the calm waters of the pool seamlessly blend with the tranquil river and lush riverside greenery.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Farmington River, Marshall",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1574343886548-c8491c13d969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzMnx8aW5maW5pdHklMjBwb29sJTIwcml2ZXJ8ZW53MHx8fHwxNzE3ODU4NDUxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Riverfront Retreat",
+        "Serene Swim",
+        "Nature Immersion"
+      ]
+    },
+    {
+      "id": "IP004",
+      "name": "Coastal Eco-Lodge Infinity Dip",
+      "short_description": "A unique infinity pool experience at an eco-lodge, offering stunning views of the pristine Liberian coastline, designed to blend harmoniously with its natural surroundings.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Coastal region, Sinoe County",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1577717469601-38374a697775?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8aW5maW5pdHklMjBwb29sJTIwZWNvJTIwbG9kZ2V8ZW53MHx8fHwxNzE3ODU4NTI1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Eco-Luxury",
+        "Secluded Getaway",
+        "Sustainable Travel"
+      ]
+    },
+    {
+      "id": "ISP001",
+      "name": "Ducor Palace Grand Staircase (Ruins)",
+      "short_description": "The remains of the grand staircase at the Ducor Palace Hotel, though crumbling, still evoke a sense of its former majesty, offering a dramatic and poignant photographic backdrop.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Ducor Hill, Monrovia",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628122393278-f7d1b32d2e1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxNXx8YWJhbmRvbmVkJTIwc3RhaXJjYXNlfGVufDB8fHx8MTcxNzg1ODg2NXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ruined Grandeur",
+        "Historical Decay",
+        "Photographic Drama"
+      ]
+    },
+    {
+      "id": "ISP002",
+      "name": "Providence Island Wooden Walkways",
+      "short_description": "Explore the rustic wooden walkways of Providence Island, leading through its historic mangroves and offering a poignant journey through Liberia's origins.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Providence Island, Monrovia",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Providence_Island_2006.JPG/1280px-Providence_Island_2006.JPG",
+      "tags": [
+        "Historical Walk",
+        "Mangrove Ecosystem",
+        "Coastal Pathway"
+      ]
+    },
+    {
+      "id": "ISP003",
+      "name": "Executive Mansion Steps",
+      "short_description": "The imposing steps leading up to the Executive Mansion symbolize national power and history. A grand entrance, ideal for a photo that captures Liberia's political heart.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Capitol Hill, Monrovia",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Monrovia%2C_Executive_Mansion_%282006%29.jpg/1280px-Monrovia%2C_Executive_Mansion_%282006%29.jpg",
+      "tags": [
+        "Government Icon",
+        "Grand Entrance",
+        "Civic Architecture"
+      ]
+    },
+    {
+      "id": "ISP004",
+      "name": "Waterside Market Steps & Alleys",
+      "short_description": "Navigate the vibrant, chaotic, and endlessly fascinating steps and narrow alleys of Waterside Market. Every turn offers a new discovery and a burst of color and life.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Waterside Market, Monrovia",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1557997321-729452b46327?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw0fHxhZnJpY2FuJTIwbWFya2V0JTIwc3RyZWV0JTIwYXJ0fGVufDB8fHx8MTcxNzg1NDY4NXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Market Exploration",
+        "Urban Labyrinth",
+        "Street Life"
+      ]
+    }
+  ]
+}

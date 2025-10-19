@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Ilorin",
+    "city_id": "2454"
+  },
+  "items": [
+    {
+      "id": "Lego1",
+      "name": "Ilorin Brick Builders' Haven",
+      "short_description": "Unleash your creativity at Ilorin's premier LEGO construction zone, featuring themed building areas and a massive brick pit.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Plot 15, Offa Road, Tanke, Ilorin, Kwara State",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596489397631-f5979c13b33a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "LEGO",
+        "construction",
+        "creative play"
+      ]
+    },
+    {
+      "id": "Lego2",
+      "name": "Kwara Kid's Construction Site",
+      "short_description": "A hands-on park where children can design and build structures with oversized blocks and engage in engineering challenges.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Along Unity Road, GRA, Ilorin, Kwara State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1522867808298-63c8a92020e5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "building blocks",
+        "engineering",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "Lego3",
+      "name": "Mini City Builders' Lab",
+      "short_description": "Explore miniature cityscapes and add your own creations to a growing urban landscape made entirely of interlocking bricks.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Shoprite Complex, Fate Road, Ilorin, Kwara State",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616859842189-94b9173c333f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "model building",
+        "interactive",
+        "city planning"
+      ]
+    },
+    {
+      "id": "Lego4",
+      "name": "Creative Brick Yard",
+      "short_description": "An expansive outdoor and indoor area dedicated to free-form brick play, encouraging imagination and collaboration.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Beside Kwara Hotel, Murtala Muhammed Way, Ilorin, Kwara State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563489814674-6ddc248b9415?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "outdoor play",
+        "imagination",
+        "group activities"
+      ]
+    },
+    {
+      "id": "Amuse1",
+      "name": "Ilorin Funland Carnival",
+      "short_description": "Experience thrilling classic rides, gentle carousels, and exciting games for all ages in a vibrant carnival atmosphere.",
+      "subtype": "Amusement Rides",
+      "address": "Opposite Kwara State Stadium Complex, Offa Road, Ilorin, Kwara State",
+      "opening_hours": "14:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579207036662-ee6e4a2c0f65?q=80&w=1543&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "carnival",
+        "thrill rides",
+        "family fun"
+      ]
+    },
+    {
+      "id": "Amuse2",
+      "name": "Galaxy Spin Zone",
+      "short_description": "Spin, twirl, and soar on a variety of space-themed rides, perfect for adventurous kids seeking an out-of-this-world experience.",
+      "subtype": "Amusement Rides",
+      "address": "Along Airport Road, Ilorin, Kwara State",
+      "opening_hours": "12:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1550993077-834f826d9c6e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "space theme",
+        "spinning rides",
+        "older kids"
+      ]
+    },
+    {
+      "id": "Amuse3",
+      "name": "Rainbow Roller Coaster Park",
+      "short_description": "Home to miniature roller coasters and a vibrant array of smaller rides designed specifically for younger children to enjoy safely.",
+      "subtype": "Amusement Rides",
+      "address": "Plot 7, Taiwo Road, Ilorin, Kwara State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1529881847112-c28d7122709e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "roller coaster",
+        "toddler rides",
+        "colorful"
+      ]
+    },
+    {
+      "id": "Amuse4",
+      "name": "Splash & Twirl Lagoon",
+      "short_description": "A unique amusement area featuring water-based rides, paddle boats, and gentle spinning attractions for a refreshing adventure.",
+      "subtype": "Amusement Rides",
+      "address": "Adjacent to Asa Dam Water Works, Ilorin, Kwara State",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1597843405788-b223d60c4464?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "water rides",
+        "paddle boats",
+        "gentle rides"
+      ]
+    },
+    {
+      "id": "Museum1",
+      "name": "Ilorin Young Minds Discovery Center",
+      "short_description": "An interactive museum designed to ignite curiosity through hands-on exhibits covering science, art, and local culture.",
+      "subtype": "Children’s Museums",
+      "address": "Beside Kwara State Library, Ahmadu Bello Way, Ilorin, Kwara State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547746594-c14668b5774a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive exhibits",
+        "education",
+        "cultural learning"
+      ]
+    },
+    {
+      "id": "Museum2",
+      "name": "Kwara Kids Heritage House",
+      "short_description": "Explore the rich history and traditions of Kwara State through engaging exhibits and storytelling workshops for young learners.",
+      "subtype": "Children’s Museums",
+      "address": "Opposite Government House, Fate Road, Ilorin, Kwara State",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563489814674-6ddc248b9415?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "history",
+        "culture",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "Museum3",
+      "name": "Future Innovators' Gallery",
+      "short_description": "A museum focused on technology, innovation, and futuristic concepts, inspiring children to become the inventors of tomorrow.",
+      "subtype": "Children’s Museums",
+      "address": "University of Ilorin Road, Tanke, Ilorin, Kwara State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542475712-40960d732808?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "technology",
+        "innovation",
+        "STEM"
+      ]
+    },
+    {
+      "id": "Museum4",
+      "name": "Little Artists' Studio & Museum",
+      "short_description": "Encouraging artistic expression, this museum features child-friendly art exhibits and practical art workshops.",
+      "subtype": "Children’s Museums",
+      "address": "Near Civil Service Clinic, New Yidi Road, Ilorin, Kwara State",
+      "opening_hours": "10:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1574966373756-c73e51edcece?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "creativity",
+        "workshops"
+      ]
+    },
+    {
+      "id": "Dino1",
+      "name": "Prehistoric Kwara Valley",
+      "short_description": "Step back in time to an ancient world populated by life-sized, animatronic dinosaurs, complete with roaring sounds and lush prehistoric flora.",
+      "subtype": "Dinosaur Parks",
+      "address": "Off University of Ilorin Teaching Hospital Road, Oke-Oyi, Ilorin, Kwara State",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1521746200230-05047b741088?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "animatronic dinosaurs",
+        "adventure",
+        "educational"
+      ]
+    },
+    {
+      "id": "Dino2",
+      "name": "Jurassic Juniors Safari",
+      "short_description": "A gentler dinosaur experience for younger children, featuring smaller, friendly dinosaur models and a fossil digging sandbox.",
+      "subtype": "Dinosaur Parks",
+      "address": "Near Government Secondary School, Adeta Roundabout, Ilorin, Kwara State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627916962458-7521a221fdd9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddler friendly",
+        "fossil dig",
+        "interactive"
+      ]
+    },
+    {
+      "id": "Dino3",
+      "name": "Dino Ridge Adventure Park",
+      "short_description": "Combine the thrill of dinosaurs with adventure play. Explore trails, rope bridges, and slides surrounded by majestic dinosaur replicas.",
+      "subtype": "Dinosaur Parks",
+      "address": "Off Ganmo Road, Tanke, Ilorin, Kwara State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1606558661642-a6f9b26e7a2b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure park",
+        "climbing",
+        "dinosaur replicas"
+      ]
+    },
+    {
+      "id": "Dino4",
+      "name": "Ancient Roar Exploration Zone",
+      "short_description": "An immersive journey into the world of ancient beasts, featuring educational displays, excavation sites, and interactive dinosaur encounters.",
+      "subtype": "Dinosaur Parks",
+      "address": "Adjacent to Kwara State Poly, Sulu Gambari Road, Ilorin, Kwara State",
+      "opening_hours": "10:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1632734185122-c363d6b1d161?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "paleontology",
+        "excavation",
+        "immersive experience"
+      ]
+    },
+    {
+      "id": "Theme1",
+      "name": "Fantasia Kids' Kingdom Ilorin",
+      "short_description": "A magical theme park with diverse zones, including a fairytale land, an adventure jungle, and a futuristic city, all designed for young adventurers.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Along Ilorin-Ogbomosho Road, Ilorin, Kwara State",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1529156069006-447118aed59b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fantasy",
+        "multiple zones",
+        "rides and shows"
+      ]
+    },
+    {
+      "id": "Theme2",
+      "name": "Adventure Bay Explorers Park",
+      "short_description": "Embark on an epic journey at Adventure Bay, offering themed rides, obstacle courses, and interactive challenges for brave young explorers.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Off Fate Road Extension, G.R.A., Ilorin, Kwara State",
+      "opening_hours": "09:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589139268615-51ce3fdf10e5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "obstacle course",
+        "interactive"
+      ]
+    },
+    {
+      "id": "Theme3",
+      "name": "Sunshine Valley Funworld",
+      "short_description": "A vibrant and cheerful theme park with gentle rides, splash pads, and imaginative play areas perfect for toddlers and preschoolers.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Along Asa Dam Road, Offa Road, Ilorin, Kwara State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1584988771891-fb45f5a25032?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddler friendly",
+        "splash pad",
+        "gentle rides"
+      ]
+    },
+    {
+      "id": "Theme4",
+      "name": "Mythical Forest Park",
+      "short_description": "Journey into a themed park inspired by local folklore and mythical creatures, offering engaging narratives, gentle rides, and interactive exhibits.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Near the Kwara State University Campus, Malete Road, Ilorin, Kwara State",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520638069562-b13c31405a76?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "folklore",
+        "mythical creatures",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "Zoo1",
+      "name": "Kwara Kids' Animal Farm & Petting Zoo",
+      "short_description": "A charming petting zoo where children can interact closely with friendly farm animals, learn about animal care, and enjoy pony rides.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Off Taiwo Road, Behind NNPC Filling Station, Ilorin, Kwara State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596328373756-c73e51edcece?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "pony rides"
+      ]
+    },
+    {
+      "id": "Zoo2",
+      "name": "Ilorin Mini Wildlife Sanctuary",
+      "short_description": "Discover a variety of local and exotic animals in a smaller, kid-friendly sanctuary, focusing on education and conservation.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Along University Road, Tanke, Ilorin, Kwara State",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1533737357-195c1c8f3522?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "educational"
+      ]
+    },
+    {
+      "id": "Zoo3",
+      "name": "Feather & Fur Friends Park",
+      "short_description": "An inviting space dedicated to birds and small furry creatures, allowing gentle interaction and observation in a calm environment.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Behind Unilorin Zoological Garden (smaller section), Ilorin, Kwara State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1502695574578-857e4ac39798?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "birds",
+        "small animals",
+        "interactive"
+      ]
+    },
+    {
+      "id": "Zoo4",
+      "name": "Safari Kids Adventure Zone",
+      "short_description": "A themed section of a larger park, offering supervised encounters with various kid-friendly animals and themed play areas.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Off Asa Dam Road, Near Sobi Barracks, Ilorin, Kwara State",
+      "opening_hours": "10:30-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1588825866163-f27362792e92?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "safari theme",
+        "animal encounters",
+        "play areas"
+      ]
+    },
+    {
+      "id": "Magic1",
+      "name": "The Ilorin Enchanted Stage",
+      "short_description": "Witness awe-inspiring magic tricks and grand illusions performed by master illusionists, captivating audiences of all ages.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Kwara State Arts Council, Gerin Alimi Road, Ilorin, Kwara State",
+      "opening_hours": "16:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574971842886-4f326372d8e4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "magic show",
+        "illusion",
+        "live performance"
+      ]
+    },
+    {
+      "id": "Magic2",
+      "name": "Kids' Mystery Theatre",
+      "short_description": "An interactive magic show tailored for children, featuring audience participation and easy-to-understand tricks.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Kwara State Amusement Park, Taiwo Road, Ilorin, Kwara State",
+      "opening_hours": "15:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1508685093499-16a73c01306c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive",
+        "children's magic",
+        "comedy"
+      ]
+    },
+    {
+      "id": "Magic3",
+      "name": "Illusion Palace of Kwara",
+      "short_description": "Experience mind-bending illusions and spellbinding magic acts in a dedicated palace of wonder, perfect for family entertainment.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Along Offa Garage Road, Ilorin, Kwara State",
+      "opening_hours": "17:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1504936359247-4148b8b9a7c3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "grand illusions",
+        "family entertainment",
+        "spectacle"
+      ]
+    },
+    {
+      "id": "Magic4",
+      "name": "Wonderland Puppet & Magic Show",
+      "short_description": "A delightful blend of puppet storytelling and simple magic tricks, charming younger audiences with whimsical performances.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Behind Kwara State Ministry of Education, Flower Garden, Ilorin, Kwara State",
+      "opening_hours": "14:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1507981545631-f2f534138e67?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "puppets",
+        "storytelling",
+        "whimsical"
+      ]
+    },
+    {
+      "id": "Cartoon1",
+      "name": "Toon Town Square Ilorin",
+      "short_description": "Meet and greet your favorite cartoon characters, take photos, and enjoy special performances in a lively, colorful setting.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Within Shoprite Mall, Fate Road, Ilorin, Kwara State",
+      "opening_hours": "12:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1571260718501-c85d771ee1b2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cartoon characters",
+        "photo ops",
+        "performances"
+      ]
+    },
+    {
+      "id": "Cartoon2",
+      "name": "Character Carnival Kwara",
+      "short_description": "A rotating cast of beloved cartoon mascots joins for dancing, games, and memorable interactions in a festive carnival atmosphere.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Near General Hospital, New Yidi Road, Ilorin, Kwara State",
+      "opening_hours": "13:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1620023023019-12a806c9a174?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "mascots",
+        "dancing",
+        "games"
+      ]
+    },
+    {
+      "id": "Cartoon3",
+      "name": "Storybook Friends Gathering",
+      "short_description": "Encounter characters from classic children's stories and popular cartoons, offering engaging read-alongs and autograph sessions.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Kwara State Library Board, Ahmadu Bello Way, Ilorin, Kwara State",
+      "opening_hours": "11:00-15:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1524169727400-f9261a86a605?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "free event",
+        "storytelling",
+        "autographs"
+      ]
+    },
+    {
+      "id": "Cartoon4",
+      "name": "Hero Squad Headquarters",
+      "short_description": "Aspiring superheroes can meet their favorite animated heroes, participate in training exercises, and take memorable photos.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Off Sango-Kulende Road, Ilorin, Kwara State",
+      "opening_hours": "14:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1558296765-a13084c7a52e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "superheroes",
+        "interactive play",
+        "character experience"
+      ]
+    },
+    {
+      "id": "Science1",
+      "name": "Ilorin Junior Innovators Lab",
+      "short_description": "A cutting-edge science center offering interactive exhibits in physics, chemistry, and biology, designed to spark young scientific minds.",
+      "subtype": "Science Centers",
+      "address": "University of Ilorin Mini Campus, Oja-Oba, Ilorin, Kwara State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542475712-40960d732808?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "STEM",
+        "interactive",
+        "experiments"
+      ]
+    },
+    {
+      "id": "Science2",
+      "name": "Kwara Discovery Planetarium",
+      "short_description": "Explore the wonders of the universe in our state-of-the-art planetarium, with engaging shows and astronomy exhibits for all ages.",
+      "subtype": "Science Centers",
+      "address": "Opposite Federal Secretariat, Ahmadu Bello Way, Ilorin, Kwara State",
+      "opening_hours": "10:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1533615963959-b1d5ae06b53a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "astronomy",
+        "planetarium",
+        "space exploration"
+      ]
+    },
+    {
+      "id": "Science3",
+      "name": "Eco-Science Kids Zone",
+      "short_description": "Focusing on environmental science and sustainability, this center offers hands-on activities about nature, recycling, and ecosystems.",
+      "subtype": "Science Centers",
+      "address": "Adjacent to Kwara State Zoological Garden, Sango, Ilorin, Kwara State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1524169727400-f9261a86a605?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "environmental science",
+        "nature",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "Science4",
+      "name": "Tech Explorers Workshop",
+      "short_description": "A hands-on workshop and exhibition space where kids can experiment with robotics, coding, and digital design.",
+      "subtype": "Science Centers",
+      "address": "Along Pipeline Road, Tanke, Ilorin, Kwara State",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1559902640-56553835f839?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "robotics",
+        "coding",
+        "digital design"
+      ]
+    },
+    {
+      "id": "Play1",
+      "name": "Grand Adventure Park Ilorin",
+      "short_description": "An expansive outdoor adventure park featuring climbing frames, zip lines, obstacle courses, and safe play areas for all ages.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Near Federal Housing Estate, Tanke, Ilorin, Kwara State",
+      "opening_hours": "08:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589139268615-51ce3fdf10e5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "climbing",
+        "zip line",
+        "outdoor fun"
+      ]
+    },
+    {
+      "id": "Play2",
+      "name": "Sky High Playland Kwara",
+      "short_description": "A multi-level indoor playground with soft play areas, slides, and tunnels, perfect for energetic kids on any day.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Within Palms Mall, Fate Road, Ilorin, Kwara State",
+      "opening_hours": "10:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549704289-4b823e2c3e1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxhbGx8fGxlZ28lMjBwYXJrJTIwa2lkc3xlbnwwfHx8fDE2NzcxMTI1Njc&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "indoor playground",
+        "soft play",
+        "slides"
+      ]
+    },
+    {
+      "id": "Play3",
+      "name": "Jungle Quest Adventure Ground",
+      "short_description": "An exciting jungle-themed park with treehouses, swing bridges, and nature trails, encouraging imaginative outdoor exploration.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Near Federal Polytechnic Offa Liaison Office, Asa Dam Road, Ilorin, Kwara State",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517711466020-00d927a3c301?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "jungle theme",
+        "nature play",
+        "exploration"
+      ]
+    },
+    {
+      "id": "Play4",
+      "name": "Emerald Greens Family Park",
+      "short_description": "A serene park featuring modern playgrounds, picnic areas, and open spaces for sports and casual family outings.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Along Airport Road, Off Fate Road, Ilorin, Kwara State",
+      "opening_hours": "07:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1549704289-4b823e2c3e1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxhbGx8fGxlZ28lMjBwYXJrJTIwa2lkc3xlbnwwfHx8fDE2NzcxMTI1Njc&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "free entry",
+        "picnic",
+        "sports"
+      ]
+    }
+  ]
+}

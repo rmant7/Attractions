@@ -1,0 +1,571 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Wajir",
+    "city_id": "2442"
+  },
+  "items": [
+    {
+      "id": "WAJ-UHS-01",
+      "name": "Wajir Desert Rose Eco-Camp",
+      "short_description": "Experience the tranquility of the Wajir desert in this sustainable eco-camp, offering traditional-style tents with modern comforts and stunning starlit nights.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Outskirts of Wajir Town, near Orahey area",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1629864459468-b76b2510b65d?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "eco-tourism",
+        "desert stay",
+        "stargazing"
+      ]
+    },
+    {
+      "id": "WAJ-UHS-02",
+      "name": "The Oasis Guesthouse Wajir",
+      "short_description": "A charming guesthouse blending traditional Somali hospitality with a refreshing, green courtyard, offering a peaceful retreat in the heart of Wajir.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Wajir Town Centre, near the main market",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1517726673673-86b24058c679?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "local hospitality",
+        "courtyard",
+        "relaxing"
+      ]
+    },
+    {
+      "id": "WAJ-UHS-03",
+      "name": "Nomadic Sands Bush Lodge",
+      "short_description": "An authentic bush lodge experience reflecting the nomadic heritage of Wajir, providing unique accommodations and cultural immersion opportunities.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Along the Wajir-Griftu Road",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1533602525546-13d8544c062c?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cultural immersion",
+        "bush lodge",
+        "nomadic experience"
+      ]
+    },
+    {
+      "id": "WAJ-UHS-04",
+      "name": "Baobab Haven Cottages",
+      "short_description": "Secluded cottages nestled amongst ancient baobab trees, offering a rustic yet comfortable stay close to nature and local village life.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Near Old Wajir settlement, outside town",
+      "best_time": "Afternoon / Sunset",
+      "images": "https://images.unsplash.com/photo-1629864459468-b76b2510b65d?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature retreat",
+        "baobab trees",
+        "rustic charm"
+      ]
+    },
+    {
+      "id": "WAJ-MB-01",
+      "name": "Wajir Main Market",
+      "short_description": "A vibrant hub of activity where locals trade goods from fresh produce to traditional crafts, offering a kaleidoscope of colors and sounds.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Wajir Town Centre",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1549727457-37590d96d744?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "local market",
+        "vibrant",
+        "street photography"
+      ]
+    },
+    {
+      "id": "WAJ-MB-02",
+      "name": "Wajir Camel & Livestock Bazaar",
+      "short_description": "Witness the ancient tradition of livestock trading, particularly camels, a cornerstone of the local economy and a fascinating cultural spectacle.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Northern outskirts of Wajir Town",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1542457813-f93502787e9c?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cultural experience",
+        "livestock market",
+        "camels"
+      ]
+    },
+    {
+      "id": "WAJ-MB-03",
+      "name": "Spice & Textile Alley",
+      "short_description": "Immerse yourself in the aromatic world of East African spices and the vibrant patterns of local textiles, a feast for the senses.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Adjacent to Wajir Main Market",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1590458826760-4b533a011246?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "spices",
+        "textiles",
+        "sensory experience"
+      ]
+    },
+    {
+      "id": "WAJ-MB-04",
+      "name": "Artisan's Corner Bazaar",
+      "short_description": "Discover unique handmade crafts, jewelry, and traditional artifacts created by local artisans, perfect for authentic souvenirs.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Near Wajir Cultural Centre",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1588147775078-439050d510e8?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "handicrafts",
+        "souvenirs",
+        "local art"
+      ]
+    },
+    {
+      "id": "WAJ-BO-01",
+      "name": "Orahey Seasonal River Crossing",
+      "short_description": "A simple yet photogenic bridge over the usually dry Orahey riverbed, offering views of the vast Wajir landscape and local life.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "On the road towards Orahey, west of Wajir Town",
+      "best_time": "Morning / Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bridge_over_river_Ewaso_Nyiro_near_Archer%27s_Post.jpg/1280px-Bridge_over_river_Ewaso_Nyiro_near_Archer%27s_Post.jpg",
+      "tags": [
+        "landscape views",
+        "seasonal river",
+        "rural scene"
+      ]
+    },
+    {
+      "id": "WAJ-BO-02",
+      "name": "Wajir Hilltop Viewpoint",
+      "short_description": "Ascend to a modest elevation offering panoramic vistas of Wajir town spreading across the arid plains, especially magical at dusk.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "A small hill east of Wajir Town",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1520101962363-22f30882e399?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "panoramic view",
+        "sunset spot",
+        "townscape"
+      ]
+    },
+    {
+      "id": "WAJ-BO-03",
+      "name": "Griftu Wadi Crossing",
+      "short_description": "A rustic bridge spanning a wide wadi near Griftu, providing a unique vantage point to observe nomadic communities and their camel herds.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near Griftu settlement, north of Wajir",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Wadi_Hadramaut.jpg/1280px-Wadi_Hadramaut.jpg",
+      "tags": [
+        "waddi",
+        "nomadic life",
+        "cultural observation"
+      ]
+    },
+    {
+      "id": "WAJ-BO-04",
+      "name": "Aftin Plains Sunset Outlook",
+      "short_description": "A vast, open plain offering unobstructed views of the horizon, perfect for capturing the dramatic sunsets that paint the Wajir sky.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "South of Wajir town, near Aftin area",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1549247738-4e893e439162?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sunset photography",
+        "open plains",
+        "horizon views"
+      ]
+    },
+    {
+      "id": "WAJ-CN-01",
+      "name": "Old Town Alleys of Bute",
+      "short_description": "Wander through the narrow, earthy-toned alleys of Bute, an older settlement, where the vibrant clothing of locals and market goods add bursts of color.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Bute settlement, north of Wajir",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1629864459468-b76b2510b65d?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cultural alleys",
+        "local life",
+        "traditional architecture"
+      ]
+    },
+    {
+      "id": "WAJ-CN-02",
+      "name": "Wajir Market Lane Hues",
+      "short_description": "Beyond the main market, discover lanes where stalls overflow with colorful fabrics, handcrafted beads, and vibrant produce, creating a lively street scene.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Adjacent to Wajir Main Market",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1588147775078-439050d510e8?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "market culture",
+        "street photography",
+        "textile patterns"
+      ]
+    },
+    {
+      "id": "WAJ-CN-03",
+      "name": "Pastoralist Homesteads",
+      "short_description": "Visit traditional homesteads on the outskirts, where the natural colors of earth-built homes blend with the vibrant garments of the nomadic people.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Rural areas surrounding Wajir Town",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549727457-37590d96d744?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "traditional homes",
+        "cultural visit",
+        "rural beauty"
+      ]
+    },
+    {
+      "id": "WAJ-CN-04",
+      "name": "Wajir Primary School Murals",
+      "short_description": "Discover brightly painted educational murals adorning the walls of Wajir Primary School, celebrating local culture and learning with vivid colors.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Wajir Primary School, Wajir Town",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1629864459468-b76b2510b65d?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "community art",
+        "educational murals",
+        "local children"
+      ]
+    },
+    {
+      "id": "WAJ-UNW-01",
+      "name": "Shabelle Rift Formations",
+      "short_description": "Explore the unique geological formations and ancient rock structures carved by wind and water in the Shabelle area, revealing Wajir's deep history.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Shabelle area, south-east of Wajir",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1507912440182-960205c06202?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "geology",
+        "rock formations",
+        "desert landscape"
+      ]
+    },
+    {
+      "id": "WAJ-UNW-02",
+      "name": "Wajir Singing Sands",
+      "short_description": "Experience the rare phenomenon of 'singing sands' at certain dune systems, where wind movement creates a unique, haunting hum.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Remote dune systems west of Wajir",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1473587820128-4ef6cf071e62?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "desert dunes",
+        "acoustic phenomenon",
+        "unique experience"
+      ]
+    },
+    {
+      "id": "WAJ-UNW-03",
+      "name": "Seasonal Lake Aftin",
+      "short_description": "After heavy rains, this ephemeral lake transforms the arid landscape into a temporary oasis, attracting diverse birdlife and local pastoralists.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Aftin area, south of Wajir Town",
+      "best_time": "Morning (during rainy season)",
+      "images": "https://images.unsplash.com/photo-1503380718698-132d001b6016?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ephemeral lake",
+        "birdwatching",
+        "oasis"
+      ]
+    },
+    {
+      "id": "WAJ-UNW-04",
+      "name": "Ancient Baobab Tree Grove",
+      "short_description": "A secluded grove of majestic, centuries-old baobab trees stands as a testament to nature's resilience in this arid environment.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Old Wajir area, outside town",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1534017684617-578d3876d638?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "baobab trees",
+        "ancient nature",
+        "botany"
+      ]
+    },
+    {
+      "id": "WAJ-FDS-01",
+      "name": "Maaqali Spice House",
+      "short_description": "Savor authentic Somali and North Eastern Kenyan dishes, known for their rich use of spices and fresh local ingredients.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Wajir Town Centre, near the Post Office",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "local cuisine",
+        "Somali food",
+        "spicy dishes"
+      ]
+    },
+    {
+      "id": "WAJ-FDS-02",
+      "name": "The Camel Milk & Qahwa Cafe",
+      "short_description": "A unique spot to experience traditional Somali coffee (Qahwa) and fresh camel milk, a staple drink in the nomadic culture.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Near Wajir Main Market",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549727457-37590d96d744?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "camel milk",
+        "local coffee",
+        "traditional drinks"
+      ]
+    },
+    {
+      "id": "WAJ-FDS-03",
+      "name": "Mandazi & Chai Street Corner",
+      "short_description": "Indulge in freshly baked mandazi (East African doughnuts) served with hot, spiced chai tea, a perfect light snack and cultural treat.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Various street corners in Wajir Town",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "street food",
+        "local snacks",
+        "tea break"
+      ]
+    },
+    {
+      "id": "WAJ-FDS-04",
+      "name": "Gabo's Grill & Nyama Choma",
+      "short_description": "Enjoy expertly grilled meats, particularly 'Nyama Choma' (roasted goat meat), a popular communal dish in Kenya.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Near the bus stand, Wajir Town",
+      "best_time": "Afternoon / Night",
+      "images": "https://images.unsplash.com/photo-1596639410310-af0b01c72879?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "grilled meat",
+        "Nyama Choma",
+        "communal dining"
+      ]
+    },
+    {
+      "id": "WAJ-MA-01",
+      "name": "Wajir County Assembly Building",
+      "short_description": "A distinctive building showcasing contemporary design elements adapted to the local environment, a symbol of modern governance.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Wajir County Government Complex",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Parliament_of_Kenya_building.jpg/1280px-Parliament_of_Kenya_building.jpg",
+      "tags": [
+        "government building",
+        "contemporary design",
+        "public architecture"
+      ]
+    },
+    {
+      "id": "WAJ-MA-02",
+      "name": "Wajir International Airport Terminal",
+      "short_description": "The newly upgraded terminal features clean lines and functional design, serving as Wajir's modern gateway to the world.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Wajir International Airport",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1543781190-d47781b0f513?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "airport architecture",
+        "modern gateway",
+        "transport hub"
+      ]
+    },
+    {
+      "id": "WAJ-MA-03",
+      "name": "Wajir Referral Hospital Block",
+      "short_description": "A modern medical facility featuring functional design and clean aesthetics, representing advancements in healthcare infrastructure in the region.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Wajir Referral Hospital Compound",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582719500649-0f488f579346?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "healthcare facility",
+        "functional design",
+        "public service"
+      ]
+    },
+    {
+      "id": "WAJ-MA-04",
+      "name": "Wajir University New Lecture Halls",
+      "short_description": "The contemporary design of these lecture halls reflects a commitment to modern education and stands out amidst the traditional landscape.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Wajir University College Campus",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1621939504620-ce267487295f?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "educational building",
+        "university campus",
+        "clean lines"
+      ]
+    },
+    {
+      "id": "WAJ-NB-01",
+      "name": "Endless Savannah Plains",
+      "short_description": "Capture the vast, unbroken expanse of Wajir's savannah plains stretching to the horizon, dotted with acacia trees and grazing wildlife.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Rural areas along Wajir-Isiolo Highway",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1521746985097-9e0544f8f415?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "savannah",
+        "wildlife",
+        "vast landscape"
+      ]
+    },
+    {
+      "id": "WAJ-NB-02",
+      "name": "Acacia Tree Silhouette Horizon",
+      "short_description": "Photograph iconic acacia trees silhouetted against the dramatic, colorful skies of Wajir, especially beautiful at sunrise or sunset.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Any open plain around Wajir Town",
+      "best_time": "Sunrise / Sunset",
+      "images": "https://images.unsplash.com/photo-1498056689032-4740702d73f1?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sunrise",
+        "sunset",
+        "acacia trees",
+        "silhouettes"
+      ]
+    },
+    {
+      "id": "WAJ-NB-03",
+      "name": "Desert Oasis Pond",
+      "short_description": "Discover a rare permanent water source, a small desert oasis that draws local wildlife and offers a stark contrast to the surrounding aridity.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Remote area near Bute",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1506744038136-465a6f482aa0?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "oasis",
+        "water source",
+        "desert life"
+      ]
+    },
+    {
+      "id": "WAJ-NB-04",
+      "name": "Milky Way Desert Sky",
+      "short_description": "Far from city lights, Wajir offers an unparalleled view of the Milky Way, making it a prime location for astrophotography.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Any open area away from Wajir Town lights",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1516085215712-421b8b868614?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "astrophotography",
+        "night sky",
+        "milky way",
+        "stargazing"
+      ]
+    },
+    {
+      "id": "WAJ-SAM-01",
+      "name": "Wajir Cultural Centre Mural",
+      "short_description": "A vibrant mural adorning the Cultural Centre, depicting traditional Somali and North Eastern Kenyan life, stories, and symbols.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Wajir Cultural Centre, Wajir Town",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1582234208362-e95e8e8a8b1a?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cultural art",
+        "public mural",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "WAJ-SAM-02",
+      "name": "Peace & Unity Wall Art",
+      "short_description": "A public art installation promoting peace and unity, often found on key public buildings, reflecting Wajir's community spirit.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near the County Commissioner's Office",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582719500649-0f488f579346?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "community art",
+        "peace message",
+        "urban art"
+      ]
+    },
+    {
+      "id": "WAJ-SAM-03",
+      "name": "Market Lane Geometric Patterns",
+      "short_description": "Discover intricate geometric patterns and designs painted on shop fronts and walls in the bustling market lanes, a form of local street art.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Side alleys of Wajir Main Market",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1588147775078-439050d510e8?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "geometric art",
+        "market art",
+        "urban patterns"
+      ]
+    },
+    {
+      "id": "WAJ-SAM-04",
+      "name": "Health Awareness Murals",
+      "short_description": "Colorful and informative murals often seen on health centers or public clinics, raising awareness on community health issues.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Wajir County Hospital or local dispensaries",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1588147775078-439050d510e8?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "public health art",
+        "educational art",
+        "community engagement"
+      ]
+    },
+    {
+      "id": "WAJ-ISP-01",
+      "name": "Wajir Hill Ascent Path",
+      "short_description": "A winding, dusty pathway leading up to Wajir Hill, offering a scenic ascent and revealing expanding views with every step.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Wajir Hill, east of Wajir Town",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1558774780-60b5e28a474c?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "hiking path",
+        "scenic walk",
+        "viewpoint access"
+      ]
+    },
+    {
+      "id": "WAJ-ISP-02",
+      "name": "Old Mosque Minaret Steps",
+      "short_description": "The rustic steps leading up the minaret of Wajir's oldest mosque, offering a glimpse into its spiritual history and unique architectural elements.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Old Wajir area, Wajir Town",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1536830707440-10f545465d33?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "historic mosque",
+        "architectural details",
+        "spiritual site"
+      ]
+    },
+    {
+      "id": "WAJ-ISP-03",
+      "name": "Traditional Boma Entrance Path",
+      "short_description": "The well-trodden paths leading into traditional nomadic homesteads (bomas), symbolizing entry into a rich cultural way of life.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Rural areas surrounding Wajir",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1520101962363-22f30882e399?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cultural path",
+        "nomadic life",
+        "traditional homestead"
+      ]
+    },
+    {
+      "id": "WAJ-ISP-04",
+      "name": "County Offices Grand Entrance",
+      "short_description": "The impressive, wide pathway leading to the main entrance of the County Government offices, symbolizing public access and civic importance.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Wajir County Government Complex",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1517726673673-86b24058c679?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "public building",
+        "civic architecture",
+        "grand entrance"
+      ]
+    }
+  ]
+}

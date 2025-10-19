@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Yaren",
+    "city_id": "2443"
+  },
+  "items": [
+    {
+      "id": "YarenSoccerPit",
+      "name": "Yaren Junior Soccer Pitch",
+      "short_description": "A vibrant mini-pitch perfect for young football enthusiasts to practice their skills and play friendly matches. Features small goals and soft turf.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Near Yaren Primary School, Yaren District, Nauru",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1541097782136-11f8e6c469b8",
+      "tags": [
+        "football",
+        "active",
+        "community"
+      ]
+    },
+    {
+      "id": "BballHoopYaren",
+      "name": "Lagoon Hoops Court",
+      "short_description": "A brightly colored mini-basketball court designed for kids, offering adjustable hoops for various ages. Ideal for practicing layups and shooting hoops.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Adjacent to Public Oval, Yaren District, Nauru",
+      "opening_hours": "09:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1582046429400-34d6f8f5334d",
+      "tags": [
+        "basketball",
+        "sports",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "YarenVolleyNet",
+      "name": "Sandy Net Zone",
+      "short_description": "A mini volleyball court with soft sand, perfect for children to learn and enjoy beach volleyball. Equipment provided on request.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Near Anibare Bay, Yaren District, Nauru",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517462002347-1f4a9b6b7a2e",
+      "tags": [
+        "volleyball",
+        "beach sports",
+        "sand"
+      ]
+    },
+    {
+      "id": "YarenTrackKids",
+      "name": "Mini Sprint Track",
+      "short_description": "A small, safe running track for kids to race, practice sprints, and engage in fun athletic challenges. Complete with starting blocks and finish lines.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Behind Nauru Sports Complex, Yaren District, Nauru",
+      "opening_hours": "07:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1510688005393-4a64f4f3e69a",
+      "tags": [
+        "athletics",
+        "running",
+        "races"
+      ]
+    },
+    {
+      "id": "YarenSplashPad",
+      "name": "Reef Runner Splash Pad",
+      "short_description": "A vibrant splash pad featuring interactive water jets, gentle fountains, and a shallow area for toddlers to safely cool off and play. Designed with colorful coral reef themes.",
+      "subtype": "Water Parks for Kids",
+      "address": "Yaren Central Park, Yaren District, Nauru",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1580828343715-385089f6d4d4",
+      "tags": [
+        "splash pad",
+        "water play",
+        "cooling"
+      ]
+    },
+    {
+      "id": "YarenLagoonSlide",
+      "name": "Coconut Cove Water Slides",
+      "short_description": "A set of two small, twisting water slides that land in a shallow, supervised pool, perfect for younger children seeking a gentle thrill. Lifeguards are always on duty.",
+      "subtype": "Water Parks for Kids",
+      "address": "Near Aiwo District Border, Yaren District, Nauru",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1550257085-f538565b9b1d",
+      "tags": [
+        "water slides",
+        "pool",
+        "family fun"
+      ]
+    },
+    {
+      "id": "YarenTidePools",
+      "name": "Mini Tide Pool Adventure",
+      "short_description": "A controlled, shallow water area designed to mimic natural tide pools, where children can splash and explore without ocean currents. Features gentle waves and marine-themed toys.",
+      "subtype": "Water Parks for Kids",
+      "address": "Yaren Beachfront Recreation Area, Yaren District, Nauru",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563814420803-0c4f8b0e7d0f",
+      "tags": [
+        "tide pool",
+        "water exploration",
+        "sensory play"
+      ]
+    },
+    {
+      "id": "YarenBubblers",
+      "name": "Tropical Bubbler Bay",
+      "short_description": "A zero-depth entry water play area with soft geysers, squirting animal figures, and gentle rain showers for the youngest visitors. Shaded areas are available for parents.",
+      "subtype": "Water Parks for Kids",
+      "address": "Central Community Green, Yaren District, Nauru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1579737151322-2633010c2393",
+      "tags": [
+        "bubble fountains",
+        "toddler friendly",
+        "safe water fun"
+      ]
+    },
+    {
+      "id": "YarenMagicForest",
+      "name": "Whispering Coconut Grove",
+      "short_description": "A serene park area with walking paths, featuring carved wooden characters from Nauruan folklore and whimsical, oversized natural elements. Perfect for imaginative play and gentle exploration.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Adjacent to State House Gardens, Yaren District, Nauru",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1507503794697-393c52a36a90",
+      "tags": [
+        "folklore",
+        "imagination",
+        "nature walk"
+      ]
+    },
+    {
+      "id": "YarenMythTrail",
+      "name": "Island Spirit Trail",
+      "short_description": "A themed trail showcasing scenes and characters from local legends and myths, with interactive storyboards and gentle challenges. Children can discover the 'spirits' of Nauru.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Behind Parliament House, Yaren District, Nauru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1508873696238-ec47854612e3",
+      "tags": [
+        "legends",
+        "story trail",
+        "cultural"
+      ]
+    },
+    {
+      "id": "YarenPixieVillage",
+      "name": "Coral Fairy Village",
+      "short_description": "A miniature village constructed with natural materials, designed for children to imagine tiny 'coral fairies' and other island sprites living there. Includes small bridges and hidden nooks.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Near Boat Harbour, Yaren District, Nauru",
+      "opening_hours": "07:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1550791459-0d3f8f1d7d02",
+      "tags": [
+        "miniature",
+        "fairies",
+        "imagination"
+      ]
+    },
+    {
+      "id": "YarenDreamCastle",
+      "name": "Star Navigator's Playground",
+      "short_description": "A small, open-air structure resembling a whimsical castle, inspired by ancient Nauruan navigation and star lore. Kids can climb, slide, and pretend to be island explorers.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Yaren Community Field, Yaren District, Nauru",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1509040842884-60c7f202272a",
+      "tags": [
+        "castle",
+        "explorer",
+        "play structure"
+      ]
+    },
+    {
+      "id": "YarenMiniCarousel",
+      "name": "Coconut Carousel Spin",
+      "short_description": "A charming mini-carousel featuring tropical animal figures and island-themed seats, perfect for young children to enjoy a gentle, rotating ride. Music plays as it spins.",
+      "subtype": "Amusement Rides",
+      "address": "Central Market Area, Yaren District, Nauru",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1504938640707-1c667e41b9b1",
+      "tags": [
+        "carousel",
+        "gentle ride",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "YarenTrainRide",
+      "name": "Island Express Mini Train",
+      "short_description": "A small trackless train that takes children on a short, scenic loop around a designated park area, offering views of the surrounding greenery. All aboard for fun!",
+      "subtype": "Amusement Rides",
+      "address": "Yaren Botanical Garden, Yaren District, Nauru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-158273644026-6b22b6a9e144",
+      "tags": [
+        "mini train",
+        "scenic ride",
+        "park tour"
+      ]
+    },
+    {
+      "id": "YarenBumperBoats",
+      "name": "Lagoon Bumper Boats",
+      "short_description": "Kids can pilot their own small, motorized bumper boats in a shallow, supervised pool. It's a fun and safe way to splash and bump with friends.",
+      "subtype": "Amusement Rides",
+      "address": "Next to Public Library, Yaren District, Nauru",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1555547477-9b626d56d7f0",
+      "tags": [
+        "bumper boats",
+        "water fun",
+        "interactive"
+      ]
+    },
+    {
+      "id": "YarenBounceHouse",
+      "name": "Nauru Jumper Palace",
+      "short_description": "A large, inflatable bounce house shaped like a tropical island, providing endless jumping and tumbling fun for children of all ages. Safety attendant always present.",
+      "subtype": "Amusement Rides",
+      "address": "Yaren Civic Centre Grounds, Yaren District, Nauru",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627993074351-40b904c6e913",
+      "tags": [
+        "bounce house",
+        "inflatable",
+        "jumping"
+      ]
+    },
+    {
+      "id": "YarenOceanPlay",
+      "name": "Coral Kingdom Playground",
+      "short_description": "A multi-level playground featuring climbing nets, slides, swings, and ocean-themed structures like a 'whale' tunnel and 'coral reef' climbing walls. Soft safety surfacing.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Yaren Central Park, Yaren District, Nauru",
+      "opening_hours": "07:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1596707328124-b1523b03f0b2",
+      "tags": [
+        "playground",
+        "climbing",
+        "slides"
+      ]
+    },
+    {
+      "id": "YarenTreehouse",
+      "name": "Coconut Climber Adventure",
+      "short_description": "An adventure playground with a central, accessible treehouse connected by rope bridges, slides, and climbing obstacles. Encourages exploration and physical activity.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Near Ewa District Border, Yaren District, Nauru",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1549722360-1e5b1f80d7c7",
+      "tags": [
+        "adventure park",
+        "treehouse",
+        "climbing"
+      ]
+    },
+    {
+      "id": "YarenSandPlay",
+      "name": "Sandy Shores Dig Site",
+      "short_description": "A large sand play area equipped with diggers, shovels, buckets, and interactive water features for building and creative exploration. Shaded for comfort.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Yaren Beach Park, Yaren District, Nauru",
+      "opening_hours": "09:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1591902264906-8d6d6b6d51c3",
+      "tags": [
+        "sand play",
+        "digging",
+        "sensory"
+      ]
+    },
+    {
+      "id": "YarenObstacleCourse",
+      "name": "Pacific Warrior Course",
+      "short_description": "A mini obstacle course designed for kids, featuring low ropes, balance beams, climbing walls, and small tunnels to test agility and coordination in a safe environment.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Beside Nauru Secondary School, Yaren District, Nauru",
+      "opening_hours": "08:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1601004812821-255d658b0222",
+      "tags": [
+        "obstacle course",
+        "agility",
+        "physical challenge"
+      ]
+    },
+    {
+      "id": "YarenMascotMeet",
+      "name": "Coral Buddy Meet & Greet",
+      "short_description": "Meet and take photos with 'Coral Buddy,' Yaren's friendly ocean-themed mascot, who loves to share stories about Nauru's marine life. Check schedule for appearance times.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Yaren Tourist Information Center, Yaren District, Nauru",
+      "opening_hours": "10:00-12:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1563725547434-2e21b7a2d829",
+      "tags": [
+        "mascot",
+        "photo opportunity",
+        "characters"
+      ]
+    },
+    {
+      "id": "YarenIslandHeroes",
+      "name": "Island Storybook Characters",
+      "short_description": "An interactive session where children can meet costumed characters from popular children's storybooks adapted with island themes. Opportunities for hugs and high-fives.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Yaren Community Hall, Yaren District, Nauru",
+      "opening_hours": "14:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1522819853925-50280f2d4e6d",
+      "tags": [
+        "story characters",
+        "costumed fun",
+        "interactive"
+      ]
+    },
+    {
+      "id": "YarenTropicalFriends",
+      "name": "Tropical Animal Pals Parade",
+      "short_description": "A mini-parade and meet & greet with friendly, oversized tropical animal characters. Kids can dance along and get individual photos with their favorite pals.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Yaren Central Park Stage, Yaren District, Nauru",
+      "opening_hours": "15:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506509425407-167814b7e94e",
+      "tags": [
+        "animal characters",
+        "parade",
+        "photo op"
+      ]
+    },
+    {
+      "id": "YarenOceanGuardians",
+      "name": "Ocean Guardians Interactive",
+      "short_description": "Meet characters dressed as 'Ocean Guardians,' who teach kids about marine conservation through fun activities and photo opportunities. Educational and entertaining.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Nauru Environmental Centre, Yaren District, Nauru",
+      "opening_hours": "11:00-13:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1579483321520-213c9c9f7a7f",
+      "tags": [
+        "environmental education",
+        "mascot",
+        "conservation"
+      ]
+    },
+    {
+      "id": "YarenLegendLounge",
+      "name": "Ancient Nauru Story Circle",
+      "short_description": "A peaceful outdoor circle with comfortable seating and carved wooden figures, where traditional Nauruan legends are told by local elders or through audio recordings.",
+      "subtype": "Storytelling Parks",
+      "address": "Yaren Heritage Park, Yaren District, Nauru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1593005893452-9f37c7f3e8b0",
+      "tags": [
+        "storytelling",
+        "local legends",
+        "cultural"
+      ]
+    },
+    {
+      "id": "YarenWhisperingGarden",
+      "name": "Coconut Leaf Story Garden",
+      "short_description": "A charming garden setting where children can listen to prerecorded stories about island life and nature, activated by pressing interactive 'coconut' buttons. Shaded and inviting.",
+      "subtype": "Storytelling Parks",
+      "address": "Next to Yaren Public Library, Yaren District, Nauru",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549749110-612b7a9f7e8e",
+      "tags": [
+        "audio stories",
+        "nature",
+        "interactive"
+      ]
+    },
+    {
+      "id": "YarenDreamWeaver",
+      "name": "Starlight Dream Weaver Corner",
+      "short_description": "An open-air pavilion where evening storytelling sessions focus on Nauruan myths related to stars and the night sky. Blankets and cushions are provided for comfort.",
+      "subtype": "Storytelling Parks",
+      "address": "Yaren Night Market Grounds, Yaren District, Nauru",
+      "opening_hours": "18:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1507920676663-b78f71587a8b",
+      "tags": [
+        "night stories",
+        "astronomy",
+        "myths"
+      ]
+    },
+    {
+      "id": "YarenPuppetTales",
+      "name": "Islander Puppet Story Nook",
+      "short_description": "A small, cozy nook with a mini-stage for puppet shows featuring local folk tales and animal fables. Children can also try their hand at puppetry after the show.",
+      "subtype": "Storytelling Parks",
+      "address": "Yaren Cultural Centre, Yaren District, Nauru",
+      "opening_hours": "11:00-13:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1521404095498-8e6f1f2a3e0f",
+      "tags": [
+        "puppet shows",
+        "folk tales",
+        "interactive"
+      ]
+    },
+    {
+      "id": "YarenFarmFriends",
+      "name": "Island Petting Farm",
+      "short_description": "A small, friendly petting farm featuring goats, chickens, rabbits, and other domestic animals. Children can interact safely under supervision and learn about farm life.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Near Anabar District Border, Yaren District, Nauru",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510793664053-157922d26d83",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "interactive"
+      ]
+    },
+    {
+      "id": "YarenBirdSanctuary",
+      "name": "Nauru Avian Haven",
+      "short_description": "A small, open-air aviary showcasing common local and migratory bird species found on Nauru. Educational displays explain their habits and importance to the ecosystem.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Adjacent to Yaren Lake, Yaren District, Nauru",
+      "opening_hours": "08:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1541817757-047a2f5a0a3b",
+      "tags": [
+        "birds",
+        "aviary",
+        "conservation"
+      ]
+    },
+    {
+      "id": "YarenMarineTouch",
+      "name": "Reef Explorer Touch Pool",
+      "short_description": "A supervised touch pool where children can gently interact with starfish, sea cucumbers, and other harmless marine creatures, learning about the local reef ecosystem.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Nauru Maritime Museum, Yaren District, Nauru",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1536295713838-518f9c1d0a1b",
+      "tags": [
+        "marine life",
+        "touch pool",
+        "education"
+      ]
+    },
+    {
+      "id": "YarenInsectExhibit",
+      "name": "Tiny Wonders Insectarium",
+      "short_description": "A small indoor exhibit dedicated to the fascinating world of Nauruan insects and spiders. Features magnifying stations and safe observation tanks.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Yaren Science Centre, Yaren District, Nauru",
+      "opening_hours": "10:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621213348149-a3597d5a5a7f",
+      "tags": [
+        "insects",
+        "exhibit",
+        "nature discovery"
+      ]
+    },
+    {
+      "id": "YarenTreasureHunt",
+      "name": "Lost Phosphate Treasure Hunt",
+      "short_description": "A fun, island-themed treasure hunt where kids follow clues related to Nauru's history and nature to find a hidden 'treasure chest'. Suitable for small groups.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Around Phosphate House, Yaren District, Nauru",
+      "opening_hours": "09:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1623838848412-f17f4d5b2c9b",
+      "tags": [
+        "treasure hunt",
+        "history",
+        "exploration"
+      ]
+    },
+    {
+      "id": "YarenNatureQuest",
+      "name": "Bird Spotter's Nature Quest",
+      "short_description": "An interactive quest along a designated nature trail, where children use a provided guide to spot specific birds, plants, and insects. Binoculars available for rent.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Yaren Eco-Trail, Yaren District, Nauru",
+      "opening_hours": "08:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533035313865-ec12a02e6e3d",
+      "tags": [
+        "nature",
+        "scavenger hunt",
+        "birdwatching"
+      ]
+    },
+    {
+      "id": "YarenIslandEscape",
+      "name": "Coral Reef Escape Room (Kids)",
+      "short_description": "A mini escape room experience designed specifically for children, with puzzles and challenges related to protecting the coral reef. Teamwork is essential to 'escape'!",
+      "subtype": "Adventure & Quest Games",
+      "address": "Yaren Family Entertainment Hub, Yaren District, Nauru",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596496468759-3a3f6a27e02a",
+      "tags": [
+        "escape room",
+        "puzzles",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "YarenExplorerMap",
+      "name": "Pacific Explorer's Map Challenge",
+      "short_description": "Children receive a map and a series of navigational challenges to complete around a designated park area, learning basic map-reading skills and local landmarks.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Yaren Central Gardens, Yaren District, Nauru",
+      "opening_hours": "09:30-16:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1510103772271-e0e2270d440d",
+      "tags": [
+        "navigation",
+        "map reading",
+        "outdoor game"
+      ]
+    },
+    {
+      "id": "YarenIslandCircus",
+      "name": "Coconut Kids Circus Show",
+      "short_description": "A charming, small-scale circus featuring local talent with juggling, clown acts, and simple acrobatics, designed for a family-friendly audience. Performances scheduled weekly.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Yaren Community Sports Hall, Yaren District, Nauru",
+      "opening_hours": "16:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582239462220-413c6e4e5e1e",
+      "tags": [
+        "circus",
+        "performance",
+        "family show"
+      ]
+    },
+    {
+      "id": "YarenPuppetPalace",
+      "name": "Reef Rescuers Puppet Theater",
+      "short_description": "A local puppet theater showcasing engaging stories about marine conservation and island culture using handcrafted puppets. Interactive Q&A sessions follow each show.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Yaren Cultural Centre, Yaren District, Nauru",
+      "opening_hours": "13:00-14:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1521404095498-8e6f1f2a3e0f",
+      "tags": [
+        "puppet show",
+        "education",
+        "cultural stories"
+      ]
+    },
+    {
+      "id": "YarenMagicShow",
+      "name": "Island Illusionist's Magic Matinee",
+      "short_description": "A captivating magic show for children, featuring simple tricks, audience participation, and lots of laughter. Expect disappearing coconuts and floating fish!",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Yaren Youth Centre, Yaren District, Nauru",
+      "opening_hours": "15:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520626884013-3b10b7b1b3b2",
+      "tags": [
+        "magic show",
+        "entertainment",
+        "audience participation"
+      ]
+    },
+    {
+      "id": "YarenShadowPlay",
+      "name": "Nauruan Shadow Puppet Tales",
+      "short_description": "An enchanting shadow puppet theater performance, bringing ancient Nauruan legends to life with intricate silhouettes and traditional music. Unique cultural experience.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Nauru Museum & Culture Center, Yaren District, Nauru",
+      "opening_hours": "17:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627885493034-e405a415a7f9",
+      "tags": [
+        "shadow puppets",
+        "cultural art",
+        "legends"
+      ]
+    }
+  ]
+}

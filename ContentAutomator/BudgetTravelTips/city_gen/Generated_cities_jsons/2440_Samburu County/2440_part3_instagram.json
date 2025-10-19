@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Samburu County",
+    "city_id": "2440"
+  },
+  "items": [
+    {
+      "id": "SBC_MKT_001",
+      "name": "Maralal Town Bustle Market",
+      "short_description": "Immerse yourself in the vibrant energy of Maralal's main market, a true hub of local life and commerce. Discover unique Samburu crafts, fresh produce, and a kaleidoscope of colors and sounds.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Maralal Town Center",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596707328574-e8665c361955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDR8fGZydWl0JTIwbWFya2V0JTIwQWZyaWNhfGVufDB8fHx8MTcwOTE3Mjg0NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "local crafts",
+        "cultural immersion",
+        "fresh produce"
+      ]
+    },
+    {
+      "id": "SBC_MKT_002",
+      "name": "Samburu Cultural Craft Village",
+      "short_description": "Visit an authentic Samburu village where artisans showcase their intricate beadwork, carvings, and traditional attire. It's a fantastic opportunity to support local communities and find unique souvenirs.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Near Samburu National Reserve gates",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1626388484196-dd999335f47d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDEzfHNhbWJ1cnUlMjBiZWFkZmFjdG9yeXxlbnwwfHx8fDE3MDkxNzMwMDl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "beadwork",
+        "handmade gifts",
+        "community support"
+      ]
+    },
+    {
+      "id": "SBC_MKT_003",
+      "name": "Wamba Livestock & Goods Fair",
+      "short_description": "Experience the bustling semi-annual livestock and goods fair in Wamba, where Samburu pastoralists trade cattle, camels, and local wares. A truly authentic glimpse into nomadic life.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Wamba Town",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/9974241/pexels-photo-9974241.jpeg?auto=compress&cs=tinysrgb&fit=max&fm=jpg&h=627&w=1200",
+      "tags": [
+        "livestock market",
+        "cultural event",
+        "rural life"
+      ]
+    },
+    {
+      "id": "SBC_MKT_004",
+      "name": "Archer's Post Artisan Stalls",
+      "short_description": "Discover small, roadside artisan stalls near Archer's Post, offering handcrafted items from local Samburu communities. Perfect for unique finds and supporting small-scale creators.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Archer's Post",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Local_market_in_Malawi.jpg",
+      "tags": [
+        "roadside crafts",
+        "authentic souvenirs",
+        "local artists"
+      ]
+    },
+    {
+      "id": "SBC_HOT_001",
+      "name": "Saruni Samburu's Infinity View",
+      "short_description": "Perched high on a hilltop, Saruni Samburu offers breathtaking panoramic views from its open-fronted villas and stunning infinity pool. A truly luxurious safari experience with unparalleled vistas.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Kalama Conservancy, north of Samburu NR",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1596207122045-8147d3c267c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDF8fHNhcnVuaSUyMHNhbWJ1cnV8ZW58MHx8fHwxNzA5MTc0MzA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "luxury safari",
+        "boutique lodge",
+        "panoramic views"
+      ]
+    },
+    {
+      "id": "SBC_HOT_002",
+      "name": "Sasaab Lodge's Moroccan-Inspired Oasis",
+      "short_description": "Indulge in the exotic elegance of Sasaab, a Moroccan-inspired lodge overlooking the Ewaso Nyiro River. Each tented room boasts a private plunge pool and stunning river views.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Westgate Conservancy, near Samburu NR",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1627885474320-19811f93f15c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDZ8fHNhZmFyaSUyMGxvZGdlJTIwcG9vbHxlbnwwfHx8fDE3MDkxNzQzOTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "eco-lodge",
+        "river views",
+        "private pools"
+      ]
+    },
+    {
+      "id": "SBC_HOT_003",
+      "name": "Elephant Watch Camp's Rustic Charm",
+      "short_description": "Stay at the iconic Elephant Watch Camp, a family-run eco-lodge famed for its intimate encounters with elephants and commitment to conservation. Experience rustic luxury amidst nature.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Inside Samburu National Reserve",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fa/EWC_dining_area.jpg",
+      "tags": [
+        "conservation focus",
+        "tented camp",
+        "wildlife experience"
+      ]
+    },
+    {
+      "id": "SBC_HOT_004",
+      "name": "Koija Starbeds' Open-Air Romance",
+      "short_description": "Sleep under the vast African sky at Koija Starbeds, an unforgettable open-air sleeping experience. Drift off to the sounds of the bush with breathtaking views of the constellations.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Koija Community Ranch",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1616429532587-8898b9e6e026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDR8fHN0YXJiZWRzfGVufDB8fHx8MTcwOTE3NDUwNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "stargazing",
+        "romantic stay",
+        "unique accommodation"
+      ]
+    },
+    {
+      "id": "SBC_ART_001",
+      "name": "Maralal Town Conservation Murals",
+      "short_description": "Discover vibrant community murals throughout Maralal town, often depicting local wildlife and conservation messages. These colorful artworks tell stories of Samburu's natural heritage.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Various walls in Maralal Town",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1555547610-d020d5843452?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDExfHdhbGwlMjBhcnQlMjBBZnJpY2FufGVufDB8fHx8MTcwOTE3NDYxMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wildlife art",
+        "community project",
+        "conservation message"
+      ]
+    },
+    {
+      "id": "SBC_ART_002",
+      "name": "Samburu Culture Wall of Fame",
+      "short_description": "A dedicated wall in a cultural center showcasing large-scale murals illustrating the rich traditions, ceremonies, and daily life of the Samburu people. A visual feast of local heritage.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Samburu Cultural Village (imagined)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596006834017-0e6d625514f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDIyfHdhbGwlMjBhcnQlMjBBZnJpY2FufGVufDB8fHx8MTcwOTE3NDYxMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cultural art",
+        "traditional motifs",
+        "heritage showcase"
+      ]
+    },
+    {
+      "id": "SBC_ART_003",
+      "name": "Reteti Elephant Sanctuary Murals",
+      "short_description": "Bright, educational murals adorn the walls at Reteti, depicting the journey of rescued elephants and the importance of their protection. Inspiring art with a heartwarming message.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Reteti Elephant Sanctuary",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/1769641/pexels-photo-1769641.jpeg?auto=compress&cs=tinysrgb&fit=max&fm=jpg&h=627&w=1200",
+      "tags": [
+        "elephant art",
+        "sanctuary art",
+        "wildlife education"
+      ]
+    },
+    {
+      "id": "SBC_ART_004",
+      "name": "Archer's Post Storytelling Walls",
+      "short_description": "Find a series of narrative murals in Archer's Post that tell local folk tales and historical events using vibrant colors and traditional artistry. Each mural is a window into the past.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Archer's Post community areas",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/African_street_art_mural.jpg",
+      "tags": [
+        "folk tales",
+        "historical art",
+        "community expression"
+      ]
+    },
+    {
+      "id": "SBC_STAIR_001",
+      "name": "Saruni Samburu's Hilltop Ascent",
+      "short_description": "Ascend the winding stone pathways and steps leading to Saruni Samburu's main lodge, offering increasingly dramatic views of the surrounding wilderness with every step.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Saruni Samburu Lodge",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1587588102375-73f1d81005f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDExfHNhZmFyaSUyMGxvZGdlJTIwcGF0aHdheXN8ZW58MHx8fHwxNzA5MTc0ODA2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lodge pathway",
+        "scenic walk",
+        "architectural beauty"
+      ]
+    },
+    {
+      "id": "SBC_STAIR_002",
+      "name": "Buffalo Springs Riverine Trail",
+      "short_description": "Embark on a designated walking trail along the Ewaso Nyiro River within Buffalo Springs National Reserve, offering unique perspectives of riverine wildlife and lush vegetation.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Buffalo Springs National Reserve",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1577969308658-005139031024?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDR8fHJpdmVyaW5lJTIwdHJhaWwlMjBhZnJpY2F8ZW58MHx8fHwxNzA5MTc0ODgwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature walk",
+        "river views",
+        "wildlife spotting"
+      ]
+    },
+    {
+      "id": "SBC_STAIR_003",
+      "name": "Sasaab's Elevated Wooden Walkways",
+      "short_description": "Explore Sasaab Lodge via its intricate system of elevated wooden walkways that connect the luxurious tents, offering serene jungle views and a sense of seamless integration with nature.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Sasaab Lodge",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1586937617462-8178a9c336b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDZ8fHdvb2RlbiUyMHdhbGt3YXklMjBhZnJpY2F8ZW58MHx8fHwxNzA5MTc1MDE1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lodge design",
+        "eco-friendly",
+        "jungle path"
+      ]
+    },
+    {
+      "id": "SBC_STAIR_004",
+      "name": "Reteti's Caretaker Trails",
+      "short_description": "Follow the pathways used by the dedicated caretakers at Reteti Elephant Sanctuary, offering a unique perspective on their daily routines and the vital care provided to the orphaned elephants.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Reteti Elephant Sanctuary",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/10313136/pexels-photo-10313136.jpeg?auto=compress&cs=tinysrgb&fit=max&fm=jpg&h=627&w=1200",
+      "tags": [
+        "sanctuary walk",
+        "elephant care",
+        "behind-the-scenes"
+      ]
+    },
+    {
+      "id": "SBC_FOOD_001",
+      "name": "Saruni Samburu's Boma Dinner",
+      "short_description": "Experience an unforgettable Boma dinner under the stars at Saruni Samburu, featuring traditional Samburu cuisine and international dishes, often accompanied by local warrior dances.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Saruni Samburu Lodge",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1628169224424-648c688321d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDN8fHNvbnNlJTIwYm9tYSUyMGRpbm5lcnxlbnwwfHx8fDE3MDkxNzUxMDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fine dining",
+        "cultural experience",
+        "stargazing dinner"
+      ]
+    },
+    {
+      "id": "SBC_FOOD_002",
+      "name": "Maralal Nyama Choma Hub",
+      "short_description": "Head to one of Maralal's bustling local eateries for authentic Nyama Choma (grilled meat), a Kenyan staple. Enjoy succulent goat or beef with ugali and kachumbari in a lively setting.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Maralal Town",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1621867175402-944e5421d01f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDEwfHxueWFtYSUyMGNob21hfGVufDB8fHx8MTcwOTE3NTE0MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "local cuisine",
+        "street food",
+        "Kenyan staple"
+      ]
+    },
+    {
+      "id": "SBC_FOOD_003",
+      "name": "Ewaso River Bush Breakfast",
+      "short_description": "Enjoy a magical bush breakfast set up on the banks of the Ewaso Nyiro River. Savor delicious food while watching wildlife come to drink, an unforgettable start to your safari day.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Ewaso Nyiro River bank (within reserves)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1590435948312-d967a57a8a64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDR8fGJ1c2hlJTIwYnJlYWtmYXN0fGVufDB8fHx8MTcwOTE3NTE3MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "safari dining",
+        "riverfront",
+        "wildlife viewing"
+      ]
+    },
+    {
+      "id": "SBC_FOOD_004",
+      "name": "Samburu Simba Lodge Restaurant",
+      "short_description": "Dine at Samburu Simba Lodge, offering a comfortable setting with views over the river and plains. Enjoy a mix of international and local dishes, perfect for a relaxing evening meal.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Samburu Simba Lodge, Samburu NR",
+      "best_time": "Night",
+      "images": "https://images.pexels.com/photos/10109961/pexels-photo-10109961.jpeg?auto=compress&cs=tinysrgb&fit=max&fm=jpg&h=627&w=1200",
+      "tags": [
+        "lodge restaurant",
+        "comfort food",
+        "scenic dining"
+      ]
+    },
+    {
+      "id": "SBC_BRIDGE_001",
+      "name": "Ewaso Nyiro Crossing Point",
+      "short_description": "Capture the essence of the Ewaso Nyiro River at a prominent vehicle crossing point, where vehicles sometimes ford the river and wildlife can be seen drinking nearby. A classic safari vista.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Inside Samburu National Reserve",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1627964177709-648b7156942c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDh8fEV3YXNvJTIwTnlpcm8lMjByaXZlcnxlbnwwfHx8fDE3MDkxNzUzMDR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "river crossing",
+        "wildlife photography",
+        "safari view"
+      ]
+    },
+    {
+      "id": "SBC_BRIDGE_002",
+      "name": "Sasaab Lodge's Sunset Deck",
+      "short_description": "The elevated viewing deck at Sasaab Lodge offers spectacular sunset views over the Ewaso Nyiro River and the vast plains. Enjoy sundowners as the sky transforms into a canvas of colors.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Sasaab Lodge",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1549429188-062402179831?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDE2fHNhZmFyaSUyMG92ZXJsb29rfGVufDB8fHx8MTcwOTE3NTMzNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sundowners",
+        "panoramic view",
+        "lodge viewpoint"
+      ]
+    },
+    {
+      "id": "SBC_BRIDGE_003",
+      "name": "Ololokwe Mountain Viewpoint",
+      "short_description": "Journey to a designated viewpoint offering stunning vistas of the iconic Ololokwe Mountain, a sacred landmark for the Samburu people. Its flat-topped silhouette dominates the horizon.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near Wamba",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ololokwe.jpg",
+      "tags": [
+        "mountain view",
+        "sacred site",
+        "landscape photography"
+      ]
+    },
+    {
+      "id": "SBC_BRIDGE_004",
+      "name": "Saruni Samburu's Rock Pool Overlook",
+      "short_description": "From a hidden vantage point at Saruni Samburu, observe the lodge's natural rock pools where elephants sometimes come to drink. A unique and intimate wildlife viewing experience.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Saruni Samburu Lodge",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1627964177709-648b7156942c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDh8fEV3YXNvJTIwTnlpcm8lMjByaXZlcnxlbnwwfHx8fDE3MDkxNzUzMDR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "elephant viewing",
+        "natural pools",
+        "secluded spot"
+      ]
+    },
+    {
+      "id": "SBC_RIVER_001",
+      "name": "Ewaso Nyiro Wildlife Haven",
+      "short_description": "Witness the lifeblood of Samburu County, the Ewaso Nyiro River, attracting elephants, giraffes, and various antelopes. The riverbanks are prime spots for wildlife photography.",
+      "subtype": "Riverside & Scenic Water Views",
+      "location_hint": "Samburu National Reserve, along the river",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1627964177709-648b7156942c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDh8fEV3YXNvJTIwTnlpcm8lMjByaXZlcnxlbnwwfHx8fDE3MDkxNzUzMDR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "river safari",
+        "wildlife hotspot",
+        "natural beauty"
+      ]
+    },
+    {
+      "id": "SBC_RIVER_002",
+      "name": "Buffalo Springs River Oasis",
+      "short_description": "Explore the lush riverine forest of Buffalo Springs National Reserve, where natural springs feed into the Ewaso Nyiro, creating a vibrant oasis for birds and animals.",
+      "subtype": "Riverside & Scenic Water Views",
+      "location_hint": "Buffalo Springs National Reserve",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1616010531584-c81b95ffc70d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDV8fHJpdmVyaW5lJTIwb2FzaXN8ZW58MHx8fHwxNzA5MTc1OTg4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "bird watching",
+        "natural springs",
+        "green landscape"
+      ]
+    },
+    {
+      "id": "SBC_RIVER_003",
+      "name": "Sasaab Lodge Riverfront Decks",
+      "short_description": "Relax on the private decks of Sasaab Lodge, offering uninterrupted views of the Ewaso Nyiro River flowing below. A perfect spot for quiet reflection and watching wildlife from afar.",
+      "subtype": "Riverside & Scenic Water Views",
+      "location_hint": "Sasaab Lodge",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/6262489/pexels-photo-6262489.jpeg?auto=compress&cs=tinysrgb&fit=max&fm=jpg&h=627&w=1200",
+      "tags": [
+        "luxury views",
+        "private balcony",
+        "tranquil escape"
+      ]
+    },
+    {
+      "id": "SBC_RIVER_004",
+      "name": "Archer's Post Bridge Panorama",
+      "short_description": "Stand on the bridge near Archer's Post for a panoramic view of the Ewaso Nyiro River as it winds through the arid landscape. A popular spot for local activity and stunning sunrises.",
+      "subtype": "Riverside & Scenic Water Views",
+      "location_hint": "Archer's Post",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ewaso_Nyiro_River.jpg",
+      "tags": [
+        "river panorama",
+        "sunrise spot",
+        "local life"
+      ]
+    },
+    {
+      "id": "SBC_FEST_001",
+      "name": "Maralal Camel Derby Spectacle",
+      "short_description": "Witness the thrilling Maralal Camel Derby, an annual international event featuring camel races, cultural performances, and traditional Samburu celebrations. An unmissable spectacle.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Maralal Town",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1590748530419-d05ec2c2448b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDR8fGNhbWVsJTIwZGVyYnklMjBrZW55YXxlbnwwfHx8fDE3MDkxNzYxMTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "camel race",
+        "cultural festival",
+        "annual event"
+      ]
+    },
+    {
+      "id": "SBC_FEST_002",
+      "name": "Samburu Warrior Games",
+      "short_description": "Experience the captivating Samburu Warrior Games, where young warriors showcase their agility, strength, and traditional skills through competitive events and ceremonial dances.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Various community conservancies",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1594953335266-9c4c4b95f269?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDR8fHNhbWJ1cnUlMjB3YXJyaW9ycyUyMGFmcmljYXxlbnwwfHx8fDE3MDkxNzYxNjl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cultural games",
+        "traditional dance",
+        "warrior culture"
+      ]
+    },
+    {
+      "id": "SBC_FEST_003",
+      "name": "Reteti's Community Day Celebrations",
+      "short_description": "Join the joyous community day celebrations at Reteti Elephant Sanctuary, often featuring local choirs, traditional performances, and educational outreach about elephant conservation.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Reteti Elephant Sanctuary",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/8993275/pexels-photo-8993275.jpeg?auto=compress&cs=tinysrgb&fit=max&fm=jpg&h=627&w=1200",
+      "tags": [
+        "sanctuary event",
+        "conservation awareness",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "SBC_FEST_004",
+      "name": "Nomadic Cultural Exchange Gatherings",
+      "short_description": "Participate in or observe smaller, authentic nomadic cultural gatherings that occur throughout the year, offering a glimpse into rites of passage, blessings, and social festivities.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Remote Samburu villages",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/07/Samburu_ceremony.jpg",
+      "tags": [
+        "traditional ceremony",
+        "nomadic culture",
+        "authentic experience"
+      ]
+    },
+    {
+      "id": "SBC_HIST_001",
+      "name": "Traditional Samburu Bomas",
+      "short_description": "Explore an authentic Samburu 'boma' (homestead), a circular arrangement of huts built from local materials by women. These structures embody centuries of nomadic architecture and communal living.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Various community visits",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1626388484196-dd999335f47d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDEzfHNhbWJ1cnUlMjBiZWFkZmFjdG9yeXxlbnwwfHx8fDE3MDkxNzMwMDl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "traditional housing",
+        "indigenous architecture",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "SBC_HIST_002",
+      "name": "Maralal Colonial District Headquarters",
+      "short_description": "Discover remnants of colonial-era administration in Maralal, including old stone buildings that once served as district headquarters. They offer a historical contrast to the natural landscapes.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Maralal Town Center",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/2034335/pexels-photo-2034335.jpeg?auto=compress&cs=tinysrgb&fit=max&fm=jpg&h=627&w=1200",
+      "tags": [
+        "colonial history",
+        "historical buildings",
+        "town architecture"
+      ]
+    },
+    {
+      "id": "SBC_HIST_003",
+      "name": "Old Mission Outpost Structures",
+      "short_description": "Visit historic mission outposts scattered across Samburu, featuring unique stone or mud-brick structures that tell tales of early evangelization and community development in the region.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Rural Samburu areas",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a9/House_made_of_earth_and_straw%2C_Wap_Oud_Ghor.jpg",
+      "tags": [
+        "mission history",
+        "religious heritage",
+        "remote structures"
+      ]
+    },
+    {
+      "id": "SBC_HIST_004",
+      "name": "Archer's Post Trading Center Remains",
+      "short_description": "Explore the historical significance of Archer's Post, once a vital trading post. Look for older structures that hint at its past as a key junction for commerce and cultural exchange.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Archer's Post",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596207122045-8147d3c267c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDF8fHNhcnVuaSUyMHNhbWJ1cnV8ZW58MHx8fHwxNzA5MTc0MzA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "trading post",
+        "historical site",
+        "old town"
+      ]
+    },
+    {
+      "id": "SBC_GARDEN_001",
+      "name": "Saruni Samburu's Xeriscape Gardens",
+      "short_description": "Wander through Saruni Samburu's carefully curated xeriscape gardens, featuring drought-resistant succulents and native plants that thrive in the arid environment, bursting with subtle colors.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Saruni Samburu Lodge grounds",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1628109315998-35616b2cfd86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDN8fHhlcmlzY2FwZSUyMGdhcmRlbiUyMHNhZmFyaXxlbnwwfHx8fDE3MDkxNzY2MjN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "drought-tolerant",
+        "native plants",
+        "lodge gardens"
+      ]
+    },
+    {
+      "id": "SBC_GARDEN_002",
+      "name": "Ewaso Nyiro Riverine Flora",
+      "short_description": "Discover pockets of vibrant riverine flora along the Ewaso Nyiro River banks, especially after rains. Spot unique wildflowers and lush greenery contrasting with the dry savanna.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Along Ewaso Nyiro River",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1579737156942-0f199b9e6e4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMnwwfDF8c2VhcmNofDh8fHJpdmVyaW5lJTIwZmxvcmElMjBhZnJpY2F8ZW58MHx8fHwxNzA5MTc2NzAyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wildflowers",
+        "river ecosystem",
+        "natural beauty"
+      ]
+    },
+    {
+      "id": "SBC_GARDEN_003",
+      "name": "Sasaab Lodge's Indigenous Plantings",
+      "short_description": "Stroll through the grounds of Sasaab Lodge, where indigenous trees and shrubs create shaded pathways and attract local birds. Their commitment to native plantings is truly admirable.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Sasaab Lodge grounds",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/10109961/pexels-photo-10109961.jpeg?auto=compress&cs=tinysrgb&fit=max&fm=jpg&h=627&w=1200",
+      "tags": [
+        "indigenous trees",
+        "bird friendly",
+        "sustainable landscaping"
+      ]
+    },
+    {
+      "id": "SBC_GARDEN_004",
+      "name": "Samburu Community Seedling Nurseries",
+      "short_description": "Visit community-run seedling nurseries that are crucial for reforestation efforts in Samburu. These modest gardens showcase the region's dedication to preserving its natural environment.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Various community conservancies",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Local_market_in_Malawi.jpg",
+      "tags": [
+        "reforestation",
+        "community project",
+        "eco-conscious"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Abuja",
+    "city_id": "2446"
+  },
+  "items": [
+    {
+      "id": "UNW001",
+      "name": "Mpape Crushed Rock Lake",
+      "short_description": "Discover Abuja's unexpected blue lake nestled within a dramatic, repurposed quarry. Its serene waters and towering rock walls offer a stunning backdrop for photography.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Mpape, near Berger Quarry",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1627945063740-109062e20516?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "hidden gem",
+        "nature escape",
+        "dramatic landscape"
+      ]
+    },
+    {
+      "id": "UNW002",
+      "name": "Aso Rock's Granite Majesty",
+      "short_description": "Towering above the city, Aso Rock is Abuja's iconic monolith, a symbol of power and natural beauty. Capture its grandeur, especially from the surrounding presidential complex.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Presidential Complex vicinity",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/23/Aso_Rock_in_Abuja.jpg",
+      "tags": [
+        "iconic landmark",
+        "geology",
+        "city views"
+      ]
+    },
+    {
+      "id": "UNW003",
+      "name": "Usuma Dam Reservoir Views",
+      "short_description": "Explore the expansive Usuma Dam, offering tranquil waters and rolling hills that create a picturesque, almost mountainous landscape, perfect for serene nature shots.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Bwari Area Council",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1577717462035-7157833215c0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "reservoir",
+        "scenic drive",
+        "water body"
+      ]
+    },
+    {
+      "id": "UNW004",
+      "name": "Gurara Falls Cascades (Near Abuja)",
+      "short_description": "Though a short drive from Abuja, these magnificent waterfalls are a must-see. The powerful cascades and lush surroundings create a vibrant, refreshing natural spectacle.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Kaduna State (near Suleja)",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Gurara_Waterfall.jpg",
+      "tags": [
+        "waterfall",
+        "day trip",
+        "lush greenery"
+      ]
+    },
+    {
+      "id": "CLN001",
+      "name": "Wuse Market Vibrancy",
+      "short_description": "Immerse yourself in the bustling energy and kaleidoscope of colors at Wuse Market. From vibrant fabrics to fresh produce, every corner offers a lively photo opportunity.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Wuse Zone 5",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/17697721/pexels-photo-17697721/free-photo-of-two-women-walking-at-a-market.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "market life",
+        "local culture",
+        "street photography"
+      ]
+    },
+    {
+      "id": "CLN002",
+      "name": "Arts & Crafts Village Hues",
+      "short_description": "Wander through the Abuja Arts & Crafts Village, where colorful stalls overflow with traditional crafts, textiles, and artworks, creating a visual feast for the eyes.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Central Business District",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/9/91/Abuja_Arts_and_Crafts_Village.jpg",
+      "tags": [
+        "artisan crafts",
+        "cultural market",
+        "souvenirs"
+      ]
+    },
+    {
+      "id": "CLN003",
+      "name": "Garki Village Authentic Charm",
+      "short_description": "Step into Garki Village, a more traditional community offering glimpses of local life with brightly painted homes and vibrant street scenes, a stark contrast to modern Abuja.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Garki Area 7",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/972132/pexels-photo-972132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "community",
+        "local life",
+        "authentic"
+      ]
+    },
+    {
+      "id": "CLN004",
+      "name": "Durumi Fabric & Flair",
+      "short_description": "Explore Durumi's lively streets, known for local tailors and fabric sellers. The vibrant patterns and textures on display make for a dynamic and colorful visual experience.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Durumi District",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/1036856/pexels-photo-1036856.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "textiles",
+        "fashion",
+        "street vendors"
+      ]
+    },
+    {
+      "id": "DSD001",
+      "name": "Jabi Lake Artificial Dunes",
+      "short_description": "While Abuja lacks natural deserts, parts of Jabi Lake's shoreline feature landscaped sandy areas that mimic small dunes, offering a unique 'desert island' feel by the water.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Jabi Lake Park",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/7161048/pexels-photo-7161048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "urban oasis",
+        "sandy beach",
+        "lake view"
+      ]
+    },
+    {
+      "id": "DSD002",
+      "name": "Abuja Botanical Garden Arid Zone",
+      "short_description": "Discover a specially curated arid zone within Abuja's Botanical Garden, featuring desert-like plants and sandy ground that evokes the stark beauty of a distant dune landscape.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Abuja Botanical Garden",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1502488804595-654f59424c62?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "botanical",
+        "xeriscape",
+        "garden feature"
+      ]
+    },
+    {
+      "id": "DSD003",
+      "name": "Zenith Sands Retreat Landscape",
+      "short_description": "Imagine a luxury retreat on the outskirts of Abuja designed with extensive sand landscaping and rock formations, creating a pseudo-desert environment for exclusive photoshoots.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Usuma-Bwari Road (fictional)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1549925243-73130424578e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "luxury resort",
+        "artificial landscape",
+        "unique setting"
+      ]
+    },
+    {
+      "id": "DSD004",
+      "name": "Rock City Sandstone Formations",
+      "short_description": "Explore weathered sandstone formations on the city's outskirts, where erosion has carved interesting shapes and left sandy deposits, evoking a mini-dune experience amidst the rocks.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Giri, Kuje Area Council",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1621213348107-1c6c06a86c62?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "geological",
+        "rocky landscape",
+        "hiking"
+      ]
+    },
+    {
+      "id": "HAC001",
+      "name": "Old Secretariat Courtyard Serenity",
+      "short_description": "Discover the tranquil, tree-shaded courtyard of the Old Federal Secretariat. Its colonial-era architecture and quiet corners offer a peaceful escape and a touch of historical charm.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Area 1, Garki",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1558235282-1f4a9b6a9e1e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "historic building",
+        "peaceful spot",
+        "architecture"
+      ]
+    },
+    {
+      "id": "HAC002",
+      "name": "Wuse Market Back Alleys",
+      "short_description": "Venture into the less-trodden back alleys of Wuse Market, where you'll find authentic street scenes, hidden vendors, and a gritty charm perfect for capturing local life.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Wuse Zone 5",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/1000627/pexels-photo-1000627.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "urban exploration",
+        "street life",
+        "authentic"
+      ]
+    },
+    {
+      "id": "HAC003",
+      "name": "National Mosque Annex Passages",
+      "short_description": "Explore the intricate, shaded passages and courtyards surrounding the National Mosque. Their geometric patterns and serene ambiance provide unique architectural photography opportunities.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Central Business District",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549247716-e555776d6168?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "islamic architecture",
+        "serene",
+        "geometric design"
+      ]
+    },
+    {
+      "id": "HAC004",
+      "name": "Sheraton Abuja Hotel Garden Courtyard",
+      "short_description": "Escape the city buzz in the lush, landscaped garden courtyard of the Abuja Continental Hotel (formerly Sheraton). A tranquil oasis with elegant pathways and water features.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Wuse Zone 4",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1588725841491-0fcf88147d3c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "hotel garden",
+        "luxury",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "SAM001",
+      "name": "Central Business District Murals",
+      "short_description": "Discover vibrant and thought-provoking street art adorning walls in Abuja's Central Business District, adding a splash of color and culture to the urban landscape.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Around Millennium Tower",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1554904257-897b5e43486a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "urban art",
+        "public art",
+        "colorful"
+      ]
+    },
+    {
+      "id": "SAM002",
+      "name": "Jabi Lake Park Art Walls",
+      "short_description": "Stroll along the perimeter walls of Jabi Lake Park, often adorned with community art projects and murals that reflect local themes and bring joy to passersby.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Jabi Lake Park Entrance",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/1726074/pexels-photo-1726074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "community art",
+        "outdoor gallery",
+        "lake proximity"
+      ]
+    },
+    {
+      "id": "SAM003",
+      "name": "Area 1 Underpass Gallery",
+      "short_description": "Explore the unexpected art gallery beneath the Area 1 roundabout, where local artists often transform concrete walls into canvases of expression and storytelling.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Area 1 Roundabout",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1563853110992-cf0520b7ae4d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "urban discovery",
+        "hidden art",
+        "underpass"
+      ]
+    },
+    {
+      "id": "SAM004",
+      "name": "Garki Market Lane Murals",
+      "short_description": "Wander down the bustling lanes around Garki Market to find striking murals depicting scenes of Nigerian life, cultural symbols, and abstract designs, adding character to the vibrant area.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Garki Area 2 Market",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/10636774/pexels-photo-10636774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "market art",
+        "cultural themes",
+        "street photography"
+      ]
+    },
+    {
+      "id": "CUI001",
+      "name": "National Centre for Arts & Culture Exhibits",
+      "short_description": "Immerse yourself in Nigerian heritage at the National Centre for Arts & Culture. Its diverse exhibits of traditional artifacts and contemporary art are truly captivating.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Area 10, Garki",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nigerian_National_Museum%2C_Lagos.jpg",
+      "tags": [
+        "heritage",
+        "museum",
+        "african art"
+      ]
+    },
+    {
+      "id": "CUI002",
+      "name": "Abuja Arts & Crafts Village Sculptures",
+      "short_description": "Beyond the stalls, the Arts & Crafts Village features various sculptures and installations made from local materials, celebrating Nigerian artistry and ingenuity.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Central Business District",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Benin_Bronze_Head_at_the_Abuja_Arts_and_Crafts_Village.jpg",
+      "tags": [
+        "traditional art",
+        "sculpture",
+        "craftsmanship"
+      ]
+    },
+    {
+      "id": "CUI003",
+      "name": "Millennium Park Public Art",
+      "short_description": "Stroll through Millennium Park to discover various large-scale public art installations and sculptures, adding an artistic dimension to Abuja's largest green space.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Central Business District",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Millennium_Park_Abuja_%282%29.jpg",
+      "tags": [
+        "public park",
+        "outdoor art",
+        "leisure"
+      ]
+    },
+    {
+      "id": "CUI004",
+      "name": "Thought Pyramid Art Centre Exhibitions",
+      "short_description": "Visit the Thought Pyramid Art Centre, a leading contemporary art gallery in Abuja, showcasing bold and modern cultural installations by Nigerian and international artists.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Wuse 2",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1579783902674-c9233f86e33e?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "contemporary art",
+        "art gallery",
+        "modern culture"
+      ]
+    },
+    {
+      "id": "HIA001",
+      "name": "Federal Secretariat Complex (Phase I)",
+      "short_description": "Explore the monumental Federal Secretariat Complex, an early architectural marvel of Abuja's planned capital, reflecting the city's foundational design principles and historical significance.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Central Business District",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1621213348107-1c6c06a86c62?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "government building",
+        "mid-century modern",
+        "historical site"
+      ]
+    },
+    {
+      "id": "HIA002",
+      "name": "National Archives Building",
+      "short_description": "The National Archives Building houses Nigeria's historical records. Its solid, functionalist design embodies the earnest beginnings of a new nation's capital.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Area 10, Garki",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1620717208947-f50f6131336e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "archive",
+        "governmental",
+        "architectural history"
+      ]
+    },
+    {
+      "id": "HIA003",
+      "name": "Old Presidential Lodge",
+      "short_description": "Visit the Old Presidential Lodge, one of the earliest official residences in Abuja. Its modest yet significant architecture tells tales of the nation's early leadership.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Aso Rock Environs",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1544498595-c1e149c47e8e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "presidential history",
+        "early capital",
+        "historical residence"
+      ]
+    },
+    {
+      "id": "HIA004",
+      "name": "Garki Area 2 Mosque",
+      "short_description": "Discover the unique, older design of the Garki Area 2 Mosque, an early place of worship in the nascent city, combining traditional motifs with functional architecture.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Garki Area 2",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1587595537526-7f415951d6ed?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "religious building",
+        "local heritage",
+        "mosque"
+      ]
+    },
+    {
+      "id": "MOD001",
+      "name": "National Mosque's Golden Domes",
+      "short_description": "Abuja's National Mosque is an architectural masterpiece, with its gleaming golden domes and towering minarets standing majestically against the skyline, especially stunning at sunset.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Central Business District",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/8/87/National_Mosque_Abuja%2C_Nigeria.jpg",
+      "tags": [
+        "iconic landmark",
+        "islamic architecture",
+        "golden domes"
+      ]
+    },
+    {
+      "id": "MOD002",
+      "name": "National Christian Centre's Spire",
+      "short_description": "The National Christian Centre boasts a unique, futuristic spire and complex geometric design, a testament to modern religious architecture and a striking photographic subject.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Central Business District",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e2/National_Christian_Centre_Abuja.jpg",
+      "tags": [
+        "futuristic design",
+        "religious monument",
+        "architectural wonder"
+      ]
+    },
+    {
+      "id": "MOD003",
+      "name": "World Trade Centre Abuja Towers",
+      "short_description": "Capture the sleek, contemporary lines of the World Trade Centre Abuja, one of the city's tallest and most modern complexes, symbolizing its economic aspirations.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Central Business District",
+      "best_time": "Night",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/World_Trade_Centre_Abuja.jpg/1280px-World_Trade_Centre_Abuja.jpg",
+      "tags": [
+        "skyscraper",
+        "urban landscape",
+        "business hub"
+      ]
+    },
+    {
+      "id": "MOD004",
+      "name": "ECOWAS Commission Headquarters",
+      "short_description": "The striking ECOWAS Commission Building features a contemporary design with bold curves and expansive glass, representing regional unity through modern architectural expression.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Asokoro District",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b5/ECOWAS_Commission_Building_in_Abuja.jpg",
+      "tags": [
+        "international relations",
+        "sleek design",
+        "governmental"
+      ]
+    },
+    {
+      "id": "INP001",
+      "name": "Transcorp Hilton Abuja Sky Pool",
+      "short_description": "Dive into luxury at Transcorp Hilton's stunning outdoor pool, designed with an infinity edge that seemingly merges with the Abuja skyline, offering chic city views.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Maitama District",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/10140738/pexels-photo-10140738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "luxury hotel",
+        "rooftop pool",
+        "cityscape"
+      ]
+    },
+    {
+      "id": "INP002",
+      "name": "The Envoy Hotel Rooftop Plunge",
+      "short_description": "Experience an intimate yet sophisticated infinity pool at The Envoy Hotel. Its sleek design and elevated position offer exclusive views of the upscale diplomatic quarter.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Diplomatic Zone",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/1557022/pexels-photo-1557022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "boutique hotel",
+        "exclusive",
+        "sunset views"
+      ]
+    },
+    {
+      "id": "INP003",
+      "name": "Abuja Continental Hotel Pool Terrace",
+      "short_description": "The Abuja Continental Hotel (formerly Sheraton) features a beautifully designed infinity-style pool terrace, offering a refreshing escape and elegant photo opportunities amidst lush gardens.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Wuse Zone 4",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/10368528/pexels-photo-10368528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "resort pool",
+        "landscaped",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "INP004",
+      "name": "The Nordic Hotel Infinity Edge",
+      "short_description": "Enjoy the minimalist elegance of The Nordic Hotel's infinity-edge pool, providing a tranquil blue expanse that contrasts beautifully with its contemporary surroundings.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Jabi District",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "modern design",
+        "chic",
+        "poolside"
+      ]
+    },
+    {
+      "id": "BCV001",
+      "name": "Jabi Lake Waterfront Oasis",
+      "short_description": "Experience Abuja's closest 'coastal' feel at Jabi Lake's serene waterfront. The expansive lake and sandy banks offer picturesque views, perfect for a relaxing escape.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Jabi Lake Park",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1543884877-c30999511677?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "lakefront",
+        "urban beach",
+        "sunset spot"
+      ]
+    },
+    {
+      "id": "BCV002",
+      "name": "Jabi Boat Club Sandy Shores",
+      "short_description": "The Jabi Boat Club offers a vibrant 'beach club' atmosphere with curated sandy areas, cabanas, and stunning lake views, creating a lively coastal-like experience in the city.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Jabi Lake",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/18446927/pexels-photo-18446927/free-photo-of-people-at-the-beach.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "boat club",
+        "leisure",
+        "artificial beach"
+      ]
+    },
+    {
+      "id": "BCV003",
+      "name": "Abuja Sands Resort Lakeside Charm",
+      "short_description": "This fictional luxury resort by Jabi Lake boasts an expansive artificial beach and infinity pools that blend seamlessly with the lake, offering a true 'coastal' resort experience inland.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Jabi Lake North Shore (fictional)",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/5604470/pexels-photo-5604470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "luxury resort",
+        "lakeside",
+        "beachfront feel"
+      ]
+    },
+    {
+      "id": "BCV004",
+      "name": "Lakeview Island Oasis Lounging",
+      "short_description": "Imagine a secluded, curated 'island oasis' on Jabi Lake with pristine sandy lounging areas and palm trees, offering an exclusive and picturesque escape with tranquil water views.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Jabi Lake (fictional private island)",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "private retreat",
+        "exotic",
+        "water views"
+      ]
+    }
+  ]
+}

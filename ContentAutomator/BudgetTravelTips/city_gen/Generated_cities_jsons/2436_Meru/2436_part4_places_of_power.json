@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Meru",
+    "city_id": "2436"
+  },
+  "items": [
+    {
+      "id": "MeruRST1",
+      "name": "Shrine of Chief Mwari's Wisdom",
+      "short_description": "A venerated site housing the ancestral relics of Chief Mwari, known for her prophetic insights and unifying leadership. Pilgrims seek wisdom and guidance here.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Near Nkubu Town, Meru County",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1598402506456-42f026774618",
+      "tags": [
+        "Ancestral",
+        "Leadership",
+        "Wisdom"
+      ]
+    },
+    {
+      "id": "MeruRST2",
+      "name": "Tomb of the Silent Warriors",
+      "short_description": "This sacred tomb complex honors ancient Meru warriors who defended the land against invaders, their spirits believed to protect the current generation.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Along Kathita River, Meru Town outskirts",
+      "visiting_hours": "08:30-16:30",
+      "entry_fee": "KES 200",
+      "images": "https://images.unsplash.com/photo-1621216503794-0f1e85501865",
+      "tags": [
+        "Ancestral",
+        "Protection",
+        "History"
+      ]
+    },
+    {
+      "id": "MeruRST3",
+      "name": "Githu Ancestral Altar",
+      "short_description": "An ancient altar where offerings are made to the Githu lineage ancestors, believed to be the first settlers of this region, blessing the land and its people.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Githu Village, Buuri Sub-county, Meru",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1589178722232-a50616b3c9c9",
+      "tags": [
+        "Lineage",
+        "Offerings",
+        "Blessing"
+      ]
+    },
+    {
+      "id": "MeruRST4",
+      "name": "Sacred Calabash Shrine",
+      "short_description": "Houses a revered ancestral calabash, said to hold the spirits of matriarchs and symbolize community unity and fertility. It's a site for seeking familial blessings.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Igembe North, Meru County",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1616712134011-88f615392e21",
+      "tags": [
+        "Matriarchs",
+        "Unity",
+        "Fertility"
+      ]
+    },
+    {
+      "id": "MeruPyr1",
+      "name": "The Mwea Earth Pyramids",
+      "short_description": "Ancient, naturally formed conical hills, believed by elders to be sacred mounds where early Meru ancestors communicated with the sky spirits.",
+      "subtype": "Pyramids",
+      "address": "Mwea Plains, near Embu border, Meru County",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579708688538-2947a1ffb858",
+      "tags": [
+        "Ancient",
+        "Earthworks",
+        "Sky Spirits"
+      ]
+    },
+    {
+      "id": "MeruPyr2",
+      "name": "Kiagu Stone Cones",
+      "short_description": "A cluster of peculiar, pyramid-like stone formations, rumored to be megalithic structures erected by an ancient, forgotten Meru civilization for celestial observation.",
+      "subtype": "Pyramids",
+      "address": "Kiagu Area, Central Imenti, Meru",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "KES 300",
+      "images": "https://images.unsplash.com/photo-1510255140889-bc84931a7b45",
+      "tags": [
+        "Megalithic",
+        "Ancient Civilization",
+        "Astronomy"
+      ]
+    },
+    {
+      "id": "MeruPyr3",
+      "name": "The Mukinduri Pyramid Hill",
+      "short_description": "A solitary, perfectly conical hill revered as a natural pyramid, where traditional rituals are performed to honor the land's spiritual essence.",
+      "subtype": "Pyramids",
+      "address": "Mikinduri, Tigania East, Meru",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1608460677161-4f1131a90c5a",
+      "tags": [
+        "Natural Wonder",
+        "Rituals",
+        "Land Spirit"
+      ]
+    },
+    {
+      "id": "MeruPyr4",
+      "name": "Ngare Ndare Stone Cairns",
+      "short_description": "While not true pyramids, these stacked stone cairns are ancient burial mounds resembling small pyramids, marking significant ancestral gathering spots.",
+      "subtype": "Pyramids",
+      "address": "Ngare Ndare Forest Fringe, Meru County",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "KES 150",
+      "images": "https://images.unsplash.com/photo-1551690467-ed40b3c8f25b",
+      "tags": [
+        "Burial Mounds",
+        "Ancestral",
+        "Ceremonial"
+      ]
+    },
+    {
+      "id": "MeruCAS1",
+      "name": "Kianjai Star Gazer's Plateau",
+      "short_description": "A high-altitude plateau with ancient rock markers aligned to solstices and equinoxes, used by Meru elders for centuries to track celestial events and predict seasons.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Kianjai, Tigania West, Meru",
+      "visiting_hours": "05:00-19:00",
+      "entry_fee": "KES 400",
+      "images": "https://images.unsplash.com/photo-1533230495372-e160e181469e",
+      "tags": [
+        "Astronomy",
+        "Solstice",
+        "Ancient Knowledge"
+      ]
+    },
+    {
+      "id": "MeruCAS2",
+      "name": "Mwache Star Gate Rocks",
+      "short_description": "A unique rock formation where sunlight pierces a specific opening at dawn during the dry season, signaling crucial planting times according to Meru tradition.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Mwache Hills, Buuri East, Meru",
+      "visiting_hours": "06:00-10:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1509927976196-15e10e71629d",
+      "tags": [
+        "Sun Alignment",
+        "Agriculture",
+        "Seasonal"
+      ]
+    },
+    {
+      "id": "MeruCAS3",
+      "name": "The Lunar Rock Circle",
+      "short_description": "An enigmatic circle of stones that is said to perfectly align with the major lunar phases, used for ancient Meru moon-cycle ceremonies and spiritual rejuvenation.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Near Ruiri, Imenti North, Meru",
+      "visiting_hours": "18:00-06:00",
+      "entry_fee": "KES 250",
+      "images": "https://images.unsplash.com/photo-1522031752185-117565b93d08",
+      "tags": [
+        "Lunar Cycle",
+        "Ceremonies",
+        "Rejuvenation"
+      ]
+    },
+    {
+      "id": "MeruCAS4",
+      "name": "Mt. Kenya's Shadow Alignment Point",
+      "short_description": "A specific vantage point where, on certain astronomical days, the shadow of Mount Kenya aligns perfectly with a sacred marker, used for high spiritual communion.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "High Slopes of Mt. Kenya, Meru Side",
+      "visiting_hours": "05:30-08:00",
+      "entry_fee": "KES 500",
+      "images": "https://images.unsplash.com/photo-1472506297054-d45089c25f16",
+      "tags": [
+        "Mt Kenya",
+        "Shadow Play",
+        "Spiritual Communion"
+      ]
+    },
+    {
+      "id": "MeruMEP1",
+      "name": "Meru Holistic Healing Centre",
+      "short_description": "A modern facility combining traditional Meru healing practices with contemporary wellness techniques, offering spiritual cleansing and communal healing.",
+      "subtype": "Modern Energy Places",
+      "address": "Off Meru-Nanyuki Highway, near Gatimbi",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1528731700684-d621b1912a20",
+      "tags": [
+        "Holistic Healing",
+        "Wellness",
+        "Traditional Medicine"
+      ]
+    },
+    {
+      "id": "MeruMEP2",
+      "name": "Ubuntu Peace Sanctuary",
+      "short_description": "An interfaith retreat dedicated to fostering peace and understanding through shared spiritual practices, drawing on the Ubuntu philosophy of interconnectedness.",
+      "subtype": "Modern Energy Places",
+      "address": "Kithoka, Meru County",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1586716075196-3c0e3a6c11b1",
+      "tags": [
+        "Interfaith",
+        "Peace",
+        "Community"
+      ]
+    },
+    {
+      "id": "MeruMEP3",
+      "name": "The Shamanic Drumming Grove",
+      "short_description": "A contemporary open-air space within a reforested area, designed for rhythmic drumming, meditation, and reconnecting with ancestral sounds.",
+      "subtype": "Modern Energy Places",
+      "address": "Imenti Forest Edge, Near Kianjogu",
+      "visiting_hours": "10:00-19:00",
+      "entry_fee": "KES 350",
+      "images": "https://images.unsplash.com/photo-1526330959451-b0e512411850",
+      "tags": [
+        "Meditation",
+        "Drumming",
+        "Nature Connection"
+      ]
+    },
+    {
+      "id": "MeruMEP4",
+      "name": "Kuru Sacred Seeds Eco-Spiritual Farm",
+      "short_description": "An innovative farm practicing permaculture and traditional Meru farming methods, viewed as a spiritual act of stewarding the land and fostering abundance.",
+      "subtype": "Modern Energy Places",
+      "address": "Kuru Area, South Imenti, Meru",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1499540059371-33157d603a11",
+      "tags": [
+        "Eco-Spirituality",
+        "Permaculture",
+        "Abundance"
+      ]
+    },
+    {
+      "id": "MeruPR1",
+      "name": "The Kionyo Ancestral Walk",
+      "short_description": "A challenging ancient path leading to the revered Kionyo Falls, undertaken by initiates seeking spiritual cleansing and blessings from river spirits.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Kionyo Gorge, South Imenti, Meru",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "KES 300",
+      "images": "https://images.unsplash.com/photo-1584400506041-3b76a062f64b",
+      "tags": [
+        "Cleansing",
+        "Initiation",
+        "River Spirits"
+      ]
+    },
+    {
+      "id": "MeruPR2",
+      "name": "Path of the Sacred Mugumo Tree",
+      "short_description": "A winding trail culminating at one of Meru's largest and oldest Mugumo (fig) trees, where prayers for fertility and prosperity are offered.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Deep within Imenti Forest, Meru County",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "KES 200",
+      "images": "https://images.unsplash.com/photo-1505761671935-60b379435263",
+      "tags": [
+        "Sacred Tree",
+        "Fertility",
+        "Prosperity"
+      ]
+    },
+    {
+      "id": "MeruPR3",
+      "name": "Ascent to Kirima-Kia-Ndege Peak",
+      "short_description": "A strenuous pilgrimage route to a high peak, believed to be closer to the heavens, offering profound spiritual clarity and panoramic views of sacred lands.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Kirima-Kia-Ndege Hills, Tigania East, Meru",
+      "visiting_hours": "06:00-15:00",
+      "entry_fee": "KES 500",
+      "images": "https://images.unsplash.com/photo-1508209623868-b7a5bc839d37",
+      "tags": [
+        "Clarity",
+        "High Altitude",
+        "Mountain Walk"
+      ]
+    },
+    {
+      "id": "MeruPR4",
+      "name": "The Kathita River Blessing Trail",
+      "short_description": "A gentle path following the Kathita River, used for walking meditations and ritual blessings, connecting pilgrims with the life-giving essence of the water.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Along Kathita River banks, Meru Town outskirts",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594970425958-9584b423f03b",
+      "tags": [
+        "River Blessing",
+        "Meditation",
+        "Life Force"
+      ]
+    },
+    {
+      "id": "MeruVZ1",
+      "name": "Nyambene Hills Fissure Sites",
+      "short_description": "Remnants of ancient volcanic activity, these fissures are considered gateways to the earth's primal energy, used for powerful healing rituals.",
+      "subtype": "Volcanic Zones",
+      "address": "Nyambene Hills, Igembe South, Meru",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "KES 250",
+      "images": "https://images.unsplash.com/photo-1531777085002-8e100ac13d29",
+      "tags": [
+        "Geothermal",
+        "Primal Energy",
+        "Healing"
+      ]
+    },
+    {
+      "id": "MeruVZ2",
+      "name": "The Crater of Rebirth (Mt. Kenya Foothills)",
+      "short_description": "An ancient, now dormant crater at the foothills of Mount Kenya, revered as a place of destruction and subsequent rebirth, ideal for spiritual renewal.",
+      "subtype": "Volcanic Zones",
+      "address": "Mt. Kenya National Park, Meru Side",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "KES 600",
+      "images": "https://images.unsplash.com/photo-1509893922339-b9a35e47190c",
+      "tags": [
+        "Rebirth",
+        "Renewal",
+        "Dormant Volcano"
+      ]
+    },
+    {
+      "id": "MeruVZ3",
+      "name": "Kithoka Hot Springs Grotto",
+      "short_description": "A small, naturally occurring hot spring grotto, its warm waters believed to possess purifying and invigorating spiritual properties from the earth's core.",
+      "subtype": "Volcanic Zones",
+      "address": "Kithoka Valley, Meru County",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1634591745239-2169b1834cf8",
+      "tags": [
+        "Hot Springs",
+        "Purification",
+        "Invigoration"
+      ]
+    },
+    {
+      "id": "MeruVZ4",
+      "name": "Magadi Lava Flow Remnants",
+      "short_description": "A vast field of solidified ancient lava flows, symbolizing transformation and the enduring power of the earth, often visited for introspection and grounding.",
+      "subtype": "Volcanic Zones",
+      "address": "Near Magadi, Buuri West, Meru",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628178972887-f2619056d953",
+      "tags": [
+        "Transformation",
+        "Grounding",
+        "Earth Power"
+      ]
+    },
+    {
+      "id": "MeruSF1",
+      "name": "Imenti Forest's Whispering Grove",
+      "short_description": "A secluded, ancient part of Imenti Forest where elders traditionally gather to commune with ancestral spirits and seek guidance amongst the ancient trees.",
+      "subtype": "Sacred Forests",
+      "address": "Deep within Imenti Forest, Meru",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "KES 300",
+      "images": "https://images.unsplash.com/photo-1519758133534-b2586a11e860",
+      "tags": [
+        "Ancestral Spirits",
+        "Guidance",
+        "Ancient Trees"
+      ]
+    },
+    {
+      "id": "MeruSF2",
+      "name": "Kanjalu Mugumo Sanctuary",
+      "short_description": "A protected grove centered around a colossal Mugumo tree, revered as a living shrine and a vital spiritual anchor for the local community.",
+      "subtype": "Sacred Forests",
+      "address": "Kanjalu Village, Tigania East, Meru",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1519441550-dc21d2832f6a",
+      "tags": [
+        "Mugumo Tree",
+        "Living Shrine",
+        "Community Anchor"
+      ]
+    },
+    {
+      "id": "MeruSF3",
+      "name": "Giaki Sacred Glade",
+      "short_description": "A naturally cleared glade within a dense forest, used for generations for initiation rites and ceremonies to mark transitions in life.",
+      "subtype": "Sacred Forests",
+      "address": "Giaki Area, Imenti North, Meru",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1520114090956-f04561a0f82a",
+      "tags": [
+        "Initiation",
+        "Ceremonies",
+        "Life Transitions"
+      ]
+    },
+    {
+      "id": "MeruSF4",
+      "name": "The Forest of the Wise Owls",
+      "short_description": "A less-frequented section of forest known for its large owl population, believed to be spirit guides offering wisdom and foresight to those who listen carefully.",
+      "subtype": "Sacred Forests",
+      "address": "Mikinduri Forest Reserve, Tigania East, Meru",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "KES 200",
+      "images": "https://images.unsplash.com/photo-1494975980064-a62798e21013",
+      "tags": [
+        "Spirit Guides",
+        "Wisdom",
+        "Foresight"
+      ]
+    },
+    {
+      "id": "MeruMRF1",
+      "name": "The Nthumbi Balancing Rock",
+      "short_description": "A colossal boulder precariously balanced on a smaller base, revered as a symbol of divine balance and a site for prayers for stability.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Nthumbi Hills, Buuri Sub-county, Meru",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563851515273-d6c57f92b724",
+      "tags": [
+        "Balance",
+        "Stability",
+        "Divine Power"
+      ]
+    },
+    {
+      "id": "MeruMRF2",
+      "name": "Muringine Whispering Stones",
+      "short_description": "A cluster of wind-carved rock formations, said to carry the whispers of ancestors through their natural fissures, offering guidance to those who meditate there.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Muringine Area, Imenti South, Meru",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "KES 100",
+      "images": "https://images.unsplash.com/photo-1547901777-69ef541315e9",
+      "tags": [
+        "Ancestral Whispers",
+        "Meditation",
+        "Guidance"
+      ]
+    },
+    {
+      "id": "MeruMRF3",
+      "name": "The Giant's Tooth Monolith",
+      "short_description": "A towering, solitary rock spire, believed to be the tooth of an ancient giant who protected the Meru people, symbolizing strength and resilience.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Towards Isiolo Border, Meru County",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1620967347957-c0e4c6c9a3d4",
+      "tags": [
+        "Strength",
+        "Resilience",
+        "Protection"
+      ]
+    },
+    {
+      "id": "MeruMRF4",
+      "name": "Kianthumbi Cave of Echoes",
+      "short_description": "A small cave within a large rock outcrop, known for its resonant acoustics, used for chanting and ritualistic calls to ancestral spirits.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Kianthumbi, Tigania West, Meru",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "KES 200",
+      "images": "https://images.unsplash.com/photo-1616773232156-f5b9d31d9b3e",
+      "tags": [
+        "Chanting",
+        "Rituals",
+        "Echoes"
+      ]
+    },
+    {
+      "id": "MeruSM1",
+      "name": "Mount Kenya's Eastern Foothills (Kirimara)",
+      "short_description": "The sacred lower slopes of Mount Kenya, revered as the dwelling place of Ngai (God) and a profound source of life-giving waters and spiritual energy.",
+      "subtype": "Sacred Mountains",
+      "address": "Meru side of Mt. Kenya National Park",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "KES 700",
+      "images": "https://images.unsplash.com/photo-1534067783941-51c9c23adec1",
+      "tags": [
+        "Ngai",
+        "Creation",
+        "Life Source"
+      ]
+    },
+    {
+      "id": "MeruSM2",
+      "name": "Kirima-Kia-Ndege (Mountain of Birds)",
+      "short_description": "A prominent hill believed to be a communication point between humans and the heavens, where birds carry messages between realms.",
+      "subtype": "Sacred Mountains",
+      "address": "Tigania East, Meru County",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1595166687295-8e8a8b1a329c",
+      "tags": [
+        "Heavens",
+        "Communication",
+        "Bird Spirits"
+      ]
+    },
+    {
+      "id": "MeruSM3",
+      "name": "The Twins Peaks of Muthara",
+      "short_description": "Two striking, adjacent peaks in the Muthara region, revered as symbols of duality and harmony, often visited for blessings of balance in life.",
+      "subtype": "Sacred Mountains",
+      "address": "Muthara Area, Igembe Central, Meru",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "KES 200",
+      "images": "https://images.unsplash.com/photo-1509021431613-cf8534015f5d",
+      "tags": [
+        "Duality",
+        "Harmony",
+        "Balance"
+      ]
+    },
+    {
+      "id": "MeruSM4",
+      "name": "Ngaya Hill of Visions",
+      "short_description": "A smaller, but highly spiritual hill where seers and prophets traditionally went to receive visions and guidance for the community's future.",
+      "subtype": "Sacred Mountains",
+      "address": "Ngaya Location, Imenti South, Meru",
+      "visiting_hours": "07:30-17:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1529125301389-c439cfc1a403",
+      "tags": [
+        "Visions",
+        "Prophecy",
+        "Guidance"
+      ]
+    },
+    {
+      "id": "MeruDPS1",
+      "name": "Isiolo-Meru Borderlands Sandstone Caves",
+      "short_description": "Ancient sandstone caves in the semi-arid borderlands, used by wandering spiritualists for deep meditation and connection to elemental earth energies.",
+      "subtype": "Desert Power Sites",
+      "address": "Near Isiolo-Meru Border, Meru County",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "KES 300",
+      "images": "https://images.unsplash.com/photo-1588725178696-29177114d5f4",
+      "tags": [
+        "Meditation",
+        "Earth Energy",
+        "Solitude"
+      ]
+    },
+    {
+      "id": "MeruDPS2",
+      "name": "The Lone Acacia of Endurance",
+      "short_description": "A solitary, ancient acacia tree standing resilient in the semi-arid plains, revered as a symbol of survival, strength, and unwavering spirit.",
+      "subtype": "Desert Power Sites",
+      "address": "Towards Meru-Isiolo Junction, Buuri East",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549495815-18e3d09a0601",
+      "tags": [
+        "Endurance",
+        "Survival",
+        "Strength"
+      ]
+    },
+    {
+      "id": "MeruDPS3",
+      "name": "Kinna Springs Oasis",
+      "short_description": "A small, vital oasis in the drier regions, cherished as a source of pure, life-giving water and a place of spiritual refreshment and rebirth.",
+      "subtype": "Desert Power Sites",
+      "address": "Kinna Area, Igembe North, Meru",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1583305417436-54a8523c0b11",
+      "tags": [
+        "Oasis",
+        "Refreshment",
+        "Rebirth"
+      ]
+    },
+    {
+      "id": "MeruDPS4",
+      "name": "Murera Desert Rose Labyrinth",
+      "short_description": "A natural formation of rocks resembling a labyrinth, found in the drier Murera plains, used for walking meditations to find clarity and inner peace.",
+      "subtype": "Desert Power Sites",
+      "address": "Murera Plains, Igembe Central, Meru",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "KES 150",
+      "images": "https://images.unsplash.com/photo-1587524097491-912c41c73c2a",
+      "tags": [
+        "Labyrinth",
+        "Clarity",
+        "Inner Peace"
+      ]
+    }
+  ]
+}

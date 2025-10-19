@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Douglas",
+    "city_id": "2413"
+  },
+  "items": [
+    {
+      "id": "DGL-CPT-001",
+      "name": "Douglas Big Top Circus",
+      "short_description": "A traditional circus experience under a vibrant big top, featuring acrobats, clowns, and animal-free acts. Enjoy the magic and thrill!",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Noble's Park, Douglas, IM2 4BP",
+      "opening_hours": "14:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549429718-9366e5f1b212?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "circus",
+        "live show",
+        "family entertainment"
+      ]
+    },
+    {
+      "id": "DGL-CPT-002",
+      "name": "Marina Puppet Play",
+      "short_description": "Intimate puppet shows featuring classic tales and new adventures, performed by skilled puppeteers. Perfect for younger children.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Unit 5, North Quay, Douglas, IM1 4LN",
+      "opening_hours": "11:00-12:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628178129525-2efc077b0c53?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "puppets",
+        "storytelling",
+        "theatre"
+      ]
+    },
+    {
+      "id": "DGL-CPT-003",
+      "name": "Clownfish Comedy Circus",
+      "short_description": "A splashy, underwater-themed circus with acrobatic 'fish', juggling 'crabs', and hilarious 'clownfish' acts. Unique and vibrant!",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "The Fun Palace, Promenade, Douglas, IM1 2BX",
+      "opening_hours": "15:00-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510206190479-50c119932148?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "comedy",
+        "acrobatics",
+        "themed show"
+      ]
+    },
+    {
+      "id": "DGL-CPT-004",
+      "name": "Storybook Puppet Workshop",
+      "short_description": "Watch an enchanting puppet show, then join a workshop to create your own puppet character to take home.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Community Hall, Finch Road, Douglas, IM1 2PT",
+      "opening_hours": "10:30-12:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1514486650392-ae2931a5761d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "workshop",
+        "crafts",
+        "interactive"
+      ]
+    },
+    {
+      "id": "DGL-WPK-001",
+      "name": "Splashdown Douglas",
+      "short_description": "An indoor water park with slides, splash pads, and a lazy river, perfect for year-round aquatic fun for all ages.",
+      "subtype": "Water Parks for Kids",
+      "address": "Central Promenade, Douglas, IM2 4LP",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1548366914-11005a8f4c80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "indoor water park",
+        "slides",
+        "family fun"
+      ]
+    },
+    {
+      "id": "DGL-WPK-002",
+      "name": "Pirate's Cove Water Playground",
+      "short_description": "A swashbuckling outdoor water playground with pirate ship structures, cannons, and mini slides, designed for younger adventurers.",
+      "subtype": "Water Parks for Kids",
+      "address": "Port Jack, Douglas, IM3 1AL",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1560731631-9a74a4f8d29b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "outdoor",
+        "pirate theme",
+        "splash pad"
+      ]
+    },
+    {
+      "id": "DGL-WPK-003",
+      "name": "Douglas Reef Rapids",
+      "short_description": "Experience thrilling water slides and a large wave pool, mimicking the exciting currents of a coral reef. For older kids and brave youngsters.",
+      "subtype": "Water Parks for Kids",
+      "address": "South Quay, Douglas, IM1 5LD",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1588147775949-0d32c4a964a2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wave pool",
+        "thrill slides",
+        "aquatic adventure"
+      ]
+    },
+    {
+      "id": "DGL-WPK-004",
+      "name": "Toddler Tidal Pool",
+      "short_description": "A safe, shallow water area with gentle fountains, sprinklers, and small slides, specifically designed for toddlers and very young children.",
+      "subtype": "Water Parks for Kids",
+      "address": "Victoria Road Leisure Centre, Douglas, IM2 4AW",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563810459-715783226a38?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddler friendly",
+        "shallow water",
+        "safe play"
+      ]
+    },
+    {
+      "id": "DGL-LWP-001",
+      "name": "Douglas Brick Kingdom",
+      "short_description": "An expansive indoor park filled with millions of LEGO bricks, offering building zones, giant models, and interactive displays.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Central Retail Park, Douglas, IM2 1QG",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628126742055-6674f1d6b048?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "LEGO",
+        "building blocks",
+        "creative play"
+      ]
+    },
+    {
+      "id": "DGL-LWP-002",
+      "name": "Mini-Builder's Yard",
+      "short_description": "A hands-on construction park where kids can operate mini excavators, cranes, and diggers in a safe, sand-filled environment.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "South Quay Industrial Estate, Douglas, IM1 5AT",
+      "opening_hours": "10:30-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1584989182312-d9f2c8d287a9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "construction",
+        "excavators",
+        "role play"
+      ]
+    },
+    {
+      "id": "DGL-LWP-003",
+      "name": "Technic City Workshop",
+      "short_description": "Focuses on advanced construction with Technic sets, offering workshops for kids to build working robots, vehicles, and contraptions.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Units 1-3, Cooil Road, Douglas, IM2 2SR",
+      "opening_hours": "11:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1621980860888-0f37f3944673?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "STEM",
+        "robotics",
+        "engineering"
+      ]
+    },
+    {
+      "id": "DGL-LWP-004",
+      "name": "Duplo Farm Adventure",
+      "short_description": "A colourful and spacious area dedicated to Duplo, where toddlers can explore farm-themed builds, soft play, and creative zones.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Douglas Community Centre, Broadway, Douglas, IM2 4EW",
+      "opening_hours": "09:30-14:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616239103842-83959b8a05c3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Duplo",
+        "toddler play",
+        "soft play"
+      ]
+    },
+    {
+      "id": "DGL-ZOO-001",
+      "name": "Douglas Mini Zoo",
+      "short_description": "Home to a variety of small and exotic animals, offering engaging talks and feeding demonstrations throughout the day.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Near Noble's Park, Douglas, IM2 4BP",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620025988581-2294f9ed5670?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "exotic animals",
+        "education",
+        "conservation"
+      ]
+    },
+    {
+      "id": "DGL-ZOO-002",
+      "name": "Petting Farm at Glen Gardens",
+      "short_description": "A charming petting farm where children can interact with friendly goats, sheep, rabbits, and other farm animals.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Glen Gardens, Douglas, IM4 4PL",
+      "opening_hours": "10:30-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621516709823-ce6c5d4fb179?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "farm animals",
+        "petting zoo",
+        "interactive"
+      ]
+    },
+    {
+      "id": "DGL-ZOO-003",
+      "name": "Creature Feature Encounter",
+      "short_description": "An educational centre offering hands-on encounters with reptiles, insects, and small mammals, supervised by expert handlers.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Victoria Street, Douglas, IM1 2LS",
+      "opening_hours": "13:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549419137-b93081045b6b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "reptiles",
+        "educational",
+        "animal handling"
+      ]
+    },
+    {
+      "id": "DGL-ZOO-004",
+      "name": "Isle of Man Bird Sanctuary",
+      "short_description": "A sanctuary dedicated to local and migratory birds, with large aviaries and opportunities to observe various species up close.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Baldrine Road, Douglas, IM4 6BX",
+      "opening_hours": "09:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1589345091722-e42a98f7e2c9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "birds",
+        "wildlife",
+        "nature"
+      ]
+    },
+    {
+      "id": "DGL-AMR-001",
+      "name": "Douglas Pier Carousel",
+      "short_description": "A classic seaside carousel with beautifully decorated horses and chariots, offering nostalgic fun for all ages on the promenade.",
+      "subtype": "Amusement Rides",
+      "address": "Douglas Promenade, Douglas, IM1 2BX",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563227464-a690d2e8b61c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "carousel",
+        "classic ride",
+        "promenade"
+      ]
+    },
+    {
+      "id": "DGL-AMR-002",
+      "name": "The Douglas Dragon Coaster",
+      "short_description": "A thrilling, family-friendly roller coaster with gentle dips and turns, themed around an ancient Manx dragon legend.",
+      "subtype": "Amusement Rides",
+      "address": "Funland Park, Central Promenade, Douglas, IM2 4LP",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1561081682-628d613c9e62?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "roller coaster",
+        "thrill ride",
+        "themed"
+      ]
+    },
+    {
+      "id": "DGL-AMR-003",
+      "name": "Ferris Wheel of Man",
+      "short_description": "Enjoy panoramic views of Douglas Bay and the surrounding landscape from this iconic Ferris wheel.",
+      "subtype": "Amusement Rides",
+      "address": "Douglas Head, Douglas, IM1 5BF",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579471191599-ac1c15f91ae4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "views",
+        "observation wheel",
+        "scenic"
+      ]
+    },
+    {
+      "id": "DGL-AMR-004",
+      "name": "Jumpin' Jellyfish Tower",
+      "short_description": "A gentle drop tower ride that slowly lifts young adventurers up, then descends with a soft bounce, mimicking a floating jellyfish.",
+      "subtype": "Amusement Rides",
+      "address": "Seafront Arcade, Loch Promenade, Douglas, IM1 2LY",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1623835616584-c5a47e307c08?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "drop tower",
+        "gentle thrill",
+        "aquatic theme"
+      ]
+    },
+    {
+      "id": "DGL-CMG-001",
+      "name": "Manx Cat & Friends Meet-up",
+      "short_description": "Meet and greet with friendly local cartoon characters, including the famous Manx Cat, for photos and fun interactions.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Douglas Grand Hall, Lord Street, Douglas, IM1 2JB",
+      "opening_hours": "11:00-13:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1536417769976-5e263d6b3827?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "local characters",
+        "photo op",
+        "free event"
+      ]
+    },
+    {
+      "id": "DGL-CMG-002",
+      "name": "Enchanted Forest Characters",
+      "short_description": "Step into an enchanted forest setting to meet beloved fairy tale characters and participate in story time sessions.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "The Secret Garden Venue, Onchan, Douglas, IM3 1ND",
+      "opening_hours": "14:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579782539075-812e1534062f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fairy tales",
+        "storytelling",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "DGL-CMG-003",
+      "name": "Superhero Training Academy",
+      "short_description": "Train alongside your favourite superheroes, learn some moves, and get your picture taken with the caped crusaders.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Douglas Arena, Peel Road, Douglas, IM1 5PF",
+      "opening_hours": "10:00-12:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1616790100742-92147171e06d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "superheroes",
+        "interactive show",
+        "role play"
+      ]
+    },
+    {
+      "id": "DGL-CMG-004",
+      "name": "Ocean Pals Parade",
+      "short_description": "A lively parade and meet & greet with colourful ocean-themed cartoon characters like Ollie the Octopus and Shelly the Starfish.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Douglas Promenade (near Sea Terminal), Douglas, IM1 2BT",
+      "opening_hours": "13:00-14:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1563725547960-0cf75294a5e3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "parade",
+        "ocean theme",
+        "street entertainment"
+      ]
+    },
+    {
+      "id": "DGL-FAR-001",
+      "name": "Douglas Berry Farm & Play",
+      "short_description": "Pick your own seasonal berries, explore a hay bale maze, and enjoy a tractor ride around the farm.",
+      "subtype": "Farm Attractions",
+      "address": "Glen Darragh Road, Douglas, IM4 2HR",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1587522502392-4161c5210c14?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "pick your own",
+        "farm activities",
+        "outdoor play"
+      ]
+    },
+    {
+      "id": "DGL-FAR-002",
+      "name": "The Millbrook Farm Experience",
+      "short_description": "A working farm where kids can learn about farm life, feed animals, and witness daily farming tasks like milking or sheepdog demonstrations.",
+      "subtype": "Farm Attractions",
+      "address": "Millbrook, Douglas, IM4 3BX",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1599385558485-eb6434407b46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "working farm",
+        "animal feeding",
+        "educational"
+      ]
+    },
+    {
+      "id": "DGL-FAR-003",
+      "name": "Pumpkin Patch & Maize Maze",
+      "short_description": "A seasonal attraction (autumn) where families can pick their own pumpkins and navigate a giant maize maze.",
+      "subtype": "Farm Attractions",
+      "address": "Foxdale Road, Douglas, IM4 3AE",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1633513361099-07b94ff0fb70?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "seasonal",
+        "pumpkin patch",
+        "corn maze"
+      ]
+    },
+    {
+      "id": "DGL-FAR-004",
+      "name": "Tiny Tiller's Garden Club",
+      "short_description": "An interactive garden and mini-farm for young children to learn about growing vegetables, planting flowers, and caring for a small plot.",
+      "subtype": "Farm Attractions",
+      "address": "Noble's Park Community Gardens, Douglas, IM2 4BP",
+      "opening_hours": "10:00-12:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1533518337851-4043235b91b9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "gardening",
+        "nature play",
+        "education"
+      ]
+    },
+    {
+      "id": "DGL-AQG-001",
+      "name": "Isle of Man Pirate Quest",
+      "short_description": "An outdoor scavenger hunt along the Douglas coastline, solving riddles to find hidden pirate treasure. Map and clues provided.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Start at Sea Terminal, Douglas, IM1 2BX",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1617950961816-35e982199b9e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "scavenger hunt",
+        "outdoor adventure",
+        "pirate theme"
+      ]
+    },
+    {
+      "id": "DGL-AQG-002",
+      "name": "Wizard's Apprentice Labyrinth",
+      "short_description": "An immersive indoor maze with magical puzzles and challenges, where young apprentices help a wizard recover lost spells.",
+      "subtype": "Adventure & Quest Games",
+      "address": "The Old School House, Douglas, IM1 2AQ",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1577978250005-99884e1b590e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "indoor maze",
+        "magic theme",
+        "puzzle game"
+      ]
+    },
+    {
+      "id": "DGL-AQG-003",
+      "name": "Forest Explorer's Challenge",
+      "short_description": "An outdoor adventure course with ropes, bridges, and zip lines, designed to test bravery and agility in a natural woodland setting.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Glen Vine Woods, Douglas, IM4 4RG",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510452331804-d53ae25a58ac?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ropes course",
+        "zip lines",
+        "outdoor challenge"
+      ]
+    },
+    {
+      "id": "DGL-AQG-004",
+      "name": "Escape Room for Little Detectives",
+      "short_description": "A specially designed escape room adventure with age-appropriate puzzles and a friendly mystery to solve, perfect for younger minds.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Strand Street Arcade, Douglas, IM1 2EU",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558230230-c38a7c2b083c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "escape room",
+        "puzzles",
+        "team challenge"
+      ]
+    },
+    {
+      "id": "DGL-TKP-001",
+      "name": "Fairytale Isle Park",
+      "short_description": "A magical theme park where classic fairy tales come to life with gentle rides, character meet-and-greets, and enchanting shows.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Just off Peel Road, Douglas, IM4 4QF",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596700588147-384318c86ac0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fairy tales",
+        "gentle rides",
+        "family park"
+      ]
+    },
+    {
+      "id": "DGL-TKP-002",
+      "name": "Douglas Dino Land",
+      "short_description": "Travel back in time to an era of dinosaurs! Features animatronic dinosaurs, fossil digs, and a themed train ride.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Near Port Soderick, Douglas, IM4 1DG",
+      "opening_hours": "09:30-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547842777-1aa3a1f10e42?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dinosaurs",
+        "prehistoric",
+        "educational fun"
+      ]
+    },
+    {
+      "id": "DGL-TKP-003",
+      "name": "Mini Racers Speedway",
+      "short_description": "A high-octane park for budding drivers, with go-karts, mini-bumper cars, and a small track for remote-control car racing.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Off Quarterbridge Road, Douglas, IM2 1QY",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1533602166946-88ed871cf881?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "go-karts",
+        "racing",
+        "speed"
+      ]
+    },
+    {
+      "id": "DGL-TKP-004",
+      "name": "World of Imagination Douglas",
+      "short_description": "A unique theme park where kids' drawings come to life through interactive projections, virtual reality experiences, and creative play zones.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Promenada Leisure Complex, Douglas, IM1 2AB",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1616400619175-58278434771e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive",
+        "virtual reality",
+        "art & tech"
+      ]
+    },
+    {
+      "id": "DGL-AQU-001",
+      "name": "Douglas Sea Life Centre",
+      "short_description": "Explore the wonders of the ocean with stunning displays of local marine life, tropical fish, and an immersive underwater tunnel.",
+      "subtype": "Aquariums",
+      "address": "Queen's Promenade, Douglas, IM1 3BG",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542106208-a53c3066606f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "marine life",
+        "underwater tunnel",
+        "education"
+      ]
+    },
+    {
+      "id": "DGL-AQU-002",
+      "name": "Touch Pool & Tidepool Explorers",
+      "short_description": "A hands-on experience where children can gently touch starfish, crabs, and other resilient creatures found in local tide pools.",
+      "subtype": "Aquariums",
+      "address": "South Quay Heritage Centre, Douglas, IM1 5LF",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582294119853-488f572a9126?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "touch tank",
+        "interactive",
+        "local marine life"
+      ]
+    },
+    {
+      "id": "DGL-AQU-003",
+      "name": "Shipwreck Shark Lagoon",
+      "short_description": "Observe various shark species and other large predators swimming around a recreated shipwreck, through massive viewing windows.",
+      "subtype": "Aquariums",
+      "address": "Douglas Oceanarium, Peel Road, Douglas, IM1 5NB",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1540822607421-3965620b2241?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sharks",
+        "large fish",
+        "predators"
+      ]
+    },
+    {
+      "id": "DGL-AQU-004",
+      "name": "Jellyfish Kaleidoscope",
+      "short_description": "A mesmerising exhibition dedicated to jellyfish, featuring beautifully lit tanks and interactive displays about their life cycles.",
+      "subtype": "Aquariums",
+      "address": "Douglas Waterfront Centre, Strand Street, Douglas, IM1 2AF",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1583094895646-681b61c92742?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "jellyfish",
+        "exhibition",
+        "mesmerizing"
+      ]
+    }
+  ]
+}

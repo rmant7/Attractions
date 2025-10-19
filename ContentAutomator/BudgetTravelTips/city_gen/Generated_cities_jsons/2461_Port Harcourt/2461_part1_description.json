@@ -1,0 +1,67 @@
+{
+  "id": "2461",
+  "name": "Port Harcourt",
+  "country": "Nigeria",
+  "description": "Port Harcourt, affectionately known as the \"Garden City,\" stands as the dynamic capital of Rivers State and a vital economic engine within Nigeria's oil-rich Niger Delta. This bustling metropolis offers a captivating blend of industrial significance and deep-rooted cultural heritage, drawing visitors into the vibrant pulse of West African life. The city's diverse population, primarily comprising the indigenous Ikwerre and Ijaw communities, contributes to its lively atmosphere and renowned hospitality.\n\nFor sightseers, Port Harcourt presents a range of experiences. The tranquil Port Harcourt Tourist Beach offers a refreshing escape, while the historical Isaac Boro Park provides a green oasis amidst urban sprawl. Visitors can explore the bustling Mile One Market for an authentic taste of local commerce, discovering a trove of traditional crafts, fresh produce, and colourful textiles. The Rivers State Cultural Centre is a focal point for understanding the region's artistic expressions and traditions.\n\nCulturally, Port Harcourt is celebrated for its effervescent music scene, particularly genres like Highlife and Afrobeat, and its distinctive culinary landscape. Indulge in local delicacies such as 'Banga soup' and 'Onunu' (yam and plantain fufu), or fresh seafood prepared with characteristic Delta spice. Seasonal festivals often illuminate the city with vibrant traditional dances, music, and masquerades, offering profound insights into the local customs.\n\nTravel tips for Port Harcourt include being mindful of personal belongings, staying hydrated, and utilizing reputable ride-hailing apps or pre-arranged taxis for transport. Embrace the city's energetic rhythm, be open to engaging with its friendly residents, and prepare for a tropical climate with distinct rainy and dry seasons. Port Harcourt acts as an excellent base for exploring the rich biodiversity and unique communities spread across the Niger Delta region, making it a compelling destination for those seeking an authentic Nigerian experience.",
+  "themes": [
+    "Oil City",
+    "Niger Delta Culture",
+    "Vibrant Markets",
+    "Coastal Life",
+    "Business Hub"
+  ],
+  "body_attributes": {
+    "climate": "Tropical monsoon climate with a prolonged rainy season (March-October) and a shorter dry season (November-February). Temperatures are consistently warm and humid year-round.",
+    "best_time_to_visit": "November to April (Dry Season) for more comfortable weather and fewer disruptions from rain.",
+    "population": "Approximately 1,865,000 (metropolitan area estimate 2023)",
+    "area": "Approximately 360 sq km (139 sq mi)",
+    "transport_summary": "Dominated by taxis (both ride-hailing apps and conventional), Keke NAPEP (motorized tricycles) for short distances, and minibuses. Roads can be congested; water taxis serve some riverine areas.",
+    "safety_level": "Medium (requires awareness of surroundings, avoiding isolated areas, and exercising caution, especially after dark).",
+    "geographical_features": "Located in the Niger Delta, bordering the Bonny River (an arm of the Atlantic Ocean). Characterized by a flat terrain with numerous creeks, rivers, and mangrove swamps."
+  },
+  "travel_tips": [
+    "Stay hydrated by drinking bottled water, especially during the dry season.",
+    "Utilize ride-hailing services (e.g., Bolt, Uber) or pre-arranged taxis for safety and convenience.",
+    "Dress modestly, especially when visiting traditional areas or religious sites, to show respect for local customs.",
+    "Bargaining is common in markets; negotiate prices politely for goods and services."
+  ],
+  "budget_tips": [
+    "Eat local street food and patronize small restaurants for authentic, affordable meals.",
+    "Use Keke NAPEP for short distances to save on transport costs compared to taxis.",
+    "Consider staying in guesthouses or smaller hotels outside the main business districts for better rates.",
+    "Visit public parks and beaches (some may have small entry fees) for free or low-cost entertainment."
+  ],
+  "seo": {
+    "seo_title": "Port Harcourt Travel Guide: Nigeria's Garden City",
+    "seo_description": "Explore Port Harcourt, Nigeria's vibrant Garden City. Discover its oil industry, rich culture, bustling markets, and coastal attractions. Plan your trip with our guide.",
+    "keywords": [
+      "Port Harcourt tourism",
+      "Nigeria travel",
+      "Garden City",
+      "Niger Delta",
+      "Rivers State"
+    ]
+  },
+  "meta": {
+    "continent": "Africa",
+    "currency": "Nigerian Naira (NGN)",
+    "language": "English (official), Ikwerre, Ijaw, Igbo",
+    "time_zone": "WAT (West Africa Time, UTC+1)",
+    "popular_airlines": [
+      "Air Peace",
+      "Ibom Air",
+      "United Nigeria Airlines",
+      "Aero Contractors",
+      "Arik Air"
+    ]
+  },
+  "title": "Unveiling Port Harcourt: Nigeria's Vibrant Garden City & Delta Gem",
+  "images": [
+    "https://images.pexels.com/photos/7132174/pexels-photo-7132174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "https://images.pexels.com/photos/10186717/pexels-photo-10186717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  ],
+  "coordinates": [
+    4.815554141998291,
+    7.049843788146973
+  ]
+}

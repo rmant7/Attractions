@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Nairobi",
+    "city_id": "2438"
+  },
+  "items": [
+    {
+      "id": "NA-001",
+      "name": "The Kanga Canvas",
+      "short_description": "Immerse yourself in vibrant contemporary Kenyan art at this cutting-edge gallery, showcasing emerging and established artists. Discover a dynamic blend of traditional inspiration and modern expression.",
+      "address": "Chiromo Rd, Westlands, Nairobi",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549495758-a534208a096c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "culture",
+        "gallery"
+      ]
+    },
+    {
+      "id": "NA-002",
+      "name": "Nairobi Green Sanctuary",
+      "short_description": "Escape the urban bustle at this newly established urban wetland and forest restoration project, offering serene walking trails and birdwatching opportunities. A vital haven for local biodiversity.",
+      "address": "Magadi Road, Karen, Nairobi",
+      "opening_hours": "07:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1629828854490-67c0018df565?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "eco-tourism",
+        "park"
+      ]
+    },
+    {
+      "id": "NA-003",
+      "name": "Skyview 360 Nairobi",
+      "short_description": "Experience unparalleled panoramic views of Nairobi's stunning skyline from this luxurious rooftop lounge and restaurant. Perfect for sundowners, fine dining, and unforgettable evening vistas.",
+      "address": "Upper Hill Rd, Upper Hill, Nairobi",
+      "opening_hours": "17:00-01:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1606437798782-e3a1050a996f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nightlife",
+        "views",
+        "lounge"
+      ]
+    },
+    {
+      "id": "NA-004",
+      "name": "Digi-Kenya Lab",
+      "short_description": "Dive into the future at Nairobi's premier interactive technology and innovation hub. Explore hands-on exhibits, virtual reality experiences, and discover cutting-edge Kenyan tech advancements.",
+      "address": "Limuru Rd, Gigiri, Nairobi",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542435503-956c469947f6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "technology",
+        "education",
+        "innovation"
+      ]
+    },
+    {
+      "id": "NA-005",
+      "name": "The Makanika Food Hall",
+      "short_description": "A bustling culinary haven offering a diverse array of local and international street food, gourmet bites, and artisan beverages. Experience Nairobi's vibrant food scene under one roof.",
+      "address": "Argwings Kodhek Rd, Kilimani, Nairobi",
+      "opening_hours": "11:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579294520935-433b063806f8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food",
+        "market",
+        "culinary"
+      ]
+    },
+    {
+      "id": "NA-006",
+      "name": "Adrenaline Heights Park",
+      "short_description": "Unleash your adventurous spirit at this thrilling outdoor and indoor adventure park, featuring high ropes courses, ziplines, rock climbing walls, and challenging obstacle courses for all ages.",
+      "address": "Kiambu Rd, Ridgeways, Nairobi",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1587825707730-81f185ef3526?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "family",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "NA-007",
+      "name": "The Uhuru Film House",
+      "short_description": "Nairobi's newest independent cinema and cultural hub, screening a curated selection of local and international arthouse films, documentaries, and hosting film festivals and workshops. Features a cozy cafe.",
+      "address": "Oloitoktok Rd, Lavington, Nairobi",
+      "opening_hours": "13:00-23:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1536440136628-849c17d7b027?q=80&w=2050&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cinema",
+        "culture",
+        "film"
+      ]
+    },
+    {
+      "id": "NA-008",
+      "name": "Eden's Edge Gardens",
+      "short_description": "A tranquil botanical garden and contemporary sculpture park, offering beautifully landscaped paths, diverse plant collections, and thought-provoking art installations amidst natural beauty. Perfect for relaxation and inspiration.",
+      "address": "Mamba Village Rd, Karen, Nairobi",
+      "opening_hours": "08:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628285517316-aa91d374431f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "gardens",
+        "art",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "NA-009",
+      "name": "Serenity Oasis Nairobi",
+      "short_description": "Indulge in ultimate relaxation at this upscale urban wellness center, offering a range of spa treatments, yoga and meditation studios, and holistic therapies designed to rejuvenate mind, body, and soul.",
+      "address": "Old Muthaiga Rd, Muthaiga, Nairobi",
+      "opening_hours": "09:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1598555806659-1950d60d3d5f?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wellness",
+        "spa",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "NA-010",
+      "name": "Little Explorers Zone",
+      "short_description": "A vibrant and interactive edutainment center designed for children, featuring imaginative play zones, educational exhibits, and creative workshops that spark curiosity and learning through fun.",
+      "address": "Limuru Road, Ruaka, Nairobi (near Two Rivers Mall)",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596460331070-58c973ea022b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "kids",
+        "family",
+        "education"
+      ]
+    }
+  ]
+}

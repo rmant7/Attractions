@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Ibadan",
+    "city_id": "2453"
+  },
+  "items": [
+    {
+      "id": "FD001",
+      "name": "Amala Skye's Authentic Delights",
+      "short_description": "Savor the rich flavors of traditional Amala at this beloved Ibadan eatery, famous for its succulent gbegiri and ewedu. A true taste of local culinary heritage awaits.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Bodija, across from Total Filling Station",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amala_with_Ewedu_and_Gbegiri_soup.jpg/1280px-Amala_with_Ewedu_and_Gbegiri_soup.jpg",
+      "tags": [
+        "local cuisine",
+        "Amala",
+        "traditional food"
+      ]
+    },
+    {
+      "id": "FD002",
+      "name": "Kokodome: Dining & Entertainment Hub",
+      "short_description": "Experience a vibrant mix of dining and entertainment at Kokodome, a popular spot offering diverse cuisine and a lively atmosphere. Perfect for a night out with friends or family.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Dugbe",
+      "best_time": "Night",
+      "images": "https://cdn.pixabay.com/photo/2016/11/29/05/07/restaurant-1867807_1280.jpg",
+      "tags": [
+        "nightlife",
+        "restaurant",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "FD003",
+      "name": "Cafe One: Contemporary Coffee & Comfort",
+      "short_description": "Relax and recharge at Cafe One, a stylish and modern cafe offering gourmet coffee, pastries, and light meals in a chic setting. An ideal spot for work or casual meetups.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Ventura Mall, Sango-UI Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1511920170033-f8396924c348?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2FmZXx8fHx8fDE2NzY1NDg1MTk&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cafe",
+        "coffee",
+        "modern"
+      ]
+    },
+    {
+      "id": "FD004",
+      "name": "Bodija Market: A Culinary Exploration",
+      "short_description": "Immerse yourself in the bustling heart of Bodija Market, where vibrant food stalls offer an array of authentic Nigerian street food and fresh produce. A sensory adventure for foodies.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Bodija",
+      "best_time": "Afternoon",
+      "images": "https://cdn.pixabay.com/photo/2020/01/21/11/16/market-4782635_1280.jpg",
+      "tags": [
+        "street food",
+        "market",
+        "local experience"
+      ]
+    },
+    {
+      "id": "NW001",
+      "name": "Bower's Tower: Panoramic City Vista",
+      "short_description": "Ascend Bower's Tower, perched atop Oke Are Hill, for breathtaking 360-degree views of Ibadan's sprawling landscape. Witness the city unfold beneath you in a stunning panorama.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Oke Are, Oje",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ibadan_from_Bower%27s_Tower.jpg/1280px-Ibadan_from_Bower%27s_Tower.jpg",
+      "tags": [
+        "viewpoint",
+        "cityscape",
+        "historical site"
+      ]
+    },
+    {
+      "id": "NW002",
+      "name": "Agodi Gardens: Nature's Urban Oasis",
+      "short_description": "Discover serene lakes, lush forest trails, and vibrant flora within Agodi Gardens, offering a peaceful escape from the city's hustle. Perfect for nature walks and picnics.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Parliament Road",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Agodi_Gardens_in_Ibadan_Nigeria.jpg/1280px-Agodi_Gardens_in_Ibadan_Nigeria.jpg",
+      "tags": [
+        "park",
+        "nature walk",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "NW003",
+      "name": "University of Ibadan Botanical Gardens",
+      "short_description": "Explore the extensive collection of plants and serene landscapes at the University of Ibadan's Botanical Gardens. A haven for plant lovers and those seeking peaceful contemplation.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "University of Ibadan Campus",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/University_of_Ibadan_botanical_garden.jpg/1280px-University_of_Ibadan_botanical_garden.jpg",
+      "tags": [
+        "botany",
+        "gardens",
+        "research"
+      ]
+    },
+    {
+      "id": "NW004",
+      "name": "UI Zoo's Natural Habitats",
+      "short_description": "Encounter diverse wildlife in naturalistic settings at the University of Ibadan Zoo, a dedicated conservation area. A fascinating spot for animal lovers and educational visits.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "University of Ibadan Campus",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Monkey_at_UI_Zoo%2C_Ibadan.jpg/1280px-Monkey_at_UI_Zoo%2C_Ibadan.jpg",
+      "tags": [
+        "wildlife",
+        "zoo",
+        "conservation"
+      ]
+    },
+    {
+      "id": "FG001",
+      "name": "Agodi Botanical Gardens: Floral Grandeur",
+      "short_description": "Wander through the meticulously curated floral displays and lush greenery of Agodi Botanical Gardens. A vibrant canvas of colors and scents, perfect for picturesque strolls.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Parliament Road",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Agodi_Gardens_in_Ibadan_Nigeria.jpg/1280px-Agodi_Gardens_in_Ibadan_Nigeria.jpg",
+      "tags": [
+        "gardens",
+        "flowers",
+        "botany"
+      ]
+    },
+    {
+      "id": "FG002",
+      "name": "UI Agriculture Gardens: Cultivated Beauty",
+      "short_description": "Explore the experimental plots and diverse plant collections at UI's Faculty of Agriculture, showcasing a range of flora. An insightful look into agricultural biodiversity and beauty.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "University of Ibadan Campus",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A_Garden_at_the_University_of_Ibadan.jpg/1280px-A_Garden_at_the_University_of_Ibadan.jpg",
+      "tags": [
+        "agricultural research",
+        "gardens",
+        "education"
+      ]
+    },
+    {
+      "id": "FG003",
+      "name": "The Palms Piazza: Modern Floral Displays",
+      "short_description": "Beyond shopping, discover contemporary landscaping and seasonal flower arrangements at The Palms Shopping Mall's outdoor areas. A pleasant surprise for urban garden enthusiasts.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Ring Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1544498522-d7b38c20848f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBpbmcsbWFsbHxlfHx8fHwxNzAzMzc3Mjg4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "urban garden",
+        "landscaping",
+        "shopping"
+      ]
+    },
+    {
+      "id": "FG004",
+      "name": "UI Conference Centre: Serene Green Spaces",
+      "short_description": "Find tranquility amidst the well-maintained gardens surrounding the University of Ibadan Conference Centre. These manicured lawns and flowerbeds offer a peaceful backdrop for events or quiet reflection.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "University of Ibadan Campus",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1556087968-0ff16212d27f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Z3JlZW4lMjBzb2FjZXxlfHx8fHwxNzAzMzc3Mzk0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "conference venue",
+        "gardens",
+        "architecture"
+      ]
+    },
+    {
+      "id": "BCV001",
+      "name": "Asejire Dam: Expansive Water Views",
+      "short_description": "Witness the vast expanse of Asejire Dam, a major reservoir offering breathtaking lakeside panoramas. The shimmering waters create a serene escape and a unique 'coastal' feel in inland Ibadan.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Ibadan-Ile Ife Road (outskirts)",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Asejire_dam_in_Nigeria.jpg/1280px-Asejire_dam_in_Nigeria.jpg",
+      "tags": [
+        "dam",
+        "lake view",
+        "sunset"
+      ]
+    },
+    {
+      "id": "BCV002",
+      "name": "Eleyele Dam: Tranquil Water's Edge",
+      "short_description": "Discover the tranquil beauty of Eleyele Dam, providing calm waterfront views and a refreshing atmosphere. A perfect spot for quiet reflection or a relaxing afternoon by the water.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Eleyele",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Eleyele_river%2C_Ibadan.jpg/1280px-Eleyele_river%2C_Ibadan.jpg",
+      "tags": [
+        "reservoir",
+        "waterfront",
+        "peaceful"
+      ]
+    },
+    {
+      "id": "BCV003",
+      "name": "Trans Amusement Park: Lakeside Fun",
+      "short_description": "Enjoy the scenic man-made lake within Trans Amusement Park, offering a pleasant backdrop for leisure activities and family outings. A playful 'beach-like' vibe for city dwellers.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Samonda",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Children_at_trans_amusement_park_ibadan.jpg/1280px-Children_at_trans_amusement_park_ibadan.jpg",
+      "tags": [
+        "amusement park",
+        "lake",
+        "family fun"
+      ]
+    },
+    {
+      "id": "BCV004",
+      "name": "Agodi Gardens: Calm Waters & Greenery",
+      "short_description": "Paddle a boat or simply relax by the serene lake at Agodi Gardens, framed by lush greenery. Its peaceful waters provide a charming, miniature 'coastal' experience within the city park.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Parliament Road",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/A_lake_at_Agodi_gardens.jpg/1280px-A_lake_at_Agodi_gardens.jpg",
+      "tags": [
+        "park lake",
+        "boating",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "ISP001",
+      "name": "Bower's Tower: Historic Ascent",
+      "short_description": "Embark on an iconic climb up the spiral staircase of Bower's Tower, a journey through history leading to unparalleled panoramic city views. Each step reveals a piece of Ibadan's past.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Oke Are, Oje",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Inside_Bower%27s_tower.jpg/1280px-Inside_Bower%27s_tower.jpg",
+      "tags": [
+        "historic",
+        "staircase",
+        "viewpoint"
+      ]
+    },
+    {
+      "id": "ISP002",
+      "name": "Mapo Hall: Architectural Grandeur",
+      "short_description": "Behold the majestic grand staircase of Mapo Hall, an imposing colonial-era structure. Its sweeping steps offer a dramatic backdrop, perfect for capturing Ibadan's historical elegance.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Mapo Hill",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mapo_Hall_Ibadan.jpg/1280px-Mapo_Hall_Ibadan.jpg",
+      "tags": [
+        "colonial architecture",
+        "staircase",
+        "landmark"
+      ]
+    },
+    {
+      "id": "ISP003",
+      "name": "UI Senate Building: Academic Pathways",
+      "short_description": "Wander through the architecturally striking walkways and staircases of the University of Ibadan's Senate Building. These modernist structures provide a unique, intellectual backdrop for photos.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "University of Ibadan Campus",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Senate_Building_at_University_of_Ibadan.jpg/1280px-Senate_Building_at_University_of_Ibadan.jpg",
+      "tags": [
+        "university",
+        "architecture",
+        "pathways"
+      ]
+    },
+    {
+      "id": "ISP004",
+      "name": "Mokola Hill: Traditional Ascent",
+      "short_description": "Explore the winding, unpaved pathways of Old Mokola Hill, offering a glimpse into traditional Ibadan life and serene natural views. A gentle hike rewarded with local charm.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Mokola",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1507503794350-01d6836696b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aGlsbCUyMHBhdGh3YXl8fHx8fHwxNzAzMzc5NjM5&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "hill walk",
+        "traditional",
+        "scenic route"
+      ]
+    },
+    {
+      "id": "CI001",
+      "name": "National Museum: Cultural Heritage",
+      "short_description": "Delve into Nigeria's diverse cultural heritage at the National Museum of Unity, showcasing ethnographic artifacts, historical exhibits, and traditional art forms. A journey through the nation's past.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Aleshinloye Area",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nigerian_National_Museum_of_Unity_Ibadan.jpg/1280px-Nigerian_National_Museum_of_Unity_Ibadan.jpg",
+      "tags": [
+        "museum",
+        "history",
+        "ethnography"
+      ]
+    },
+    {
+      "id": "CI002",
+      "name": "Mapo Hall: A Living Monument",
+      "short_description": "Admire Mapo Hall, a magnificent colonial-era installation that serves as a grand assembly hall and a symbol of Ibadan's rich history and architectural prowess. Its imposing presence tells tales of yesteryears.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Mapo Hill",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mapo_Hall_in_Ibadan_South_Western_Nigeria.jpg/1280px-Mapo_Hall_in_Ibadan_South_Western_Nigeria.jpg",
+      "tags": [
+        "colonial",
+        "architecture",
+        "landmark"
+      ]
+    },
+    {
+      "id": "CI003",
+      "name": "Trenchard Hall: Academic & Cultural Hub",
+      "short_description": "Visit Trenchard Hall, the iconic venue for significant academic and cultural events at the University of Ibadan. Its distinctive architecture makes it a focal point of intellectual and artistic gatherings.",
+      "subtype": "Cultural Installations",
+      "location_hint": "University of Ibadan Campus",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Trenchard_Hall%2C_University_of_Ibadan.jpg/1280px-Trenchard_Hall%2C_University_of_Ibadan.jpg",
+      "tags": [
+        "university",
+        "events",
+        "architecture"
+      ]
+    },
+    {
+      "id": "CI004",
+      "name": "Awolowo Statue: Political Heritage",
+      "short_description": "Pay homage to a Nigerian icon at the Chief Obafemi Awolowo Statue, a significant cultural installation commemorating his legacy. A symbol of political history and national pride in a prominent public space.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Secretariat Road",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/A_statue_of_Chief_Obafemi_Awolowo.jpg/1280px-A_statue_of_Chief_Obafemi_Awolowo.jpg",
+      "tags": [
+        "monument",
+        "history",
+        "politics"
+      ]
+    },
+    {
+      "id": "IP001",
+      "name": "Golden Tulip: Serene Pool Retreat",
+      "short_description": "Indulge in relaxation at Golden Tulip Ibadan's inviting outdoor pool, offering a refreshing oasis amidst the city's buzz. Its clean design and surrounding greenery create a tranquil, luxurious escape.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Jericho-Idi Ishin Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1563911302-a246a47a166a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aG90ZWwlMjBwb29sfHx8fHx8MTcwMzM4MDc0MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "hotel pool",
+        "luxury",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "IP002",
+      "name": "Premier Hotel: Classic Poolside Elegance",
+      "short_description": "Experience classic comfort by the grand outdoor pool of the historic Premier Hotel. A spacious and well-maintained area, perfect for a leisurely swim or soaking up the Ibadan sun.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Mokola Hill",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1571900115370-13f56e9196d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bHV4dXJ5JTIwcG9vbHx8fHx8fDE3MDMzODA2Mzk&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "historic hotel",
+        "swimming",
+        "leisure"
+      ]
+    },
+    {
+      "id": "IP003",
+      "name": "Kakanfo Inn: Refreshing Water Haven",
+      "short_description": "Unwind at Kakanfo Inn's large and inviting swimming pool, a popular spot for guests to cool off and socialize. Its vibrant atmosphere makes it a great escape on a warm Ibadan day.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Nihinlola Street",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1542450535-c3409a632831?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aG90ZWwlMjBwb29sJTIwc2lkZXx8fHx8fDE3MDMzODA3ODg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "hotel pool",
+        "social",
+        "refreshment"
+      ]
+    },
+    {
+      "id": "IP004",
+      "name": "Owu's Place: Modern Poolside Serenity",
+      "short_description": "Discover the modern and well-appointed poolside at Owu's Place Hotel & Suites, offering a tranquil setting for guests to relax and enjoy the sun. A contemporary spot for unwinding.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Off Awolowo Avenue",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1502444330042-d1a2ad9f4d8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bW9kZXJuJTIwcG9vbHx8fHx8fDE3MDMzODA4NDM&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "boutique hotel",
+        "poolside",
+        "modern"
+      ]
+    },
+    {
+      "id": "IL001",
+      "name": "Cocoa House: Nigeria's First Skyscraper",
+      "short_description": "Stand before Cocoa House, West Africa's first skyscraper and a powerful symbol of Nigeria's economic history. Its imposing structure marks a pivotal moment in the nation's development.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Dugbe",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cocoa_House_Ibadan.jpg/1280px-Cocoa_House_Ibadan.jpg",
+      "tags": [
+        "skyscraper",
+        "history",
+        "architecture"
+      ]
+    },
+    {
+      "id": "IL002",
+      "name": "Mapo Hall: Colonial Architectural Gem",
+      "short_description": "Admire Mapo Hall, an awe-inspiring colonial-era edifice perched on Mapo Hill. This grand building is a significant landmark, reflecting Ibadan's rich past and enduring architectural beauty.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Mapo Hill",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mapo_Hall_in_Ibadan_South_Western_Nigeria.jpg/1280px-Mapo_Hall_in_Ibadan_South_Western_Nigeria.jpg",
+      "tags": [
+        "landmark",
+        "colonial",
+        "history"
+      ]
+    },
+    {
+      "id": "IL003",
+      "name": "Bower's Tower: Historic Observation Point",
+      "short_description": "Ascend Bower's Tower, a historic observation tower offering unparalleled panoramic views of Ibadan. This iconic landmark serves as a testament to the city's strategic importance and rich heritage.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Oke Are, Oje",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ibadan_from_Bower%27s_Tower.jpg/1280px-Ibadan_from_Bower%27s_Tower.jpg",
+      "tags": [
+        "tower",
+        "viewpoint",
+        "heritage"
+      ]
+    },
+    {
+      "id": "IL004",
+      "name": "UI Main Gate: Academic Gateway",
+      "short_description": "Pass through the iconic Main Gate and behold the distinguished Clock Tower of the University of Ibadan, signaling the entrance to Nigeria's premier institution of learning. A symbol of knowledge and progress.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "University of Ibadan Campus Entrance",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/University_of_Ibadan%27s_main_entrance.jpg/1280px-University_of_Ibadan%27s_main_entrance.jpg",
+      "tags": [
+        "university",
+        "education",
+        "gateway"
+      ]
+    },
+    {
+      "id": "CN001",
+      "name": "Dugbe Market: A Symphony of Colors",
+      "short_description": "Immerse yourself in the vibrant chaos of Dugbe Market, a bustling hub where colorful textiles, fresh produce, and lively interactions create an unforgettable sensory experience. A true heart of Ibadan.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Dugbe",
+      "best_time": "Afternoon",
+      "images": "https://cdn.pixabay.com/photo/2016/11/29/08/33/market-1868516_1280.jpg",
+      "tags": [
+        "market",
+        "street life",
+        "vibrant"
+      ]
+    },
+    {
+      "id": "CN002",
+      "name": "Oja'ba Market: Royal & Radiant",
+      "short_description": "Step into the historic Oja'ba Market, also known as King's Market, a traditional and vibrant district filled with local goods, colorful fabrics, and a lively community spirit. A deep dive into Ibadan's local culture.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Mapo Hill vicinity",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596767570221-39ec86708767?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YWZyaWNhbiUyMG1hcmtldHxlfHx8fHwxNzAzMzgxOTY3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "traditional market",
+        "culture",
+        "local goods"
+      ]
+    },
+    {
+      "id": "CN003",
+      "name": "Gbagi Market: Textile Haven",
+      "short_description": "Explore the expansive Gbagi International Market, particularly renowned for its vibrant textile sections and bustling atmosphere. A kaleidoscope of colors and patterns awaits fashion enthusiasts and curious visitors.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Old Ife Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1614613290232-26f68740523f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dGV4dGlsZSUyMG1hcmtldHxlfHx8fHwxNzAzMzgxNzg2&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "textiles",
+        "market",
+        "shopping"
+      ]
+    },
+    {
+      "id": "CN004",
+      "name": "Mokola Junction: Urban Art Canvas",
+      "short_description": "Discover splashes of color and local narratives through various street art and murals around the vibrant Mokola Roundabout area. This urban canvas offers an artistic pulse amidst the daily city rhythm.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Mokola Roundabout",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c3RyZWV0JTIwYXJ0JTJDbXVyYWxzfHx8fHwxNzAzMzgxNTgw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "street art",
+        "urban exploration",
+        "artistic"
+      ]
+    },
+    {
+      "id": "UHS001",
+      "name": "Agodi Gardens: Nature's Embrace Stay",
+      "short_description": "Experience a unique stay nestled within the lush Agodi Gardens, offering tranquil accommodation amidst nature's beauty. Wake up to the serene sounds of the park and enjoy immediate access to its wonders.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Parliament Road",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1549294413-26f19527c928?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cmVzb3J0JTIwcm9vbXxlfHx8fHwxNzAzMzgxMzQy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature stay",
+        "resort",
+        "tranquil"
+      ]
+    },
+    {
+      "id": "UHS002",
+      "name": "Premier Hotel: Iconic Heritage Stay",
+      "short_description": "Step back in time at Premier Hotel, a historic landmark offering a blend of classic elegance and modern comfort. As one of Nigeria's oldest hotels, it provides a stay steeped in rich legacy.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Mokola Hill",
+      "best_time": "Night",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Premier_hotel_Ibadan.jpg/1280px-Premier_hotel_Ibadan.jpg",
+      "tags": [
+        "historic hotel",
+        "luxury",
+        "landmark"
+      ]
+    },
+    {
+      "id": "UHS003",
+      "name": "Kakanfo Inn: Contemporary Hospitality",
+      "short_description": "Enjoy a contemporary and comfortable stay at Kakanfo Inn & Conference Centre, known for its excellent facilities and vibrant atmosphere. Ideal for both business and leisure travelers seeking modern amenities.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Nihinlola Street",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1560934857-7f910b833215?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bW9kZXJuJTIwaG90ZWwlMjBleHRlcmFsaG90ZWwxfHx8fHwxNzAzMzgxNDAy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "business hotel",
+        "conference",
+        "modern stay"
+      ]
+    },
+    {
+      "id": "UHS004",
+      "name": "Golden Tulip: Chic & Upscale Stay",
+      "short_description": "Indulge in an upscale experience at Golden Tulip Ibadan, a chic hotel offering modern amenities, sophisticated decor, and a tranquil ambiance. Perfect for discerning travelers seeking comfort and style.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Jericho-Idi Ishin Road",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1563299796-1759146059bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dXBzY2FsZSUyMGhvdGVsfHxlfHx8fDE3MDMzODE0Njc&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "upscale hotel",
+        "boutique",
+        "comfort"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Port Harcourt",
+    "city_id": "2461"
+  },
+  "items": [
+    {
+      "id": "PHC001",
+      "name": "The Artisan's Canvas",
+      "short_description": "A vibrant hub showcasing contemporary Nigerian art, featuring rotating exhibitions, workshops, and a chic cafe. Discover emerging talents and established masters in a modern setting.",
+      "address": "15 Ngwa Road, GRA Phase 2, Port Harcourt",
+      "opening_hours": "10:00-19:00 (Tuesday-Sunday)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627953258832-7221e3c5a6d3",
+      "tags": [
+        "art gallery",
+        "cultural",
+        "workshops"
+      ]
+    },
+    {
+      "id": "PHC002",
+      "name": "Skyline Oasis Lounge",
+      "short_description": "Experience breathtaking panoramic views of Port Harcourt while enjoying craft cocktails, gourmet bites, and live music. Perfect for a sophisticated evening out with friends or colleagues.",
+      "address": "Top Floor, Titanium Towers, Aba Road, Port Harcourt",
+      "opening_hours": "17:00-02:00 (Wednesday-Sunday)",
+      "price_level": "expensive",
+      "images": "https://images.pexels.com/photos/176378/pexels-photo-176378.jpeg",
+      "tags": [
+        "nightlife",
+        "luxury",
+        "views"
+      ]
+    },
+    {
+      "id": "PHC003",
+      "name": "Rivers FunZone Arcade",
+      "short_description": "A state-of-the-art family entertainment center offering arcade games, virtual reality experiences, laser tag, and a soft play area for younger kids. Endless fun for all ages!",
+      "address": "Trans-Amadi Road, Opposite Shell R.A., Port Harcourt",
+      "opening_hours": "10:00-22:00 (Daily)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549487959-d3e3f0e0d5a3",
+      "tags": [
+        "family fun",
+        "arcade",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "PHC004",
+      "name": "Mangrove Heritage Park",
+      "short_description": "A newly developed urban eco-park dedicated to preserving Port Harcourt's unique mangrove ecosystems. Features boardwalks, birdwatching towers, and educational exhibits for nature lovers.",
+      "address": "Off Peter Odili Road, Elelenwo, Port Harcourt",
+      "opening_hours": "07:00-18:00 (Daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1615555430852-c070c7b7f1e7",
+      "tags": [
+        "nature",
+        "eco-tourism",
+        "park"
+      ]
+    },
+    {
+      "id": "PHC005",
+      "name": "Grand Galleria Port Harcourt",
+      "short_description": "Port Harcourt's newest premium shopping destination, featuring international brands, local boutiques, a multi-screen cinema, and a diverse food court. A complete lifestyle experience.",
+      "address": "Plot 18, Nzimiro Street, Amadi-Ama, Port Harcourt",
+      "opening_hours": "09:00-21:00 (Daily)",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/264787/pexels-photo-264787.jpeg",
+      "tags": [
+        "shopping",
+        "cinema",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "PHC006",
+      "name": "Adrenaline Bay Extreme Park",
+      "short_description": "Get your heart racing at Port Harcourt's first dedicated extreme sports park, offering thrilling rock climbing walls, zip-lining, challenging obstacle courses, and an ATV track.",
+      "address": "Igwuruta-Ali Road, Rukpokwu, Port Harcourt",
+      "opening_hours": "09:00-17:00 (Tuesday-Sunday)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1601053150030-8d5f4c5e3f4e",
+      "tags": [
+        "adventure",
+        "sports",
+        "thrill"
+      ]
+    },
+    {
+      "id": "PHC007",
+      "name": "The Flavor District PHC",
+      "short_description": "A vibrant culinary destination showcasing the best of Nigerian and international cuisine. Features gourmet food stalls, pop-up restaurants, and live cooking demonstrations in a lively atmosphere.",
+      "address": "Sani Abacha Road, GRA Phase 3, Port Harcourt",
+      "opening_hours": "12:00-23:00 (Daily)",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg",
+      "tags": [
+        "foodie",
+        "market",
+        "dining"
+      ]
+    },
+    {
+      "id": "PHC008",
+      "name": "The Oasis Retreat & Spa",
+      "short_description": "A luxurious boutique hotel with public access to its stunning infinity pool, world-class spa facilities, and an exquisite restaurant. Perfect for a day of relaxation and pampering.",
+      "address": "Oginigba Road, Trans-Amadi, Port Harcourt",
+      "opening_hours": "08:00-22:00 (Spa/Pool access hours vary)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1571004169524-7f1c1f1f2f81",
+      "tags": [
+        "luxury",
+        "spa",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "PHC009",
+      "name": "ConnectSphere Innovation Hub",
+      "short_description": "More than just a co-working space, this dynamic hub hosts regular public workshops, tech meetups, and entrepreneurial pitching events. A magnet for creatives and innovators in the city.",
+      "address": "44 Rumuola Road, Port Harcourt",
+      "opening_hours": "08:00-20:00 (Events vary, some weekends)",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/3183163/pexels-photo-3183163.jpeg",
+      "tags": [
+        "community",
+        "innovation",
+        "workshops"
+      ]
+    },
+    {
+      "id": "PHC010",
+      "name": "Rivers Vista Promenade",
+      "short_description": "A beautifully landscaped waterfront promenade along the Bonny River, offering scenic walks, cycling paths, outdoor fitness zones, and casual eateries. A refreshing urban escape.",
+      "address": "Near Creek Road Market, Port Harcourt (redeveloped area)",
+      "opening_hours": "24/7 (Facilities 06:00-22:00)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1620610996881-2c06e8d1b1f9",
+      "tags": [
+        "waterfront",
+        "outdoors",
+        "recreation"
+      ]
+    }
+  ]
+}

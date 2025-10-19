@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Wajir",
+    "city_id": "2442"
+  },
+  "items": [
+    {
+      "id": "WJR_MH001",
+      "name": "Sheikh Hassan's Zawiya",
+      "short_description": "A historic Sufi retreat and center for spiritual learning, where scholars and devotees have sought solitude and divine knowledge for generations. It is revered as a place of profound contemplation and peace.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "South Wajir County, near Korondile",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1602446700010-8b1b22e1a9c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw1NXx8bXVkJTIwYnVpbGRpbmdzfGVufDB8fHx8MTcwMTI0MzQ1MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Sufi retreat",
+        "Islamic learning",
+        "spiritual sanctuary"
+      ]
+    },
+    {
+      "id": "WJR_MH002",
+      "name": "El Wak Quraan School Ruins",
+      "short_description": "The remnants of an ancient madrasa, believed to have been a significant educational hub along the historical trade routes. Its weathered walls whisper tales of centuries of Islamic scholarship and community life.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Old Quarter, El Wak Town, Wajir South",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563289066-ad64a1323b63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw0OXx8cnVpbnMlMjBhZnJpY2F8ZW58MHx8fHwxNzAxMjQzNTQ2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancient ruins",
+        "Islamic history",
+        "education"
+      ]
+    },
+    {
+      "id": "WJR_MH003",
+      "name": "Griftu Desert Hermitage",
+      "short_description": "A secluded, sparse cave system and rock shelters used by ancient ascetics and mystics seeking solitude for meditation and prayer. Locals believe it holds a unique spiritual energy that aids introspection.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "North of Griftu Town, Wajir County",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1570533519159-43c24ffbf029?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwxMjJ8fGRlc2VydCUyMGNhdmVzfGVufDB8fHx8MTcwMTI0MzU3Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "hermitage",
+        "meditation",
+        "ancient retreat"
+      ]
+    },
+    {
+      "id": "WJR_MH004",
+      "name": "Old Wajir Study Cells",
+      "short_description": "The modest remains of traditional teaching cells within the historical quarter of Wajir town, where religious texts and traditional wisdom were passed down. It represents the intellectual heritage of the community.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Wajir Town, Old Quarter, near Central Mosque",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596701092823-a1c97a892b1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw3OXx8bXVkJTIwYnVpbGRpbmdzfGVufDB8fHx8MTcwMTI0MzQ3NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "historical site",
+        "Islamic heritage",
+        "traditional education"
+      ]
+    },
+    {
+      "id": "WJR_RS001",
+      "name": "Tomb of Sheikh Daud",
+      "short_description": "The revered resting place of Sheikh Daud, an influential Islamic scholar and community leader from centuries past. Pilgrims visit to offer prayers and seek blessings from his enduring spiritual legacy.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Along Wajir-Moyale Road, near Bute",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1558913926-d1830501a4e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw1Nnx8aXNsYW1pYyUyMHRvbWJ8ZW58MHx8fHwxNzAxMjQzNjE1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Islamic shrine",
+        "pilgrimage site",
+        "historical figure"
+      ]
+    },
+    {
+      "id": "WJR_RS002",
+      "name": "Shrine of the Seven Elders",
+      "short_description": "An ancient burial ground marked by seven weathered stone markers, believed to be the graves of the founding elders of a prominent clan. It's a site of ancestral veneration and traditional ceremonies.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Northeast of Griftu, Wajir East",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628172551532-628d011925b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwyMnx8YW5jaWVudCUyMGdyYXZlcyUyMHN0b25lfGVufDB8fHx8MTcwMTI0MzY0MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral site",
+        "clan history",
+        "traditional rituals"
+      ]
+    },
+    {
+      "id": "WJR_RS003",
+      "name": "Lugh Qajar Burial Mound",
+      "short_description": "A large, ancient earthen mound said to be the tomb of a legendary pre-Islamic chief or warrior. Oral traditions link this site to pivotal moments in regional history and the origins of local communities.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Near Lugh Qajar Village, Wajir North",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620021677328-3e4b7b257d09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw3fHxiaXJkcyUyMGV5ZSUyMHRvbWJ8ZW58MHx8fHwxNzAxMjQzNjcwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "pre-Islamic",
+        "legendary site",
+        "archaeological interest"
+      ]
+    },
+    {
+      "id": "WJR_RS004",
+      "name": "Adan Barre's Ancestral Grave",
+      "short_description": "The simple but highly respected grave of Adan Barre, a revered ancestral figure whose wisdom and leadership shaped local clan dynamics. It serves as a focal point for clan gatherings and remembrance.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Outskirts of Buna, Wajir East",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579549301934-589508933b93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwyMHx8ZGVzZXJ0JTIwdG9tYnxlbnwwfHx8fDE3MDEyNDM3MTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral veneration",
+        "clan heritage",
+        "historical burial"
+      ]
+    },
+    {
+      "id": "WJR_MG001",
+      "name": "Korof Harar Cairns",
+      "short_description": "A series of ancient stone cairns, believed to be pre-Islamic burial markers or territorial boundaries from early nomadic communities. Their exact purpose remains a mystery, adding to their ancient allure.",
+      "subtype": "Megalithic Sites",
+      "address": "Along Korof Harar Road, Wajir South",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549488344-933391d1f7e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw0OXx8ZGVzZXJ0JTIwY2Fpcm5zfGVufDB8fHx8MTcwMTI0Mzc4NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancient monuments",
+        "pre-historic",
+        "archaeological site"
+      ]
+    },
+    {
+      "id": "WJR_MG002",
+      "name": "Wajir Stone Circles",
+      "short_description": "A rare formation of weathered stone circles, interpreted by some as an ancient ritualistic site or an early astronomical calendar. It offers a glimpse into the spiritual practices of Wajir's earliest inhabitants.",
+      "subtype": "Megalithic Sites",
+      "address": "Near Wajir Airstrip, Wajir West",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1557457741-a67b9319208a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw3OXx8c3RvbmUlMjBjaXJjbGVzfGVufDB8fHx8MTcwMTI0MzgxN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ritual site",
+        "ancient calendar",
+        "mysterious stones"
+      ]
+    },
+    {
+      "id": "WJR_MG003",
+      "name": "Habaswein Boulder Markers",
+      "short_description": "Large, strategically placed boulders thought to mark ancient nomadic pathways, water points, or significant tribal boundaries. They stand as enduring sentinels of a forgotten past.",
+      "subtype": "Megalithic Sites",
+      "address": "East of Habaswein Town, Wajir South",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1618693895318-7b2c01d4a0f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw3Nnx8ZGVzZXJ0JTIwYm91bGRlcnN8ZW58MHx8fHwxNzAxMjQzODU5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancient pathways",
+        "boundary markers",
+        "nomadic history"
+      ]
+    },
+    {
+      "id": "WJR_MG004",
+      "name": "Lag Bogal Stone Alignment",
+      "short_description": "A series of stones arranged in a linear pattern, believed to have been used for tracking seasonal changes or celestial events important for nomadic life. It speaks to ancient knowledge of the environment.",
+      "subtype": "Megalithic Sites",
+      "address": "Near Lag Bogal Water Pans, Wajir North",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563289066-ad64a1323b63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw0OXx8cnVpbnMlMjBhZnJpY2F8ZW58MHx8fHwxNzAxMjQzNTQ2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomical markers",
+        "ancient knowledge",
+        "stone arrangements"
+      ]
+    },
+    {
+      "id": "WJR_CA001",
+      "name": "Star Gazer's Kopje",
+      "short_description": "An isolated, flat-topped kopje offering an unobstructed panoramic view of the night sky, historically used by nomadic communities for celestial navigation and seasonal predictions. It's a place of ancient wisdom.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "West of Eldas Town, Wajir West",
+      "visiting_hours": "18:00-06:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1587570493863-718e244d2d4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwxNXx8ZGVzZXJ0JTIwcm9jayUyMGhpbGwlMjBub2N0dXJuZXxlbnwwfHx8fDE3MDEyNDM5Njl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "nomadic navigation",
+        "stargazing"
+      ]
+    },
+    {
+      "id": "WJR_CA002",
+      "name": "Lunar Gate Rock Formation",
+      "short_description": "A unique natural rock arch whose opening is said to align with specific lunar phases, making it a sacred spot for ancient moon-related ceremonies. It's shrouded in local myths and legends.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Near Buna Wildlife Conservancy, Wajir East",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502409747209-40813c9fb60d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwyMHx8bmF0dXJhbCUyMHJvY2slMjBhcmNofGVufDB8fHx8MTcwMTI0NDAwMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lunar cycles",
+        "natural wonder",
+        "mythical site"
+      ]
+    },
+    {
+      "id": "WJR_CA003",
+      "name": "Equinox Plateau Markers",
+      "short_description": "Subtle stone markers on an expansive plateau, believed to have been used by ancient communities to mark the sunrise on equinoxes. This site facilitated the timing of migrations and agricultural cycles.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Wajir Gora Plateau, Wajir South",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596701092823-a1c97a892b1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw3OXx8bXVkJTIwYnVpbGRpbmdzfGVufDB8fHx8MTcwMTI0MzQ3NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "seasonal alignment",
+        "ancient calendar",
+        "plateau views"
+      ]
+    },
+    {
+      "id": "WJR_CA004",
+      "name": "Milky Way Ridge",
+      "short_description": "A prominent ridge offering unparalleled views of the Milky Way, historically used as a navigational landmark and a sacred place for spiritual communion with the cosmos. It inspires awe and reverence.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "East of Diff Town, along the border",
+      "visiting_hours": "19:00-05:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1447280879483-333060718507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw3MHx8bWlsa3klMjB3YXl8ZW58MHx8fHwxNzAxMjQ0MDM1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cosmic views",
+        "spiritual connection",
+        "night sky"
+      ]
+    },
+    {
+      "id": "WJR_SF001",
+      "name": "Malkagalla Sanctuary Grove",
+      "short_description": "A small, dense grove of ancient Acacia trees, preserved for centuries due to local beliefs in its spiritual power and role as a habitat for benevolent spirits. It's a place of quiet reflection and traditional offerings.",
+      "subtype": "Sacred Forests",
+      "address": "Near Malkagalla Village, Wajir South",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1588665798956-61841443d3b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwyOXx8YWNhY2lhJTIwZ3JvdmV8ZW58MHx8fHwxNzAxMjQ0MDYyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sacred trees",
+        "spiritual grove",
+        "traditional beliefs"
+      ]
+    },
+    {
+      "id": "WJR_SF002",
+      "name": "Arbajahan Whispering Thicket",
+      "short_description": "A thick, dense bushland area revered by locals as a place where ancestral spirits communicate through the rustling leaves. It's a site for traditional healers and those seeking spiritual guidance.",
+      "subtype": "Sacred Forests",
+      "address": "Near Arbajahan, Wajir West",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1502409747209-40813c9fb60d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwyMHx8bmF0dXJhbCUyMHJvY2slMjBhcmNofGVufDB8fHx8MTcwMTI0NDAwMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral spirits",
+        "healing",
+        "traditional medicine"
+      ]
+    },
+    {
+      "id": "WJR_SF003",
+      "name": "Buna Shadow Woods",
+      "short_description": "A small, surprisingly lush patch of woodland that provides vital shade and sustenance, considered holy by surrounding communities. It's a traditional meeting point for elders and a place of blessings.",
+      "subtype": "Sacred Forests",
+      "address": "On the outskirts of Buna Town, Wajir East",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1574347895744-80252b412b1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwxNXx8YWNhY2lhJTIwdHJlZSUyMGRlc2VydHxlbnwwfHx8fDE3MDEyNDQxNDF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "blessing site",
+        "community gathering",
+        "natural heritage"
+      ]
+    },
+    {
+      "id": "WJR_SF004",
+      "name": "Sarman Weeping Trees",
+      "short_description": "A distinctive cluster of Commiphora trees known for their resin, believed to be the tears of ancient ancestors. The site is a place of solemn remembrance and a source of traditional remedies.",
+      "subtype": "Sacred Forests",
+      "address": "Near Sarman Village, Wajir North",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1621217743058-f90356c9d7b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwyMHx8c2FjcmVkJTIwdHJlZXN8ZW58MHx8fHwxNzAxMjQ0MTYyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestor reverence",
+        "traditional medicine",
+        "unique trees"
+      ]
+    },
+    {
+      "id": "WJR_SM001",
+      "name": "Old Sarman Hill",
+      "short_description": "A prominent hill near Sarman village, known as the site of ancient settlements and traditional rituals. It's considered a place of ancestral power and offers panoramic views of the surrounding plains.",
+      "subtype": "Sacred Mountains",
+      "address": "Near Sarman Village, Wajir North",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549488344-933391d1f7e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw0OXx8ZGVzZXJ0JTIwY2Fpcm5zfGVufDB8fHx8MTcwMTI0Mzc4NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral site",
+        "ritual hill",
+        "panoramic views"
+      ]
+    },
+    {
+      "id": "WJR_SM002",
+      "name": "Wajir Gora Plateau",
+      "short_description": "An elevated plateau offering expansive vistas, revered as a place for communal prayers and traditional rain-making ceremonies during times of drought. It embodies the community's connection to nature.",
+      "subtype": "Sacred Mountains",
+      "address": "South Wajir County, near Gora",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502409747209-40813c9fb60d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwyMHx8bmF0dXJhbCUyMHJvY2slMjBhcmNofGVufDB8fHx8MTcwMTI0NDAwMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "prayer site",
+        "rain-making",
+        "natural beauty"
+      ]
+    },
+    {
+      "id": "WJR_SM003",
+      "name": "Bute Guda Kopje",
+      "short_description": "A distinctive, isolated kopje that served as a lookout point and a strategic gathering place for ancient clans. Legends of heroic deeds and wise counsel are associated with this enduring landmark.",
+      "subtype": "Sacred Mountains",
+      "address": "Near Bute Town, Wajir North",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1587570493863-718e244d2d4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwxNXx8ZGVzZXJ0JTIwcm9jayUyMGhpbGwlMjBub2N0dXJuZXxlbnwwfHx8fDE3MDEyNDM5Njl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "historical landmark",
+        "clan history",
+        "strategic point"
+      ]
+    },
+    {
+      "id": "WJR_SM004",
+      "name": "Qoqof Peak",
+      "short_description": "The highest point in a range of low hills, believed to be the dwelling place of powerful nature spirits. It's a challenging climb, often undertaken for spiritual quests and seeking blessings for prosperity.",
+      "subtype": "Sacred Mountains",
+      "address": "Eastern Wajir County, near Somalia border",
+      "visiting_hours": "06:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1518017387346-6cfb5e1ec941?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw3MHx8ZGVzZXJ0JTIwZ2luZ2VyJTIwcm9jayUyMG1vdW50YWluc3xlbnwwfHx8fDE3MDEyNDQyNTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "spirit dwelling",
+        "spiritual quest",
+        "highest point"
+      ]
+    },
+    {
+      "id": "WJR_BD001",
+      "name": "Orahey Valley Encounter",
+      "short_description": "The historical site of a major clan conflict that reshaped regional power dynamics. It serves as a somber reminder of past struggles and a place for narratives of heroism and reconciliation.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Orahey Valley, Wajir South",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549488344-933391d1f7e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw0OXx8ZGVzZXJ0JTIwY2Fpcm5zfGVufDB8fHx8MTcwMTI0Mzc4NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "historical battle",
+        "clan conflict",
+        "remembrance"
+      ]
+    },
+    {
+      "id": "WJR_BD002",
+      "name": "Wajir Fort Resistance Site",
+      "short_description": "The ground surrounding the old colonial fort, where local communities bravely resisted foreign occupation. It symbolizes the spirit of resilience and the fight for self-determination.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Site of Old Wajir Fort, Wajir Town",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596701092823-a1c97a892b1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw3OXx8bXVkJTIwYnVpbGRpbmdzfGVufDB8fHx8MTcwMTI0MzQ3NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "colonial resistance",
+        "historical monument",
+        "resilience"
+      ]
+    },
+    {
+      "id": "WJR_BD003",
+      "name": "Dif Plain Skirmish",
+      "short_description": "A vast plain known for numerous historical skirmishes over grazing lands and water resources, reflecting the fierce competition and survival instincts of nomadic life. It shaped local narratives of bravery.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Dif Plain, Wajir East",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502409747209-40813c9fb60d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwyMHx8bmF0dXJhbCUyMHJvY2slMjBhcmNofGVufDB8fHx8MTcwMTI0NDAwMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nomadic conflicts",
+        "historical battles",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "WJR_BD004",
+      "name": "Elben Hero's Last Stand",
+      "short_description": "A legendary site where a local hero and his warriors made a valiant last stand against overwhelming odds. It's recounted in oral traditions as a tale of ultimate sacrifice and enduring courage.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Near Elben Village, Wajir West",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1518017387346-6cfb5e1ec941?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw3MHx8ZGVzZXJ0JTIwZ2luZ2VyJTIwcm9jayUyMG1vdW50YWluc3N8ZW58MHx8fHwxNzAxMjQ0MjUzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "heroic legend",
+        "sacrifice",
+        "oral tradition"
+      ]
+    },
+    {
+      "id": "WJR_VZ001",
+      "name": "Black Serpent Rock Outcrop",
+      "short_description": "A striking formation of dark, igneous-looking rocks that snake across the landscape, giving rise to local legends of a petrified giant serpent. It's a place of ancient mystery and primal energy.",
+      "subtype": "Volcanic Zones",
+      "address": "West of Habaswein, along a dry riverbed",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517032742914-1e04169c991c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw3OXx8ZGVzZXJ0JTIwcm9ja3xlbnwwfHx8fDE3MDEyNDQzMjR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "geological wonder",
+        "mythological site",
+        "primordial energy"
+      ]
+    },
+    {
+      "id": "WJR_VZ002",
+      "name": "Whispering Grotto Sinkhole",
+      "short_description": "A large, mysterious sinkhole with peculiar rock formations at its depths, where the wind creates eerie, whispering sounds. Locals associate it with spirits and ancient subterranean forces.",
+      "subtype": "Volcanic Zones",
+      "address": "Near Old Sarman, Wajir North",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579737976692-74892c90858e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwxNXx8ZGVzZXJ0JTIwZ3JvdHRvfGVufDB8fHx8MTcwMTI0NDM1NXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "geological mystery",
+        "spiritual folklore",
+        "natural phenomenon"
+      ]
+    },
+    {
+      "id": "WJR_VZ003",
+      "name": "Red Earth Scar",
+      "short_description": "A dramatic geological fault line characterized by vivid red soil and unusual mineral deposits, signifying a place where the earth itself has been profoundly transformed. It's a striking natural landscape.",
+      "subtype": "Volcanic Zones",
+      "address": "Along the Wajir-Mandera Border, East Wajir",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549488344-933391d1f7e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw0OXx8ZGVzZXJ0JTIwY2Fpcm5zfGVufDB8fHx8MTcwMTI0Mzc4NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "geological fault",
+        "unique landscape",
+        "earth transformation"
+      ]
+    },
+    {
+      "id": "WJR_VZ004",
+      "name": "Petrified Forest Remnants",
+      "short_description": "A site scattered with fossilized tree trunks, offering a tangible connection to an ancient, forested past. These petrified remains evoke a sense of deep time and geological change.",
+      "subtype": "Volcanic Zones",
+      "address": "Near Dilakhor, Wajir South",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502409747209-40813c9fb60d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwyMHx8bmF0dXJhbCUyMHJvY2slMjBhcmNofGVufDB8fHx8MTcwMTI0NDAwMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "petrified wood",
+        "ancient geology",
+        "paleontology"
+      ]
+    },
+    {
+      "id": "WJR_CR001",
+      "name": "Wajir Town Old Caravan Junction",
+      "short_description": "The historical convergence point of ancient caravan routes that connected the Horn of Africa to the interior. It was a bustling hub of trade, cultural exchange, and storytelling for centuries.",
+      "subtype": "Crossroads",
+      "address": "Wajir Town, Central Market Area",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1602446700010-8b1b22e1a9c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw1NXx8bXVkJTIwYnVpbGRpbmdzfGVufDB8fHx8MTcwMTI0MzQ1MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "trade routes",
+        "historical hub",
+        "cultural exchange"
+      ]
+    },
+    {
+      "id": "WJR_CR002",
+      "name": "Habaswein Wells Trading Post",
+      "short_description": "An essential meeting point where various nomadic clans and traders gathered around the life-giving wells. It fostered community bonds and facilitated the exchange of goods and news across vast distances.",
+      "subtype": "Crossroads",
+      "address": "Habaswein Town, near the main wells",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517524008697-d86b97f64264?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwyMHx8ZGVzZXJ0JTIwd2VsbHxlbnwwfHx8fDE3MDEyNDQ0MjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nomadic gathering",
+        "trading point",
+        "community life"
+      ]
+    },
+    {
+      "id": "WJR_CR003",
+      "name": "Garissa-Wajir-Mandera Fork",
+      "short_description": "A strategic geographical fork in the road where major routes from Garissa, Wajir, and Mandera converge. It's historically significant for regional politics, migrations, and economic flow.",
+      "subtype": "Crossroads",
+      "address": "Intersection of major roads, Wajir South",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549488344-933391d1f7e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw0OXx8ZGVzZXJ0JTIwY2Fpcm5zfGVufDB8fHx8MTcwMTI0Mzc4NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "strategic location",
+        "regional hub",
+        "transport history"
+      ]
+    },
+    {
+      "id": "WJR_CR004",
+      "name": "El Wak Market Crossroads",
+      "short_description": "The bustling market area of El Wak, a border town that has long served as a crucial nexus for cross-border trade and cultural interactions between Kenya and Somalia. It embodies lively commerce and connection.",
+      "subtype": "Crossroads",
+      "address": "El Wak Town Center, near the border",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596701092823-a1c97a892b1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHw3OXx8bXVkJTIwYnVpbGRpbmdzfGVufDB8fHx8MTcwMTI0MzQ3NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "border trade",
+        "cultural interaction",
+        "market hub"
+      ]
+    },
+    {
+      "id": "WJR_HW001",
+      "name": "Balambala Healing Spring",
+      "short_description": "A natural spring whose waters are believed to possess healing properties and spiritual purity. Pilgrims visit seeking physical and spiritual solace, making it a revered site for traditional healing.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Near Balambala, Wajir South",
+      "visiting_hours": "24/7",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1597811956799-7977a4128509?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwzMHx8aGVhbGluZyUyMHNwcmluZ3xlbnwwfHx8fDE3MDEyNDQ1MTh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "healing waters",
+        "spiritual purity",
+        "pilgrimage"
+      ]
+    },
+    {
+      "id": "WJR_HW002",
+      "name": "Wajir Borehole of Blessings",
+      "short_description": "The oldest and most vital communal borehole in Wajir, revered not just as a water source but as a fount of blessings and communal harmony. It is central to the town's survival and spiritual life.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Wajir Town, Old Quarter",
+      "visiting_hours": "06:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517524008697-d86b97f64264?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwyMHx8ZGVzZXJ0JTIwd2VsbHxlbnwwfHx8fDE3MDEyNDQ0MjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "communal well",
+        "blessing site",
+        "life-sustaining"
+      ]
+    },
+    {
+      "id": "WJR_HW003",
+      "name": "Sarman Ancestral Well",
+      "short_description": "A traditional, hand-dug well that has served specific clans for generations, imbued with stories of ancestors and clan identity. It's a testament to enduring resourcefulness and heritage.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Sarman Village, Wajir North",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579549301934-589508933b93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwyMHx8ZGVzZXJ0JTIwdG9tYnxlbnwwfHx8fDE3MDEyNDM3MTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral water",
+        "clan heritage",
+        "traditional well"
+      ]
+    },
+    {
+      "id": "WJR_HW004",
+      "name": "Buna Oasis Spring",
+      "short_description": "A natural spring that forms a vital oasis, providing crucial water in the arid landscape. It's a sanctuary for wildlife and a spiritual haven, revered for its life-giving properties.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Buna Oasis, Wajir East",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502409747209-40813c9fb60d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU0OTd8MHwxfHNlYXJjaHwyMHx8bmF0dXJhbCUyMHJvY2slMjBhcmNofGVufDB8fHx8MTcwMTI0NDAwMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "oasis",
+        "life-giving water",
+        "natural sanctuary"
+      ]
+    }
+  ]
+}

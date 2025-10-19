@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Nema",
+    "city_id": "2420"
+  },
+  "items": [
+    {
+      "id": "NEMAFD001",
+      "name": "The Spice Bazaar Cafe",
+      "short_description": "Indulge in aromatic coffees and local pastries amidst the vibrant energy of Nema's grand souk. This hidden gem offers a sensory journey with every bite and sip.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Grand Nema Souk, Old Quarter",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1541348281358-e4b9f27a3c36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw1OXx8c3BpY2VzJTIwY2FmZXxlbnwwfHx8fDE3MTc5MTY1Njh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "local cuisine",
+        "coffee",
+        "souk"
+      ]
+    },
+    {
+      "id": "NEMAFD002",
+      "name": "Skyline Bites Bistro",
+      "short_description": "Experience modern Neman cuisine with a breathtaking panoramic view of the glittering city skyline. Perfect for a chic evening dining experience.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Crystal Tower Skyscraper, Nema City Center",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1563729781179-d5c317144e04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw3OXx8Y2l0eSUyMHNreWxpbmUlMjByZXN0YXVyYW50fGVufDB8fHx8MTcxNzkxNjU2OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fine dining",
+        "city view",
+        "modern"
+      ]
+    },
+    {
+      "id": "NEMAFD003",
+      "name": "Oasis Refreshments Hut",
+      "short_description": "Cool down with freshly squeezed juices and light, healthy snacks by the tranquil waters of the Emerald Oasis. A peaceful escape from the desert heat.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Emerald Oasis",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1517457210348-b7ae59c78ffb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw1MHx8b2FzaXMlMjBjYWZlJTIwcHJvZHVjZXxlbnwwfHx8fDE3MTc5MTY1NzB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "healthy food",
+        "natural setting",
+        "refreshments"
+      ]
+    },
+    {
+      "id": "NEMAFD004",
+      "name": "Nema Street Eats Lane",
+      "short_description": "Dive into the bustling atmosphere of Nema's premier street food destination. Sample diverse flavors, from spicy kebabs to sweet treats, under a canopy of twinkling lights.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Artisan's Alley",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1560648792-5444a83e0dd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw2MHx8c3RyZWV0JTIwZm9vZCUyMG1hcmtldCUyMGFzaWF8ZW58MHx8fHwxNzE3OTE2NTcxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "street food",
+        "vibrant",
+        "local delicacies"
+      ]
+    },
+    {
+      "id": "NEMACN001",
+      "name": "Rainbow Steps District",
+      "short_description": "Walk up the iconic, brightly painted staircases winding through charming houses. Every turn offers a new burst of color, perfect for unforgettable photos.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Old Quarter hillside",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1601736611417-380327f12e86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw0OHx8cmFpbmJvdyUyMHN0YWlyc3xlbnwwfHx8fDE3MTc5MTc1OTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "vibrant streets",
+        "photo opportunity",
+        "unique architecture"
+      ]
+    },
+    {
+      "id": "NEMACN002",
+      "name": "Azure Coast Quarter",
+      "short_description": "Discover a serene neighborhood characterized by stunning blue and white buildings that perfectly complement the shimmering waters of Nema's Azure Lake. Ideal for a calming stroll.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Azure Lakefront",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1502444330042-27270273a62f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzMHx8Ymx1ZSUyMGFuZCUyMHdoaXRlJTIwYnVpbGRpbmdzfGVufDB8fHx8MTcxNzkxNzU5Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coastal vibe",
+        "picturesque",
+        "blue architecture"
+      ]
+    },
+    {
+      "id": "NEMACN003",
+      "name": "Marigold Lane",
+      "short_description": "Step into a golden-hued wonderland where historic buildings are painted in warm shades of orange and yellow, adorned with vibrant floral displays. A truly charming experience.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Old Quarter",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1550547796-0567e7534438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzNHx8b2xkJTIwY2l0eSUyMGdvbGRlbiUyMGhvdXNlc3xlbnwwfHx8fDE3MTc5MTc1OTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "historic charm",
+        "flower power",
+        "warm colors"
+      ]
+    },
+    {
+      "id": "NEMACN004",
+      "name": "Sunset Hues Village",
+      "short_description": "This unique village is built with special pigments, making its buildings glow with fiery reds, oranges, and purples as the sun dips below the horizon. A magical spectacle.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Foothills of Skyline Peaks",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1570773663737-024c15332f17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw3MXx8c3Vuc2V0JTIwdmlsbGFnZSUyMHNjaWVuZXJ5fGVufDB8fHx8MTcxNzkxNzYwMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sunset views",
+        "unique architecture",
+        "photography"
+      ]
+    },
+    {
+      "id": "NEMAMB001",
+      "name": "Grand Nema Souk",
+      "short_description": "Immerse yourself in the bustling heart of Nema, where centuries-old traditions come alive. Explore labyrinthine alleys filled with exotic spices, vibrant textiles, and artisan crafts.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Old Quarter",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1543328570-076136d89283?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzMXx8YnJpZ2h0JTIwYmF6YWFyfGVufDB8fHx8MTcxNzkxODIzOHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "traditional market",
+        "souvenir shopping",
+        "local culture"
+      ]
+    },
+    {
+      "id": "NEMAMB002",
+      "name": "Artisan's Craft Bazaar",
+      "short_description": "Discover unique, handmade treasures crafted by local artists and artisans. From intricate pottery to bespoke jewelry, find the perfect Neman keepsake.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Artisan's Alley",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549414594-5ae389c927c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw0NXx8Y3JhZnQlMjBiYXzaWFyfGVufDB8fHx8MTcxNzkxODU0N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "handmade goods",
+        "local artists",
+        "unique gifts"
+      ]
+    },
+    {
+      "id": "NEMAMB003",
+      "name": "Emerald Oasis Produce Market",
+      "short_description": "Experience the bounty of Nema's fertile oasis at this bustling market. Fresh fruits, organic vegetables, and local delicacies abound, offering a taste of the region.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Emerald Oasis",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1517457210348-b7ae59c78ffb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw2Nnx8b2FzaXMlMjBwcm9kdWNlJTIwYmF6YWFyfGVufDB8fHx8MTcxNzkxODU0N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fresh produce",
+        "local food",
+        "farm to table"
+      ]
+    },
+    {
+      "id": "NEMAMB004",
+      "name": "Night Lantern Market",
+      "short_description": "As dusk settles, this market transforms into a magical wonderland of glowing lanterns, live music, street performers, and delicious evening treats. A vibrant nocturnal experience.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Nema City Central Square",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1588665796263-ed5a544c74a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzMXx8bmlnaHQlMjBsYW50ZXJuJTIwbWFya2V0fGVufDB8fHx8MTcxNzkxODU1MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nightlife",
+        "lanterns",
+        "festive"
+      ]
+    },
+    {
+      "id": "NEMARV001",
+      "name": "Skyline Oasis Lounge",
+      "short_description": "Sip on handcrafted cocktails in a chic setting high above Nema City. The panoramic views of the illuminated cityscape are simply mesmerizing.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Crystal Tower Skyscraper",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1582093557434-d2e987c07bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzM3x8cm9vZnRvcCUyMGJhcnxlbnwwfHx8fDE3MTc5MTg3MjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cityscape",
+        "cocktails",
+        "luxury"
+      ]
+    },
+    {
+      "id": "NEMARV002",
+      "name": "Dune's Edge Terrace",
+      "short_description": "Witness the golden desert transform under the hues of sunset from this unique rooftop terrace. An unparalleled vista of the vast Nema Desert stretching to the horizon.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Desert Gate Inn, Nema Desert outskirts",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1588801977755-a2491a1827b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzMHx8ZGVzZXJ0JTIwcm9vZnRvcCUyMHZpZXd8ZW58MHx8fHwxNzE3OTE4NzI1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "desert view",
+        "sunset",
+        "panoramic"
+      ]
+    },
+    {
+      "id": "NEMARV003",
+      "name": "Old Quarter Panorama",
+      "short_description": "Ascend to a hidden rooftop garden offering charming views over the terracotta rooftops and historic minarets of Nema's ancient Old Quarter. A glimpse into the past.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Merchant's Guild House, Old Quarter",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1558913926-d92cf8c52115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzOXx8b2xkJTIwY2l0eSUyMHJvb2Z0b3BzfGVufDB8fHx8MTcxNzkxODc1MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "historic view",
+        "architecture",
+        "charming"
+      ]
+    },
+    {
+      "id": "NEMARV004",
+      "name": "Starfall Observatory Deck",
+      "short_description": "Perched atop the highest point in Nema City, this deck offers an unparalleled stargazing experience, with distant city lights shimmering below.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Skyline Peaks",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1519782488414-b203c40787e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw1M3x8c3RhcmdhemluZyUyMGRlY2t8ZW58MHx8fHwxNzE3OTE4NzU2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "stargazing",
+        "night sky",
+        "city lights"
+      ]
+    },
+    {
+      "id": "NEMAUN001",
+      "name": "Whispering Canyons",
+      "short_description": "Explore a breathtaking labyrinth of wind-sculpted sandstone formations. The unique acoustics here create an ethereal 'whispering' effect as the desert breeze passes through.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Western Nema Desert",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1559441164-9273c52e4f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzMXx8c2xvdCUyMGNhbnlvbnN8ZW58MHx8fHwxNzE3OTE5NDQ5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "geological wonder",
+        "desert landscape",
+        "hiking"
+      ]
+    },
+    {
+      "id": "NEMAUN002",
+      "name": "Crystal Caves of Nema",
+      "short_description": "Descend into a subterranean wonderland adorned with shimmering stalactites, towering stalagmites, and crystal-clear pools reflecting the cave's dazzling formations.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Skyline Peaks foothills",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628173516629-65b530c80b2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzMnx8Y3J5c3RhbCUyMGNhdmVzfGVufDB8fHx8MTcxNzkxOTQ1MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cave exploration",
+        "geology",
+        "underground"
+      ]
+    },
+    {
+      "id": "NEMAUN003",
+      "name": "Bioluminescent Lagoon",
+      "short_description": "Experience a magical phenomenon as the waters of this secluded lagoon glow with an ethereal blue light after sunset, created by microscopic organisms. Best seen on moonless nights.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Hidden cove, Azure Lake",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1565576136653-f725a3d706a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw2MHx8YmlvbHVtaW5lc2NlbnQlMjBsYWdvb258ZW58MHx8fHwxNzE3OTE5NDU2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "night phenomenon",
+        "natural light",
+        "unique experience"
+      ]
+    },
+    {
+      "id": "NEMAUN004",
+      "name": "Floating Rock Oasis",
+      "short_description": "Marvel at a massive, ancient boulder that appears to defy gravity, seemingly hovering above a crystal-clear spring in the heart of a lush oasis. A true optical illusion.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Emerald Oasis",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628122345511-b0521e4b85c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzOXx8b2FzaXNfcm9jayUyMGZvcm1hdGlvbnxlbnwwfHx8fDE3MTc5MTk2Nzh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "optical illusion",
+        "oasis",
+        "unique rock"
+      ]
+    },
+    {
+      "id": "NEMADS001",
+      "name": "Crimson Dunes of Zara",
+      "short_description": "Venture into a mesmerizing landscape of towering, reddish sand dunes that stretch as far as the eye can see. Perfect for desert safaris and unforgettable sunset views.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Eastern Nema Desert",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1520111244439-eddc093a73df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw0OHx8cmVkJTIwZHVuc2V0JTIwc2FuZCUyMGR1bmVzfGVufDB8fHx8MTcxNzkyMDE0N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "desert safari",
+        "red dunes",
+        "sunset"
+      ]
+    },
+    {
+      "id": "NEMADS002",
+      "name": "Echoing Sands Preserve",
+      "short_description": "Experience the unique phenomenon of 'singing sands' in this vast expanse of golden dunes. Listen as the wind creates mysterious, resonant sounds across the landscape.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Central Nema Desert",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549414594-5ae389c927c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw2MHx8Z29sZGVuJTIwc2FuZCUyMGR1bmVzfGVufDB8fHx8MTcxNzkyMDE0OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "singing dunes",
+        "desert adventure",
+        "nature sounds"
+      ]
+    },
+    {
+      "id": "NEMADS003",
+      "name": "Desert Rose Valley",
+      "short_description": "Discover a geological marvel where unique 'desert rose' crystal formations dot a stunning landscape of sculpted rocks and resilient desert flora. A hidden gem.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Northern Nema Desert",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1579450383794-6b22b62d87e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzMXx8ZGVzZXJ0JTIwcm9zZSUyMGZvcm1hdGlvbnN8ZW58MHx8fHwxNzE3OTIwMTQ5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "geological formations",
+        "desert flora",
+        "unique crystals"
+      ]
+    },
+    {
+      "id": "NEMADS004",
+      "name": "Starlight Desert Camp",
+      "short_description": "Experience the ultimate desert luxury under a canopy of a million stars. Enjoy traditional Neman hospitality, gourmet dining, and captivating campfire stories in this secluded camp.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Remote Nema Desert",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1546764426-1d161d9a5b3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw0MHx8ZGVzZXJ0JTIwY2FtcGluZyUyMG5pZ2h0c2t5fGVufDB8fHx8MTcxNzkyMDE1MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "glamping",
+        "stargazing",
+        "desert experience"
+      ]
+    },
+    {
+      "id": "NEMACI001",
+      "name": "The Nema Art Sphere",
+      "short_description": "Step into a futuristic dome housing interactive digital art, immersive soundscapes, and avant-garde sculptures that reflect Nema's contemporary artistic vision.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Nema City Arts District",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1627915598858-a83a4ff821ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw0OHx8aW1tZXJzaXZlJTIwYXJ0JTIwZXhoaWJpdHxlbnwwfHx8fDE3MTc5MjA3MzB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "modern art",
+        "interactive",
+        "digital"
+      ]
+    },
+    {
+      "id": "NEMACI002",
+      "name": "Legacy Weave Exhibit",
+      "short_description": "Explore Nema's rich textile heritage through a vibrant, multi-sensory exhibition. Learn about traditional weaving techniques and the stories behind ancient patterns.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Grand Nema Museum",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1559136155-24c8816c201e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzMXx8dGV4dGlsZSUyMGV4aGliaXxlbnwwfHx8fDE3MTc5MjA3MzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "textile art",
+        "cultural heritage",
+        "traditional crafts"
+      ]
+    },
+    {
+      "id": "NEMACI003",
+      "name": "Sound Sculptures Garden",
+      "short_description": "Wander through an enchanting outdoor garden where unique wind-activated sculptures create a harmonious and ever-changing symphony. A serene and captivating experience.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Nema City Botanical Gardens",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1620579634934-f8fc73ce4f6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw1NXx8c291bmQlMjBzY3VscHR1cmVzfGVufDB8fHx8MTcxNzkyMDc0M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "outdoor art",
+        "sound art",
+        "garden"
+      ]
+    },
+    {
+      "id": "NEMACI004",
+      "name": "Ancestral Echoes Gallery",
+      "short_description": "Utilizing cutting-edge projection mapping, this gallery brings Nema's ancient myths, legends, and historical figures to life on vast architectural surfaces. A truly immersive storytelling experience.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Old Quarter, adjacent to Sultan's Citadel",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1557853106-93108c9d2f00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw0Nnx8cHJvamVjdGlvbiUyMG1hcHBpbmd8ZW58MHx8fHwxNzE3OTIwNzQ4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "projection art",
+        "history",
+        "immersive storytelling"
+      ]
+    },
+    {
+      "id": "NEMAHA001",
+      "name": "The Sultan's Citadel",
+      "short_description": "Perched majestically atop a rocky outcrop, this ancient fortress offers panoramic views of Nema City and a deep dive into the region's royal history and strategic past.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Old Quarter hills",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1579450383794-6b22b62d87e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw2Nnx8YW5jaWVudCUyMGNpZXRlZHxlbnwwfHx8fDE3MTc5MjEzODV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fortress",
+        "ancient history",
+        "city views"
+      ]
+    },
+    {
+      "id": "NEMAHA002",
+      "name": "Grand Nema Library",
+      "short_description": "Marvel at the intricate mosaics, soaring arches, and ornate calligraphy of this historic library, a testament to Nema's intellectual legacy and architectural splendor.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Nema City Center",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1590483259881-2c1b2f48f077?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzMXx8b3JuYXRlJTIwbGlicmFyeXxlbnwwfHx8fDE3MTc5MjEzODd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "historic building",
+        "architecture",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "NEMAHA003",
+      "name": "Sunstone Temples",
+      "short_description": "Explore the mystical ruins of ancient temples, precisely aligned with celestial events. Their weathered stones tell tales of a forgotten civilization and astronomical wisdom.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Nema Desert fringes",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1563729781179-d5c317144e04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzM3x8YW5jaWVudCUyMHJ1aW5zJTIwdGVtcGxlfGVufDB8fHx8MTcxNzkyMTM5NXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancient ruins",
+        "archaeology",
+        "mystical"
+      ]
+    },
+    {
+      "id": "NEMAHA004",
+      "name": "Merchant's Guild House",
+      "short_description": "Step back in time within this meticulously preserved medieval-era building. Its ornate wooden facade and courtyard reveal the grandeur of Nema's prosperous trade history.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Grand Nema Souk, Old Quarter",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1621216501193-41ec22847118?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw1Nnx8b2xkJTIwbWVyY2hhbnQlMjBob3VzZXxlbnwwfHx8fDE3MTc5MjEzOTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "medieval building",
+        "historic facade",
+        "trade history"
+      ]
+    },
+    {
+      "id": "NEMASM001",
+      "name": "Artisan's Alley Murals",
+      "short_description": "Stroll through a vibrant district where every wall tells a story through dynamic and thought-provoking street art. A constantly evolving open-air gallery showcasing local talent.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Artisan's Alley",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1587529402685-6b5cf070a2a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw0NHx8c3RyZWV0JTIwYXJ0JTIwYWxsZXl8ZW58MHx8fHwxNzE3OTIyMDA1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "urban art",
+        "graffiti",
+        "art district"
+      ]
+    },
+    {
+      "id": "NEMASM002",
+      "name": "The Urban Canvas Project",
+      "short_description": "Witness monumental murals adorning the facades of Nema City's high-rises. These large-scale artworks transform urban landscapes into breathtaking visual narratives.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Nema City Central District",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1579273180572-4d40409a471e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw0NHx8YmlnJTIwbXVyYWwlMjBjaXR5fGVufDB8fHx8MTcxNzkyMjAwOHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "large-scale art",
+        "urban transformation",
+        "public art"
+      ]
+    },
+    {
+      "id": "NEMASM003",
+      "name": "Hidden Graffiti Gardens",
+      "short_description": "Discover secret courtyards and tucked-away gardens where lush greenery intertwines with vibrant, ever-changing graffiti art. A fusion of nature and urban creativity.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Old Quarter backstreets",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1547844607-42998f49d21c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzMXx8Z3JhZmZpdGklMjBnYXJkZW58ZW58MHx8fHwxNzE3OTIyMDEwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "secret spots",
+        "nature art",
+        "eclectic"
+      ]
+    },
+    {
+      "id": "NEMASM004",
+      "name": "Nema's Narrative Walls",
+      "short_description": "These expansive murals intricately depict Nema's ancient legends, heroic tales, and cultural history, offering a visual journey through the region's rich storytelling tradition.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Walls surrounding the Grand Nema Souk",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596796593444-48b4f05c1065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzNHx8bmFycmF0aXZlJTIwbXVyYWxzfGVufDB8fHx8MTcxNzkyMjAxMnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "storytelling",
+        "historical murals",
+        "cultural"
+      ]
+    },
+    {
+      "id": "NEMAIL001",
+      "name": "The Soaring Arch of Nema",
+      "short_description": "A colossal natural stone arch, sculpted by millennia of wind and sand, stands as a majestic gateway to the Nema Desert. An awe-inspiring sight at any time of day.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Gateway to Eastern Nema Desert",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1520111244439-eddc093a73df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw1NXx8bmF0dXJhbCUyMGdhdGV3YXl8ZW58MHx8fHwxNzE3OTIyNTc1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "natural wonder",
+        "desert landmark",
+        "impressive scale"
+      ]
+    },
+    {
+      "id": "NEMAIL002",
+      "name": "Crystal Tower Skyscraper",
+      "short_description": "The gleaming centerpiece of Nema's modern skyline, this architectural marvel reflects the desert sun and city lights, symbolizing the city's ambition and innovation.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Nema City Center",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1563729781179-d5c317144e04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw1OHx8bW9kZXJuJTIwZ2xhc3MlMjBza3lzY3JhcGVyfGVufDB8fHx8MTcxNzkyMjU3Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "modern architecture",
+        "city skyline",
+        "urban icon"
+      ]
+    },
+    {
+      "id": "NEMAIL003",
+      "name": "The Emerald Oasis Palm",
+      "short_description": "Standing for centuries, this majestic ancient palm tree is the spiritual heart of the Emerald Oasis, offering shade and a timeless symbol of life in the desert.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Central Emerald Oasis",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1536962304925-1e43c5ee91c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHw0OXx8b2FzaXMlMjBwYWxtJTIwdHJlZXxlbnwwfHx8fDE3MTc5MjI1Nzh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "natural symbol",
+        "oasis life",
+        "ancient tree"
+      ]
+    },
+    {
+      "id": "NEMAIL004",
+      "name": "Golden Gate of Nema",
+      "short_description": "A magnificent, intricately adorned gate that once guarded the ancient city, its golden accents shimmer under the sun, inviting visitors to step into Nema's rich history.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Entrance to Old Quarter",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582093557434-d2e987c07bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxOTN8MHwxfHNlYXJjaHwzMXx8b3JuYXRlJTIwY2l0eSUyMGdhdGV8ZW58MHx8fHwxNzE3OTIyNTgwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "historic gate",
+        "ornate architecture",
+        "cultural landmark"
+      ]
+    }
+  ]
+}

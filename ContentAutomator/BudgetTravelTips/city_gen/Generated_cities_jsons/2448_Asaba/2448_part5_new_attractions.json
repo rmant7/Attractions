@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Asaba",
+    "city_id": "2448"
+  },
+  "items": [
+    {
+      "id": "ASB_ART001",
+      "name": "Asaba Contemporary Gallery",
+      "short_description": "Explore a vibrant collection of modern Nigerian and West African art, featuring works from emerging talents and established masters. A hub for creative expression and cultural dialogue.",
+      "address": "Plot 15, Okpanam Road, Asaba, Delta State",
+      "opening_hours": "10:00-17:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594247551068-19e48e8e7c1f",
+      "tags": [
+        "art",
+        "culture",
+        "gallery"
+      ]
+    },
+    {
+      "id": "ASB_FUN002",
+      "name": "Delta Wonderland Family Park",
+      "short_description": "A sprawling amusement park offering thrilling rides, interactive games, and entertainment for all ages. Perfect for family outings and memorable adventures.",
+      "address": "Benin-Asaba Expressway, close to Head Bridge, Asaba",
+      "opening_hours": "10:00-20:00 (daily)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1607421873105-df62a39284a1",
+      "tags": [
+        "family",
+        "amusement",
+        "rides"
+      ]
+    },
+    {
+      "id": "ASB_RIV003",
+      "name": "Niger Delta Waterfront Walk",
+      "short_description": "Enjoy a scenic stroll along the newly developed promenade offering breathtaking views of the River Niger, lush landscaping, and vibrant outdoor cafes. A tranquil escape in the heart of the city.",
+      "address": "Nnebisi Road Extension, Asaba Waterfront",
+      "opening_hours": "24/7",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1620600125693-4e8c1e7a5d1a",
+      "tags": [
+        "nature",
+        "scenic",
+        "walking"
+      ]
+    },
+    {
+      "id": "ASB_CIN004",
+      "name": "Prestige Cinema & Games Arena",
+      "short_description": "Experience the latest blockbusters in state-of-the-art cinemas, then challenge friends at the extensive games arcade and virtual reality zones. Your ultimate entertainment destination.",
+      "address": "Summit Road, GRA Phase III, Asaba",
+      "opening_hours": "10:00-23:00 (daily)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1603577317208-e74f14120f26",
+      "tags": [
+        "cinema",
+        "entertainment",
+        "gaming"
+      ]
+    },
+    {
+      "id": "ASB_ECO005",
+      "name": "Asaba Green Oasis",
+      "short_description": "Discover diverse plant species, tranquil walking trails, and educational exhibits focused on Nigerian flora and fauna. A serene haven for nature lovers and environmental enthusiasts.",
+      "address": "Ibusa Road, near Asaba Airport, Asaba",
+      "opening_hours": "08:00-18:00 (daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596707328221-5a02568f6a9e",
+      "tags": [
+        "nature",
+        "garden",
+        "eco-tourism"
+      ]
+    },
+    {
+      "id": "ASB_MALL006",
+      "name": "Grand Delta Mall",
+      "short_description": "Asaba's premier destination for luxury shopping, international brands, and a diverse range of dining experiences. Enjoy a sophisticated atmosphere for retail therapy and gourmet meals.",
+      "address": "Mariam Babangida Way, Asaba",
+      "opening_hours": "09:00-21:00 (daily)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1528698827570-3d3a042e6162",
+      "tags": [
+        "shopping",
+        "dining",
+        "luxury"
+      ]
+    },
+    {
+      "id": "ASB_TECH007",
+      "name": "Silicon Delta Co-working & Innovation Center",
+      "short_description": "A vibrant space for entrepreneurs, tech enthusiasts, and creatives to collaborate, learn, and innovate. Features modern co-working spaces, event halls, and incubation programs.",
+      "address": "DLA Road, GRA Phase II, Asaba",
+      "opening_hours": "08:00-20:00 (Mon-Sat)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522204657736-21829447477b",
+      "tags": [
+        "innovation",
+        "tech",
+        "coworking"
+      ]
+    },
+    {
+      "id": "ASB_ADV008",
+      "name": "Asaba Canopy Adventures",
+      "short_description": "Get your adrenaline pumping with exhilarating zip lines, high ropes courses, and challenging obstacle challenges set amidst natural forest. An unforgettable outdoor adventure experience.",
+      "address": "Old Federal Secretariat Road, Asaba (outskirts)",
+      "opening_hours": "09:00-17:00 (Tue-Sun)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1593006497743-1b91f0f4a1f6",
+      "tags": [
+        "adventure",
+        "outdoor",
+        "thrill"
+      ]
+    },
+    {
+      "id": "ASB_FOOD009",
+      "name": "Taste of Asaba Food Market",
+      "short_description": "A bustling open-air market showcasing the best of local and international street food. Sample diverse flavors, enjoy live music, and experience Asaba's vibrant culinary scene.",
+      "address": "Ezenei Avenue, Asaba",
+      "opening_hours": "16:00-22:00 (Thu-Sun)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563721752458-132d71191ec4",
+      "tags": [
+        "food",
+        "market",
+        "local"
+      ]
+    },
+    {
+      "id": "ASB_SPA010",
+      "name": "The Azure Oasis Resort & Spa",
+      "short_description": "Indulge in luxury at this exclusive resort offering day passes to its infinity pool, world-class spa facilities, and gourmet dining. A perfect retreat for relaxation and rejuvenation.",
+      "address": "GRA Phase I, off Okpanam Road, Asaba",
+      "opening_hours": "07:00-21:00 (daily)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1559847844-cb80c10b7b1e",
+      "tags": [
+        "luxury",
+        "spa",
+        "resort"
+      ]
+    }
+  ]
+}

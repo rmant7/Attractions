@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Nouakchott",
+    "city_id": "2422"
+  },
+  "items": [
+    {
+      "id": "NQ_NB_01",
+      "name": "Atlantic Sunset at Plage de Nouakchott",
+      "short_description": "Witness the breathtaking spectacle of the sun dipping below the Atlantic horizon, painting the sky with fiery hues over Nouakchott's bustling main beach. A serene end to a vibrant day.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Plage de Nouakchott, near the fishing port",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1579248443322-c3246a48041c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Coastal Views",
+        "Sunset Vibes",
+        "Ocean Breeze"
+      ]
+    },
+    {
+      "id": "NQ_NB_02",
+      "name": "Vibrant Fishing Port Seascape",
+      "short_description": "Capture the iconic scene of hundreds of traditional blue fishing pirogues lining the shore, set against the vast expanse of the Atlantic Ocean. A unique blend of human activity and natural beauty.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Port de Pêche",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1589304192461-12c8b0305886?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Coastal Life",
+        "Authentic Culture",
+        "Seascape"
+      ]
+    },
+    {
+      "id": "NQ_NB_03",
+      "name": "Desert-Meets-Ocean Dunescapes",
+      "short_description": "Discover where golden desert dunes dramatically cascade directly into the azure Atlantic, just outside the city. A rare and stunning convergence of two powerful natural elements.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Northern outskirts of Nouakchott along the coast",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1520106212299-82f738b58866?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Desert Coast",
+        "Unique Landscapes",
+        "Nature Photography"
+      ]
+    },
+    {
+      "id": "NQ_NB_04",
+      "name": "Coastal Salt Flat Reflections",
+      "short_description": "Explore the shimmering salt flats found on the edges of Nouakchott, where crystalline surfaces reflect the vast Mauritanian sky. An ethereal and abstract natural canvas.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "South-eastern outskirts, towards Rosso road",
+      "best_time": "Morning / Late Afternoon",
+      "images": "https://images.unsplash.com/photo-1549419137-b44c8c07e296?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Arid Beauty",
+        "Reflective Surfaces",
+        "Unique Terrain"
+      ]
+    },
+    {
+      "id": "NQ_MA_01",
+      "name": "Grand Mosquée (Saudi Mosque) Minarets",
+      "short_description": "Admire the striking modern Islamic architecture of the Grand Mosquée, with its two towering minarets piercing the blue Nouakchott sky. A prominent landmark of contemporary faith.",
+      "subtype": "Modern Architecture",
+      "location_hint": "City Center, near Presidential Palace",
+      "best_time": "Morning / Late Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Grande_Mosqu%C3%A9e_de_Nouakchott.jpg/1280px-Grande_Mosqu%C3%A9e_de_Nouakchott.jpg",
+      "tags": [
+        "Islamic Architecture",
+        "Modern Design",
+        "City Landmark"
+      ]
+    },
+    {
+      "id": "NQ_MA_02",
+      "name": "National Assembly Building",
+      "short_description": "Photograph the robust and distinctive architecture of Mauritania's National Assembly. Its geometric lines and imposing structure offer a glimpse into the nation's contemporary governance.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Avenue Gamal Abdel Nasser",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Parlement_de_Nouakchott.jpg",
+      "tags": [
+        "Government Building",
+        "Contemporary Design",
+        "Urban Icon"
+      ]
+    },
+    {
+      "id": "NQ_MA_03",
+      "name": "Palais des Congrès Facade",
+      "short_description": "Capture the grand facade of the Palais des Congrès, a key venue for national events. Its imposing size and modern-yet-local architectural elements make for an interesting shot.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Near the city center, off main avenues",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Congr%C3%A8s_Mauritanie.jpg/1280px-Congr%C3%A8s_Mauritanie.jpg",
+      "tags": [
+        "Event Venue",
+        "Monumental Structure",
+        "Urban Architecture"
+      ]
+    },
+    {
+      "id": "NQ_MA_04",
+      "name": "Bank Tower Skylines",
+      "short_description": "Seek out the sleek, glass-clad facades of Nouakchott's emerging financial district. These modern bank towers represent the city's growth and contemporary aspirations, providing a striking contrast to older buildings.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Central Business District, around Avenue de l'Indépendance",
+      "best_time": "Morning / Night",
+      "images": "https://images.unsplash.com/photo-1628170132371-29e710815d7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Skyscraper",
+        "Urban Development",
+        "Sleek Design"
+      ]
+    },
+    {
+      "id": "NQ_FE_01",
+      "name": "Eid al-Fitr Prayer Gatherings",
+      "short_description": "Experience the vibrant community spirit during Eid al-Fitr, as thousands gather for communal prayers in open spaces. A profound and visually moving celebration of faith and unity.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Grand Mosquée courtyard or large public squares",
+      "best_time": "Morning (during Eid)",
+      "images": "https://images.unsplash.com/photo-1549429731-9a70014a6e87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Religious Festival",
+        "Community",
+        "Cultural Celebration"
+      ]
+    },
+    {
+      "id": "NQ_FE_02",
+      "name": "National Independence Day Parade",
+      "short_description": "Witness the patriotic fervor during Mauritania's Independence Day, often marked by colorful parades, military displays, and traditional performances in the city's main avenues.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Avenue Gamal Abdel Nasser or major boulevards",
+      "best_time": "Morning (November 28th)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ind%C3%A9pendance_Mauritanie_%281%29.jpg",
+      "tags": [
+        "National Holiday",
+        "Parade",
+        "Patriotism"
+      ]
+    },
+    {
+      "id": "NQ_FE_03",
+      "name": "Marché Capital Daily Hustle",
+      "short_description": "Immerse yourself in the perpetual 'festival' of daily life at Marché Capital, a sprawling market brimming with vendors, shoppers, and a cacophony of sights and sounds. A true sensory overload.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Marché Capital (Central Market)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1517724391262-65a88c3a9f0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Market Life",
+        "Vibrant Scene",
+        "Daily Rituals"
+      ]
+    },
+    {
+      "id": "NQ_FE_04",
+      "name": "Traditional Music & Dance Gatherings",
+      "short_description": "Seek out impromptu or organized cultural gatherings featuring traditional Mauritanian music and dance. The rhythmic beats and graceful movements offer a captivating insight into local artistry.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Cultural centers or community spaces",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1522811634731-50e5883ef0e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Local Music",
+        "Dance Performance",
+        "Cultural Exchange"
+      ]
+    },
+    {
+      "id": "NQ_CI_01",
+      "name": "Musée National de Mauritanie Exhibits",
+      "short_description": "Delve into Mauritania's rich history and diverse ethnography at the National Museum. Its exhibits feature archaeological finds and traditional artifacts, telling the story of the desert nation.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Avenue Gamal Abdel Nasser, City Center",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mus%C3%A9e_national_de_Mauritanie.jpg/1024px-Mus%C3%A9e_national_de_Mauritanie.jpg",
+      "tags": [
+        "History",
+        "Ethnography",
+        "Artifacts"
+      ]
+    },
+    {
+      "id": "NQ_CI_02",
+      "name": "Marché Artisanal Craft Displays",
+      "short_description": "Wander through the Marché Artisanal, where a vibrant array of local handicrafts, textiles, jewelry, and leather goods are beautifully displayed. Each item is a testament to Mauritanian craftsmanship.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Near Marché Capital",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1587397737339-a0352efc1968?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Handicrafts",
+        "Local Art",
+        "Souvenirs"
+      ]
+    },
+    {
+      "id": "NQ_CI_03",
+      "name": "Traditional Tent (Khaima) Setup",
+      "short_description": "Encounter authentic 'khaima' (traditional nomadic tents) setups often found outside cultural centers or at events. These beautifully decorated tents offer a glimpse into Mauritania's Bedouin heritage.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Various cultural institutions or hotel grounds",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Khaima_de_Mauritanie.jpg",
+      "tags": [
+        "Nomadic Culture",
+        "Heritage",
+        "Traditional Architecture"
+      ]
+    },
+    {
+      "id": "NQ_CI_04",
+      "name": "Mosque Interior Calligraphy & Mosaics",
+      "short_description": "Discover the serene beauty of local mosque interiors, adorned with intricate geometric patterns, delicate mosaics, and elegant Arabic calligraphy. A peaceful and spiritual artistic experience.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Various local mosques (e.g., Mosque Marocaine)",
+      "best_time": "Morning (outside prayer times)",
+      "images": "https://images.unsplash.com/photo-1596204739506-6e4215714f3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Islamic Art",
+        "Religious Decor",
+        "Calligraphy"
+      ]
+    },
+    {
+      "id": "NQ_HA_01",
+      "name": "Old Marché Capital Backstreets",
+      "short_description": "Escape the main thoroughfares and explore the labyrinthine backstreets of Marché Capital. These quieter alleys reveal local life, small workshops, and an authentic atmosphere away from the crowds.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Marché Capital, deeper sections",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1574765796791-e402773322aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Market Secrets",
+        "Local Life",
+        "Urban Exploration"
+      ]
+    },
+    {
+      "id": "NQ_HA_02",
+      "name": "Residential District Walkways",
+      "short_description": "Stroll through the less-trodden walkways of older residential areas, discovering the quiet charm of Nouakchott's neighborhoods. These paths often lead to unexpected glimpses of local homes and daily routines.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Older districts like Ksar or Teyarett",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1629859595861-512c0fb32e70?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Neighborhood Charm",
+        "Quiet Streets",
+        "Authentic Vibes"
+      ]
+    },
+    {
+      "id": "NQ_HA_03",
+      "name": "Teahouse Courtyard Retreats",
+      "short_description": "Seek out small, unassuming teahouses or cafes with secluded courtyards. These hidden gems offer a tranquil escape, perfect for enjoying mint tea amidst a peaceful, local setting.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Scattered throughout the city, ask locals for recommendations",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1601720875323-01997d666611?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Tea Culture",
+        "Peaceful Escape",
+        "Local Haunts"
+      ]
+    },
+    {
+      "id": "NQ_HA_04",
+      "name": "Artisanal Workshop Alleyways",
+      "short_description": "Explore the narrow alleys where small artisanal workshops often operate. These unassuming spaces buzz with quiet activity, offering a glimpse into traditional crafts and the daily lives of local artisans.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Near Marché Artisanal or industrial zones",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1517006830768-e4210d7a040b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Craftsmen",
+        "Workshop",
+        "Discovery"
+      ]
+    },
+    {
+      "id": "NQ_DD_01",
+      "name": "City Edge Desert Dunes",
+      "short_description": "Just beyond Nouakchott's city limits, golden sand dunes begin to rise, offering a pristine glimpse into the vast Sahara. Perfect for capturing the desert's raw, untouched beauty at sunset.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Eastern outskirts of Nouakchott",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1547477124-7df8442e617d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Sahara Desert",
+        "Dune Landscapes",
+        "Golden Hour"
+      ]
+    },
+    {
+      "id": "NQ_DD_02",
+      "name": "Camel Trails in the Sands",
+      "short_description": "Observe the timeless sight of camel trails etched into the desert sands, leading towards distant horizons. These pathways are a testament to the enduring nomadic spirit of Mauritania.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Outskirts towards Boutilimit road",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1627883204904-453051c0702c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Camel Trekking",
+        "Desert Trails",
+        "Nomadic Life"
+      ]
+    },
+    {
+      "id": "NQ_DD_03",
+      "name": "Sparse Desert Vegetation",
+      "short_description": "Discover the hardy, resilient plant life that thrives in the seemingly barren desert. These isolated shrubs and grasses add texture and life to the expansive sandy vistas, especially after rare rains.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Any desert area surrounding the city",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1528655299496-e17f575638c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Desert Flora",
+        "Arid Ecosystem",
+        "Resilience"
+      ]
+    },
+    {
+      "id": "NQ_DD_04",
+      "name": "Desert Night Sky Gazing",
+      "short_description": "Escape the city lights for an unparalleled view of the stars from the vast desert plains. The clear, unpolluted night sky offers a breathtaking celestial spectacle, perfect for astrophotography.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Deep desert, a short drive from city",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1507567794358-f9b870e28f32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Star Gazing",
+        "Astrophotography",
+        "Desert Night"
+      ]
+    },
+    {
+      "id": "NQ_FG_01",
+      "name": "Hotel Al-Khater Garden Oasis",
+      "short_description": "Find a surprisingly lush escape within the city at the well-maintained gardens of Hotel Al-Khater. This green oasis offers a vibrant display of tropical plants and flowering shrubs, a contrast to the desert landscape.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Hotel Al-Khater, central Nouakchott",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1610609653805-4b130a0d4a8e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Green Space",
+        "Urban Oasis",
+        "Tropical Plants"
+      ]
+    },
+    {
+      "id": "NQ_FG_02",
+      "name": "Presidential Palace Greenery",
+      "short_description": "Though access is restricted, the meticulously kept gardens surrounding the Presidential Palace are visible from its perimeter. A rare, verdant patch that stands out in the urban landscape.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Presidential Palace perimeter, City Center",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1560934149-6f916723b7e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Public Garden",
+        "Historic Landmark",
+        "Landscaped Beauty"
+      ]
+    },
+    {
+      "id": "NQ_FG_03",
+      "name": "Hardy Desert Blossom Clusters",
+      "short_description": "After infrequent but vital rains, small clusters of resilient desert flowers can emerge, painting unexpected patches of color on the sandy ground. A testament to nature's tenacity.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Outskirts and desert areas, post-rain",
+      "best_time": "Morning (seasonal)",
+      "images": "https://images.unsplash.com/photo-1596707323136-2358fb9d46d0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Desert Flowers",
+        "Ephemeral Beauty",
+        "Rare Sight"
+      ]
+    },
+    {
+      "id": "NQ_FG_04",
+      "name": "Roundabout Landscaping Accents",
+      "short_description": "Even in an arid city, some major roundabouts and public spaces feature strategically planted palms and drought-resistant flowering plants. These small bursts of green add aesthetic appeal to city thoroughfares.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Major city roundabouts (e.g., Carrefour Madrid)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628170094031-6415712f5a6f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Urban Greening",
+        "Public Art",
+        "City Scape"
+      ]
+    },
+    {
+      "id": "NQ_UNW_01",
+      "name": "Saharan Mirages on the Horizon",
+      "short_description": "On hot, clear days in the surrounding desert, the phenomenon of mirages creates illusory 'lakes' and inverted images on the distant horizon. A fascinating optical wonder of the arid landscape.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Desert areas surrounding the city",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1510257039578-838634e007d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Optical Illusion",
+        "Desert Phenomenon",
+        "Ethereal View"
+      ]
+    },
+    {
+      "id": "NQ_UNW_02",
+      "name": "Coastal Geodesic Formations",
+      "short_description": "Explore the less-visited stretches of coastline north or south of the city, where wind and sea erosion have carved unique, often bizarre, shapes into the sandy cliffs and rock formations along the Atlantic.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Remote coastal areas, north of Port de Pêche",
+      "best_time": "Morning / Late Afternoon",
+      "images": "https://images.unsplash.com/photo-1600889212002-861c8347f42c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Coastal Erosion",
+        "Unique Rocks",
+        "Natural Sculptures"
+      ]
+    },
+    {
+      "id": "NQ_UNW_03",
+      "name": "Desert Sands 'Singing' Dunes",
+      "short_description": "Venture into deeper desert areas where certain dune formations, under specific wind conditions, produce a low 'singing' or 'booming' sound. An enigmatic acoustic wonder of the Sahara.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Remote desert, requires local guide",
+      "best_time": "Late Afternoon",
+      "images": "https://images.unsplash.com/photo-1514787968412-1f7c706d4e12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Acoustic Phenomenon",
+        "Desert Mystery",
+        "Soundscape"
+      ]
+    },
+    {
+      "id": "NQ_UNW_04",
+      "name": "Ephemeral Salt Crust Patterns",
+      "short_description": "After the occasional desert rains, temporary pools form and evaporate, leaving behind intricate, delicate patterns of salt crystals on the ground. These ephemeral installations are nature's fleeting artwork.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Outskirts or desert after rainfall",
+      "best_time": "Morning (after rain)",
+      "images": "https://images.unsplash.com/photo-1507747805213-393226a382e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Crystalline Patterns",
+        "Post-Rainfall",
+        "Temporary Art"
+      ]
+    },
+    {
+      "id": "NQ_SA_01",
+      "name": "Embassy Wall Art & Graffiti",
+      "short_description": "Discover vibrant, sometimes politically charged, street art and murals adorning the exterior walls of various embassies and cultural centers. These often showcase local artists and messages.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Diplomatic quarter, near foreign embassies",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1540938837242-77732d847849?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Public Art",
+        "Urban Expression",
+        "Colorful Walls"
+      ]
+    },
+    {
+      "id": "NQ_SA_02",
+      "name": "Market Stall Decorations",
+      "short_description": "The Marché Capital is a canvas for informal 'street art,' with many stall owners creatively decorating their spaces with hand-painted signs, vibrant patterns, and unique displays to attract customers.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Marché Capital, various sections",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1542838321-ed85d0d826a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Market Aesthetics",
+        "Hand-Painted Signs",
+        "Local Creativity"
+      ]
+    },
+    {
+      "id": "NQ_SA_03",
+      "name": "Youth Cultural Center Murals",
+      "short_description": "Visit local youth or cultural centers where budding Mauritanian artists often create murals and large-scale paintings, depicting themes of hope, heritage, and modern life. A hub for emerging talent.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Various cultural centers or community halls",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1588636906232-a398f796a578?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Youth Art",
+        "Community Murals",
+        "Contemporary Art"
+      ]
+    },
+    {
+      "id": "NQ_SA_04",
+      "name": "Traditional Wall Decor & Motifs",
+      "short_description": "Observe traditional decorative elements and simple motifs painted on older building walls, particularly in residential areas. These provide a subtle yet authentic form of 'street art' reflecting local aesthetics.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Older residential districts like Arafat",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1594916300407-3531b7987251?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Traditional Patterns",
+        "Architectural Detail",
+        "Local Design"
+      ]
+    },
+    {
+      "id": "NQ_RV_01",
+      "name": "Hotel Azalaï Rooftop Terrace",
+      "short_description": "Ascend to the rooftop terrace of Hotel Azalaï for one of the best panoramic views of central Nouakchott. Enjoy the sprawling cityscapes, especially captivating during sunset.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Hotel Azalaï, City Center",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1503389025078-450f34ac2c56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Cityscape",
+        "Sunset Views",
+        "Panoramic"
+      ]
+    },
+    {
+      "id": "NQ_RV_02",
+      "name": "Tallest Building Horizons",
+      "short_description": "Seek out one of Nouakchott's few taller buildings, such as a major bank or office block, for elevated views that stretch across the city towards the distant desert and Atlantic horizon. Access may require permission.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Central Business District, specific tall buildings",
+      "best_time": "Morning / Late Afternoon",
+      "images": "https://images.unsplash.com/photo-1560946029-450d8329b35b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Urban Sprawl",
+        "High Vantage",
+        "Skyline"
+      ]
+    },
+    {
+      "id": "NQ_RV_03",
+      "name": "Coastal Elevated Views",
+      "short_description": "Find an elevated point near the coast, perhaps a dune or a higher building, to capture the unique blend of city, beach, and ocean. Witness the fishing boats return with a wide-angle perspective.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Near Port de Pêche or coastal hotels",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1502444330042-2727b7276483?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Coastal City",
+        "Ocean Views",
+        "Unique Perspective"
+      ]
+    },
+    {
+      "id": "NQ_RV_04",
+      "name": "Starry Night Rooftop Escape",
+      "short_description": "On a clear night, find a rooftop with minimal light pollution to capture the impressive Mauritanian night sky. The sprawling city lights below contrast beautifully with the vibrant stars above.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Any hotel rooftop away from main roads",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1589073100657-3f8208a0d014?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Night Photography",
+        "City Lights",
+        "Skyline"
+      ]
+    }
+  ]
+}

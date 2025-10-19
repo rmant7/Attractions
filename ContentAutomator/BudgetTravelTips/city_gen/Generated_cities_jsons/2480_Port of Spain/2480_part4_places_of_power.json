@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Port of Spain",
+    "city_id": "2480"
+  },
+  "items": [
+    {
+      "id": "GuardianStonePOS",
+      "name": "The Guardian Stone of Belmont",
+      "short_description": "An ancient, revered boulder said to embody the protective spirits of the land, traditionally sought for blessings and ancestral communication by local communities. Its weathered surface holds markings believed to be ancient script.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Belmont Circular Road, Belmont, Port of Spain",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Stone_of_Scone_replica_in_Perth.jpg/1200px-Stone_of_Scone_replica_in_Perth.jpg",
+      "tags": [
+        "ancestral spirits",
+        "indigenous lore",
+        "blessing site"
+      ]
+    },
+    {
+      "id": "SerpentRestRock",
+      "name": "Serpent's Rest Meditation Rock",
+      "short_description": "A distinctive rock formation nestled in the Northern Range foothills, believed to be a resting place for ancient earth spirits. It's a site for deep meditation and connecting with the primordial energies of Trinidad.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Off Lady Young Road, Morne Coco, Port of Spain",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549721759-97305d214a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1742&q=80",
+      "tags": [
+        "earth spirits",
+        "meditation",
+        "natural energy"
+      ]
+    },
+    {
+      "id": "ArawakPrayerStone",
+      "name": "Arawak Ancestor Prayer Stone",
+      "short_description": "A large, smooth stone traditionally used by the indigenous Arawak people for ceremonies and prayers. It serves as a focal point for remembrance and honoring the island's original inhabitants and their spiritual wisdom.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Queen's Park Savannah East, Port of Spain",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620025345718-d74889c2049e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "indigenous heritage",
+        "ancestral veneration",
+        "ceremonial site"
+      ]
+    },
+    {
+      "id": "ShangoOfferingBoulder",
+      "name": "Shango Offering Boulder (Ile Orisha Grounds)",
+      "short_description": "Within a private Orisha spiritual ground, this large boulder is central to Shango worship, serving as an altar for offerings and an embodiment of divine energy. It's a powerful site for traditional African diaspora spirituality.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Gonzales Place, Laventille, Port of Spain",
+      "visiting_hours": "By appointment only",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596707328604-ee94931a78ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80",
+      "tags": [
+        "Orisha",
+        "Shango worship",
+        "sacred offerings"
+      ]
+    },
+    {
+      "id": "StBenedictHermitage",
+      "name": "St. Benedict's Hillside Hermitage",
+      "short_description": "A secluded Christian hermitage affiliated with the Mount St. Benedict Abbey, offering a quiet space for spiritual contemplation and retreat. Visitors seek solace and guidance from the resident hermit monks.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Tunapuna Road, St. Augustine (near Port of Spain)",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549558913-c35900508008?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Christianity",
+        "retreat",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "OurLadyLaventille",
+      "name": "Hermitage of Our Lady of Laventille",
+      "short_description": "Perched on the Laventille Hills, this small hermitage is dedicated to the Virgin Mary, offering panoramic views and a serene atmosphere for prayer. It's a popular spot for devotees seeking spiritual renewal and intercession.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Lady Young Road, Laventille, Port of Spain",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1558915478-f682885915a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Marian devotion",
+        "Catholicism",
+        "prayer"
+      ]
+    },
+    {
+      "id": "AshramInnerPeace",
+      "name": "Ashram of Inner Peace and Yoga",
+      "short_description": "A humble Hindu ashram nestled in a quiet part of the city, focusing on yoga, meditation, and Vedic studies. It provides a peaceful haven for spiritual seekers of all backgrounds.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "6 Orange Grove Road, Tacarigua (near Port of Spain)",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1581009146145-b53051286c87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Hinduism",
+        "yoga",
+        "meditation"
+      ]
+    },
+    {
+      "id": "OrishaElderRetreat",
+      "name": "Orisha Elder's Sacred Retreat",
+      "short_description": "A secluded, private compound serving as a retreat for experienced Orisha spiritual leaders and their initiates, where ancient rituals and deep spiritual work are conducted away from urban distractions.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Petit Valley Road, Petit Valley, Port of Spain",
+      "visiting_hours": "By prior arrangement",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1510443905948-43615456f937?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Orisha tradition",
+        "spiritual leadership",
+        "initiation"
+      ]
+    },
+    {
+      "id": "FatimaProcession",
+      "name": "Our Lady of Fatima Annual Procession Route",
+      "short_description": "This route traces the annual spiritual journey of thousands of Catholic devotees, culminating at the St. Ann's Shrine of Our Lady of Fatima. It's a path of devotion, prayer, and community solidarity.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts: Memorial Park, Ends: St. Ann's Shrine, Port of Spain",
+      "visiting_hours": "Event specific (usually October)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620473943340-bbcf68351502?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Catholicism",
+        "Marian devotion",
+        "procession"
+      ]
+    },
+    {
+      "id": "ShangoHealingPath",
+      "name": "Shango Healing & Purification Path",
+      "short_description": "A designated route used for ceremonial walks and purification rituals within the Orisha tradition. It connects several sacred points, believed to cleanse the spirit and invite divine healing.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts: Eastern Main Road, Ends: Laventille Hills, Port of Spain",
+      "visiting_hours": "By guided arrangement",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1628469858343-6c7c25055b8e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Orisha",
+        "purification",
+        "healing"
+      ]
+    },
+    {
+      "id": "DivaliCandlePath",
+      "name": "Divali Lamps of Enlightenment Route",
+      "short_description": "During Divali, selected city streets and parks are adorned with thousands of deyas, forming a symbolic path of light representing the triumph of good over evil. This route highlights key community celebrations.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Queen's Park Savannah North, Port of Spain",
+      "visiting_hours": "Divali Night (Oct/Nov)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1635835639149-165f90400569?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1742&q=80",
+      "tags": [
+        "Hinduism",
+        "Divali",
+        "light festival"
+      ]
+    },
+    {
+      "id": "AncestorsWalkPoS",
+      "name": "Journey of the Ancestors Memorial Walk",
+      "short_description": "A symbolic route through historic Port of Spain, commemorating the resilience and spiritual journeys of African and indigenous ancestors. It fosters remembrance, cultural pride, and connection to heritage.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts: Nelson Mandela Park, Ends: Woodford Square, Port of Spain",
+      "visiting_hours": "Self-guided, anytime",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1616479549929-798889158c30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ancestral veneration",
+        "heritage",
+        "cultural memory"
+      ]
+    },
+    {
+      "id": "AriapitaHealingSpring",
+      "name": "Healing Waters of Ariapita",
+      "short_description": "A natural spring historically known for its pure, mineral-rich waters believed to possess healing and cleansing properties. Locals frequent the spring for spiritual revitalization and blessings.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Corner of Ariapita Avenue & Rosalino Street, Port of Spain",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502691764650-25c7e0c8b36a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "healing waters",
+        "purification",
+        "natural spring"
+      ]
+    },
+    {
+      "id": "OrishaBlessingWell",
+      "name": "Orisha Sacred Blessing Well (Ile Orisha Grounds)",
+      "short_description": "Located within a private Orisha spiritual compound, this well is a vital part of sacred rituals, used for blessings, divination, and offerings to the Orishas. Its waters are considered imbued with divine power.",
+      "subtype": "Holy Springs & Wells",
+      "address": "6 Circular Drive, St. James, Port of Spain",
+      "visiting_hours": "By appointment only",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1544990979-51f787b22306?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Orisha rituals",
+        "blessings",
+        "divine power"
+      ]
+    },
+    {
+      "id": "StFrancisWell",
+      "name": "St. Francis' Miraculous Wellspring",
+      "short_description": "A small, unassuming wellspring historically linked to early Christian settlers and believed to have brought forth fresh water during a severe drought. Many still visit seeking solace and minor miracles.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Behind St. Francis of Assisi Church, Belmont, Port of Spain",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627932824905-2364c7e7b68d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Christian tradition",
+        "miracles",
+        "solace"
+      ]
+    },
+    {
+      "id": "MotherEarthGrotto",
+      "name": "Mother Earth's Grotto & Spring",
+      "short_description": "A secluded natural grotto with a constantly flowing spring, revered by indigenous and African traditional adherents as a sacred womb of Mother Earth. It is a site for fertility rituals and blessings.",
+      "subtype": "Holy Springs & Wells",
+      "address": "North Post Road, Diego Martin, Port of Spain",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1606775797371-d85f834164b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1742&q=80",
+      "tags": [
+        "Mother Earth",
+        "fertility",
+        "indigenous spirituality"
+      ]
+    },
+    {
+      "id": "ElTucucheSpirit",
+      "name": "El Tucuche Spirit Peak Lookout",
+      "short_description": "A designated spiritual lookout point on the slopes of El Tucuche, Trinidad's second-highest peak. It's believed to be a portal to ancestral spirits and a powerful site for communion with nature and the divine.",
+      "subtype": "Sacred Mountains",
+      "address": "Northern Range Hiking Trail, Maracas Valley, Port of Spain",
+      "visiting_hours": "06:00-15:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549880190-8b1e0f065bb8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ancestral portal",
+        "nature reverence",
+        "hiking"
+      ]
+    },
+    {
+      "id": "LadyYoungSanctuary",
+      "name": "Lady Young Overlook Sanctuary",
+      "short_description": "A serene, elevated spot along Lady Young Road, offering breathtaking views of Port of Spain and the sea. It's a place for quiet reflection, prayer, and appreciating the island's natural beauty, imbued with a sense of peace.",
+      "subtype": "Sacred Mountains",
+      "address": "Lady Young Road Scenic Point, Port of Spain",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510443905948-43615456f937?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "reflection",
+        "panoramic views",
+        "peace"
+      ]
+    },
+    {
+      "id": "CaroniPrayerPeak",
+      "name": "Caroni Wetlands Prayer Peak",
+      "short_description": "A secluded, elevated point overlooking the Caroni Wetlands, offering a unique spiritual connection to the abundant wildlife and natural cycles. It's often used for nature-based prayers and blessings.",
+      "subtype": "Sacred Mountains",
+      "address": "Off Uriah Butler Highway (southern PoS outlook), Port of Spain",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1517595299496-c14827d09346?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "nature spirituality",
+        "wildlife",
+        "blessings"
+      ]
+    },
+    {
+      "id": "LaventillePrayerSummit",
+      "name": "Laventille Hills Prayer Summit",
+      "short_description": "A historically significant summit in the Laventille Hills, revered by various spiritual groups for its commanding views and perceived spiritual energy. It's a common site for vigils, prayers, and community gatherings.",
+      "subtype": "Sacred Mountains",
+      "address": "Fort Picton Road, Laventille, Port of Spain",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596707328604-ee94931a78ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80",
+      "tags": [
+        "community prayer",
+        "spiritual energy",
+        "vigils"
+      ]
+    },
+    {
+      "id": "FourPathsJunction",
+      "name": "The Four Paths Junction (Belmont)",
+      "short_description": "A historic crossroads in Belmont, widely recognized in Afro-Caribbean spiritual traditions as a potent meeting point of energies and spirits. It's a site for offerings and appeals for guidance and change.",
+      "subtype": "Crossroads",
+      "address": "Corner of Norfolk Street & Belmont Circular Road, Port of Spain",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549419142-3a5f8a7e0f2f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Orisha",
+        "spiritual offerings",
+        "guidance"
+      ]
+    },
+    {
+      "id": "SpiritConfluence",
+      "name": "Spirit's Confluence Intersection (St. James)",
+      "short_description": "This busy St. James intersection is considered a 'hotspot' for spiritual activities, where different cultural and energetic currents converge. It's a place where practitioners leave small offerings for blessings and protection.",
+      "subtype": "Crossroads",
+      "address": "Western Main Road & Long Circular Road, St. James, Port of Spain",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1587841398918-9717088b6348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "spiritual energy",
+        "protection",
+        "urban spirituality"
+      ]
+    },
+    {
+      "id": "LaventilleCrossing",
+      "name": "Laventille Crossing of Offerings",
+      "short_description": "A well-known, bustling crossroads in Laventille, recognized for generations as a site where local spiritual practitioners, particularly those of African descent, leave specific offerings and prayers for their ancestors and deities.",
+      "subtype": "Crossroads",
+      "address": "Laventille Road & Eastern Main Road, Port of Spain",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1629858602568-15a9990176d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ancestral veneration",
+        "Orisha",
+        "community rituals"
+      ]
+    },
+    {
+      "id": "GatewayTransitions",
+      "name": "Gateway of Transitions (Woodbrook)",
+      "short_description": "This crossroads is symbolically significant for rites of passage and seeking guidance during life changes. It's believed to be a 'gateway' where spirits can be invoked to assist with new beginnings or difficult transitions.",
+      "subtype": "Crossroads",
+      "address": "Corner of Cipriani Boulevard & Tragarete Road, Port of Spain",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1558980395-cd678680197d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "life transitions",
+        "rites of passage",
+        "spiritual guidance"
+      ]
+    },
+    {
+      "id": "OldFortSanAndres",
+      "name": "Old Fort San Andres Ghostly Foundations",
+      "short_description": "While the fort itself is gone, the archaeological foundations are considered spiritually potent, echoing centuries of colonial power, conflict, and the resilience of those who lived there. A place to reflect on history's spirit.",
+      "subtype": "Ancient Cities",
+      "address": "Independence Square North (near Port Authority), Port of Spain",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fort_George%2C_Trinidad.jpg/1200px-Fort_George%2C_Trinidad.jpg",
+      "tags": [
+        "colonial history",
+        "resilience",
+        "historical spirits"
+      ]
+    },
+    {
+      "id": "ArawakVillageSite",
+      "name": "Arawak Ancestral Village Memorial Site",
+      "short_description": "An archaeological and memorial site marking the remnants of an ancient Arawak village. It's dedicated to preserving indigenous memory and serving as a spiritual ground for honoring the island's first inhabitants.",
+      "subtype": "Ancient Cities",
+      "address": "Near Macqueripe Bay, Chaguaramas, Port of Spain",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1543881518-ff352b2f6797?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "indigenous heritage",
+        "archaeology",
+        "ancestral veneration"
+      ]
+    },
+    {
+      "id": "ColonialSpiritualGarden",
+      "name": "Colonial Governor's Secret Spiritual Garden",
+      "short_description": "Within the grounds of an old colonial estate, this overgrown garden is believed to have been a private spiritual sanctuary for a former governor, integrating various spiritual traditions. Its atmosphere evokes quiet contemplation.",
+      "subtype": "Ancient Cities",
+      "address": "Government House Grounds, St. Ann's, Port of Spain",
+      "visiting_hours": "10:00-15:00 (weekends only)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1574922116246-17b51b75c879?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "colonial era",
+        "contemplation",
+        "secret garden"
+      ]
+    },
+    {
+      "id": "LostSpanishMission",
+      "name": "Lost Spanish Mission Site (Echoes of Faith)",
+      "short_description": "An archaeological site, once home to a short-lived Spanish mission, where faint echoes of early Christian faith and indigenous resistance are felt. It's a place for quiet reflection on early encounters and spiritual melding.",
+      "subtype": "Ancient Cities",
+      "address": "Near St. Ann's Valley Road, Port of Spain",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627885011964-b04510078021?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Spanish colonial",
+        "Christian history",
+        "indigenous resistance"
+      ]
+    },
+    {
+      "id": "MangroveMysticism",
+      "name": "Mangrove Mysticism Point (Caroni)",
+      "short_description": "Deep within the Caroni Mangrove Wetlands, this secluded spot is a 'desert power site' in its isolation and profound natural energy. Used by practitioners for solitary reflection and rituals invoking nature spirits.",
+      "subtype": "Desert Power Sites",
+      "address": "Caroni Swamp Access Point (guided tours required), Port of Spain",
+      "visiting_hours": "By guided tour 09:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1579717148590-b186b1f868c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "nature spirits",
+        "solitude",
+        "natural power"
+      ]
+    },
+    {
+      "id": "WildernessPurification",
+      "name": "The Wilderness of Purification (Chaguaramas)",
+      "short_description": "A remote, rugged area in the Chaguaramas Peninsula, considered a 'spiritual wilderness' where one can undergo deep purification and shed worldly distractions. It's favored for fasting and intense meditation.",
+      "subtype": "Desert Power Sites",
+      "address": "Tucker Valley Road, Chaguaramas, Port of Spain",
+      "visiting_hours": "07:00-16:00 (day visits)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1616479549929-798889158c30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "purification",
+        "meditation",
+        "wilderness retreat"
+      ]
+    },
+    {
+      "id": "DryRiverMeditation",
+      "name": "Dry River Bed Meditation Spot (St. Ann's)",
+      "short_description": "During dry season, this specific section of a seasonal river bed transforms into a stark, quiet 'desert' landscape, offering a unique environment for grounding meditations and reflecting on impermanence.",
+      "subtype": "Desert Power Sites",
+      "address": "Behind St. Ann's River Bank, Port of Spain",
+      "visiting_hours": "08:00-17:00 (dry season only)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594950005510-911b6d0590ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "grounding",
+        "impermanence",
+        "natural cycles"
+      ]
+    },
+    {
+      "id": "MountHopeVisionQuest",
+      "name": "Mount Hope Vision Quest Clearing",
+      "short_description": "An open clearing on the upper slopes of Mount Hope (part of the Northern Range), providing expansive views and a sense of 'deserted' vastness. It's a revered spot for vision quests and seeking spiritual clarity.",
+      "subtype": "Desert Power Sites",
+      "address": "Northern Range Access Road, Mount Hope, Port of Spain",
+      "visiting_hours": "06:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627885011964-b04510078021?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "vision quest",
+        "clarity",
+        "spiritual seeking"
+      ]
+    },
+    {
+      "id": "FreedomFightersPark",
+      "name": "Freedom Fighter's Memorial Park",
+      "short_description": "This park commemorates the brave souls who fought against enslavement and oppression. It serves as a powerful spiritual reminder of resilience, the quest for freedom, and the sacrifices made for a just society.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Frederick Street & Keate Street, Port of Spain",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Trinidad_and_Tobago_National_Museum_%26_Art_Gallery%2C_Port_of_Spain.jpg",
+      "tags": [
+        "emancipation",
+        "resistance",
+        "historical memory"
+      ]
+    },
+    {
+      "id": "FortGeorgeDefenders",
+      "name": "Fort George Defenders' Redoubt",
+      "short_description": "While now a scenic lookout, Fort George was once a crucial strategic point. This specific redoubt within the fort is believed to hold the spiritual echoes of soldiers who bravely defended the island, symbolizing vigilance and courage.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Fort George Road, St. James, Port of Spain",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fort_George%2C_Trinidad.jpg/1200px-Fort_George%2C_Trinidad.jpg",
+      "tags": [
+        "colonial defense",
+        "courage",
+        "historical echoes"
+      ]
+    },
+    {
+      "id": "CarnivalUprisingSpot",
+      "name": "Carnival Uprising Commemoration Spot",
+      "short_description": "This spot marks the area of significant social and cultural 'battles' during early Carnival, where colonial authorities clashed with African and Creole expressions. It symbolizes the resilience of culture and identity against oppression.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Piccadilly Street & Nelson Street, Port of Spain",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549419142-3a5f8a7e0f2f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Carnival history",
+        "cultural identity",
+        "social justice"
+      ]
+    },
+    {
+      "id": "IndigenousLastStand",
+      "name": "Indigenous Last Stand Hill (Hypothetical)",
+      "short_description": "A symbolic site, imagined as the location of the final stand of an indigenous community against colonial forces. It serves as a poignant spiritual reminder of indigenous strength, sacrifice, and the enduring spirit of the land.",
+      "subtype": "Battlefields of Destiny",
+      "address": "St. Ann's Valley Foothills, Port of Spain",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510443905948-43615456f937?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "indigenous resistance",
+        "sacrifice",
+        "spiritual resilience"
+      ]
+    },
+    {
+      "id": "GaspareeSacredGrotto",
+      "name": "Gasparee Caves Sacred Grotto",
+      "short_description": "Within the natural Gasparee Caves, a specific grotto is revered for its ethereal beauty and calming energy. It's considered a natural sanctuary for meditation and connecting with the profound stillness of the earth.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Gasparee Island (via boat from Chaguaramas), Port of Spain",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1502810364969-e0281b37e8c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "cave exploration",
+        "meditation",
+        "earth energy"
+      ]
+    },
+    {
+      "id": "BambooCathedralCave",
+      "name": "Bamboo Cathedral Meditation Cave (Hypothetical)",
+      "short_description": "A small, serene cave hidden near the famous Bamboo Cathedral, known for its natural acoustic properties and tranquil atmosphere. It's an ideal spot for silent contemplation and finding inner peace.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Tucker Valley Road (near Bamboo Cathedral), Chaguaramas, Port of Spain",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1601614741492-a1b4172f3e09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "silent retreat",
+        "natural acoustics",
+        "inner peace"
+      ]
+    },
+    {
+      "id": "OrishaBushSanctuary",
+      "name": "Orisha Bush Sanctuary (Diego Martin)",
+      "short_description": "An outdoor, natural sanctuary within a secluded bush area, maintained by local Orisha adherents. It serves as a sacred space for rituals, offerings, and direct communion with the Orishas in their natural element.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Upper Diego Martin Valley, Port of Spain",
+      "visiting_hours": "By guided arrangement",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1589182390637-293c00c7330a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Orisha rituals",
+        "nature worship",
+        "sacred grove"
+      ]
+    },
+    {
+      "id": "HiddenHanumanCave",
+      "name": "Hidden Hanuman Cave Shrine",
+      "short_description": "A small, naturally formed cave adapted into a humble shrine dedicated to Lord Hanuman, revered for strength and devotion. Pilgrims visit to offer prayers and seek blessings for courage and perseverance.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Near Fondes Amandes Road, St. Ann's, Port of Spain",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547480550-f80e9206b046?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Hinduism",
+        "Hanuman",
+        "devotion"
+      ]
+    }
+  ]
+}

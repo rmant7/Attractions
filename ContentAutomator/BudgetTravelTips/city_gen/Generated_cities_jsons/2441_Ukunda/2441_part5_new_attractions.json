@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Ukunda",
+    "city_id": "2441"
+  },
+  "items": [
+    {
+      "id": "UKN001",
+      "name": "Diani Mangrove Eco-Trails",
+      "short_description": "Explore pristine mangrove boardwalks and learn about Ukunda's vital coastal ecosystem. Guided tours offer birdwatching and insights into marine life.",
+      "address": "Gazi Bay Road, near Kongo River estuary, Ukunda",
+      "opening_hours": "08:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1615617067202-6014d48c8b41?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "eco-tourism",
+        "nature",
+        "educational"
+      ]
+    },
+    {
+      "id": "UKN002",
+      "name": "Azure Kitesurf Academy & Paddle Club",
+      "short_description": "Offering lessons and rentals for kitesurfing, stand-up paddleboarding, and kayaking. Enjoy the clear waters of Diani Beach with professional instructors.",
+      "address": "Diani Beach Road, next to Nomads, Ukunda",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596765798481-9b6b7a2d4b9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "water sports",
+        "adventure",
+        "beach"
+      ]
+    },
+    {
+      "id": "UKN003",
+      "name": "Ukunda Artisan's Village",
+      "short_description": "A vibrant hub showcasing local Swahili crafts, paintings, and sculptures. Meet the artists and find unique souvenirs while supporting the community.",
+      "address": "Ukunda-Ramisi Road, near Ukunda Airstrip",
+      "opening_hours": "10:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1579783900882-c0d3ce7df122?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "culture",
+        "shopping",
+        "art"
+      ]
+    },
+    {
+      "id": "UKN004",
+      "name": "Diani Family Fun Park",
+      "short_description": "A new outdoor park featuring mini-golf, trampolines, a splash zone, and a dedicated toddler play area. Perfect for a fun-filled day out with the kids.",
+      "address": "Kwa Kadzengo, Diani Beach Road",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1502444321746-816432b4f2c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "family",
+        "entertainment",
+        "kids"
+      ]
+    },
+    {
+      "id": "UKN005",
+      "name": "The Coral Reef Lounge & Grill",
+      "short_description": "An upscale beachfront dining experience offering fresh seafood, international cuisine, and creative cocktails. Enjoy stunning ocean views and live music in the evenings.",
+      "address": "Near Galu Kinondo Beach, Diani",
+      "opening_hours": "12:00-23:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1555546252-4752b5785002?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "dining",
+        "nightlife",
+        "luxury"
+      ]
+    },
+    {
+      "id": "UKN006",
+      "name": "Swahili Spice Kitchen",
+      "short_description": "Immerse yourself in the rich flavors of coastal Kenya with hands-on cooking classes. Learn to prepare traditional Swahili dishes using fresh, local ingredients.",
+      "address": "Ukunda Town Center, off Diani Beach Road",
+      "opening_hours": "09:30-14:00 (class dependent)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1556910303-918d09549fdf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "culinary",
+        "experience",
+        "culture"
+      ]
+    },
+    {
+      "id": "UKN007",
+      "name": "Ukunda Ocean Guardians Sanctuary",
+      "short_description": "A non-profit center dedicated to marine conservation, focusing on coral reef restoration and sea turtle rehabilitation. Educational tours and volunteer opportunities available.",
+      "address": "Near Chale Island junction, Diani Beach",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510344426-302a5a544c9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "conservation",
+        "education",
+        "marine life"
+      ]
+    },
+    {
+      "id": "UKN008",
+      "name": "Diani Canopy Challenge",
+      "short_description": "An aerial adventure park featuring ziplines, rope bridges, and high-ropes courses suitable for all ages. Experience the Diani forest canopy from a new perspective.",
+      "address": "Near Kaya Kinondo Sacred Forest, Diani",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1589133887082-96940026e641?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "adventure",
+        "thrill",
+        "outdoors"
+      ]
+    },
+    {
+      "id": "UKN009",
+      "name": "Zuri Sands Wellness Retreat",
+      "short_description": "A serene boutique retreat offering yoga, meditation, and spa treatments amidst lush gardens. Focus on holistic well-being and relaxation, just steps from the beach.",
+      "address": "Galu Beach Road, south of Diani",
+      "opening_hours": "24/7 (for guests), 08:00-19:00 (spa/day access)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549488346-a496b8641151?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "wellness",
+        "luxury",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "UKN010",
+      "name": "Diani Eats Street Food Hub",
+      "short_description": "A vibrant gathering of diverse food trucks and street food vendors offering local and international flavors. Enjoy casual dining, live music, and a lively atmosphere in the evenings.",
+      "address": "Off Ukunda-Lunga Lunga Road, near Ukunda CBD",
+      "opening_hours": "17:00-23:00 (daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1550966871-3ed3cdb5fa12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "food",
+        "casual dining",
+        "local"
+      ]
+    }
+  ]
+}

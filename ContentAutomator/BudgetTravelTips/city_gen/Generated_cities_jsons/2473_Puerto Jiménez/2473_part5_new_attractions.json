@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Puerto Jiménez",
+    "city_id": "2473"
+  },
+  "items": [
+    {
+      "id": "PJ-RCW-001",
+      "name": "Osa Sky Bridges & Wildlife Sanctuary",
+      "short_description": "An immersive experience featuring elevated canopy walkways, allowing unparalleled views of the rainforest ecosystem and its inhabitants, followed by a visit to a rescue and rehabilitation center for local wildlife.",
+      "address": "3km North on Road 245, Puerto Jiménez",
+      "opening_hours": "08:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1594248530510-fd119972332e?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "canopy walk",
+        "wildlife",
+        "eco-tourism"
+      ]
+    },
+    {
+      "id": "PJ-SCF-002",
+      "name": "Finca Dulce Osa Cacao Experience",
+      "short_description": "Discover the journey from bean to bar on an organic cacao farm tour, ending with a hands-on workshop where you'll make your own Costa Rican chocolate treats.",
+      "address": "5km East on Road to Dos Brazos, Puerto Jiménez",
+      "opening_hours": "09:00-13:00 (Tours start times)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621372551327-18f1f7274ffc?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "chocolate",
+        "farm tour",
+        "local culture"
+      ]
+    },
+    {
+      "id": "PJ-BKT-003",
+      "name": "Mangrove Glow Night Paddle",
+      "short_description": "Paddle through the serene mangroves after sunset, witnessing the magical bioluminescence illuminate the water with every stroke. An unforgettable natural spectacle.",
+      "address": "Bahía Jiménez Dock, Puerto Jiménez",
+      "opening_hours": "Sunset (times vary)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601053155182-598d89e13d98?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "kayaking",
+        "bioluminescence",
+        "night tour"
+      ]
+    },
+    {
+      "id": "PJ-EAR-004",
+      "name": "Osa Upcycle Art Hub",
+      "short_description": "A vibrant community space where local artists transform discarded materials into unique artworks. Participate in workshops, browse the gallery, and learn about sustainable living.",
+      "address": "Av. Central, Puerto Jiménez (Near main square)",
+      "opening_hours": "10:00-17:00 (Closed Sundays)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616892556515-d912952467d5?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "sustainability",
+        "workshop"
+      ]
+    },
+    {
+      "id": "PJ-RTW-005",
+      "name": "Río Tigre Tubing & Cascadas Secretas",
+      "short_description": "Float down a gentle river on an inflatable tube, surrounded by lush jungle, culminating in a short hike to stunning, secluded waterfalls perfect for a refreshing dip.",
+      "address": "Road to La Palma, 8km from Puerto Jiménez",
+      "opening_hours": "09:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1650893345224-b5a8f460451f?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "river adventure",
+        "waterfall",
+        "nature hike"
+      ]
+    },
+    {
+      "id": "PJ-YWR-006",
+      "name": "Serenity Osa Oasis",
+      "short_description": "Escape to a tranquil rainforest sanctuary offering daily yoga classes, meditation sessions, and holistic treatments. Day passes available for access to facilities and a healthy lunch.",
+      "address": "6km South on Road 245, Puerto Jiménez",
+      "opening_hours": "07:00-18:00 (Day pass access)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1518331393693-e47852b75a40?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "yoga",
+        "wellness",
+        "retreat"
+      ]
+    },
+    {
+      "id": "PJ-NWS-007",
+      "name": "Osa Night Creatures Expedition",
+      "short_description": "Join expert guides on a thrilling nighttime walk through the secondary forest, spotting a fascinating array of nocturnal insects, amphibians, and elusive mammals.",
+      "address": "Near El Bambú entrance, Puerto Jiménez",
+      "opening_hours": "18:30-21:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616110860551-7ee8ec5170d1?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "night tour",
+        "wildlife",
+        "eco-adventure"
+      ]
+    },
+    {
+      "id": "PJ-SSR-008",
+      "name": "Mar y Tierra Sustainable Bites",
+      "short_description": "Enjoy freshly caught, sustainable seafood and local produce in a beautiful open-air setting. Participate in a morning cooking class to learn traditional Costa Rican dishes.",
+      "address": "Costanera Sur (near the port), Puerto Jiménez",
+      "opening_hours": "Restaurant 11:00-22:00, Classes 09:00-12:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620984852026-c2ae07727183?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food",
+        "cooking class",
+        "sustainable dining"
+      ]
+    },
+    {
+      "id": "PJ-BWT-009",
+      "name": "Mirador Aves & Jardín Botánico Osa",
+      "short_description": "Ascend a multi-story birdwatching tower for panoramic views of the forest canopy and a chance to spot rare avian species, then explore a diverse collection of native plants.",
+      "address": "4km on Road to Carate, Puerto Jiménez",
+      "opening_hours": "07:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1610419041270-e59e224e77ec?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "birdwatching",
+        "botanical garden",
+        "nature"
+      ]
+    },
+    {
+      "id": "PJ-CGI-010",
+      "name": "Corcovado Insights & Conservation Hub",
+      "short_description": "A modern visitor center offering interactive exhibits about Corcovado National Park's incredible biodiversity and the ongoing conservation efforts, perfect for preparing for or reflecting on a visit.",
+      "address": "Main Road 245, entrance to Puerto Jiménez",
+      "opening_hours": "08:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1598380234790-21a4f02f0a5c?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "education",
+        "conservation",
+        "visitor center"
+      ]
+    }
+  ]
+}

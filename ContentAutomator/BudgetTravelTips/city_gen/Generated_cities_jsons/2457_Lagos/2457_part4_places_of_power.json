@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Lagos",
+    "city_id": "2457"
+  },
+  "items": [
+    {
+      "id": "LAG-CAS-001",
+      "name": "Igbo-Opa Celestial Observatory",
+      "short_description": "An ancient stone circle in Epe, believed to be used by early Yoruba astronomers to track celestial movements for farming and spiritual calendars. Its central monolith aligns with the sunrise during the equinoxes.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Off Epe-Ibeju Road, near Igbo-Opa Village, Epe, Lagos",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://images.unsplash.com/photo-1594950393438-b71060933c06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHN0b25lX2NpcmNsZXx8fHx8fDE2OTg5NDU2NzE&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "ancient_ritual",
+        "heritage"
+      ]
+    },
+    {
+      "id": "LAG-CAS-002",
+      "name": "Odo-Ado Star Stones",
+      "short_description": "A collection of uniquely carved stones along the Odo-Ado River in Badagry, said to mark specific star constellations and guide traditional fishermen and navigators by night. They are still revered for their mystical properties.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Odo-Ado River Bank, off Badagry-Seme Road, Badagry, Lagos",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://www.pexels.com/photo/15160867/download/",
+      "tags": [
+        "navigation",
+        "riverine_culture",
+        "spirituality"
+      ]
+    },
+    {
+      "id": "LAG-CAS-003",
+      "name": "Lagos Lagoon Solstice Markers",
+      "short_description": "Subtly placed markers along a specific stretch of the Lagos Lagoon shoreline, used by ancient coastal communities to observe solstices and equinoxes, crucial for planting, fishing, and festivals. Best viewed at dawn.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Near Eleko Beach, Ibeju-Lekki, Lagos",
+      "visiting_hours": "06:00-10:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549487928-89b5c5e8f4c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHNvbHN0aWNlX21hcmtlcnN8fHx8fHwxNjk4OTQ1NzM4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coastal_heritage",
+        "celestial_event",
+        "tradition"
+      ]
+    },
+    {
+      "id": "LAG-CAS-004",
+      "name": "Isale Eko Lunar Altar",
+      "short_description": "A small, hidden altar within the historic Isale Eko district, specifically designed to align with lunar cycles. It was traditionally used by priestesses for divination and communal blessings, especially during new and full moons.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Behind Obun-Eko Market, Lagos Island, Lagos",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Traditional_Yoruba_Shrine.jpg",
+      "tags": [
+        "urban_spirituality",
+        "lunar_worship",
+        "ancient_shrine"
+      ]
+    },
+    {
+      "id": "LAG-MRF-001",
+      "name": "Olumo Rocklet of Ikorodu",
+      "short_description": "A significant, albeit smaller, granite outcrop in Ikorodu, echoing the grandeur of Olumo Rock. It serves as a spiritual refuge and ancestral site for local communities, offering panoramic views and a sense of enduring strength.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Along Ikorodu-Sagamu Road, near Odogunyan, Ikorodu, Lagos",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "NGN 750",
+      "images": "https://images.unsplash.com/photo-1563729906-8d1e02f9e421?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHJvY2tfZm9ybWF0aW9uc3x8fHx8fDE2OTg5NDU3NzE&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "natural_wonder",
+        "sacred_rock",
+        "ancestral_site"
+      ]
+    },
+    {
+      "id": "LAG-MRF-002",
+      "name": "Epe Ancestral Pillars",
+      "short_description": "Towering natural rock pillars scattered across a clearing in Epe, believed to be solidified ancestors watching over the land. They are sites for offerings and prayers, especially for protection and fertility.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Off Epe-Lekki Expressway, near Orugbo, Epe, Lagos",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://www.pexels.com/photo/4302008/download/",
+      "tags": [
+        "ancestral_worship",
+        "geological_feature",
+        "folklore"
+      ]
+    },
+    {
+      "id": "LAG-MRF-003",
+      "name": "Badagry Slave Route Sentinel Stones",
+      "short_description": "A series of large, weather-beaten stones along the historic 'Point of No Return' route in Badagry. Oral history recounts them as silent witnesses and guardians of the enslaved, imbued with the spirits of those who passed.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Along Gberefu Island, Badagry, Lagos",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "NGN 500",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Point_of_No_Return_Entrance.jpg",
+      "tags": [
+        "slavery_heritage",
+        "historical_landmark",
+        "remembrance"
+      ]
+    },
+    {
+      "id": "LAG-MRF-004",
+      "name": "Lekki Peninsula Twin Rocks",
+      "short_description": "Two strikingly similar rock formations emerging from the ocean at a secluded Lekki beach. Legend says they are transformed lovers, eternally guarding the coast and bringing blessings to local fishermen.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Off Lekki Coastal Road, near Okun-Alfa Beach, Ibeju-Lekki, Lagos",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1565545366-41f23c7f9996?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGNvYXN0YWxfcm9ja3N8fHx8fHwxNjk4OTQ1ODE0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coastal_mythology",
+        "natural_beauty",
+        "folktale"
+      ]
+    },
+    {
+      "id": "LAG-SF-001",
+      "name": "Igbo-Opa Sacred Grove",
+      "short_description": "A pristine ancient forest reserve in Ikorodu, dedicated to the Yoruba deity Ọpa, patron of truth and justice. It is a vital ecological and spiritual site where traditional rituals and cleansing ceremonies are still performed.",
+      "subtype": "Sacred Forests",
+      "address": "Off Ikorodu-Itoikin Road, near Imota, Ikorodu, Lagos",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1502086223297-f0d55e84fcf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGZvcmVzdF9ncm92ZXx8fHx8fDE2OTg5NDU4NDI&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ecology",
+        "traditional_religion",
+        "ritual"
+      ]
+    },
+    {
+      "id": "LAG-SF-002",
+      "name": "Epe Omi-Eko Forest of Spirits",
+      "short_description": "This ancient, dense forest near the Epe Lagoon is believed to be inhabited by water spirits and ancestral guardians. It's a place of quiet reflection and a source of traditional medicinal plants, respected by local healers.",
+      "subtype": "Sacred Forests",
+      "address": "Near Epe Lagoon, off Epe-Ijebu Ode Road, Epe, Lagos",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 700",
+      "images": "https://www.pexels.com/photo/2179854/download/",
+      "tags": [
+        "medicinal_plants",
+        "nature_worship",
+        "folklore"
+      ]
+    },
+    {
+      "id": "LAG-SF-003",
+      "name": "Badagry Ancestral Woods",
+      "short_description": "A serene, old-growth forest connected to Badagry's rich history, particularly significant for its connection to ancestral spirits and the enduring heritage of the local people. It features small, hidden shrines dedicated to lineage founders.",
+      "subtype": "Sacred Forests",
+      "address": "Off Badagry Expressway, near Whispering Palms, Badagry, Lagos",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Osun-Osogbo_Sacred_Grove_2.jpg",
+      "tags": [
+        "ancestral_heritage",
+        "spiritual_sanctuary",
+        "biodiversity"
+      ]
+    },
+    {
+      "id": "LAG-SF-004",
+      "name": "Gberefu Island Sacred Mangroves",
+      "short_description": "Beyond the historic slave trade sites, Gberefu Island holds ancient mangrove forests deemed sacred by the local communities. They are vital for coastal protection and revered as dwelling places of protective water deities.",
+      "subtype": "Sacred Forests",
+      "address": "Gberefu Island, via boat from Badagry Marina, Badagry, Lagos",
+      "visiting_hours": "09:00-15:00",
+      "entry_fee": "NGN 500 (plus boat fare)",
+      "images": "https://images.unsplash.com/photo-1594950393438-b71060933c06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fG1hbmdyb3ZlX2ZvcmVzdHwxfHx8fHwxNjk4OTQ1OTA3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coastal_ecology",
+        "water_spirits",
+        "sacred_landscape"
+      ]
+    },
+    {
+      "id": "LAG-SMT-001",
+      "name": "Ikorodu Aso Hill",
+      "short_description": "The highest accessible point in Ikorodu, Aso Hill is a revered site where ancient chieftains held counsel and offered prayers for the town's prosperity. It offers sweeping views and a profound sense of connection to the land.",
+      "subtype": "Sacred Mountains",
+      "address": "Near Ikorodu Garrison, off Ikorodu-Sagamu Road, Ikorodu, Lagos",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "NGN 800",
+      "images": "https://images.unsplash.com/photo-1547720937-2ad16a1c876f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGhpbGx0b3BfcGFub3JhbWF8fHx8fHwxNjk4OTQ1OTQy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "panoramic_views",
+        "chieftaincy",
+        "local_history"
+      ]
+    },
+    {
+      "id": "LAG-SMT-002",
+      "name": "Epe Olorun Ridge",
+      "short_description": "A prominent ridge near Epe, traditionally considered a gateway to the heavens (Olorun). It's a serene spot for contemplation and an important site for rain-making rituals and blessings by local spiritual leaders.",
+      "subtype": "Sacred Mountains",
+      "address": "Off Epe-Lekki Expressway, near Abomiti, Epe, Lagos",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://www.pexels.com/photo/2361044/download/",
+      "tags": [
+        "prayer_site",
+        "rainmaking",
+        "natural_ridge"
+      ]
+    },
+    {
+      "id": "LAG-SMT-003",
+      "name": "Magodo Spirit Ascent",
+      "short_description": "An elevated part of Magodo Estate with historical roots, once a secluded spiritual retreat. Its natural elevation and quietude make it a favored spot for modern spiritual groups seeking peace and connection.",
+      "subtype": "Sacred Mountains",
+      "address": "CMD Road, Magodo Estate, Isheri, Lagos",
+      "visiting_hours": "09:00-19:00",
+      "entry_fee": "fixed amount NGN 1500",
+      "images": "https://images.unsplash.com/photo-1588656100782-b7d6e6a1f11e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHRvd25fYmlsbHxtfHx8fHwxNjk4OTQ1OTg3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "urban_retreat",
+        "modern_spirituality",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "LAG-SMT-004",
+      "name": "Idimu Shrine Peaks",
+      "short_description": "A cluster of small, ancient hills in Idimu, each housing a distinct shrine dedicated to various Orishas. Pilgrims visit these peaks for specific petitions, seeking blessings for health, wealth, and guidance.",
+      "subtype": "Sacred Mountains",
+      "address": "Off Idimu Road, near Ejigbo, Alimosho, Lagos",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/4e/A_rocky_hill_in_Abeokuta_Nigeria.jpg",
+      "tags": [
+        "orisha_worship",
+        "pilgrimage_site",
+        "sacred_hills"
+      ]
+    },
+    {
+      "id": "LAG-MLS-001",
+      "name": "Oja-Oba Standing Stones",
+      "short_description": "Hidden amidst the bustling Oja-Oba market on Lagos Island are ancient standing stones, remnants of an older city structure. They are believed to be imbued with the wisdom of past kings and protective spirits of the market.",
+      "subtype": "Megalithic Sites",
+      "address": "Inside Oja-Oba Market, Lagos Island, Lagos",
+      "visiting_hours": "10:00-16:00 (market hours)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1622352220794-ae04183d21b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHN0YW5kaW5nX3N0b25lc3x8fHx8fDE2OTg5NDYwOTg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "urban_archaeology",
+        "market_history",
+        "ancient_protectors"
+      ]
+    },
+    {
+      "id": "LAG-MLS-002",
+      "name": "Ikorodu Olumirin Circle",
+      "short_description": "A partially excavated stone circle site in Ikorodu, believed to be an ancient communal gathering point for justice and important rituals. Local lore suggests the stones hum with a low frequency during ceremonies.",
+      "subtype": "Megalithic Sites",
+      "address": "Near Ikorodu-Ijebu Ode Road, Agric Bus Stop, Ikorodu, Lagos",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "NGN 700",
+      "images": "https://www.pexels.com/photo/11487271/download/",
+      "tags": [
+        "archaeology",
+        "communal_site",
+        "ritual_ground"
+      ]
+    },
+    {
+      "id": "LAG-MLS-003",
+      "name": "Epe Ancestral Stone Gallery",
+      "short_description": "A unique open-air gallery of large, naturally arranged stones that served as an ancient burial and worship site for Epe's founding families. Each stone is said to represent a specific lineage or ancestral spirit.",
+      "subtype": "Megalithic Sites",
+      "address": "Along Epe Coastal Road, near Ajah-Epe Bridge, Epe, Lagos",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1628373302068-d0f989f66a7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGxhcmdlX3N0b25lX2Zvcm1hdGlvbnN8fHx8fHwxNjk4OTQ2MTMy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral_memorial",
+        "prehistoric_site",
+        "heritage_park"
+      ]
+    },
+    {
+      "id": "LAG-MLS-004",
+      "name": "Badagry Omoluabi Stone Tablets",
+      "short_description": "Ancient, weathered stone tablets found in Badagry, bearing cryptic carvings and symbols. They are believed to contain the tenets of 'Omoluabi' (good character) and historical records of early settlements, revered for wisdom.",
+      "subtype": "Megalithic Sites",
+      "address": "Badagry Heritage Museum grounds, Badagry, Lagos",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "NGN 1000 (museum entry)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Opa_Oranmiyan_Ile_Ife.jpg",
+      "tags": [
+        "ancient_writing",
+        "moral_philosophy",
+        "historical_artifact"
+      ]
+    },
+    {
+      "id": "LAG-PR-001",
+      "name": "Adura Riverine Path (Path of Prayer)",
+      "short_description": "A historical pilgrimage route following the banks of the Adura River, connecting several small shrines dedicated to water deities and Orishas of sustenance. Pilgrims trek this path seeking blessings for prosperity and healing.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Begins near Ikorodu Ferry Terminal, follows Adura River towards Epe, Lagos",
+      "visiting_hours": "Sunrise-Sunset (guided tours recommended)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579737119799-d4e5d6d8d6d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHJpdmVyX3BhdGh8fHx8fHwxNjk4OTQ2MjYy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "river_pilgrimage",
+        "healing_journey",
+        "spiritual_trek"
+      ]
+    },
+    {
+      "id": "LAG-PR-002",
+      "name": "Badagry Freedom Trek",
+      "short_description": "This powerful route retraces the steps of enslaved people from the slave port to the 'Point of No Return.' It is a poignant pilgrimage for remembrance, healing, and a profound reflection on freedom and resilience.",
+      "subtype": "Pilgrimage Routes",
+      "address": "From Badagry Marina to Gberefu Island, Badagry, Lagos",
+      "visiting_hours": "09:00-16:00 (guided tours recommended)",
+      "entry_fee": "fixed amount NGN 2000 (includes ferry and guide)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/07/Point_of_No_Return_Gate.jpg",
+      "tags": [
+        "historical_pilgrimage",
+        "remembrance",
+        "human_rights"
+      ]
+    },
+    {
+      "id": "LAG-PR-003",
+      "name": "Lagos Lagoon Seeker's Trail",
+      "short_description": "A tranquil coastal path along a less developed stretch of the Lagos Lagoon, favored by spiritual seekers for meditation and quiet contemplation. It connects small, hidden shrines to Yemoja and Olokun, deities of the sea.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Off Lekki Coastal Road, near Sangotedo, Ibeju-Lekki, Lagos",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502086223297-f0d55e84fcf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGNvYXN0YWxfcGF0aHx8fHx8fHwxNjk4OTQ2MzIy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coastal_meditation",
+        "nature_walk",
+        "sea_deities"
+      ]
+    },
+    {
+      "id": "LAG-PR-004",
+      "name": "Isale Eko Ancestral Walk",
+      "short_description": "An urban pilgrimage through the oldest parts of Lagos Island, visiting significant ancestral homes, royal compounds, and traditional shrines. It's a journey into the spiritual heart of the city's origins.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts from Iga Idunganran (Oba's Palace), Lagos Island, Lagos",
+      "visiting_hours": "09:00-15:00 (guided tours recommended)",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Iga_Idunganran_Palace_Lagos_Island.jpg",
+      "tags": [
+        "urban_heritage",
+        "royal_history",
+        "ancestral_veneration"
+      ]
+    },
+    {
+      "id": "LAG-AC-001",
+      "name": "Epe Old Town Remnants",
+      "short_description": "Explore the surviving ancient structures and layouts of Epe's original settlement, including remnants of defensive walls and traditional Yoruba compounds. It offers a glimpse into a pre-colonial era of trade and fishing.",
+      "subtype": "Ancient Cities",
+      "address": "Off Epe-Ijebu Ode Road, near Epe Fish Market, Epe, Lagos",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://images.unsplash.com/photo-1549487928-89b5c5e8f4c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGFuY2llbnRfc2V0dGxlbWVudHxlbnwwfHx8fHwxNjk4OTQ2Mzkz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "urban_history",
+        "archaeological_site",
+        "yemoja_culture"
+      ]
+    },
+    {
+      "id": "LAG-AC-002",
+      "name": "Badagry Olorunsogo Quarters",
+      "short_description": "The meticulously preserved ancient quarters of Badagry, where indigenous families have lived for centuries. It's a living heritage site, showcasing traditional architecture, customs, and community life.",
+      "subtype": "Ancient Cities",
+      "address": "Off Badagry Town Hall Road, Badagry, Lagos",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "NGN 750",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/9/91/Old_slave_cell_in_Badagry_Nigeria.jpg",
+      "tags": [
+        "living_heritage",
+        "traditional_architecture",
+        "community_culture"
+      ]
+    },
+    {
+      "id": "LAG-AC-003",
+      "name": "Isale Eko Royal District",
+      "short_description": "The historic heart of Lagos Island, encompassing the Oba's Palace (Iga Idunganran) and surrounding ancient compounds. This district breathes the history of the Lagos monarchy and its spiritual foundations.",
+      "subtype": "Ancient Cities",
+      "address": "Iga Idunganran, Lagos Island, Lagos",
+      "visiting_hours": "09:00-17:00 (Palace tours subject to availability)",
+      "entry_fee": "donation (for palace grounds)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/45/Iga_idunganran.jpg",
+      "tags": [
+        "royal_history",
+        "monarchy",
+        "urban_heritage"
+      ]
+    },
+    {
+      "id": "LAG-AC-004",
+      "name": "Ijebu-Lagos Ancient Frontier",
+      "short_description": "Discover the ancient frontier settlement near the modern Lagos-Ijebu boundary, showcasing remnants of defensive structures and trade routes. It provides insight into the interactions between coastal and hinterland kingdoms.",
+      "subtype": "Ancient Cities",
+      "address": "Near Epe-Ijebu Ode Road, along Lagos-Ogun Border, Epe, Lagos",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://www.pexels.com/photo/4302008/download/",
+      "tags": [
+        "border_history",
+        "kingdom_relations",
+        "archaeological_exploration"
+      ]
+    },
+    {
+      "id": "LAG-LAB-001",
+      "name": "Ado-Odo Labyrinth Garden",
+      "short_description": "A beautifully designed, modern walking labyrinth in Ado-Odo, bordering Lagos. It offers a meditative space for quiet contemplation and spiritual centering, following ancient patterns for personal insight and peace.",
+      "subtype": "Labyrinths",
+      "address": "Off Lagos-Abeokuta Expressway, near Ado-Odo, Ogun State (close to Lagos border)",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://images.unsplash.com/photo-1549487928-89b5c5e8f4c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGxhYnlyaW50aF9nYXJkZW58fHx8fHwxNjk4OTQ2NDM3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "meditation",
+        "spiritual_walk",
+        "peace_garden"
+      ]
+    },
+    {
+      "id": "LAG-LAB-002",
+      "name": "Ikorodu Oracle Path",
+      "short_description": "An intricately designed symbolic path within a sacred grove in Ikorodu, meant to emulate the journey of seeking wisdom from the Oracles. Walking its winding route is believed to clear the mind and invite clarity.",
+      "subtype": "Labyrinths",
+      "address": "Near Ikorodu-Epe Road, off Imota Junction, Ikorodu, Lagos",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://www.pexels.com/photo/11487271/download/",
+      "tags": [
+        "wisdom_seeking",
+        "spiritual_journey",
+        "sacred_path"
+      ]
+    },
+    {
+      "id": "LAG-LAB-003",
+      "name": "Lekki Healing Spiral",
+      "short_description": "A contemporary, land-art installation designed as a walking spiral, drawing inspiration from ancient spiritual paths. It's a modern site for personal healing, introspection, and connecting with nature's rhythm in Lekki.",
+      "subtype": "Labyrinths",
+      "address": "Lekki Conservation Centre Extension, Ibeju-Lekki, Lagos",
+      "visiting_hours": "08:30-17:00",
+      "entry_fee": "NGN 2000 (LCC entry included)",
+      "images": "https://images.unsplash.com/photo-1579737119799-d4e5d6d8d6d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHNwaXJhbF9nYXJkZW58fHx8fHwxNjk4OTQ2NDc3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "modern_art",
+        "nature_therapy",
+        "introspection"
+      ]
+    },
+    {
+      "id": "LAG-LAB-004",
+      "name": "Badagry Ancestral Walkway",
+      "short_description": "An ancient, winding path within a historic Badagry compound, traditionally used for ancestral ceremonies and initiations. Its deliberate twists and turns symbolize the complexities of life and the journey of spiritual growth.",
+      "subtype": "Labyrinths",
+      "address": "Inside Seriki Abbas Compound, Badagry, Lagos",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "NGN 500",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Traditional_Yoruba_Shrine.jpg",
+      "tags": [
+        "initiation_rite",
+        "cultural_path",
+        "ancestral_rites"
+      ]
+    },
+    {
+      "id": "LAG-CASN-001",
+      "name": "Odo-Ogun Rock Shelter",
+      "short_description": "A natural rock shelter near the Ogun River, historically used as a refuge and a sacred site for hunters and spiritualists. It offers a cool, secluded space for meditation and traditional offerings.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Near Isheri-Olofin, along Ogun River bank, Alimosho, Lagos",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549487928-89b5c5e8f4c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHJvY2tfc2hlbHRlcnxlbnwwfHx8fHwxNjk4OTQ2NTI2&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "natural_sanctuary",
+        "meditation_spot",
+        "traditional_worship"
+      ]
+    },
+    {
+      "id": "LAG-CASN-002",
+      "name": "Ikorodu Eleiye Cave Shrine",
+      "short_description": "A small, hidden cave within a dense part of Ikorodu, known as the 'Cave of Birds' (Eleiye). It's a revered shrine dedicated to mystical forces and a place where oracles were once consulted, offering a sense of ancient mystery.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Deep within Owode-Onirin Forest, Ikorodu, Lagos",
+      "visiting_hours": "10:00-15:00 (guided entry only)",
+      "entry_fee": "fixed amount NGN 1500",
+      "images": "https://www.pexels.com/photo/15160867/download/",
+      "tags": [
+        "mystery_site",
+        "oracle_consultation",
+        "sacred_cave"
+      ]
+    },
+    {
+      "id": "LAG-CASN-003",
+      "name": "Lekki Coastal Grotto",
+      "short_description": "A small, naturally formed grotto along a secluded stretch of the Lekki coastline, imbued with spiritual significance by local fishermen. It's a peaceful sanctuary where prayers are offered to the sea and protective spirits.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Off Lekki Coastal Road, near La Campagne Tropicana, Ibeju-Lekki, Lagos",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549487928-89b5c5e8f4c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGNvYXN0YWxfZ3JvdHRvfHwxNjk4OTQ2NTcx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coastal_spirituality",
+        "fisherman_culture",
+        "sea_worship"
+      ]
+    },
+    {
+      "id": "LAG-CASN-004",
+      "name": "Badagry Voodoo Sanctuary (Ogun Shrine)",
+      "short_description": "A discreet, historic shrine dedicated to Ogun, the Orisha of iron and warfare, with elements of traditional Egun (Voodoo) practices. It is a powerful spiritual center, primarily for local devotees seeking strength and justice.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Hidden within an old compound, Badagry Central, Badagry, Lagos",
+      "visiting_hours": "By appointment only (respectful cultural visit)",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Traditional_Yoruba_Shrine.jpg",
+      "tags": [
+        "voodoo_practice",
+        "ogun_worship",
+        "secret_shrine"
+      ]
+    },
+    {
+      "id": "LAG-PYR-001",
+      "name": "Epe Sacred Earth Mounds",
+      "short_description": "A collection of ancient, stepped earth mounds near Epe, believed to be pre-colonial ceremonial sites or burial places for revered elders. These 'pyramids' are crucial for understanding early agrarian societies in Lagos.",
+      "subtype": "Pyramids",
+      "address": "Off Epe-Lekki Expressway, near Ago-Owu, Epe, Lagos",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 800",
+      "images": "https://images.unsplash.com/photo-1549487928-89b5c5e8f4c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGVhcnRoX21vdW5kc3x8fHx8fHwxNjk4OTQ2NjIz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "archaeology",
+        "ancient_burial",
+        "earthworks"
+      ]
+    },
+    {
+      "id": "LAG-PYR-002",
+      "name": "Ikorodu Ancestral Stepped Platform",
+      "short_description": "A unique, ancient stepped platform crafted from compacted earth and stone, used for ancestral veneration and communal gatherings in Ikorodu. It represents a spiritual ascent and connection to the past.",
+      "subtype": "Pyramids",
+      "address": "Behind Ikorodu Town Hall, Ikorodu, Lagos",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://www.pexels.com/photo/11487271/download/",
+      "tags": [
+        "ancestral_platform",
+        "ceremonial_site",
+        "town_history"
+      ]
+    },
+    {
+      "id": "LAG-PYR-003",
+      "name": "Ojo Cultural Stupa",
+      "short_description": "A modern, architecturally inspired spiritual mound in Ojo, designed by a contemporary cultural group to reflect pyramidal forms. It serves as a symbol of unity, knowledge, and meditative focus for adherents.",
+      "subtype": "Pyramids",
+      "address": "Near Lagos State University (LASU) Main Gate, Ojo, Lagos",
+      "visiting_hours": "10:00-18:00",
+      "entry_fee": "fixed amount NGN 500",
+      "images": "https://images.unsplash.com/photo-1579737119799-d4e5d6d8d6d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHN0dXBhfHwxNjk4OTQ2NjY1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "modern_spirituality",
+        "cultural_center",
+        "meditation"
+      ]
+    },
+    {
+      "id": "LAG-PYR-004",
+      "name": "Badagry Royal Sepulchre Mound",
+      "short_description": "An ancient, elevated burial mound with a distinctive stepped profile, believed to be the resting place of early Badagry royals and chiefs. It symbolizes the continuity of royal lineage and the spiritual power of the ancestors.",
+      "subtype": "Pyramids",
+      "address": "Within the Badagry Old Quarters, near the Chief's Palace, Badagry, Lagos",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "NGN 700",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Traditional_Yoruba_Shrine.jpg",
+      "tags": [
+        "royal_burial",
+        "ancestral_veneration",
+        "historical_mound"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Kikambala",
+    "city_id": "2429"
+  },
+  "items": [
+    {
+      "id": "KKM_FF_001",
+      "name": "Kikambala Resort Botanical Haven",
+      "short_description": "Wander through lush gardens teeming with vibrant tropical flowers and native plants, a perfect escape for nature lovers.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Leading beachfront resorts (e.g., Sun Palm Beach Resort & Spa)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1577777087-73d9e0339d29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dHJvcGljYWwgZ2FyZGVufHx8fHx8MTcxOTk1MjY5OA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "tropical",
+        "serene",
+        "nature"
+      ]
+    },
+    {
+      "id": "KKM_FF_002",
+      "name": "Coastal Orchid Sanctuary",
+      "short_description": "Discover a hidden collection of exotic orchids, carefully cultivated amidst the coastal breezes, offering a splash of delicate beauty.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "North Kikambala conservation area (imagined)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1627916518868-b8ce16960844?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8b3JjaGlkcyUyMGdhcmRlbnx8fHx8fDE3MTk5NTI2OTk&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "exotic",
+        "rare flowers",
+        "tranquil"
+      ]
+    },
+    {
+      "id": "KKM_FF_003",
+      "name": "Baobab Blossom Trail",
+      "short_description": "Follow a winding path adorned with indigenous flora, leading to ancient baobab trees that occasionally burst into unique, large blossoms.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Inland Kikambala nature paths",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1506519119213-9a3d47c94132?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YmFvYmFiJTIwdHJlZSUyMGZsb3dlcnN8fHx8fHwxNzE5OTUyNzAy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "indigenous",
+        "unique flora",
+        "walk"
+      ]
+    },
+    {
+      "id": "KKM_FF_004",
+      "name": "Tropical Hibiscus Haven",
+      "short_description": "A vibrant collection of hibiscus flowers in every hue, creating a striking backdrop against the coastal sunshine.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Various resort entrances and public spaces",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1623548777934-11449b251147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aGliaXNjdXN8fHx8fHwxNzE5OTUyNzA0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "colorful",
+        "vibrant",
+        "iconic flower"
+      ]
+    },
+    {
+      "id": "KKM_IL_001",
+      "name": "The Ancient Baobab Sentinel",
+      "short_description": "A colossal, ancient baobab tree standing guard near the coast, a silent witness to centuries of Kikambala's history.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "North Kikambala near the main beach access",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1594916844474-b4a53e874130?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YmFvYmFiJTIwdHJlZSUyMHN1bnNldHwxfHx8fHwxNzE5OTUyNzA3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "historic",
+        "nature",
+        "majestic"
+      ]
+    },
+    {
+      "id": "KKM_IL_002",
+      "name": "Kikambala Ocean Pier",
+      "short_description": "Stroll along this rustic wooden pier jutting into the turquoise Indian Ocean, offering panoramic views and a popular fishing spot.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Central Kikambala Beach",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549488346-6351225016c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8d29vZGVuJTIwcGllciUyMG9jZWFufHx8fHx8MTcxOTk1MjcwOS&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coastal",
+        "views",
+        "seascape"
+      ]
+    },
+    {
+      "id": "KKM_IL_003",
+      "name": "Maweni Rock Formations",
+      "short_description": "Explore the unique, weather-sculpted rock formations on the beach, creating natural pools and dramatic backdrops, especially at low tide.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "South Kikambala Beach",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1510414902263-ed5329c29d2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2VhJTIwcm9jayUyMGZvcm1hdGlvbnN8fHx8fHwxNzE5OTUyNzEy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "geology",
+        "beachcombing",
+        "natural beauty"
+      ]
+    },
+    {
+      "id": "KKM_IL_004",
+      "name": "Coastal Heritage Lighthouse",
+      "short_description": "A charming, smaller lighthouse marking the Kikambala coastline, offering picturesque views and a sense of maritime history.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "North Kikambala headland",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1628108500293-f0273c6838a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c21hbGwlMjBsaWdodGhvdXNlfHwwfHx8fHwxNzE5OTUyNzE1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "maritime",
+        "scenic",
+        "photogenic"
+      ]
+    },
+    {
+      "id": "KKM_MA_001",
+      "name": "The Glass Sands Villa",
+      "short_description": "An exquisite beachfront villa featuring expansive glass walls and sleek, minimalist design, blending luxury with ocean views.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Exclusive private villas area, North Kikambala",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1616140306461-ee2591605ec1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bW9kZXJuJTIwYmVhY2hsaWZlJTIwdmlsbGF8fHx8fHwxNzE5OTUyNzE3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "luxury",
+        "design",
+        "beachfront"
+      ]
+    },
+    {
+      "id": "KKM_MA_002",
+      "name": "Kikambala Eco-Dome Resort",
+      "short_description": "Experience sustainable living in uniquely designed geodesic domes, offering modern comfort amidst natural beauty.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Inland eco-resort (imagined)",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1596791340150-13b730531584?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Z2VvZGVzaWMlMjBkb21lJTIwcmVzb3J0fHx8fHx8MTcxOTk1MjcyMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sustainable",
+        "unique stay",
+        "futuristic"
+      ]
+    },
+    {
+      "id": "KKM_MA_003",
+      "name": "Azure Bay Pavilion",
+      "short_description": "An elegant, open-air structure with clean lines and contemporary design, perfect for events or enjoying the sea breeze.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Major resort event space",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1605330386638-766a014995a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bW9kZXJuJTIwcGF2aWxpb258fHx8fHwxNzE5OTUyNzIz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "event venue",
+        "minimalist",
+        "oceanic"
+      ]
+    },
+    {
+      "id": "KKM_MA_004",
+      "name": "Coastal Marine Interpretation Centre",
+      "short_description": "A striking contemporary building dedicated to marine conservation, featuring innovative design elements inspired by the ocean.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Near Kikambala Public Beach",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1582234057997-8c5e6261c3f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bW9kZXJuJTIwbWFyaW5lJTIwY2VudHJlfHx8fHx8MTcxOTk1MjcyNQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "conservation",
+        "educational",
+        "innovative"
+      ]
+    },
+    {
+      "id": "KKM_RV_001",
+      "name": "Sunset Terrace at Ocean's Edge",
+      "short_description": "Indulge in breathtaking panoramic views of the Indian Ocean as the sun dips below the horizon from this exclusive rooftop.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Amani Tiwi Beach Resort rooftop bar (imagined extension in Kikambala)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1589415843105-df4d9a24d55b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cm9vZnRvcCUyMG9jZWFuJTIwc3Vuc2V0fHx8fHx8MTcxOTk1MjcyNw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sunset",
+        "ocean views",
+        "romantic"
+      ]
+    },
+    {
+      "id": "KKM_RV_002",
+      "name": "Starry Sky Lounge",
+      "short_description": "Sip on cocktails under a blanket of stars, offering an uninterrupted view of the celestial wonders above Kikambala.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Mid-range resort rooftop bar",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1629906666870-71708ae6d56d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cm9vZnRvcCUyMG5pZ2h0JTIwc2t5fHx8fHx8MTcxOTk1MjczMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nightlife",
+        "stargazing",
+        "cocktails"
+      ]
+    },
+    {
+      "id": "KKM_RV_003",
+      "name": "Palm Grove Perch",
+      "short_description": "An elevated viewpoint nestled among swaying palm trees, providing a serene vista of the resort grounds and distant ocean.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Lesser-known boutique hotel terrace",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582234065600-47867332d90e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cm9vZnRvcCUyMHBhbG0lMjB0cmVlc3x8fHx8fDE3MTk5NTI3MzI&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "relaxing",
+        "resort views",
+        "greenery"
+      ]
+    },
+    {
+      "id": "KKM_RV_004",
+      "name": "Kikambala Coastline Vista Deck",
+      "short_description": "A public viewing deck offering unobstructed, sweeping views of the entire Kikambala coastline and its pristine beaches.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Coastal public park (imagined)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549488346-6351225016c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29hc3RhbCUyMHZpZXdpcG9pbnR8fHx8fHwxNzE5OTUyNzM1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "panoramic",
+        "public access",
+        "seaviews"
+      ]
+    },
+    {
+      "id": "KKM_BO_001",
+      "name": "Mangrove Canopy Walkway",
+      "short_description": "An elevated wooden walkway winding through the ancient mangrove forests, offering unique ecological insights and serene views.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Northern Kikambala mangrove estuaries",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1627063673551-7f98d7ce7e5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bWFuZ3JvdmUlMjB3YWxrYXl8fHx8fHwxNzE5OTUyNzM3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature trail",
+        "eco-tourism",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "KKM_BO_002",
+      "name": "Coral Cliff Overlook",
+      "short_description": "Stand atop a natural coral cliff, gazing out at the expansive ocean and the vibrant reef below, especially clear at low tide.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Maweni Cliff area",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1606774900720-639a03975005?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2xpZmYlMjBvY2VhbiUyMHZpZXd8fHx8fHwxNzE5OTUyNzQw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "scenic vista",
+        "geological",
+        "coastal"
+      ]
+    },
+    {
+      "id": "KKM_BO_003",
+      "name": "Whispering Sands Boardwalk",
+      "short_description": "A charming wooden boardwalk that gently traverses dunes and lush vegetation, leading to a secluded stretch of Kikambala's pristine beach.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Secret Beach Access (imagined)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1627916518868-b8ce16960844?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8d29vZGVuJTIwYm9hcmR3YWxrJTIwYmVhY2h8fHx8fHwxNzE5OTUyNzQz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "beach access",
+        "nature walk",
+        "serenity"
+      ]
+    },
+    {
+      "id": "KKM_BO_004",
+      "name": "Jungle River Suspension Bridge",
+      "short_description": "A quaint suspension bridge over a small, picturesque river within a resort's expansive tropical grounds, perfect for an adventurous photo.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Large resort grounds (e.g., Baobab Beach Resort, adapted to Kikambala)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1547432095-d8aa7e31b674?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8anVuZ2xlJTIwc3VzcGVuc2lvbiUyMGJyaWRnZXxlbnwwfHx8fDE3MTk5NTI3NDY&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "adventure",
+        "tropical",
+        "resort attraction"
+      ]
+    },
+    {
+      "id": "KKM_IS_001",
+      "name": "Grand Ocean Resort Staircase",
+      "short_description": "A magnificent, sweeping staircase adorned with tropical foliage, leading down to the private beach of a luxurious Kikambala resort.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Luxury beachfront resort (e.g., Serena Beach Resort & Spa, adapted)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1623910385759-992a0604b9c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Z3JhbmQlMjByZXNvcnQlMjBzdGFpcmNhc2V8fHx8fHwxNzE5OTUyNzQ4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "luxury",
+        "grandeur",
+        "resort aesthetic"
+      ]
+    },
+    {
+      "id": "KKM_IS_002",
+      "name": "Secret Beach Path",
+      "short_description": "A charming, winding pathway hidden amidst lush coastal vegetation, revealing a breathtaking secluded beach at its end.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Undisclosed location, North Kikambala",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1602970425785-5a507a216960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2VjcmV0JTIwYmVhY2glMjBwYXRoJTIwdHJvcGljYWx8fHx8fHwxNzE5OTUyNzUw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "secluded",
+        "discovery",
+        "hidden gem"
+      ]
+    },
+    {
+      "id": "KKM_IS_003",
+      "name": "Fisherman's Village Steps",
+      "short_description": "Stone steps leading down to a vibrant local fishing village, offering a glimpse into authentic coastal life and picturesque boat views.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Kikambala Fishing Village (imagined)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563630768-45012a6f236a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8b2xkJTIwc3RvbmUlMjBzdGVwcyUyMHBhdGh3YXl8fHx8fHwxNzE5OTU5NjI4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "local culture",
+        "authentic",
+        "coastal life"
+      ]
+    },
+    {
+      "id": "KKM_IS_004",
+      "name": "Baobab Alley Trail",
+      "short_description": "A historic pathway lined by magnificent, ancient baobab trees, their enormous trunks forming a natural, awe-inspiring archway.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Inland Kikambala Baobab Forest",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1590487373397-6a45a0b12752?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YmFvYmFiJTIwdHJlZSUyMHBhdGh3YXl8fHx8fHwxNzE5OTUyNzU1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancient trees",
+        "nature walk",
+        "historical"
+      ]
+    },
+    {
+      "id": "KKM_UN_001",
+      "name": "Bioluminescent Serenity Bay",
+      "short_description": "Witness the magical glow of bioluminescent plankton illuminating the waters at night in this secluded, tranquil bay.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Secluded cove north of Kikambala",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1596277085739-9d6600a98f79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YmlvbHVtaW5lc2NlbnQlMjBiYXl8fHx8fHwxNzE5OTUyNzU4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "magical",
+        "night phenomenon",
+        "rare sight"
+      ]
+    },
+    {
+      "id": "KKM_UN_002",
+      "name": "The Whispering Sea Caves",
+      "short_description": "Explore hidden sea caves carved by centuries of ocean waves, where the tides create haunting, whispering sounds.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Rocky coast south of Kikambala",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1598421064213-9b8e21711204?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2VhJTIwY2F2ZXN8fHx8fHwxNzE5OTUyNzYx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "geological",
+        "adventure",
+        "mystery"
+      ]
+    },
+    {
+      "id": "KKM_UN_003",
+      "name": "Ancient Coral Gardens (Low Tide)",
+      "short_description": "At extreme low tide, vibrant, ancient coral formations are exposed, revealing a colorful, intricate underwater landscape.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Kikambala Reef Protected Area",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1517592928543-30ce0e104191?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29yYWwlMjByZWVmJTIwYXQlMjBsb3clMjB0aWRlfHx8fHx8MTcxOTk1Mjc2Mw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marine life",
+        "snorkeling",
+        "fragile ecosystem"
+      ]
+    },
+    {
+      "id": "KKM_UN_004",
+      "name": "Floating Island Lagoon",
+      "short_description": "Discover a rare phenomenon where a small island of vegetation seemingly floats on a calm, crystal-clear lagoon.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Inland lagoon near mangroves",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1563630768-45012a6f236a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmxvYXRpbmclMjB2ZWdldGF0aW9uJTIwbGFnb29ufHx8fHx8MTcxOTk1OTc1MQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "unique nature",
+        "peaceful",
+        "rare sight"
+      ]
+    },
+    {
+      "id": "KKM_UH_001",
+      "name": "The Baobab Treehouse Resort",
+      "short_description": "Sleep amongst the giants in beautifully crafted treehouses, offering unparalleled views and an immersive nature experience.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Inland Kikambala, near a baobab grove",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1502759683296-613d2de655a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dHJlZWhvdXNlJTIwcmVzb3J0fHx8fHx8MTcxOTk1Mjc2OA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "eco-lodge",
+        "adventure stay",
+        "nature escape"
+      ]
+    },
+    {
+      "id": "KKM_UH_002",
+      "name": "Aqua Marine Eco-Lodges",
+      "short_description": "Stylish, sustainable lodges built over or very close to the water, providing intimate access to the ocean's tranquility.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Kikambala Lagoon area",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1503614472877-ab66a7b29a27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8b3ZlcndhdGVyJTIwYnVmdW5nYVx8fHx8fDE3MTk5NTI3NzE&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "overwater bungalow",
+        "sustainable luxury",
+        "seaside"
+      ]
+    },
+    {
+      "id": "KKM_UH_003",
+      "name": "Coastal Manor Guesthouse",
+      "short_description": "A charming, historical-style guesthouse with lush courtyards and personalized service, offering a taste of old-world coastal elegance.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Central Kikambala, away from the immediate beach",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1598421064213-9b8e21711204?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29hc3RhbCUyMGd1ZXN0aG91c2V8fHx8fHwxNzE5OTU5ODE5&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "boutique hotel",
+        "heritage",
+        "charming"
+      ]
+    },
+    {
+      "id": "KKM_UH_004",
+      "name": "The Dune View Tented Camp",
+      "short_description": "Luxury tented accommodation set amidst coastal dunes, offering a unique blend of glamping comfort and raw beach wilderness.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Southern Kikambala, near the dunes",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1504269786481-c7c4b0b1448b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bHV4dXJ5JTIwdGVudGVkJTIwY2FtcHxlbnwwfHx8fDE3MTk5NTI3NzU&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "glamping",
+        "wilderness",
+        "beach camp"
+      ]
+    },
+    {
+      "id": "KKM_HA_001",
+      "name": "Old Town Bazaar Lane",
+      "short_description": "A charming, narrow alleyway lined with bustling local craft shops and aromatic spice vendors, offering a glimpse into authentic Kikambala.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Kikambala market area (imagined)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596791340150-13b730531584?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8b2xkJTIwdG93biUyMGJhemFhcnxlbnwwfHx8fHwxNzE5OTUyNzc4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "local market",
+        "authentic",
+        "cultural"
+      ]
+    },
+    {
+      "id": "KKM_HA_002",
+      "name": "Spice Merchant's Secret Courtyard",
+      "short_description": "Discover a tranquil, fragrant courtyard hidden behind a spice shop, a peaceful oasis brimming with exotic scents and vibrant colors.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Behind central market (imagined)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582234065600-47867332d90e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8b2xkJTIwc3BpY2UlMjBjb3VydHlhcmR8fHx8fHwxNzE5OTU5ODg1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fragrant",
+        "peaceful",
+        "local charm"
+      ]
+    },
+    {
+      "id": "KKM_HA_003",
+      "name": "Fisherman's Quarter Alley",
+      "short_description": "A vibrant, sun-drenched alleyway in the heart of the fishing quarter, showcasing colorful fishing boats and daily local life.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Kikambala Creek near fishing boats",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582234065600-47867332d90e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmlzaGluZyUyMHZpbGxhZ2UlMjBhbGxleXxlbnwwfHx8fDE3MTk5NTI3ODIz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "maritime life",
+        "authentic",
+        "photogenic"
+      ]
+    },
+    {
+      "id": "KKM_HA_004",
+      "name": "Resort Secret Garden Courtyard",
+      "short_description": "A secluded, exquisitely landscaped courtyard within a luxury resort, perfect for quiet reflection or an intimate photoshoot.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Major luxury resort grounds",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1577777087-73d9e0339d29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cmVzb3J0JTIwY291cnR5YXJkJTIwc2VjcmV0JTIwZ2FyZGVufHx8fHx8MTcxOTk1OTk1NA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "private",
+        "landscaped",
+        "serene"
+      ]
+    },
+    {
+      "id": "KKM_FE_001",
+      "name": "Kikambala Beach Regatta",
+      "short_description": "Witness vibrant dhows and modern sailboats competing in a spectacular race along the Kikambala coastline, a true local spectacle.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Central Kikambala Beach",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1547432095-d8aa7e31b674?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YmVhY2glMjByZWdhdHRhfHx8fHx8MTcxOTk1Mjc4OA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sailing",
+        "local event",
+        "vibrant"
+      ]
+    },
+    {
+      "id": "KKM_FE_002",
+      "name": "Coastal Culture Festival",
+      "short_description": "Immerse yourself in the rich Swahili heritage with traditional music, dance, crafts, and delicious coastal cuisine.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Kikambala Community Grounds",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1607519156475-430932c02c65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YWZyaWNhbiUyMGN1bHR1cmFsJTIwZmVzdGl2YWx8fHx8fHwxNzE5OTYwMDEy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "culture",
+        "traditional",
+        "community"
+      ]
+    },
+    {
+      "id": "KKM_FE_003",
+      "name": "Full Moon Beach Party",
+      "short_description": "Dance under the stars to the rhythm of African beats at a lively beachfront party held during the mesmerizing full moon.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Various resort beaches",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1526435940003-81b4b1a8d052?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YmVhY2hsaWZlJTIwZHVyYWFhY2glMjBwYXJ0eSUyMGZ1bGwlMjBtb29ufHx8fHx8MTcxOTk2MDA3Mg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nightlife",
+        "party",
+        "beach fun"
+      ]
+    },
+    {
+      "id": "KKM_FE_004",
+      "name": "Annual Seafood & Spice Fair",
+      "short_description": "Savor the freshest catches and aromatic spices of the Kenyan coast at this delightful culinary fair, celebrating local flavors.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Kikambala market square",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582234057997-8c5e6261c3f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2VhZm9vZCUyMGZlc3RpdmFsfHx8fHx8MTcxOTk2MDEzMg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "foodie",
+        "culinary",
+        "local produce"
+      ]
+    }
+  ]
+}

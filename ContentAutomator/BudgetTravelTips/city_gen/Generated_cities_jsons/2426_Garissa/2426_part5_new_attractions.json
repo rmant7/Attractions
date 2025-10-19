@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Garissa",
+    "city_id": "2426"
+  },
+  "items": [
+    {
+      "id": "GRSA-MKT-001",
+      "name": "Garissa Modern Market & Craft Plaza",
+      "short_description": "A bustling new complex showcasing local produce, traditional crafts, and vibrant textiles from Garissa and the wider Northern Frontier region. A true immersion into the local entrepreneurial spirit.",
+      "address": "Kismayu Road, Opposite Garissa County Assembly, Garissa",
+      "opening_hours": "08:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1621532938481-99890a5e8489?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "shopping",
+        "local goods",
+        "culture"
+      ]
+    },
+    {
+      "id": "GRSA-WLD-002",
+      "name": "Tana River Eco-Lodge & Conservation Centre",
+      "short_description": "Opened to promote sustainable tourism along the Tana River, this centre offers guided nature walks, bird watching, and educational programs on riverine ecosystem preservation. Stay overnight in eco-friendly bandas.",
+      "address": "Off Boni Forest Road, 15km North of Garissa Town",
+      "opening_hours": "07:00-18:00 (daily tours); 24/7 (lodge guests)",
+      "price_level": "moderate",
+      "images": "https://www.pexels.com/photo/silhouette-of-bare-tree-near-lake-during-sunset-1007802/",
+      "tags": [
+        "nature",
+        "wildlife",
+        "eco-tourism"
+      ]
+    },
+    {
+      "id": "GRSA-EDU-003",
+      "name": "Northern Frontier Innovation Hub",
+      "short_description": "A state-of-the-art facility fostering entrepreneurship and technological literacy among Garissa's youth. It offers co-working spaces, training workshops, and incubation programs for startups.",
+      "address": "University of Garissa Campus, Off Garissa-Dadaab Road",
+      "opening_hours": "08:30-17:30 (Mon-Fri)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1552581234-263901700e47?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "technology",
+        "education",
+        "community"
+      ]
+    },
+    {
+      "id": "GRSA-REC-004",
+      "name": "Somaliland Park & Family Fun Zone",
+      "short_description": "Garissa's newest public park, designed for family recreation. Features playgrounds, shaded picnic areas, and a small cultural performance stage, offering a safe and vibrant space for all ages.",
+      "address": "Along Garissa-Modogashe Road, near Central Mosque",
+      "opening_hours": "07:00-22:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1517849845537-4d257902454a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "park",
+        "family",
+        "recreation"
+      ]
+    },
+    {
+      "id": "GRSA-ART-005",
+      "name": "The Horn of Africa Cultural Gallery",
+      "short_description": "Dedicated to preserving and showcasing the rich artistic heritage of the Somali people and wider Horn of Africa. Features rotating exhibits of traditional art, contemporary works, and historical artifacts.",
+      "address": "Abdullahi Yusuf Centre, Bondeni, Garissa",
+      "opening_hours": "09:00-17:00 (Tue-Sun)",
+      "price_level": "cheap",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Traditional_Somali_Art.jpg",
+      "tags": [
+        "art",
+        "culture",
+        "history"
+      ]
+    },
+    {
+      "id": "GRSA-FIT-006",
+      "name": "Garissa Waterfront Promenade & Fitness Trails",
+      "short_description": "A newly developed scenic walkway along a section of the Tana River, perfect for leisurely strolls, jogging, and enjoying sunset views. Includes outdoor fitness equipment and shaded seating.",
+      "address": "Tana River Bank, Access via Riverside Estate",
+      "opening_hours": "24/7",
+      "price_level": "free",
+      "images": "https://www.pexels.com/photo/people-walking-on-paved-road-near-trees-and-river-210186/",
+      "tags": [
+        "outdoors",
+        "fitness",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "GRSA-DINE-007",
+      "name": "Dawa Spice Garden Restaurant",
+      "short_description": "An upscale dining experience offering a fusion of Somali, Swahili, and international cuisines, with a focus on fresh, locally sourced ingredients. Enjoy your meal in a beautiful, serene garden setting.",
+      "address": "Next to Garissa Primary School, Off B8 Road",
+      "opening_hours": "12:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dining",
+        "food",
+        "cuisine"
+      ]
+    },
+    {
+      "id": "GRSA-MED-008",
+      "name": "Garissa Health & Wellness Centre (Public Wing)",
+      "short_description": "While primarily a medical facility, its new public wing offers wellness workshops, health screenings, and a tranquil rooftop garden accessible to the community, promoting holistic well-being.",
+      "address": "Near Garissa Referral Hospital, Off Ngamia Road",
+      "opening_hours": "09:00-16:00 (Mon-Fri for public wing)",
+      "price_level": "free",
+      "images": "https://www.pexels.com/photo/high-angle-view-of-buildings-175528/",
+      "tags": [
+        "wellness",
+        "community",
+        "health"
+      ]
+    },
+    {
+      "id": "GRSA-SPRT-009",
+      "name": "Unity Sports Arena",
+      "short_description": "A newly inaugurated multi-purpose sports complex featuring a football pitch, basketball court, and athletics track. It hosts local tournaments and offers public access for sports enthusiasts.",
+      "address": "Behind Garissa Teachers Training College",
+      "opening_hours": "07:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616422179860-264191632734?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sports",
+        "recreation",
+        "youth"
+      ]
+    },
+    {
+      "id": "GRSA-HIST-010",
+      "name": "Historical Garissa Photo Archive & Study Room",
+      "short_description": "An essential new resource for understanding Garissa's past, housing a vast collection of photographs, documents, and oral histories. Ideal for researchers and anyone interested in the region's heritage.",
+      "address": "County Library Building, Bula Iftin, Garissa",
+      "opening_hours": "09:00-16:00 (Mon-Fri)",
+      "price_level": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Somali_men_in_Mogadishu_during_World_War_II.jpg",
+      "tags": [
+        "history",
+        "archive",
+        "education"
+      ]
+    }
+  ]
+}

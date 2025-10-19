@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Maasai Mara",
+    "city_id": "2434"
+  },
+  "items": [
+    {
+      "id": "AM_LoftVw",
+      "name": "Angama Mara's Sky Loft View",
+      "short_description": "Experience breathtaking panoramic views of the Mara from a contemporary, glass-fronted lodge. Its minimalist design blends seamlessly with the vast savanna.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Angama Mara, North-Eastern Mara Triangle",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1605389659357-1933fb96173a?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "luxury lodge",
+        "infinity pool",
+        "architectural gem"
+      ]
+    },
+    {
+      "id": "MP_CanvasLux",
+      "name": "Mara Plains Camp Tented Suite",
+      "short_description": "Discover elegant canvas architecture that redefines luxury safari glamping. The sophisticated interiors and outdoor decks offer intimate wildlife viewing.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Olare Motorogi Conservancy",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628109670732-4e3f345a3d7b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "glamping",
+        "eco-lodge",
+        "safari chic"
+      ]
+    },
+    {
+      "id": "MM_GlassDining",
+      "name": "Mara Maisha Camp's Glass Pavilion",
+      "short_description": "Dine under the stars in a stunning glass-enclosed pavilion, offering uninterrupted views of the nightly savanna. A modern architectural marvel in the wilderness.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Talek River region",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1549488344-933390214a1f?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fine dining",
+        "stargazing",
+        "contemporary design"
+      ]
+    },
+    {
+      "id": "SC_EcoPod",
+      "name": "Saruni Wild's Eco-Tents",
+      "short_description": "Experience sustainable modern design with these beautifully appointed eco-tents, blending comfort with minimal environmental impact. Perfect for the conscious traveler.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Lemek Conservancy",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1598282337775-87729864d4b1?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sustainable travel",
+        "boutique camp",
+        "minimalist"
+      ]
+    },
+    {
+      "id": "MB_BomaEntry",
+      "name": "Traditional Maasai Boma Entrance",
+      "short_description": "Step into a world of ancient traditions through the iconic thorn bush fence entrance of a Maasai Boma. These circular villages have housed generations.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Various Maasai villages surrounding the reserve",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Massai_village_%28cropped%29.jpg",
+      "tags": [
+        "Maasai culture",
+        "traditional village",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "MB_MudHut",
+      "name": "Maasai Mud & Dung Manyatta",
+      "short_description": "Admire the organic, resilient architecture of a Maasai 'Manyatta' (hut), crafted from mud, dung, and sticks. These structures are built by women and reflect generations of indigenous knowledge.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Inside any Maasai Boma",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Maasai_village.jpg/1280px-Maasai_village.jpg",
+      "tags": [
+        "indigenous architecture",
+        "traditional craft",
+        "cultural immersion"
+      ]
+    },
+    {
+      "id": "MB_CattlePen",
+      "name": "Central Boma Cattle Kraal",
+      "short_description": "Witness the heart of a Maasai Boma: the central kraal where livestock are protected. This ancient layout is crucial to their pastoral way of life.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Center of a Maasai village",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Maasai_Boma_and_village_in_Tanzania_2.jpg",
+      "tags": [
+        "Maasai traditions",
+        "pastoral life",
+        "community hub"
+      ]
+    },
+    {
+      "id": "MB_WarriorHut",
+      "name": "Warrior's Manyatta Perspective",
+      "short_description": "Gain insight into the simple yet functional design of a warrior's dwelling, built for protection and community living. Its humble exterior belies a rich cultural history.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Maasai cultural visit sites",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1598444222044-67dd8eb55627?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cultural insight",
+        "rural life",
+        "ancient methods"
+      ]
+    },
+    {
+      "id": "NM_AcaciaSil",
+      "name": "Iconic Acacia Tree Silhouette",
+      "short_description": "Capture the quintessential Maasai Mara image: a solitary acacia tree silhouetted against a fiery African sunset. The perfect blend of drama and tranquility.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Across the open plains",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1533038676646-777c07b78912?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "savanna sunset",
+        "iconic view",
+        "wildlife photography"
+      ]
+    },
+    {
+      "id": "NM_MaraRiver",
+      "name": "Mara River's Serene Banks",
+      "short_description": "Discover the lifeblood of the Mara, its tranquil riverbanks contrasting with the intense drama of wildlife crossings. A place of both peace and power.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Along the Mara River",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1579737153406-fc5ec20c0250?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "river scenery",
+        "great migration",
+        "wildlife habitat"
+      ]
+    },
+    {
+      "id": "NM_RollingHills",
+      "name": "Vast Rolling Savanna Hills",
+      "short_description": "Immerse yourself in the endless expanse of the Mara's rolling hills, teeming with diverse wildlife and breathtaking vistas that stretch to the horizon.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Mara Triangle or conservancies",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1522048995834-f8522339d2c2?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "panoramic views",
+        "african landscape",
+        "grasslands"
+      ]
+    },
+    {
+      "id": "NM_Ololoolo",
+      "name": "Ololoolo Escarpment Vista",
+      "short_description": "Perched atop the stunning Ololoolo Escarpment, offering unparalleled bird's-eye views of the Mara plains below. A majestic natural geological formation.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Western edge of the Mara Triangle",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1596768789360-1d8825cd408c?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "scenic overlook",
+        "geological wonder",
+        "great migration views"
+      ]
+    },
+    {
+      "id": "BO_MaraRiverCr",
+      "name": "Mara River Crossing Point",
+      "short_description": "Witness the epic Great Migration crossings at a strategic point along the Mara River. The bridge here, though functional, signifies passage and natural drama.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Various points along the Mara River",
+      "best_time": "Morning / Afternoon (during migration)",
+      "images": "https://images.unsplash.com/photo-1629828453472-a0b77a796e95?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "migration spectacle",
+        "river crossing",
+        "wildlife action"
+      ]
+    },
+    {
+      "id": "BO_SerenaOver",
+      "name": "Mara Serena Lodge Overlook",
+      "short_description": "Enjoy an elevated perspective from the Mara Serena Safari Lodge, offering sweeping views of the Mara River and the plains stretching beyond.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Mara Serena Safari Lodge",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1616194726207-68b2ce7ed6b8?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "lodge view",
+        "panoramic deck",
+        "river views"
+      ]
+    },
+    {
+      "id": "BO_SandRiver",
+      "name": "Sand River Seasonal Bridge",
+      "short_description": "Discover the rudimentary bridges built across seasonal rivers like the Sand River, providing essential access during the dry season and offering unique photographic opportunities.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Sand River, near Tanzania border",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1550970678-b1834241c098?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "rustic bridge",
+        "seasonal river",
+        "off-road adventure"
+      ]
+    },
+    {
+      "id": "BO_BaloonTake",
+      "name": "Hot Air Balloon Launch Site Overlook",
+      "short_description": "Witness the spectacle of hot air balloons taking off at dawn from an elevated viewing point, offering incredible pre-sunrise savanna vistas.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Designated balloon launch zones",
+      "best_time": "Morning (pre-dawn)",
+      "images": "https://images.unsplash.com/photo-1547475148-5231c5f3e9b0?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "hot air balloon",
+        "sunrise view",
+        "adventure overlook"
+      ]
+    },
+    {
+      "id": "HA_LodgeLibrary",
+      "name": "Secluded Lodge Library Nook",
+      "short_description": "Escape to a quiet corner within a luxury safari lodge, where cozy libraries offer a tranquil retreat with views of the bush. A perfect hidden gem for relaxation.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Inside various luxury lodges (e.g., Cottar's 1920s Camp)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628109670732-4e3f345a3d7b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "quiet retreat",
+        "lodge interior",
+        "reading nook"
+      ]
+    },
+    {
+      "id": "HA_BomaCentral",
+      "name": "Maasai Boma Central Courtyard",
+      "short_description": "Discover the bustling yet intimate central courtyard of a Maasai Boma, where daily life unfolds amidst traditional huts and communal activity. A true cultural 'courtyard'.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Inside a Maasai village",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Massai_village_%28cropped%29.jpg",
+      "tags": [
+        "cultural space",
+        "communal area",
+        "traditional life"
+      ]
+    },
+    {
+      "id": "HA_TentPath",
+      "name": "Secluded Tented Camp Pathways",
+      "short_description": "Wander along discreet, winding pathways connecting luxury tents in an exclusive camp, offering privacy and a deep immersion into the surrounding nature.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Between tents in luxury camps (e.g., Kichwa Tembo)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1624467000300-8041c2d0f592?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "private path",
+        "glamping experience",
+        "bush walk"
+      ]
+    },
+    {
+      "id": "HA_RiverHide",
+      "name": "Mara River's Secret Hideout",
+      "short_description": "Seek out a tucked-away spot along the Mara River, perfect for private wildlife viewing or a peaceful moment surrounded by nature's sounds.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Secluded bends of the Mara River",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549479383-7d727a20c354?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature's refuge",
+        "wildlife spot",
+        "tranquil escape"
+      ]
+    },
+    {
+      "id": "FD_BushBfast",
+      "name": "Savanna Bush Breakfast",
+      "short_description": "Indulge in an unforgettable breakfast spread set up amidst the vast savanna, complete with hot coffee, fresh pastries, and incredible wildlife views.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Various scenic spots across the reserve",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1616194726207-68b2ce7ed6b8?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "safari dining",
+        "outdoor experience",
+        "gourmet breakfast"
+      ]
+    },
+    {
+      "id": "FD_Sundowner",
+      "name": "Sunset Sundowner Spot",
+      "short_description": "Raise a toast as the sun dips below the horizon, enjoying cocktails and canapés at a specially chosen scenic viewpoint. The quintessential safari experience.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Elevated plains or river bends",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1547985311-df2436d4f6c4?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cocktail hour",
+        "african sunset",
+        "luxury safari"
+      ]
+    },
+    {
+      "id": "FD_LodgeResto",
+      "name": "The Bateleur Camp Dining Room",
+      "short_description": "Dine in colonial-era elegance at the Bateleur Camp, offering gourmet meals in a refined setting reminiscent of a bygone safari era, with views overlooking the plains.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Kichwa Tembo Airstrip area",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1628109670732-4e3f345a3d7b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fine dining",
+        "heritage decor",
+        "gourmet cuisine"
+      ]
+    },
+    {
+      "id": "FD_RiverPicnic",
+      "name": "Talek River Picnic Lunch",
+      "short_description": "Enjoy a delightful picnic lunch set up beside the peaceful Talek River, offering a refreshing break from game drives and a chance to observe riverside wildlife.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Talek River banks",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596768789360-1d8825cd408c?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "outdoor lunch",
+        "riverside dining",
+        "relaxing break"
+      ]
+    },
+    {
+      "id": "FG_LodgeGardens",
+      "name": "Mara Explorer Camp Gardens",
+      "short_description": "Discover surprisingly lush gardens within luxury lodges, vibrant with indigenous and exotic flowers, providing a tranquil contrast to the wild savanna.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Mara Explorer Camp, Talek River",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549479383-7d727a20c354?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "lodge amenities",
+        "ornamental garden",
+        "floral beauty"
+      ]
+    },
+    {
+      "id": "FG_SeasonalBlooms",
+      "name": "Savanna Wildflower Patches",
+      "short_description": "During the rainy season, watch for fleeting patches of colorful wildflowers that transform parts of the savanna into vibrant natural 'fields'.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Various parts of the plains (seasonal)",
+      "best_time": "Morning (after rains)",
+      "images": "https://images.unsplash.com/photo-1550970678-b1834241c098?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "seasonal flowers",
+        "wild flora",
+        "natural beauty"
+      ]
+    },
+    {
+      "id": "FG_DesertRoses",
+      "name": "Sukutei (Desert Rose) Blooms",
+      "short_description": "Spot the hardy and beautiful 'Desert Rose' (Adenium obesum) with its striking pink and white flowers, often found growing in rocky or dry areas, adding unexpected color.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Rocky outcrops and drier areas",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Desert_Rose_Adenium_obesum_P1120042.JPG/1920px-Desert_Rose_Adenium_obesum_P1120042.JPG",
+      "tags": [
+        "succulent flowers",
+        "arid plants",
+        "unique flora"
+      ]
+    },
+    {
+      "id": "FG_RiverineFlora",
+      "name": "Riverine Forest Orchids",
+      "short_description": "Explore the dense riverine forests along the Mara for hidden botanical treasures, including various orchid species that flourish in the humid environment.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Along Mara River and tributary banks",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cymbidium_insigne_%28flowering%29.jpg/1920px-Cymbidium_insigne_%28flowering%29.jpg",
+      "tags": [
+        "forest blooms",
+        "botany",
+        "hidden gems"
+      ]
+    },
+    {
+      "id": "CI_MaasaiDance",
+      "name": "Maasai Warrior Jumping Dance (Adumu)",
+      "short_description": "Witness the captivating 'Adumu,' the traditional Maasai jumping dance performed by warriors, a powerful display of strength, agility, and cultural pride.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Maasai cultural villages",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1549488344-933390214a1f?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Maasai culture",
+        "traditional dance",
+        "warrior ceremony"
+      ]
+    },
+    {
+      "id": "CI_Beadwork",
+      "name": "Maasai Beaded Craft Workshop",
+      "short_description": "Observe Maasai women crafting intricate beadwork, learning about the colors and patterns that tell stories of status, age, and identity. Support local artisans.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Maasai community centers or Bomas",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1598444222044-67dd8eb55627?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "local crafts",
+        "cultural art",
+        "Maasai women"
+      ]
+    },
+    {
+      "id": "CI_HomesteadTour",
+      "name": "Authentic Maasai Homestead Tour",
+      "short_description": "Experience daily life inside a traditional Maasai homestead (enkang), learning about their social structure, education, and age-old customs directly from the community.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Designated cultural visit Bomas",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Maasai_village.jpg/1280px-Maasai_village.jpg",
+      "tags": [
+        "living history",
+        "community visit",
+        "educational tour"
+      ]
+    },
+    {
+      "id": "CI_FolkloricStory",
+      "name": "Folkloric Storytelling Circle",
+      "short_description": "Gather around a fire as Maasai elders share captivating folktales, legends, and history, offering a deep insight into their rich oral traditions and spiritual beliefs.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Maasai villages or cultural camps",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1557007505-df857d4b4f53?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "oral tradition",
+        "campfire stories",
+        "cultural exchange"
+      ]
+    },
+    {
+      "id": "DD_DryRiverbed",
+      "name": "Talek River's Dry Season Sandbanks",
+      "short_description": "While not a true desert, the vast, dry sandbanks of the Talek River during the dry season evoke a desert-like expanse, revealing patterns and textures perfect for photography.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Talek River, during dry season",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549479383-7d727a20c354?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "arid landscape",
+        "river textures",
+        "seasonal change"
+      ]
+    },
+    {
+      "id": "DD_DustyPlains",
+      "name": "Vast Dusty Plains of the Olare Motorogi",
+      "short_description": "Experience the open, dusty plains of conservancies like Olare Motorogi during the height of the dry season, where the savanna takes on an arid, golden hue, reminiscent of desert expanses.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Olare Motorogi Conservancy (dry season)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1522048995834-f8522339d2c2?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "golden hour",
+        "savanna dryness",
+        "vast open spaces"
+      ]
+    },
+    {
+      "id": "DD_AridShrub",
+      "name": "Mara's Arid Shrubland Patches",
+      "short_description": "Encounter patches of semi-arid shrubland, characterized by hardy, drought-resistant vegetation and dry, cracked earth. A unique ecosystem within the wider savanna.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Certain drier parts of the reserve",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596768789360-1d8825cd408c?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "drought landscape",
+        "unique flora",
+        "tough terrain"
+      ]
+    },
+    {
+      "id": "DD_EwasoNyiro",
+      "name": "Ewaso Nyiro River's Sandy Banks",
+      "short_description": "Explore the sandy, often dry, banks of the Ewaso Nyiro River on the eastern edge of the Mara, offering a glimpse into more arid riverine environments.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Eastern Mara boundary",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1579737153406-fc5ec20c0250?q=80&w=2670&auto=format&fit&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "river environment",
+        "sandy banks",
+        "east africa"
+      ]
+    },
+    {
+      "id": "IL_MaraRiver",
+      "name": "The Great Mara River",
+      "short_description": "The lifeblood of the Maasai Mara, famous for the perilous Great Migration crossings and its resident hippos and crocodiles. A truly iconic natural landmark.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Central Maasai Mara National Reserve",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1547475148-5231c5f3e9b0?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "great migration",
+        "wildlife hotbed",
+        "natural wonder"
+      ]
+    },
+    {
+      "id": "IL_TopiPlains",
+      "name": "Topi Plains (Paradise Plains)",
+      "short_description": "A vast, open savanna renowned for its high concentration of topi antelopes and a prime location for lion and cheetah sightings. An iconic wildlife viewing spot.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "North-eastern Maasai Mara",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1533038676646-777c07b78912?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wildlife hotspot",
+        "big cats",
+        "savanna views"
+      ]
+    },
+    {
+      "id": "IL_RhinoRidge",
+      "name": "Rhino Ridge",
+      "short_description": "A well-known elevated area within the Mara Triangle, offering spectacular panoramic views of the reserve and a rare chance to spot the elusive black rhino.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Maasai Mara Triangle",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1605389659357-1933fb96173a?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "rhino sightings",
+        "scenic point",
+        "conservation area"
+      ]
+    },
+    {
+      "id": "IL_FigTree",
+      "name": "The Famous Fig Tree",
+      "short_description": "An ancient, enormous fig tree that serves as a natural landmark and often a gathering spot for various wildlife, including leopards. A hidden gem of biodiversity.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Near Talek River crossing points",
+      "best_time": "Morning / Night",
+      "images": "https://images.unsplash.com/photo-1590479707963-dc8ff5407077?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "leopard spot",
+        "ancient tree",
+        "wildlife haven"
+      ]
+    }
+  ]
+}

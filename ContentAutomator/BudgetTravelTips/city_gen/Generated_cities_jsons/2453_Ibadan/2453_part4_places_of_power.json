@@ -1,0 +1,610 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Ibadan",
+    "city_id": "2453"
+  },
+  "items": [
+    {
+      "id": "IB_MRF001",
+      "name": "Oke-Are Sacred Monolith",
+      "short_description": "A colossal natural rock formation revered by ancient Ibadan settlers as a source of strength and protection, often associated with the Orisha Ogun. Rituals of blessing and gratitude are still performed here by local traditionalists.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Oke-Are Hilltop, Ibadan North East, Ibadan",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1547463286-620215585b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxuZ2VyaWFuJTIwcm9jayUyMGZvcm1hdGlvbnN8ZW58MHx8fHwxNzAzNTc3NzA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Yoruba",
+        "Ogun",
+        "Sacred Rock"
+      ]
+    },
+    {
+      "id": "IB_MRF002",
+      "name": "Ita Baale Ancestral Boulders",
+      "short_description": "A cluster of ancient boulders where community elders traditionally gathered to settle disputes and offer prayers to ancestral spirits. Each stone is believed to hold the wisdom of past leaders.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Off Beere Road, Oja'ba, Ibadan South East, Ibadan",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627521798369-026d36e7686b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8cm9jayUyMG91dGNyb3B8ZW58MHx8fHwxNzAzNTc3NzA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ancestral",
+        "Community",
+        "Yoruba History"
+      ]
+    },
+    {
+      "id": "IB_MRF003",
+      "name": "Aafin Olubadan's Stone Altar",
+      "short_description": "A historically significant large, flat rock formation within the grounds of the old Olubadan's palace, once used for important royal ceremonies and covenants. It is imbued with the spiritual authority of Ibadan's monarchs.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Near Mapo Hall, Oja'ba, Ibadan South East, Ibadan",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 200",
+      "images": "https://images.unsplash.com/photo-1610486749021-3e54b5ee84df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxNXx8eW9ydWJhJTIwc2hyaW5lfGVufDB8fHwxfDE3MDM1Nzc3OTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Royalty",
+        "History",
+        "Yoruba"
+      ]
+    },
+    {
+      "id": "IB_MRF004",
+      "name": "Eleda's Whispering Stone",
+      "short_description": "A uniquely shaped rock formation believed to be a conduit for messages from Eleda (creator/destiny). Pilgrims visit seeking guidance and clarity, often leaving offerings at its base.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Off Secretariat Road, Agodi, Ibadan North, Ibadan",
+      "visiting_hours": "07:30-18:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1594916962804-9a8979c4c5cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8YW5jaWVudCUyMHN0b25lJTIwd2FsbCUyMGFmcmljYXxlbnwwfHx8fDE3MDM1NzkxNzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Divination",
+        "Spiritual",
+        "Pilgrimage"
+      ]
+    },
+    {
+      "id": "IB_VZ001",
+      "name": "Ogun's Ancient Forge Grounds",
+      "short_description": "While not literally volcanic, this site is revered as an ancient blacksmithing hub where Ogun's fiery energy was channeled. The ground is said to retain the intense heat and spiritual power of countless generations of metalworkers, embodying transformation and creation.",
+      "subtype": "Volcanic Zones",
+      "address": "Near Oje Market, Ibadan North East, Ibadan",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1610486749021-3e54b5ee84df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxNXx8eW9ydWJhJTIwc2hyaW5lfGVufDB8fHwxfDE3MDM1Nzc3OTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ogun",
+        "Transformation",
+        "Craftsmanship"
+      ]
+    },
+    {
+      "id": "IB_VZ002",
+      "name": "Igi-Ogun Power Spot",
+      "short_description": "This unique clearing is distinguished by its distinct soil coloration and the unusual growth patterns of certain plants, attributed to an ancient, intense earth energy. It's considered a potent area for spiritual work and connecting with raw natural forces, a symbolic 'hotspot' of vitality.",
+      "subtype": "Volcanic Zones",
+      "address": "Off New Ife Road, Gbagi, Ibadan North East, Ibadan",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1629854740134-436d65f5a8a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzMXx8YWZyaWNhbiUyMHNhY3JlZCUyMGdyb3ZlfGVufDB8fHwxfDE3MDM1NzgyOTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Earth Energy",
+        "Ritual",
+        "Nature"
+      ]
+    },
+    {
+      "id": "IB_VZ003",
+      "name": "Ogo-Osun Warm Earth Site",
+      "short_description": "Though a subtle geological feature, this site features naturally occurring warm ground, especially after rains, believed to be blessed by Osun and a place of gentle healing. The consistent warmth is seen as the earth's nurturing embrace.",
+      "subtype": "Volcanic Zones",
+      "address": "Near Awba Dam, University of Ibadan, Ibadan North, Ibadan",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "NGN 100",
+      "images": "https://images.unsplash.com/photo-1549414006-2581699f8d97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw4fHxuZ2VyaWFuJTIwdHJvcGljYWwlMjBwYXRofGVufDB8fHwxfDE3MDM1NzgyNjF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Healing",
+        "Osun",
+        "Earth Warmth"
+      ]
+    },
+    {
+      "id": "IB_VZ004",
+      "name": "Baba Agba's Kiln Remains",
+      "short_description": "The spiritual remains of an ancient pottery and iron smelting complex, where intense fires transformed clay and ore. Locals believe the spirits of the master artisans and the 'fire elementals' still imbue the land with transformative energy.",
+      "subtype": "Volcanic Zones",
+      "address": "Along Sango-Ojoo Road, Akinyele, Ibadan North, Ibadan",
+      "visiting_hours": "09:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1594916962804-9a8979c4c5cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8YW5jaWVudCUyMHN0b25lJTIwd2FsbCUyMGFmcmljYXxlbnwwfHx8fDE3MDM1NzkxNzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Artisan Spirits",
+        "Transformation",
+        "Ancient Industry"
+      ]
+    },
+    {
+      "id": "IB_MH001",
+      "name": "Oke Agbo Hermitage (Christian)",
+      "short_description": "A secluded Christian retreat founded in the early 20th century by a devout hermit, offering a serene environment for prayer, meditation, and spiritual reflection amidst nature. It's known for its peaceful ambiance and simple chapel.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Oke Agbo Hill, Ikolaba, Ibadan North, Ibadan",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1647891940989-d9d300067b56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw1fHxuZ2VyaWFuJTIwc3BpcnNpdHVhbCUyMGJ1aWxkaW5nfGVufDB8fHwxfDE3MDM1Nzg1MTh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Christian",
+        "Retreat",
+        "Meditation"
+      ]
+    },
+    {
+      "id": "IB_MH002",
+      "name": "Aroye Ifa Priest's Compound",
+      "short_description": "A traditional Ifa priest's private compound, serving as a hermitage for spiritual study and consultation. It's a living center of Yoruba traditional wisdom, where seekers can find guidance and participate in ancient rituals.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Off Odo-Ona Road, Apata, Ibadan South West, Ibadan",
+      "visiting_hours": "10:00-16:00 (by appointment)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1610486749021-3e54b5ee84df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxNXx8eW9ydWJhJTIwc2hyaW5lfGVufDB8fHwxfDE3MDM1Nzc3OTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ifa",
+        "Yoruba",
+        "Traditional Religion"
+      ]
+    },
+    {
+      "id": "IB_MH003",
+      "name": "Masjid Darul Hidayah Retreat",
+      "short_description": "A quiet Islamic retreat center designed for intense prayer (I'tikaf) and Quranic study, offering a sanctuary for spiritual introspection away from the city's bustle. It emphasizes communal devotion and personal enlightenment.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Opposite UI Mosque, University of Ibadan, Ibadan North, Ibadan",
+      "visiting_hours": "24/7 (designated areas)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1608779603091-a128885b51a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzfHxuZ2VyaWFuJTIwcm9vZnRvcHxlbnwwfHx8fDE3MDM1NzczMzl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Islam",
+        "Prayer",
+        "Study"
+      ]
+    },
+    {
+      "id": "IB_MH004",
+      "name": "Ile-Orisha Seclusion Grove",
+      "short_description": "A semi-secluded grove historically used by adherents of traditional Yoruba religion for periods of ritual purification, spiritual development, and deep connection with specific Orishas. It's maintained by a lineage of spiritual guardians.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Near Cocoa House, Dugbe, Ibadan North West, Ibadan",
+      "visiting_hours": "08:00-16:00 (by prior arrangement)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1629854740134-436d65f5a8a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzMXx8YWZyaWNhbiUyMHNhY3JlZCUyMGdyb3ZlfGVufDB8fHwxfDE3MDM1NzgyOTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Orisha",
+        "Purification",
+        "Traditional"
+      ]
+    },
+    {
+      "id": "IB_PY001",
+      "name": "Mapo Hill Sacred Ascent",
+      "short_description": "While not a man-made pyramid, the gradual, tiered ascent of Mapo Hill, culminating in the historic Mapo Hall, has long been a symbolic journey of spiritual and civic significance. The hill itself is considered sacred, embodying Ibadan's enduring spirit.",
+      "subtype": "Pyramids",
+      "address": "Mapo Hill, Oja'ba, Ibadan South East, Ibadan",
+      "visiting_hours": "24/7 (Hall 09:00-17:00)",
+      "entry_fee": "free (Hall entry NGN 100)",
+      "images": "https://images.unsplash.com/photo-1608779603091-a128885b51a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzfHxuZ2VyaWFuJTIwcm9vZnRvcHxlbnwwfHx8fDE3MDM1NzczMzl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Symbolic Ascent",
+        "History",
+        "Civic",
+        "Viewpoint"
+      ]
+    },
+    {
+      "id": "IB_PY002",
+      "name": "Olubadan's Ancestral Burial Mound",
+      "short_description": "A low, ancient earth mound within a sacred grove, said to be the resting place of early Olubadans and revered ancestors. Though not a true pyramid, its multi-layered construction and spiritual significance evoke a similar sense of ancient power and reverence.",
+      "subtype": "Pyramids",
+      "address": "Oke-Sapati, Challenge Area, Ibadan South West, Ibadan",
+      "visiting_hours": "08:00-17:00 (restricted access)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1629854740134-436d65f5a8a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzMXx8YWZyaWNhbiUyMHNhY3JlZCUyMGdyb3ZlfGVufDB8fHwxfDE3MDM1NzgyOTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ancestral",
+        "Burial",
+        "Yoruba"
+      ]
+    },
+    {
+      "id": "IB_PY003",
+      "name": "Igbo Olodumare Stepped Altar",
+      "short_description": "A set of naturally formed, gradually ascending rock steps leading to a sacred grove dedicated to Olodumare (God Almighty). The ascent is a symbolic pilgrimage, offering a connection to the divine at each level.",
+      "subtype": "Pyramids",
+      "address": "Off Lagos-Ibadan Expressway, Oluyole, Ibadan South West, Ibadan",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547463286-620215585b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxuZ2VyaWFuJTIwcm9jayUyMGZvcm1hdGlvbnN8ZW58MHx8fHwxNzAzNTc3NzA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Pilgrimage",
+        "Nature",
+        "Divine"
+      ]
+    },
+    {
+      "id": "IB_PY004",
+      "name": "Ibadan Ancient Fortress Terraces",
+      "short_description": "The remnants of ancient defensive terraces built into a hillside, whose layered structure symbolizes strength, protection, and the historical ascendancy of Ibadan. Each terrace holds stories of resilience and strategic wisdom.",
+      "subtype": "Pyramids",
+      "address": "Near Old Bodija Estate, Ibadan North, Ibadan",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 50",
+      "images": "https://images.unsplash.com/photo-1594916962804-9a8979c4c5cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8YW5jaWVudCUyMHN0b25lJTIwd2FsbCUyMGFmcmljYXxlbnwwfHx8fDE3MDM1NzkxNzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Fortress",
+        "History",
+        "Resilience"
+      ]
+    },
+    {
+      "id": "IB_CR001",
+      "name": "Esu's Sacred Junction",
+      "short_description": "A bustling urban crossroads where a traditional Esu shrine has stood for centuries. It is a powerful spiritual focal point where paths converge, representing choice, destiny, and the dynamism of life. Offerings are frequently made here.",
+      "subtype": "Crossroads",
+      "address": "Oke Padre Junction, Foko, Ibadan North West, Ibadan",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1601053424455-83f6f1f4d99c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3fHxuZ2VyaWFuJTIwbWFya2V0fGVufDB8fHwxfDE3MDM1Nzc5MTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Esu",
+        "Destiny",
+        "Yoruba Religion"
+      ]
+    },
+    {
+      "id": "IB_CR002",
+      "name": "Oja Oba Crossroads of Power",
+      "short_description": "The historic confluence of ancient trade routes and administrative pathways in the heart of Ibadan's traditional market. It's a place where royal decrees were once announced and major decisions made, infused with the collective energy of the community.",
+      "subtype": "Crossroads",
+      "address": "Oja'ba Market, Ibadan South East, Ibadan",
+      "visiting_hours": "06:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1601053424455-83f6f1f4d99c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3fHxuZ2VyaWFuJTIwbWFya2V0fGVufDB8fHwxfDE3MDM1Nzc5MTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Market",
+        "History",
+        "Community"
+      ]
+    },
+    {
+      "id": "IB_CR003",
+      "name": "Ita Agbelebu Prayer Point",
+      "short_description": "A significant crossroads where several churches and mosques are situated nearby, making it a spontaneous prayer point for people of different faiths. It symbolizes spiritual convergence and tolerance.",
+      "subtype": "Crossroads",
+      "address": "Ita Agbelebu, Challenge, Ibadan South West, Ibadan",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1601053424455-83f6f1f4d99c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3fHxuZ2VyaWFuJTIwbWFya2V0fGVufDB8fHwxfDE3MDM1Nzc5MTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Interfaith",
+        "Prayer",
+        "Tolerance"
+      ]
+    },
+    {
+      "id": "IB_CR004",
+      "name": "Ori Itan Confluence",
+      "short_description": "A secluded, natural crossroads where two ancient streams converge, forming a serene and powerful location. It's believed to be a meeting point for nature spirits and a place for seeking clear vision and new beginnings.",
+      "subtype": "Crossroads",
+      "address": "Near Eleiyele Dam, Ibadan North West, Ibadan",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549414006-2581699f8d97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw4fHxuZ2VyaWFuJTIwdHJvcGljYWwlMjBwYXRofGVufDB8fHwxfDE3MDM1NzgyNjF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Nature",
+        "Spirituality",
+        "New Beginnings"
+      ]
+    },
+    {
+      "id": "IB_AT001",
+      "name": "Ile Ifa Ase Shrine",
+      "short_description": "An active traditional Ifa temple dedicated to Orunmila, the Orisha of wisdom and divination. It serves as a center for Ifa worship, consultations, and traditional ceremonies, preserving ancient Yoruba spiritual practices.",
+      "subtype": "Ancient Temples",
+      "address": "Off Gate Road, Oje, Ibadan North East, Ibadan",
+      "visiting_hours": "10:00-15:00 (daily rituals), 09:00-17:00 (consultations by appointment)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1610486749021-3e54b5ee84df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxNXx8eW9ydWJhJTIwc2hyaW5lfGVufDB8fHwxfDE3MDM1Nzc3OTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ifa",
+        "Orunmila",
+        "Yoruba"
+      ]
+    },
+    {
+      "id": "IB_AT002",
+      "name": "Ogun's Old Town Grove",
+      "short_description": "A historic grove featuring an ancient shrine to Ogun, the Orisha of iron, war, and creativity. It's one of the oldest active Ogun worship sites in Ibadan, embodying the city's martial and innovative spirit.",
+      "subtype": "Ancient Temples",
+      "address": "Near Kobiowu Layout, Bere, Ibadan South East, Ibadan",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1629854740134-436d65f5a8a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzMXx8YWZyaWNhbiUyMHNhY3JlZCUyMGdyb3ZlfGVufDB8fHwxfDE3MDM1NzgyOTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ogun",
+        "Traditional",
+        "Grove"
+      ]
+    },
+    {
+      "id": "IB_AT003",
+      "name": "Yemoja Riverine Sanctuary",
+      "short_description": "A peaceful sanctuary dedicated to Yemoja, the Mother of Waters, located near a revered river tributary. It is a place of healing, fertility, and spiritual cleansing, reflecting the life-giving essence of water.",
+      "subtype": "Ancient Temples",
+      "address": "Along Odo-Ona River Bank, Apata, Ibadan South West, Ibadan",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549414006-2581699f8d97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw4fHxuZ2VyaWFuJTIwdHJvcGljYWwlMjBwYXRofGVufDB8fHwxfDE3MDM1NzgyNjF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Yemoja",
+        "Water",
+        "Healing"
+      ]
+    },
+    {
+      "id": "IB_AT004",
+      "name": "Oyo's Ancestral Shrine (Ibadan Branch)",
+      "short_description": "An ancient shrine maintained by descendants of the Old Oyo Empire who settled in Ibadan, honoring ancestral figures and upholding the spiritual lineage of their heritage. It represents a vital connection to a broader Yoruba history.",
+      "subtype": "Ancient Temples",
+      "address": "Off Oyo Road, Ojoo, Akinyele, Ibadan North, Ibadan",
+      "visiting_hours": "09:00-16:00 (by appointment)",
+      "entry_fee": "NGN 300",
+      "images": "https://images.unsplash.com/photo-1594916962804-9a8979c4c5cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8YW5jaWVudCUyMHN0b25lJTIwd2FsbCUyMGFmcmljYXxlbnwwfHx8fDE3MDM1NzkxNzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ancestral",
+        "Oyo Empire",
+        "History"
+      ]
+    },
+    {
+      "id": "IB_LB001",
+      "name": "Oja'ba Market's Winding Paths",
+      "short_description": "The intricate and often disorienting network of paths within the ancient Oja'ba market. Navigating these paths is considered a cultural experience, symbolically representing the journey of life, full of unexpected turns and discoveries.",
+      "subtype": "Labyrinths",
+      "address": "Oja'ba Market, Ibadan South East, Ibadan",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1601053424455-83f6f1f4d99c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3fHxuZ2VyaWFuJTIwbWFya2V0fGVufDB8fHwxfDE3MDM1Nzc5MTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Market",
+        "Culture",
+        "Discovery"
+      ]
+    },
+    {
+      "id": "IB_LB002",
+      "name": "Igbo Egungun Sacred Passage",
+      "short_description": "A secluded, winding path leading deep into a sacred grove reserved for Egungun (ancestral masquerade) rituals. The journey along this path is a ritual in itself, preparing participants for connection with the ancestral realm.",
+      "subtype": "Labyrinths",
+      "address": "Off Ring Road, Mobil Estate, Ibadan South West, Ibadan",
+      "visiting_hours": "Restricted, by permission only",
+      "entry_fee": "donation (for rituals)",
+      "images": "https://images.unsplash.com/photo-1549414006-2581699f8d97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw4fHxuZ2VyaWFuJTIwdHJvcGljYWwlMjBwYXRofGVufDB8fHwxfDE3MDM1NzgyNjF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Egungun",
+        "Ancestral",
+        "Ritual Path"
+      ]
+    },
+    {
+      "id": "IB_LB003",
+      "name": "Apena's Hidden Ritual Route",
+      "short_description": "A historically significant, less-known network of ancient paths and alleys used for specific traditional ceremonies and processions by local chiefs. It represents the secretive and intricate nature of traditional governance and spiritual practices.",
+      "subtype": "Labyrinths",
+      "address": "Behind Agodi Gardens, Parliament Road, Ibadan North, Ibadan",
+      "visiting_hours": "Not publicly accessible, historical significance only",
+      "entry_fee": "free (view from periphery)",
+      "images": "https://images.unsplash.com/photo-1594916962804-9a8979c4c5cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8YW5jaWVudCUyMHN0b25lJTIwd2FsbCUyMGFmcmljYXxlbnwwfHx8fDE3MDM1NzkxNzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "History",
+        "Traditional Governance",
+        "Secret Path"
+      ]
+    },
+    {
+      "id": "IB_LB004",
+      "name": "The Seven-Way Path to Orisa Oko",
+      "short_description": "A symbolic seven-forked path leading to a shrine of Orisa Oko (Orisha of Agriculture). Each fork represents a choice or a step in cultivating one's destiny, with the journey culminating in blessings of abundance.",
+      "subtype": "Labyrinths",
+      "address": "Near Eleyele Reservoir, Ibadan North West, Ibadan",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549414006-2581699f8d97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw4fHxuZ2VyaWFuJTIwdHJvcGljYWwlMjBwYXRofGVufDB8fHwxfDE3MDM1NzgyNjF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Orisa Oko",
+        "Destiny",
+        "Agriculture"
+      ]
+    },
+    {
+      "id": "IB_MS001",
+      "name": "Old War-Chief's Stone Circle",
+      "short_description": "A rare circular arrangement of large, naturally occurring stones, believed to be an ancient gathering place for war chiefs and spiritual leaders. It's a site of immense historical and spiritual power, marking significant historical events.",
+      "subtype": "Megalithic Sites",
+      "address": "Near Lalupon, Ona-Ara, Ibadan South East, Ibadan",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1594916962804-9a8979c4c5cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8YW5jaWVudCUyMHN0b25lJTIwd2FsbCUyMGFmcmljYXxlbnwwfHx8fDE3MDM1NzkxNzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ancient Gathering",
+        "Warfare",
+        "Leadership"
+      ]
+    },
+    {
+      "id": "IB_MS002",
+      "name": "Ita Alagba Ancestral Boundary Stones",
+      "short_description": "A series of massive, weathered stones that once demarcated the ancient boundaries of Ibadan's territories. They are considered sacred guardians, imbued with the protective spirits of past generations.",
+      "subtype": "Megalithic Sites",
+      "address": "Along Ibadan-Oyo Road, Moniya, Akinyele, Ibadan North, Ibadan",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547463286-620215585b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxuZ2VyaWFuJTIwcm9jayUyMGZvcm1hdGlvbnN8ZW58MHx8fHwxNzAzNTc3NzA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Boundary",
+        "Ancestral Protection",
+        "History"
+      ]
+    },
+    {
+      "id": "IB_MS003",
+      "name": "Erelu's Healing Boulders",
+      "short_description": "A collection of smooth, large boulders believed to possess healing properties, especially for women seeking fertility or spiritual balance. They are remnants of an ancient sacred space dedicated to female Orishas.",
+      "subtype": "Megalithic Sites",
+      "address": "Near Agodi G.R.A, Ibadan North, Ibadan",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1627521798369-026d36e7686b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8cm9jayUyMG91dGNyb3B8ZW58MHx8fDE3MDM1Nzc3MDd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Healing",
+        "Feminine Divine",
+        "Fertility"
+      ]
+    },
+    {
+      "id": "IB_MS004",
+      "name": "Founding Stone of Idi-Arere",
+      "short_description": "A singular, massive stone at the heart of the ancient Idi-Arere quarter, revered as the 'founding stone' of that community. It's a symbolic anchor, representing stability, heritage, and the enduring spirit of its people.",
+      "subtype": "Megalithic Sites",
+      "address": "Idi-Arere Area, Ibadan South East, Ibadan",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547463286-620215585b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxuZ2VyaWFuJTIwcm9jayUyMGZvcm1hdGlvbnN8ZW58MHx8fHwxNzAzNTc3NzA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Founding",
+        "Community",
+        "Heritage"
+      ]
+    },
+    {
+      "id": "IB_CAS001",
+      "name": "Bower's Tower Sky-Watch Point",
+      "short_description": "The historic Bower's Tower offers panoramic views of Ibadan and its surrounding hills, making it a natural vantage point for observing celestial events. Ancient elders are believed to have used this elevated position for astronomical divination.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Bower's Tower, Oke Are, Ibadan North East, Ibadan",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "NGN 100",
+      "images": "https://images.unsplash.com/photo-1608779603091-a128885b51a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzfHxuZ2VyaWFuJTIwcm9vZnRvcHxlbnwwfHx8fDE3MDM1NzczMzl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Astronomy",
+        "Divination",
+        "Viewpoint"
+      ]
+    },
+    {
+      "id": "IB_CAS002",
+      "name": "Oke-Ade Sunstone Altar",
+      "short_description": "A naturally occurring flat rock altar on Oke-Ade (Crown Hill) where local traditionalists believe the first rays of the rising sun held special spiritual significance. It's used for sunrise rituals and blessings.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Oke-Ade Hill, Ring Road, Ibadan South West, Ibadan",
+      "visiting_hours": "05:30-18:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547463286-620215585b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxuZ2VyaWFuJTIwcm9jayUyMGZvcm1hdGlvbnN8ZW58MHx8fHwxNzAzNTc3NzA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Sunrise",
+        "Ritual",
+        "Blessings"
+      ]
+    },
+    {
+      "id": "IB_CAS003",
+      "name": "Ori Egun Celestial Grove",
+      "short_description": "A secluded grove on a high point where the tree canopy opens up, offering clear views of the night sky. It's believed to be a site where ancestors communicated through celestial signs, particularly during moon cycles.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Near IITA, Moniya, Akinyele, Ibadan North, Ibadan",
+      "visiting_hours": "18:00-06:00 (for observation), 08:00-17:00 (daytime visits)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1518331189196-417163f46f48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxhZnJpY2FuJTIwc3RhcmdhemVyfGVufDB8fHwxfDE3MDM1Nzg1ODB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Night Sky",
+        "Ancestral Communication",
+        "Moon Cycles"
+      ]
+    },
+    {
+      "id": "IB_CAS004",
+      "name": "Ile-Orun Solstice Marker",
+      "short_description": "An ancient, subtly aligned stone marker indicating the summer solstice sunrise. It was likely used by early farmers to track seasons and for agricultural rituals, connecting earth cycles with celestial movements.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Off Ijebu-Ode Road, Ona-Ara, Ibadan South East, Ibadan",
+      "visiting_hours": "06:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594916962804-9a8979c4c5cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8YW5jaWVudCUyMHN0b25lJTIwd2FsbCUyMGFmcmljYXxlbnwwfHx8fDE3MDM1NzkxNzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Solstice",
+        "Agriculture",
+        "Ancient Knowledge"
+      ]
+    },
+    {
+      "id": "IB_CS001",
+      "name": "Ita Eku Cave of Refuge",
+      "short_description": "A small, historically significant cave system that served as a refuge during inter-tribal wars and is believed to offer spiritual protection. It's a site of profound history and a sanctuary for quiet contemplation.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Off Eleyele Road, Jericho, Ibadan North West, Ibadan",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 200",
+      "images": "https://images.unsplash.com/photo-1624451044702-8f6920f01103?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw1fHxuZ2VyaWFuJTIwY2F2ZXxlbnwwfHx8fDE3MDM1NzgwMDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Refuge",
+        "History",
+        "Protection"
+      ]
+    },
+    {
+      "id": "IB_CS002",
+      "name": "Omi-Aro Healing Grotto",
+      "short_description": "A natural rock grotto known for a perennial spring with waters believed to have healing properties. It's a revered sanctuary for those seeking physical and spiritual rejuvenation, dedicated to the spirit of pure waters.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Near Foko Market, Ibadan South West, Ibadan",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549414006-2581699f8d97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw4fHxuZ2VyaWFuJTIwdHJvcGljYWwlMjBwYXRofGVufDB8fHwxfDE3MDM1NzgyNjF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Healing Water",
+        "Spring",
+        "Rejuvenation"
+      ]
+    },
+    {
+      "id": "IB_CS003",
+      "name": "Baba Kekere's Secluded Rock Shelter",
+      "short_description": "A small, ancient rock shelter once used by a revered spiritual elder (Baba Kekere) for deep meditation and vision quests. It offers a quiet, earthy space for profound introspection and connection with inner wisdom.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Off Old Ife Road, Lagelu, Ibadan North East, Ibadan",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547463286-620215585b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxuZ2VyaWFuJTIwcm9jayUyMGZvcm1hdGlvbnN8ZW58MHx8fHwxNzAzNTc3NzA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Meditation",
+        "Vision Quest",
+        "Elder Wisdom"
+      ]
+    },
+    {
+      "id": "IB_CS004",
+      "name": "Ori Oke Ancestral Cave",
+      "short_description": "A sacred cave nestled on a revered hilltop (Ori Oke), believed to be a gateway to the ancestral realm. It's a powerful site for ancestral veneration, communing with the spirits of the departed, and seeking guidance from lineage elders.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Ori Oke Shrine Road, Iwo Road, Ibadan North East, Ibadan",
+      "visiting_hours": "09:00-15:00 (guided visits recommended)",
+      "entry_fee": "NGN 500",
+      "images": "https://images.unsplash.com/photo-1624451044702-8f6920f01103?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw1fHxuZ2VyaWFuJTIwY2F2ZXxlbnwwfHx8fDE3MDM1NzgwMDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ancestral",
+        "Veneration",
+        "Spirit Gateway"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Asaba",
+    "city_id": "2448"
+  },
+  "items": [
+    {
+      "id": "ASACN01",
+      "name": "Marine Quarter Murals",
+      "short_description": "Discover hidden artistic expressions in Asaba's old Marine Quarter, where vibrant murals and painted homes tell local stories. A perfect spot for a colorful photo walk.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Near Marine Quarters, Asaba Waterfront",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1594101833504-20a7b4699564",
+      "tags": [
+        "Street Art",
+        "Local Culture",
+        "Vibrant"
+      ]
+    },
+    {
+      "id": "ASACN02",
+      "name": "Okpanam Road Hues",
+      "short_description": "Stroll along sections of Okpanam Road, where local shops and residences feature lively paint schemes, reflecting the city's dynamic energy. A visual treat for urban explorers.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Okpanam Road, near Abraka Junction",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628109605481-998f48035ed7",
+      "tags": [
+        "Urban Life",
+        "Architecture",
+        "Photo Walk"
+      ]
+    },
+    {
+      "id": "ASACN03",
+      "name": "Local Art Gallery Alley",
+      "short_description": "Explore an unassuming alleyway transformed by local artists, featuring pop-up galleries and painted facades that change with the seasons. A true gem for art lovers.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Off Summit Road, near Government House",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1563273117-915903b2241b",
+      "tags": [
+        "Artistic",
+        "Hidden Gem",
+        "Creative"
+      ]
+    },
+    {
+      "id": "ASACN04",
+      "name": "Umuaji Heritage Houses",
+      "short_description": "Discover the traditional and often brightly painted homes in the Umuaji area, showcasing indigenous architectural styles with a splash of contemporary color.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Umuaji Village, Asaba",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1601614040995-17a783789c0a",
+      "tags": [
+        "Heritage",
+        "Architecture",
+        "Cultural"
+      ]
+    },
+    {
+      "id": "ASAFD01",
+      "name": "Finger Licking Delight (Local Buka)",
+      "short_description": "Experience authentic Nigerian cuisine at a beloved local buka. Savor flavorful dishes like Banga soup, Ofe Nsala, and starch in a bustling, genuine atmosphere.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Near Ogbeogonogo Market, Asaba",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1589311494639-502a501a4e10",
+      "tags": [
+        "Local Food",
+        "Nigerian Cuisine",
+        "Authentic Experience"
+      ]
+    },
+    {
+      "id": "ASAFD02",
+      "name": "The Waterfront Grill & Bar",
+      "short_description": "Enjoy freshly grilled seafood and local beverages with a refreshing view of the River Niger. Perfect for a relaxing evening and stunning sunset photos.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Anwai River Waterfront, Asaba",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1598425232877-e6f662a87c12",
+      "tags": [
+        "River View",
+        "Seafood",
+        "Sunset Dining"
+      ]
+    },
+    {
+      "id": "ASAFD03",
+      "name": "Mama G's Kitchen",
+      "short_description": "A popular spot renowned for its generous portions of traditional meals, especially Jollof rice and pounded yam with various stews. A true taste of home-cooked Nigerian dishes.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Summit Road, Asaba",
+      "best_time": "Lunch",
+      "images": "https://images.unsplash.com/photo-1626084666993-9c8e88f1ed1a",
+      "tags": [
+        "Comfort Food",
+        "Jollof Rice",
+        "Local Favorite"
+      ]
+    },
+    {
+      "id": "ASAFD04",
+      "name": "Delta Coffee House",
+      "short_description": "A modern, cozy cafe offering locally sourced coffee, pastries, and light bites. A relaxed environment perfect for work, meetings, or a quiet break.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Along Nnebisi Road, Asaba",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1522079085352-78d91c1214bb",
+      "tags": [
+        "Coffee",
+        "Cafe Culture",
+        "Modern Vibe"
+      ]
+    },
+    {
+      "id": "ASAHA01",
+      "name": "Old Government Quarters Passage",
+      "short_description": "Explore the serene, tree-lined passages within the old government quarters, offering a glimpse into Asaba's colonial past and tranquil green spaces.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Behind Government House Complex",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1517454238541-026850c18d9e",
+      "tags": [
+        "Historical",
+        "Serene",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "ASAHA02",
+      "name": "Artisans' Workshop Courtyard",
+      "short_description": "Discover a lively courtyard where local artisans craft traditional wares, from pottery to fabrics. Capture the intricate details of their craft and vibrant community spirit.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Off Ibusa Road, behind local workshops",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1533038891636-f033107026e6",
+      "tags": [
+        "Craftsmanship",
+        "Local Art",
+        "Community"
+      ]
+    },
+    {
+      "id": "ASAHA03",
+      "name": "The Igbo Palace Secret Garden",
+      "short_description": "A beautifully maintained, secluded garden within a traditional Igbo compound, offering a peaceful escape and stunning traditional sculptures amidst lush greenery.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Within a traditional compound, Ogboli-Asaba",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549429188-f58c49e17b34",
+      "tags": [
+        "Traditional",
+        "Sculpture",
+        "Peaceful"
+      ]
+    },
+    {
+      "id": "ASAHA04",
+      "name": "Market Backstreet Labyrinth",
+      "short_description": "Venture into the narrow, winding backstreets behind the main market, revealing hidden food stalls, local gossip, and the raw, unfiltered charm of Asaba.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Behind Ogbeogonogo Market",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1620894220317-a06803274291",
+      "tags": [
+        "Street Life",
+        "Authentic",
+        "Urban Exploration"
+      ]
+    },
+    {
+      "id": "ASARV01",
+      "name": "Grand Hotel Asaba Sky Lounge",
+      "short_description": "Ascend to the Sky Lounge for panoramic views of Asaba's cityscape, the Niger Bridge, and the meandering river. An elegant spot for sunset cocktails.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Grand Hotel Asaba, Anwai Road",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1610419080644-88981f33f66f",
+      "tags": [
+        "Cityscape",
+        "Sunset",
+        "Luxury"
+      ]
+    },
+    {
+      "id": "ASARV02",
+      "name": "City Centre Balcony Perch",
+      "short_description": "A lesser-known balcony atop a central commercial building offering unique street-level views blending into the horizon. Capture the city's pulse from above.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Near Koka Junction, Asaba",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582239401490-d4638ecf84a4",
+      "tags": [
+        "Urban",
+        "Overlook",
+        "Street Photography"
+      ]
+    },
+    {
+      "id": "ASARV03",
+      "name": "Delta State Secretariat Rooftop",
+      "short_description": "From the vantage point of the Delta State Secretariat complex, enjoy expansive views of the surrounding government architecture and parts of the city.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Delta State Secretariat Complex",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1555547432-5a9829e2469a",
+      "tags": [
+        "Architectural",
+        "Government",
+        "Cityscape"
+      ]
+    },
+    {
+      "id": "ASARV04",
+      "name": "The Landmark Viewpoint",
+      "short_description": "A popular spot among locals for its elevated position offering clear lines of sight to important city landmarks and the bustling activity below.",
+      "subtype": "Rooftop Views",
+      "location_hint": "On a hill overlooking Summit Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1562916174-a4b771e84a5a",
+      "tags": [
+        "Panorama",
+        "Landmarks",
+        "City Life"
+      ]
+    },
+    {
+      "id": "ASAFG01",
+      "name": "Asaba Botanical Garden Oasis",
+      "short_description": "A serene escape filled with indigenous flora and beautifully manicured flowerbeds. Perfect for nature photography and peaceful strolls.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Off Nnebisi Road, Asaba",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563725804362-e6e76d540243",
+      "tags": [
+        "Nature",
+        "Gardens",
+        "Photography"
+      ]
+    },
+    {
+      "id": "ASAFG02",
+      "name": "Government House Rose Garden",
+      "short_description": "A carefully cultivated rose garden within the Government House premises, featuring a variety of colorful blooms and a tranquil setting. Access might be restricted, but worth inquiring.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Government House, Asaba",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1588636402636-930b5d92e88a",
+      "tags": [
+        "Floral",
+        "Official Residence",
+        "Serene"
+      ]
+    },
+    {
+      "id": "ASAFG03",
+      "name": "Local Nursery & Plant Market",
+      "short_description": "Explore a bustling local market specializing in flowers and ornamental plants. A vibrant display of nature's beauty and a chance to buy unique souvenirs.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Along Illah Road, Asaba",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1577777174620-1b2c453531b4",
+      "tags": [
+        "Market",
+        "Plants",
+        "Vibrant"
+      ]
+    },
+    {
+      "id": "ASAFG04",
+      "name": "Asaba Cenotaph Green Spaces",
+      "short_description": "The landscaped gardens around the Asaba Cenotaph offer well-maintained lawns, ornamental plants, and a peaceful atmosphere for reflection and photography.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Asaba Cenotaph, Nnebisi Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1600866504944-a0329b3a0a38",
+      "tags": [
+        "Memorial",
+        "Green Space",
+        "Peaceful"
+      ]
+    },
+    {
+      "id": "ASASD01",
+      "name": "Niger River Sandbanks",
+      "short_description": "While Asaba lacks true desert dunes, the expansive sandbanks that emerge along the Niger River during the dry season offer unique sandy landscapes for exploration and photography.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Along the Niger River banks, near the Bridge Head",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1547806509-c12e557b6f6f",
+      "tags": [
+        "River Landscape",
+        "Natural Feature",
+        "Unique Terrain"
+      ]
+    },
+    {
+      "id": "ASASD02",
+      "name": "Asaba Dry Season Riverbed",
+      "short_description": "During periods of low water, parts of the Niger Riverbed become exposed, revealing vast stretches of sand and sediment, creating a temporary, almost desert-like expanse.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Areas accessible from Anwai River crossing points",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1522854970624-a745507851d2",
+      "tags": [
+        "Seasonal",
+        "Geological",
+        "River Exploration"
+      ]
+    },
+    {
+      "id": "ASASD03",
+      "name": "Local Sand Mining Pits",
+      "short_description": "Discover the fascinating, though industrial, landscapes created by local sand mining operations. The excavated pits and mounds of sand offer stark, dramatic photographic opportunities.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Outer areas of Asaba, towards Oko-Amakom",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1532884982601-576856080b06",
+      "tags": [
+        "Industrial",
+        "Abstract",
+        "Unique Perspective"
+      ]
+    },
+    {
+      "id": "ASASD04",
+      "name": "Waterfront Sandy Shores",
+      "short_description": "Small, isolated sandy shores along the Niger River, often near fishing communities, provide a tranquil setting reminiscent of a mini-beach, albeit riverine.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Near Oko-Amakom fishing villages",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1520117094043-a6020573e878",
+      "tags": [
+        "Riverine",
+        "Tranquil",
+        "Sunset Spot"
+      ]
+    },
+    {
+      "id": "ASABCV01",
+      "name": "Niger River Promenade",
+      "short_description": "Stroll along the newly developed promenade overlooking the majestic Niger River. Enjoy refreshing breezes, scenic views, and local vendors.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Asaba Waterfront, near the Niger Bridge",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1616782299772-2394622b1000",
+      "tags": [
+        "Riverfront",
+        "Scenic",
+        "Relaxing"
+      ]
+    },
+    {
+      "id": "ASABCV02",
+      "name": "Otuogo River Beach",
+      "short_description": "A popular local spot, Otuogo offers sandy shores along the Niger River where locals gather for relaxation, boat rides, and riverside picnics.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Otuogo Community, Asaba",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1536761596489-082260ffc31f",
+      "tags": [
+        "River Fun",
+        "Picnic Spot",
+        "Local Hangout"
+      ]
+    },
+    {
+      "id": "ASABCV03",
+      "name": "Fishermen's Wharf Sunrise",
+      "short_description": "Witness the serene beauty of the Niger River at dawn as local fishermen prepare their boats. A picturesque scene for early risers and photographers.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Along the waterfront, near the New Market",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1518774786357-3a1378819030",
+      "tags": [
+        "Sunrise",
+        "Fishing",
+        "Tranquil"
+      ]
+    },
+    {
+      "id": "ASABCV04",
+      "name": "Anwai River Lagoon Views",
+      "short_description": "Explore the calm, lush views around the Anwai River lagoon, a tributary of the Niger, offering a peaceful and green watery landscape.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Anwai River, beyond Delta State University Teaching Hospital",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1606709772590-705a30ed97c6",
+      "tags": [
+        "Lagoon",
+        "Nature",
+        "Greenery"
+      ]
+    },
+    {
+      "id": "ASAHS01",
+      "name": "Grand Hotel Asaba Luxury Escape",
+      "short_description": "Indulge in luxury at Asaba's premier hotel, offering exquisite rooms, a sprawling pool, and fine dining with a view. A lavish experience for discerning travelers.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Anwai Road, Asaba",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9",
+      "tags": [
+        "Luxury",
+        "Hotel",
+        "Relaxation"
+      ]
+    },
+    {
+      "id": "ASAHS02",
+      "name": "Orchid Hotels Asaba Retreat",
+      "short_description": "A modern boutique hotel known for its elegant design, comfortable amenities, and excellent service. Perfect for both business and leisure stays.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "DBS Road, Asaba",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1576426868512-4d2c803362a7",
+      "tags": [
+        "Boutique",
+        "Modern",
+        "Comfort"
+      ]
+    },
+    {
+      "id": "ASAHS03",
+      "name": "Villa Toscana Asaba Charming Stay",
+      "short_description": "A unique hotel designed with Italian-inspired architecture, offering a distinctive charm, lush gardens, and a tranquil atmosphere away from the city bustle.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Off Asaba-Okpanam Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1565576136511-d1c9e8e7c10b",
+      "tags": [
+        "Architecture",
+        "Themed Stay",
+        "Gardens"
+      ]
+    },
+    {
+      "id": "ASAHS04",
+      "name": "Best Western Plus Delta Hotel Asaba",
+      "short_description": "A reliable and comfortable international chain hotel providing excellent facilities, a friendly ambiance, and a convenient location for exploring Asaba.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Mariam Babangida Way, Asaba",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+      "tags": [
+        "International Chain",
+        "Comfort",
+        "Convenient"
+      ]
+    },
+    {
+      "id": "ASAMB01",
+      "name": "Ogbeogonogo Modern Market",
+      "short_description": "The largest and most prominent market in Asaba, offering everything from fresh produce and spices to textiles and electronics. A sensory overload and photography heaven.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Nnebisi Road, Central Asaba",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/3/36/Nigerian_Market.jpg",
+      "tags": [
+        "Bustling",
+        "Local Products",
+        "Cultural Experience"
+      ]
+    },
+    {
+      "id": "ASAMB02",
+      "name": "Asaba Arts & Crafts Village",
+      "short_description": "A specialized market dedicated to local arts and crafts. Find unique handcrafted souvenirs, traditional sculptures, beadwork, and textiles.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Off Summit Road, near the Cultural Centre",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1533038891636-f033107026e6",
+      "tags": [
+        "Handicrafts",
+        "Souvenirs",
+        "Artisan"
+      ]
+    },
+    {
+      "id": "ASAMB03",
+      "name": "Abraka Junction Street Stalls",
+      "short_description": "Experience the informal charm of street vendors around Abraka Junction, selling street food, fresh fruits, and daily necessities. A lively snapshot of local life.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Abraka Junction, Asaba",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628109605481-998f48035ed7",
+      "tags": [
+        "Street Food",
+        "Local Life",
+        "Informal Market"
+      ]
+    },
+    {
+      "id": "ASAMB04",
+      "name": "Building Materials Market",
+      "short_description": "An intriguing and often overlooked market specializing in building materials, offering a different perspective on local commerce and resourcefulness.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Along Asaba-Onitsha Expressway",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1579227568169-21919830f04e",
+      "tags": [
+        "Specialized Market",
+        "Urban Industry",
+        "Unique Subject"
+      ]
+    },
+    {
+      "id": "ASABO01",
+      "name": "River Niger Bridge Asaba",
+      "short_description": "An iconic landmark connecting Asaba to Onitsha, offering breathtaking views of the majestic Niger River and busy river traffic. Perfect for panoramic shots, especially at sunset.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Bridge Head, Asaba side",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Niger_Bridge.jpg/1280px-Niger_Bridge.jpg",
+      "tags": [
+        "Iconic Landmark",
+        "Panoramic Views",
+        "Sunset Photography"
+      ]
+    },
+    {
+      "id": "ASABO02",
+      "name": "Niger Bridge Pedestrian Walkway",
+      "short_description": "Experience the bridge up close by walking its pedestrian path. Feel the river breeze and observe the daily life on and around Africa's third-longest bridge.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Pedestrian access, Asaba side of Niger Bridge",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niger_Bridge_3.jpg/1024px-Niger_Bridge_3.jpg",
+      "tags": [
+        "Engineering Marvel",
+        "Walkway",
+        "River Traffic"
+      ]
+    },
+    {
+      "id": "ASABO03",
+      "name": "Koka Junction Overhead Bridge",
+      "short_description": "A major interchange with an elevated bridge offering a dynamic overlook of bustling city traffic, local markets, and the vibrant urban sprawl of Asaba.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Koka Junction, Asaba-Benin Expressway",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1543329241-e9451996f011",
+      "tags": [
+        "Urban Landscape",
+        "Traffic",
+        "City Overlook"
+      ]
+    },
+    {
+      "id": "ASABO04",
+      "name": "Government House Hill Viewpoint",
+      "short_description": "An elevated position offering a serene viewpoint of parts of Asaba's residential areas and administrative buildings, framed by lush greenery.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Hilltop near Government House",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1601614040995-17a783789c0a",
+      "tags": [
+        "Green View",
+        "Residential",
+        "Serene"
+      ]
+    }
+  ]
+}

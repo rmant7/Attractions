@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Gombe",
+    "city_id": "2452"
+  },
+  "items": [
+    {
+      "id": "GOMP001",
+      "name": "Gombe Star Explorers Dome",
+      "short_description": "An immersive digital planetarium offering educational shows about stars, planets, and galaxies, tailored for young astronomers. Kids can lie back and watch the cosmos unfold.",
+      "subtype": "Planetariums for Kids",
+      "address": "Federal Low-Cost Housing Estate, Along Dukku Road, Gombe, Gombe State.",
+      "opening_hours": "09:30-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594950337672-132d08a50616?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHxraWRzJTIwcGxhbmV0YXJpdW18ZW58MHx8fHwxNzAzNTg3NDAyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "space exploration",
+        "education",
+        "stars"
+      ]
+    },
+    {
+      "id": "GOMP002",
+      "name": "Cosmos Kids Planetarium",
+      "short_description": "Engage in interactive exhibits and virtual tours of the solar system. This planetarium focuses on making complex astronomical concepts accessible and fun for children through engaging visuals.",
+      "subtype": "Planetariums for Kids",
+      "address": "Near Gombe State University, Tudun Wada, Gombe, Gombe State.",
+      "opening_hours": "10:00-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628163539075-80252b47b4d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwzfHxraWRzJTIwcGxhbmV0YXJpdW18ZW58MHx8fHwxNzAzNTg3NDAyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "solar system",
+        "learning",
+        "interactive"
+      ]
+    },
+    {
+      "id": "GOMP003",
+      "name": "Galaxy Gombe Junior",
+      "short_description": "A state-of-the-art dome theatre where kids can embark on guided space missions. Special programs include meteor showers simulations and alien encounter stories designed for young imaginations.",
+      "subtype": "Planetariums for Kids",
+      "address": "Opposite Federal Teaching Hospital Gombe, New GRA, Gombe, Gombe State.",
+      "opening_hours": "09:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616226149861-f3b3d16223a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw0fHxraWRzJTIwcGxhbmV0YXJpdW18ZW58MHx8fHwxNzAzNTg3NDAyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "space missions",
+        "virtual reality",
+        "adventure"
+      ]
+    },
+    {
+      "id": "GOMP004",
+      "name": "Astro-Adventures Hub",
+      "short_description": "Combines a small planetarium with hands-on science exhibits. Children can build mini-rockets, explore moon rocks, and discover the wonders of the universe in a playful environment.",
+      "subtype": "Planetariums for Kids",
+      "address": "Behind Gombe International Hotel, Investment Layout, Gombe, Gombe State.",
+      "opening_hours": "10:30-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1543087260-eb26c91a0c4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHxraWRzJTIwcGxhbmV0YXJpdW18ZW58MHx8fHwxNzAzNTg3NDAyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "science exhibits",
+        "rockets",
+        "universe"
+      ]
+    },
+    {
+      "id": "GOMAG001",
+      "name": "Gombe Treasure Trail",
+      "short_description": "An outdoor scavenger hunt across a themed park, challenging kids to solve riddles and follow clues to find hidden treasures. Perfect for groups and birthday parties.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Along Bauchi Road, Near Gombe Emirates Palace, Gombe, Gombe State.",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1588611183354-934d402b8006?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHxzY2F2ZW5nZXIlMjBodW50JTIwa2lkc3xlbnwwfHx8fDE3MDM1ODc1NTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "scavenger hunt",
+        "outdoor",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "GOMAG002",
+      "name": "Safari Quest Challenge",
+      "short_description": "Navigate through a jungle-themed obstacle course with puzzles and challenges, pretending to be a wildlife explorer. Kids can earn badges for completing various tasks.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Behind Gombe International Market, Pantami, Gombe, Gombe State.",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628172904537-b4d6e902e4d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwzfHxraWRzJTIwb2JzdGFjbGUlMjBjb3Vyc2V8ZW58MHx8fDE3MDM1ODc1NTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "obstacle course",
+        "jungle theme",
+        "exploration"
+      ]
+    },
+    {
+      "id": "GOMAG003",
+      "name": "Lost Temple of Kaltungo",
+      "short_description": "An indoor adventure game where children solve ancient mysteries and decipher hieroglyphs to escape a 'lost temple.' Features light and sound effects for an immersive experience.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Gombe-Yola Road, Near Kaltungo Junction, Gombe, Gombe State.",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1626880054593-36c84c6e9491?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw2fHxlc2NhcGUlMjByb29tJTIwa2lkc3xlbnwwfHx8fDE3MDM1ODc1NTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "escape game",
+        "mystery",
+        "indoor"
+      ]
+    },
+    {
+      "id": "GOMAG004",
+      "name": "Secret Garden Escape",
+      "short_description": "A whimsical outdoor escape room experience set in a beautiful garden. Kids work together to find clues and unlock the secrets of the magical garden before time runs out.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Gombe-Biu Road, Opposite Gombe State University, Gombe, Gombe State.",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510425026210-252f8623519c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw3fHxzZWNyZXQlMjBnYXJkZW4lMjBraWRzJTIwYWR2ZW50dXJlfGVufDB8fHx8MTcwMzU4NzU1Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "garden",
+        "riddles",
+        "outdoor escape"
+      ]
+    },
+    {
+      "id": "GOMZ001",
+      "name": "Gombe Mini Zoo & Farm",
+      "short_description": "A charming local attraction featuring a variety of domestic animals and some exotic birds. Kids can enjoy feeding sessions and learn about animal care.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Near Tunfure Village, Gombe-Bauchi Road, Gombe, Gombe State.",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1632863920958-f9e4367f394c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHxwZXR0aW5nJTIwem9vJTIwa2lkc3xlbnwwfHx8fDE3MDM1ODc2NzR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "farm animals",
+        "birds",
+        "animal care"
+      ]
+    },
+    {
+      "id": "GOMZ002",
+      "name": "Savannah Petting Friends",
+      "short_description": "A unique petting zoo experience with animals native to the savanna, like miniature goats, rabbits, and friendly tortoises. Supervised interactions and photo opportunities are available.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Gombe-Dukku Road, Opposite Gombe State Ministry of Education, Gombe, Gombe State.",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1598075308670-36a877dfb81f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwzfHxwZXR0aW5nJTIwem9vJTIwa2lkc3xlbnwwfHx8fDE3MDM1ODc2NzR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "savanna animals",
+        "interaction",
+        "education"
+      ]
+    },
+    {
+      "id": "GOMZ003",
+      "name": "Wildlife Wonders Haven",
+      "short_description": "Dedicated to small wildlife conservation and education, this center allows children to observe various small mammals, reptiles, and birds in naturalistic habitats.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Along Kashere Road, Near Gombe Federal University Kashere, Gombe, Gombe State.",
+      "opening_hours": "09:30-15:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563297127-6f13459e74d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHxtaW5pJTIwem9vJTIwa2lkc3xlbnwwfHx8fDE3MDM1ODc2NzR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "conservation",
+        "wildlife",
+        "reptiles"
+      ]
+    },
+    {
+      "id": "GOMZ004",
+      "name": "Animal Kingdom Gombe Kids",
+      "short_description": "A family-friendly animal park focusing on native Nigerian fauna. It offers guided tours, animal shows, and a designated petting area for supervised interaction with gentle creatures.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Gombe-Biu Road, Before Ashaka Cement Company, Gombe, Gombe State.",
+      "opening_hours": "08:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621287950796-0158ed69e710?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw3fHxpZ2JvJTIwem9vJTIwa2lkc3xlbnwwfHx8fDE3MDM1ODc2NzR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Nigerian fauna",
+        "animal shows",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "GOMC001",
+      "name": "Gombe Magical Circus",
+      "short_description": "A thrilling family circus featuring acrobats, clowns, magicians, and animal acts (ethical ones). Prepare for gasps and laughter with every spectacular performance under the big top.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Event Grounds, Along NTA Road, Off Bauchi Road, Gombe, Gombe State.",
+      "opening_hours": "18:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1590494498305-64d1f2a2491b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHxjaXJjdXMlMjBraWRzfGVufDB8fHx8MTcwMzU4NzgxNnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "acrobatics",
+        "magic show",
+        "family entertainment"
+      ]
+    },
+    {
+      "id": "GOMC002",
+      "name": "Kaltungo Puppet Palace",
+      "short_description": "An enchanting puppet theater showcasing traditional Nigerian folk tales and modern children's stories. Engaging live performances with beautifully crafted marionettes and hand puppets.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Cultural Center, Near Government House, Gombe, Gombe State.",
+      "opening_hours": "14:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1588611183354-934d402b8006?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwyfHB1cHBldCUyMHRoZWF0ZXIlMjBraWRzfGVufDB8fHx8MTcwMzU4NzgxNnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "puppet show",
+        "folk tales",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "GOMC003",
+      "name": "Gombe Funfair & Acrobatics",
+      "short_description": "A vibrant funfair with small rides, games, and regular street acrobatics and juggling performances. Enjoy a festive atmosphere with delicious snacks and thrilling acts.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Public Square, Opposite Gombe Main Market, Gombe, Gombe State.",
+      "opening_hours": "16:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522066807-68b209d6c708?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw0fHxmYWlyZ3JvdW5kJTIwYWNyb2JhdGljc3xlbnwwfHx8fDE3MDM1ODc4MTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "funfair",
+        "acrobatics",
+        "carnival games"
+      ]
+    },
+    {
+      "id": "GOMC004",
+      "name": "Storyland Marionette Show",
+      "short_description": "Delightful performances featuring intricate marionettes bringing classic and original stories to life. A charming and intimate theater experience perfect for younger children.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Children's Library Complex, Tunfure GRA, Gombe, Gombe State.",
+      "opening_hours": "15:00-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579783900828-5698b61c9431?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw2fHB1cHBldCUyMHRoZWF0ZXIlMjBraWRzfGVufDB8fHx8MTcwMzU4NzgxNnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marionettes",
+        "classic stories",
+        "theater"
+      ]
+    },
+    {
+      "id": "GOMF001",
+      "name": "Gombe Green Farm Adventures",
+      "short_description": "Experience life on a working farm! Kids can participate in planting, harvesting, and feeding farm animals. Educational and hands-on activities make agriculture fun.",
+      "subtype": "Farm Attractions",
+      "address": "Along Gombe-Potiskum Road, Kwami LGA, Gombe State.",
+      "opening_hours": "08:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628082695503-4f932f9958e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHxkZWx0YSUyMGZhcm0lMjBraWRzfGVufDB8fHx8MTcwMzU4Nzk1OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "agriculture",
+        "farm animals",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "GOMF002",
+      "name": "Harvest Hues Ranch",
+      "short_description": "A picturesque ranch offering pony rides, hayrides, and opportunities to pick seasonal fruits and vegetables. Enjoy the fresh air and rural charm of Gombe.",
+      "subtype": "Farm Attractions",
+      "address": "Dukku Road Extension, Near Gombe Airstrip, Gombe, Gombe State.",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1574581408892-74d306263539?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwzMHx8ZmFybSUyMGF0dHJhY3Rpb25zJTIwa2lkc3xlbnwwfHx8fDE3MDM1ODc5NTh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "pony rides",
+        "hayrides",
+        "fruit picking"
+      ]
+    },
+    {
+      "id": "GOMF003",
+      "name": "Little Farmers Eco Park",
+      "short_description": "An eco-friendly farm park focused on sustainable farming practices. Kids learn about composting, organic gardening, and the importance of biodiversity through interactive displays.",
+      "subtype": "Farm Attractions",
+      "address": "Along NAFRC Road, Opp. Gombe State Polytechnic, Gombe, Gombe State.",
+      "opening_hours": "08:30-15:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628189726207-6d654523c10a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw2fGZhcm0lMjBhZ3JpY3VsdHVyZSUyMGtpZHN8ZW58MHx8fDE3MDM1ODc5NTh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "eco-friendly",
+        "gardening",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "GOMF004",
+      "name": "Animal Barn & Tractor Rides",
+      "short_description": "A lively barnyard where children can meet and feed various farm animals. The highlight is a fun tractor ride around the fields, offering scenic views and a taste of rural life.",
+      "subtype": "Farm Attractions",
+      "address": "Gombe-Yola Road, Dadin Kowa, Gombe State.",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1620320627725-d91836109315?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw0fHxraWRzJTIwdHJhY3RvciUyMHJpZGVzfGVufDB8fHx8MTcwMzU4Nzk1OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "barnyard",
+        "tractor ride",
+        "animal feeding"
+      ]
+    },
+    {
+      "id": "GOMFT001",
+      "name": "Gombe Enchanted Forest",
+      "short_description": "Wander through a magical forest filled with characters from classic fairy tales. Discover hidden paths, magical fountains, and storytelling sessions under ancient trees.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Adjacent to Gombe City Gate, Along Biu Road, Gombe, Gombe State.",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1518066000714-cdcb6790da40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHxlbmNoYW50ZWQlMjBmb3Jlc3QlMjBraWRzfGVufDB8fHx8MTcwMzU4ODEwNXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "magical forest",
+        "storytelling",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "GOMFT002",
+      "name": "Princess Palace Gardens",
+      "short_description": "A beautiful park designed for aspiring princesses and knights, featuring elegant gardens, a small castle for dress-up, and meet-and-greet opportunities with beloved fairy tale royalty.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Tunfure GRA Extension, Near Gombe Specialist Hospital, Gombe, Gombe State.",
+      "opening_hours": "09:30-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1610486824967-7a5448375498?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHxwcmFuY2VzcyUyMGdhcmRlbnN8ZW58MHx8fHwxNzAzNTg4MTA1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "princesses",
+        "castle",
+        "dress-up"
+      ]
+    },
+    {
+      "id": "GOMFT003",
+      "name": "Dragon's Lair Adventure Park",
+      "short_description": "An exciting fairy tale park for the more adventurous, featuring mild roller coasters, a dragon-themed maze, and interactive challenges to 'defeat' mythical creatures.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Along Gombe-Yola Bypass, Adjacent to Gombe Airport, Gombe, Gombe State.",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549487928-8673dd3832c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw3fHxkcmFnb24lMjB0aGVtZSUyMHBhcmtzJTIwa2lkc3xlbnwwfHx8fDE3MDM1ODgxMDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "dragons",
+        "mazes",
+        "adventure rides"
+      ]
+    },
+    {
+      "id": "GOMFT004",
+      "name": "Whispering Woods Storyland",
+      "short_description": "A serene and interactive park where classic children's stories come to life through animated displays, gentle rides, and character performances. Ideal for younger children.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Near Gombe State Specialist Hospital, Tumfure, Gombe, Gombe State.",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1606553258836-39df91b5c468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwyfHxmYWlyeSUyMHRhbGUlMjBwYXJrJTIwa2lkc3xlbnwwfHx8fDE3MDM1ODgxMDV8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animated stories",
+        "gentle rides",
+        "young children"
+      ]
+    },
+    {
+      "id": "GOMW001",
+      "name": "Gombe Splash Zone",
+      "short_description": "A fantastic water park featuring multiple slides, splash pads, and a lazy river designed for all ages, with dedicated areas for toddlers and older children.",
+      "subtype": "Water Parks for Kids",
+      "address": "Along Bauchi Road, Opposite Gombe International Hotel, Gombe, Gombe State.",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563220790-254e2ac50a7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHxkZWx0YSUyMHdhdGVyJTIwcGFyayUyMGtpZHN8ZW58MHx8fHwxNzAzNTg4MjQ3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water slides",
+        "splash pad",
+        "lazy river"
+      ]
+    },
+    {
+      "id": "GOMW002",
+      "name": "Tropical Aqua Kids Park",
+      "short_description": "Immerse yourselves in a tropical-themed water playground with small slides, tipping buckets, and interactive water jets. Lifeguards ensure a safe and fun experience.",
+      "subtype": "Water Parks for Kids",
+      "address": "Near Federal College of Education (Technical), Gombe-Biu Road, Gombe, Gombe State.",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596773344605-728ce89a31a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwyfHxraWRzJTIwd2F0ZXIlMjBwbGF5Z3JvdW5kfGVufDB8fHx8MTcwMzU4ODYyOXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "tropical theme",
+        "water playground",
+        "safe fun"
+      ]
+    },
+    {
+      "id": "GOMW003",
+      "name": "Oasis Lagoon Fun",
+      "short_description": "A serene water park with a large shallow lagoon for swimming, small gentle slides, and shaded relaxation areas. Ideal for families with very young children.",
+      "subtype": "Water Parks for Kids",
+      "address": "Opposite Gombe State University, Bojude Road, Gombe, Gombe State.",
+      "opening_hours": "10:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563220790-254e2ac50a7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwzMHx8a2lkcyUyMHdhbGxvdyUyMGxhZ29vbnxlbnwwfHx8fDE3MDM1ODg0MTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "shallow lagoon",
+        "gentle slides",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "GOMW004",
+      "name": "Desert Rivers Water Play",
+      "short_description": "Experience unique water features mimicking desert rivers and oases. This park offers interactive splash zones, water cannons, and a themed splash pad for cooling off.",
+      "subtype": "Water Parks for Kids",
+      "address": "Gombe-Jos Road, Near Gombe City Centre, Gombe, Gombe State.",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1621644026569-b5f7e09968a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw0fHxkZXNlcnQlMjB3YXRlcnBhcmt8ZW58MHx8fDE3MDM1ODgyNDd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "desert theme",
+        "water cannons",
+        "interactive play"
+      ]
+    },
+    {
+      "id": "GOMT001",
+      "name": "Gombe Kiddie Wonderland",
+      "short_description": "A classic theme park filled with gentle rides, carousels, and fun houses suitable for young children. Enjoy a day of simple joys and colorful attractions.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Along Gombe-Bauchi Expressway, Near Gombe Airport, Gombe, Gombe State.",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1502477341598-1e42775f0a3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHxraWRzJTIwdGhlbWUlMjBwYXJrfGVufDB8fHx8MTcwMzU4ODQyOHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "gentle rides",
+        "carousels",
+        "fun houses"
+      ]
+    },
+    {
+      "id": "GOMT002",
+      "name": "Gombe Grand Adventures",
+      "short_description": "An exciting theme park featuring medium-thrill rides, interactive zones, and live entertainment. Designed for slightly older children and adventurous families.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Gombe Industrial Layout, Along Gombe-Biu Road, Gombe, Gombe State.",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549487928-8673dd3832c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw0fHxraWRzJTIwdGhlbWUlMjBwYXJrfGVufDB8fHx8MTcwMzU4ODQyOHww&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "thrill rides",
+        "live shows",
+        "adventure"
+      ]
+    },
+    {
+      "id": "GOMT003",
+      "name": "Future City Funzone",
+      "short_description": "A futuristic theme park with virtual reality attractions, robotic displays, and science-themed rides. Kids can explore innovation and technology in a playful setting.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Opposite Federal Secretariat Complex, GRA, Gombe, Gombe State.",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549487928-8673dd3832c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwzMnx8ZnV0dXJpc3RpYyUyMHRoZW1lJTIwcGFyayUyMGtpZHN8ZW58MHx8fHwxNzAzNTg4NDI4fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "virtual reality",
+        "robotics",
+        "technology"
+      ]
+    },
+    {
+      "id": "GOMT004",
+      "name": "Fantasy Island Gombe",
+      "short_description": "A diverse theme park featuring distinct themed zones like a pirate island, a dinosaur land, and a magical forest. Each zone offers unique rides and attractions.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Gombe-Yola Road, Dadin Kowa Dam Area, Gombe State.",
+      "opening_hours": "10:30-18:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596773344605-728ce89a31a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw3fHxkYW5kb3R5ZSUyMGxhbmQlMjB0aGVtZSUyMHBhcmt8ZW58MHx8fDE3MDM1ODg0Mjh8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "themed zones",
+        "dinosaurs",
+        "pirate adventures"
+      ]
+    },
+    {
+      "id": "GOMM001",
+      "name": "Gombe Character Central",
+      "short_description": "A dedicated venue where children can meet, hug, and take photos with popular cartoon characters. Features rotating appearances and scheduled interaction times.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "City Mall Gombe, Opposite Bauchi Park, Gombe, Gombe State.",
+      "opening_hours": "12:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563297127-6f13459e74d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHxjYXJ0b29uJTIwbWVldCUyMGFuZCUyMGdyZWV0JTIwa2lkc3xlbnwwfHx8fDE3MDM1ODg1NzF8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mascot",
+        "photo opportunity",
+        "favorite characters"
+      ]
+    },
+    {
+      "id": "GOMM002",
+      "name": "Toon Town Meet & Greet",
+      "short_description": "Step into a colorful Toon Town where beloved cartoon mascots roam freely, ready to greet and entertain children. Expect impromptu dances and playful interactions.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Children's Amusement Park, Along Kashere Road, Gombe, Gombe State.",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510425026210-252f8623519c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw2fGNhcnRvb24lMjBtYXNjb3QlMjBraWRzJTIwbWVldHxlbnwwfHx8fDE3MDM1ODg1NzF8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mascots",
+        "entertainment",
+        "playful interaction"
+      ]
+    },
+    {
+      "id": "GOMM003",
+      "name": "Superhero Hangout Gombe",
+      "short_description": "Meet your favorite superheroes! Kids can interact with costumed heroes, learn some 'super moves,' and even participate in a mini superhero training session.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Gombe Sports Complex, Pantami Stadium Road, Gombe, Gombe State.",
+      "opening_hours": "13:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1568297629399-bfb7f7396a84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw3fHN1cGVyaGVyb2VzJTIwa2lkc3xlbnwwfHx8fDE3MDM1ODg1NzF8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "superheroes",
+        "role play",
+        "training session"
+      ]
+    },
+    {
+      "id": "GOMM004",
+      "name": "Animania Mascot Meetup",
+      "short_description": "A lively spot where children can high-five and dance with a variety of animal mascots from popular animated shows. Great for energetic kids who love to move.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Gombe Youth Center, Adjacent to Unity Bank, Gombe, Gombe State.",
+      "opening_hours": "11:00-15:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1588611183354-934d402b8006?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxNXxtYXNjb3QlMjBraWRzfGVufDB8fHx8MTcwMzU4ODU3MXww&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animal mascots",
+        "dancing",
+        "free event"
+      ]
+    },
+    {
+      "id": "GOMPL001",
+      "name": "Gombe Funland Playground",
+      "short_description": "A large public playground with swings, slides, climbing structures, and sandpits. Suitable for various age groups, offering ample space for free play and imagination.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Gombe Main Park, Off Palace Road, Gombe, Gombe State.",
+      "opening_hours": "08:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1628172904537-b4d6e902e4d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHxraWRzJTIwcGxheWdyb3VuZHxlbnwwfHx8fDE3MDM1ODg2OTh8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "public park",
+        "free play",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "GOMPL002",
+      "name": "Jubilee Park Adventure Zone",
+      "short_description": "An expansive adventure park with challenging rope courses, zip lines, and multi-level climbing frames. Encourages physical activity and problem-solving in a natural setting.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Along Gombe-Yola Road, Dadin Kowa, Gombe State.",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628172904537-b4d6e902e4d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw0fHxhZHZlbnR1cmUlMjBwYXJrJTIwa2lkc3xlbnwwfHx8fDE3MDM1ODg2OTh8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "rope courses",
+        "zip lines",
+        "climbing"
+      ]
+    },
+    {
+      "id": "GOMPL003",
+      "name": "Urban Jungle Gym",
+      "short_description": "An indoor adventure playground designed like a jungle, with soft play areas, slides, ball pits, and tunnels. Perfect for active play during hot or rainy weather.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "City Centre Mall, Gombe Central, Gombe, Gombe State.",
+      "opening_hours": "10:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628172904537-b4d6e902e4d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw2fGludGVyaW9yJTIwcGxheWdyb3VuZHxlbnwwfHx8fDE3MDM1ODg2OTh8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "indoor play",
+        "soft play",
+        "ball pit"
+      ]
+    },
+    {
+      "id": "GOMPL004",
+      "name": "Gombe Climb & Play Arena",
+      "short_description": "A modern facility offering rock climbing walls (with auto-belay for kids), bouldering sections, and a creative play zone. Promotes physical development and confidence.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Behind Gombe State Secretariat, New GRA, Gombe, Gombe State.",
+      "opening_hours": "09:30-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1543087260-eb26c91a0c4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw4fGtpZHMlMjByb2NrJTIwY2xpbWJpbmd8ZW58MHx8fHwxNzAzNTg4Njk4fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "rock climbing",
+        "bouldering",
+        "physical activity"
+      ]
+    }
+  ]
+}

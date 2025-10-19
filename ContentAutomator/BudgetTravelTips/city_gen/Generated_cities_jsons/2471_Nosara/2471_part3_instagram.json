@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Nosara",
+    "city_id": "2471"
+  },
+  "items": [
+    {
+      "id": "NosaraIP001",
+      "name": "Bodhi Tree's Jungle Oasis Pool",
+      "short_description": "Immerse yourself in serenity at this stunning infinity pool, seamlessly blending with the surrounding jungle canopy and offering breathtaking views.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Bodhi Tree Yoga Resort, Playa Guiones",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549558309-fa919a3b6f0e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "YogaRetreat",
+        "LuxuryPool",
+        "JungleVibes"
+      ]
+    },
+    {
+      "id": "NosaraIP002",
+      "name": "Harmonía's Sunset Infinity Edge",
+      "short_description": "Witness spectacular sunsets from this elevated infinity pool, offering panoramic ocean vistas and a peaceful atmosphere.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Harmonía de Nosara, Near Playa Pelada",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1621215447192-d9611b7d3493?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "OceanView",
+        "BoutiqueHotel",
+        "SunsetSpot"
+      ]
+    },
+    {
+      "id": "NosaraIP003",
+      "name": "Gilded Iguana's Tropical Dip",
+      "short_description": "Relax by this inviting infinity pool, a refreshing escape amidst the vibrant energy of Playa Guiones, perfect after a surf session.",
+      "subtype": "Infinity Pools",
+      "location_hint": "The Gilded Iguana Surf Hotel, Playa Guiones",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1626017042586-8a8f11598282?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "SurfVibes",
+        "HotelPool",
+        "Relaxation"
+      ]
+    },
+    {
+      "id": "NosaraIP004",
+      "name": "Olas Verdes' Eco-Luxury Pool",
+      "short_description": "Discover an infinity pool designed with sustainability in mind, offering a tranquil retreat surrounded by native flora and fauna.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Olas Verdes Hotel, Playa Guiones",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1594950669299-a86d9990b793?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "EcoFriendly",
+        "NatureEscape",
+        "SustainableTravel"
+      ]
+    },
+    {
+      "id": "NosaraHA001",
+      "name": "The Original Nosara 'Pulpería'",
+      "short_description": "Step back in time at this charming, well-preserved wooden 'pulpería' (general store), a nostalgic glimpse into Nosara's past.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Nosara Town Center (near the main intersection)",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Old_General_Store%2C_San_Francisco%2C_California.jpg/1280px-Old_General_Store%2C_San_Francisco%2C_California.jpg",
+      "tags": [
+        "LocalHistory",
+        "RusticCharm",
+        "TraditionalBuilding"
+      ]
+    },
+    {
+      "id": "NosaraHA002",
+      "name": "Nosara's Serene Village Church",
+      "short_description": "Discover the simple beauty of Nosara's local church, a modest yet historically significant landmark reflecting the community's heart.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Nosara Town Center",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Church_of_La_Negrita%2C_Turrialba%2C_Costa_Rica.jpg/1280px-Church_of_La_Negrita%2C_Turrialba%2C_Costa_Rica.jpg",
+      "tags": [
+        "CommunityLandmark",
+        "CulturalHeritage",
+        "QuietSpot"
+      ]
+    },
+    {
+      "id": "NosaraHA003",
+      "name": "Hacienda Dora's Rustic Elegance",
+      "short_description": "Admire the authentic charm of this traditional Costa Rican hacienda-style home, featuring classic wooden architecture and a rich local history.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Outskirts of Nosara, towards Santa Marta",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hacienda_la_Esperanza%2C_Valle_de_Sula%2C_Honduras.jpg/1280px-Hacienda_la_Esperanza%2C_Valle_de_Sula%2C_Honduras.jpg",
+      "tags": [
+        "RuralLife",
+        "ArchitecturalHeritage",
+        "TraditionalHome"
+      ]
+    },
+    {
+      "id": "NosaraHA004",
+      "name": "The Legendary Surf Shack",
+      "short_description": "Capture a piece of Nosara's surf legacy at this iconic, weathered wooden shack, a testament to the town's humble beginnings as a surf paradise.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Near Playa Guiones North Entrance",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1508216147610-c11451f28b7e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "SurfHistory",
+        "BeachCulture",
+        "AuthenticNosara"
+      ]
+    },
+    {
+      "id": "NosaraMB001",
+      "name": "Nosara's Vibrant Feria",
+      "short_description": "Experience the lively colors and aromas of Nosara's weekly farmers' market, brimming with local produce, artisanal crafts, and fresh delights.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Near Super Nosara, Playa Guiones",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1595159187372-b88339a06148?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "LocalProduce",
+        "ArtisanCrafts",
+        "CommunityVibes"
+      ]
+    },
+    {
+      "id": "NosaraMB002",
+      "name": "Guiones Artisan Showcase",
+      "short_description": "Browse unique handcrafted jewelry, textiles, and art at this charming artisanal market, perfect for finding a special souvenir.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Playa Guiones, near Bodhi Tree",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1601614741706-e7b41e6a0d20?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "HandmadeGoods",
+        "SouvenirShopping",
+        "BohoStyle"
+      ]
+    },
+    {
+      "id": "NosaraMB003",
+      "name": "Nosara Sunset Bazaar",
+      "short_description": "Experience the magic of a Nosara evening at this seasonal night market, offering delicious street food, live music, and local crafts under the stars.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Various locations, check local listings",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1598448834600-b60b29864227?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "StreetFood",
+        "LiveMusic",
+        "EveningVibes"
+      ]
+    },
+    {
+      "id": "NosaraMB004",
+      "name": "Surf & Style Boutique",
+      "short_description": "Discover a curated selection of local surf art, apparel, and unique beach-inspired gifts at this charming boutique, embodying Nosara's laid-back vibe.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Playa Guiones, Main Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1594967399824-00e96030c6a5?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "SurfCulture",
+        "BeachFashion",
+        "UniqueGifts"
+      ]
+    },
+    {
+      "id": "NosaraFG001",
+      "name": "Harmony Haven Botanical Gardens",
+      "short_description": "Wander through lush, vibrant gardens showcasing exotic tropical flora, a serene escape designed for meditation and tranquility.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Various Yoga Retreats (e.g., The Sanctuary)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1506744038165-ffde35391d4a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "TropicalFlowers",
+        "ZenGarden",
+        "NaturePhotography"
+      ]
+    },
+    {
+      "id": "NosaraFG002",
+      "name": "Villa Las Flores Secret Garden",
+      "short_description": "Discover a hidden gem of flowering plants and native species within the enchanting private gardens of a beautiful Nosara villa.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Specific villas near Playa Pelada (check local tours)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1591866380614-b63e26084325?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "HiddenGem",
+        "ExoticPlants",
+        "PrivateTour"
+      ]
+    },
+    {
+      "id": "NosaraFG003",
+      "name": "Finca Victoria Edible Landscape",
+      "short_description": "Explore the vibrant permaculture gardens of Finca Victoria, a functional and beautiful space where edible plants and flowers thrive in harmony.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Finca Victoria, Ostional Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1579207094263-125039f9b5a0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Permaculture",
+        "SustainableLiving",
+        "EdibleGarden"
+      ]
+    },
+    {
+      "id": "NosaraFG004",
+      "name": "Nosara's Butterfly Sanctuary",
+      "short_description": "Step into a magical world of fluttering wings and vibrant blooms at this dedicated butterfly garden, home to numerous native species.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Near Nosara Biological Reserve",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1517404107567-c25e4c027429?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "WildlifePhotography",
+        "Insectarium",
+        "TropicalNature"
+      ]
+    },
+    {
+      "id": "NosaraSP001",
+      "name": "The Secluded Cove Pathway",
+      "short_description": "Embark on an adventurous jungle pathway leading to a pristine, secluded beach, offering breathtaking views and a sense of discovery.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "North of Playa Pelada, ask locals for directions",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1629559858509-0d346e9f1a09?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "HiddenBeach",
+        "JungleTrek",
+        "CoastalTrail"
+      ]
+    },
+    {
+      "id": "NosaraSP002",
+      "name": "Bodhi Tree's Canopy Walk",
+      "short_description": "Stroll along the elevated wooden walkways connecting the various sections of Bodhi Tree, offering unique perspectives of the resort's lush grounds.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Bodhi Tree Yoga Resort, Playa Guiones",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582239459247-c0e81e35d10d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ResortDesign",
+        "NaturePath",
+        "ElevatedViews"
+      ]
+    },
+    {
+      "id": "NosaraSP003",
+      "name": "Nosara River Mouth Trail",
+      "short_description": "Follow the winding path along the Nosara River to its picturesque mouth, where it meets the Pacific Ocean – a haven for birdwatching and scenic views.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Nosara River, between Nosara Town and Playa Nosara",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1522204689255-b0b3ed5c329b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "NatureWalk",
+        "WildlifeSpotting",
+        "RiverView"
+      ]
+    },
+    {
+      "id": "NosaraSP004",
+      "name": "La Luna's Cliffside Ascent",
+      "short_description": "Ascend the charming stone steps leading to La Luna Restaurant, an iconic pathway to one of Nosara's most beloved sunset dining spots.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Playa Pelada, leading to La Luna Restaurant",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1620247953258-208edfc67a54?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "DiningExperience",
+        "OceanViews",
+        "RomanticSpot"
+      ]
+    },
+    {
+      "id": "NosaraMA001",
+      "name": "Gilded Iguana's Contemporary Edge",
+      "short_description": "Admire the sleek lines and innovative design of The Gilded Iguana, a perfect blend of modern luxury and tropical elegance, optimized for surf culture.",
+      "subtype": "Modern Architecture",
+      "location_hint": "The Gilded Iguana Surf Hotel, Playa Guiones",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1622384234567-28d8b67b660c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "BoutiqueDesign",
+        "SurfResort",
+        "ContemporaryStyle"
+      ]
+    },
+    {
+      "id": "NosaraMA002",
+      "name": "The Nomadic Hotel's Minimalist Charm",
+      "short_description": "Experience understated luxury and clean, modern aesthetics at The Nomadic Hotel, where design harmonizes with the surrounding natural beauty.",
+      "subtype": "Modern Architecture",
+      "location_hint": "The Nomadic Hotel, Playa Guiones",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582719503487-b6a18d96b92f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "EcoModern",
+        "MinimalistDesign",
+        "BoutiqueStay"
+      ]
+    },
+    {
+      "id": "NosaraMA003",
+      "name": "Casa Akana's Tropical Modernism",
+      "short_description": "Marvel at this stunning private villa, showcasing open-concept living, sustainable materials, and breathtaking views, a true masterpiece of tropical modernism.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Highlands of Guiones",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1616719139268-8090956f4d1e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "LuxuryVilla",
+        "ArchitecturalDesign",
+        "IndoorOutdoorLiving"
+      ]
+    },
+    {
+      "id": "NosaraMA004",
+      "name": "Zen Sanctuary Shala",
+      "short_description": "Find peace within the elegant, open-air design of a newly built yoga shala, featuring natural wood and high ceilings that invite the jungle in.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Various yoga centers (e.g., Playa Guiones)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1618335345688-66258d4a6a57?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "YogaSpace",
+        "SustainableDesign",
+        "TropicalWood"
+      ]
+    },
+    {
+      "id": "NosaraSA001",
+      "name": "Pura Vida Vibes Mural",
+      "short_description": "Capture the essence of Costa Rica with this vibrant 'Pura Vida' mural, a colorful and uplifting expression of Nosara's laid-back lifestyle.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Main road, Playa Guiones near local businesses",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1579560867746-d24921f08722?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "LocalArt",
+        "CostaRicaVibes",
+        "PositiveEnergy"
+      ]
+    },
+    {
+      "id": "NosaraSA002",
+      "name": "The Wave Rider's Dream",
+      "short_description": "An impressive mural celebrating Nosara's surf culture, featuring dynamic waves and silhouettes of surfers, perfect for a photo op.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near surf shops on Playa Guiones main street",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1620613271708-bb3b5f903a11?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "SurfArt",
+        "BeachTown",
+        "UrbanArt"
+      ]
+    },
+    {
+      "id": "NosaraSA003",
+      "name": "Jungle Friends Graffiti",
+      "short_description": "Discover a heartwarming mural showcasing Costa Rica's iconic wildlife, from playful monkeys to colorful toucans, bringing the jungle to the streets.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Walls along Nosara Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1623190807663-8a306461a206?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "WildlifeArt",
+        "NatureInspired",
+        "TropicalColors"
+      ]
+    },
+    {
+      "id": "NosaraSA004",
+      "name": "Protect Our Oceans Mural",
+      "short_description": "An impactful mural conveying a powerful message of ocean conservation and environmental stewardship, reflecting Nosara's commitment to sustainability.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near Nosara Refuge for Wildlife or local eco-shops",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1587840134015-3b9f5f1c322c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "EnvironmentalArt",
+        "OceanLove",
+        "CommunityMessage"
+      ]
+    },
+    {
+      "id": "NosaraSD001",
+      "name": "Ostional's Sweeping Sandy Expanse",
+      "short_description": "Discover the vast, raw beauty of Playa Ostional's wide sandy shores, where the ocean meets an almost desert-like expanse of sand, especially at low tide.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Playa Ostional (north of Nosara)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1506599723555-d360098e986a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "CoastalLandscape",
+        "RemoteBeach",
+        "TurtleNesting"
+      ]
+    },
+    {
+      "id": "NosaraSD002",
+      "name": "Guiones Low Tide Sands",
+      "short_description": "At low tide, Playa Guiones reveals expansive, flat sandy areas stretching towards the horizon, creating a unique, vast landscape perfect for long walks.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Playa Guiones (near the main surf break)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549419137-01121d120a22?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "BeachWalks",
+        "OceanViews",
+        "IntertidalZone"
+      ]
+    },
+    {
+      "id": "NosaraSD003",
+      "name": "Nosara River Mouth Sand Bar",
+      "short_description": "Explore the dynamic sand formations at the Nosara River mouth, where shifting sandbars create intriguing patterns and small, soft 'dunes' along the shoreline.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Nosara River Mouth, where it meets Playa Nosara",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1506599661448-7013d2745a50?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "CoastalFormations",
+        "EstuaryViews",
+        "NaturePatterns"
+      ]
+    },
+    {
+      "id": "NosaraSD004",
+      "name": "Garza's Untamed Dunes",
+      "short_description": "Venture to Playa Garza's wilder stretches, where natural coastal dunes and undisturbed sandy shores offer a feeling of vastness and isolation.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Playa Garza (south of Nosara)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1628178762512-c2834b752985?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "WildBeach",
+        "SecludedSpot",
+        "NaturalBeauty"
+      ]
+    },
+    {
+      "id": "NosaraHAC001",
+      "name": "The Secret Garden Courtyard",
+      "short_description": "Escape the dusty roads into this serene, lush courtyard, a hidden oasis brimming with tropical plants and a calming atmosphere.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Behind a cafe on the main road, Playa Guiones",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549477023-e1864190c74a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "TranquilSpot",
+        "GreenSpace",
+        "CafeCulture"
+      ]
+    },
+    {
+      "id": "NosaraHAC002",
+      "name": "Bodhi Tree's Zen Alley",
+      "short_description": "Discover a peaceful, secluded alleyway within the Bodhi Tree Resort, designed for quiet contemplation amidst tropical foliage and subtle decor.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Bodhi Tree Yoga Resort, Playa Guiones",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1558960683-1625902b6622?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "YogaLifestyle",
+        "QuietEscape",
+        "MindfulMoments"
+      ]
+    },
+    {
+      "id": "NosaraHAC003",
+      "name": "La Bodega's Rustic Patio",
+      "short_description": "Enjoy your morning coffee in this charming, rustic outdoor patio, a local favorite for its cozy atmosphere and shaded comfort away from the main road.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "La Bodega Cafe, Playa Guiones",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1517457210-bf26f4c0b484?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "CoffeeSpot",
+        "LocalHangout",
+        "RusticVibes"
+      ]
+    },
+    {
+      "id": "NosaraHAC004",
+      "name": "L'acqua Viva's Inner Sanctuary",
+      "short_description": "Find tranquility within the beautifully landscaped central courtyard of Hotel L'acqua Viva, a peaceful space for relaxation and reflection.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Hotel L'acqua Viva, Playa Guiones",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1522079072970-13f8c5b96b4b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "HotelAmenities",
+        "RelaxationZone",
+        "TropicalPatio"
+      ]
+    },
+    {
+      "id": "NosaraRV001",
+      "name": "Pacifico Azul Sunset Deck",
+      "short_description": "Savor delicious cuisine with unparalleled panoramic views of the Pacific Ocean and Nosara's lush coastline from this stunning rooftop dining spot.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Pacifico Azul Restaurant, Playa Pelada",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1549405628-d7efc461327f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "SunsetDining",
+        "OceanPanorama",
+        "FineViews"
+      ]
+    },
+    {
+      "id": "NosaraRV002",
+      "name": "Bodhi Tree's Sunrise Shala View",
+      "short_description": "Greet the day with an invigorating yoga session or simply enjoy the expansive jungle views from Bodhi Tree's elevated, open-air shala.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Bodhi Tree Yoga Resort, Playa Guiones",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563207172-ac32c813589b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "YogaViews",
+        "JungleScape",
+        "MeditationSpot"
+      ]
+    },
+    {
+      "id": "NosaraRV003",
+      "name": "Iguana's Elevated Social Spot",
+      "short_description": "Unwind with cocktails and good company at The Gilded Iguana's stylish rooftop lounge, offering a lively atmosphere and views of the town and lush surroundings.",
+      "subtype": "Rooftop Views",
+      "location_hint": "The Gilded Iguana Surf Hotel, Playa Guiones",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1534938634599-281b379e496b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Nightlife",
+        "CocktailBar",
+        "SocialScene"
+      ]
+    },
+    {
+      "id": "NosaraRV004",
+      "name": "Nosara Mirador Sunset Point",
+      "short_description": "Ascend to this local lookout point, offering expansive, unobstructed views of Nosara's coastline, perfect for capturing a panoramic sunset photo.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Hills overlooking Playa Guiones/Playa Pelada",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1582239339233-a8d29792695c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Viewpoint",
+        "SunsetPhotography",
+        "PanoramicVista"
+      ]
+    }
+  ]
+}

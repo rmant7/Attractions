@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Akure",
+    "city_id": "2447"
+  },
+  "items": [
+    {
+      "id": "BOD001",
+      "name": "Oruka's Last Stand Memorial",
+      "short_description": "Commemorates the legendary chieftain Oruka's heroic defense against invaders, a site of fierce historical and spiritual significance for Akure's resilience.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Off Igbatoro Road, Akure North, Ondo State",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1620353064491-0d8666579308?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "history",
+        "valor",
+        "remembrance"
+      ]
+    },
+    {
+      "id": "BOD002",
+      "name": "Valley of Echoing Shields",
+      "short_description": "An ancient valley where the Akure-Benin wars once raged, believed to still carry the spiritual echoes of warriors and a place for seeking ancestral courage.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Near Oda Road, Ago Ondo, Akure",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549880126-d667c2936750?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ancestors",
+        "warfare",
+        "heritage"
+      ]
+    },
+    {
+      "id": "BOD003",
+      "name": "Site of the Fallen Chieftaincy",
+      "short_description": "Marks the place where the ancient Akure kingdom faced a pivotal challenge, leading to a spiritual awakening and reaffirmation of its core values.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Alagbaka Extension, Akure, Ondo State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596773223062-fa53f86e9680?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "resilience",
+        "pivotal moment",
+        "history"
+      ]
+    },
+    {
+      "id": "BOD004",
+      "name": "Agbara Ologbo (Might of the Leopard) Battlefield",
+      "short_description": "Legendary site where a fearsome leopard spirit intervened in a battle, turning the tide and forever linking the land to raw, untamed power.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Off FUTA North Gate Road, Akure, Ondo State",
+      "visiting_hours": "08:30-17:30",
+      "entry_fee": "fixed amount (NGN 500)",
+      "images": "https://images.unsplash.com/photo-1582299876274-a631189280d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "legend",
+        "power",
+        "nature spirits"
+      ]
+    },
+    {
+      "id": "SF001",
+      "name": "Igbo Orixa (Forest of Deities)",
+      "short_description": "A dense, ancient forest believed to be a dwelling place for various Orishas, where pilgrims seek blessings and commune with nature's spiritual essence.",
+      "subtype": "Sacred Forests",
+      "address": "Near Odo Ona, Akure South, Ondo State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1502082553654-6ee76d1e3893?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "orisha",
+        "nature worship",
+        "blessings"
+      ]
+    },
+    {
+      "id": "SF002",
+      "name": "Forest of Whispering Ancestors",
+      "short_description": "This serene forest is said to carry the voices of ancient Akure elders in its rustling leaves, a place for contemplation and connecting with one's roots.",
+      "subtype": "Sacred Forests",
+      "address": "Along Ado Road, Akure North, Ondo State",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ancestors",
+        "meditation",
+        "spirituality"
+      ]
+    },
+    {
+      "id": "SF003",
+      "name": "Igbo Aje (Witch's Grove – for positive magic)",
+      "short_description": "Despite its name, this grove is revered as a site of ancient feminine power and wisdom, where devotees seek guidance and healing from earth spirits.",
+      "subtype": "Sacred Forests",
+      "address": "Off Ijoka Road, Alagbaka, Akure",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "fixed amount (NGN 300)",
+      "images": "https://images.unsplash.com/photo-1579483329715-e24c52f6f95d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "healing",
+        "feminine power",
+        "earth spirits"
+      ]
+    },
+    {
+      "id": "SF004",
+      "name": "Sacred Mangrove of Olokun",
+      "short_description": "A unique sacred mangrove forest dedicated to Olokun, goddess of the deep sea and wealth, where special rituals are performed at its watery edges.",
+      "subtype": "Sacred Forests",
+      "address": "Near Owena River confluence, Akure North, Ondo State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1623912165561-dd527181c9cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "olokun",
+        "water spirits",
+        "rituals"
+      ]
+    },
+    {
+      "id": "VZ001",
+      "name": "Igbo Ina (Forest of Fire) Ridge",
+      "short_description": "An ancient rocky ridge known for its red earth and unique heated rock formations, believed to be a site where Ogun's fiery essence manifested.",
+      "subtype": "Volcanic Zones",
+      "address": "FUTA South Gate Road, Akure, Ondo State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "fixed amount (NGN 700)",
+      "images": "https://images.unsplash.com/photo-1563721349078-d442a8b3879a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ogun",
+        "earth energy",
+        "geology"
+      ]
+    },
+    {
+      "id": "VZ002",
+      "name": "The Obsidian Hearth of Ancestors",
+      "short_description": "A site featuring ancient, dark volcanic-like rocks, where ancestral spirits are said to gather, providing intense spiritual warmth and guidance.",
+      "subtype": "Volcanic Zones",
+      "address": "Off Akure-Ilesa Expressway, Akure North",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1616429302685-2e6b91122a61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ancestors",
+        "spiritual energy",
+        "rock formations"
+      ]
+    },
+    {
+      "id": "VZ003",
+      "name": "Eruption of Truth Cavern",
+      "short_description": "A deep cavern with mineral-rich hot springs (geothermally active, not strictly volcanic) where pilgrims seek revelations and cleansing from the earth's depths.",
+      "subtype": "Volcanic Zones",
+      "address": "Near Idanre Hills Road junction, Akure South",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "fixed amount (NGN 1000)",
+      "images": "https://images.unsplash.com/photo-1549727572-8700ef58a8a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "healing",
+        "revelation",
+        "hot spring"
+      ]
+    },
+    {
+      "id": "VZ004",
+      "name": "The Flaming Stone Circle",
+      "short_description": "An ancient arrangement of reddish stones, said to pulse with primal energy, used for fire rituals and invoking powerful protective spirits.",
+      "subtype": "Volcanic Zones",
+      "address": "Aponmu Forest Reserve, Akure South, Ondo State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1628172944837-772c918ee4b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ritual",
+        "protection",
+        "primal energy"
+      ]
+    },
+    {
+      "id": "AT001",
+      "name": "Ile Ifa Akure (House of Ifa Akure)",
+      "short_description": "The primary ancient temple dedicated to Orunmila, where Ifa divination is practiced, offering guidance and wisdom to the community.",
+      "subtype": "Ancient Temples",
+      "address": "Oja Oba, Arakale Road, Akure, Ondo State",
+      "visiting_hours": "09:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1600007835158-b11b7b71f92e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ifa",
+        "divination",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "AT002",
+      "name": "Temple of Oba Odundun's Legacy",
+      "short_description": "A temple honoring Oba Odundun I, an ancient king of Akure, where his reign's prosperity and spiritual strength are invoked.",
+      "subtype": "Ancient Temples",
+      "address": "Isolo Street, Old Akure Town, Akure",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "fixed amount (NGN 200)",
+      "images": "https://images.unsplash.com/photo-1596773223062-fa53f86e9680?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "royalty",
+        "history",
+        "prosperity"
+      ]
+    },
+    {
+      "id": "AT003",
+      "name": "Shrine of the White Crocodile (Olokun's Grotto)",
+      "short_description": "Hidden by a sacred stream, this shrine is dedicated to Olokun, revered as the source of wealth and fertility, featuring ancient crocodile effigies.",
+      "subtype": "Ancient Temples",
+      "address": "Along Aladodo Lane, Akure South, Ondo State",
+      "visiting_hours": "07:30-14:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1617415053229-9e802083b3e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "olokun",
+        "fertility",
+        "wealth"
+      ]
+    },
+    {
+      "id": "AT004",
+      "name": "Ogun's Iron House",
+      "short_description": "An ancient forge-like temple dedicated to Ogun, the Orisha of iron, war, and technology, where tools are blessed and strength is sought.",
+      "subtype": "Ancient Temples",
+      "address": "Erekusu Area, Akure, Ondo State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1610433100366-eb101a88a4c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ogun",
+        "craftsmanship",
+        "strength"
+      ]
+    },
+    {
+      "id": "CR001",
+      "name": "Esu's Sacred Crossroads of Fate",
+      "short_description": "A historically significant intersection where offerings are made to Esu, the divine messenger, to ensure smooth transitions and favorable destinies.",
+      "subtype": "Crossroads",
+      "address": "Junction of Oyemekun Road & Oba Adesida Road, Akure",
+      "visiting_hours": "24/7 (offerings made at dawn/dusk)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549646467-3c5822363b9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "esu",
+        "destiny",
+        "offerings"
+      ]
+    },
+    {
+      "id": "CR002",
+      "name": "Market of Thousand Paths (Oja Ona)",
+      "short_description": "Not just a marketplace, but an ancient 'spiritual crossroads' where diverse energies converge, influencing trade, social interactions, and personal choices.",
+      "subtype": "Crossroads",
+      "address": "Oja Oba, Akure, Ondo State",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1615875691456-1e5b5e3a3e6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "commerce",
+        "community",
+        "choice"
+      ]
+    },
+    {
+      "id": "CR003",
+      "name": "Confluence of Ancestral Currents",
+      "short_description": "A quiet, ancient junction where two streams meet, symbolizing the merging of different ancestral lines and spiritual energies, ideal for family rites.",
+      "subtype": "Crossroads",
+      "address": "Near Ala River, Akure South, Ondo State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1557007559-8669956461a8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "family",
+        "ancestors",
+        "confluence"
+      ]
+    },
+    {
+      "id": "CR004",
+      "name": "The Traveler's Junction of Blessings",
+      "short_description": "A traditional resting point for ancient travelers, where prayers are offered for safe passage and successful journeys, embodying the spirit of hospitality.",
+      "subtype": "Crossroads",
+      "address": "Old Benin-Akure Road, Off FUTA Gate, Akure",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1601007801865-c3f2d25032a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "travel",
+        "blessings",
+        "hospitality"
+      ]
+    },
+    {
+      "id": "OS001",
+      "name": "Ifa's Whispering Grove",
+      "short_description": "A secluded grove where ancient Ifa priests consulted the oracle, its sacred trees are believed to still carry the whispers of future events.",
+      "subtype": "Oracle Sites",
+      "address": "Off Igbatoro Road, Akure North, Ondo State",
+      "visiting_hours": "09:00-15:00 (by appointment for consultation)",
+      "entry_fee": "fixed amount (NGN 1500 for consultation)",
+      "images": "https://images.unsplash.com/photo-1518779578993-ec322a462890?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ifa",
+        "prophecy",
+        "consultation"
+      ]
+    },
+    {
+      "id": "OS002",
+      "name": "Cave of the Elder Seer",
+      "short_description": "A mystical cave where a legendary seer once resided, offering profound insights and prophecies, its dark chambers are imbued with potent spiritual energy.",
+      "subtype": "Oracle Sites",
+      "address": "Towards Elizade University Road, Akure South",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1510414169620-16bb9b5c3d2e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "seer",
+        "prophecy",
+        "mystery"
+      ]
+    },
+    {
+      "id": "OS003",
+      "name": "The Akure Oracle Stone",
+      "short_description": "A massive, ancient stone formation where traditional chiefs once sought divine counsel, believed to reveal truths to those with a pure heart.",
+      "subtype": "Oracle Sites",
+      "address": "Near Isikan Market, Akure, Ondo State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582299876274-a631189280d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "divine counsel",
+        "truth",
+        "tradition"
+      ]
+    },
+    {
+      "id": "OS004",
+      "name": "Water Shrine of Oshun's Clarity",
+      "short_description": "A serene water source dedicated to Oshun, the Orisha of love and fertility, where devotees perform rituals to gain clear insight and emotional wisdom.",
+      "subtype": "Oracle Sites",
+      "address": "Owena River Bank, Akure South, Ondo State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1621379965825-e51c51e06e30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "oshun",
+        "clarity",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "RST001",
+      "name": "Royal Mausoleum of the Deji of Akure",
+      "short_description": "The sacred burial ground of past Dejis (kings) of Akure, a place of profound ancestral veneration and spiritual connection to the lineage.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Inside Akure Palace Grounds, Oba Adesida Road, Akure",
+      "visiting_hours": "10:00-14:00 (by special permit)",
+      "entry_fee": "fixed amount (NGN 1000)",
+      "images": "https://images.unsplash.com/photo-1544026601-2ee3b8796472?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "royalty",
+        "ancestors",
+        "veneration"
+      ]
+    },
+    {
+      "id": "RST002",
+      "name": "Shrine of the Ancestral Staff (Opa Oranmiyan Replica)",
+      "short_description": "Houses a sacred replica of the legendary Opa Oranmiyan, symbolizing the historical power and spiritual authority of the Yoruba people, connecting to Oduduwa's lineage.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Odojomu Quarters, Akure, Ondo State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Opa_Oranmiyan.jpg/800px-Opa_Oranmiyan.jpg",
+      "tags": [
+        "oranmiyan",
+        "relic",
+        "authority"
+      ]
+    },
+    {
+      "id": "RST003",
+      "name": "Tomb of the Rainmaker Elders",
+      "short_description": "A revered tomb site dedicated to ancient rainmakers, whose spirits are invoked for favorable weather and agricultural abundance.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Near Ilesa Garage, Akure South, Ondo State",
+      "visiting_hours": "08:30-15:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549460309-fa92ea4083c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "rainmakers",
+        "agriculture",
+        "spirits"
+      ]
+    },
+    {
+      "id": "RST004",
+      "name": "Egungun Festival Ancestral Shrine",
+      "short_description": "A special shrine used during the annual Egungun festival, housing relics and masks that embody the collective spirits of the ancestors.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Ijomu Street, Old Akure, Ondo State",
+      "visiting_hours": "10:00-17:00 (special access during festival)",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Egungun_of_Iseyin_2016.jpg/800px-Egungun_of_Iseyin_2016.jpg",
+      "tags": [
+        "egungun",
+        "festival",
+        "masks"
+      ]
+    },
+    {
+      "id": "PR001",
+      "name": "Path of the Seven Orishas",
+      "short_description": "An ancient walking path connecting seven minor shrines dedicated to various Orishas, culminating in a major temple for holistic blessings.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts near Odo Agbara, Akure, Ondo State",
+      "visiting_hours": "Sunrise-Sunset",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1604104085420-13f6498e9b46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "orisha",
+        "journey",
+        "blessings"
+      ]
+    },
+    {
+      "id": "PR002",
+      "name": "The Healing Waters Trail",
+      "short_description": "A route leading to a series of natural springs and pools, believed to possess healing properties and used for purification rituals.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts near Aafin Akure (Akure Palace), Akure",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1506548174483-a4c3f58a3a0e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "healing",
+        "purification",
+        "nature"
+      ]
+    },
+    {
+      "id": "PR003",
+      "name": "Trail of the Ancestral Footprints",
+      "short_description": "A rugged path leading to high ground overlooking Akure, believed to have been trodden by the city's founders, offering panoramic spiritual insights.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Base of Akure Hills, Off Idanre Road, Akure",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "fixed amount (NGN 400)",
+      "images": "https://images.unsplash.com/photo-1549646467-3c5822363b9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "founders",
+        "perspective",
+        "ancestors"
+      ]
+    },
+    {
+      "id": "PR004",
+      "name": "Pilgrimage to Obatala's Peak",
+      "short_description": "A challenging ascent to a revered peak where Obatala, the Orisha of creation, is honored, signifying a journey of self-discovery and spiritual purity.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts near FUTA main gate, Akure, Ondo State",
+      "visiting_hours": "05:00-15:00 (for full ascent)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1501785888041-af3ba647888b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "obatala",
+        "creation",
+        "purity"
+      ]
+    },
+    {
+      "id": "PYR001",
+      "name": "Ile-Odu Earth Mound (Ancestral Pyramid)",
+      "short_description": "An ancient, stepped earth mound, traditionally called 'Ile-Odu,' believed to be a pre-colonial burial site for high chiefs, resembling a small pyramid.",
+      "subtype": "Pyramids",
+      "address": "Oda Village, Akure South, Ondo State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596773223062-fa53f86e9680?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "earthworks",
+        "ancient burial",
+        "chiefs"
+      ]
+    },
+    {
+      "id": "PYR002",
+      "name": "The Sun Shrine Hill (Okuta Oorun)",
+      "short_description": "A naturally occurring hill with a distinct pyramid-like slope, where ancient sun-worshippers performed rituals to honor the life-giving solar deity.",
+      "subtype": "Pyramids",
+      "address": "Near FUTA Campus, Akure North, Ondo State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510414169620-16bb9b5c3d2e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "sun worship",
+        "natural formation",
+        "rituals"
+      ]
+    },
+    {
+      "id": "PYR003",
+      "name": "Sacred Stepped Mound of Obatala",
+      "short_description": "A man-made terraced mound dedicated to Obatala, the creator deity, used for purification ceremonies and seeking spiritual clarity.",
+      "subtype": "Pyramids",
+      "address": "Igbara-Oke Road, Akure South, Ondo State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount (NGN 500)",
+      "images": "https://images.unsplash.com/photo-1549727572-8700ef58a8a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "obatala",
+        "creation",
+        "purification"
+      ]
+    },
+    {
+      "id": "PYR004",
+      "name": "The Akure Granite Pyramid",
+      "short_description": "A striking natural granite outcrop, sculpted by time into a pyramid-like form, revered as a symbol of enduring strength and divine presence.",
+      "subtype": "Pyramids",
+      "address": "Akure-Owo Expressway, Akure North, Ondo State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628172944837-772c918ee4b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "granite",
+        "strength",
+        "divine presence"
+      ]
+    },
+    {
+      "id": "CAS001",
+      "name": "Stone Circle of the Equinox",
+      "short_description": "An ancient stone circle meticulously arranged to align with the equinoxes, used for observing celestial events and marking agricultural seasons.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Near FUTA South Gate, Akure, Ondo State",
+      "visiting_hours": "24/7 (best at dawn/dusk on equinoxes)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579717808269-e0939c05e3f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "astronomy",
+        "equinox",
+        "ancient science"
+      ]
+    },
+    {
+      "id": "CAS002",
+      "name": "The Seer's Stargazing Hill",
+      "short_description": "A elevated hill offering an unobstructed view of the night sky, where ancient seers interpreted cosmic patterns for divination and guidance.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Off Ijare Road, Akure South, Ondo State",
+      "visiting_hours": "18:00-06:00 (for stargazing)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1533307521151-271d18476686?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "stargazing",
+        "divination",
+        "cosmic patterns"
+      ]
+    },
+    {
+      "id": "CAS003",
+      "name": "Shrine of the Midnight Sun (Solstice Point)",
+      "short_description": "A unique shrine positioned to capture the first rays of the summer solstice, believed to empower rituals for growth, abundance, and spiritual rebirth.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Near Igbatoro Power Station, Akure North, Ondo State",
+      "visiting_hours": "05:00-07:00 (on solstices, special events)",
+      "entry_fee": "fixed amount (NGN 800)",
+      "images": "https://images.unsplash.com/photo-1502082553654-6ee76d1e3893?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "solstice",
+        "rebirth",
+        "abundance"
+      ]
+    },
+    {
+      "id": "CAS004",
+      "name": "The Lunar Pond of Reflections",
+      "short_description": "A tranquil natural pond renowned for its clear reflections of the moon and stars, where moonlit rituals are performed for intuition and emotional balance.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Along Oda-Tuntun Road, Akure South, Ondo State",
+      "visiting_hours": "19:00-23:00 (on full/new moons)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549298357-123495d436a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "moon worship",
+        "intuition",
+        "emotions"
+      ]
+    }
+  ]
+}

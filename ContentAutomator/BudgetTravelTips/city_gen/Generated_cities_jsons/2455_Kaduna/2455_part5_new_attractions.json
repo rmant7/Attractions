@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Kaduna",
+    "city_id": "2455"
+  },
+  "items": [
+    {
+      "id": "KD001",
+      "name": "Kaduna Green Oasis Park",
+      "short_description": "A newly developed urban park offering lush greenery, modern play areas for children, and serene walking paths. It's a perfect escape for relaxation and family fun right in the city center.",
+      "address": "Opposite Federal Secretariat, Independence Way, Kaduna",
+      "opening_hours": "06:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517454224794-5264376c7c25?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "nature",
+        "park",
+        "family"
+      ]
+    },
+    {
+      "id": "KD002",
+      "name": "Arewa Contemporary Art Hub",
+      "short_description": "This vibrant art space showcases the dynamic works of emerging and established Nigerian artists, focusing on modern and contemporary pieces. Enjoy rotating exhibitions, workshops, and a chic cafe.",
+      "address": "12 Jere Road, GRA, Kaduna",
+      "opening_hours": "10:00-19:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549419163-955685a21051?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "art",
+        "culture",
+        "gallery"
+      ]
+    },
+    {
+      "id": "KD003",
+      "name": "Kofar Doka Culinary Village",
+      "short_description": "Experience Kaduna's diverse flavors at this lively outdoor food village, featuring a variety of local and international cuisines. From street food to gourmet delights, it's a gastronomic adventure.",
+      "address": "Along Sultan Bello Road, Kofar Doka, Kaduna",
+      "opening_hours": "12:00-22:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1518049362240-d94895690b2b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "food",
+        "market",
+        "local"
+      ]
+    },
+    {
+      "id": "KD004",
+      "name": "Zaria Road Adventureland",
+      "short_description": "A thrilling family entertainment center boasting modern rides, interactive games, and a massive indoor play area. Perfect for kids and adults seeking an exciting day out.",
+      "address": "KM 5, Zaria Road, Kaduna",
+      "opening_hours": "10:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563721345862-243851b43924?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "family",
+        "fun",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "KD005",
+      "name": "Kaduna Heritage Museum & Gardens",
+      "short_description": "Newly renovated, this museum offers an interactive journey through Kaduna's rich history and cultural heritage. Stroll through beautifully landscaped gardens that tell stories of the past.",
+      "address": "17 Yakubu Gowon Way, Kaduna",
+      "opening_hours": "09:00-17:00 (Mon-Sat)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563820986-e88df2fc677f?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "history",
+        "museum",
+        "garden"
+      ]
+    },
+    {
+      "id": "KD006",
+      "name": "Makarfi Square Retail & Leisure",
+      "short_description": "Kaduna's premier modern shopping complex, featuring a wide array of local and international brands, diverse dining options, and a state-of-the-art cinema for ultimate entertainment.",
+      "address": "Makarfi Road, Ungwan Sarki, Kaduna",
+      "opening_hours": "09:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547844111-c917ee6a67f1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "shopping",
+        "leisure",
+        "cinema"
+      ]
+    },
+    {
+      "id": "KD007",
+      "name": "Rigasa Sports & Wellness Arena",
+      "short_description": "A cutting-edge sports complex offering facilities for various sports, a modern gym, and dedicated wellness programs. It's the ideal place for fitness enthusiasts and athletes.",
+      "address": "Off Nnamdi Azikiwe Expressway, Rigasa, Kaduna",
+      "opening_hours": "05:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1552667868-b3d4f8f4a1f6?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "sports",
+        "fitness",
+        "wellness"
+      ]
+    },
+    {
+      "id": "KD008",
+      "name": "Innovation Kaduna Discovery Center",
+      "short_description": "An interactive science and technology center designed to inspire curiosity in all ages. Explore hands-on exhibits, engaging workshops, and discover the wonders of innovation.",
+      "address": "18 Kagoro Road, Barnawa, Kaduna",
+      "opening_hours": "09:00-17:00 (Tue-Sun)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627993072213-9118e95c10a3?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "science",
+        "education",
+        "interactive"
+      ]
+    },
+    {
+      "id": "KD009",
+      "name": "River Kaduna Eco-Lodge & Spa",
+      "short_description": "Nestled by the serene River Kaduna, this eco-lodge offers a tranquil escape with luxurious spa services, sustainable dining, and breathtaking natural views. Perfect for a peaceful retreat.",
+      "address": "Along Kaduna River Bank, Kajuru Road, Kaduna",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1559850123-28c0b5e7d5d2?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "relaxation",
+        "spa",
+        "nature"
+      ]
+    },
+    {
+      "id": "KD010",
+      "name": "Arewa Grand Convention Centre",
+      "short_description": "Kaduna's newest state-of-the-art convention center, offering versatile spaces for large-scale conferences, exhibitions, and grand events. Equipped with modern technology and elegant design.",
+      "address": "Off Ahmadu Bello Way, Ungwan Rimi, Kaduna",
+      "opening_hours": "Event Dependent",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1562911790-a54817a35e4d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "events",
+        "conferences",
+        "community"
+      ]
+    }
+  ]
+}

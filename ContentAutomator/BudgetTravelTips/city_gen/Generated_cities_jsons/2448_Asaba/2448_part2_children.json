@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Asaba",
+    "city_id": "2448"
+  },
+  "items": [
+    {
+      "id": "AsabaFunCity01",
+      "name": "Asaba Fun City Park",
+      "short_description": "A vibrant theme park with rides, games, and entertainment for children of all ages, featuring a mix of modern and classic attractions.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Okpanam Road, Beside Delta State University, Asaba, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596707328643-dd5c531ef5d4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "rides",
+        "entertainment",
+        "family fun"
+      ]
+    },
+    {
+      "id": "DeltaKiddieWorld02",
+      "name": "Delta Kiddie World",
+      "short_description": "Specially designed for younger children, this park offers gentle rides, soft play areas, and engaging activities in a safe environment.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Summit Road, GRA, Asaba, Delta State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510525000782-b7b51b32d325?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddlers",
+        "safe rides",
+        "preschool"
+      ]
+    },
+    {
+      "id": "JoylandAdventure03",
+      "name": "Joyland Adventure Land",
+      "short_description": "An adventurous theme park featuring obstacle courses, climbing walls, and interactive zones, perfect for active kids and thrill-seekers.",
+      "subtype": "Theme Parks for Kids",
+      "address": "DLA Road, Opposite NTA Asaba, Asaba, Delta State",
+      "opening_hours": "10:30-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506198901764-ef0265bb6d5f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "active play",
+        "thrills"
+      ]
+    },
+    {
+      "id": "SunshineWonderland04",
+      "name": "Sunshine Wonderland Asaba",
+      "short_description": "A magical place filled with colourful attractions, character meet-and-greets, and gentle rides for a truly enchanting experience.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Nnebisi Road, Near Government House, Asaba, Delta State",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1616428945195-285b73934333?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fantasy",
+        "characters",
+        "magic"
+      ]
+    },
+    {
+      "id": "DinoDiscovery01",
+      "name": "Asaba Dino Discovery Park",
+      "short_description": "Step back in time at this educational park featuring life-sized dinosaur models, fossil exhibits, and interactive paleontological digs.",
+      "subtype": "Dinosaur Parks",
+      "address": "Mariam Babangida Way, Asaba, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627916578051-bd12e75e110d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dinosaurs",
+        "fossils",
+        "paleontology"
+      ]
+    },
+    {
+      "id": "PrehistoricJungle02",
+      "name": "Prehistoric Jungle Asaba",
+      "short_description": "Walk through a lush jungle path inhabited by animatronic dinosaurs that move and roar, offering an immersive prehistoric experience.",
+      "subtype": "Dinosaur Parks",
+      "address": "Asaba-Illah Road, Opp. Federal Medical Centre, Asaba, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549492144-84d436c6416f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "animatronics",
+        "jungle adventure",
+        "immersive"
+      ]
+    },
+    {
+      "id": "RaptorRidge03",
+      "name": "Raptor Ridge Dinosaur Sanctuary",
+      "short_description": "A thrilling park where visitors can encounter fast and agile animatronic raptors in a simulated natural habitat, complete with interactive shows.",
+      "subtype": "Dinosaur Parks",
+      "address": "Dennis Osadebay Way, Asaba, Delta State",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1588726588264-16ce9655f411?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "raptors",
+        "thrilling",
+        "shows"
+      ]
+    },
+    {
+      "id": "JurassicCreek04",
+      "name": "Jurassic Creek Park",
+      "short_description": "Explore winding trails and discover massive, realistic dinosaur figures hidden among the natural landscape, offering photo opportunities and information.",
+      "subtype": "Dinosaur Parks",
+      "address": "Behind Cenotaph, Nnebisi Road, Asaba, Delta State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1595786311030-244e8c35a4d4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "exploration",
+        "photo ops",
+        "educational"
+      ]
+    },
+    {
+      "id": "GrandDeltaPlayzone01",
+      "name": "Grand Delta Playzone",
+      "short_description": "Asaba's largest outdoor playground, featuring extensive climbing structures, slides, swings, and dedicated areas for different age groups.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Ibusa Road, Adjacent to Delta Mall, Asaba, Delta State",
+      "opening_hours": "08:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596568779905-24c80287a26f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "outdoor play",
+        "slides",
+        "climbing"
+      ]
+    },
+    {
+      "id": "AsabaAdventureQuest02",
+      "name": "Asaba Adventure Quest Park",
+      "short_description": "An exciting adventure park with challenging obstacle courses, zip lines, and a low ropes course, perfect for building confidence and skills.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Government House Annex Road, Asaba, Delta State",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621370724818-4a6c4b267232?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "obstacle course",
+        "zip line",
+        "ropes course"
+      ]
+    },
+    {
+      "id": "EmeraldKidsHub03",
+      "name": "Emerald Kids' Hub Asaba",
+      "short_description": "A versatile indoor-outdoor playground offering soft play, ball pits, trampolines, and a creative zone for all-weather fun.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Koka Junction, Asaba-Onitsha Expressway, Asaba, Delta State",
+      "opening_hours": "09:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579290091807-742a17058866?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "indoor play",
+        "soft play",
+        "trampolines"
+      ]
+    },
+    {
+      "id": "SkyboundPlayground04",
+      "name": "Skybound Playground & Treetop Walk",
+      "short_description": "Experience nature from above with treetop walks, suspended bridges, and elevated play structures, offering a unique perspective and adventure.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Opposite Federal Secretariat, Okpanam Road, Asaba, Delta State",
+      "opening_hours": "08:30-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596707328643-dd5c531ef5d4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "treetop walk",
+        "nature",
+        "adventure"
+      ]
+    },
+    {
+      "id": "OceanWonders01",
+      "name": "Asaba Ocean Wonders Aquarium",
+      "short_description": "Discover diverse marine life from across the globe, including colorful fish, captivating sharks, and interactive touch pools.",
+      "subtype": "Aquariums",
+      "address": "Along Nnebisi Road, Near Airport Road Junction, Asaba, Delta State",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1507567794358-0062b80df968?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "marine life",
+        "sharks",
+        "touch pools"
+      ]
+    },
+    {
+      "id": "NigerRiverAquarium02",
+      "name": "Niger River Aquarium",
+      "short_description": "Dedicated to the aquatic biodiversity of the Niger Delta, showcasing local fish species, reptiles, and the importance of freshwater conservation.",
+      "subtype": "Aquariums",
+      "address": "Koka Junction, Asaba-Onitsha Expressway, Asaba, Delta State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1530514120808-118800539c94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "freshwater",
+        "local species",
+        "conservation"
+      ]
+    },
+    {
+      "id": "DeltaDeepSea03",
+      "name": "Delta Deep Sea Exhibit",
+      "short_description": "A specialized exhibit focusing on mysterious deep-sea creatures and their unique adaptations, with stunning visual displays and educational talks.",
+      "subtype": "Aquariums",
+      "address": "Anwai Road, Near Delta State Government House, Asaba, Delta State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1520188682-14c1e4854f3b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "deep sea",
+        "exotic fish",
+        "education"
+      ]
+    },
+    {
+      "id": "AquaVistaAsaba04",
+      "name": "AquaVista Asaba",
+      "short_description": "An interactive aquarium experience featuring virtual reality tours of coral reefs, hands-on activities, and a vibrant collection of tropical fish.",
+      "subtype": "Aquariums",
+      "address": "Ezenei Avenue, GRA, Asaba, Delta State",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549722340-47b2c019904d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "virtual reality",
+        "tropical fish",
+        "interactive"
+      ]
+    },
+    {
+      "id": "AsabaFablesGarden01",
+      "name": "Asaba Fables Garden",
+      "short_description": "Explore a whimsical garden where popular Nigerian folk tales come to life through interactive displays, sculptures, and live storytelling sessions.",
+      "subtype": "Storytelling Parks",
+      "address": "Nnebisi Road, By Cable Point, Asaba, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1507677708027-f6556f8f8705?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "folk tales",
+        "storytelling",
+        "local culture"
+      ]
+    },
+    {
+      "id": "EnchantedDeltaForest02",
+      "name": "Enchanted Delta Forest",
+      "short_description": "A magical forest where children can follow themed paths, meet fantasy characters, and participate in immersive quests based on popular fairy tales.",
+      "subtype": "Storytelling Parks",
+      "address": "Asaba-Illah Road, Near Naval Base, Asaba, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1503837837877-62860a34b223?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fairy tales",
+        "fantasy",
+        "quests"
+      ]
+    },
+    {
+      "id": "WhisperingWoodsTales03",
+      "name": "Whispering Woods Tales Park",
+      "short_description": "An outdoor park designed for imagination, with themed zones where children can create their own stories and listen to classic narratives under ancient trees.",
+      "subtype": "Storytelling Parks",
+      "address": "DLA Road, By Junior Staff Quarters, Asaba, Delta State",
+      "opening_hours": "08:30-17:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1543888566-b3334208d3e9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "imagination",
+        "nature",
+        "narratives"
+      ]
+    },
+    {
+      "id": "MythicMeadowsAsaba04",
+      "name": "Mythic Meadows Asaba",
+      "short_description": "A unique park where children delve into world mythology and legends, with interactive exhibits depicting gods, heroes, and mythical creatures.",
+      "subtype": "Storytelling Parks",
+      "address": "Federal Secretariat Road, Asaba, Delta State",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506198901764-ef0265bb6d5f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "mythology",
+        "legends",
+        "heroes"
+      ]
+    },
+    {
+      "id": "DiscoveryLab01",
+      "name": "Asaba Discovery Lab",
+      "short_description": "A hands-on science center where children can explore physics, chemistry, and biology through interactive exhibits and experiments.",
+      "subtype": "Science Centers",
+      "address": "Okpanam Road, Near Admiralty University, Asaba, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628126742512-32a7e780d6ae?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "science",
+        "experiments",
+        "STEM"
+      ]
+    },
+    {
+      "id": "DeltaTechExploratorium02",
+      "name": "Delta Tech Exploratorium",
+      "short_description": "Focusing on technology and innovation, this center features robotics workshops, coding labs, and virtual reality experiences for young tech enthusiasts.",
+      "subtype": "Science Centers",
+      "address": "Summit Road, By Immigration Office, Asaba, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1532187807271-e70c53443a9b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "technology",
+        "robotics",
+        "coding"
+      ]
+    },
+    {
+      "id": "CuriosityCorner03",
+      "name": "Curiosity Corner Asaba",
+      "short_description": "Designed for preschoolers and early elementary children, offering engaging exhibits that introduce basic scientific concepts through play.",
+      "subtype": "Science Centers",
+      "address": "Nnebisi Road, Opposite Shoprite, Asaba, Delta State",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628126742512-32a7e780d6ae?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "preschool",
+        "early learning",
+        "play-based"
+      ]
+    },
+    {
+      "id": "AsabaInnovationHub04",
+      "name": "Asaba Innovation Hub for Kids",
+      "short_description": "A dynamic center encouraging creativity and critical thinking through engineering challenges, design studios, and renewable energy displays.",
+      "subtype": "Science Centers",
+      "address": "DLA Road, By Immigration Office, Asaba, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1532187807271-e70c53443a9b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "innovation",
+        "engineering",
+        "critical thinking"
+      ]
+    },
+    {
+      "id": "AsabaSplashLagoon01",
+      "name": "Asaba Splash Lagoon",
+      "short_description": "The largest water park in Asaba, featuring thrilling slides, a large wave pool, and extensive splash pads for all ages.",
+      "subtype": "Water Parks for Kids",
+      "address": "Asaba-Illah Road, Beside Admiralty University, Asaba, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582234057639-509ce13b6329?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "water slides",
+        "wave pool",
+        "family fun"
+      ]
+    },
+    {
+      "id": "KiddieFalls02",
+      "name": "Kiddie Falls Water Park",
+      "short_description": "A vibrant water park specifically designed for young children, offering shallow pools, gentle slides, and interactive water play structures.",
+      "subtype": "Water Parks for Kids",
+      "address": "Nnebisi Road, Near Legislative Quarters, Asaba, Delta State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582234057639-509ce13b6329?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddler friendly",
+        "splash pads",
+        "gentle slides"
+      ]
+    },
+    {
+      "id": "AquaOasisAsaba03",
+      "name": "Aqua Oasis Asaba",
+      "short_description": "Relax and play at this water park featuring a lazy river, smaller slides, and shaded areas, perfect for a refreshing day out.",
+      "subtype": "Water Parks for Kids",
+      "address": "Okpanam Road, By Housing Estate, Asaba, Delta State",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582234057639-509ce13b6329?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "lazy river",
+        "relaxation",
+        "refreshing"
+      ]
+    },
+    {
+      "id": "DeltaRiverRapids04",
+      "name": "Delta River Rapids Water Park",
+      "short_description": "For older kids seeking adventure, this park offers fast-paced river rides, tube slides, and a challenging water obstacle course.",
+      "subtype": "Water Parks for Kids",
+      "address": "Dennis Osadebay Way, Near Asaba Sports Complex, Asaba, Delta State",
+      "opening_hours": "10:30-18:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582234057639-509ce13b6329?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "tube slides",
+        "rapids",
+        "adventure"
+      ]
+    },
+    {
+      "id": "AsabaWildlifePark01",
+      "name": "Asaba Wildlife Park",
+      "short_description": "Home to a variety of native Nigerian animals and some exotic species, promoting conservation and animal education.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Asaba-Illah Road, Near Naval Base, Asaba, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601614050519-d1bf1e114671?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "education"
+      ]
+    },
+    {
+      "id": "DeltaPettingFarm02",
+      "name": "Delta Petting Farm & Gardens",
+      "short_description": "An interactive farm where children can meet, feed, and learn about friendly farm animals, alongside beautiful gardens.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Koka Junction, Behind Asaba Mall, Asaba, Delta State",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596707328643-dd5c531ef5d4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "farm animals",
+        "petting",
+        "gardens"
+      ]
+    },
+    {
+      "id": "JungleFriendsZoo03",
+      "name": "Jungle Friends Mini Zoo",
+      "short_description": "A compact zoo focused on smaller, exotic animals, offering up-close encounters and educational programs about their habitats.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "DLA Road, Near Power Line, Asaba, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601614050519-d1bf1e114671?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "exotic animals",
+        "up-close",
+        "habitats"
+      ]
+    },
+    {
+      "id": "MiniSafariAsaba04",
+      "name": "Mini Safari Asaba",
+      "short_description": "Experience a walk-through mini-safari showcasing a curated selection of African wildlife in spacious, naturalistic enclosures.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Off Nnebisi Road, Near Delta State Civil Service Commission, Asaba, Delta State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1502693952174-897d280e2d31?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "african wildlife",
+        "safari",
+        "naturalistic"
+      ]
+    },
+    {
+      "id": "YoungExplorersMuseum01",
+      "name": "Asaba Young Explorers Museum",
+      "short_description": "An interactive museum designed for children to learn through play, covering topics from local history to global cultures.",
+      "subtype": "Children’s Museums",
+      "address": "Government House Annex Road, GRA, Asaba, Delta State",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1544716278-ca52e99be0f7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive",
+        "learning",
+        "culture"
+      ]
+    },
+    {
+      "id": "FutureLeadersMuseum02",
+      "name": "Future Leaders Museum Asaba",
+      "short_description": "Inspiring children through exhibits on community roles, career paths, and leadership skills, encouraging them to envision their future.",
+      "subtype": "Children’s Museums",
+      "address": "Dennis Osadebay Way, Opposite State House of Assembly, Asaba, Delta State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1520695027599-2a9019672721?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "careers",
+        "community",
+        "leadership"
+      ]
+    },
+    {
+      "id": "DeltaHeritageKids03",
+      "name": "Delta Heritage Kids' Museum",
+      "short_description": "Dedicated to the rich cultural heritage of the Delta region, with hands-on exhibits showcasing traditions, arts, and history for young minds.",
+      "subtype": "Children’s Museums",
+      "address": "Mariam Babangida Way, Near Delta State Library, Asaba, Delta State",
+      "opening_hours": "09:30-16:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1544716278-ca52e99be0f7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "heritage",
+        "culture",
+        "history"
+      ]
+    },
+    {
+      "id": "CreativeMindsMuseum04",
+      "name": "Creative Minds Museum Asaba",
+      "short_description": "A vibrant space where children can unleash their creativity through art workshops, music zones, and innovative design challenges.",
+      "subtype": "Children’s Museums",
+      "address": "Okpanam Road, By Police Headquarters, Asaba, Delta State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520695027599-2a9019672721?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "creativity",
+        "innovation"
+      ]
+    },
+    {
+      "id": "AsabaBricktopia01",
+      "name": "Asaba Bricktopia: The Lego Zone",
+      "short_description": "A paradise for Lego fans, featuring massive builds, free-play brick pits, and creative construction challenges for all ages.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Ibusa Road, Behind Delta Mall, Asaba, Delta State",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1512402120464-a69077227d85?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Lego",
+        "construction",
+        "creative play"
+      ]
+    },
+    {
+      "id": "DeltaConstructItLand02",
+      "name": "Delta Construct-It Land",
+      "short_description": "An expansive construction park offering large-scale building blocks, sandpits with diggers, and various tools for hands-on engineering fun.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Asaba-Illah Road, By Summit Junction, Asaba, Delta State",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1527813959954-6e6912389d46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "building blocks",
+        "sandpit",
+        "engineering"
+      ]
+    },
+    {
+      "id": "TinyBuildersWorkshop03",
+      "name": "Tiny Builders Workshop Asaba",
+      "short_description": "A safe and stimulating environment for toddlers and preschoolers to engage with oversized soft blocks, magnetic tiles, and simple construction toys.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Ezenei Avenue, Near Federal Secretariat, Asaba, Delta State",
+      "opening_hours": "09:30-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1512402120464-a69077227d85?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddlers",
+        "soft blocks",
+        "magnetic tiles"
+      ]
+    },
+    {
+      "id": "MegaBlockMania04",
+      "name": "Mega Block Mania Asaba",
+      "short_description": "Experience the thrill of building colossal structures with giant interlocking blocks, fostering teamwork and imaginative play.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Nnebisi Road, Near Legislative Quarters, Asaba, Delta State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1527813959954-6e6912389d46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "giant blocks",
+        "teamwork",
+        "imaginative play"
+      ]
+    }
+  ]
+}

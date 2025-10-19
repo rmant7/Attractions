@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Nairobi",
+    "city_id": "2438"
+  },
+  "items": [
+    {
+      "id": "NAI_HA_001",
+      "name": "GoDown Arts Centre Courtyard",
+      "short_description": "Discover a vibrant oasis where local artists showcase their craft and creative energy pulses. This hidden courtyard is perfect for capturing the spirit of Nairobi's art scene.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Dunga Road, Industrial Area",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Inside_Go_Down_Arts_Centre_Nairobi.jpg",
+      "tags": [
+        "artistic",
+        "creative hub",
+        "local culture"
+      ]
+    },
+    {
+      "id": "NAI_HA_002",
+      "name": "Karen Blixen Coffee Garden Annex",
+      "short_description": "Escape to the tranquil, lesser-known corners of the Karen Blixen Coffee Garden, where lush greenery and charming pathways create an intimate, serene setting. Ideal for quiet contemplation and beautiful shots.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Karen Road, Karen",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1616766436979-37f2613d9f10?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "garden",
+        "tranquil",
+        "colonial charm"
+      ]
+    },
+    {
+      "id": "NAI_HA_003",
+      "name": "Utamaduni Crafts Centre Courtyard",
+      "short_description": "Wander through the charming courtyards of Utamaduni, a treasure trove of East African crafts. Its rustic architecture and colorful displays offer unique photographic opportunities.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Langata South Road, Karen",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Utamaduni_Centre_Kenya.jpg/1280px-Utamaduni_Centre_Kenya.jpg",
+      "tags": [
+        "crafts",
+        "cultural",
+        "boutique shopping"
+      ]
+    },
+    {
+      "id": "NAI_HA_004",
+      "name": "The Hub Karen's Green Passages",
+      "short_description": "Beyond the main shopping areas, discover verdant walkways and quiet corners within The Hub Karen. These well-landscaped spaces provide a refreshing escape and elegant backdrops.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Karen, Dagoretti Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1579781390312-d992147171d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "urban oasis",
+        "modern",
+        "green space"
+      ]
+    },
+    {
+      "id": "NAI_BR_001",
+      "name": "Karura Forest Lily Lake Bridge",
+      "short_description": "Cross the picturesque wooden bridge over Lily Lake in Karura Forest, surrounded by lush vegetation and the sounds of nature. It's a serene spot for breathtaking nature shots.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Karura Forest, Muthaiga",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1617415175908-1647f07e5e3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "nature",
+        "forest",
+        "serene"
+      ]
+    },
+    {
+      "id": "NAI_BR_002",
+      "name": "Ngong Hills Viewpoint",
+      "short_description": "Ascend the iconic Ngong Hills for expansive panoramic views of the Great Rift Valley and Nairobi's distant skyline. The rolling hills and dramatic vistas offer unparalleled photo opportunities.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Ngong Town",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ngong_Hills_View_Point.jpg/1280px-Ngong_Hills_View_Point.jpg",
+      "tags": [
+        "landscape",
+        "scenic",
+        "adventure"
+      ]
+    },
+    {
+      "id": "NAI_BR_003",
+      "name": "Uhuru Gardens Footbridge",
+      "short_description": "Capture a unique perspective of Nairobi from the contemporary footbridge at Uhuru Gardens. Its modern design against the city backdrop makes for compelling urban photography.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Uhuru Gardens, Lang'ata Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1634676140502-d9f75841ef71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "modern architecture",
+        "urban",
+        "public space"
+      ]
+    },
+    {
+      "id": "NAI_BR_004",
+      "name": "Nairobi National Park Overlooks",
+      "short_description": "Discover various elevated points within Nairobi National Park offering stunning views of wildlife against the backdrop of the city skyline. A truly unique safari-in-the-city experience.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Nairobi National Park",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1547481816-11f81a704944?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "wildlife",
+        "safari",
+        "cityscape"
+      ]
+    },
+    {
+      "id": "NAI_IP_001",
+      "name": "Sankara Nairobi Rooftop Pool",
+      "short_description": "Indulge in luxury at Sankara's exquisite rooftop infinity pool, offering a chic escape and stunning views of the Westlands skyline. Perfect for a refreshing dip and stylish photos.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Sankara Nairobi, Westlands",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1560969185-1d6cd20e2ef6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "luxury",
+        "rooftop",
+        "city views"
+      ]
+    },
+    {
+      "id": "NAI_IP_002",
+      "name": "Radisson Blu Upper Hill Pool",
+      "short_description": "Experience urban tranquility at the Radisson Blu Upper Hill's infinity pool, gazing over the Nairobi cityscape. An ideal spot for unwinding and capturing sleek, modern aesthetics.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Radisson Blu, Upper Hill",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1588636402447-0e6d62f68b5a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "modern",
+        "skyline",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "NAI_IP_003",
+      "name": "Trademark Hotel Pool (Village Market)",
+      "short_description": "Relax in the sophisticated infinity pool at The Trademark Hotel, overlooking the bustling Village Market. Its contemporary design and vibrant surroundings offer a unique urban retreat.",
+      "subtype": "Infinity Pools",
+      "location_hint": "The Trademark Hotel, Village Market",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596701077755-e4d6a67f1b2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "chic",
+        "shopping hub",
+        "modern design"
+      ]
+    },
+    {
+      "id": "NAI_IP_004",
+      "name": "Ole Sereni Hotel Pool with Wildlife View",
+      "short_description": "Enjoy the extraordinary experience of an infinity pool overlooking Nairobi National Park. Watch wildlife graze as you swim, an unparalleled blend of luxury and nature.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Ole Sereni Hotel, Mombasa Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1545624795-c2776c5b9678?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "wildlife",
+        "safari luxury",
+        "unique view"
+      ]
+    },
+    {
+      "id": "NAI_BCV_001",
+      "name": "Two Rivers Mall Waterfront Promenade",
+      "short_description": "Experience an urban 'waterfront' feel at Two Rivers Mall, with its expansive artificial lake, fountains, and vibrant promenade. It's a lively spot for evening strolls and reflections.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Two Rivers Mall, Limuru Road",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1620025114704-5f5f403e0e7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "urban lake",
+        "family friendly",
+        "night lights"
+      ]
+    },
+    {
+      "id": "NAI_BCV_002",
+      "name": "Nairobi National Park Riverine Spots",
+      "short_description": "Discover serene spots along the Athi River within Nairobi National Park. The river banks offer peaceful natural 'water views' and a chance to spot wildlife by the water's edge.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Nairobi National Park",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1628189676757-19a9a3b6f2e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "wildlife",
+        "nature",
+        "river views"
+      ]
+    },
+    {
+      "id": "NAI_BCV_003",
+      "name": "Karen Blixen Coffee Garden Ponds",
+      "short_description": "Stroll around the tranquil ornamental ponds at the Karen Blixen Coffee Garden, providing peaceful 'water views' amidst lush gardens. A calm retreat from the city's hustle.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Karen Road, Karen",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1601633013824-3f2d22b6207e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "garden oasis",
+        "peaceful",
+        "colonial history"
+      ]
+    },
+    {
+      "id": "NAI_BCV_004",
+      "name": "Safari Park Hotel's Man-made Lake",
+      "short_description": "Explore the extensive grounds of Safari Park Hotel, featuring a sprawling man-made lake with scenic pathways and bridges. It offers expansive water views in an elegant setting.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Safari Park Hotel, Thika Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582234085449-cd808269e38d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "resort",
+        "landscaped gardens",
+        "relaxing"
+      ]
+    },
+    {
+      "id": "NAI_SA_001",
+      "name": "Downtown Nairobi Alley Murals",
+      "short_description": "Wander through the backstreets of Nairobi's CBD to discover an explosion of vibrant murals and thought-provoking graffiti. Each corner tells a story through striking urban art.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Various alleys, Downtown Nairobi",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1606821102947-f31b816a735c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "urban art",
+        "graffiti",
+        "cultural expression"
+      ]
+    },
+    {
+      "id": "NAI_SA_002",
+      "name": "Kibera Walls of Fame",
+      "short_description": "Explore the impactful and colorful murals adorning the walls of Kibera, often conveying powerful social messages and celebrating community spirit. A moving and authentic art experience.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Kibera Slum, various spots",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1610444588820-e2b2c45f9c5d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "community art",
+        "social commentary",
+        "vibrant"
+      ]
+    },
+    {
+      "id": "NAI_SA_003",
+      "name": "Watalii Street Art Project",
+      "short_description": "Discover a curated collection of large-scale murals by local artists as part of the Watalii Street Art Project, transforming public spaces into outdoor galleries. A dynamic display of creativity.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near Moi Avenue / Globe Roundabout",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1605380572016-ed6f03d21b3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "public art",
+        "urban renewal",
+        "local artists"
+      ]
+    },
+    {
+      "id": "NAI_SA_004",
+      "name": "Mau Mau Art Centre Facades",
+      "short_description": "The exterior walls of the Mau Mau Art Centre are a canvas for stunning and thought-provoking murals, reflecting Kenyan history and contemporary themes. A must-see for art enthusiasts.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Mau Mau Road, Ruaraka",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1620025114704-5f5f403e0e7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "history",
+        "cultural art",
+        "outdoor gallery"
+      ]
+    },
+    {
+      "id": "NAI_FD_001",
+      "name": "The Talisman Restaurant Garden",
+      "short_description": "Dine in the enchanting garden setting of The Talisman, renowned for its delectable fusion cuisine and romantic ambiance. Every corner offers a picturesque backdrop for food and portrait photography.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Karen Road, Karen",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "fine dining",
+        "garden ambiance",
+        "romantic"
+      ]
+    },
+    {
+      "id": "NAI_FD_002",
+      "name": "Boho Eatery's Lush Patio",
+      "short_description": "Indulge in healthy, delicious meals amidst the bohemian charm of Boho Eatery's lush patio. Its vibrant greenery and rustic decor create a serene and Instagram-worthy dining experience.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Hardy, Karen",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1619478330541-e94d6e9e6129?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "healthy food",
+        "bohemian",
+        "greenery"
+      ]
+    },
+    {
+      "id": "NAI_FD_003",
+      "name": "Cultiva Coffee Roastery & Cafe",
+      "short_description": "Immerse yourself in the rustic-industrial chic ambiance of Cultiva, a specialty coffee roastery and cafe. Its unique decor and artisan coffee make it a haven for urban explorers and coffee lovers.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Karen Road, Karen",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1620025114704-5f5f403e0e7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "specialty coffee",
+        "industrial chic",
+        "artisanal"
+      ]
+    },
+    {
+      "id": "NAI_FD_004",
+      "name": "Carnivore Restaurant's Iconic Bar Area",
+      "short_description": "Step into the wild-themed Dawa Bar at Carnivore Restaurant, famous for its potent cocktails and vibrant atmosphere. The unique decor and lively energy are perfect for capturing Nairobi's nightlife spirit.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Lang'ata Road, Lang'ata",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1590457186989-b146e4d9b407?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "safari theme",
+        "cocktail bar",
+        "lively atmosphere"
+      ]
+    },
+    {
+      "id": "NAI_CN_001",
+      "name": "Maasai Market Pop-Up",
+      "short_description": "Immerse yourself in the vibrant spectacle of the Maasai Market, where a riot of colorful beads, textiles, and crafts creates an unparalleled visual feast. It's a photographer's dream for cultural shots.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Various locations (check schedule)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1521798363768-e32cf628e8d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "cultural market",
+        "vibrant textiles",
+        "local crafts"
+      ]
+    },
+    {
+      "id": "NAI_CN_002",
+      "name": "Kariokor Market's Leather Goods Section",
+      "short_description": "Explore the bustling Kariokor Market, particularly its leather goods section, where colorful bags, sandals, and belts are displayed in a lively mosaic. A vibrant spot for unique finds and photos.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Kariokor, Eastleigh",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1620025114704-5f5f403e0e7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "local market",
+        "handmade goods",
+        "colorful displays"
+      ]
+    },
+    {
+      "id": "NAI_CN_003",
+      "name": "Toi Market's Fabric Stalls",
+      "short_description": "Get lost in the dazzling array of fabrics and textiles at Toi Market, where stall after stall bursts with every color imaginable. It's a sensory delight and a vibrant backdrop for photos.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Kibera Drive, Woodley",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1532014023908-5910a3014a68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "textiles",
+        "bargain hunting",
+        "local commerce"
+      ]
+    },
+    {
+      "id": "NAI_CN_004",
+      "name": "Kibera's Community Art & Vibrant Life",
+      "short_description": "While a challenging visit, parts of Kibera showcase vibrant community art projects and the energetic, colorful daily life of its residents. Engage respectfully to capture authentic moments.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Kibera, various sections",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1620025114704-5f5f403e0e7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "community",
+        "street scenes",
+        "authentic"
+      ]
+    },
+    {
+      "id": "NAI_IS_001",
+      "name": "Parliament Buildings Steps",
+      "short_description": "Capture the grandeur of the Kenyan Parliament Buildings' sweeping steps, a symbol of national heritage and power. Its classic architecture provides a stately backdrop for photos.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Parliament Road, CBD",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1620025114704-5f5f403e0e7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "historical",
+        "architecture",
+        "government"
+      ]
+    },
+    {
+      "id": "NAI_IS_002",
+      "name": "National Archives Grand Staircase",
+      "short_description": "Ascend the impressive grand staircase within the Kenya National Archives, a beautifully preserved piece of colonial architecture. Its elegant design and historical aura make for a unique photo spot.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Moi Avenue, CBD",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kenya_National_Archives_stairs.jpg",
+      "tags": [
+        "colonial",
+        "interior design",
+        "history"
+      ]
+    },
+    {
+      "id": "NAI_IS_003",
+      "name": "Karura Forest's Wooden Boardwalks",
+      "short_description": "Stroll along the tranquil wooden boardwalks of Karura Forest, winding through dense foliage to hidden waterfalls and caves. Perfect for nature lovers seeking serene and earthy photos.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Karura Forest, Muthaiga",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1574577322301-38c36829158c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "nature trail",
+        "eco-tourism",
+        "peaceful"
+      ]
+    },
+    {
+      "id": "NAI_IS_004",
+      "name": "Fairmont The Norfolk Hotel Historic Pathways",
+      "short_description": "Wander the elegant pathways and grand entrances of the historic Fairmont The Norfolk Hotel. Its colonial charm and manicured gardens offer a timeless and sophisticated backdrop.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Harry Thuku Road, CBD",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1616766436979-37f2613d9f10?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "luxury hotel",
+        "heritage",
+        "grandeur"
+      ]
+    },
+    {
+      "id": "NAI_MA_001",
+      "name": "Global Trade Centre (GTC) Complex",
+      "short_description": "Marvel at the towering Global Trade Centre, a symbol of Nairobi's rapid modernization. Its sleek glass facades and imposing stature offer incredible opportunities for contemporary architectural photography.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Westlands, Waiyaki Way",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1620025114704-5f5f403e0e7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "skyscraper",
+        "urban development",
+        "glass facade"
+      ]
+    },
+    {
+      "id": "NAI_MA_002",
+      "name": "Britam Tower's Distinctive Design",
+      "short_description": "Photograph the iconic Britam Tower, instantly recognizable by its unique prismatic, angular design. It stands out as a beacon of modern architectural innovation in Nairobi's skyline.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Upper Hill",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Britam_Tower%2C_Nairobi.jpg/1280px-Britam_Tower%2C_Nairobi.jpg",
+      "tags": [
+        "landmark",
+        "unique design",
+        "skyline"
+      ]
+    },
+    {
+      "id": "NAI_MA_003",
+      "name": "Strathmore Business School Building",
+      "short_description": "Admire the striking and innovative architecture of the Strathmore Business School. Its contemporary lines and thoughtful design provide a refreshing aesthetic for modern photography.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Ole Sangale Road, Madaraka",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Strathmore_University%2C_Main_Building.jpg",
+      "tags": [
+        "educational institution",
+        "innovative design",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "NAI_MA_004",
+      "name": "Two Rivers Mall Façade",
+      "short_description": "Capture the grand, expansive facade of Two Rivers Mall, showcasing modern design with sweeping curves and elegant materials. It's a statement of contemporary commercial architecture.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Limuru Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1620025114704-5f5f403e0e7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "shopping mall",
+        "commercial architecture",
+        "large scale"
+      ]
+    },
+    {
+      "id": "NAI_RV_001",
+      "name": "KICC Helipad Viewpoint",
+      "short_description": "Ascend to the iconic KICC helipad for unparalleled 360-degree panoramic views of Nairobi's sprawling cityscape. It's the ultimate spot to capture the urban grandeur, especially at sunset.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Kenyatta International Convention Centre, CBD",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1620025114704-5f5f403e0e7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "cityscape",
+        "panoramic",
+        "landmark"
+      ]
+    },
+    {
+      "id": "NAI_RV_002",
+      "name": "Sarabi Pool & Supper Club (Sankara)",
+      "short_description": "Indulge in sophisticated vibes and stunning Westlands skyline views from Sarabi's rooftop pool and supper club at Sankara. Perfect for chic evening shots and relaxed luxury.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Sankara Nairobi, Westlands",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1560969185-1d6cd20e2ef6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "luxury dining",
+        "nightlife",
+        "Westlands views"
+      ]
+    },
+    {
+      "id": "NAI_RV_003",
+      "name": "Nest at Trademark Hotel",
+      "short_description": "Discover Nest, the stylish rooftop lounge at The Trademark Hotel, offering trendy ambiance and excellent views over the Village Market area. Ideal for capturing modern urban leisure.",
+      "subtype": "Rooftop Views",
+      "location_hint": "The Trademark Hotel, Village Market",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596701077755-e4d6a67f1b2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "lounge",
+        "trendy",
+        "urban retreat"
+      ]
+    },
+    {
+      "id": "NAI_RV_004",
+      "name": "Hero Restaurant's Cityscape (Radisson Blu Arboretum)",
+      "short_description": "Savor a fusion of flavors at Hero Restaurant atop the Radisson Blu Arboretum, while enjoying sophisticated views of Nairobi's evolving cityscape. A prime spot for elegant dining with a view.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Radisson Blu Hotel, Arboretum",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1588636402447-0e6d62f68b5a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "fine dining",
+        "panoramic view",
+        "modern hotel"
+      ]
+    }
+  ]
+}

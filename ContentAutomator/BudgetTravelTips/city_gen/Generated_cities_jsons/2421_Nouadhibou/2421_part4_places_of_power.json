@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Nouadhibou",
+    "city_id": "2421"
+  },
+  "items": [
+    {
+      "id": "NDPY001",
+      "name": "The Whispering Pyramids of Dakhlet",
+      "short_description": "A cluster of wind-sculpted, ancient stone mounds, believed to be the burial sites of pre-Islamic tribal chiefs. Locals claim the wind carries the whispers of forgotten ancestors through their weathered stones.",
+      "subtype": "Pyramids",
+      "address": "Off Route de l'Aéroport, Dakhlet Nouadhibou, Mauritania",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Ruins_in_the_Sahara.jpg",
+      "tags": [
+        "ancient burial",
+        "desert mysticism",
+        "ancestral spirits"
+      ]
+    },
+    {
+      "id": "NDPY002",
+      "name": "Sunken Tombs of the Ocean Kings",
+      "short_description": "Partially submerged structures along the coast, these pyramid-like mounds are rumored to be the resting places of legendary seafaring rulers from a forgotten era, their secrets guarded by the tides.",
+      "subtype": "Pyramids",
+      "address": "Coastal area near Pointe Central, Nouadhibou, Mauritania",
+      "visiting_hours": "09:00-17:00 (tidal access)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1546764510-721473ae697b",
+      "tags": [
+        "maritime history",
+        "ancient rulers",
+        "coastal myth"
+      ]
+    },
+    {
+      "id": "NDPY003",
+      "name": "Pyramids of the Forgotten Nomads",
+      "short_description": "Located deeper in the desert hinterland, these modest pyramidal structures served as navigational markers and spiritual gathering points for ancient nomadic tribes traversing the Sahara.",
+      "subtype": "Pyramids",
+      "address": "25 km East of Nouadhibou, off N2 Highway, Mauritania",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1515150144383-298ae1dd1657",
+      "tags": [
+        "nomadic heritage",
+        "desert navigation",
+        "spiritual markers"
+      ]
+    },
+    {
+      "id": "NDPY004",
+      "name": "Twin Spires of the Falcon's Shadow",
+      "short_description": "Two distinct, eroded pyramidal rock formations revered by local communities as sacred sentinels. Legends speak of falcons nesting atop them, carrying prayers to the heavens.",
+      "subtype": "Pyramids",
+      "address": "Northeast of Nouadhibou, towards Parc National du Banc d'Arguin buffer zone, Mauritania",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1521743048924-fdf69b0572e8",
+      "tags": [
+        "nature worship",
+        "sacred birds",
+        "ancient reverence"
+      ]
+    },
+    {
+      "id": "NDAT001",
+      "name": "Sanctuary of the Sea Serpent",
+      "short_description": "Ruins of an ancient coastal shrine dedicated to a mythical sea creature believed to guard the local waters and bless fishermen. Offerings are still left by sailors seeking safe passage.",
+      "subtype": "Ancient Temples",
+      "address": "End of Rue des Pêcheurs, overlooking the bay, Nouadhibou, Mauritania",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1546764510-721473ae697b",
+      "tags": [
+        "maritime mythology",
+        "ancient shrine",
+        "fishermen's blessings"
+      ]
+    },
+    {
+      "id": "NDAT002",
+      "name": "Temple of the Desert Wind",
+      "short_description": "A collection of weathered stone altars and wind-carved structures deep in the desert, where ancient peoples sought communion with the spirit of the Sahara, believing the winds carried messages from the divine.",
+      "subtype": "Ancient Temples",
+      "address": "30 km South-East of Nouadhibou, towards the desert interior, Mauritania",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1629828552194-d2e7a0808b8e",
+      "tags": [
+        "desert spirituality",
+        "wind worship",
+        "ancient rituals"
+      ]
+    },
+    {
+      "id": "NDAT003",
+      "name": "Shrine of the Star-Gazers",
+      "short_description": "Built on a low rise, these ancient circular stone foundations and alignment markers were used by prehistoric inhabitants to track celestial movements, guiding their spiritual practices and nomadic journeys.",
+      "subtype": "Ancient Temples",
+      "address": "Plateau de l'Est, near the old lighthouse, Nouadhibou, Mauritania",
+      "visiting_hours": "Open 24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1519782806253-1593efc211fc",
+      "tags": [
+        "archaeoastronomy",
+        "celestial worship",
+        "ancient wisdom"
+      ]
+    },
+    {
+      "id": "NDAT004",
+      "name": "Elder's Rock Sanctuary",
+      "short_description": "A natural rock shelter adorned with ancient petroglyphs, this site served as a council chamber and sacred space for tribal elders to impart wisdom and perform initiations.",
+      "subtype": "Ancient Temples",
+      "address": "Near Port Artisanal, in a rocky outcrop, Nouadhibou, Mauritania",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1519541011868-b7a661b17b6a",
+      "tags": [
+        "rock art",
+        "ancestral wisdom",
+        "initiation site"
+      ]
+    },
+    {
+      "id": "NDHS001",
+      "name": "Aïn al-Baraka (Well of Blessings)",
+      "short_description": "An ancient well renowned for its supposedly miraculous healing waters, attracting pilgrims seeking solace and cures for centuries. Its waters are said to carry the blessings of Sufi saints.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Quartier de la Medina, near the old market, Nouadhibou, Mauritania",
+      "visiting_hours": "06:00-20:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1592391090623-01c565c5d0e2",
+      "tags": [
+        "healing waters",
+        "Sufi pilgrimage",
+        "sacred well"
+      ]
+    },
+    {
+      "id": "NDHS002",
+      "name": "Spring of the Mirages",
+      "short_description": "Located in a remote desert oasis, this spring is believed to offer visions and prophetic dreams to those who drink from its waters under the full moon, though its location is often elusive.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Deep desert, accessible via guided tour from Nouadhibou",
+      "visiting_hours": "By appointment only (guided tour)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1522204523234-8729aa6ed03d",
+      "tags": [
+        "prophetic visions",
+        "desert oasis",
+        "mystical spring"
+      ]
+    },
+    {
+      "id": "NDHS003",
+      "name": "Sultan's Secret Spring",
+      "short_description": "Hidden within a rocky grotto, this spring was historically reserved for ancient rulers and their spiritual advisors, its pure waters used in purification rituals and for consultations on matters of state.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Grottoes of Cap Blanc, accessible via coastal path, Nouadhibou, Mauritania",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1571408375638-349f481c000f",
+      "tags": [
+        "royal rituals",
+        "purification",
+        "hidden spring"
+      ]
+    },
+    {
+      "id": "NDHS004",
+      "name": "Oasis of the Ancestors",
+      "short_description": "A vital water source in the desert, surrounded by ancient date palms. It's believed that the spirits of ancient tribal ancestors reside here, watching over travelers and bestowing blessings upon those who respect the land.",
+      "subtype": "Holy Springs & Wells",
+      "address": "40 km North-East of Nouadhibou, along an ancient caravan route, Mauritania",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1518600115004-94b321a588b3",
+      "tags": [
+        "ancestral spirits",
+        "desert life",
+        "blessed land"
+      ]
+    },
+    {
+      "id": "NDSM001",
+      "name": "Jabal al-Noor (Mountain of Light)",
+      "short_description": "A prominent hill outside the city, famed for its breathtaking sunrises and sunsets. It's considered a place of spiritual reflection, where the first light of dawn is believed to bring divine inspiration.",
+      "subtype": "Sacred Mountains",
+      "address": "Outskirts of Nouadhibou, access via Route de l'Est",
+      "visiting_hours": "Open 24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1513361869811-1c5836c1e539",
+      "tags": [
+        "spiritual reflection",
+        "sunrise views",
+        "divine inspiration"
+      ]
+    },
+    {
+      "id": "NDSM002",
+      "name": "Serpent's Ridge",
+      "short_description": "A long, winding rocky outcrop resembling a coiled serpent, venerated by ancient communities as a guardian spirit of the land. Petroglyphs depicting serpent figures are found along its base.",
+      "subtype": "Sacred Mountains",
+      "address": "10 km North of Nouadhibou, near a dry wadi, Mauritania",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1588665793010-86d1a100a75d",
+      "tags": [
+        "guardian spirit",
+        "petroglyphs",
+        "ancient veneration"
+      ]
+    },
+    {
+      "id": "NDSM003",
+      "name": "Echoing Summit",
+      "short_description": "The highest point overlooking Nouadhibou bay, known for its unusual acoustic properties. Ancient rituals involving chants and drumming were performed here, their echoes believed to carry prayers to the heavens and across the ocean.",
+      "subtype": "Sacred Mountains",
+      "address": "West of the city, overlooking Baie du Lévrier, Nouadhibou, Mauritania",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506748687229-7d72729a9978",
+      "tags": [
+        "ancient rituals",
+        "acoustic phenomena",
+        "prayer site"
+      ]
+    },
+    {
+      "id": "NDSM004",
+      "name": "Fisherman's Guiding Peak",
+      "short_description": "A distinctive coastal hill traditionally used by local fishermen as a navigational landmark and a place to offer prayers for a bountiful catch and safe return. Its summit offers panoramic views of the Atlantic.",
+      "subtype": "Sacred Mountains",
+      "address": "Coastal path near Cansado, Nouadhibou, Mauritania",
+      "visiting_hours": "Open 24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579227575790-257a629633c7",
+      "tags": [
+        "maritime tradition",
+        "navigational aid",
+        "prayer for safety"
+      ]
+    },
+    {
+      "id": "NDAC001",
+      "name": "Ruins of Ghala al-Qadim (The Old Citadel)",
+      "short_description": "Remnants of a fortified settlement, believed to be an early precursor to Nouadhibou, strategically located to control ancient trade routes between the desert interior and the Atlantic coast.",
+      "subtype": "Ancient Cities",
+      "address": "15 km North-East of Nouadhibou, Mauritania",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1563212720-333e387c6999",
+      "tags": [
+        "ancient trade",
+        "fortified settlement",
+        "historical ruins"
+      ]
+    },
+    {
+      "id": "NDAC002",
+      "name": "Port of the Whispering Sands",
+      "short_description": "A partially buried ancient port city, now largely reclaimed by the desert sands and the sea. Its crumbling walls and exposed foundations hint at a bustling maritime past, often visited by spiritual seekers hearing phantom market sounds.",
+      "subtype": "Ancient Cities",
+      "address": "Along the coast, South of Nouadhibou, Mauritania",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1546764510-721473ae697b",
+      "tags": [
+        "submerged history",
+        "maritime trade",
+        "ghost town"
+      ]
+    },
+    {
+      "id": "NDAC003",
+      "name": "The Lost Oasis City of Tamsaguet",
+      "short_description": "A legendary oasis city, now mostly covered by sand, that served as a vital spiritual and economic hub for Saharan caravans. Excavations occasionally reveal parts of its grand mosque and market.",
+      "subtype": "Ancient Cities",
+      "address": "50 km East of Nouadhibou, deep desert, Mauritania",
+      "visiting_hours": "By guided tour only",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1629828552194-d2e7a0808b8e",
+      "tags": [
+        "caravan routes",
+        "desert archaeology",
+        "lost civilization"
+      ]
+    },
+    {
+      "id": "NDAC004",
+      "name": "Citadel of the Blue Men",
+      "short_description": "The remains of an ancient fortified settlement, attributed to the 'Blue Men' (Tuareg-like nomadic tribes), strategically placed to defend valuable water sources and trade routes. It symbolizes their resilience and warrior spirit.",
+      "subtype": "Ancient Cities",
+      "address": "Near the Mauritanian-Western Sahara border, accessible via 4x4, Mauritania",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1523497910074-b52e399b1190",
+      "tags": [
+        "Berber heritage",
+        "desert fortress",
+        "ancient defense"
+      ]
+    },
+    {
+      "id": "NDDP001",
+      "name": "Singing Dunes of the White Desert",
+      "short_description": "A unique expanse of sand dunes that emit a low, resonant hum when the wind passes over them, a phenomenon attributed to desert spirits communicating with the mortal realm.",
+      "subtype": "Desert Power Sites",
+      "address": "60 km North-East of Nouadhibou, Mauritania",
+      "visiting_hours": "Open 24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1515150144383-298ae1dd1657",
+      "tags": [
+        "natural phenomenon",
+        "desert spirits",
+        "acoustic wonder"
+      ]
+    },
+    {
+      "id": "NDDP002",
+      "name": "Magnetic Rocks of Timiris",
+      "short_description": "A desolate area characterized by unusually magnetic rock formations that are believed to disorient compasses and minds, creating a powerful, unsettling energy field. Some say it's a gateway to another dimension.",
+      "subtype": "Desert Power Sites",
+      "address": "Inland from Cap Timiris, accessible via 4x4 tour, Mauritania",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1521743048924-fdf69b0572e8",
+      "tags": [
+        "geomagnetic anomaly",
+        "mysterious energy",
+        "desert secrets"
+      ]
+    },
+    {
+      "id": "NDDP003",
+      "name": "The Eye of the Sahara (local variant)",
+      "short_description": "A smaller, local geological formation mirroring the famous 'Eye of Richat', believed by ancient cultures to be a sacred imprint left by a divine entity or a portal to other worlds.",
+      "subtype": "Desert Power Sites",
+      "address": "80 km East of Nouadhibou, visible from high ground, Mauritania",
+      "visiting_hours": "Daylight hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1629828552194-d2e7a0808b8e",
+      "tags": [
+        "geological wonder",
+        "divine imprint",
+        "ancient portal"
+      ]
+    },
+    {
+      "id": "NDDP004",
+      "name": "Stargate Cairn of the Ancients",
+      "short_description": "An arrangement of large standing stones and cairns, precisely placed by an ancient civilization, believed to harness cosmic energy and align with specific stellar constellations, serving as a power nexus.",
+      "subtype": "Desert Power Sites",
+      "address": "Isolated desert plateau, 70 km North of Nouadhibou, Mauritania",
+      "visiting_hours": "Open 24 hours",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1519782806253-1593efc211fc",
+      "tags": [
+        "cosmic energy",
+        "ancient alignments",
+        "power nexus"
+      ]
+    },
+    {
+      "id": "NDBD001",
+      "name": "Plain of the Golden Lance",
+      "short_description": "Legendary site of a decisive ancient battle between warring desert tribes, said to have shaped the geopolitical landscape of the region. Local folklore speaks of golden weapons still buried beneath the sands.",
+      "subtype": "Battlefields of Destiny",
+      "address": "35 km East of Nouadhibou, near a prominent wadi, Mauritania",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1515150144383-298ae1dd1657",
+      "tags": [
+        "ancient warfare",
+        "tribal history",
+        "legendary battle"
+      ]
+    },
+    {
+      "id": "NDBD002",
+      "name": "Lagoon of Whispers and Lost Ships",
+      "short_description": "A shallow coastal lagoon where a historical naval engagement took place, resulting in numerous shipwrecks. The site is now revered as a memorial, with local fishermen believing the spirits of lost sailors whisper on the winds.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Baie du Lévrier, near the shipwreck graveyard, Nouadhibou, Mauritania",
+      "visiting_hours": "09:00-17:00 (tidal access)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596767746927-440266014605",
+      "tags": [
+        "naval history",
+        "shipwreck memorial",
+        "maritime spirits"
+      ]
+    },
+    {
+      "id": "NDBD003",
+      "name": "Siege Walls of Khor Habbana",
+      "short_description": "The crumbling remains of ancient defensive walls and watchtowers, marking the site of a prolonged siege against an early coastal settlement. It stands as a testament to ancient resilience and conflict.",
+      "subtype": "Battlefields of Destiny",
+      "address": "North of Nouadhibou, overlooking a small bay, Mauritania",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1563212720-333e387c6999",
+      "tags": [
+        "ancient siege",
+        "fortification",
+        "historical resilience"
+      ]
+    },
+    {
+      "id": "NDBD004",
+      "name": "The Last Stand of the Sanhaja",
+      "short_description": "A barren plateau where a final, desperate battle was fought by a historic tribal confederation against invading forces, marking a turning point in the region's cultural and political history.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Remote desert plateau, 90 km East of Nouadhibou, Mauritania",
+      "visiting_hours": "Daylight hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1522204523234-8729aa6ed03d",
+      "tags": [
+        "tribal conflict",
+        "historical turning point",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "NDVZ001",
+      "name": "Black Basalt Fields of Al-Haram",
+      "short_description": "An ancient expanse of dark, jagged basalt rock formations, remnants of pre-historic volcanic activity or deep geological upwellings. Locals believe these 'black rocks' hold powerful earth energy.",
+      "subtype": "Volcanic Zones",
+      "address": "45 km South-East of Nouadhibou, Mauritania",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1558227656-32ef2e5f32fe",
+      "tags": [
+        "geological wonder",
+        "earth energy",
+        "prehistoric activity"
+      ]
+    },
+    {
+      "id": "NDVZ002",
+      "name": "Dragon's Breath Grotto",
+      "short_description": "A large cave system within an ancient lava tube, known for warm air currents emanating from its depths, thought to be the 'breath' of a dormant mythical desert dragon.",
+      "subtype": "Volcanic Zones",
+      "address": "Near Al-Haram, accessible via guided tour, Mauritanian Sahara",
+      "visiting_hours": "09:00-16:00 (guided tour only)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1571408375638-349f481c000f",
+      "tags": [
+        "lava tube",
+        "mythical creatures",
+        "geothermal anomaly"
+      ]
+    },
+    {
+      "id": "NDVZ003",
+      "name": "Obsidian Tears Island",
+      "short_description": "A small, rocky islet off the coast, composed entirely of dark, glassy obsidian and similar volcanic rocks. The island is said to weep 'tears' of black rock into the sea, holding ancient prophecies.",
+      "subtype": "Volcanic Zones",
+      "address": "Coastal area near Cansado, accessible by boat tour, Nouadhibou, Mauritania",
+      "visiting_hours": "10:00-16:00 (boat access)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1589397635905-248d08510f21",
+      "tags": [
+        "volcanic island",
+        "obsidian rocks",
+        "ancient prophecies"
+      ]
+    },
+    {
+      "id": "NDVZ004",
+      "name": "Whispering Basalt Columns of Azweiga",
+      "short_description": "A striking formation of hexagonal basalt columns, remnants of a bygone geological era. When the wind passes through them, they create eerie, whispering sounds, believed to be the voices of ancient earth spirits.",
+      "subtype": "Volcanic Zones",
+      "address": "Azweiga region, 55 km East of Nouadhibou, Mauritania",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1578912318029-79a0b938c5d2",
+      "tags": [
+        "basalt columns",
+        "earth spirits",
+        "geological music"
+      ]
+    },
+    {
+      "id": "NDCA001",
+      "name": "Stellar Oasis Stone Circle",
+      "short_description": "An ancient stone circle within a remote desert oasis, precisely aligned with the solstices and equinoxes. It served as a prehistoric observatory and a ritual site for celestial worship.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Oasis of Ksar, 75 km East of Nouadhibou, Mauritania",
+      "visiting_hours": "Open 24 hours",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1616110515153-f728c3194095",
+      "tags": [
+        "solstice alignment",
+        "ancient astronomy",
+        "celestial rituals"
+      ]
+    },
+    {
+      "id": "NDCA002",
+      "name": "Shadow of the Equinox",
+      "short_description": "A distinctive natural rock arch that casts a specific, elongated shadow aligning perfectly with another marker during the spring and autumn equinoxes, signaling ancient planting and harvest times.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Desert scrubland, 20 km North-East of Nouadhibou, Mauritania",
+      "visiting_hours": "Open 24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1521743048924-fdf69b0572e8",
+      "tags": [
+        "equinox markers",
+        "ancient calendar",
+        "shadow play"
+      ]
+    },
+    {
+      "id": "NDCA003",
+      "name": "Lunar Gate Arch",
+      "short_description": "A large natural rock arch along the coast, uniquely positioned so that the full moon, particularly during specific lunar cycles, appears framed perfectly within its opening, a sacred sight for ancient coastal tribes.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Cap Blanc peninsula, accessible via coastal walk, Nouadhibou, Mauritania",
+      "visiting_hours": "Open 24 hours (best at night)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1589397635905-248d08510f21",
+      "tags": [
+        "lunar cycles",
+        "natural arch",
+        "coastal spirituality"
+      ]
+    },
+    {
+      "id": "NDCA004",
+      "name": "Orion's Desert Lookout",
+      "short_description": "A high, flat-topped mesa deep in the desert, used by ancient stargazers to observe and chart the constellations, particularly Orion, which held significant mythological importance for their spiritual beliefs and navigation.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Remote desert mesa, 100 km East of Nouadhibou, Mauritania",
+      "visiting_hours": "Open 24 hours",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1629828552194-d2e7a0808b8e",
+      "tags": [
+        "stargazing",
+        "ancient mythology",
+        "desert navigation"
+      ]
+    },
+    {
+      "id": "NDCX001",
+      "name": "Caravan Serai of the Three Winds",
+      "short_description": "The ruins of a once-bustling ancient caravan serai, located at the convergence of three major Saharan trade routes. It was a vital hub for goods, ideas, and spiritual traditions from across Africa.",
+      "subtype": "Crossroads",
+      "address": "40 km North-East of Nouadhibou, Mauritania",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1563212720-333e387c6999",
+      "tags": [
+        "trade routes",
+        "cultural exchange",
+        "ancient hospitality"
+      ]
+    },
+    {
+      "id": "NDCX002",
+      "name": "Path of the Sufi Pilgrims",
+      "short_description": "A historical track that served as a spiritual conduit for Sufi pilgrims traveling between coastal Mauritania and other holy sites in West Africa, marked by small shrines and prayer stones.",
+      "subtype": "Crossroads",
+      "address": "Starting near the old mosque, Quartier Ville, Nouadhibou, Mauritania",
+      "visiting_hours": "Open 24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1592391090623-01c565c5d0e2",
+      "tags": [
+        "Sufism",
+        "pilgrimage route",
+        "spiritual journey"
+      ]
+    },
+    {
+      "id": "NDCX003",
+      "name": "Maritime Merchants' Meeting Point",
+      "short_description": "The site of an ancient coastal trading post where desert caravans met sea vessels, facilitating a unique blend of Saharan and Atlantic cultures. It was a place of vibrant exchange and innovation.",
+      "subtype": "Crossroads",
+      "address": "Old Port area, near the fishing market, Nouadhibou, Mauritania",
+      "visiting_hours": "09:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1546764510-721473ae697b",
+      "tags": [
+        "maritime trade",
+        "cultural fusion",
+        "ancient commerce"
+      ]
+    },
+    {
+      "id": "NDCX004",
+      "name": "Gate of the Silent Traders",
+      "short_description": "A legendary, remote pass through rocky hills where ancient, clandestine trade exchanges were said to occur under strict rituals of silence, symbolizing trust and mutual respect between diverse peoples.",
+      "subtype": "Crossroads",
+      "address": "Hidden pass in the Tiris Zemmour foothills, 110 km East of Nouadhibou, Mauritania",
+      "visiting_hours": "By guided tour only",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1588665793010-86d1a100a75d",
+      "tags": [
+        "secret trade",
+        "ancient rituals",
+        "desert passage"
+      ]
+    }
+  ]
+}

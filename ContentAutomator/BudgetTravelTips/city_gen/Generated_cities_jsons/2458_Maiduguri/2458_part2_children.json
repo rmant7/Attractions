@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Maiduguri",
+    "city_id": "2458"
+  },
+  "items": [
+    {
+      "id": "GreenFarmFun",
+      "name": "Borno Barnyard Friends",
+      "short_description": "An interactive farm experience where children can meet and feed friendly animals, learn about local agriculture, and enjoy pony rides.",
+      "subtype": "Farm Attractions",
+      "address": "Off Ngala Road, near Maiduguri-Gamboru Highway, Maiduguri, Borno State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601004128032-6a68297b6932?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODc0MzV8MHwxfHNlYXJjaHwxfHBlcnNvbSUyMGZhcm0lMjBhbmltYWxzfGVufDB8fHx8MTcxNzg1NTYxNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animals",
+        "education",
+        "pony rides"
+      ]
+    },
+    {
+      "id": "FutureChampsArena",
+      "name": "Maiduguri Junior Sports Hub",
+      "short_description": "A dedicated mini sports complex offering scaled-down pitches for football, basketball courts, and basic track & field areas for young aspiring athletes.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Sir Kashim Ibrahim Way, opposite Government House, Maiduguri, Borno State",
+      "opening_hours": "08:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579952932910-c46c37c26df1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODc0MzV8MHwxfHNlYXJjaHwxfGNoaWxkcmVuJTIwc3BvcnRzJTIwZmllbGR8ZW58MHx8fHwxNzE3ODU1NjU5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sports",
+        "active",
+        "football",
+        "basketball"
+      ]
+    },
+    {
+      "id": "MaidPark1",
+      "name": "Maiduguri Kid's Adventure Oasis",
+      "short_description": "A sprawling playground with modern equipment, climbing structures, and safe adventure zones for children of all ages.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Damboa Road, near Federal Low Cost Housing Estate, Maiduguri, Borno State",
+      "opening_hours": "09:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628169824673-f365313d4b68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODc0MzV8MHwxfHNlYXJjaHwxfHBsYXlncm91bmQlMjBjaGlsZHJlbnxlbnwwfHx8fDE3MTc4NTU1ODV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "outdoor",
+        "active play",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "BornoPuppetCircus",
+      "name": "The Wandering Wonders Puppet Show",
+      "short_description": "A lively mobile puppet theater and occasional mini-circus acts featuring traditional Nigerian stories and captivating performances for all ages.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Various locations, check schedule at Customs Area, Maiduguri, Borno State (main office)",
+      "opening_hours": "16:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549419163-9528f8f2b3b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODc0MzV8MHwxfHNlYXJjaHwxfHB1cHBldCUyMHNob3d8ZW58MHx8fHwxNzE3ODU1NzAwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "live show",
+        "storytelling",
+        "entertainment"
+      ]
+    }
+  ]
+}

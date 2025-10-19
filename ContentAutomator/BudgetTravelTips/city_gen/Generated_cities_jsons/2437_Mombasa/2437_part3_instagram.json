@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Mombasa",
+    "city_id": "2437"
+  },
+  "items": [
+    {
+      "id": "MSA-IS-001",
+      "name": "The Spice Merchant's Climb",
+      "short_description": "Ascend a charming, weathered staircase steeped in history, connecting bustling markets with quiet residential lanes. Its rustic charm and strategic views offer a glimpse into Old Town's daily rhythm.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Old Town, near Treasury Square",
+      "best_time": "Morning",
+      "images": "https://unsplash.com/photos/a-narrow-staircase-leads-up-to-a-building-with-a-wooden-door-32_TzQjLg64",
+      "tags": [
+        "Old Town",
+        "Historic",
+        "Pathways"
+      ]
+    },
+    {
+      "id": "MSA-IS-002",
+      "name": "Fort Jesus Rampart Promenade",
+      "short_description": "Stroll along the ancient ramparts of Fort Jesus, offering panoramic views of the Indian Ocean and Mombasa's historic harbor. This pathway tells tales of battles and trade, perfect for a sunset reflection.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Fort Jesus Museum, Old Town",
+      "best_time": "Sunset",
+      "images": "https://unsplash.com/photos/a-castle-wall-with-a-body-of-water-in-the-background-D6J1-W8J_2A",
+      "tags": [
+        "Fort Jesus",
+        "Seaview",
+        "Historic"
+      ]
+    },
+    {
+      "id": "MSA-IS-003",
+      "name": "Ndia Kuu's Arched Passageways",
+      "short_description": "Wander through the iconic arched pathways of Ndia Kuu, the 'Main Street' of Old Town, framed by intricate Swahili architecture. These historic passages are a living museum of Mombasa's past.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Ndia Kuu, Old Town",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mombasa_Old_Town_Street.jpg",
+      "tags": [
+        "Swahili Architecture",
+        "Old Town",
+        "Arches"
+      ]
+    },
+    {
+      "id": "MSA-IS-004",
+      "name": "The Old Port Steps",
+      "short_description": "Descend the time-worn steps leading down to Mombasa's historic dhow harbor, where traditional boats still dock. Capture the vibrant maritime life against a backdrop of ancient stone.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Old Port, Old Town",
+      "best_time": "Morning",
+      "images": "https://unsplash.com/photos/a-narrow-street-lined-with-buildings-and-a-boat-in-the-water-V1N8p2S8vE4",
+      "tags": [
+        "Old Port",
+        "Dhows",
+        "Maritime"
+      ]
+    },
+    {
+      "id": "MSA-HA-001",
+      "name": "The Frangipani Courtyard",
+      "short_description": "Discover a tranquil, hidden courtyard adorned with fragrant frangipani trees and intricate Swahili plasterwork. It's a peaceful oasis away from the city's bustle, perfect for quiet reflection.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Deep within Old Town, near Portugese Street",
+      "best_time": "Morning",
+      "images": "https://unsplash.com/photos/a-view-of-a-courtyard-from-a-balcony-M_F4JpC3l4E",
+      "tags": [
+        "Old Town",
+        "Secret",
+        "Oasis"
+      ]
+    },
+    {
+      "id": "MSA-HA-002",
+      "name": "Craftsmen's Glimmer Alley",
+      "short_description": "Explore a narrow, atmospheric alley where local artisans create and display their crafts. The interplay of light and shadow, coupled with unique workshops, makes for captivating photos.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Old Town, near Biashara Street",
+      "best_time": "Afternoon",
+      "images": "https://unsplash.com/photos/a-narrow-alleyway-with-stone-buildings-and-a-woman-walking-in-the-distance-d8_86yYQ-D8",
+      "tags": [
+        "Artisans",
+        "Old Town",
+        "Local Crafts"
+      ]
+    },
+    {
+      "id": "MSA-HA-003",
+      "name": "The Leven House Courtyard",
+      "short_description": "Step into the elegant, historic courtyard of Leven House, a beautifully restored Swahili mansion. Its intricate wooden doors and serene ambiance offer a glimpse into colonial-era luxury and charm.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Old Town, near Fort Jesus",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Leven_House_Mombasa.jpg",
+      "tags": [
+        "Historic House",
+        "Swahili Culture",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "MSA-HA-004",
+      "name": "Al-Shiraazi Mosque's Serene Square",
+      "short_description": "Discover the peaceful inner square of one of Old Town's ancient mosques, featuring intricate geometric patterns and quiet contemplation spots. A respectful space for cultural appreciation and photography.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Old Town, near Mandhry Mosque",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Mandhry_Mosque%2C_Old_Town%2C_Mombasa%2C_Kenya.jpg",
+      "tags": [
+        "Mosque",
+        "Spiritual",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "MSA-MB-001",
+      "name": "Marikiti's Vibrant Chaos",
+      "short_description": "Immerse yourself in the sensory explosion of Marikiti, Mombasa's main open-air market, brimming with fresh produce, spices, and local goods. It's a photographer's paradise of color and authentic street life.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Digo Road, Mombasa Island",
+      "best_time": "Morning",
+      "images": "https://unsplash.com/photos/a-man-is-selling-fruit-and-vegetables-at-a-market-stall-K7m9t5XJg_o",
+      "tags": [
+        "Local Market",
+        "Spices",
+        "Street Photography"
+      ]
+    },
+    {
+      "id": "MSA-MB-002",
+      "name": "Biashara Street Fabric Fiesta",
+      "short_description": "Stroll down Biashara Street, a kaleidoscope of colorful fabrics and traditional Kenyan attire. Find unique textiles, tailor-made garments, and capture the vibrant energy of local fashion.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Biashara Street, Mombasa Island",
+      "best_time": "Afternoon",
+      "images": "https://unsplash.com/photos/a-person-standing-in-front-of-a-rack-of-colorful-clothes-JdI8MymQ47E",
+      "tags": [
+        "Textiles",
+        "Shopping",
+        "Colors"
+      ]
+    },
+    {
+      "id": "MSA-MB-003",
+      "name": "Old Port's Fresh Catch Display",
+      "short_description": "Witness the lively morning spectacle at Mombasa's Old Port Fish Market, where fishermen unload their daily catch. It's an authentic glimpse into coastal life, full of character and bustling activity.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Old Port, Old Town",
+      "best_time": "Morning",
+      "images": "https://unsplash.com/photos/several-men-wearing-red-t-shirts-r10V79z37rU",
+      "tags": [
+        "Fish Market",
+        "Coastal Life",
+        "Authentic"
+      ]
+    },
+    {
+      "id": "MSA-MB-004",
+      "name": "Old Town Spice Souk",
+      "short_description": "Lose yourself in the aromatic lanes of Old Town's spice souk, where exotic aromas of cloves, cinnamon, and cardamon fill the air. A vibrant sensory experience and a treat for the eyes.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Old Town, near Ndia Kuu",
+      "best_time": "Morning",
+      "images": "https://unsplash.com/photos/a-close-up-of-a-pile-of-spices-in-a-market-k03mK1tXG8E",
+      "tags": [
+        "Spices",
+        "Aromas",
+        "Old Town"
+      ]
+    },
+    {
+      "id": "MSA-CI-001",
+      "name": "The Iconic Mombasa Tusks",
+      "short_description": "Pose under the monumental elephant tusks, a gateway arch symbolizing Mombasa's ivory trade history and its importance as a port city. A must-capture landmark representing the city's spirit.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Moi Avenue, city center",
+      "best_time": "Morning / Afternoon",
+      "images": "https://unsplash.com/photos/a-street-with-large-elephant-tusks-in-the-middle-of-it-j0W3kUvD6f0",
+      "tags": [
+        "Landmark",
+        "Iconic",
+        "History"
+      ]
+    },
+    {
+      "id": "MSA-CI-002",
+      "name": "Fort Jesus Historical Treasures",
+      "short_description": "Explore the intricate exhibits within Fort Jesus, showcasing artifacts from various eras of Swahili, Portuguese, and Omani rule. Each display tells a vivid story of Mombasa's rich, multicultural past.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Fort Jesus Museum, Old Town",
+      "best_time": "Afternoon",
+      "images": "https://unsplash.com/photos/a-stone-wall-with-a-door-and-a-window-QeQn12p4_M8",
+      "tags": [
+        "Museum",
+        "Artifacts",
+        "Swahili History"
+      ]
+    },
+    {
+      "id": "MSA-CI-003",
+      "name": "Bombolulu Crafts Village",
+      "short_description": "Visit Bombolulu, a unique cultural center empowering people with disabilities through traditional craft making. Capture artisans at work, creating beautiful jewelry, textiles, and carvings, celebrating resilience and talent.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Off Malindi Road, Nyali",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bombolulu_Workshops_and_Cultural_Center.jpg",
+      "tags": [
+        "Handicrafts",
+        "Social Enterprise",
+        "Artisans"
+      ]
+    },
+    {
+      "id": "MSA-CI-004",
+      "name": "Mwembe Tayari Unity Statue",
+      "short_description": "Reflect at the Mwembe Tayari Monument, a significant sculpture commemorating an important event in Kenya's history. Its powerful symbolism and central location make for a thought-provoking photo opportunity.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Mwembe Tayari roundabout, Mombasa Island",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Mwembe_Tayari_Monument.jpg",
+      "tags": [
+        "Monument",
+        "Symbolic",
+        "Public Art"
+      ]
+    },
+    {
+      "id": "MSA-FE-001",
+      "name": "Mombasa Cultural Spectacle",
+      "short_description": "Experience the vibrant explosion of colors, music, and dance at the annual Mombasa International Cultural Festival. This grand event showcases the rich tapestry of coastal traditions and artistic expression.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Various locations, especially Mama Ngina Waterfront",
+      "best_time": "Day",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mombasa_Cultural_Festival_2019.jpg",
+      "tags": [
+        "Festival",
+        "Culture",
+        "Parade"
+      ]
+    },
+    {
+      "id": "MSA-FE-002",
+      "name": "Eid Mubarak Gatherings",
+      "short_description": "Join the joyous communal celebrations of Eid al-Fitr, marking the end of Ramadan, with families dressed in festive attire gathering at mosques and public spaces. Capture the spirit of togetherness and tradition.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Major mosques and public parks across Mombasa",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Eid_al-Fitr_celebrations_in_Mombasa%2C_Kenya.jpg",
+      "tags": [
+        "Religious Festival",
+        "Community",
+        "Celebration"
+      ]
+    },
+    {
+      "id": "MSA-FE-003",
+      "name": "Mombasa Street Carnival",
+      "short_description": "Witness the flamboyant Mombasa Carnival, a lively procession of floats, dancers, and musicians that takes over the city streets. It's a dazzling display of coastal creativity and festive cheer.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Moi Avenue and key city streets",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carnival_Mombasa%2C_Kenya.jpg/1280px-Carnival_Mombasa%2C_Kenya.jpg",
+      "tags": [
+        "Carnival",
+        "Parade",
+        "Street Party"
+      ]
+    },
+    {
+      "id": "MSA-FE-004",
+      "name": "Diwali Festival of Lights",
+      "short_description": "Experience the enchanting glow of Diwali as the Hindu community illuminates temples and homes with vibrant lights and traditional decorations. Capture the spiritual beauty and joyful atmosphere of the festival.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Hindu temples and residential areas in Nyali",
+      "best_time": "Night",
+      "images": "https://unsplash.com/photos/a-lit-up-building-at-night-with-a-tree-in-the-foreground-m-c002Lg350",
+      "tags": [
+        "Diwali",
+        "Lights",
+        "Hindu Culture"
+      ]
+    },
+    {
+      "id": "MSA-FG-001",
+      "name": "Haller Park's Tropical Bloom",
+      "short_description": "Wander through the lush botanical sections of Haller Park, where vibrant tropical flowers and indigenous plants create a serene, picturesque landscape. A peaceful escape perfect for nature lovers.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Bamburi, North Coast",
+      "best_time": "Morning",
+      "images": "https://unsplash.com/photos/green-plants-in-a-forest-qCj9007cT1Y",
+      "tags": [
+        "Botanical Garden",
+        "Nature",
+        "Ecotourism"
+      ]
+    },
+    {
+      "id": "MSA-FG-002",
+      "name": "Mama Ngina Waterfront Floral Oasis",
+      "short_description": "Enjoy the beautifully landscaped gardens along the Mama Ngina Waterfront, offering colorful flower beds against the backdrop of the Indian Ocean. A popular spot for scenic strolls and relaxed photography.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Mama Ngina Waterfront Park",
+      "best_time": "Afternoon / Sunset",
+      "images": "https://unsplash.com/photos/a-large-grassy-area-with-trees-and-flowers-f_s7kM3SExU",
+      "tags": [
+        "Waterfront",
+        "Public Park",
+        "Seaview"
+      ]
+    },
+    {
+      "id": "MSA-FG-003",
+      "name": "Bamburi Butterfly Haven",
+      "short_description": "Step into a magical world at the Bamburi Butterfly Pavilion, where countless colorful butterflies flutter amidst exotic plants. Capture these delicate creatures in their vibrant, natural habitat.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Haller Park, Bamburi",
+      "best_time": "Morning",
+      "images": "https://unsplash.com/photos/a-close-up-of-a-butterfly-on-a-plant-z1kO06t-o-g",
+      "tags": [
+        "Butterflies",
+        "Wildlife",
+        "Nature Reserve"
+      ]
+    },
+    {
+      "id": "MSA-FG-004",
+      "name": "Fort Jesus' Green Courtyards",
+      "short_description": "Discover the unexpectedly lush gardens within the ancient walls of Fort Jesus, offering pockets of greenery and serene spaces amidst historic stone. A contrast of nature and history, perfect for a contemplative shot.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Fort Jesus Museum, Old Town",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/3/36/Fort_Jesus_Garden.jpg",
+      "tags": [
+        "Historic Site",
+        "Gardens",
+        "Contrast"
+      ]
+    },
+    {
+      "id": "MSA-HA-001",
+      "name": "Fort Jesus: A Portuguese Fortress",
+      "short_description": "Marvel at Fort Jesus, a UNESCO World Heritage site and a masterpiece of 16th-century Portuguese military architecture. Its imposing coral stone walls whisper tales of centuries of battles and colonial power.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Old Town, overlooking the harbor",
+      "best_time": "Morning / Sunset",
+      "images": "https://unsplash.com/photos/a-wide-angle-shot-of-the-fort-jesus-museum-in-mombasa-with-the-ocean-in-the-background-D6J1-W8J_2A",
+      "tags": [
+        "UNESCO",
+        "Fortress",
+        "Colonial History"
+      ]
+    },
+    {
+      "id": "MSA-HA-002",
+      "name": "Old Town Swahili Home",
+      "short_description": "Explore the intricate details of a traditional Swahili house, with its carved doors, hidden courtyards, and ancient artifacts. It offers an authentic glimpse into the daily life and rich heritage of Mombasa's past.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Old Town, near Ndia Kuu",
+      "best_time": "Afternoon",
+      "images": "https://unsplash.com/photos/a-beautifully-carved-wooden-door-with-intricate-designs-c-O404mR1g8",
+      "tags": [
+        "Swahili Culture",
+        "Architecture",
+        "Heritage"
+      ]
+    },
+    {
+      "id": "MSA-HA-003",
+      "name": "Mandhry Mosque's Ancient Minaret",
+      "short_description": "Admire the elegant simplicity and historic significance of Mandhry Mosque, one of the oldest mosques in Mombasa, dating back to the 16th century. Its distinctive minaret is a testament to early Swahili-Islamic architecture.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Old Town, near Custom Road",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Mandhry_Mosque%2C_Old_Town%2C_Mombasa%2C_Kenya.jpg",
+      "tags": [
+        "Mosque",
+        "Islamic Architecture",
+        "Ancient"
+      ]
+    },
+    {
+      "id": "MSA-HA-004",
+      "name": "Treasury Square's Colonial Charm",
+      "short_description": "Discover the impressive colonial buildings surrounding Treasury Square, including the historic Africa Hotel, showcasing the grandeur of British East Africa architecture. A glimpse into Mombasa's administrative past.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Treasury Square, Mombasa Island",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Africa_Hotel_Mombasa.jpg",
+      "tags": [
+        "Colonial",
+        "Historic Buildings",
+        "City Square"
+      ]
+    },
+    {
+      "id": "MSA-BC-001",
+      "name": "Nyali Beach Golden Sunrise",
+      "short_description": "Witness a breathtaking sunrise over the Indian Ocean from the pristine sands of Nyali Beach. The soft golden light paints the sky and sea, creating a tranquil and unforgettable photographic moment.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Nyali, North Coast",
+      "best_time": "Morning (Sunrise)",
+      "images": "https://unsplash.com/photos/a-beach-with-a-red-sky-at-sunrise-9rD7p_k6x1M",
+      "tags": [
+        "Sunrise",
+        "Beach",
+        "Ocean View"
+      ]
+    },
+    {
+      "id": "MSA-BC-002",
+      "name": "Mama Ngina Waterfront Sunset Spectacle",
+      "short_description": "Capture the dramatic hues of sunset over the Kilindini Channel from the lively Mama Ngina Waterfront. Watch ferries glide by as the sky transforms into a canvas of oranges and purples.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Mama Ngina Waterfront Park",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mama_Ngina_Waterfront_Park.jpg/1280px-Mama_Ngina_Waterfront_Park.jpg",
+      "tags": [
+        "Sunset",
+        "Waterfront",
+        "Channel View"
+      ]
+    },
+    {
+      "id": "MSA-BC-003",
+      "name": "Bamburi Beach Coral Shallows",
+      "short_description": "Explore the clear, shallow waters of Bamburi Beach, perfect for spotting marine life during low tide or simply enjoying the tranquil turquoise hues. Its calm lagoons are ideal for family-friendly photos.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Bamburi, North Coast",
+      "best_time": "Morning / Afternoon",
+      "images": "https://unsplash.com/photos/a-body-of-water-with-a-rocky-shoreline-and-palm-trees-in-the-background-Xv3BqU90U6I",
+      "tags": [
+        "Lagoon",
+        "Marine Life",
+        "Sandy Beach"
+      ]
+    },
+    {
+      "id": "MSA-BC-004",
+      "name": "Old Port Dhow Reflections",
+      "short_description": "Capture the timeless scene of traditional dhows gently swaying in the Old Port, their silhouettes reflecting on the calm waters at dawn or dusk. A picturesque tableau of maritime heritage.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Old Port, Old Town",
+      "best_time": "Morning / Sunset",
+      "images": "https://unsplash.com/photos/dhow-boats-floating-on-body-of-water-V1N8p2S8vE4",
+      "tags": [
+        "Dhows",
+        "Old Port",
+        "Maritime Heritage"
+      ]
+    },
+    {
+      "id": "MSA-MA-001",
+      "name": "Likoni Floating Bridge",
+      "short_description": "Admire the impressive engineering of the Likoni Floating Bridge, a modern marvel connecting Mombasa Island to the South Coast. Its sleek design and strategic location offer striking urban landscape views.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Likoni Channel",
+      "best_time": "Morning / Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Likoni_Floating_Bridge%2C_Mombasa%2C_Kenya.jpg",
+      "tags": [
+        "Modern Bridge",
+        "Engineering",
+        "Urban Landscape"
+      ]
+    },
+    {
+      "id": "MSA-MA-002",
+      "name": "Miritini SGR Terminus",
+      "short_description": "Discover the contemporary design of the Miritini Standard Gauge Railway (SGR) Terminus, a hub of modern transportation. Its expansive, functional architecture provides a stark contrast to the city's historic core.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Miritini, off Mombasa-Nairobi Highway",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/05/Mombasa_SGR_Terminal_Building.jpg",
+      "tags": [
+        "Railway Station",
+        "Infrastructure",
+        "Contemporary Design"
+      ]
+    },
+    {
+      "id": "MSA-MA-003",
+      "name": "Nyali City Mall's Modern Hub",
+      "short_description": "Explore the sleek, contemporary architecture of City Mall in Nyali, a vibrant commercial and social center. Its clean lines and spacious interiors represent Mombasa's modern development and urban lifestyle.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Links Road, Nyali",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Mombasa_City_Mall.jpg/1280px-Mombasa_City_Mall.jpg",
+      "tags": [
+        "Shopping Mall",
+        "Urban Life",
+        "Modern"
+      ]
+    },
+    {
+      "id": "MSA-MA-004",
+      "name": "Nyali Skyline Residences",
+      "short_description": "Capture the evolving skyline of Nyali, marked by contemporary residential towers that blend modern aesthetics with coastal living. Their architectural forms offer interesting perspectives, especially at dusk.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Nyali, along Links Road or Beach Road",
+      "best_time": "Sunset / Night",
+      "images": "https://unsplash.com/photos/a-tall-building-with-a-blue-sky-in-the-background-E_D22r_W884",
+      "tags": [
+        "High-rise",
+        "Contemporary",
+        "Urban Views"
+      ]
+    },
+    {
+      "id": "MSA-SM-001",
+      "name": "Old Town Swahili Story Walls",
+      "short_description": "Discover vibrant murals tucked away in Old Town's alleys, depicting scenes of Swahili culture, history, and daily life. These colorful artworks add a modern artistic layer to historic surroundings.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Old Town alleys, near Mandhry Mosque",
+      "best_time": "Afternoon",
+      "images": "https://unsplash.com/photos/a-colorful-mural-on-the-side-of-a-building-37i3W20k-6c",
+      "tags": [
+        "Street Art",
+        "Old Town",
+        "Swahili Culture"
+      ]
+    },
+    {
+      "id": "MSA-SM-002",
+      "name": "Moi Avenue's Urban Canvases",
+      "short_description": "Look for engaging street art pieces and murals that bring splashes of color and contemporary expression to the bustling Moi Avenue. These urban canvases reflect modern Kenyan narratives and creativity.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Moi Avenue, city center",
+      "best_time": "Afternoon",
+      "images": "https://unsplash.com/photos/a-colorful-graffiti-wall-with-a-flower-on-it-s415b3K6_34",
+      "tags": [
+        "Urban Art",
+        "Public Art",
+        "City Center"
+      ]
+    },
+    {
+      "id": "MSA-SM-003",
+      "name": "Mama Ngina Skate Park Murals",
+      "short_description": "Find dynamic graffiti art adorning the walls around the Mama Ngina Waterfront Skate Park, capturing the youthful energy and creative spirit of Mombasa's urban scene. A vibrant backdrop for action shots.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Mama Ngina Waterfront Park",
+      "best_time": "Afternoon",
+      "images": "https://unsplash.com/photos/an-abstract-painting-on-a-wall-1l8Dk-6h3tI",
+      "tags": [
+        "Graffiti",
+        "Youth Culture",
+        "Skate Park"
+      ]
+    },
+    {
+      "id": "MSA-SM-004",
+      "name": "Nyali Bridge Underpass Gallery",
+      "short_description": "Discover a less-expected gallery of street art and murals beneath the Nyali Bridge, showcasing local artists' creativity in an industrial setting. The bold colors and unconventional location make for striking compositions.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Under Nyali Bridge, connecting Mombasa Island to Nyali",
+      "best_time": "Afternoon",
+      "images": "https://unsplash.com/photos/a-colorful-graffiti-wall-underneath-a-bridge-hI0S793pC7Q",
+      "tags": [
+        "Urban Art",
+        "Industrial",
+        "Hidden Gems"
+      ]
+    }
+  ]
+}

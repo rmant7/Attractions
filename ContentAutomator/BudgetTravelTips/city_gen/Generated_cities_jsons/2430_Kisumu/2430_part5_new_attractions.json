@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Kisumu",
+    "city_id": "2430"
+  },
+  "items": [
+    {
+      "id": "KSMA001",
+      "name": "Nyanza Contemporary Art Hub",
+      "short_description": "A vibrant space showcasing modern and contemporary East African art, featuring rotating exhibitions and artist workshops. It's a must-visit for art lovers seeking fresh perspectives.",
+      "address": "Oginga Odinga Street, Milimani, Kisumu",
+      "opening_hours": "10:00-17:00 (Mon-Sat)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627993072218-c2b3e8e9e1b2?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "art",
+        "culture",
+        "gallery"
+      ]
+    },
+    {
+      "id": "KSMA002",
+      "name": "Dunga Waterfront Eatery & Lounge",
+      "short_description": "Enjoy breathtaking sunsets over Lake Victoria with exquisite local and international cuisine. This multi-level complex offers fine dining, a casual bistro, and live music nights.",
+      "address": "Dunga Beach Road, Kisumu",
+      "opening_hours": "11:00-23:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1628178652424-648b25203714?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "dining",
+        "lakefront",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "KSMA003",
+      "name": "Kisumu Green Oasis Park",
+      "short_description": "A newly developed urban eco-park focusing on indigenous plant species and sustainable design. Features walking trails, picnic spots, and a small educational center on local biodiversity.",
+      "address": "Mamboleo-Kisian Bypass, Kisumu",
+      "opening_hours": "07:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596773344690-349071c841ce?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "nature",
+        "park",
+        "family"
+      ]
+    },
+    {
+      "id": "KSMA004",
+      "name": "Kids' Planet Discovery Centre Kisumu",
+      "short_description": "An interactive learning and play space designed for children aged 2-12. With science exhibits, creative play zones, and storytelling sessions, it's perfect for curious young minds.",
+      "address": "Tom Mboya Estate, Kisumu",
+      "opening_hours": "09:00-16:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628766150244-a9528fdfd472?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "children",
+        "education",
+        "family"
+      ]
+    },
+    {
+      "id": "KSMA005",
+      "name": "SkyVue Rooftop Lounge",
+      "short_description": "Offering panoramic views of Kisumu city and Lake Victoria, this upscale lounge is the perfect spot for evening cocktails and gourmet bites. Known for its stylish ambiance and vibrant DJ sets.",
+      "address": "Ang'awa Street, Kisumu Central",
+      "opening_hours": "17:00-01:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1550993006-039c43d7c4a1?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "nightlife",
+        "views",
+        "lounge"
+      ]
+    },
+    {
+      "id": "KSMA006",
+      "name": "Nyakach Artisans Village",
+      "short_description": "A bustling market and workshop complex dedicated to showcasing and selling authentic handcrafted items from the Nyanza region. Find unique souvenirs, textiles, and traditional crafts.",
+      "address": "Kisumu-Busia Road, near Kisian",
+      "opening_hours": "09:30-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616110309990-28148b3c3c73?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "shopping",
+        "crafts",
+        "local"
+      ]
+    },
+    {
+      "id": "KSMA007",
+      "name": "Lakeside Tech-Tonic Hub",
+      "short_description": "More than just a co-working space, this hub fosters innovation with regular tech workshops, startup mentorship, and a vibrant community cafe open to the public.",
+      "address": "Aga Khan Road, Kisumu",
+      "opening_hours": "08:00-20:00 (Mon-Fri)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1552589669-026c5a7536aa?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "tech",
+        "community",
+        "cafe"
+      ]
+    },
+    {
+      "id": "KSMA008",
+      "name": "The Reader's Nook Kisumu",
+      "short_description": "A cozy haven for book lovers and coffee enthusiasts. Browse a curated selection of African literature, enjoy artisanal coffee, and participate in regular book club meetings and author readings.",
+      "address": "Makasembo Road, Kisumu",
+      "opening_hours": "08:30-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1532012195217-57352358c67c?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "books",
+        "cafe",
+        "cozy"
+      ]
+    },
+    {
+      "id": "KSMA009",
+      "name": "Pendo Boutique Hotel & Spa",
+      "short_description": "An elegantly designed boutique hotel offering a tranquil escape. Its contemporary spa and infinity pool are open to non-guests for a day pass, providing a luxurious relaxation experience.",
+      "address": "Off Ring Road, Milimani, Kisumu",
+      "opening_hours": "06:00-22:00 (Spa & Pool)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563852028886-f6d8924192b6?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "luxury",
+        "spa",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "KSMA010",
+      "name": "Grand Nyanza Adventure Park",
+      "short_description": "Get your adrenaline pumping at Kisumu's newest outdoor adventure park! Featuring ziplines, high ropes courses, wall climbing, and team-building challenges for all ages.",
+      "address": "Kisumu-Kakamega Road, outskirts of Kisumu",
+      "opening_hours": "09:00-17:00 (Wed-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601672322521-729f17072979?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "adventure",
+        "outdoor",
+        "family"
+      ]
+    }
+  ]
+}

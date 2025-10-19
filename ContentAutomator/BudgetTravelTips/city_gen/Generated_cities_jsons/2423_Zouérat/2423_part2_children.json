@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Zouérat",
+    "city_id": "2423"
+  },
+  "items": [
+    {
+      "id": "ZAT-STP-001",
+      "name": "Desert Tales Story Garden",
+      "short_description": "A magical garden where ancient Mauritanian legends and desert folklore come to life through engaging storytellers.",
+      "subtype": "Storytelling Parks",
+      "address": "Rue Principale, Zouérat, Mauritania",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510525000000-000000000000?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMHN0b3J5dGVsbGluZyUyMHBhcmt8ZW58MHx8fHwxNzA3NjQyMzgyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "folklore",
+        "interactive",
+        "culture"
+      ]
+    },
+    {
+      "id": "ZAT-STP-002",
+      "name": "Oasis Whispers Pavilion",
+      "short_description": "An intimate pavilion dedicated to traditional nomadic tales and fables, narrated with passion and accompanied by local music.",
+      "subtype": "Storytelling Parks",
+      "address": "Quartier Al Wiam, Zouérat, Mauritania",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549488344-93339f40c749?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwyfHxjaGlsZHJlbiUyMHN0b3J5dGVsbGluZyUyMHBhcmt8ZW58MHx8fHwxNzA3NjQyMzgyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nomadic stories",
+        "music",
+        "traditional"
+      ]
+    },
+    {
+      "id": "ZAT-STP-003",
+      "name": "The Miner's Tale Corner",
+      "short_description": "Discover stories of Zouérat's mining heritage and the adventures of its people, presented in an engaging and child-friendly format.",
+      "subtype": "Storytelling Parks",
+      "address": "Near Place de la Poste, Zouérat, Mauritania",
+      "opening_hours": "11:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1550976110-02c31e6b8c9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwzfHxjaGlsZHJlbiUyMHN0b3J5dGVsbGluZyUyMHBhcmt8ZW58MHx8fHwxNzA3NjQyMzgyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "history",
+        "local lore",
+        "educational"
+      ]
+    },
+    {
+      "id": "ZAT-STP-004",
+      "name": "Caravan Legends Amphitheater",
+      "short_description": "An outdoor amphitheater hosting daily shows of ancient caravan journeys, heroes, and villains, told through vibrant performances.",
+      "subtype": "Storytelling Parks",
+      "address": "Avenue de l'Indépendance, Zouérat, Mauritania",
+      "opening_hours": "10:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628126781251-5232d3090956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHw0fHxjaGlsZHJlbiUyMHN0b3J5dGVsbGluZyUyMHBhcmt8ZW58MHx8fHwxNzA3NjQyMzgyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "performance",
+        "desert",
+        "adventure"
+      ]
+    },
+    {
+      "id": "ZAT-AMR-001",
+      "name": "Dune Buggy Dash",
+      "short_description": "A thrilling miniature roller coaster designed to simulate a fast ride across desert dunes, perfect for younger adventurers.",
+      "subtype": "Amusement Rides",
+      "address": "Zone Récréative Nord, Zouérat, Mauritania",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549479367-152e93d8b594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxtaW5pJTIwcm9sbGVyJTIwY29hc3RlcnxlbnwwfHwufHwxNzA3NjQyODU3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "roller coaster",
+        "thrills",
+        "desert theme"
+      ]
+    },
+    {
+      "id": "ZAT-AMR-002",
+      "name": "Miner's Elevator Drop",
+      "short_description": "A small, exhilarating drop tower that mimics the descent into a mine shaft, offering a gentle but fun freefall experience.",
+      "subtype": "Amusement Rides",
+      "address": "Parc d'Attractions Est, Zouérat, Mauritania",
+      "opening_hours": "10:30-18:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517457223528-912f275a5286?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxtaW5pJTIwZHJvcCUyMHRvd2VyfGVufDB8fHwxfDE3MDc2NDI4NTl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "drop tower",
+        "mining theme",
+        "exciting"
+      ]
+    },
+    {
+      "id": "ZAT-AMR-003",
+      "name": "Camel Caravan Carousel",
+      "short_description": "A classic carousel ride featuring beautifully crafted desert animals like camels, gazelles, and fennec foxes for a gentle spin.",
+      "subtype": "Amusement Rides",
+      "address": "Centre Ville Parc, Zouérat, Mauritania",
+      "opening_hours": "09:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627409252579-a78b31a89c89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxjYXJvdXNlbCUyMGNoaWxkcmVufGVufDB8fHwxfDE3MDc2NDI4Njd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "carousel",
+        "classic ride",
+        "animal themed"
+      ]
+    },
+    {
+      "id": "ZAT-AMR-004",
+      "name": "Sandstorm Spinner",
+      "short_description": "Experience a dizzying delight on this spinning ride that simulates a gentle desert sandstorm, fun for all ages.",
+      "subtype": "Amusement Rides",
+      "address": "Avenue du 28 Novembre, Zouérat, Mauritania",
+      "opening_hours": "11:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616782299711-209a80e4b7b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwyfHxjYXBzJTIwcmFpZGUlMjBjaGlsZHJlbnxlbnwwfHwufHwxNzA3NjQyODYyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "spinning ride",
+        "family fun",
+        "mild thrill"
+      ]
+    },
+    {
+      "id": "ZAT-DNP-001",
+      "name": "Zouérat Dino Dig Site",
+      "short_description": "Become a paleontologist for a day! Kids can excavate 'fossils' in a sandy dig site and learn about prehistoric desert life.",
+      "subtype": "Dinosaur Parks",
+      "address": "Zone Industriel Ouest, Zouérat, Mauritania",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1629864272164-9293144d4734?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxkaW5vc2F1ciUyMGRpZyUyMHNpdGV8ZW58MHx8fHwxNzA3NjQzNDY2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "interactive",
+        "paleontology",
+        "education"
+      ]
+    },
+    {
+      "id": "ZAT-DNP-002",
+      "name": "Desert Giants Trail",
+      "short_description": "Walk among life-sized replicas of dinosaurs that once roamed ancient deserts, with informative plaques and sound effects.",
+      "subtype": "Dinosaur Parks",
+      "address": "Parc Aventure Sud, Zouérat, Mauritania",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1579737156942-83b6f00192f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxkaW5vc2F1ciUyMHBhcmt8ZW58MHx8fHwxNzA3NjQzNDc2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "dinosaurs",
+        "nature walk",
+        "prehistoric"
+      ]
+    },
+    {
+      "id": "ZAT-DNP-003",
+      "name": "Pterodactyl Flight Zone",
+      "short_description": "An exciting simulated flight experience where kids can 'fly' like pterodactyls over a prehistoric landscape.",
+      "subtype": "Dinosaur Parks",
+      "address": "Route de F'dérick, Zouérat, Mauritania",
+      "opening_hours": "10:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1606551187440-1e5b47a96095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMGZseWluZyUyMHJpZGUlMjBwZW5kdWx1bXxlbnwwfHwufHwxNzA3NjQzNDgyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "simulation",
+        "flying",
+        "dinosaur ride"
+      ]
+    },
+    {
+      "id": "ZAT-DNP-004",
+      "name": "Jurassic Oasis Gardens",
+      "short_description": "A botanical garden showcasing plants from the Jurassic period alongside small, animatronic dinosaurs, creating a lost world feel.",
+      "subtype": "Dinosaur Parks",
+      "address": "Boulevard Hassan II, Zouérat, Mauritania",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582298642301-382944b2f29f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwyfHxkaW5vc2F1ciUyMHBhcmt8ZW58MHx8fHwxNzA3NjQzNDc2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "botanical",
+        "animatronics",
+        "nature"
+      ]
+    },
+    {
+      "id": "ZAT-MIG-001",
+      "name": "The Enchanted Oasis Show",
+      "short_description": "A captivating magic and illusion show with desert-themed tricks, disappearing acts, and audience participation.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Théâtre Municipal, Zouérat, Mauritania",
+      "opening_hours": "16:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1509909252033-fe3f7893a968?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxtYWdpYyUyMGFuZCUyMGlsbHVzaW9uJTIwc2hvd3xlbnwwfHwufHwxNzA3NjQ0Mjk3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "magic show",
+        "illusions",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "ZAT-MIG-002",
+      "name": "Mirage Mystery Tent",
+      "short_description": "An intimate tent where a magician performs close-up magic and dazzling illusions, making the impossible seem real.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Place des Arts, Zouérat, Mauritania",
+      "opening_hours": "14:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621259740209-4ce43d70656a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwyfHxtYWdpYyUyMGFuZCUyMGlsbHVzaW9uJTIwc2hvd3xlbnwwfHwufHwxNzA3NjQ0Mjk3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "close-up magic",
+        "interactive",
+        "mystical"
+      ]
+    },
+    {
+      "id": "ZAT-MIG-003",
+      "name": "Sand Sorcerer's Secrets Workshop",
+      "short_description": "A hands-on workshop where children learn simple magic tricks and illusion techniques from a friendly desert sorcerer.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Centre Culturel, Zouérat, Mauritania",
+      "opening_hours": "11:00-12:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1543329864-cf363116543b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwyfHxtYWdpYyUyMHdvcmtzaG9wJTIwY2hpbGRyZW58ZW58MHx8fHwxNzA3NjQ0MzA2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "workshop",
+        "learning",
+        "magic tricks"
+      ]
+    },
+    {
+      "id": "ZAT-MIG-004",
+      "name": "Djinn's Delight Illusion Palace",
+      "short_description": "Step into a palace of optical illusions, mind-bending puzzles, and fantastical magic acts that defy logic and spark wonder.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Avenue de la République, Zouérat, Mauritania",
+      "opening_hours": "15:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1534005117769-d3e970b5c1a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwzMzh8fGlsbHVzaW9uJTIwcGFsYWNlfGVufDB8fHwxfDE3MDc2NDQzMTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "optical illusions",
+        "wonder",
+        "spectacle"
+      ]
+    },
+    {
+      "id": "ZAT-CMG-001",
+      "name": "Dune Buddy Meetup",
+      "short_description": "Meet and greet with Zouérat's own friendly desert mascots: Fennec Fox Fifi and Camel Camil, perfect for photos and hugs!",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Parc Municipal Central, Zouérat, Mauritania",
+      "opening_hours": "10:00-12:00, 15:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1574676643603-9993e32b6e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxjYXJ0b29uJTIwbWFzY290cyUyMGNoaWxkcmVufGVufDB8fHwxfDE3MDc2NDUwMjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mascots",
+        "photo opportunity",
+        "fun"
+      ]
+    },
+    {
+      "id": "ZAT-CMG-002",
+      "name": "Explorer Eddy & Friends",
+      "short_description": "Join Explorer Eddy, the adventurous cartoon character, and his animal friends for interactive games and special photo sessions.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Kids' Zone, Avenue de la Liberté, Zouérat, Mauritania",
+      "opening_hours": "11:00-13:00, 16:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1623340327827-04664c39f049?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwyfHxjYXJ0b29uJTIwbWFzY290cyUyMGNoaWxkcmVufGVufDB8fHwxfDE3MDc2NDUwMjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "adventure",
+        "characters",
+        "games"
+      ]
+    },
+    {
+      "id": "ZAT-CMG-003",
+      "name": "Mining Mouse & Crew",
+      "short_description": "Meet Mining Mouse, Pickaxe Pete, and Drill Dolly – cartoon characters celebrating Zouérat's mining spirit with songs and stories.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Near Musée des Mines, Zouérat, Mauritania",
+      "opening_hours": "09:30-11:30, 14:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621516086616-d446927d6205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwzfHxjYXJ0b29uJTIwbWFzY290cyUyMGNoaWxkcmVufGVufDB8fHwxfDE3MDc2NDUwMjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "local theme",
+        "mining",
+        "characters"
+      ]
+    },
+    {
+      "id": "ZAT-CMG-004",
+      "name": "Celestial Critters Club",
+      "short_description": "Connect with characters like Starlight Snail and Meteor Moth who teach kids about the desert night sky and its wonders.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Observatoire des Enfants, Zouérat, Mauritania",
+      "opening_hours": "17:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596700812920-53093121544a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHw0fHxjYXJ0b29uJTIwbWFzY290cyUyMGNoaWxkcmVufGVufDB8fHwxfDE3MDc2NDUwMjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "educational",
+        "night sky"
+      ]
+    },
+    {
+      "id": "ZAT-AQG-001",
+      "name": "Lost Oasis Treasure Hunt",
+      "short_description": "Embark on an exciting treasure hunt across a themed landscape, solving riddles and following clues to find the lost oasis.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Parc Aventure Est, Zouérat, Mauritania",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579737877609-b78f4f9f7d2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMHRyZWFzdXJlJTIwaHVudHxlbnwwfHwufHwxNzA3NjQ1NjE1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "treasure hunt",
+        "exploration",
+        "puzzle"
+      ]
+    },
+    {
+      "id": "ZAT-AQG-002",
+      "name": "Desert Survivor Challenge",
+      "short_description": "Kids learn basic survival skills like navigation, shelter building, and water finding in a fun, guided outdoor challenge.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Camping des Jeunes, Zouérat, Mauritania",
+      "opening_hours": "10:00-15:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1634833215915-1a8c3e07f45c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwyfHxjaGlsZHJlbiUyMHN1cnZpdmFsJTIwY2hhbGxlbmdlfGVufDB8fHwxfDE3MDc2NDU2MTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "survival skills",
+        "outdoor",
+        "team building"
+      ]
+    },
+    {
+      "id": "ZAT-AQG-003",
+      "name": "The Miner's Maze Adventure",
+      "short_description": "Navigate a multi-level maze themed as a mine shaft, complete with tunnels, slides, and exciting challenges.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Zone Récréative Centrale, Zouérat, Mauritania",
+      "opening_hours": "09:30-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1601007870591-628f8709e3e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxtaW5lJTIwbWF6ZSUyMGNoaWxkcmVufGVufDB8fHwxfDE3MDc2NDU2MTlfMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "maze",
+        "physical activity",
+        "mining theme"
+      ]
+    },
+    {
+      "id": "ZAT-AQG-004",
+      "name": "Ancient Petroglyph Quest",
+      "short_description": "Follow a trail of ancient rock art clues to uncover the story of the desert and solve an archaeological mystery.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Site Archéologique Fictif, Zouérat, Mauritania",
+      "opening_hours": "08:30-15:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582298642301-382944b2f29f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwcm9jayUyMGFydCUyMGNoaWxkcmVufGVufDB8fHwxfDE3MDc2NDU2NDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "history",
+        "mystery",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "ZAT-MSA-001",
+      "name": "Sand Kicks Mini-Soccer Pitches",
+      "short_description": "Two small, sand-based football pitches perfect for friendly matches and skill development for young soccer enthusiasts.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Stade Municipal Annexe, Zouérat, Mauritania",
+      "opening_hours": "08:00-12:00, 15:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549113619-389f4b75a40a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxtaW5pJTIwc29jY2VyJTIwZmllbGR8ZW58MHx8fHwxNzA3NjQ2MjM3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "soccer",
+        "sports",
+        "team play"
+      ]
+    },
+    {
+      "id": "ZAT-MSA-002",
+      "name": "Oasis Hoops Basketball Courts",
+      "short_description": "Shaded outdoor basketball courts where kids can practice their shots and play pickup games in a cool environment.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Parc Jeunesse, Quartier Administratif, Zouérat, Mauritania",
+      "opening_hours": "09:00-13:00, 16:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1596209848520-256191c97695?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxiaXJkcyUyMmV5ZSUyMGRyb25lJTIwZm9vdGJhbGwlMjBzdGFkaXVtfGVufDB8fHwxfDE3MDc2NDY3NzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "basketball",
+        "outdoor",
+        "free play"
+      ]
+    },
+    {
+      "id": "ZAT-MSA-003",
+      "name": "Explorer's Climbing Wall",
+      "short_description": "A beginner-friendly climbing wall with various routes and challenges, promoting strength and problem-solving skills.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Centre Sportif Scolaire, Zouérat, Mauritania",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558296715-09d3d41077fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxiZWdpbm5lciUyMGNsaW1iaW5nJTIwd2FsbHxlbnwwfHwufHwxNzA3NjQ2NzgyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "climbing",
+        "physical challenge",
+        "adventure"
+      ]
+    },
+    {
+      "id": "ZAT-MSA-004",
+      "name": "Desert Racers Mini Track",
+      "short_description": "A small track for kids to race pedal cars, tricycles, or run laps, encouraging active play and friendly competition.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Parc Récréatif Sud, Zouérat, Mauritania",
+      "opening_hours": "09:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563853151478-f71f114c9977?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxtaW5pJTIwcmFjaW5nJTIwdHJhY2slMjBjaGlsZHJlbnxlbnwwfHwufHwxNzA3NjQ2ODQyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "racing",
+        "active play",
+        "cycling"
+      ]
+    },
+    {
+      "id": "ZAT-WPK-001",
+      "name": "Zouérat Splash Pad",
+      "short_description": "An interactive water play area with jets, sprinklers, and shallow pools, perfect for toddlers and young children to cool off.",
+      "subtype": "Water Parks for Kids",
+      "address": "Parc Aquatique Municipal, Zouérat, Mauritania",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616766629910-bf9b59e51922?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxraWRzJTIwc3BsYXNoJTIwcGFkfGVufDB8fHwxfDE3MDc2NDcyOTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water play",
+        "toddlers",
+        "cooling"
+      ]
+    },
+    {
+      "id": "ZAT-WPK-002",
+      "name": "Mini Oasis Lagoon",
+      "short_description": "A small, shaded swimming pool with gentle slides and water features, offering a refreshing break from the desert heat.",
+      "subtype": "Water Parks for Kids",
+      "address": "Complexe Loisirs Familial, Zouérat, Mauritania",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596700812920-53093121544a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxraWRzJTIwbWluaSUyMHdhdGVyJTIwcGFya3xlbnwwfHwufHwxNzA3NjQ3NDQ3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "swimming",
+        "slides",
+        "shaded"
+      ]
+    },
+    {
+      "id": "ZAT-WPK-003",
+      "name": "Wadi Water Wonders",
+      "short_description": "A collection of small, themed water slides and interactive spray areas, designed for safe and exciting water fun.",
+      "subtype": "Water Parks for Kids",
+      "address": "Route Nationale 1, Zouérat, Mauritania",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1595180630650-71109968434d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMHdhdGVyJTIwc2xpZGVzfGVufDB8fHwxfDE3MDc2NDc0ODJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water slides",
+        "exciting",
+        "themed"
+      ]
+    },
+    {
+      "id": "ZAT-WPK-004",
+      "name": "Desert Bloom Water Playground",
+      "short_description": "A vibrant water playground featuring a dumping bucket, climbing structures, and various splash features for hours of entertainment.",
+      "subtype": "Water Parks for Kids",
+      "address": "Zone Récréative Nord, Zouérat, Mauritania",
+      "opening_hours": "10:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1592985172287-f81d58df025d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwyfHxjaGlsZHJlbiUyMHdhdGVyJTIwcGxheWdyb3VuZHxlbnwwfHwufHwxNzA3NjQ3NDc4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "playground",
+        "dumping bucket",
+        "fun"
+      ]
+    },
+    {
+      "id": "ZAT-CPT-001",
+      "name": "Nomadic Sands Puppet Show",
+      "short_description": "A delightful puppet theater presenting traditional Mauritanian tales and modern stories with colorful, handcrafted puppets.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Centre Culturel Communautaire, Zouérat, Mauritania",
+      "opening_hours": "15:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621259740209-4ce43d70656a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMHB1cHBldCUyMHNob3d8ZW58MHx8fHwxNzA3NjQ4MDQ0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "puppet show",
+        "traditional",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "ZAT-CPT-002",
+      "name": "Zouérat Youth Circus Tent",
+      "short_description": "Experience the thrill of a small-scale circus featuring young local talent performing acrobatics, juggling, and clown acts.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Place des Fêtes, Zouérat, Mauritania",
+      "opening_hours": "17:00-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574676643603-9993e32b6e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHxjaGlsZHJlbiUyMGNpcmN1c3xlbnwwfHwufHwxNzA3NjQ4MDYyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "circus",
+        "performance",
+        "local talent"
+      ]
+    },
+    {
+      "id": "ZAT-CPT-003",
+      "name": "Desert Marionette Theatre",
+      "short_description": "A charming theater dedicated to marionette shows, bringing classic tales and new adventures to life with string puppets.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Avenue de l'Unité, Zouérat, Mauritania",
+      "opening_hours": "14:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1555776269-e09214713c77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxtYXJpb25ldHRlJTIwc2hvd3xlbnwwfHwufHwxNzA3NjQ4MDcwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marionettes",
+        "classic tales",
+        "art"
+      ]
+    },
+    {
+      "id": "ZAT-CPT-004",
+      "name": "Safari Clown Extravaganza",
+      "short_description": "A vibrant and funny show featuring clowns, jugglers, and comedic acts with a safari and desert animal theme.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Parc Récréatif du Sud, Zouérat, Mauritania",
+      "opening_hours": "16:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589182372403-ec52d8e03f4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxjbG93biUyMHNob3d8ZW58MHx8fHwxNzA3NjQ4MDgwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "clowns",
+        "comedy",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ZAT-SCC-001",
+      "name": "Geology Rocks! Lab",
+      "short_description": "An interactive lab where kids can explore local minerals, conduct rock experiments, and learn about Zouérat's unique geology.",
+      "subtype": "Science Centers",
+      "address": "Musée des Sciences Naturelles, Zouérat, Mauritania",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582298642301-382944b2f29f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxnZW9sb2d5JTIwc2NpZW5jZSUyMGNlbnRlciUyMGNoaWxkcmVufGVufDB8fHwxfDE3MDc2NDg1NjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "geology",
+        "interactive",
+        "education"
+      ]
+    },
+    {
+      "id": "ZAT-SCC-002",
+      "name": "Stars of the Sahara Observatory",
+      "short_description": "A small planetarium and stargazing area, where children can learn about desert constellations and the wonders of the night sky.",
+      "subtype": "Science Centers",
+      "address": "Centre Astronomique, Zouérat, Mauritania",
+      "opening_hours": "14:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627993188544-b2586b4cf17d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMHBsYW5ldGFyaXVtfGVufDB8fHwxfDE3MDc2NDg1Njh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "planetarium",
+        "stargazing"
+      ]
+    },
+    {
+      "id": "ZAT-SCC-003",
+      "name": "Desert Ecosystem Explorers",
+      "short_description": "Hands-on exhibits showcasing the incredible flora and fauna that thrive in the desert, promoting environmental awareness.",
+      "subtype": "Science Centers",
+      "address": "Jardin Botanique Éducatif, Zouérat, Mauritania",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616766629910-bf9b59e51922?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwyfHxjaGlsZHJlbiUyMGVjb3N5c3RlbXN8ZW58MHx8fHwxNzA3NjQ4NTg0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ecology",
+        "nature",
+        "environment"
+      ]
+    },
+    {
+      "id": "ZAT-SCC-004",
+      "name": "Future Energy Workshop",
+      "short_description": "An interactive workshop where children learn about renewable energy sources like solar and wind power through experiments and model building.",
+      "subtype": "Science Centers",
+      "address": "Institut de Technologie, Zouérat, Mauritania",
+      "opening_hours": "11:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1523419358211-168a97c4146a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjU4Mzh8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMHJlbmV3YWJsZSUyMGVuZXJneSUyMHdvcmtzaG9wfGVufDB8fHwxfDE3MDc2NDg1ODd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "renewable energy",
+        "STEM",
+        "innovation"
+      ]
+    }
+  ]
+}

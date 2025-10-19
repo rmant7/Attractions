@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Ukunda",
+    "city_id": "2441"
+  },
+  "items": [
+    {
+      "id": "UKDPS001",
+      "name": "The Sunken Dunes of Kinondo",
+      "short_description": "Believed to hold ancient earth energies, these vast, shifting sand formations are a place for deep introspection and connecting with primal forces. Local lore speaks of visions seen at sunrise.",
+      "subtype": "Desert Power Sites",
+      "address": "Kinondo Village, South Diani, Ukunda, Kwale County",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549429447-b2f4a4d65c3b",
+      "tags": [
+        "earth energy",
+        "meditation",
+        "primal"
+      ]
+    },
+    {
+      "id": "UKDPS002",
+      "name": "Kwale's Windswept Mesa",
+      "short_description": "A flat-topped hill just inland from the coast, exposed to constant winds, said to be a conduit for ancestral whispers and powerful creative energy. Shamans once sought visions here.",
+      "subtype": "Desert Power Sites",
+      "address": "Kwale Hinterlands, near Ukunda-Lunga Lunga Road, Kwale County",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "fixed amount KSh 300",
+      "images": "https://images.unsplash.com/photo-1582855193980-87747864ed70",
+      "tags": [
+        "ancestral communication",
+        "vision quest",
+        "wind energy"
+      ]
+    },
+    {
+      "id": "UKDPS003",
+      "name": "Sands of Serenity Grotto",
+      "short_description": "A secluded pocket of ancient, weathered rock formations amidst sandy clearings, offering profound silence and a sense of timelessness. Ideal for quiet contemplation and energy grounding.",
+      "subtype": "Desert Power Sites",
+      "address": "Off Ukunda-Ramisi Road, towards Funzi Bay, Ukunda, Kwale County",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1574044199990-2c7b50821033",
+      "tags": [
+        "grounding",
+        "silence",
+        "timelessness"
+      ]
+    },
+    {
+      "id": "UKDPS004",
+      "name": "The Red Earth Plateau",
+      "short_description": "Characterized by its unique reddish soil and sparse vegetation, this plateau is revered as a place where the earth's raw, healing energy is most palpable. It's often visited for renewal rituals.",
+      "subtype": "Desert Power Sites",
+      "address": "Near Msambweni, inland from Ukunda, Kwale County",
+      "visiting_hours": "07:30-17:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1548612147-380d38e219fb",
+      "tags": [
+        "healing",
+        "renewal",
+        "earth rituals"
+      ]
+    },
+    {
+      "id": "UKVZ001",
+      "name": "Kilifi Ancient Caldera Remnant",
+      "short_description": "While not an active volcano, this subtle geological depression is believed to be the trace of an ancient caldera, a site of immense spiritual pressure and transformation. Local Giriama elders conduct purification rites here.",
+      "subtype": "Volcanic Zones",
+      "address": "North of Ukunda, towards Kilifi border, Kwale County",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1565158141200-c9f28d7a1e0f",
+      "tags": [
+        "transformation",
+        "purification",
+        "ancient geology"
+      ]
+    },
+    {
+      "id": "UKVZ002",
+      "name": "Magma Stone Sanctuary",
+      "short_description": "A collection of unusually dark, dense rocks, some with vesicular textures, scattered across a specific clearing. Locals believe these are ancient 'magma stones' holding intense earth energy for strength and courage.",
+      "subtype": "Volcanic Zones",
+      "address": "Near Ramisi Junction, Ukunda, Kwale County",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510423019183-5c74381387cf",
+      "tags": [
+        "strength",
+        "courage",
+        "earth energy"
+      ]
+    },
+    {
+      "id": "UKVZ003",
+      "name": "The Fissure of Souls",
+      "short_description": "A deep, narrow gorge with intriguing rock formations, said to be a place where the earth breathes, allowing for intense meditation and release of old burdens. Pilgrims visit for spiritual purging.",
+      "subtype": "Volcanic Zones",
+      "address": "Inland from Diani, near Gasi village, Ukunda, Kwale County",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "fixed amount KSh 200",
+      "images": "https://images.unsplash.com/photo-1508249052981-b542010c2656",
+      "tags": [
+        "purging",
+        "meditation",
+        "release"
+      ]
+    },
+    {
+      "id": "UKVZ004",
+      "name": "Hot Earth Meditation Mound",
+      "short_description": "A small, elevated mound where the ground is noticeably warmer, even in cooler weather, believed to radiate a gentle, constant heat that aids in deep meditation and spiritual healing.",
+      "subtype": "Volcanic Zones",
+      "address": "Behind Ukunda Airstrip, near forest edge, Ukunda, Kwale County",
+      "visiting_hours": "08:30-17:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1533087346101-76a0a09e054a",
+      "tags": [
+        "healing",
+        "meditation",
+        "warmth"
+      ]
+    },
+    {
+      "id": "UKHSW001",
+      "name": "Kinondo Healing Spring",
+      "short_description": "Tucked away in a grove, this ancient spring is revered for its crystal-clear waters believed to possess powerful healing properties for both body and spirit. Local communities perform cleansing rituals here.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Kinondo Village, near Kinondo Sacred Forest, Ukunda, Kwale County",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1522271810443-4a005c2194c7",
+      "tags": [
+        "healing water",
+        "cleansing rituals",
+        "sacred grove"
+      ]
+    },
+    {
+      "id": "UKHSW002",
+      "name": "Diani Wishing Well",
+      "short_description": "An old, hand-dug well, its waters are said to grant wishes to those who approach with a pure heart and offer a small token. It's a place of hope and manifestation.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Diani Beach Road, near Kongo River Bridge, Ukunda, Kwale County",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582235940989-1090c237e58a",
+      "tags": [
+        "wishing",
+        "manifestation",
+        "hope"
+      ]
+    },
+    {
+      "id": "UKHSW003",
+      "name": "Mwazaro Ancestral Well",
+      "short_description": "A vital water source for generations, this well is seen as a direct link to ancestors, offering spiritual sustenance and wisdom. Visitors often meditate here to connect with their lineage.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Mwazaro Village, near Gazi Bay, Ukunda, Kwale County",
+      "visiting_hours": "24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1521791880521-71ae7f471e4d",
+      "tags": [
+        "ancestral connection",
+        "wisdom",
+        "spiritual sustenance"
+      ]
+    },
+    {
+      "id": "UKHSW004",
+      "name": "Shanzu Purification Pool",
+      "short_description": "Fed by a subterranean spring, this natural pool is used for ritual purification before important life events. Its cool, clear waters are believed to wash away impurities and bring clarity.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Shanzu Area, inland from Ukunda, Kwale County",
+      "visiting_hours": "06:30-17:00",
+      "entry_fee": "fixed amount KSh 100",
+      "images": "https://images.unsplash.com/photo-1563274641-a6c38b2a3a5f",
+      "tags": [
+        "purification",
+        "clarity",
+        "rituals"
+      ]
+    },
+    {
+      "id": "UKAC001",
+      "name": "Diani's Forgotten Swahili Town",
+      "short_description": "The overgrown remnants of an early Swahili settlement, its crumbling coral stone walls and foundations speak of centuries of trade, faith, and community. It's a poignant site for historical reflection and connection to coastal heritage.",
+      "subtype": "Ancient Cities",
+      "address": "South Diani Beach, near the estuary, Ukunda, Kwale County",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount KSh 400",
+      "images": "https://images.unsplash.com/photo-1579589809634-1c4b7b25b682",
+      "tags": [
+        "Swahili heritage",
+        "history",
+        "reflection"
+      ]
+    },
+    {
+      "id": "UKAC002",
+      "name": "Kwale's Mwanamwema Fortifications",
+      "short_description": "The vestiges of an ancient fortified village, strategically located inland. Its surviving stone structures are believed to hold the protective energies of past inhabitants, visited for blessings of security and strength.",
+      "subtype": "Ancient Cities",
+      "address": "Mwanamwema Village, Kwale County, Ukunda",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1574044199990-2c7b50821033",
+      "tags": [
+        "protection",
+        "security",
+        "ancient fort"
+      ]
+    },
+    {
+      "id": "UKAC003",
+      "name": "The Old Msambweni Port Ruins",
+      "short_description": "What remains of a bustling ancient port town, its submerged jetties and foundations are a testament to centuries of maritime life and cultural exchange. It's a site for contemplating cyclical change and the enduring spirit of the ocean.",
+      "subtype": "Ancient Cities",
+      "address": "Msambweni, south of Ukunda, Kwale County",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "fixed amount KSh 300",
+      "images": "https://images.unsplash.com/photo-1507721999464-d3680a651917",
+      "tags": [
+        "maritime history",
+        "cyclical change",
+        "ocean spirit"
+      ]
+    },
+    {
+      "id": "UKAC004",
+      "name": "Ramisi Stone Village Echoes",
+      "short_description": "Faint outlines of a once-thriving stone village, now largely reclaimed by nature, offering a profound sense of connection to the rhythm of life and the impermanence of human endeavor. A quiet place for historical meditation.",
+      "subtype": "Ancient Cities",
+      "address": "Ramisi River banks, inland from Ukunda, Kwale County",
+      "visiting_hours": "08:30-17:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563820986504-20d0f4d38e3e",
+      "tags": [
+        "impermanence",
+        "nature's reclaim",
+        "historical meditation"
+      ]
+    },
+    {
+      "id": "UKOS001",
+      "name": "The Baobab of Whispers",
+      "short_description": "An exceptionally ancient Baobab tree, its massive trunk and branches are believed to house ancestral spirits who offer guidance and prophecies to those who listen quietly at its roots.",
+      "subtype": "Oracle Sites",
+      "address": "Ukunda Town, near public market, Ukunda, Kwale County",
+      "visiting_hours": "05:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1588665798952-4a0b271d44a2",
+      "tags": [
+        "ancestral guidance",
+        "prophecy",
+        "sacred tree"
+      ]
+    },
+    {
+      "id": "UKOS002",
+      "name": "Kaya Kinondo Divination Rock",
+      "short_description": "Within the sacred forest, a distinctive rock formation where Kaya elders once performed divination rituals, seeking wisdom for the community. Its surface is still believed to hold an imprint of truth.",
+      "subtype": "Oracle Sites",
+      "address": "Kaya Kinondo Sacred Forest, Kinondo, Ukunda, Kwale County",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount KSh 800",
+      "images": "https://images.unsplash.com/photo-1507502758252-a7f4749f506e",
+      "tags": [
+        "divination",
+        "wisdom seeking",
+        "Kaya culture"
+      ]
+    },
+    {
+      "id": "UKOS003",
+      "name": "The Seer's Lagoon",
+      "short_description": "A secluded lagoon known for its unusually still and reflective waters, where seers once gazed to receive visions and insights. Its tranquility encourages profound self-reflection and clarity.",
+      "subtype": "Oracle Sites",
+      "address": "Near Kongo River mouth, south of Diani, Ukunda, Kwale County",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1520638029587-941865c69e2c",
+      "tags": [
+        "visions",
+        "self-reflection",
+        "clarity"
+      ]
+    },
+    {
+      "id": "UKOS004",
+      "name": "Gazi Bay Ancestral Lighthouse",
+      "short_description": "An ancient, symbolic 'lighthouse' on a high point overlooking Gazi Bay, where ancestors would 'light' spiritual beacons for guidance across the waters and lands. It's a place for seeking direction.",
+      "subtype": "Oracle Sites",
+      "address": "Gazi Bay, high point overlooking the bay, Ukunda, Kwale County",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1561081682-990e1f72a4d0",
+      "tags": [
+        "guidance",
+        "direction",
+        "ancestral beacon"
+      ]
+    },
+    {
+      "id": "UKRST001",
+      "name": "The Sheikh's Mausoleum, Diani",
+      "short_description": "A revered Islamic shrine housing the tomb of an influential ancient Sheikh, visited by pilgrims seeking blessings, healing, and spiritual intercession. It's a peaceful place of devotion.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Diani Beach Road, near Mosque, Ukunda, Kwale County",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517524008697-a74b04c0847b",
+      "tags": [
+        "pilgrimage",
+        "blessings",
+        "Islamic heritage"
+      ]
+    },
+    {
+      "id": "UKRST002",
+      "name": "Kaya Ukunda Ancestral Burial Site",
+      "short_description": "A sacred, unassuming burial ground within a designated forest patch, where respected Kaya elders were laid to rest. It's a powerful site for honoring ancestors and understanding Mijikenda heritage.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Inland from Ukunda, near Diani Hospital, Kwale County",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "fixed amount KSh 600",
+      "images": "https://images.unsplash.com/photo-1587847640366-8d697b7134d1",
+      "tags": [
+        "ancestor reverence",
+        "Mijikenda culture",
+        "sacred burial"
+      ]
+    },
+    {
+      "id": "UKRST003",
+      "name": "The Pillar of Gazi's Founder",
+      "short_description": "A unique coral stone pillar, marking the resting place of Gazi's legendary founder. It's considered a beacon of resilience and leadership, inspiring visitors to uphold community values.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Gazi Village, near the old mosque, Ukunda, Kwale County",
+      "visiting_hours": "24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1589115712173-9e4f5a3f2d2b",
+      "tags": [
+        "community legacy",
+        "resilience",
+        "leadership"
+      ]
+    },
+    {
+      "id": "UKRST004",
+      "name": "Kwale's Secret Forest Grave",
+      "short_description": "A hidden, ancient grave site deep within a protective forest, believed to hold the remains of a powerful spiritual leader. Access is restricted, emphasizing its sacred and undisturbed nature.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Deep within Kwale Forest, access via specific paths, Kwale County",
+      "visiting_hours": "By appointment only (with elder permission)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1510257007267-3132e12e20a0",
+      "tags": [
+        "sacred secrecy",
+        "spiritual leader",
+        "forest protection"
+      ]
+    },
+    {
+      "id": "UKCR001",
+      "name": "Diani Junction of Destinies",
+      "short_description": "The bustling intersection where Diani Beach Road meets the main Ukunda-Lunga Lunga highway, symbolizing life's choices and the meeting of diverse paths. A site for reflection on personal direction.",
+      "subtype": "Crossroads",
+      "address": "Major Diani Junction, Ukunda Town, Kwale County",
+      "visiting_hours": "24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1546950257-23b052d9b2e7",
+      "tags": [
+        "life choices",
+        "personal direction",
+        "convergence"
+      ]
+    },
+    {
+      "id": "UKCR002",
+      "name": "Kongo River Estuary Passage",
+      "short_description": "Where the fresh waters of Kongo River meet the salty Indian Ocean, this estuary represents the merging of different worlds and transitions. It's a place for contemplating new beginnings and endings.",
+      "subtype": "Crossroads",
+      "address": "Kongo River mouth, South Diani, Ukunda, Kwale County",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1561081682-990e1f72a4d0",
+      "tags": [
+        "new beginnings",
+        "transitions",
+        "merging energies"
+      ]
+    },
+    {
+      "id": "UKCR003",
+      "name": "Ramisi Old Trade Route Junction",
+      "short_description": "The historical convergence point of ancient trade routes leading inland and to the coast, this site is imbued with the echoes of journeys and exchanges. It's a symbol of connection and cultural blending.",
+      "subtype": "Crossroads",
+      "address": "Ramisi, near the old market site, Ukunda, Kwale County",
+      "visiting_hours": "24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-150674403813-acb679468c5b",
+      "tags": [
+        "cultural exchange",
+        "journeys",
+        "historical paths"
+      ]
+    },
+    {
+      "id": "UKCR004",
+      "name": "Ukunda Airstrip Gateway",
+      "short_description": "The point of arrival and departure for many, the airstrip symbolizes journeys, change, and the meeting of local and global energies. It's a modern crossroad of opportunities and farewells.",
+      "subtype": "Crossroads",
+      "address": "Ukunda Airstrip Road, Ukunda, Kwale County",
+      "visiting_hours": "06:00-22:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582235940989-1090c237e58a",
+      "tags": [
+        "travel",
+        "opportunity",
+        "global connection"
+      ]
+    },
+    {
+      "id": "UKMEP001",
+      "name": "Diani International Yoga Hub",
+      "short_description": "A vibrant center where diverse spiritual practices and wellness traditions converge, offering a dynamic space for personal growth, community building, and contemporary spiritual exploration.",
+      "subtype": "Modern Energy Places",
+      "address": "Beach Road, Diani, Ukunda, Kwale County",
+      "visiting_hours": "07:00-20:00",
+      "entry_fee": "fixed amount KSh 1500",
+      "images": "https://images.unsplash.com/photo-1570747978643-d3c5b52c3c6f",
+      "tags": [
+        "wellness",
+        "community",
+        "contemporary spirituality"
+      ]
+    },
+    {
+      "id": "UKMEP002",
+      "name": "Ukunda Community Art & Culture Center",
+      "short_description": "A bustling hub of local creativity, expression, and cultural preservation, where traditional arts meet modern interpretations. It radiates an energy of innovation, identity, and shared human spirit.",
+      "subtype": "Modern Energy Places",
+      "address": "Ukunda Town Center, near market, Kwale County",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1555581102-12f5a6e4d5b2",
+      "tags": [
+        "creativity",
+        "cultural preservation",
+        "community spirit"
+      ]
+    },
+    {
+      "id": "UKMEP003",
+      "name": "The Diani Eco-Consciousness Retreat",
+      "short_description": "A sustainably designed retreat focused on ecological harmony and mindful living, generating a powerful energy of connection with nature and a vision for a regenerative future.",
+      "subtype": "Modern Energy Places",
+      "address": "South Diani, near marine park, Ukunda, Kwale County",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount KSh 1000",
+      "images": "https://images.unsplash.com/photo-150674403813-acb679468c5b",
+      "tags": [
+        "eco-spirituality",
+        "mindfulness",
+        "sustainable living"
+      ]
+    },
+    {
+      "id": "UKMEP004",
+      "name": "Shanzu Prayer Mountain Overlook",
+      "short_description": "A contemporary gathering point on a hillside, frequented by individuals and groups for prayer, meditation, and seeking divine connection, offering panoramic views and a powerful sense of collective faith.",
+      "subtype": "Modern Energy Places",
+      "address": "Shanzu Hills, overlooking Ukunda, Kwale County",
+      "visiting_hours": "24 hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582235940989-1090c237e58a",
+      "tags": [
+        "prayer",
+        "collective faith",
+        "divine connection"
+      ]
+    },
+    {
+      "id": "UKSF001",
+      "name": "Kaya Kinondo Sacred Forest",
+      "short_description": "A protected indigenous forest, revered as an ancestral burial ground and a spiritual sanctuary of the Digo people. It is a living shrine, embodying the spiritual and historical heritage of the Mijikenda.",
+      "subtype": "Sacred Forests",
+      "address": "Kinondo Village, south of Diani Beach, Ukunda, Kwale County",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount KSh 800",
+      "images": "https://images.unsplash.com/photo-1507502758252-a7f4749f506e",
+      "tags": [
+        "Mijikenda heritage",
+        "ancestral reverence",
+        "ecological sanctuary"
+      ]
+    },
+    {
+      "id": "UKSF002",
+      "name": "Kwale's Mtswakali Grove",
+      "short_description": "A smaller but equally sacred forest patch, traditionally used for medicinal plant gathering and quiet spiritual retreats. Its ancient trees are believed to hold wisdom and healing energies.",
+      "subtype": "Sacred Forests",
+      "address": "Kwale Town outskirts, towards the hills, Kwale County",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1510257007267-3132e12e20a0",
+      "tags": [
+        "healing plants",
+        "wisdom trees",
+        "spiritual retreat"
+      ]
+    },
+    {
+      "id": "UKSF003",
+      "name": "The Mangrove Labyrinth of Gazi",
+      "short_description": "While not a traditional 'forest,' these ancient mangrove ecosystems are deeply sacred, seen as vital guardians of the coast and a place of profound connection to tidal rhythms and the life-giving ocean spirit.",
+      "subtype": "Sacred Forests",
+      "address": "Gazi Bay, mangrove boardwalk access, Ukunda, Kwale County",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "fixed amount KSh 200",
+      "images": "https://images.unsplash.com/photo-1583020613280-d2c6c7b3b6c2",
+      "tags": [
+        "ocean spirit",
+        "ecological reverence",
+        "tidal wisdom"
+      ]
+    },
+    {
+      "id": "UKSF004",
+      "name": "Shimba Hills Forest Edge Sanctuary",
+      "short_description": "A pristine section on the edge of the Shimba Hills National Reserve, known for its untouched natural beauty and the presence of rare wildlife, considered sacred by local communities for its pure, untamed energy.",
+      "subtype": "Sacred Forests",
+      "address": "Near Shimba Hills National Reserve entrance, Ukunda, Kwale County",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "fixed amount KSh 1000",
+      "images": "https://images.unsplash.com/photo-1563820986504-20d0f4d38e3e",
+      "tags": [
+        "wild nature",
+        "purity",
+        "conservation"
+      ]
+    },
+    {
+      "id": "UKAT001",
+      "name": "The Old Msambweni Mosque Ruins",
+      "short_description": "The atmospheric remains of one of the oldest mosques on the East African coast, its weathered walls still emanate a powerful sense of devotion and historical spirituality. A place for quiet contemplation.",
+      "subtype": "Ancient Temples",
+      "address": "Msambweni Old Town, near the coast, Ukunda, Kwale County",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1522075782980-b0b3e5d0d829",
+      "tags": [
+        "Islamic history",
+        "devotion",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "UKAT002",
+      "name": "The Kaya Kinondo Ancestral Altar",
+      "short_description": "A designated sacred clearing within Kaya Kinondo Forest, featuring ancient stones used as altars for traditional Mijikenda rituals and offerings to ancestors. It is the heart of the Kaya's spiritual power.",
+      "subtype": "Ancient Temples",
+      "address": "Deep within Kaya Kinondo Sacred Forest, Kinondo, Ukunda, Kwale County",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount KSh 800",
+      "images": "https://images.unsplash.com/photo-1507502758252-a7f4749f506e",
+      "tags": [
+        "Mijikenda rituals",
+        "ancestral offerings",
+        "spiritual heart"
+      ]
+    },
+    {
+      "id": "UKAT003",
+      "name": "Diani's Ancient Sunstone Shrine",
+      "short_description": "A unique natural rock formation on a coastal outcrop, believed to have been an ancient shrine where early inhabitants worshipped the sun. It offers breathtaking sunrises and a primal connection to celestial cycles.",
+      "subtype": "Ancient Temples",
+      "address": "Diani Beach, South Point, Ukunda, Kwale County",
+      "visiting_hours": "05:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1511210986146-5c5a083b4c19",
+      "tags": [
+        "sun worship",
+        "celestial connection",
+        "primal shrine"
+      ]
+    },
+    {
+      "id": "UKAT004",
+      "name": "Kwale's Iron Age Earth Temple",
+      "short_description": "Subterranean remnants of an ancient earth structure, possibly used for rituals related to fertility and agriculture during the Iron Age. It's a site of deep earth connection and ancient abundance.",
+      "subtype": "Ancient Temples",
+      "address": "Inland Kwale, near Ukunda-Msambweni Road, Kwale County",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1574044199990-2c7b50821033",
+      "tags": [
+        "earth rituals",
+        "fertility",
+        "ancient abundance"
+      ]
+    }
+  ]
+}

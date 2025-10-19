@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Yola",
+    "city_id": "2465"
+  },
+  "items": [
+    {
+      "id": "YolaFest1",
+      "name": "Durbar de Yola: Royal Spectacle",
+      "short_description": "Witness the grandeur of traditional horsemen in vibrant regalia, celebrating ancient heritage with dazzling displays of horsemanship. A truly immersive cultural experience.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Lamido's Palace Grounds",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1577782352125-78e734c51480",
+      "tags": [
+        "#Culture",
+        "#Tradition",
+        "#Festive"
+      ]
+    },
+    {
+      "id": "YolaFest2",
+      "name": "Benue River Yam Festival",
+      "short_description": "Celebrate the bountiful harvest along the Benue River with lively music, traditional dances, and communal feasting centered around fresh yam dishes.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Benue River Banks (near Yola South)",
+      "best_time": "Afternoon",
+      "images": "https://www.pexels.com/photo/group-of-people-eating-traditional-african-food-5904859/",
+      "tags": [
+        "#Harvest",
+        "#Community",
+        "#Foodie"
+      ]
+    },
+    {
+      "id": "YolaFest3",
+      "name": "Yola Arts & Crafts Fair",
+      "short_description": "Discover local talent and unique creations from Adamawa artisans, ranging from intricate beadwork to vibrant textiles and pottery. A perfect spot for authentic souvenirs.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Yola City Square",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596752000570-52d8e48d3c5b",
+      "tags": [
+        "#Artisanal",
+        "#Crafts",
+        "#LocalMarket"
+      ]
+    },
+    {
+      "id": "YolaFest4",
+      "name": "Eid al-Adha Street Celebrations",
+      "short_description": "Experience the joyous atmosphere of Eid as communities come alive with street processions, shared meals, and festive decorations throughout the city.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Main Street, Yola Old Town",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1626806787680-a61541416955",
+      "tags": [
+        "#Eid",
+        "#Celebration",
+        "#CommunitySpirit"
+      ]
+    },
+    {
+      "id": "YolaStair1",
+      "name": "Lamido's Palace Grand Steps",
+      "short_description": "Ascend the majestic, wide steps leading to the historic Lamido's Palace, offering a regal entrance and a glimpse into Yola's traditional power.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Lamido's Palace",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1629854728771-08144b61b9a9",
+      "tags": [
+        "#Palace",
+        "#Architecture",
+        "#Historic"
+      ]
+    },
+    {
+      "id": "YolaStair2",
+      "name": "Central Market's Vibrant Passageways",
+      "short_description": "Navigate the bustling, narrow pathways of Yola's Central Market, a sensory explosion of colors, sounds, and aromas, perfect for capturing authentic local life.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Yola Central Market",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1559902646-ac7d6c62a03f",
+      "tags": [
+        "#MarketLife",
+        "#LocalVibes",
+        "#StreetPhotography"
+      ]
+    },
+    {
+      "id": "YolaStair3",
+      "name": "Three Sisters Hill Climb",
+      "short_description": "Embark on a winding path up the gentle slopes of the 'Three Sisters Hills', rewarded with panoramic views of the Yola landscape and Benue River.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Outskirts of Yola, towards Three Sisters Hills",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1523978598716-ee3ac1b1a774",
+      "tags": [
+        "#Hiking",
+        "#Viewpoint",
+        "#NatureWalk"
+      ]
+    },
+    {
+      "id": "YolaStair4",
+      "name": "FUTY Architectural Walkway",
+      "short_description": "Stroll along the architecturally interesting elevated walkways and staircases of the Federal University of Technology Yola, showcasing modern design amidst green spaces.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Federal University of Technology Yola (FUTY)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1521946001037-f10d0a51c72f",
+      "tags": [
+        "#University",
+        "#ModernDesign",
+        "#UrbanExplore"
+      ]
+    },
+    {
+      "id": "YolaHotel1",
+      "name": "Benue Riverfront Lodge",
+      "short_description": "Enjoy tranquil views of the Benue River from this serene lodge, offering comfortable rooms and a peaceful escape from the city's hustle.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Along Benue River",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1563911302-a2463e2d6349",
+      "tags": [
+        "#RiverView",
+        "#Relaxation",
+        "#LodgeLife"
+      ]
+    },
+    {
+      "id": "YolaHotel2",
+      "name": "Gashaka Guesthouse Oasis",
+      "short_description": "A charming boutique guesthouse with a lush inner courtyard garden, providing a cozy and private retreat with personalized service.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Jimeta, Yola",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1574047463690-41ed73e449a6",
+      "tags": [
+        "#BoutiqueStay",
+        "#Garden",
+        "#HiddenGem"
+      ]
+    },
+    {
+      "id": "YolaHotel3",
+      "name": "Fula Heritage Hotel",
+      "short_description": "Immerse yourself in local culture at this hotel inspired by traditional Fula architecture and decor, offering an authentic yet comfortable stay.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Yola Old Town",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1571003102432-84950e30e791",
+      "tags": [
+        "#CulturalStay",
+        "#Heritage",
+        "#Authentic"
+      ]
+    },
+    {
+      "id": "YolaHotel4",
+      "name": "Grand Yola Suites & Conference Centre",
+      "short_description": "Experience contemporary comfort and state-of-the-art facilities at Yola's premier business hotel, perfect for both leisure and corporate travelers.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Yola City Centre",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+      "tags": [
+        "#Luxury",
+        "#Modern",
+        "#BusinessTravel"
+      ]
+    },
+    {
+      "id": "YolaArt1",
+      "name": "Peace & Unity Mural",
+      "short_description": "A vibrant community-led mural depicting themes of peace, unity, and local life, adding a splash of color and message to a busy intersection.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Jimeta Market Area",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1518018257276-805c86230f83",
+      "tags": [
+        "#CommunityArt",
+        "#PublicArt",
+        "#Message"
+      ]
+    },
+    {
+      "id": "YolaArt2",
+      "name": "Fula Warriors Wall Art",
+      "short_description": "Discover striking street art portraying historical Fula warriors and traditional motifs, celebrating Adamawa's rich cultural past.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near Lamido's Palace wall",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582260656910-c26ff3427909",
+      "tags": [
+        "#Culture",
+        "#History",
+        "#StreetArt"
+      ]
+    },
+    {
+      "id": "YolaArt3",
+      "name": "Yola River Spirit Mural",
+      "short_description": "An abstract and colorful mural symbolizing the life-giving spirit of the Benue River, found on a prominent building near the waterfront.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Benue Riverfront",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1520188989528-98e94a5e3174",
+      "tags": [
+        "#ModernArt",
+        "#UrbanCanvas",
+        "#RiverThemed"
+      ]
+    },
+    {
+      "id": "YolaArt4",
+      "name": "Adamawa Icons Gallery",
+      "short_description": "A series of portrait murals celebrating local heroes, artists, and community leaders, bringing inspiration to the streets of Yola.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Wuro Chekku Neighborhood",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549492167-96570c91b453",
+      "tags": [
+        "#LocalHeroes",
+        "#Portraits",
+        "#Inspiration"
+      ]
+    },
+    {
+      "id": "YolaPool1",
+      "name": "Grand Yola Sky Pool",
+      "short_description": "Relax by the stylish rooftop pool at Grand Yola Suites, offering refreshing dips and pleasant city views, especially at dusk.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Grand Yola Suites",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1561570716-e2a221f7c756",
+      "tags": [
+        "#RooftopPool",
+        "#Cityscape",
+        "#Luxury"
+      ]
+    },
+    {
+      "id": "YolaPool2",
+      "name": "Benue Oasis Pool",
+      "short_description": "Enjoy the expansive pool overlooking a lush green landscape, designed to blend seamlessly with its natural surroundings.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Benue Riverfront Lodge",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1568478546167-d86b16e87f58",
+      "tags": [
+        "#NatureView",
+        "#ResortLife",
+        "#Relaxation"
+      ]
+    },
+    {
+      "id": "YolaPool3",
+      "name": "Hilltop Retreat Pool",
+      "short_description": "A hidden gem, this exclusive pool at a private guesthouse offers serene solitude and impressive panoramic views from a gentle hilltop.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Yola Hillside Retreat",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1550549429-239103823467",
+      "tags": [
+        "#Secluded",
+        "#Panoramic",
+        "#Exclusive"
+      ]
+    },
+    {
+      "id": "YolaPool4",
+      "name": "Adama Plaza Serenity Pool",
+      "short_description": "Discover a sleek, modern pool within Adama Plaza Hotel, featuring contemporary design and a tranquil atmosphere for a peaceful swim.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Adama Plaza Hotel",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1574047402636-b6113b5d31ca",
+      "tags": [
+        "#ModernDesign",
+        "#HotelPool",
+        "#Tranquil"
+      ]
+    },
+    {
+      "id": "YolaFood1",
+      "name": "Mama Hawa's Traditional Kitchen",
+      "short_description": "Savor authentic Nigerian cuisine, especially local Adamawa specialties like masa and fura da nono, prepared with love and fresh ingredients.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Jimeta Market Street",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1621946808801-1b2c5e533c37",
+      "tags": [
+        "#LocalCuisine",
+        "#AuthenticFood",
+        "#StreetFood"
+      ]
+    },
+    {
+      "id": "YolaFood2",
+      "name": "The Yola Bean Coffee House",
+      "short_description": "A contemporary cafe offering specialty coffee, pastries, and light bites, perfect for a relaxed morning or a casual meeting.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Yola City Centre",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1511920170033-f8396924c348",
+      "tags": [
+        "#Cafe",
+        "#CoffeeLover",
+        "#ModernSpot"
+      ]
+    },
+    {
+      "id": "YolaFood3",
+      "name": "Benue Grill & Bar",
+      "short_description": "Enjoy grilled meats (suya), refreshing drinks, and a lively evening atmosphere by the Benue River, especially popular at night.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Benue Riverfront",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1599321852136-11f81b19985c",
+      "tags": [
+        "#Nightlife",
+        "#Suya",
+        "#Riverside"
+      ]
+    },
+    {
+      "id": "YolaFood4",
+      "name": "Fresh Squeeze Juice Bar",
+      "short_description": "Quench your thirst with a variety of freshly squeezed juices and fruit smoothies, made from locally sourced tropical fruits.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Federal University of Technology Yola campus area",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1502421868349-f9f30ed2343a",
+      "tags": [
+        "#Healthy",
+        "#JuiceBar",
+        "#FreshProduce"
+      ]
+    },
+    {
+      "id": "YolaHist1",
+      "name": "Lamido's Palace: Fulani Grandeur",
+      "short_description": "Explore the magnificent architecture of the Lamido's Palace, a symbol of Yola's rich Fulani heritage and traditional authority.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Yola Old Town",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1614777488057-0a7e1d520336",
+      "tags": [
+        "#Palace",
+        "#Fulani",
+        "#Heritage"
+      ]
+    },
+    {
+      "id": "YolaHist2",
+      "name": "Great Mosque of Yola",
+      "short_description": "Admire the intricate details and serene presence of Yola's Great Mosque, a cornerstone of the community's spiritual and architectural landscape.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Yola Old Town",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1563584852-53b47937580b",
+      "tags": [
+        "#Mosque",
+        "#ReligiousSite",
+        "#Architecture"
+      ]
+    },
+    {
+      "id": "YolaHist3",
+      "name": "Old Residency Building",
+      "short_description": "Discover remnants of Yola's colonial past in the Old Residency Building, showcasing distinct early 20th-century architectural styles.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Government Residential Area (GRA)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596547604471-f9260c6d7083",
+      "tags": [
+        "#ColonialHistory",
+        "#HistoricBuilding",
+        "#Legacy"
+      ]
+    },
+    {
+      "id": "YolaHist4",
+      "name": "Traditional Fulani Compounds (Exterior Views)",
+      "short_description": "Wander through parts of Yola Old Town to observe the unique mud-brick architecture and courtyard layouts of traditional Fulani family compounds.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Yola Old Town, specific alleys",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1622372274495-2441c9119c67",
+      "tags": [
+        "#TraditionalHomes",
+        "#LocalCulture",
+        "#MudArchitecture"
+      ]
+    },
+    {
+      "id": "YolaAlley1",
+      "name": "Jimeta Market's Secret Passages",
+      "short_description": "Dive into the labyrinthine alleys of Jimeta Market, where hidden stalls and local interactions offer a glimpse into the authentic pulse of Yola.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Jimeta Market",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1557404456-e970bf5f16e4",
+      "tags": [
+        "#MarketExplore",
+        "#HiddenGems",
+        "#LocalLife"
+      ]
+    },
+    {
+      "id": "YolaAlley2",
+      "name": "Old Yola Courtyard Oasis",
+      "short_description": "Discover tranquil, shaded courtyards within the old town, offering a peaceful escape and a touch of traditional Yola charm.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Yola Old Town",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596489843606-53860477114b",
+      "tags": [
+        "#Courtyard",
+        "#Tranquil",
+        "#OldTown"
+      ]
+    },
+    {
+      "id": "YolaAlley3",
+      "name": "Artisans' Lane, Yola Arts District",
+      "short_description": "Explore a tucked-away lane brimming with artisan workshops, where you can observe craftsmen at work and find unique handmade souvenirs.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Near Yola City Square",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1522079010489-08361048b64e",
+      "tags": [
+        "#Artisanal",
+        "#Craftsmen",
+        "#DiscoverLocal"
+      ]
+    },
+    {
+      "id": "YolaAlley4",
+      "name": "Wuro Chekku's Quiet Corners",
+      "short_description": "Wander through the quieter, residential alleys of Wuro Chekku, where children play and neighbors gather, offering a slice of everyday Yola life.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Wuro Chekku Neighborhood",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582260682226-c21e67098e9b",
+      "tags": [
+        "#Neighborhood",
+        "#LocalVibes",
+        "#AuthenticYola"
+      ]
+    },
+    {
+      "id": "YolaBridge1",
+      "name": "Benue River Crossing Bridge",
+      "short_description": "Capture the grandeur of the main bridge spanning the Benue River, especially picturesque during sunrise or sunset with reflections on the water.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Benue River Bridge",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1528346746200-c55a6d36e2f1",
+      "tags": [
+        "#RiverView",
+        "#BridgePhotography",
+        "#SunriseSunset"
+      ]
+    },
+    {
+      "id": "YolaBridge2",
+      "name": "Three Sisters Hill Scenic Overlook",
+      "short_description": "Ascend to a designated viewpoint on one of the 'Three Sisters Hills' for breathtaking panoramic views of Yola city and the winding Benue River.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Three Sisters Hills viewpoint",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1502691501625-24d193301a2f",
+      "tags": [
+        "#PanoramicView",
+        "#Hiking",
+        "#Cityscape"
+      ]
+    },
+    {
+      "id": "YolaBridge3",
+      "name": "Benue Riverfront Promenade",
+      "short_description": "Stroll along the newly developed riverfront promenade, offering lovely views of the river traffic and the opposite bank.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Benue River Banks (Jimeta side)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1597022295696-655f4581f440",
+      "tags": [
+        "#RiverWalk",
+        "#Leisure",
+        "#Waterfront"
+      ]
+    },
+    {
+      "id": "YolaBridge4",
+      "name": "Old Yola Creek Arch Bridge",
+      "short_description": "Discover a charming, older arch bridge crossing a local creek, a testament to earlier infrastructure and a quaint photographic spot.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near Yola Old Town",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1577782352495-a22a1b9e0f6c",
+      "tags": [
+        "#HistoricBridge",
+        "#Architecture",
+        "#HiddenGem"
+      ]
+    },
+    {
+      "id": "YolaRoof1",
+      "name": "Sky Lounge @ Grand Yola",
+      "short_description": "Enjoy cocktails and light bites from the stylish rooftop lounge of Grand Yola Suites, boasting impressive night views of the city.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Grand Yola Suites",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1574047814402-9a0082f4236a",
+      "tags": [
+        "#RooftopBar",
+        "#Nightlife",
+        "#CityLights"
+      ]
+    },
+    {
+      "id": "YolaRoof2",
+      "name": "Hilltop Grill Rooftop Eatery",
+      "short_description": "Dine under the stars with a gentle breeze, offering an elevated perspective of Yola's residential areas and distant hills.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Yola Hillside Retreat",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1610444583842-bc088a263155",
+      "tags": [
+        "#Dining",
+        "#SunsetView",
+        "#AlFresco"
+      ]
+    },
+    {
+      "id": "YolaRoof3",
+      "name": "FUTY Library Panoramic Deck",
+      "short_description": "Gain a unique, academic perspective of the Federal University of Technology Yola campus and its surroundings from the top floor of the library.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Federal University of Technology Yola (FUTY) Library",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1588147779789-9a6d88f98c8c",
+      "tags": [
+        "#UniversityView",
+        "#ModernArchitecture",
+        "#StudySpot"
+      ]
+    },
+    {
+      "id": "YolaRoof4",
+      "name": "Yola City Tower Viewing Platform",
+      "short_description": "Ascend to the viewing platform of the (imagined) Yola City Tower for a comprehensive 360-degree panorama of the entire city.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Yola City Centre",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1580979854743-a61f5f24f57c",
+      "tags": [
+        "#Cityscape",
+        "#ObservationDeck",
+        "#Panoramic"
+      ]
+    }
+  ]
+}

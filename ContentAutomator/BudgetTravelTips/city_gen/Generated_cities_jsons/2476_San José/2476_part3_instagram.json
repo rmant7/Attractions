@@ -1,0 +1,555 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "San José",
+    "city_id": "2476"
+  },
+  "items": [
+    {
+      "id": "SJFD1",
+      "name": "San Pedro Square Market",
+      "short_description": "Dive into a lively food hall experience with diverse culinary options, live music, and a bustling atmosphere perfect for any time of day.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Afternoon / Night",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ee/San_Pedro_Square_Market.jpg",
+      "tags": [
+        "foodie",
+        "market",
+        "historic"
+      ]
+    },
+    {
+      "id": "SJFD2",
+      "name": "Miniboss Arcade Bar",
+      "short_description": "Relive your childhood with classic arcade games and enjoy a unique cocktail menu in a vibrant, neon-lit retro setting.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "SoFA District, Downtown San Jose",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1594241680673-9a1b6c6b2b5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHwxNXx8YXJjYWRlJTIwYmFyfGVufDB8fHx8MTcwMTkxNjYzOXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "arcade",
+        "bar",
+        "retro"
+      ]
+    },
+    {
+      "id": "SJFD3",
+      "name": "Bill's Cafe",
+      "short_description": "Indulge in hearty, classic American breakfast and brunch dishes in a cozy, family-friendly atmosphere known for its vibrant decor.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Multiple locations (e.g., Willow Glen)",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1579758760920-d336a94a1122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHwyMHx8YnJlYWtmYXN0JTIwcmVzdGF1cmFudCUyMGludGVyaW9yfGVufDB8fHx8MTcwMTkxNjcxNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "brunch",
+        "breakfast",
+        "classic"
+      ]
+    },
+    {
+      "id": "SJFD4",
+      "name": "The Boiling Crab",
+      "short_description": "Get ready for a deliciously messy seafood boil experience with fresh catches and signature sauces that tantalize your taste buds.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "South San Jose",
+      "best_time": "Afternoon / Night",
+      "images": "https://images.unsplash.com/photo-1582253029197-d86f91d84814?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHw3fHxzZWFmb29kJTIwYm9pbHxlbnwwfHx8fDE3MDE5MTY3NDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "seafood",
+        "casual",
+        "spicy"
+      ]
+    },
+    {
+      "id": "SJCN1",
+      "name": "Japantown",
+      "short_description": "Explore one of the last three historic Japantowns in the US, known for its vibrant murals, unique shops, and cultural heritage.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "North San Jose",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/San_Jose_Japantown_view.jpg",
+      "tags": [
+        "historic",
+        "cultural",
+        "murals"
+      ]
+    },
+    {
+      "id": "SJCN2",
+      "name": "Santana Row",
+      "short_description": "Stroll through this upscale, European-inspired neighborhood brimming with high-end boutiques, gourmet restaurants, and lush landscaping.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "West San Jose",
+      "best_time": "Afternoon / Night",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Santana_Row%2C_San_Jose.jpg",
+      "tags": [
+        "luxury",
+        "shopping",
+        "architecture"
+      ]
+    },
+    {
+      "id": "SJCN3",
+      "name": "SoFA District (South First Area)",
+      "short_description": "Immerse yourself in San Jose's artistic hub, featuring dynamic street art, eclectic galleries, and lively entertainment venues.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Afternoon / Night",
+      "images": "https://images.unsplash.com/photo-1579783900882-c0d3ce7b494d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHwyNHx8c3RyZWV0JTIwYXJ0JTIwYWxsaWV5fGVufDB8fHx8MTcwMTkxNjgyMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "streetart",
+        "artsdistrict",
+        "nightlife"
+      ]
+    },
+    {
+      "id": "SJCN4",
+      "name": "Mayfair Neighborhood & Mexican Heritage Plaza",
+      "short_description": "Discover vibrant murals, cultural events, and a strong sense of community, anchored by the iconic School of Arts and Culture at Mexican Heritage Plaza.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "East San Jose",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Mexican_Heritage_Plaza_02.jpg",
+      "tags": [
+        "cultural",
+        "community",
+        "heritage"
+      ]
+    },
+    {
+      "id": "SJFE1",
+      "name": "Christmas in the Park",
+      "short_description": "Experience the magic of the holidays with dazzling light displays, festive trees, and an enchanting winter wonderland downtown.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Plaza de Cesar Chavez, Downtown San Jose",
+      "best_time": "Night (seasonal: Nov-Jan)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Christmas_in_the_Park%2C_San_Jose.jpg",
+      "tags": [
+        "holiday",
+        "lights",
+        "festive"
+      ]
+    },
+    {
+      "id": "SJFE2",
+      "name": "San Jose Jazz Summer Fest",
+      "short_description": "Groove to world-class jazz, blues, and Latin music across multiple stages, transforming downtown into a vibrant celebration of sound.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Various Downtown San Jose venues",
+      "best_time": "Afternoon / Night (seasonal: August)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/05/San_Jose_Jazz_Summer_Fest_2017_2.jpg",
+      "tags": [
+        "music",
+        "jazz",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "SJFE3",
+      "name": "Cinco de Mayo Festival San Jose",
+      "short_description": "Celebrate Mexican culture with vibrant parades, traditional music, dance performances, and delicious food in a lively community gathering.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Afternoon (seasonal: May)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cinco_de_Mayo_Celebration_in_Denver_%2849842526521%29.jpg/1024px-Cinco_de_Mayo_Celebration_in_Denver_%2849842526521%29.jpg",
+      "tags": [
+        "cultural",
+        "parade",
+        "community"
+      ]
+    },
+    {
+      "id": "SJFE4",
+      "name": "Vietnamese Cultural Garden Tet Festival",
+      "short_description": "Welcome the Lunar New Year with colorful traditional performances, delicious food, and cultural displays at the Vietnamese Cultural Garden.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Vietnamese Cultural Garden, East San Jose",
+      "best_time": "Afternoon (seasonal: Feb)",
+      "images": "https://images.unsplash.com/photo-1610486806540-36b13ef31109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHwxNXx8dGV0JTIwZmVzdGl2YWx8ZW58MHx8fHwxNzAxOTE2OTg1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lunarnewyear",
+        "cultural",
+        "festival"
+      ]
+    },
+    {
+      "id": "SJSD1",
+      "name": "Japantown Peace Plaza Sand Garden",
+      "short_description": "Find tranquility in this meticulously raked Zen rock and sand garden, offering a peaceful, contemplative 'desert-like' landscape in the heart of the city.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Japantown, North San Jose",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/3/36/San_Jose_Japantown_Peace_Plaza_02.jpg",
+      "tags": [
+        "zen",
+        "garden",
+        "peaceful"
+      ]
+    },
+    {
+      "id": "SJSD2",
+      "name": "San Jose Aquatic Center Beach Volleyball Courts",
+      "short_description": "Experience a slice of the 'beach' with expansive, well-maintained sand volleyball courts, perfect for a sunny day of play and sandy fun.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "South San Jose",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1543886566-b33346b08709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHw3fHxzYW5kJTIwdm9sbGV5YmFsbHxlbnwwfHx8fDE3MDE5MTcwOTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "beachvolleyball",
+        "sandy",
+        "sports"
+      ]
+    },
+    {
+      "id": "SJSD3",
+      "name": "Children's Discovery Museum Sand Exploration Zone",
+      "short_description": "Let your imagination run wild in the museum's outdoor sand exploration area, a creative 'dune-like' landscape designed for play and discovery.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1563402431-8e42f49d268d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHwxNHx8Y2hpbGRyZW4lMjBzYW5kJTIwcGxheXxlbnwwfHx8fDE3MDE5MTcxNDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "familyfriendly",
+        "interactive",
+        "playarea"
+      ]
+    },
+    {
+      "id": "SJSD4",
+      "name": "Emma Prusch Farm Park Sensory Garden",
+      "short_description": "Discover a unique sensory garden featuring diverse textures, including dedicated sand areas that offer a tactile 'mini-desert' experience.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "East San Jose",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1536412140411-966952e4ec1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHw1fHxzZW5zb3J5JTIwZ2FyZGVufGVufDB8fHx8MTcwMTkxNzE2OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "garden",
+        "sensory",
+        "educational"
+      ]
+    },
+    {
+      "id": "SJR1",
+      "name": "AC Hotel San Jose Downtown Rooftop Bar",
+      "short_description": "Sip cocktails and enjoy panoramic views of downtown San Jose's skyline from this modern and chic rooftop bar.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1647494490333-8ec2323e0a0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHwxNHx8cm9vZnRvcCUyMGJhciUyMHNreWxpbmV8ZW58MHx8fHwxNzAxOTE3MjQxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "skyline",
+        "cocktails",
+        "chic"
+      ]
+    },
+    {
+      "id": "SJR2",
+      "name": "The Continental Bar Lounge & Patio",
+      "short_description": "Discover a lively atmosphere with a great outdoor patio offering urban views, perfect for evening drinks and conversation.",
+      "subtype": "Rooftop Views",
+      "location_hint": "SoFA District, Downtown San Jose",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1623548967919-6192131238cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHw0fHx1cmJhbiUyMHBhdGlvfGVufDB8fHx8MTcwMTkxNzI2MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "patio",
+        "lounge",
+        "urban"
+      ]
+    },
+    {
+      "id": "SJR3",
+      "name": "Level 17 Rooftop at Hilton San Jose",
+      "short_description": "Elevate your evening with sophisticated drinks and stunning views of the surrounding city from this elegant hotel rooftop.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1574482029494-d2e3a89e81b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHwzMHx8cm9vZnRvcCUyMGJhciUyMHNreWxpbmV8ZW58MHx8fHwxNzAxOTE3MjY2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "hotel",
+        "views",
+        "elegant"
+      ]
+    },
+    {
+      "id": "SJR4",
+      "name": "The GlassHouse Event Venue Rooftop",
+      "short_description": "While primarily an event venue, its rooftop offers unique perspectives of the downtown core during special events and gatherings.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Sunset / Night (during events)",
+      "images": "https://images.unsplash.com/photo-1517404215737-05e608920139?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHwxMHx8ZXZlbnQlMjB2ZW51ZSUyMHRlcnJhY2V8ZW58MHx8fHwxNzAxOTE3MzcwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "events",
+        "cityscape",
+        "unique"
+      ]
+    },
+    {
+      "id": "SJHAC1",
+      "name": "San Jose Museum of Art Sculpture Garden",
+      "short_description": "Discover a tranquil outdoor oasis featuring contemporary sculptures and lush greenery, a serene escape hidden amidst urban art.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/San_Jose_Museum_of_Art%2C_San_Jose%2C_CA_2017.jpg",
+      "tags": [
+        "art",
+        "garden",
+        "serene"
+      ]
+    },
+    {
+      "id": "SJHAC2",
+      "name": "Hotel De Anza Courtyard",
+      "short_description": "Step into the elegant, historic courtyard of this Art Deco hotel, a charming and quiet spot perfect for a peaceful moment.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1544321013-eb840552b412?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHw3fHxhcnQlMjBkZWNvJTIwY291cnR5YXJkfGVufDB8fHx8MTcwMTkxNzQ1Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "historic",
+        "elegant",
+        "quiet"
+      ]
+    },
+    {
+      "id": "SJHAC3",
+      "name": "Japantown's Issei Memorial Building Courtyard",
+      "short_description": "Find a quiet, traditional Japanese-style courtyard tucked away within Japantown, offering a moment of calm and cultural reflection.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Japantown, North San Jose",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1532297116790-28564f89d3d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHwyMHx8amFwYW5lc2UlMjBjb3VydHlhcmR8ZW58MHx8fHwxNzAxOTE3NTU4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cultural",
+        "traditional",
+        "serene"
+      ]
+    },
+    {
+      "id": "SJHAC4",
+      "name": "SoFA District Art Alleys",
+      "short_description": "Wander through colorful alleys adorned with vibrant street art and murals, revealing hidden artistic expressions in the heart of downtown.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "SoFA District, Downtown San Jose",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1579783900882-c0d3ce7b494d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHwyNHx8c3RyZWV0JTIwYXJ0JTIwYWxsaWV5fGVufDB8fHx8MTcwMTkxNjgyMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "streetart",
+        "urbanart",
+        "murals"
+      ]
+    },
+    {
+      "id": "SJCI1",
+      "name": "The Tech Interactive",
+      "short_description": "Explore a world of innovation with hands-on science and technology exhibits, an engaging and immersive learning experience for all ages.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Tech_Museum_of_Innovation.jpg",
+      "tags": [
+        "science",
+        "interactive",
+        "technology"
+      ]
+    },
+    {
+      "id": "SJCI2",
+      "name": "San Jose City Hall Rotunda",
+      "short_description": "Admire the impressive architecture and grand scale of the City Hall's rotunda, a significant public space and architectural marvel.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/23/San_Jose_City_Hall_Rotunda.jpg",
+      "tags": [
+        "architecture",
+        "civic",
+        "landmark"
+      ]
+    },
+    {
+      "id": "SJCI3",
+      "name": "Vietnamese Heritage Garden",
+      "short_description": "Wander through a vibrant garden celebrating Vietnamese culture and history, featuring traditional elements and community artwork.",
+      "subtype": "Cultural Installations",
+      "location_hint": "East San Jose",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1533596541530-51a87b0034ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHwxNHx8dmlldG5hbWVzZSUyMGdhcmRlbnxlbnwwfHx8fDE3MDE5MTc2OTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "heritage",
+        "garden",
+        "cultural"
+      ]
+    },
+    {
+      "id": "SJCI4",
+      "name": "California Theatre",
+      "short_description": "Step inside this beautifully restored historic theater, an opulent landmark showcasing stunning Art Deco and Spanish Colonial Revival architecture.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Night (during shows) / Afternoon (tours)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/07/California_Theatre_%28San_Jose%29.jpg",
+      "tags": [
+        "historic",
+        "theater",
+        "architecture"
+      ]
+    },
+    {
+      "id": "SJFG1",
+      "name": "San Jose Municipal Rose Garden",
+      "short_description": "Breathe in the fragrance of thousands of blooming roses in this award-winning garden, a true botanical masterpiece.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Rose Garden Neighborhood, West San Jose",
+      "best_time": "Morning / Afternoon (Spring-Fall)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/c5/San_Jose_Municipal_Rose_Garden_1.jpg",
+      "tags": [
+        "roses",
+        "garden",
+        "blooming"
+      ]
+    },
+    {
+      "id": "SJFG2",
+      "name": "Japanese Friendship Garden",
+      "short_description": "Find serenity in this traditional Japanese garden, featuring koi ponds, waterfalls, and meticulously manicured landscapes.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Kelley Park, East San Jose",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Japanese_Friendship_Garden_San_Jose_2016.jpg",
+      "tags": [
+        "zen",
+        "koi",
+        "traditional"
+      ]
+    },
+    {
+      "id": "SJFG3",
+      "name": "Emma Prusch Farm Park Gardens",
+      "short_description": "Explore diverse gardens, community plots, and an heirloom orchard, showcasing a variety of seasonal flora in a working farm setting.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "East San Jose",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Emma_Prusch_Farm_Park.jpg/1024px-Emma_Prusch_Farm_Park.jpg",
+      "tags": [
+        "farm",
+        "communitygarden",
+        "seasonal"
+      ]
+    },
+    {
+      "id": "SJFG4",
+      "name": "Silver Creek Linear Park Wildflowers",
+      "short_description": "Discover picturesque wildflower displays and native plant habitats along the trails, especially vibrant during spring blooms.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "South San Jose",
+      "best_time": "Morning / Afternoon (Spring)",
+      "images": "https://images.unsplash.com/photo-1549488344-933391d84814?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHwyMHx8d2lsZGZsb3dlcnN8ZW58MHx8fHwxNzAxOTE3ODY4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wildflowers",
+        "nature",
+        "trails"
+      ]
+    },
+    {
+      "id": "SJBO1",
+      "name": "Sierra Road Overlook",
+      "short_description": "Ascend to this iconic overlook for breathtaking panoramic views of the entire Santa Clara Valley, especially stunning at sunset.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "East Foothills, San Jose",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1614238510406-fc5e9c0634c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHw3fHxzYW4lMjBqb3NlJTIwcGFub3JhbWljfGVufDB8fHx8MTcwMTkxNzk0M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "vista",
+        "cityscape",
+        "panoramic"
+      ]
+    },
+    {
+      "id": "SJBO2",
+      "name": "Guadalupe River Park Pedestrian Bridges",
+      "short_description": "Stroll across charming pedestrian bridges offering scenic views of the Guadalupe River, perfect for a leisurely walk or bike ride.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Guadalupe_River_Parkway_01.jpg/1024px-Guadalupe_River_Parkway_01.jpg",
+      "tags": [
+        "riverwalk",
+        "urbanpark",
+        "scenic"
+      ]
+    },
+    {
+      "id": "SJBO3",
+      "name": "Alum Rock Park Overlooks",
+      "short_description": "Discover various viewpoints within San Jose's oldest municipal park, offering serene nature views and glimpses of the valley below.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "East San Jose",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alum_Rock_Park.jpg/1024px-Alum_Rock_Park.jpg",
+      "tags": [
+        "nature",
+        "hiking",
+        "views"
+      ]
+    },
+    {
+      "id": "SJBO4",
+      "name": "VTA Light Rail Bridge (South First Street)",
+      "short_description": "An architecturally interesting light rail bridge in downtown, offering a dynamic urban backdrop, especially striking at night with passing trains.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "SoFA District, Downtown San Jose",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1549466532-623250a12053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHwyMHx8bGlnaHQlMjByYWlsJTIwYnJpZGdlJTIwY2l0eXxlbnwwfHx8fDE3MDE5MTgwMjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "urban",
+        "transportation",
+        "architecture"
+      ]
+    },
+    {
+      "id": "SJMA1",
+      "name": "San Jose City Hall",
+      "short_description": "Marvel at the distinctive contemporary design of City Hall, featuring an iconic glass rotunda that dominates the downtown skyline.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/San_Jose_City_Hall_2011_02.jpg/1024px-San_Jose_City_Hall_2011_02.jpg",
+      "tags": [
+        "landmark",
+        "civic",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "SJMA3",
+      "name": "Adobe Towers",
+      "short_description": "Witness the sleek, modern glass towers of Adobe's headquarters, a prominent feature of San Jose's high-tech urban landscape.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Adobe_Campus_and_San_Jose_Skyline.jpg/1024px-Adobe_Campus_and_San_Jose_Skyline.jpg",
+      "tags": [
+        "skyscraper",
+        "tech",
+        "sleek"
+      ]
+    },
+    {
+      "id": "SJMA4",
+      "name": "The 88 Condominiums",
+      "short_description": "Observe this striking residential skyscraper, a prime example of modern high-rise living and contemporary urban design in San Jose.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Downtown San Jose",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596701886071-fb8146747d51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjcwNTV8MHwxfHNlYXJjaHwxNXx8bW9kZXJuJTIwaGlnaCUyMHJpc2UlMjBidWlsZGluZ3xlbnwwfHx8fDE3MDE5MTgxNjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "residential",
+        "highrise",
+        "urban"
+      ]
+    }
+  ]
+}

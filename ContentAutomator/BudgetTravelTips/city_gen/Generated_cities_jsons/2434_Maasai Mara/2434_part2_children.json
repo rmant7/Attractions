@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Maasai Mara",
+    "city_id": "2434"
+  },
+  "items": [
+    {
+      "id": "MM_STP_001",
+      "name": "Maasai Legends Oasis",
+      "short_description": "Immerse your children in the rich oral traditions of the Maasai people, with engaging storytellers sharing tales of the savanna, its wildlife, and ancient customs under a shaded boma.",
+      "subtype": "Storytelling Parks",
+      "address": "Near Sekenani Gate, Maasai Mara National Reserve",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1550993081-b51f89e2467d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw3fHxraWRzJTIwc3Rvcnl0ZWxsaW5nJTIwYm9tYXxlbnwwfHx8fDE3MTc4NjgyODV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Maasai culture",
+        "folklore",
+        "interactive"
+      ]
+    },
+    {
+      "id": "MM_STP_002",
+      "name": "Whispering Acacia Story Grove",
+      "short_description": "A tranquil park where children can sit under ancient acacia trees and listen to enchanting stories about the animals of the Mara and conservation efforts, brought to life by skilled narrators.",
+      "subtype": "Storytelling Parks",
+      "address": "Inside Mara Naboisho Conservancy, near Olare Orok",
+      "opening_hours": "09:30-15:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579758509893-ec14e5900898?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHwzfHxraWRzJTIwc3Rvcnl0ZWxsaW5nJTIwZm9yZXN0fGVufDB8fHx8fDE3MTc4NjgyODV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature stories",
+        "wildlife education",
+        "calm"
+      ]
+    },
+    {
+      "id": "MM_STP_003",
+      "name": "River Tales Amphitheater",
+      "short_description": "Located by a gentle bend in the Talek River, this outdoor amphitheater hosts daily storytelling sessions focusing on river ecosystems, aquatic life, and local legends related to water.",
+      "subtype": "Storytelling Parks",
+      "address": "Along Talek River, near Fig Tree Camp",
+      "opening_hours": "11:00-14:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517457210348-b7670f17be2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw2fHxraWRzJTIwb3V0ZG9vciUyMHN0b3J5dGVsbGluZ3xlbnwwfHx8fDE3MTc4NjgyODV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "river life",
+        "local legends",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "MM_STP_004",
+      "name": "Safari Story Circle",
+      "short_description": "A cozy, interactive space where children become part of the story, learning about animal behaviors and safari adventures through engaging narratives and role-play activities.",
+      "subtype": "Storytelling Parks",
+      "address": "Inside Governor's Camp grounds, Maasai Mara",
+      "opening_hours": "09:00-12:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582218084534-11e74a8a25c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw4fHxjaGlsZHJlbiUyMHN0b3J5JTIwY2lyY2xlfGVufDB8fHx8fDE3MTc4NjgyODZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wildlife adventures",
+        "role-play",
+        "educational"
+      ]
+    },
+    {
+      "id": "MM_PLN_001",
+      "name": "Mara Stargazer Dome",
+      "short_description": "A state-of-the-art planetarium designed for young astronomers, featuring immersive shows about the African night sky, constellations, and the solar system.",
+      "subtype": "Planetariums for Kids",
+      "address": "Inside Olare Motorogi Conservancy, Maasai Mara",
+      "opening_hours": "18:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1598282361730-155e9d968f3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHwzfHxraWRzJTIwcGxhbmV0YXJpdW18ZW58MHx8fHwxNzE3ODY4NDE3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "night sky",
+        "educational"
+      ]
+    },
+    {
+      "id": "MM_PLN_002",
+      "name": "Cosmic Safari Dome",
+      "short_description": "Take a journey through the cosmos from the heart of the Mara! This interactive dome shows children how to identify stars and planets visible above the savanna, blending astronomy with local narratives.",
+      "subtype": "Planetariums for Kids",
+      "address": "Adjacent to Keekorok Lodge, Maasai Mara National Reserve",
+      "opening_hours": "17:30-19:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621539121980-3027b4e05b63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw0fHxraWRzJTIwcGxhbmV0YXJpdW0lMjBhZnJpY2F8ZW58MHx8fHwxNzE3ODY4NDE4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "space exploration",
+        "stargazing",
+        "interactive"
+      ]
+    },
+    {
+      "id": "MM_PLN_003",
+      "name": "Little Dipper Discovery",
+      "short_description": "A smaller, more intimate planetarium experience tailored for very young children, introducing them to the moon, sun, and basic star patterns through gentle, animated shows.",
+      "subtype": "Planetariums for Kids",
+      "address": "Within Mara Serena Safari Lodge grounds, Maasai Mara",
+      "opening_hours": "16:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627885012581-2296e819b524?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHwxfHxraWRzJTIwcGxhbmV0YXJpdW0lMjBwcmVzY2hvb2x8ZW58MHx8fHwxNzE3ODY4NDE3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "preschoolers",
+        "basic astronomy",
+        "fun"
+      ]
+    },
+    {
+      "id": "MM_PLN_004",
+      "name": "Orion's Observation Post",
+      "short_description": "This unique outdoor-indoor facility combines a small dome for daytime celestial lessons with powerful telescopes for real-time night sky viewing, perfect for older children.",
+      "subtype": "Planetariums for Kids",
+      "address": "Near Talek Airstrip, Maasai Mara National Reserve",
+      "opening_hours": "19:00-21:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549445173-057d23d9021e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHwxfHxraWRzJTIwdGVsZXNjb3BlJTIwc3RhcmdhemV8ZW58MHx8fHwxNzE3ODY4NDE3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "telescopes",
+        "advanced astronomy",
+        "night viewing"
+      ]
+    },
+    {
+      "id": "MM_IPC_001",
+      "name": "Savanna Explorers Hub",
+      "short_description": "A vibrant, air-conditioned indoor play area featuring multi-level climbing structures, slides, and soft play zones, all with a fun safari theme, perfect for a break from the sun.",
+      "subtype": "Indoor Play Centers",
+      "address": "Adjacent to Governor's Camp, Maasai Mara",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547820898-137351052345?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHwyfHxpbmRvb3IlMjBwbGF5JTIwY2VudGVyJTIwa2lkc3xlbnwwfHx8fDE3MTc4NjgyNTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "soft play",
+        "climbing",
+        "safari theme"
+      ]
+    },
+    {
+      "id": "MM_IPC_002",
+      "name": "Jungle Junction",
+      "short_description": "This center offers a creative and safe environment for children with a ball pit, LEGO building stations, and imaginative play corners, ideal for fostering creativity on a rainy day.",
+      "subtype": "Indoor Play Centers",
+      "address": "Near Oloololo Gate, Maasai Mara",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596706059929-38377f0a6713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw1fHxpbmRvb3IlMjBwbGF5JTIwY2VudGVyJTIwa2lkc3xlbnwwfHx8fDE3MTc4NjgyNTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "creative play",
+        "ball pit",
+        "LEGO"
+      ]
+    },
+    {
+      "id": "MM_IPC_003",
+      "name": "Mara Mini-Explorer Zone",
+      "short_description": "A dedicated indoor space for toddlers and preschoolers, equipped with age-appropriate soft play, sensory toys, and a mini-obstacle course to encourage motor skill development.",
+      "subtype": "Indoor Play Centers",
+      "address": "Inside Angama Mara Camp, Maasai Mara",
+      "opening_hours": "08:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1579540092601-08144b2049d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHwxfHxpbmRvb3IlMjBwbGF5JTIwc29mdCUyMHBsYXl8ZW58MHx8fHwxNzE3ODY4NTM0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "toddlers",
+        "sensory play",
+        "motor skills"
+      ]
+    },
+    {
+      "id": "MM_IPC_004",
+      "name": "Wilderness Arcade & Play",
+      "short_description": "Combining classic arcade games with a multi-story play structure, this center offers entertainment for older children and a safe, engaging space for all ages.",
+      "subtype": "Indoor Play Centers",
+      "address": "Near Maasai Mara Sarova Game Camp, Maasai Mara",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1614392661848-18e00d740c00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw0fHxpbmRvb3IlMjBhcmNhZGUlMjBwbGF5JTIwY2VudGVyfGVufDB8fHx8fDE3MTc4Njg1MjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "arcade games",
+        "climbing frame",
+        "all ages"
+      ]
+    },
+    {
+      "id": "MM_FTP_001",
+      "name": "Enchanted Savannah Tales",
+      "short_description": "Wander through a magical park where classic fairy tales are re-imagined with African wildlife and landscapes, featuring interactive displays and character meet-and-greets.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Close to Talek River, Maasai Mara",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1622383749726-5b4859a16f27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHwzfHxmYWlyeSUyMHRhbGUlMjBwYXJrJTIwa2lkc3xlbnwwfHx8fDE3MTc4Njg2OTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fantasy",
+        "african folklore",
+        "interactive displays"
+      ]
+    },
+    {
+      "id": "MM_FTP_002",
+      "name": "The Great Migration Mythos",
+      "short_description": "A unique park bringing to life the epic journey of the Great Migration through captivating story installations, animatronic animals, and a magical maze.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Near the Mara River crossing points, Maasai Mara",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1610443212626-4a4a4b4e9e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw3fHxtYWdpYyUyMGZvcmVzdCUyMHBhcmt8ZW58MHx8fHwxNzE3ODY4ODQ0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mythology",
+        "animatronics",
+        "wildlife education"
+      ]
+    },
+    {
+      "id": "MM_FTP_003",
+      "name": "Pride Rock's Little Kingdom",
+      "short_description": "Inspired by popular lion-themed tales, this park features themed play areas, a miniature 'Pride Rock' to climb, and puppet shows recounting fables of friendship and bravery.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Within Mara Plains Camp environs, Maasai Mara",
+      "opening_hours": "10:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579761019672-03e5c7075253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHwyfHxmYWlyeSUyMHRhbGUlMjBwYXJrJTIwcGxheWdyb3VuZHxlbnwwfHx8fDE3MTc4Njg2OTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lion king",
+        "themed play",
+        "puppet shows"
+      ]
+    },
+    {
+      "id": "MM_FTP_004",
+      "name": "Hakuna Matata Adventure Land",
+      "short_description": "A cheerful park where children can explore themed zones, enjoy gentle rides, and meet characters from their favorite jungle-themed stories, fostering a sense of freedom and fun.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Near Musiara Marsh, Maasai Mara National Reserve",
+      "opening_hours": "09:00-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563249080-60b540f2b384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw0fHxmYWlyeSUyMHRhbGUlMjBwYXJrJTIwcmlkZXMlMjBraWRzfGVufDB8fHx8fDE3MTc4Njg2OTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "rides",
+        "character greetings",
+        "jungle theme"
+      ]
+    },
+    {
+      "id": "MM_AQG_001",
+      "name": "Junior Ranger Challenge",
+      "short_description": "Kids embark on a thrilling safari-themed quest, solving riddles, tracking 'animal' footprints, and learning about conservation to earn their Junior Ranger badge.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Base Camp, Mara Naboisho Conservancy",
+      "opening_hours": "09:00-12:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549419163-12d8a0f8b8a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw0fHxraWRzJTIwcXVlc3QlMjBnYW1lJTIwb3V0ZG9vcnxlbnwwfHx8fDE3MTc4Njg5MzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "scavenger hunt",
+        "conservation",
+        "outdoor adventure"
+      ]
+    },
+    {
+      "id": "MM_AQG_002",
+      "name": "Lost Explorer's Maze",
+      "short_description": "Navigate a giant, themed maze filled with puzzles and challenges, guiding young explorers through a simulated wilderness to find hidden 'artifacts' and escape.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Near Ol Kiombo Airstrip, Maasai Mara",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1541818166-70e28f323a63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw3fHxraWRzJTIwbWF6ZSUyMGdhbWV8ZW58MHx8fHwxNzE3ODY4OTMyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "maze",
+        "problem-solving",
+        "team play"
+      ]
+    },
+    {
+      "id": "MM_AQG_003",
+      "name": "Safari Survival Challenge",
+      "short_description": "An interactive outdoor course testing agility, teamwork, and bush craft skills, designed to simulate a junior safari expedition with safe, exciting challenges.",
+      "subtype": "Adventure & Quest Games",
+      "address": "At the entrance of Little Governor's Camp, Maasai Mara",
+      "opening_hours": "08:30-11:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1551800262-4217144e13cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw0fHxrYWRzJTIwb3V0ZG9vciUyMG9ic3RhY2xlJTIwY291cnNlfGVufDB8fHx8fDE3MTc4Njg5MzF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "obstacle course",
+        "team building",
+        "bushcraft"
+      ]
+    },
+    {
+      "id": "MM_AQG_004",
+      "name": "Great Migration GPS Quest",
+      "short_description": "Using kid-friendly GPS devices, teams navigate across a simulated savanna to discover checkpoints, answer questions about wildlife, and 'follow' the migration path.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Near Talek Airstrip, Maasai Mara National Reserve",
+      "opening_hours": "14:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628172960625-6385a8647087?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw1fHxtYXBwZWQlMjBhZHZlbnR1cmUlMjBraWRzJTIwZ2FtZXN8ZW58MHx8fHwxNzE3ODY4OTMxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "GPS game",
+        "wildlife facts",
+        "navigation"
+      ]
+    },
+    {
+      "id": "MM_WPK_001",
+      "name": "Mara Splash Safari",
+      "short_description": "A compact, eco-friendly water play area featuring shallow pools, gentle slides, and interactive spray features, perfect for cooling off on a hot Mara day.",
+      "subtype": "Water Parks for Kids",
+      "address": "Within a private conservancy near Aitong, Maasai Mara",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582208078711-a83a45c3b99b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw3fHxraWRzJTIwd2F0ZXIlMjBwYXJrJTIwc3BsYXNoJTIwcGFkfGVufDB8fHx8fDE3MTc4NjkxOTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "splash pad",
+        "water slides",
+        "cooling off"
+      ]
+    },
+    {
+      "id": "MM_WPK_002",
+      "name": "Hippo Haven Lagoon",
+      "short_description": "Designed with a fun hippo and crocodile theme, this mini water park offers splash zones, small fountains, and a lazy river ride for young children.",
+      "subtype": "Water Parks for Kids",
+      "address": "Adjacent to Olare Motorogi Conservancy, Maasai Mara",
+      "opening_hours": "11:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1628374246142-3c32e1a39641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHwxfHxraWRzJTIwd2F0ZXIlMjBwYXJrJTIwbGFnb29ufGVufDB8fHx8fDE3MTc4NjkxOTV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "themed water play",
+        "lazy river",
+        "fountains"
+      ]
+    },
+    {
+      "id": "MM_WPK_003",
+      "name": "Crocodile Creek Slides",
+      "short_description": "Featuring two medium-sized water slides and a large splash pool with water jets, this area provides exhilarating fun for children who love to make a splash.",
+      "subtype": "Water Parks for Kids",
+      "address": "Near Talek Gate, Maasai Mara National Reserve",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1651581403661-d7072f87ee2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHwzfHxraWRzJTIwd2F0ZXIlMjBwYXJrJTIwc2xpZGVzfGVufDB8fHx8fDE3MTc4NjkxOTU&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water slides",
+        "splash pool",
+        "active play"
+      ]
+    },
+    {
+      "id": "MM_WPK_004",
+      "name": "Little Explorer's Aqua Zone",
+      "short_description": "A safe and shallow water play zone designed for toddlers, with gentle bubblers, mini waterfalls, and animal-themed splash toys for endless fun.",
+      "subtype": "Water Parks for Kids",
+      "address": "Within the grounds of Mara Bush Camp, Maasai Mara",
+      "opening_hours": "10:30-16:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1596706059929-38377f0a6713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw1fHxpbmRvb3IlMjBwbGF5JTIwY2VudGVyJTIwdGFsZWt8ZW58MHx8fHwxNzE3ODY4NTM0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "toddler friendly",
+        "sensory water play",
+        "free"
+      ]
+    },
+    {
+      "id": "MM_SCI_001",
+      "name": "Wild Wonders Lab",
+      "short_description": "An interactive science center where kids can learn about Maasai Mara's ecology, animal adaptations, and conservation through hands-on exhibits and experiments.",
+      "subtype": "Science Centers",
+      "address": "Education Center, Maasai Mara Wildlife Conservancy",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1532105956626-d561a4579893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw2fHxraWRzJTIwc2NpZW5jZSUyMGNlbnRlcnxlbnwwfHx8fDE3MTc4NjkzNjh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ecology",
+        "conservation",
+        "hands-on experiments"
+      ]
+    },
+    {
+      "id": "MM_SCI_002",
+      "name": "Junior Geologist's Dig Site",
+      "short_description": "Kids can unearth 'fossils' and learn about the geological history of the Rift Valley, discovering different rock types and the forces that shaped the savanna.",
+      "subtype": "Science Centers",
+      "address": "Near Sekenani Gate, Maasai Mara National Reserve",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621213797613-21c60b240e9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHwzfHxraWRzJTIwZGlnaW5nJTIwZm9zc2lsc3xlbnwwfHx8fDE3MTc4Njk0NTV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "geology",
+        "paleontology",
+        "excavation"
+      ]
+    },
+    {
+      "id": "MM_SCI_003",
+      "name": "Bio-Diversity Discovery Hub",
+      "short_description": "Explore the incredible biodiversity of the Mara through microscopes, interactive touchscreens, and live insect exhibits, focusing on plants and small creatures.",
+      "subtype": "Science Centers",
+      "address": "Inside Mara Conservancy Research Center, Maasai Mara",
+      "opening_hours": "09:30-15:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510511459019-5efa6447ff4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw1fHxiaW9sb2d5JTIwZGlzY292ZXJ5JTIwa2lkc3xlbnwwfHx8fDE3MTc4Njk1NTh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "biodiversity",
+        "microscopy",
+        "entomology"
+      ]
+    },
+    {
+      "id": "MM_SCI_004",
+      "name": "Weather Watchers Station",
+      "short_description": "A fun and educational center where children learn about weather patterns, climate science, and how the seasons impact the Great Migration with engaging models and experiments.",
+      "subtype": "Science Centers",
+      "address": "Near Talek Airstrip, Maasai Mara National Reserve",
+      "opening_hours": "10:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520146059287-43b9e4a3c109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw2fHxkZW1vbnN0cmF0aW9uJTIwc2NpZW5jZSUyMGNoaWxkcmVufGVufDB8fHx8fDE3MTc4Njk1NTh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "meteorology",
+        "climate science",
+        "migration facts"
+      ]
+    },
+    {
+      "id": "MM_PAP_001",
+      "name": "Simba's Jungle Gym",
+      "short_description": "A sprawling outdoor adventure playground with climbing frames, slides, swings, and a zip line, all themed around the savanna and its wild inhabitants.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Near Keekorok Lodge, Maasai Mara",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1563249080-60b540f2b384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw0fHxhZHZlbnR1cmUlMjBwbGF5Z3JvdW5kJTIwa2lkc3xlbnwwfHx8fDE3MTc4Njk3NTh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "climbing",
+        "slides",
+        "zip line"
+      ]
+    },
+    {
+      "id": "MM_PAP_002",
+      "name": "Giraffe's High Climb",
+      "short_description": "An exciting multi-level climbing structure designed to simulate a giraffe's tall perspective, offering panoramic views and challenging ascent routes for older kids.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Within Olare Motorogi Conservancy, Maasai Mara",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542456384-2a62304859a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw4fHxhZHZlbnR1cmUlMjBjbGltYmluZyUyMGtpdHN8ZW5wwjQ%3D&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "climbing structure",
+        "views",
+        "agility"
+      ]
+    },
+    {
+      "id": "MM_PAP_003",
+      "name": "Elephant's Obstacle Course",
+      "short_description": "A challenging yet safe obstacle course where children can crawl, balance, and swing, mimicking the movements of savanna animals and building physical strength.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Near Sand River Camp, Maasai Mara National Reserve",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628172960625-6385a8647087?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw1fHxhZHZlbnR1cmUlMjBwYXJrJTIwb2JzdGFjbGUlMjBraWRzJ3xlbnwwfHx8fDE3MTc4Njk3Nzh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "obstacle course",
+        "physical activity",
+        "animal themed"
+      ]
+    },
+    {
+      "id": "MM_PAP_004",
+      "name": "Little Lion's Den Playground",
+      "short_description": "A safe and stimulating playground for younger children, featuring swings, small slides, and sand play areas with plenty of shade and seating for parents.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Within Mara Serena Safari Lodge grounds, Maasai Mara",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1563249080-60b540f2b384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw0fHxhZHZlbnR1cmUlMjBwbGF5Z3JvdW5kJTIwY2hpbGRyZW58ZW5wwjQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "toddler playground",
+        "sand play",
+        "shade"
+      ]
+    },
+    {
+      "id": "MM_CMG_001",
+      "name": "Safari Squad Meet-Up",
+      "short_description": "Meet and greet the beloved 'Safari Squad' characters – Leo the Lion cub, Ellie the Elephant, and Zee the Zebra – for photos, hugs, and interactive fun.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Visitor's Center, Maasai Mara Game Reserve",
+      "opening_hours": "10:00-11:00, 14:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628811467471-1f6308cf2b3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw3fHxjaGlsZHJlbiUyMGNoYXJhY3RlciUyMG1lZXQlMjBhbmQlMjBncmVldHxlbnwwfHx8fDE3MTc4Njk5MzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "character photos",
+        "interactive",
+        "mascots"
+      ]
+    },
+    {
+      "id": "MM_CMG_002",
+      "name": "The Mara Mara Minis Parade",
+      "short_description": "Join a lively parade of 'Mara Minis' cartoon characters, where kids can dance, sing along, and have high-fives with their favorite animated savanna friends.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Along the main pathways, Talek Village outskirts",
+      "opening_hours": "12:00-13:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628811467471-1f6308cf2b3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw3fHxraWRzJTIwcGFyYWRlJTIwY2hhcmFjdGVyc3xlbnwwfHx8fDE3MTc4Njk5MzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "parade",
+        "dancing",
+        "fun"
+      ]
+    },
+    {
+      "id": "MM_CMG_003",
+      "name": "Professor Pumbaa's Wildlife Wonders",
+      "short_description": "Meet the wise Professor Pumbaa, who shares fascinating (and funny) facts about the Mara's animals during a special educational meet-and-greet session.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Inside the Maasai Mara Education Centre",
+      "opening_hours": "11:30-12:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1579761019672-03e5c7075253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHwzfHxhbmltYWwlMjBjaGFyYWN0ZXIlMjBlZHVjYXRpb24lMjBraWRzJ3xlbnwwfHx8fDE3MTc4Njk5OTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "educational",
+        "facts",
+        "character interaction"
+      ]
+    },
+    {
+      "id": "MM_CMG_004",
+      "name": "Cheetah Chase & Chat",
+      "short_description": "A high-energy meet and greet with 'Cheetah Charlie', where kids can participate in a 'chase' game and then settle down for a quick chat and photos.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Near the airstrip, Musiara Airstrip",
+      "opening_hours": "15:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596706059929-38377f0a6713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw1fHxpbmRvb3IlMjBwbGF5JTIwY2VudGVyJTIwa2lkcyUyMGNoYXJhY3RlcnxlbnwwfHx8fDE3MTc4Njk5OTF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "active",
+        "photos",
+        "costumed characters"
+      ]
+    },
+    {
+      "id": "MM_CPT_001",
+      "name": "Maasai Mara Puppet Show",
+      "short_description": "Experience vibrant puppet shows telling traditional Maasai tales and engaging wildlife stories, performed with intricately crafted, colorful puppets.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Mara Serena Safari Lodge Grounds, Maasai Mara",
+      "opening_hours": "16:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621539121980-3027b4e05b63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHwxfHxraWRzJTIwcHVwcGV0JTIwc2hvd3xlbnwwfHx8fDE3MTc4NzAxMDZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "puppet show",
+        "Maasai culture",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "MM_CPT_002",
+      "name": "Savanna Circus Stars",
+      "short_description": "A delightful mini-circus featuring talented local performers showcasing acrobatic feats, juggling, and clowning acts, all inspired by the energy of the savanna.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Near Talek Gate, Maasai Mara National Reserve",
+      "opening_hours": "15:30-16:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596706059929-38377f0a6713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw1fHxpbmRvb3IlMjBjaXJjdXMlMjBraWRzJ3xlbnwwfHx8fDE3MTc4NzAxMDZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "acrobatics",
+        "clowns",
+        "family entertainment"
+      ]
+    },
+    {
+      "id": "MM_CPT_003",
+      "name": "Wilderness Marionette Theatre",
+      "short_description": "A charming marionette theatre presenting classic fables with a wildlife twist, teaching moral lessons through the intricate movements of string puppets.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Within Keekorok Lodge's private grounds, Maasai Mara",
+      "opening_hours": "14:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1602073981884-60b721e25e14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw0fHxtYXJpb25ldHRlJTIwcHVwcGV0JTIwc2hvd3xlbnwwfHx8fDE3MTc4NzAxMDZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marionettes",
+        "fables",
+        "cultural stories"
+      ]
+    },
+    {
+      "id": "MM_CPT_004",
+      "name": "The Great Mara Big Top",
+      "short_description": "A seasonal, intimate circus tent offering spectacular aerial acts, juggling, and comedic performances by local and visiting artists, celebrating African artistry.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Located seasonally near Sekenani Gate, Maasai Mara",
+      "opening_hours": "17:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563249080-60b540f2b384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjY1NDl8MHwxfHNlYXJjaHw0fHxiaWclMjB0b3AlMjBjaXJjdXNlJTIwa2lkc3xlbnwwfHx8fDE3MTc4NzAxMDZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "aerial acts",
+        "seasonal",
+        "live performance"
+      ]
+    }
+  ]
+}

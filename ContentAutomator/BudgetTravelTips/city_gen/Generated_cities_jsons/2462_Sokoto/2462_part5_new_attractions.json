@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Sokoto",
+    "city_id": "2462"
+  },
+  "items": [
+    {
+      "id": "SKT-HPD-001",
+      "name": "Sokoto Heritage Park & Gardens",
+      "short_description": "Immerse yourself in the serene beauty of this newly established park, featuring beautifully landscaped gardens, traditional Fulani architectural elements, and interactive exhibits celebrating Sokoto's rich history. It's the perfect escape for nature lovers and history buffs.",
+      "address": "Shehu Kangiwa Road, Gidan Igwai, Sokoto",
+      "opening_hours": "08:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582239330225-78332152b1b3?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "park",
+        "heritage",
+        "nature"
+      ]
+    },
+    {
+      "id": "SKT-GAM-002",
+      "name": "Sokoto Grand Artisan Market",
+      "short_description": "Discover a vibrant hub for local craftsmanship at Sokoto's newest and most modern market. Explore stalls filled with authentic textiles, pottery, leather goods, and intricate artworks, all within a clean and welcoming environment.",
+      "address": "Opp. Sokoto Central Market, Sarkin Musulmi Road, Sokoto",
+      "opening_hours": "09:00-17:00 (Mon-Sat)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1542838382-f542981af5ed?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "market",
+        "crafts",
+        "shopping"
+      ]
+    },
+    {
+      "id": "SKT-DLB-003",
+      "name": "Khalifa Usman Dan Fodio Digital Library",
+      "short_description": "Step into the future of learning at this state-of-the-art digital library, offering extensive online resources, high-speed internet, comfortable reading spaces, and workshops. It's a beacon for knowledge and community engagement.",
+      "address": "University Road, Close to Usmanu Danfodiyo University Teaching Hospital, Sokoto",
+      "opening_hours": "08:00-20:00 (Mon-Sat), 12:00-18:00 (Sun)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563729792196-0f8a2f913d7d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "library",
+        "education",
+        "technology"
+      ]
+    },
+    {
+      "id": "SKT-YIH-004",
+      "name": "Sokoto Youth Innovation Hub",
+      "short_description": "A dynamic center fostering creativity and entrepreneurship among Sokoto's youth. Featuring co-working spaces, tech labs, mentorship programs, and regular startup showcases open to the public, it's a window into the region's future.",
+      "address": "Gusau Road, By Federal Secretariat, Sokoto",
+      "opening_hours": "09:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522204523234-8798159b33a4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "innovation",
+        "technology",
+        "youth"
+      ]
+    },
+    {
+      "id": "SKT-MAG-005",
+      "name": "Gidan Bawa Modern Art Gallery",
+      "short_description": "Experience contemporary Nigerian and West African artistry at Sokoto's premier new art gallery. The gallery hosts rotating exhibitions, artist talks, and workshops, showcasing diverse creative expressions.",
+      "address": "Sultan Abubakar Road, GRA, Sokoto",
+      "opening_hours": "10:00-17:00 (Tue-Sun)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1505373877967-8e6f1f4e1f72?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "culture",
+        "gallery"
+      ]
+    },
+    {
+      "id": "SKT-FRC-006",
+      "name": "Sokoto Family Recreation Center",
+      "short_description": "A brand new, sprawling complex designed for family fun! Featuring indoor play areas, a miniature golf course, swimming pools, and dedicated picnic spots, it's the ultimate destination for active leisure and relaxation.",
+      "address": "Kalambaina Road, Opp. Sadiq Abubakar III International Airport, Sokoto",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549887702-8a994784408d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "family",
+        "recreation",
+        "leisure"
+      ]
+    },
+    {
+      "id": "SKT-SBA-007",
+      "name": "Sultan Bello Cultural Amphitheatre",
+      "short_description": "A magnificent open-air venue designed to host traditional performances, modern concerts, and cultural festivals. Experience the vibrant arts scene of Sokoto under the stars in this newly built architectural marvel.",
+      "address": "Off Sultan Ward Road, Sokoto",
+      "opening_hours": "Event-dependent, but often accessible for viewing 09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517596825740-449e2f476901?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "culture",
+        "performance",
+        "events"
+      ]
+    },
+    {
+      "id": "SKT-RFP-008",
+      "name": "Sokoto Riverfront Promenade",
+      "short_description": "Enjoy picturesque views and a refreshing breeze along Sokoto's newly developed riverfront. Perfect for leisurely strolls, cycling, or relaxing at one of the charming cafes dotting the promenade.",
+      "address": "Along Sokoto River Bank, Near Kware, Sokoto",
+      "opening_hours": "24/7 (cafes/shops 09:00-22:00)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1515598587602-0e5f20967583?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "walkway",
+        "scenic"
+      ]
+    },
+    {
+      "id": "SKT-AGM-009",
+      "name": "Alkalai Grand Mall",
+      "short_description": "Sokoto's latest and most expansive shopping destination, featuring a wide array of international and local brands, a modern food court, and entertainment options for all ages. Experience retail therapy like never before.",
+      "address": "Sultan Abubakar III Road, By Old Airport Roundabout, Sokoto",
+      "opening_hours": "09:00-21:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1520608581023-e18e0018d96b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "shopping",
+        "entertainment",
+        "retail"
+      ]
+    },
+    {
+      "id": "SKT-EDC-010",
+      "name": "Sokoto Eco-Discovery Center",
+      "short_description": "A unique educational and recreational facility focused on the diverse ecosystems of Sokoto State. Explore interactive exhibits, indigenous plant gardens, and learn about local conservation efforts in a family-friendly setting.",
+      "address": "Dange-Shuni Road, Near Sokoto State University, Sokoto",
+      "opening_hours": "09:00-17:00 (Wed-Sun)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1542602741-6e3e50664539?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ecology",
+        "education",
+        "nature"
+      ]
+    }
+  ]
+}

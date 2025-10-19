@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Enugu",
+    "city_id": "2451"
+  },
+  "items": [
+    {
+      "id": "EGU-CAS-001",
+      "name": "Udi Sky Watcher's Knoll",
+      "short_description": "An ancient hill revered for its clear views of celestial phenomena, believed to be used by early Igbo priests for calendrical rituals and predicting planting seasons.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Udi Hilltop Road, near Obinagu, Udi, Enugu State",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549241477-9092490d18b0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "astronomy",
+        "ancient rituals",
+        "Igbo culture"
+      ]
+    },
+    {
+      "id": "EGU-CAS-002",
+      "name": "Nkanu Moonstone Circle",
+      "short_description": "A mysterious arrangement of standing stones in Nkanu land, said to align perfectly with the full moon on specific lunar cycles, used for fertility rites and divination.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Off Amechi Road, Ishiagu, Nkanu West, Enugu State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://images.unsplash.com/photo-1563725026978-dd6910e542ef?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "megalithic",
+        "lunar cycles",
+        "divination"
+      ]
+    },
+    {
+      "id": "EGU-CAS-003",
+      "name": "Ezi-Ogo Solstice Rock",
+      "short_description": "A prominent rock formation with carved markings, believed to pinpoint the summer and winter solstices, used by ancient communities for agricultural blessings and harvest festivals.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Ezi-Ogo Village, near Ozalla, Nkanu East, Enugu State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1555546524-7489ce58a0b0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "solstice",
+        "ancient agriculture",
+        "sacred rocks"
+      ]
+    },
+    {
+      "id": "EGU-CAS-004",
+      "name": "Agu-Oji Equinox Site",
+      "short_description": "An open clearing framed by ancient trees, where the equinox sun rises perfectly over a specific altar stone, used for rituals balancing light and darkness, day and night.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Agu-Oji Village Road, near New Artisan, Enugu North, Enugu State",
+      "visiting_hours": "06:30-18:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1510312305653-8ed496efae75?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "equinox",
+        "balance",
+        "sacred grove"
+      ]
+    },
+    {
+      "id": "EGU-HSW-001",
+      "name": "Mmiri Ocha (White Water) Spring",
+      "short_description": "A pristine spring whose waters are believed to possess cleansing and healing properties, revered for centuries as a source of spiritual purity and physical wellness.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Off Enugu-Port Harcourt Expressway, Ugbawka, Nkanu East, Enugu State",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1574041131057-040183188e44?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "healing waters",
+        "purification",
+        "sacred spring"
+      ]
+    },
+    {
+      "id": "EGU-HSW-002",
+      "name": "Iyi-Eke Fertility Well",
+      "short_description": "An ancient well guarded by a python deity (eke), sought by women seeking children and blessings for abundant harvests, with offerings often left at its edge.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Iyi-Eke Shrine Road, Ngwo, Enugu North, Enugu State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1623838186107-16d7448e8945?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fertility",
+        "ancient well",
+        "deity worship"
+      ]
+    },
+    {
+      "id": "EGU-HSW-003",
+      "name": "Oji River Cleansing Waters",
+      "short_description": "A revered section of the Oji River, where annual cleansing rituals are performed to wash away misfortunes and usher in good fortune for the community.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Oji River Bank, near Amadi-Akolo, Oji River LGA, Enugu State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563212458-dd16c31055d7?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8fDB8fHwwfHx8MA%3D%3D",
+      "tags": [
+        "cleansing rituals",
+        "river spirit",
+        "community rites"
+      ]
+    },
+    {
+      "id": "EGU-HSW-004",
+      "name": "Agbani Oracle Spring",
+      "short_description": "A hidden spring whose bubbling waters were historically consulted by village elders for guidance and predictions, believed to be the voice of a wise earth spirit.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Forest Trail, Agbani Town, Nkanu West, Enugu State",
+      "visiting_hours": "08:30-17:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1594917951752-9441113b28b7?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "oracle",
+        "divination",
+        "earth spirit"
+      ]
+    },
+    {
+      "id": "EGU-CS-001",
+      "name": "Ugwu-Owu Ancestral Cave",
+      "short_description": "A vast cave system historically used as a refuge and a sacred site for ancestral veneration, with hidden chambers believed to house the spirits of ancient Igbo chiefs.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Ugwu-Owu Hill, Enugu-Port Harcourt Expressway, Ugbawka, Enugu State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "NGN 1500",
+      "images": "https://images.unsplash.com/photo-1541819660-316b08892f33?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral veneration",
+        "sacred cave",
+        "Igbo history"
+      ]
+    },
+    {
+      "id": "EGU-CS-002",
+      "name": "Ezeagu Oracle Grotto",
+      "short_description": "A mystical grotto within Ezeagu Cave, known for its echoes and shadowy formations, where ancient oracles communed with the spirits to provide guidance and warnings.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Ezeagu Cave Complex, Umulokpa, Ezeagu LGA, Enugu State",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://images.unsplash.com/photo-1596706077395-5e60882e379d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "oracle site",
+        "grotto",
+        "spiritual refuge"
+      ]
+    },
+    {
+      "id": "EGU-CS-003",
+      "name": "Nsukka Rock Shelter of Peace",
+      "short_description": "A serene rock shelter near Nsukka, historically a place of meditation and spiritual retreat for peace-seeking individuals, offering natural shade and tranquility.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Off Enugu-Nsukka Road, near Obukpa, Nsukka, Enugu State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1557088941-8604928b122e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "meditation",
+        "retreat",
+        "rock shelter"
+      ]
+    },
+    {
+      "id": "EGU-CS-004",
+      "name": "Agbogugu Earth Womb Cave",
+      "short_description": "A small, deep cave believed to be the 'womb of the earth,' used for rites of rebirth and spiritual renewal, particularly by those seeking new beginnings.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Agbogugu Forest Reserve, Awgu LGA, Enugu State",
+      "visiting_hours": "09:30-16:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1627993079979-4d6d67e33e9b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "rebirth",
+        "earth spirituality",
+        "renewal"
+      ]
+    },
+    {
+      "id": "EGU-MEP-001",
+      "name": "Enugu Holistic Wellness Centre",
+      "short_description": "A contemporary space dedicated to holistic healing, mindfulness, and spiritual growth, offering meditation classes, energy healing, and wellness workshops.",
+      "subtype": "Modern Energy Places",
+      "address": "22 Ebeano Tunnel Avenue, Independence Layout, Enugu",
+      "visiting_hours": "09:00-20:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1610486796246-817bf4e223b7?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wellness",
+        "meditation",
+        "holistic healing"
+      ]
+    },
+    {
+      "id": "EGU-MEP-002",
+      "name": "Harmony Garden & Retreat",
+      "short_description": "A modern, purpose-built sanctuary designed for interfaith contemplation and personal reflection, featuring serene gardens and quiet spaces for spiritual recharge.",
+      "subtype": "Modern Energy Places",
+      "address": "15 Peace Avenue, New Haven Extension, Enugu",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1510531704581-5b7a84065f97?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interfaith",
+        "reflection",
+        "spiritual retreat"
+      ]
+    },
+    {
+      "id": "EGU-MEP-003",
+      "name": "Light & Truth Healing Centre",
+      "short_description": "A contemporary spiritual center focusing on positive affirmations, energy cleansing, and self-empowerment through guided practices and community gatherings.",
+      "subtype": "Modern Energy Places",
+      "address": "4 Ogbete Main Market Road, Enugu",
+      "visiting_hours": "10:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1544367500-112002f5a017?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "self-empowerment",
+        "energy cleansing",
+        "community"
+      ]
+    },
+    {
+      "id": "EGU-MEP-004",
+      "name": "Awka-Etiti Mystical Arts Studio",
+      "short_description": "A vibrant studio offering workshops in traditional African spiritual arts, including divination, herbalism, and ancestral communication, adapting ancient wisdom for modern seekers.",
+      "subtype": "Modern Energy Places",
+      "address": "18 Garden Avenue, GRA, Enugu",
+      "visiting_hours": "11:00-19:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1534723440781-a7e805562137?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "African spirituality",
+        "divination",
+        "herbalism"
+      ]
+    },
+    {
+      "id": "EGU-MS-001",
+      "name": "Igbo-Ukwu Ancient Stone Altar",
+      "short_description": "A collection of large, rough-hewn stones arranged around a central altar, believed to be a site of ancient sacrifices and covenants by early Igbo priests.",
+      "subtype": "Megalithic Sites",
+      "address": "Ancient Path, Igbo-Ukwu, Aguata, Enugu State (border area with Anambra, historically Igbo-Ukwu related)",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 750",
+      "images": "https://images.unsplash.com/photo-1577717469739-166746ef1729?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancient altar",
+        "sacred stones",
+        "Igbo history"
+      ]
+    },
+    {
+      "id": "EGU-MS-002",
+      "name": "Achi Ancestral Pillar Field",
+      "short_description": "A field dotted with numerous weathered stone pillars, each representing an ancient ancestor or clan, serving as a powerful reminder of lineage and heritage.",
+      "subtype": "Megalithic Sites",
+      "address": "Achi Ancient Grounds, Oji River LGA, Enugu State",
+      "visiting_hours": "07:30-18:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1573297771764-f6b86435c246?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral pillars",
+        "lineage",
+        "heritage"
+      ]
+    },
+    {
+      "id": "EGU-MS-003",
+      "name": "Mgbowo Sun Circle",
+      "short_description": "A circular arrangement of large stones, precisely placed to track the movement of the sun throughout the year, used for ancient solar observances and seasonal festivals.",
+      "subtype": "Megalithic Sites",
+      "address": "Mgbowo Farming Lands, Awgu LGA, Enugu State",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1534065651239-5a5089c1f6d3?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "solar calendar",
+        "prehistoric",
+        "seasonal rites"
+      ]
+    },
+    {
+      "id": "EGU-MS-004",
+      "name": "Nara Ufuo Stone Gate",
+      "short_description": "A pair of massive, naturally shaped stones forming an ancient gateway, believed to be a portal to the spirit world or a boundary marker for sacred ground.",
+      "subtype": "Megalithic Sites",
+      "address": "Nara Ufuo Forest Edge, Nkanu East, Enugu State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1555029094-1b457c1a82f3?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "spirit portal",
+        "boundary marker",
+        "ancient gateway"
+      ]
+    },
+    {
+      "id": "EGU-PYR-001",
+      "name": "Opi Earth Shrine Mound",
+      "short_description": "A distinctive, stepped earth mound, revered as a sacred 'earth pyramid' where offerings are made to the local deities for bountiful harvests and protection of the land.",
+      "subtype": "Pyramids",
+      "address": "Opi Ancient Settlement, Nsukka, Enugu State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nsude_Pyramids_at_Nsude%2C_Enugu_State.jpg/800px-Nsude_Pyramids_at_Nsude%2C_Enugu_State.jpg",
+      "tags": [
+        "earth deity",
+        "sacred mound",
+        "agricultural rites"
+      ]
+    },
+    {
+      "id": "EGU-PYR-002",
+      "name": "Nsude Ancestral Cones",
+      "short_description": "A series of conical clay structures resembling miniature pyramids, built to honor deceased ancestors and serve as spiritual conduits between the living and the dead.",
+      "subtype": "Pyramids",
+      "address": "Nsude Village, Udi LGA, Enugu State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 500",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nsude_Pyramids_at_Nsude%2C_Enugu_State.jpg/800px-Nsude_Pyramids_at_Nsude%2C_Enugu_State.jpg",
+      "tags": [
+        "ancestor worship",
+        "conical structures",
+        "spiritual conduit"
+      ]
+    },
+    {
+      "id": "EGU-PYR-003",
+      "name": "Awhum Spirit Hillock",
+      "short_description": "A naturally occurring hillock, enhanced and shaped over generations into a 'spirit pyramid' by local communities, believed to be a dwelling place for benevolent nature spirits.",
+      "subtype": "Pyramids",
+      "address": "Awhum Monastery Road, near Amaugwe, Udi LGA, Enugu State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549241477-9092490d18b0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature spirits",
+        "sacred hill",
+        "community shrine"
+      ]
+    },
+    {
+      "id": "EGU-PYR-004",
+      "name": "Akwuke Prosperity Mound",
+      "short_description": "A historically significant mound, ritually constructed in a stepped pyramidal form, where ancient merchants sought blessings for trade and economic prosperity.",
+      "subtype": "Pyramids",
+      "address": "Akwuke Ancient Trade Route, Enugu South, Enugu State",
+      "visiting_hours": "08:30-17:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1627993079979-4d6d67e33e9b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "prosperity",
+        "ancient trade",
+        "ritual mound"
+      ]
+    },
+    {
+      "id": "EGU-AT-001",
+      "name": "Ani Nsukka Earth Goddess Shrine",
+      "short_description": "A venerable open-air shrine dedicated to Ani, the Igbo goddess of earth, morality, and fertility, where justice is sought and communal oaths are sworn.",
+      "subtype": "Ancient Temples",
+      "address": "Ani Shrine Road, Aku, Nsukka LGA, Enugu State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/An_Orie_Igbo_shrine_in_the_Igbo_country%2C_Nigeria_%289115764062%29.jpg/800px-An_Orie_Igbo_shrine_in_the_Igbo_country%2C_Nigeria_%289115764062%29.jpg",
+      "tags": [
+        "earth goddess",
+        "Igbo shrine",
+        "fertility rites"
+      ]
+    },
+    {
+      "id": "EGU-AT-002",
+      "name": "Ikenga Oji River Temple",
+      "short_description": "A traditional temple honoring Ikenga, the personal spirit of achievement and success, where individuals come to offer prayers for strength, prosperity, and victory.",
+      "subtype": "Ancient Temples",
+      "address": "Old Amaeke Road, Oji River Town, Oji River LGA, Enugu State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ikenga_of_a_man_carrying_a_head.jpg/800px-Ikenga_of_a_man_carrying_a_head.jpg",
+      "tags": [
+        "Ikenga",
+        "achievement",
+        "personal spirit"
+      ]
+    },
+    {
+      "id": "EGU-AT-003",
+      "name": "Amankanu Oracle Temple",
+      "short_description": "The remnants of a once-powerful oracle temple, where diviners interpreted the will of the gods and settled disputes for ancient Igbo communities.",
+      "subtype": "Ancient Temples",
+      "address": "Amankanu Village, Emene, Enugu East, Enugu State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 500",
+      "images": "https://images.unsplash.com/photo-1614766863155-2dfb944207ae?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "oracle",
+        "ancient worship",
+        "Igbo history"
+      ]
+    },
+    {
+      "id": "EGU-AT-004",
+      "name": "Agbaja Ekwensu Shrine",
+      "short_description": "A shrine dedicated to Ekwensu, the trickster spirit of war and negotiation, where warriors once sought courage and traders prayed for cunning.",
+      "subtype": "Ancient Temples",
+      "address": "Agbaja Ancient Forest, Udi LGA, Enugu State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579546998935-86f3b069d255?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Ekwensu",
+        "warrior spirit",
+        "ancient shrine"
+      ]
+    },
+    {
+      "id": "EGU-MH-001",
+      "name": "Awhum Waterfall Monastery (Benedictine)",
+      "short_description": "A serene Benedictine monastery nestled near the Awhum waterfalls, offering a tranquil environment for prayer, contemplation, and spiritual retreat amidst nature.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Awhum Waterfall Road, Amaugwe, Udi LGA, Enugu State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Awhum_waterfall%2C_cave_and_monastery_1.jpg/800px-Awhum_waterfall%2C_cave_and_monastery_1.jpg",
+      "tags": [
+        "Benedictine",
+        "Christian retreat",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "EGU-MH-002",
+      "name": "Obukpa Igbo Spirituality Hermitage",
+      "short_description": "A secluded hermitage upholding traditional Igbo spiritual practices, offering a quiet space for initiates and seekers to connect with ancestral wisdom and nature spirits.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Forest Path, Obukpa Village, Nsukka, Enugu State",
+      "visiting_hours": "By appointment only",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1627993079979-4d6d67e33e9b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Igbo spirituality",
+        "hermitage",
+        "ancestral wisdom"
+      ]
+    },
+    {
+      "id": "EGU-MH-003",
+      "name": "Mount Zion Catholic Retreat Centre",
+      "short_description": "A modern Catholic retreat center situated on a quiet hill, providing facilities for silent retreats, spiritual exercises, and prayer groups.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Mount Zion Road, Emene, Enugu East, Enugu State",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1543329158-963d11b32630?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Catholic retreat",
+        "prayer",
+        "spiritual exercises"
+      ]
+    },
+    {
+      "id": "EGU-MH-004",
+      "name": "Eke-Agu Contemplative Grove",
+      "short_description": "An ancient, undisturbed grove of trees, recognized as a sacred space for quiet contemplation and communion with nature spirits, maintained by local spiritual elders.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Eke-Agu Forest Path, Ugwuoba, Oji River LGA, Enugu State",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1546995079-634bb04c5520?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature spirituality",
+        "contemplation",
+        "sacred grove"
+      ]
+    },
+    {
+      "id": "EGU-SM-001",
+      "name": "Ugwueme Ancestral Peak",
+      "short_description": "The highest point of Ugwueme hills, revered as a dwelling place of powerful ancestors and deities, offering breathtaking views and a profound sense of spiritual connection.",
+      "subtype": "Sacred Mountains",
+      "address": "Ugwueme Hilltop Road, Awgu LGA, Enugu State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1577717469739-166746ef1729?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral spirits",
+        "pilgrimage",
+        "sacred peak"
+      ]
+    },
+    {
+      "id": "EGU-SM-002",
+      "name": "Enugu Ngwo Mythic Plateau",
+      "short_description": "A high plateau within the Ngwo hills, steeped in local myths and legends, where ancient rituals were performed to ensure the well-being of the entire community.",
+      "subtype": "Sacred Mountains",
+      "address": "Ngwo Forest Reserve, Milliken Hill Road, Enugu North, Enugu State",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://images.unsplash.com/photo-1596706077395-5e60882e379d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "myths",
+        "legends",
+        "community rituals"
+      ]
+    },
+    {
+      "id": "EGU-SM-003",
+      "name": "Akama Holy Ascent",
+      "short_description": "A challenging ascent up Akama hill, undertaken by pilgrims seeking spiritual cleansing and blessings, believed to bring them closer to the divine.",
+      "subtype": "Sacred Mountains",
+      "address": "Akama Oku Hill Trail, Nsukka, Enugu State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510531704581-5b7a84065f97?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "pilgrimage",
+        "spiritual cleansing",
+        "divine connection"
+      ]
+    },
+    {
+      "id": "EGU-SM-004",
+      "name": "Iva Valley Spirit Ridge",
+      "short_description": "A significant ridge overlooking the Iva Valley, where ancient coal miners believed earth spirits resided, often appeased for safety and successful mining.",
+      "subtype": "Sacred Mountains",
+      "address": "Iva Valley Road, near Enugu Coal Mine Museum, Enugu North, Enugu State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596706077395-5e60882e379d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "earth spirits",
+        "industrial heritage",
+        "ridge"
+      ]
+    },
+    {
+      "id": "EGU-VZ-001",
+      "name": "Amofia Earth Breath Shrine",
+      "short_description": "A unique geological depression believed by locals to be a 'breathing point' of the earth, where raw telluric energy is concentrated, used for powerful healing rituals.",
+      "subtype": "Volcanic Zones",
+      "address": "Amofia Nnewe, near Ugwuoba, Oji River LGA, Enugu State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1507565342203-aa9d9ef5ef4b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "telluric energy",
+        "healing rituals",
+        "earth power"
+      ]
+    },
+    {
+      "id": "EGU-VZ-002",
+      "name": "Eha-Alumona Hot Spring Grotto",
+      "short_description": "A small grotto surrounding a warm spring, not volcanically heated but traditionally believed to possess earth's inner fire, offering therapeutic and spiritual benefits.",
+      "subtype": "Volcanic Zones",
+      "address": "Eha-Alumona Bush Path, Nsukka, Enugu State",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628103138830-47b2c019904d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "hot spring",
+        "therapeutic waters",
+        "earth's fire"
+      ]
+    },
+    {
+      "id": "EGU-VZ-003",
+      "name": "Ishielu Ancestral Geothermal Vent (Mythical)",
+      "short_description": "A site where local folklore speaks of a 'geothermal vent' from which ancestral spirits emerge, often marked by ancient rituals to honor the deep earth's power and its connection to the afterlife.",
+      "subtype": "Volcanic Zones",
+      "address": "Ishielu Forest Boundary, Ezza Road, Enugu East, Enugu State",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "NGN 500",
+      "images": "https://images.unsplash.com/photo-1627993079979-4d6d67e33e9b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "folklore",
+        "ancestral spirits",
+        "deep earth"
+      ]
+    },
+    {
+      "id": "EGU-VZ-004",
+      "name": "Mburubu Fiery Rock Sanctuary",
+      "short_description": "A secluded rock formation where the ground is said to feel unusually warm, believed to be imbued with ancient 'fiery' energy, a place for purification and empowerment rituals.",
+      "subtype": "Volcanic Zones",
+      "address": "Mburubu Community Lands, Nkanu East, Enugu State",
+      "visiting_hours": "09:30-16:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563725026978-dd6910e542ef?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "earth energy",
+        "purification",
+        "empowerment"
+      ]
+    }
+  ]
+}

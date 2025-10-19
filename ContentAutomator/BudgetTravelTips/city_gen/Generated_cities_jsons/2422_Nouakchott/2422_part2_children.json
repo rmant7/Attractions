@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Nouakchott",
+    "city_id": "2422"
+  },
+  "items": [
+    {
+      "id": "NKTSPL001",
+      "name": "Oasis Tales Corner",
+      "short_description": "A serene park where traditional Mauritanian fables come alive through interactive storytelling sessions and beautifully crafted character statues. Children can listen to ancient desert legends under the shade of palm trees.",
+      "subtype": "Storytelling Parks",
+      "address": "Rue 22, Tevragh-Zeina, Nouakchott",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549419163-f01e14f8d672",
+      "tags": [
+        "storytelling",
+        "culture",
+        "interactive"
+      ]
+    },
+    {
+      "id": "NKTSPL002",
+      "name": "Sahara Story Circle",
+      "short_description": "An open-air storytelling venue designed to immerse children in captivating narratives from around the world and local folklore. Features comfortable seating areas and a small stage for performances.",
+      "subtype": "Storytelling Parks",
+      "address": "Avenue Gamal Abdel Nasser, Dar Naim, Nouakchott",
+      "opening_hours": "14:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1559139598-a8d8e3d6f1c4",
+      "tags": [
+        "folklore",
+        "open-air",
+        "performances"
+      ]
+    },
+    {
+      "id": "NKTSPL003",
+      "name": "Fisherman's Fables Park",
+      "short_description": "Located near the coast, this park celebrates the stories of Nouakchott's fishermen and the Atlantic Ocean. Kids can explore themed play areas and listen to tales of sea adventures and mythical creatures.",
+      "subtype": "Storytelling Parks",
+      "address": "Near Port de Pêche, El Mina, Nouakchott",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579737151197-2a54b38d7211",
+      "tags": [
+        "marine",
+        "legends",
+        "play"
+      ]
+    },
+    {
+      "id": "NKTSPL004",
+      "name": "Nomadic Narratives Garden",
+      "short_description": "A tranquil garden space dedicated to the rich storytelling traditions of Mauritania's nomadic tribes. Children can engage with traditional objects, listen to songs, and hear stories of desert life and journeys.",
+      "subtype": "Storytelling Parks",
+      "address": "Route de l'Espoir, Ksar, Nouakchott",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1506540510515-816b54134707",
+      "tags": [
+        "nomadic",
+        "tradition",
+        "cultural"
+      ]
+    },
+    {
+      "id": "NKTTPL001",
+      "name": "Nouakchott Kids Kingdom",
+      "short_description": "A vibrant theme park offering a variety of gentle rides, colorful attractions, and interactive zones for younger children. From mini roller coasters to soft play areas, there's fun for all.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Boulevard Maritime, Tevragh-Zeina, Nouakchott",
+      "opening_hours": "10:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1571217757917-cfb5b5c9069d",
+      "tags": [
+        "rides",
+        "attractions",
+        "family fun"
+      ]
+    },
+    {
+      "id": "NKTTPL002",
+      "name": "Atlantic Funland Park",
+      "short_description": "This seaside theme park boasts ocean-themed rides, a mini-train exploring a mock 'coastal village', and a variety of carnival games. Perfect for a day of excitement by the sea.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Plage de Nouakchott, El Mina, Nouakchott",
+      "opening_hours": "11:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627993077673-057053e18a80",
+      "tags": [
+        "ocean-themed",
+        "carnival games",
+        "seaside"
+      ]
+    },
+    {
+      "id": "NKTTPL003",
+      "name": "Desert Discovery Park",
+      "short_description": "An imaginative theme park designed to educate and entertain, with attractions showcasing desert ecosystems, animal encounters, and interactive exhibits about Mauritanian history and geography.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Route Nationale 1, Arafat, Nouakchott",
+      "opening_hours": "09:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582717004690-349079313936",
+      "tags": [
+        "education",
+        "nature",
+        "interactive"
+      ]
+    },
+    {
+      "id": "NKTTPL004",
+      "name": "Sand Dune Adventureland",
+      "short_description": "A unique adventure park featuring mini dune buggy rides, simulated desert treks, and obstacle courses designed for kids to explore and conquer. Thrills and active play await.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Zone Industrielle, PK 7, Nouakchott",
+      "opening_hours": "10:30-18:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1628172909405-b7787f7e9f3b",
+      "tags": [
+        "adventure",
+        "active play",
+        "thrills"
+      ]
+    },
+    {
+      "id": "NKTSMA001",
+      "name": "Junior Kicks Stadium",
+      "short_description": "A dedicated mini-football arena with artificial turf and small goals, perfect for children's soccer leagues and casual games. Coaching sessions are also available for budding athletes.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Rue 308, Tevragh-Zeina, Nouakchott",
+      "opening_hours": "08:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1502652834015-132d7515560b",
+      "tags": [
+        "football",
+        "soccer",
+        "training"
+      ]
+    },
+    {
+      "id": "NKTSMA002",
+      "name": "Coastal Kids Hoops Court",
+      "short_description": "An outdoor mini-basketball court designed for children, featuring adjustable hoops and soft playing surfaces. Ideal for practice, friendly matches, and developing basketball skills.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Corniche Ouest, El Mina, Nouakchott",
+      "opening_hours": "09:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1588828905380-6058074d08b3",
+      "tags": [
+        "basketball",
+        "outdoor",
+        "sports"
+      ]
+    },
+    {
+      "id": "NKTSMA003",
+      "name": "Unity Youth Sports Zone",
+      "short_description": "A multi-sport complex offering mini-courts for tennis, volleyball, and futsal, tailored for children. Provides equipment rental and organized group activities.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Avenue de la Paix, Dar Naim, Nouakchott",
+      "opening_hours": "09:30-20:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1610427952317-b7d19760927c",
+      "tags": [
+        "multi-sport",
+        "tennis",
+        "volleyball"
+      ]
+    },
+    {
+      "id": "NKTSMA004",
+      "name": "Desert Track & Field Jr.",
+      "short_description": "A compact sports facility with a mini running track, long jump pit, and areas for shot put practice, all scaled for young athletes. Encourages foundational athletic development.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Route de Rosso, Quartier Sebkha, Nouakchott",
+      "opening_hours": "07:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1521798835823-3886f34346ca",
+      "tags": [
+        "athletics",
+        "running",
+        "training"
+      ]
+    },
+    {
+      "id": "NKTAQ001",
+      "name": "Atlantic Marine Life Center",
+      "short_description": "Explore the rich biodiversity of the Atlantic Ocean in this educational aquarium. Features tanks with local fish species, touch pools, and interactive displays about marine conservation.",
+      "subtype": "Aquariums",
+      "address": "Corniche Ouest, Tevragh-Zeina, Nouakchott",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1535790886759-583ec19b6732",
+      "tags": [
+        "marine life",
+        "education",
+        "conservation"
+      ]
+    },
+    {
+      "id": "NKTAQ002",
+      "name": "Sahara Seas Aquarium",
+      "short_description": "A unique concept combining desert and sea, showcasing marine life found off the Mauritanian coast and telling the geological story of how the Sahara once bordered ancient seas.",
+      "subtype": "Aquariums",
+      "address": "Boulevard de l'Indépendance, Dar Naim, Nouakchott",
+      "opening_hours": "11:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563212046-e5559c5d134b",
+      "tags": [
+        "unique",
+        "biodiversity",
+        "geology"
+      ]
+    },
+    {
+      "id": "NKTAQ003",
+      "name": "Nouakchott Ocean Wonders",
+      "short_description": "This family-friendly aquarium offers mesmerizing exhibits of colorful fish, graceful rays, and intriguing invertebrates. Daily feeding shows and guided tours enhance the experience.",
+      "subtype": "Aquariums",
+      "address": "Quartier Cité Plage, El Mina, Nouakchott",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1533038676644-31d102e1c95b",
+      "tags": [
+        "family-friendly",
+        "exhibits",
+        "feeding shows"
+      ]
+    },
+    {
+      "id": "NKTAQ004",
+      "name": "Coastal Creatures Exhibit",
+      "short_description": "A smaller, intimate aquarium focusing on the fascinating creatures inhabiting the coastal waters and estuaries of Mauritania. Ideal for younger children to observe and learn.",
+      "subtype": "Aquariums",
+      "address": "Rue 103, Sebkha, Nouakchott",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1509305717367-171804b49bb3",
+      "tags": [
+        "local species",
+        "intimate",
+        "learning"
+      ]
+    },
+    {
+      "id": "NKTCCT001",
+      "name": "Desert Dream Circus",
+      "short_description": "A magical mini-circus featuring local and international performers, including acrobats, clowns, and animal acts (ethical, non-harmful animal performances like trained dogs or birds). A spectacle of wonder for all ages.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Parc de Loisirs, Tevragh-Zeina, Nouakchott",
+      "opening_hours": "18:00-20:00 (shows)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1558913926-26786198651c",
+      "tags": [
+        "circus",
+        "acrobatics",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "NKTCCT002",
+      "name": "Nomad Puppet Playhouse",
+      "short_description": "Experience traditional Mauritanian puppet shows and modern tales brought to life by skilled puppeteers. This intimate theater offers a unique cultural and entertaining experience.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Rue 400, Dar Naim, Nouakchott",
+      "opening_hours": "15:00-17:00 (shows)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596792370921-2e947d1a58c7",
+      "tags": [
+        "puppet show",
+        "cultural",
+        "traditional"
+      ]
+    },
+    {
+      "id": "NKTCCT003",
+      "name": "Starry Night Circus Tent",
+      "short_description": "An enchanting traveling circus that sets up its vibrant tent in different neighborhoods, offering a mix of clown acts, juggling, and mesmerizing aerial performances under the desert sky.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "(Varies, check schedule) e.g., Quartier Ksar, Nouakchott",
+      "opening_hours": "19:00-21:00 (shows)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579455648873-1f1f2e1e07b3",
+      "tags": [
+        "traveling circus",
+        "aerial acts",
+        "magic"
+      ]
+    },
+    {
+      "id": "NKTCCT004",
+      "name": "Oasis Marionette Show",
+      "short_description": "A delightful marionette theater showcasing intricate handcrafted puppets telling classic stories and new adventures. Workshops are sometimes available for children to learn basic puppetry.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Centre Culturel Mauritanien, Arafat, Nouakchott",
+      "opening_hours": "14:30-16:30 (shows)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1578332900220-43891461f008",
+      "tags": [
+        "marionettes",
+        "storytelling",
+        "workshops"
+      ]
+    },
+    {
+      "id": "NKTIPC001",
+      "name": "Nouakchott Soft Play Palace",
+      "short_description": "A sprawling indoor play center with multi-level climbing structures, ball pits, slides, and tunnels, providing a safe and exciting environment for children of all ages to burn energy.",
+      "subtype": "Indoor Play Centers",
+      "address": "Centre Commercial Azalai, Tevragh-Zeina, Nouakchott",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1516327299008-54b9d0335e2b",
+      "tags": [
+        "soft play",
+        "climbing",
+        "indoor fun"
+      ]
+    },
+    {
+      "id": "NKTIPC002",
+      "name": "Kids Oasis Zone",
+      "short_description": "This vibrant indoor play area features bounce houses, arcade games, and designated zones for toddlers. It's a perfect escape from the heat and a hub for active imagination.",
+      "subtype": "Indoor Play Centers",
+      "address": "Boulevard Cheikh Zayed, Dar Naim, Nouakchott",
+      "opening_hours": "09:30-19:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1534067783941-51c9c23eccfa",
+      "tags": [
+        "bouncy castle",
+        "arcade",
+        "toddler zone"
+      ]
+    },
+    {
+      "id": "NKTIPC003",
+      "name": "Adventure Dome Play",
+      "short_description": "An expansive indoor facility offering climbing walls, obstacle courses, and adventure-themed play structures. Designed for older kids seeking more physical challenges and thrills.",
+      "subtype": "Indoor Play Centers",
+      "address": "Route de l'aéroport, Ksar, Nouakchott",
+      "opening_hours": "11:00-21:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1574044199990-2810a9582d90",
+      "tags": [
+        "climbing wall",
+        "obstacle course",
+        "adventure"
+      ]
+    },
+    {
+      "id": "NKTIPC004",
+      "name": "Little Explorers Hub",
+      "short_description": "A smaller, cozy indoor play space ideal for younger children, featuring sensory play areas, building blocks, and imaginative play zones. Focuses on developmental play in a calm environment.",
+      "subtype": "Indoor Play Centers",
+      "address": "Rue de la Mosquée Marocaine, Sebkha, Nouakchott",
+      "opening_hours": "09:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1573030248473-b3c99a4e8156",
+      "tags": [
+        "sensory play",
+        "toddler",
+        "developmental"
+      ]
+    },
+    {
+      "id": "NKTWPK001",
+      "name": "Nouakchott Aqua Fun Land",
+      "short_description": "The city's premier water park for kids, featuring a range of slides, splash pads, and shallow pools with interactive water features. Supervised by lifeguards for safe family fun.",
+      "subtype": "Water Parks for Kids",
+      "address": "Boulevard de la Corniche, Tevragh-Zeina, Nouakchott",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1520638021190-d5a370e6a364",
+      "tags": [
+        "water slides",
+        "splash pad",
+        "family fun"
+      ]
+    },
+    {
+      "id": "NKTWPK002",
+      "name": "Desert Oasis Splash Park",
+      "short_description": "A refreshing water park designed with a desert oasis theme, offering gentle slides, spray fountains, and a lazy river section perfect for younger children and relaxation.",
+      "subtype": "Water Parks for Kids",
+      "address": "Route de l'Espoir, Arafat, Nouakchott",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621379374092-d610dfb92723",
+      "tags": [
+        "oasis theme",
+        "lazy river",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "NKTWPK003",
+      "name": "Atlantic Waves Mini-Park",
+      "short_description": "Located near the beach, this mini water park has small wave pools, a dedicated toddler splash zone, and mini water cannons for endless splashing excitement.",
+      "subtype": "Water Parks for Kids",
+      "address": "Plage de Ksar, Ksar, Nouakchott",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1565431606114-631d8e12d6a5",
+      "tags": [
+        "wave pool",
+        "toddler zone",
+        "beachside"
+      ]
+    },
+    {
+      "id": "NKTWPK004",
+      "name": "Sunny Shores Water Playground",
+      "short_description": "A vibrant and colorful water play area with interactive elements like tipping buckets, sprinklers, and low-gradient slides, ensuring hours of cool fun for preschoolers.",
+      "subtype": "Water Parks for Kids",
+      "address": "Rue 214, Dar Naim, Nouakchott",
+      "opening_hours": "10:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-159491176540-c3d387f311c1",
+      "tags": [
+        "interactive water",
+        "preschool",
+        "colorful"
+      ]
+    },
+    {
+      "id": "NKTDNP001",
+      "name": "Nouakchott Dino Safari",
+      "short_description": "Step back in time to the age of dinosaurs in this immersive park featuring life-sized animatronic dinosaurs, fossil digging sites, and a guided safari tour.",
+      "subtype": "Dinosaur Parks",
+      "address": "Route de Rosso, Quartier Dar Naim, Nouakchott",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1567472099307-8e6f1636154b",
+      "tags": [
+        "animatronic",
+        "fossils",
+        "safari"
+      ]
+    },
+    {
+      "id": "NKTDNP002",
+      "name": "Jurassic Sandscapes Park",
+      "short_description": "A prehistoric adventure land set amidst sand dunes, where children can encounter realistic dinosaur replicas, participate in archaeology-themed games, and learn about ancient creatures.",
+      "subtype": "Dinosaur Parks",
+      "address": "Peripheral Road, PK 12, Arafat, Nouakchott",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1590453535260-a241e3d62c6d",
+      "tags": [
+        "prehistoric",
+        "replicas",
+        "archaeology"
+      ]
+    },
+    {
+      "id": "NKTDNP003",
+      "name": "Ancient Reptile Reserve",
+      "short_description": "While not strictly a 'dinosaur park', this attraction focuses on ancient reptiles and their modern descendants, with a special section dedicated to smaller, interactive dinosaur exhibits and skeletal displays.",
+      "subtype": "Dinosaur Parks",
+      "address": "Rue de l'Hôpital, Tevragh-Zeina, Nouakchott",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579782500057-0a02a76f2f01",
+      "tags": [
+        "reptiles",
+        "skeletons",
+        "educational"
+      ]
+    },
+    {
+      "id": "NKTDNP004",
+      "name": "Dino Dig Adventure Zone",
+      "short_description": "An interactive zone where kids can become paleontologists for a day, digging for 'fossils' in large sandpits, assembling dinosaur skeletons, and exploring a mini-museum of prehistoric finds.",
+      "subtype": "Dinosaur Parks",
+      "address": "Zone Commerciale, El Mina, Nouakchott",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1588667823901-b2586f34e9e0",
+      "tags": [
+        "paleontology",
+        "interactive",
+        "dig site"
+      ]
+    },
+    {
+      "id": "NKTCMG001",
+      "name": "Desert Toon Town",
+      "short_description": "A lively attraction where children can meet and interact with their favorite cartoon characters inspired by desert animals and local folklore. Photo opportunities and mini-shows available.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Place de la Culture, Tevragh-Zeina, Nouakchott",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1611090626388-c8b5e91e4f4d",
+      "tags": [
+        "characters",
+        "photo ops",
+        "shows"
+      ]
+    },
+    {
+      "id": "NKTCMG002",
+      "name": "Nouakchott Character Plaza",
+      "short_description": "A spacious plaza hosting rotating appearances of popular international and local cartoon mascots. Kids can get autographs, take pictures, and enjoy themed activities.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Centre Commercial Souk, Dar Naim, Nouakchott",
+      "opening_hours": "11:00-18:00 (check schedule)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1589417006830-47b2c0199201",
+      "tags": [
+        "mascots",
+        "autographs",
+        "interactive"
+      ]
+    },
+    {
+      "id": "NKTCMG003",
+      "name": "Magic Cartoon Corner",
+      "short_description": "An indoor meet & greet spot specifically designed for younger children, with gentle character interactions, storytelling, and face painting inspired by beloved animated films.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Boulevard de l'Amitié, Ksar, Nouakchott",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1589417006830-47b2c0199201",
+      "tags": [
+        "toddlers",
+        "face painting",
+        "gentle interaction"
+      ]
+    },
+    {
+      "id": "NKTCMG004",
+      "name": "Animation Heroes Hub",
+      "short_description": "A dynamic venue where kids can high-five their favorite superhero and adventure cartoon characters. Features themed backdrops for photos and occasional mini-parades.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Avenue de la Mosquée, El Mina, Nouakchott",
+      "opening_hours": "13:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1611090626388-c8b5e91e4f4d",
+      "tags": [
+        "superheroes",
+        "parade",
+        "themed photos"
+      ]
+    },
+    {
+      "id": "NKTFMA001",
+      "name": "Nouakchott Mini Farm",
+      "short_description": "A charming educational farm where children can meet and feed friendly farm animals like goats, chickens, and donkeys. Includes a small vegetable patch for learning about gardening.",
+      "subtype": "Farm Attractions",
+      "address": "Route de l'Espoir, PK 5, Arafat, Nouakchott",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1550920400-ee7197022d86",
+      "tags": [
+        "petting zoo",
+        "education",
+        "farm animals"
+      ]
+    },
+    {
+      "id": "NKTFMA002",
+      "name": "Desert Animal Encounter Farm",
+      "short_description": "Focuses on animals adapted to the desert environment, such as camels, ostriches, and local goat breeds. Offers camel rides for kids and interactive feeding sessions.",
+      "subtype": "Farm Attractions",
+      "address": "Route de l'aéroport, Zone Rurale, Nouakchott",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596707446187-548e6c434204",
+      "tags": [
+        "desert animals",
+        "camel rides",
+        "interactive"
+      ]
+    },
+    {
+      "id": "NKTFMA003",
+      "name": "Oasis Petting Zoo & Garden",
+      "short_description": "A lush green space housing a variety of small, gentle animals for children to interact with. Also features a sensory garden with aromatic plants and shaded picnic spots.",
+      "subtype": "Farm Attractions",
+      "address": "Boulevard Maritime, Tevragh-Zeina, Nouakchott",
+      "opening_hours": "08:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1555412497-22d2508c909c",
+      "tags": [
+        "petting zoo",
+        "sensory garden",
+        "picnic"
+      ]
+    },
+    {
+      "id": "NKTFMA004",
+      "name": "Agri-Kids Learning Farm",
+      "short_description": "An interactive farm designed for learning about agriculture and food production. Children can participate in planting seeds, harvesting vegetables, and understanding sustainable farming practices.",
+      "subtype": "Farm Attractions",
+      "address": "Quartier Cité Plage, Dar Naim, Nouakchott",
+      "opening_hours": "09:00-15:00 (weekdays)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627932694119-943e8d2e8310",
+      "tags": [
+        "agriculture",
+        "sustainable farming",
+        "hands-on"
+      ]
+    }
+  ]
+}

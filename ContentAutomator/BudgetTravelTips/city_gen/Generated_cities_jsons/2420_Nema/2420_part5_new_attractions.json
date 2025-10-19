@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Nema",
+    "city_id": "2420"
+  },
+  "items": [
+    {
+      "id": "NEM-ZOD-001",
+      "name": "Zenith Observation Deck",
+      "short_description": "Soar above Nema and witness breathtaking panoramic cityscapes from the city's newest and tallest viewing platform, featuring a stunning glass-floor section for the adventurous. An unparalleled perspective of the urban landscape.",
+      "address": "Pinnacle Tower, 78 Skyward Boulevard, Ascent District, Nema",
+      "opening_hours": "09:00-22:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1542478951-4043232128e0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "views",
+        "architecture",
+        "cityscape"
+      ]
+    },
+    {
+      "id": "NEM-LDG-002",
+      "name": "Lumina Digital Art Gallery",
+      "short_description": "Step into an immersive world where light, sound, and technology merge to create dynamic, interactive digital art installations that constantly evolve. Experience art in a completely new dimension, engaging all your senses.",
+      "address": "42 Chroma Alley, Spectra Quarter, Nema",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594943714652-94b295c290a3?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "interactive",
+        "technology"
+      ]
+    },
+    {
+      "id": "NEM-ECW-003",
+      "name": "Eco-Canopy Walkway",
+      "short_description": "Wander through a series of elevated bridges and suspended gardens, offering a unique perspective of Nema's urban green spaces and a tranquil escape from city life. Discover diverse plant species and enjoy bird's-eye views.",
+      "address": "Nema Central Park, Flora District, Nema",
+      "opening_hours": "07:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616765036980-0a2a4b3f8e56?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "park",
+        "walkway"
+      ]
+    },
+    {
+      "id": "NEM-AHG-004",
+      "name": "AquaFlow Hydro-Gardens & Café",
+      "short_description": "Explore Nema's state-of-the-art vertical hydroponic farms, learning about sustainable urban agriculture. Enjoy farm-to-table meals and fresh produce at the accompanying vibrant café, a true green oasis.",
+      "address": "18 Harvest Lane, Sprout Sector, Nema",
+      "opening_hours": "08:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579450395345-4299c51a084c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food",
+        "sustainability",
+        "education"
+      ]
+    },
+    {
+      "id": "NEM-CER-005",
+      "name": "Chronos Escape Rooms",
+      "short_description": "Challenge your wits and teamwork in Nema's most advanced escape room complex, featuring high-tech puzzles, intricate storylines, and immersive environments designed for ultimate thrill-seekers. Perfect for groups and families.",
+      "address": "29 Puzzle Plaza, Cortex District, Nema",
+      "opening_hours": "11:00-23:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1587570490710-85f269a92a5d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "entertainment",
+        "adventure",
+        "team building"
+      ]
+    },
+    {
+      "id": "NEM-SPL-006",
+      "name": "Stellaris Planetarium",
+      "short_description": "Embark on a journey through the cosmos in Nema's cutting-edge planetarium, featuring full-dome 8K projections and interactive exhibits that bring the universe to life. Perfect for aspiring astronomers and curious minds of all ages.",
+      "address": "10 Galactic Way, Nova District, Nema",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517441865223-5321f649280d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "science",
+        "education",
+        "space"
+      ]
+    },
+    {
+      "id": "NEM-NRL-007",
+      "name": "Nema Robotics Lab & Showcase",
+      "short_description": "Witness the future of robotics firsthand at Nema's leading innovation center. Visitors can observe robotic development, interact with prototype machines, and even try basic coding challenges in a dynamic, educational environment.",
+      "address": "55 Circuit Boulevard, Innovate Park, Nema",
+      "opening_hours": "09:30-17:30 (Mon-Fri)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1581092100894-39f285c57bb6?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "technology",
+        "education",
+        "robotics"
+      ]
+    },
+    {
+      "id": "NEM-SGW-008",
+      "name": "Serenity Gardens & Wellness Hub",
+      "short_description": "Find peace and rejuvenation in these meticulously designed urban gardens, featuring meditation zones, quiet reflection pools, and a café focused on healthful, local produce. A tranquil oasis amidst the city buzz.",
+      "address": "33 Bloom Lane, Verdant Valley, Nema",
+      "opening_hours": "06:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1519782806253-125016503923?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wellness",
+        "nature",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "NEM-AUC-009",
+      "name": "Apex Urban Climbing Center",
+      "short_description": "Scale new heights at Nema's premier indoor climbing facility, offering walls for all skill levels from beginner to expert. Features auto-belays, bouldering, and lead climbing, all in a dynamic, modern setting.",
+      "address": "88 Peak Avenue, Summit District, Ns_Nema",
+      "opening_hours": "09:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563852037785-5a242c7f53f3?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sports",
+        "adventure",
+        "fitness"
+      ]
+    },
+    {
+      "id": "NEM-GMH-010",
+      "name": "The Nema Grand Market Hall",
+      "short_description": "Experience a vibrant culinary journey at Nema's newest market hall, brimming with artisanal food stalls, local produce vendors, and an array of international cuisines. A lively spot for foodies and socializers.",
+      "address": "15 Riverfront Promenade, Port District, Nema",
+      "opening_hours": "09:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1534972322312-3c81e3ac8047?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food",
+        "market",
+        "culture"
+      ]
+    }
+  ]
+}

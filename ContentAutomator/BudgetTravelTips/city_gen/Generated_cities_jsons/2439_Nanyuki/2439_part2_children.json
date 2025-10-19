@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Nanyuki",
+    "city_id": "2439"
+  },
+  "items": [
+    {
+      "id": "NanyukiLego1",
+      "name": "Nanyuki Bricktopia Grand",
+      "short_description": "An expansive indoor world dedicated to LEGO, featuring massive building zones, interactive displays, and themed construction challenges for all ages.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Off Nanyuki-Meru Road, Next to Cedar Mall, Nanyuki",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594732161726-ae0e2410a7a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw0fHxlZHVjYXRpb25hbCUyMGxlZ298ZW58MHx8fHwxNzA4NjgyNjU5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lego",
+        "building",
+        "creative play"
+      ]
+    },
+    {
+      "id": "NanyukiLego2",
+      "name": "Safari Builder's Hub",
+      "short_description": "A unique construction park where children use large, safari-themed blocks to build animal enclosures, vehicles, and their own savanna adventures.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Nanyuki Airstrip Road, Near Ol Pejeta Gate, Nanyuki",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596700877908-c841804f85e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw1fHxlZHVjYXRpb25hbCUyMGxlZ298ZW58MHx8fHwxNzA4NjgyNjU5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "safari theme",
+        "construction",
+        "blocks"
+      ]
+    },
+    {
+      "id": "NanyukiLego3",
+      "name": "Mount Kenya Block Works",
+      "short_description": "Inspired by Mount Kenya, this park challenges kids to build towering structures, intricate bridges, and miniature ecosystems using diverse building materials.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Kenyatta Highway, Nanyuki Town Centre, Nanyuki",
+      "opening_hours": "09:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627931327179-c6e9a7e6573c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwxNXx8Y2hpbGRyZW4lMjBidWlsZGluZyUyMGJsb2Nrc3xlbnwwfHwxfHwxNzA4NjgyODMxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mountain theme",
+        "engineering",
+        "imagination"
+      ]
+    },
+    {
+      "id": "NanyukiLego4",
+      "name": "Riverland LEGO Lab",
+      "short_description": "An interactive lab focusing on water dynamics and construction, where children design and build dams, aqueducts, and floating structures with LEGO bricks.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Off Nanyuki-Nyeri Road, Near River Nanyuki, Nanyuki",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510531704581-5e575e3860c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwyMHx8Y2hpbGRyZW4lMjBidWlsZGluZyUyMGJsb2Nrc3xlbnwwfHwxfHwxNzA4NjgyODMxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water play",
+        "STEM",
+        "design"
+      ]
+    },
+    {
+      "id": "NanyukiDino1",
+      "name": "Jurassic Nanyuki Adventure",
+      "short_description": "Step back in time to a land ruled by dinosaurs! Encounter life-sized animatronic dinosaurs, explore ancient forests, and discover fossils.",
+      "subtype": "Dinosaur Parks",
+      "address": "Nanyuki-Rumuruti Road, Nanyuki",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582239634289-e1ee4f1c9ddc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwzfHxkaW5vc2F1ciUyMHBhcmt8ZW58MHx8fHwxNzA4NjgyOTIzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "dinosaurs",
+        "adventure",
+        "paleontology"
+      ]
+    },
+    {
+      "id": "NanyukiDino2",
+      "name": "Raptor Ridge Discovery",
+      "short_description": "Focusing on agile predators, this park offers a thrilling journey through raptor habitats, complete with excavation sites and a 'Dino-Dig' sandbox.",
+      "subtype": "Dinosaur Parks",
+      "address": "Off Nanyuki Airstrip Road, Nanyuki",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549419168-b8ce112d1b09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwxMnx8ZGlub3NhdXIlMjBwYXJrJTIwa2lkc3xlbnwwfHwxfHwxNzA4NjgyOTIzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "raptors",
+        "excavation",
+        "thrilling"
+      ]
+    },
+    {
+      "id": "NanyukiDino3",
+      "name": "Herbivore Haven Trails",
+      "short_description": "A peaceful walking trail where visitors can observe gentle giant herbivores like Brontosaurus and Triceratops in their natural, prehistoric settings.",
+      "subtype": "Dinosaur Parks",
+      "address": "Near Fairmont Mt. Kenya Safari Club, Nanyuki",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621319082729-2321287c2b38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw3fHxkaW5vc2F1cnxlbnwwfHwxfHwxNzA4NjgyOTIzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "herbivores",
+        "walking trails",
+        "educational"
+      ]
+    },
+    {
+      "id": "NanyukiDino4",
+      "name": "Dino Roar Safari",
+      "short_description": "Embark on an interactive vehicle safari through a rugged landscape, encountering roaring, moving dinosaurs and learning about their ancient lives.",
+      "subtype": "Dinosaur Parks",
+      "address": "Along Nanyuki-Isiolo Road, Nanyuki",
+      "opening_hours": "10:30-16:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627931327179-c6e9a7e6573c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw4fHxkaW5vc2F1cnxlbnwwfHwxfHwxNzA4NjgyOTIzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "safari",
+        "animatronics",
+        "immersive"
+      ]
+    },
+    {
+      "id": "NanyukiSci1",
+      "name": "Nanyuki Discovery Dome",
+      "short_description": "An interactive science center featuring a planetarium, hands-on exhibits covering physics, biology, and chemistry, designed to spark curiosity in young minds.",
+      "subtype": "Science Centers",
+      "address": "Kenyatta Highway, Nanyuki Town Centre, Nanyuki",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510531704581-5e575e3860c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwxfHxraWRzJTIwc2NpZW5jZSUyMGNlbnRlcnxlbnwwfHwxfHwxNzA4NjgzMDk2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "STEM",
+        "interactive",
+        "planetarium"
+      ]
+    },
+    {
+      "id": "NanyukiSci2",
+      "name": "Kinetic Kids Lab",
+      "short_description": "Explore the principles of motion, energy, and forces through engaging experiments and build-it-yourself stations, perfect for budding engineers.",
+      "subtype": "Science Centers",
+      "address": "Off Nanyuki-Meru Road, Near Braeburn Nanyuki, Nanyuki",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1542601098-8fc112d00ad7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw1fHxraWRzJTIwc2NpZW5jZSUyMGxhYnxlbnwwfHwxfHwxNzA4NjgzMDk2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "physics",
+        "experiments",
+        "engineering"
+      ]
+    },
+    {
+      "id": "NanyukiSci3",
+      "name": "Wild Wonders Science Center",
+      "short_description": "Dive into the biodiversity of Kenya with exhibits on local wildlife, ecosystems, and conservation, including a mini-zoo and botanical garden.",
+      "subtype": "Science Centers",
+      "address": "Nanyuki Conservancy Road, Nanyuki",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627931327179-c6e9a7e6573c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwxMnx8Y2hpbGRyZW4lMjBzY2llbmNlJTIwZXhoaWJpdHN8ZW58MHx8fHwxNzA4NjgzMDk2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ecology",
+        "conservation",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "NanyukiSci4",
+      "name": "Star Gazer's Observatory & Lab",
+      "short_description": "An astronomical center where children can learn about stars, planets, and galaxies through powerful telescopes, interactive space models, and virtual reality experiences.",
+      "subtype": "Science Centers",
+      "address": "Off Nanyuki-Nyeri Road, Nanyuki",
+      "opening_hours": "11:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1601662528148-936c6414777d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwxM3x8Y2hpbGRyZW4lMjBzY2llbmNlJTIwZXhoaWJpdHN8ZW58MHx8fHwxNzA4NjgzMDk2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "space",
+        "telescopes"
+      ]
+    },
+    {
+      "id": "NanyukiPlay1",
+      "name": "Ol Pejeta Adventureland",
+      "short_description": "An exciting outdoor adventure park featuring ziplines, rope courses, climbing walls, and multi-level play structures, all set against a safari backdrop.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Adjacent to Ol Pejeta Conservancy, Nanyuki",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579761501676-47b1c3127814?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwzfHxhZHZlbnR1cmUlMjBwYXJrJTIwa2lkc3xlbnwwfHwxfHwxNzA4NjgzMjY1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "adventure",
+        "zipline",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "NanyukiPlay2",
+      "name": "Forest Canopy Climbs",
+      "short_description": "A unique playground experience designed within a natural forest, offering treehouse-style platforms, suspended bridges, and gentle climbing challenges.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Off Nanyuki-Nyeri Road, Near Ngare Ndare Forest, Nanyuki",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627931327179-c6e9a7e6573c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw3fHxhZHZlbnR1cmUlMjBwYXJrJTIwa2lkc3xlbnwwfHwxfHwxNzA4NjgzMjY1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "treehouses",
+        "nature",
+        "climbing"
+      ]
+    },
+    {
+      "id": "NanyukiPlay3",
+      "name": "Safari Springs Playground",
+      "short_description": "An animal-themed playground with innovative splash pads, water cannons, and interactive play structures perfect for cooling down on a sunny Nanyuki day.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Kenyatta Highway, Nanyuki Town Centre, Nanyuki",
+      "opening_hours": "09:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628108182245-c3933e387118?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw4fHxhZHZlbnR1cmUlMjBwYXJrJTIwa2lkc3xlbnwwfHwxfHwxNzA4NjgzMjY1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water play",
+        "safari theme",
+        "playground"
+      ]
+    },
+    {
+      "id": "NanyukiPlay4",
+      "name": "Nanyuki Explorer's Park",
+      "short_description": "An ultimate challenge for young adventurers with extensive obstacle courses, a low ropes course, and a dedicated area for competitive games and challenges.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Off Nanyuki Airstrip Road, Nanyuki",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1616239103855-520e50085a86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwxOXx8Y2hpbGRyZW4lMjBhZHZlbnR1cmUlMjBwYXJrJTIwb3V0ZG9vcnxlbnwwfHwxfHwxNzA4NjgzMjY1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "obstacle course",
+        "ropes course",
+        "challenges"
+      ]
+    },
+    {
+      "id": "NanyukiCartoon1",
+      "name": "Toon Town Nanyuki",
+      "short_description": "A vibrant hub where children can meet and interact with their favorite cartoon characters, participate in sing-alongs, and capture memorable photos.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Cedar Mall, Nanyuki",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1521405080187-b649320e405e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw3fHxjYXJ0b29uJTIwY2hhcmFjdGVycyUyMG1lZXQlMjBhbmQlMjBncmVldHxlbnwwfHwxfHwxNzA4NjgzNDczfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "characters",
+        "photos",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "NanyukiCartoon2",
+      "name": "African Tales Corner",
+      "short_description": "Discover local folk heroes and beloved characters from African animated stories. Enjoy storytelling sessions and unique cultural interactions.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Nanyuki Town Market Street, Nanyuki",
+      "opening_hours": "11:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1612733979603-88ee1c3e034e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwxMHx8YWZyaWNhbiUyMGNoaWxkcmVuJTIwZXZlbnR8ZW58MHx8fHwxNzA4NjgzNDczfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cultural",
+        "storytelling",
+        "local characters"
+      ]
+    },
+    {
+      "id": "NanyukiCartoon3",
+      "name": "Princess & Hero Hall",
+      "short_description": "A magical place where dreams come true! Meet enchanting princesses, brave superheroes, and participate in royal parades and heroic training academies.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Kenyatta Highway, Nanyuki",
+      "opening_hours": "10:30-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627931327179-c6e9a7e6573c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw0fHxwcmV2aWV3JTIwZGF5JTIwY29udGVudHxlbnwwfHwxfHwxNzA4NjgzNDczfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fantasy",
+        "superheroes",
+        "princesses"
+      ]
+    },
+    {
+      "id": "NanyukiCartoon4",
+      "name": "Safari Friends Stage",
+      "short_description": "Join a cast of lively animal cartoon characters for interactive shows, dance parties, and personal meet & greet opportunities on a specially designed stage.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Off Nanyuki Airstrip Road, Nanyuki",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1602931498877-c93d48417d3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwyMHx8Y2FydG9vbiUyMGNoYXJhY3RlcnMlMjBzdGFnZXxlbnwwfHwxfHwxNzA4NjgzNDczfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animal characters",
+        "shows",
+        "dance"
+      ]
+    },
+    {
+      "id": "NanyukiWater1",
+      "name": "Aqua Safari Nanyuki",
+      "short_description": "A thrilling water park with multiple slides, a lazy river, and a large splash pad, all themed around the exciting wildlife of the savanna.",
+      "subtype": "Water Parks for Kids",
+      "address": "Nanyuki-Meru Road, Nanyuki",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1590457193240-366ce36e3e57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwyfHxraWRzJTIwd2F0ZXIlMjBwYXJrJTIwc2xpZGVzfGVufDB8fHx8MTcwODY4MzY3NXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water slides",
+        "safari theme",
+        "family fun"
+      ]
+    },
+    {
+      "id": "NanyukiWater2",
+      "name": "River Rapids Splash Zone",
+      "short_description": "Experience the thrill of rapids with winding slides, a wave pool, and interactive water features designed to mimic a flowing river system.",
+      "subtype": "Water Parks for Kids",
+      "address": "Off Nanyuki-Nyeri Road, Nanyuki",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1601662528148-936c6414777d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwxMXx8a2lkcyUyMHdhdmUlMjBwb29sfGVufDB8fHx8MTcwODY4MzY3NXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wave pool",
+        "rapids",
+        "water games"
+      ]
+    },
+    {
+      "id": "NanyukiWater3",
+      "name": "Little Lagoon Leaks",
+      "short_description": "A dedicated, shallow water play area for toddlers and young children, featuring gentle sprays, mini-slides, and interactive water tables in a safe environment.",
+      "subtype": "Water Parks for Kids",
+      "address": "Kenyatta Highway, Nanyuki Town Centre, Nanyuki",
+      "opening_hours": "10:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1628108182245-c3933e387118?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw1fHxtaW5pJTIwd2F0ZXIlMjBwYXJrJTIwa2lkc3xlbnwwfHwxfHwxNzA4NjgzNjc1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "toddler-friendly",
+        "splash pad",
+        "safe play"
+      ]
+    },
+    {
+      "id": "NanyukiWater4",
+      "name": "Mountain Mist Water Fun",
+      "short_description": "A cool water park experience themed after Mount Kenya's misty peaks, offering unique splash features, geysers, and water playgrounds with stunning views.",
+      "subtype": "Water Parks for Kids",
+      "address": "Near the base of Mount Kenya, Nanyuki",
+      "opening_hours": "11:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596700877908-c841804f85e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwxMHx8a2lkcyUyMHdhdGVyJTIwcGFya3xlbnwwfHwxfHwxNzA4NjgzNjc1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mountain theme",
+        "geysers",
+        "views"
+      ]
+    },
+    {
+      "id": "NanyukiMagic1",
+      "name": "Enchanted Savannah Magic",
+      "short_description": "Witness incredible feats of magic and illusion in a show that blends African storytelling with captivating tricks, perfect for the whole family.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Nanyuki Sportsman's Arms Hotel, Nanyuki",
+      "opening_hours": "17:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1543310468-18e404b9e28f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw3fHxtYWdpYyUyMHNob3clMjBraWRzfGVufDB8fHx8MTcwODY4Mzg0N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "magic show",
+        "family entertainment",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "NanyukiMagic2",
+      "name": "The Great Nanyuki Illusionist",
+      "short_description": "A spectacular grand illusion show featuring disappearing acts, levitation, and mind-bending tricks that will leave children and adults spellbound.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Kenyatta Highway, Nanyuki",
+      "opening_hours": "18:30-19:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1502758129754-0717282717e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwxOXx8bWFnaWMlMjBhbmQlMjBpbGx1c2lvbnxlbnwwfHwxfHwxNzA4NjgzODQ3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "illusions",
+        "spectacular",
+        "grand show"
+      ]
+    },
+    {
+      "id": "NanyukiMagic3",
+      "name": "Safari Sorcery Tent",
+      "short_description": "An intimate, interactive magic show where kids can get up close to the magician, learn simple tricks, and participate in magical experiments.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Off Nanyuki-Meru Road, Nanyuki",
+      "opening_hours": "14:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1550995648-2614a974052f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw2fHxtYWdpYyUyMHNob3clMjBraWRzfGVufDB8fHx8MTcwODY4Mzg0N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "interactive",
+        "close-up magic",
+        "workshops"
+      ]
+    },
+    {
+      "id": "NanyukiMagic4",
+      "name": "Mystical Mount Kenya Miracles",
+      "short_description": "A unique magic show inspired by the legends and landscapes of Mount Kenya, featuring themed illusions and audience participation.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Fairmont Mount Kenya Safari Club, Nanyuki",
+      "opening_hours": "16:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1541571253013-176882f5b614?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwxNHx8a2lkcyUyMG1hZ2ljJTIwc2hvd3xlbnwwfHwxfHwxNzA4NjgzODQ3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "themed show",
+        "legends",
+        "audience participation"
+      ]
+    },
+    {
+      "id": "NanyukiQuest1",
+      "name": "Lost Treasure of Mount Kenya",
+      "short_description": "An outdoor scavenger hunt and quest game where teams follow clues, solve puzzles, and overcome challenges to find a legendary 'treasure' of Nanyuki.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Near the Base of Mount Kenya, Nanyuki",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596700877908-c841804f85e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwyfHxhZHZlbnR1cmUlMjBxdWVzdCUyMGtpZHN8ZW58MHx8fHwxNzA4NjQwNjAyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "scavenger hunt",
+        "outdoor adventure",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "NanyukiQuest2",
+      "name": "Safari Code Breakers",
+      "short_description": "An escape room style game set in an immersive safari theme. Kids work together to solve riddles and decode clues to 'escape' before time runs out.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Kenyatta Highway, Nanyuki",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563201387-949e2954a991?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw2fHxlc2NhcGUlMjByb29tJTIwa2lkc3xlbnwwfHwxfHwxNzA4NjQzMzgyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "escape room",
+        "problem-solving",
+        "safari theme"
+      ]
+    },
+    {
+      "id": "NanyukiQuest3",
+      "name": "The Secret of Ol Pejeta",
+      "short_description": "An interactive outdoor quest game designed to educate children about wildlife conservation and the importance of protecting endangered species at Ol Pejeta.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Adjacent to Ol Pejeta Conservancy, Nanyuki",
+      "opening_hours": "09:30-15:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627931327179-c6e9a7e6573c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw3fHxhZHZlbnR1cmUlMjBxdWVzdCUyMGtpZHN8ZW58MHx8fHwxNzA4NjQwNjAyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "conservation",
+        "educational",
+        "outdoor game"
+      ]
+    },
+    {
+      "id": "NanyukiQuest4",
+      "name": "Nanyuki Eco-Quest",
+      "short_description": "A nature-based adventure where kids complete a series of ecological challenges and puzzles, learning about local flora and fauna while exploring a simulated wilderness.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Off Nanyuki-Nyeri Road, Nanyuki",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549419168-b8ce112d1b09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw4fHxhZHZlbnR1cmUlMjBxdWVzdCUyMGtpZHN8ZW58MHx8fHwxNzA4NjQwNjAyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature",
+        "ecology",
+        "puzzles"
+      ]
+    },
+    {
+      "id": "NanyukiZoo1",
+      "name": "Nanyuki Wildlife Haven",
+      "short_description": "A small, ethical zoo dedicated to local and rescued Kenyan wildlife, offering educational programs and close-up viewing opportunities.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Nanyuki-Meru Road, Nanyuki",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542601098-8fc112d00ad7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwzfHxzYWZhcmklMjB6b28lMjBraWRzfGVufDB8fHx8MTcwODY0MzYxOXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "local species"
+      ]
+    },
+    {
+      "id": "NanyukiZoo2",
+      "name": "Gentle Giants Petting Farm",
+      "short_description": "A charming petting zoo focused on friendly farm animals, allowing children to feed and interact with goats, lambs, ponies, and more in a safe environment.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Off Rumuruti Road, Nanyuki",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510531704581-5e575e3860c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw3fHxwZXR0aW5nJTIwem9vJTIwa2lkc3xlbnwwfHwxfHwxNzA4NjQzNjE5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "interaction"
+      ]
+    },
+    {
+      "id": "NanyukiZoo3",
+      "name": "Feathered Friends Aviary",
+      "short_description": "An immersive aviary experience showcasing a vibrant collection of indigenous and exotic birds. Walk through and observe birds in a natural habitat.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Nanyuki Conservancy Road, Nanyuki",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549419168-b8ce112d1b09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw5fHxhdmlhcnklMjBraWRzfGVufDB8fHx8MTcwODY0MzYxOXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "aviary",
+        "birds",
+        "exotic species"
+      ]
+    },
+    {
+      "id": "NanyukiZoo4",
+      "name": "Reptile Rendezvous",
+      "short_description": "A fascinating exhibit dedicated to reptiles and amphibians, offering educational displays and supervised encounters with snakes, lizards, and turtles.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Kenyatta Highway, Nanyuki Town Centre, Nanyuki",
+      "opening_hours": "10:30-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596700877908-c841804f85e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwyMHx8cmVwdGlsZSUyMGV4aGliaXRzfGVufDB8fHx8MTcwODY0MzYxOXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "reptiles",
+        "amphibians",
+        "educational"
+      ]
+    },
+    {
+      "id": "NanyukiTheme1",
+      "name": "Nanyuki Safari Land",
+      "short_description": "A vibrant safari-themed amusement park with gentle rides, interactive games, and live shows featuring costumed animal characters.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Off Nanyuki Airstrip Road, Nanyuki",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627931327179-c6e9a7e6573c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw3fHxraWRzJTIwdGhlbWUlMjBwYXJrfGVufDB8fHx8MTcwODY0Mzc5MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "safari theme",
+        "rides",
+        "shows"
+      ]
+    },
+    {
+      "id": "NanyukiTheme2",
+      "name": "Mount Kenya Heights Park",
+      "short_description": "Inspired by the majestic mountain, this park offers adventure rides, a miniature railway, and themed attractions showcasing local culture and landscapes.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Near the Base of Mount Kenya, Nanyuki",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549419168-b8ce112d1b09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwyfHxtaW5pYXR1cmUlMjByYWlsd2F5fGVufDB8fHx8MTcwODY0Mzc5MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mountain theme",
+        "miniature railway",
+        "cultural"
+      ]
+    },
+    {
+      "id": "NanyukiTheme3",
+      "name": "Riverland Fun Fair",
+      "short_description": "A lively theme park centered around water-based attractions, including splash rides, boat adventures, and carnival games with a riverside vibe.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Off Nanyuki-Nyeri Road, Nanyuki",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628108182245-c3933e387118?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHw4fHxraWRzJTIwdGhlbWUlMjBwYXJrfGVufDB8fHx8MTcwODY0Mzc5MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water rides",
+        "carnival games",
+        "river theme"
+      ]
+    },
+    {
+      "id": "NanyukiTheme4",
+      "name": "Wildlife Wanderland Park",
+      "short_description": "An educational theme park where children learn about global wildlife through immersive exhibits, discovery trails, and interactive animal encounters, without real animals.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Nanyuki Conservancy Road, Nanyuki",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596700877908-c841804f85e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyNTJ8MHwxfHNlYXJjaHwxM3x8a2lkcyUyMHRoZW1lJTIwcGFya3xlbnwwfHwxfHwxNzA4NjQzNzkxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "educational",
+        "wildlife exhibits",
+        "discovery"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Eldoret",
+    "city_id": "2425"
+  },
+  "items": [
+    {
+      "id": "ELD001",
+      "name": "The Plateau Galleria",
+      "short_description": "Eldoret's newest multi-story lifestyle hub, offering premium retail, diverse dining experiences, and a state-of-the-art cinema complex.",
+      "address": "Along Uganda Road, near Annex, Eldoret",
+      "opening_hours": "09:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542435503-95665806540c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Shopping",
+        "Entertainment",
+        "Dining"
+      ]
+    },
+    {
+      "id": "ELD002",
+      "name": "Chepkoilel Eco Park",
+      "short_description": "A serene urban green space featuring walking trails, picnic spots, and a small botanical garden, perfect for a family day out or a quiet escape.",
+      "address": "Off Kisumu Road, West Indies, Eldoret",
+      "opening_hours": "07:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517457223799-f2416f4b6670?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Nature",
+        "Relaxation",
+        "Family"
+      ]
+    },
+    {
+      "id": "ELD003",
+      "name": "Koitaleel Contemporary Arts Centre",
+      "short_description": "Showcasing emerging Kenyan artists and hosting regular workshops, performances, and cultural events, making it a vibrant hub for creativity.",
+      "address": "Oginga Odinga Street, Central Business District, Eldoret",
+      "opening_hours": "10:00-18:00 (Tue-Sun)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579783902671-97914859a0e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80",
+      "tags": [
+        "Art",
+        "Culture",
+        "Workshops"
+      ]
+    },
+    {
+      "id": "ELD004",
+      "name": "Rift Valley Adventure Land",
+      "short_description": "A thrilling indoor and outdoor family amusement park with rides, arcade games, and a dedicated soft play area for younger children.",
+      "address": "Along Iten Road, Kapsoya, Eldoret",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563200922-386d34e8f7cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Family",
+        "Kids",
+        "Fun"
+      ]
+    },
+    {
+      "id": "ELD005",
+      "name": "Altitude Coffee Lounge & Bistro",
+      "short_description": "A stylish and modern café serving gourmet coffee, light meals, and delicious pastries, popular for business meetings and casual meetups.",
+      "address": "Kenyatta Street, Milimani, Eldoret",
+      "opening_hours": "07:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1559929841-f6e8d2e8b2b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Cafe",
+        "Dining",
+        "Relaxation"
+      ]
+    },
+    {
+      "id": "ELD006",
+      "name": "Elite Performance Gym & Wellness Centre",
+      "short_description": "A state-of-the-art fitness facility with a wide range of equipment, personal training, and group classes, including yoga and spin.",
+      "address": "Mwanzo Estate, Eldoret-Kapsabet Road",
+      "opening_hours": "05:00-22:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1623906260846-9768656d091a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Fitness",
+        "Wellness",
+        "Sports"
+      ]
+    },
+    {
+      "id": "ELD007",
+      "name": "Nandi Hills Craft & Farmers Market",
+      "short_description": "A vibrant weekend market offering fresh organic produce, artisanal crafts, and unique souvenirs from local farmers and creators.",
+      "address": "Eldoret Showground vicinity, along Eldoret-Kisumu Highway",
+      "opening_hours": "08:00-17:00 (Sat-Sun)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1589133469376-2e8f17210e7b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Market",
+        "Crafts",
+        "Local"
+      ]
+    },
+    {
+      "id": "ELD008",
+      "name": "Uasin Gishu Innovation Hub & Discovery Centre",
+      "short_description": "An interactive space dedicated to science, technology, engineering, and math (STEM), offering engaging exhibits and workshops for all ages.",
+      "address": "University of Eldoret Town Campus, Oginga Odinga Street",
+      "opening_hours": "09:00-17:00 (Mon-Fri)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1520698188204-633276633b49?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Education",
+        "Science",
+        "Interactive"
+      ]
+    },
+    {
+      "id": "ELD009",
+      "name": "Hilltop Panorama Restaurant",
+      "short_description": "Enjoy breathtaking views of Eldoret city from this elegant rooftop restaurant, offering fine dining and a sophisticated ambiance.",
+      "address": "Elgon View Estate, off D.O.T. Road, Eldoret",
+      "opening_hours": "12:00-23:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627993416629-679901460331?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Dining",
+        "Views",
+        "Luxury"
+      ]
+    },
+    {
+      "id": "ELD010",
+      "name": "The Eldoret Forum",
+      "short_description": "A contemporary multi-purpose event space ideal for conferences, concerts, weddings, and community gatherings, equipped with modern facilities.",
+      "address": "Pioneer Estate, along Nandi Road, Eldoret",
+      "opening_hours": "Varies by event (typically 08:00-22:00)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1540306126757-b248e3a24687?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Events",
+        "Community",
+        "Conferences"
+      ]
+    }
+  ]
+}

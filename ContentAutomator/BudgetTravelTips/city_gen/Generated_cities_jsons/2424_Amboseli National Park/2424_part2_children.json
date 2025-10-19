@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Amboseli National Park",
+    "city_id": "2424"
+  },
+  "items": [
+    {
+      "id": "ANP-MSA-001",
+      "name": "Savanna Soccer Safari",
+      "short_description": "Kids can kick goals on a mini-pitch surrounded by savanna murals, complete with soft, inflatable wildlife obstacles.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Amboseli Central Plains, near Observation Hill",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549488344-935a0928a6f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "soccer",
+        "active",
+        "team sport"
+      ]
+    },
+    {
+      "id": "ANP-MSA-002",
+      "name": "Elephant Ball Hoops",
+      "short_description": "A basketball court scaled for children, featuring adjustable hoops and elephant-themed backboards for a unique game experience.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Oltukai Lodge vicinity, Amboseli",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1594916298586-8a55ed209096?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "basketball",
+        "jump",
+        "active"
+      ]
+    },
+    {
+      "id": "ANP-MSA-003",
+      "name": "Cheetah Sprint Track",
+      "short_description": "A short, padded running track designed for kids to race and test their speed in a safe, fun environment.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Kimana Gate Sector, Amboseli Family Zone",
+      "opening_hours": "09:30-16:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1542810634-71277d95dcbb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "running",
+        "race",
+        "speed"
+      ]
+    },
+    {
+      "id": "ANP-MSA-004",
+      "name": "Maasai Archery Fun",
+      "short_description": "Learn basic archery skills with child-safe bows and suction-cup arrows, aiming at animal targets inspired by local wildlife.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Amboseli Cultural Village Annex",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1599388339396-8575a02e5d95?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "archery",
+        "skill",
+        "target practice"
+      ]
+    },
+    {
+      "id": "ANP-LCP-001",
+      "name": "Kilimanjaro Builders' Peak",
+      "short_description": "A massive indoor area filled with LEGO bricks, where children can construct their own versions of Mount Kilimanjaro, safari vehicles, or local structures.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Amboseli Central Family Zone, near Ol Tukai Lodge",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517404215737-04644da2b67f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "LEGO",
+        "building",
+        "creativity"
+      ]
+    },
+    {
+      "id": "ANP-LCP-002",
+      "name": "Safari Animal Creator Hub",
+      "short_description": "Kids use various construction toys (LEGO, Duplo, magnetic tiles) to build their favorite safari animals, from elephants to giraffes.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Amboseli Kids' Activity Centre",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1588616149175-5205562d98ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "animals",
+        "construction",
+        "imagination"
+      ]
+    },
+    {
+      "id": "ANP-LCP-003",
+      "name": "Maasai Village Brickworks",
+      "short_description": "An interactive zone where children can build miniature Maasai huts and bomas using oversized, soft building blocks, learning about local culture.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Amboseli Cultural Hub, near Maasai Manyatta visits",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1581458280016-5e5d39e3199e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "culture",
+        "building",
+        "village"
+      ]
+    },
+    {
+      "id": "ANP-LCP-004",
+      "name": "Amboseli Engineering Explorers",
+      "short_description": "A hands-on construction park with simple machines and large foam blocks, encouraging collaborative building of bridges, towers, and forts.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Amboseli Education & Play Centre",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549495759-4d896191c42b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "engineering",
+        "collaborative",
+        "problem-solving"
+      ]
+    },
+    {
+      "id": "ANP-AQG-001",
+      "name": "The Great Elephant Tusk Hunt",
+      "short_description": "A park-wide scavenger hunt where children follow clues and solve riddles to find 'hidden tusks' (replicas) and learn about elephant conservation.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Amboseli Family Adventure Zone, near Observation Hill",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582210874052-a5f1a547225c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "scavenger hunt",
+        "elephants",
+        "exploration"
+      ]
+    },
+    {
+      "id": "ANP-AQG-002",
+      "name": "Junior Ranger Wildlife Quest",
+      "short_description": "Equipped with binoculars and a map, kids embark on a guided quest to 'spot' (find hidden figures of) specific animals and complete a ranger checklist.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Amboseli Wildlife Education Center grounds",
+      "opening_hours": "09:30-15:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596765793441-3b76426a8d6f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "wildlife",
+        "observation",
+        "quest"
+      ]
+    },
+    {
+      "id": "ANP-AQG-003",
+      "name": "Kilimanjaro Expedition Challenge",
+      "short_description": "An obstacle course designed to simulate a mini-expedition, with climbing walls, rope bridges, and 'lava' pits (soft play areas).",
+      "subtype": "Adventure & Quest Games",
+      "address": "Near Kibo Safari Camp, Amboseli",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520696985440-6f0219cc03dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "obstacle course",
+        "challenge",
+        "climbing"
+      ]
+    },
+    {
+      "id": "ANP-AQG-004",
+      "name": "Secret of the Savanna Treasure Maze",
+      "short_description": "A cleverly designed hedge maze with interactive stations inside, where children answer questions about Amboseli's ecosystem to unlock the next path.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Amboseli Educational Gardens",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627429189689-5302604928d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "maze",
+        "puzzle",
+        "nature"
+      ]
+    },
+    {
+      "id": "ANP-CMG-001",
+      "name": "Encounter with Ellie the Elephant",
+      "short_description": "Meet Ellie, Amboseli's friendly elephant mascot, for hugs, photos, and stories about her savanna adventures.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Amboseli Visitors' Centre Pavilion",
+      "opening_hours": "10:00-12:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1544474495-a4305f886f4a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "mascot",
+        "elephant",
+        "photo opportunity"
+      ]
+    },
+    {
+      "id": "ANP-CMG-002",
+      "name": "Leo the Lion's Roaring Welcome",
+      "short_description": "Children can interact with Leo, the playful lion character, sharing high-fives and listening to his tales of courage and friendship.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "The Kids' Oasis Pavilion, Amboseli",
+      "opening_hours": "13:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1610419087405-f938f292c300?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "mascot",
+        "lion",
+        "interactive"
+      ]
+    },
+    {
+      "id": "ANP-CMG-003",
+      "name": "Zola the Zebra's Stripey Hugs",
+      "short_description": "Get striped up with Zola the Zebra, a cheerful character who loves to give hugs and share fun facts about her fellow savanna friends.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Amboseli Family Zone Event Stage",
+      "opening_hours": "11:00-13:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1544365319-33e144a1420d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "mascot",
+        "zebra",
+        "character interaction"
+      ]
+    },
+    {
+      "id": "ANP-CMG-004",
+      "name": "Koko the Kudu's Clever Corner",
+      "short_description": "Join Koko the Kudu for storytelling sessions and a chance to meet and snap pictures with this wise and gentle character.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Amboseli Storytelling Gardens",
+      "opening_hours": "14:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1614917643557-d3d63c223c6f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "mascot",
+        "kudu",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "ANP-CMU-001",
+      "name": "Little Rangers' Discovery Den",
+      "short_description": "An interactive museum space where children learn about wildlife tracking, animal sounds, and the roles of park rangers through hands-on exhibits.",
+      "subtype": "Children’s Museums",
+      "address": "Amboseli Education Hub, near Main Gate",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522867069922-863a233b66d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "education",
+        "wildlife",
+        "interactive"
+      ]
+    },
+    {
+      "id": "ANP-CMU-002",
+      "name": "The Amboseli Ecosystem Explorer",
+      "short_description": "Explore a miniature diorama of Amboseli, understanding its diverse habitats, water sources, and the animals that call it home.",
+      "subtype": "Children’s Museums",
+      "address": "Amboseli Visitor Information Center",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1601007785860-2a2b0e9140aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "ecosystem",
+        "nature",
+        "discovery"
+      ]
+    },
+    {
+      "id": "ANP-CMU-003",
+      "name": "Maasai Heritage Kids' Gallery",
+      "short_description": "A vibrant gallery introducing children to Maasai culture through traditional artifacts, dress-up stations, and interactive craft activities.",
+      "subtype": "Children’s Museums",
+      "address": "Amboseli Cultural Experience Center",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1566498771971-5582f3c025f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "culture",
+        "Maasai",
+        "heritage"
+      ]
+    },
+    {
+      "id": "ANP-CMU-004",
+      "name": "Save Our Elephants! Lab",
+      "short_description": "Engaging exhibits focusing on elephant conservation, explaining their intelligence, social structures, and the importance of protecting them, with interactive puzzles and games.",
+      "subtype": "Children’s Museums",
+      "address": "Amboseli Conservation Institute",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1600109915152-44670c7ed004?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "conservation",
+        "elephants",
+        "science"
+      ]
+    },
+    {
+      "id": "ANP-ZPZ-001",
+      "name": "Junior Keeper's Farm Friends",
+      "short_description": "A safe area where children can meet and gently interact with rescued domestic farm animals, learning about their care and feeding.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Amboseli Wildlife Rescue Centre, Farm Animal Section",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579737976192-f04b12365287?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "farm animals",
+        "interaction",
+        "care"
+      ]
+    },
+    {
+      "id": "ANP-ZPZ-002",
+      "name": "Reptile & Insect Discovery Dome",
+      "short_description": "An educational dome showcasing local non-mammalian wildlife like harmless reptiles and fascinating insects, with supervised viewing and touch opportunities.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Amboseli Conservation Outpost, Education Wing",
+      "opening_hours": "10:30-15:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1518706306461-1e2474a2ee63?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "reptiles",
+        "insects",
+        "education"
+      ]
+    },
+    {
+      "id": "ANP-ZPZ-003",
+      "name": "Bird Aviary & Feathered Friends",
+      "short_description": "Walk through a large, enclosed aviary with various non-migratory bird species native to Amboseli, offering close-up viewing and educational signs.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Amboseli Bird Sanctuary Grounds",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1598993881476-d92e8a1a3e61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "birds",
+        "aviary",
+        "nature"
+      ]
+    },
+    {
+      "id": "ANP-ZPZ-004",
+      "name": "Orphaned Wildlife Observation Hub",
+      "short_description": "A viewing area dedicated to young, rescued wildlife (e.g., small antelopes, birds) under rehabilitation, with strict no-touch policies but educational talks.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Amboseli Wildlife Rehabilitation Centre",
+      "opening_hours": "09:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1586745145780-e889b9d7a229?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "wildlife",
+        "rescue",
+        "observation"
+      ]
+    },
+    {
+      "id": "ANP-PAP-001",
+      "name": "Kilimanjaro Climb & Slide",
+      "short_description": "A multi-level play structure resembling Mount Kilimanjaro, featuring climbing nets, tunnels, and exhilarating slides for all ages.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Amboseli Family Fun Zone, near Satao Elerai Camp",
+      "opening_hours": "08:30-17:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1585802280261-2291580f4962?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "climbing",
+        "slides",
+        "outdoor play"
+      ]
+    },
+    {
+      "id": "ANP-PAP-002",
+      "name": "Elephant Trails Adventure Park",
+      "short_description": "An expansive adventure park with themed swings, balancing beams, and a mini zip-line, all designed with elephant footprints and savanna motifs.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Oltukai Lodge grounds, Amboseli",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579737976192-f04b12365287?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "adventure",
+        "active",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "ANP-PAP-003",
+      "name": "Acacia Treehouse Playground",
+      "short_description": "Explore interconnected treehouses and rope bridges nestled amongst simulated acacia trees, offering elevated views and imaginative play spaces.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Amboseli Safari Kids' Zone",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601618664188-34857b275211?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "treehouse",
+        "imaginative play",
+        "nature"
+      ]
+    },
+    {
+      "id": "ANP-PAP-004",
+      "name": "Savanna Splash Pad Oasis",
+      "short_description": "A water play area with gentle sprays, ground geysers, and mini water slides, perfect for cooling off on a hot Amboseli day.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Amboseli Family Relaxation Area, near Amboseli Sopa Lodge",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1594916298586-8a55ed209096?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "water play",
+        "splash pad",
+        "summer fun"
+      ]
+    },
+    {
+      "id": "ANP-STP-001",
+      "name": "Whispering Baobab Tales",
+      "short_description": "Gather under the shade of a large baobab replica for engaging storytelling sessions featuring traditional African fables and animal folklore.",
+      "subtype": "Storytelling Parks",
+      "address": "Amboseli Cultural Story Gardens, central zone",
+      "opening_hours": "10:00-12:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1592502674996-5e0427ecb38b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "storytelling",
+        "fables",
+        "culture"
+      ]
+    },
+    {
+      "id": "ANP-STP-002",
+      "name": "Maasai Legends Fire Circle",
+      "short_description": "An evening experience around a safe, simulated fire pit, where Maasai elders or cultural guides share ancient legends and proverbs.",
+      "subtype": "Storytelling Parks",
+      "address": "Amboseli Maasai Community Outreach Centre",
+      "opening_hours": "18:00-19:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1534017377546-f9478f7223c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "legends",
+        "Maasai",
+        "cultural"
+      ]
+    },
+    {
+      "id": "ANP-STP-003",
+      "name": "Animal Voices Amphitheater",
+      "short_description": "A natural amphitheater where performers bring to life stories from the animal kingdom, using puppets, songs, and interactive participation.",
+      "subtype": "Storytelling Parks",
+      "address": "Amboseli Children's Performance Grounds",
+      "opening_hours": "14:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/5638209/pexels-photo-5638209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "puppets",
+        "animal stories",
+        "interactive"
+      ]
+    },
+    {
+      "id": "ANP-STP-004",
+      "name": "The River of Rhymes & Riddles",
+      "short_description": "A winding path along a gentle stream (or simulated one) with stations featuring carved animal figures, each inspiring a rhyme or riddle about Amboseli's creatures.",
+      "subtype": "Storytelling Parks",
+      "address": "Amboseli Nature Walk Trails",
+      "opening_hours": "09:00-16:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1596765793441-3b76426a8d6f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "rhymes",
+        "riddles",
+        "nature walk"
+      ]
+    },
+    {
+      "id": "ANP-AQU-001",
+      "name": "Amboseli Wetland Wonders Tank",
+      "short_description": "A specialized exhibit showcasing the fish, amphibians, and aquatic insects found in Amboseli's unique spring-fed wetlands, highlighting their ecological importance.",
+      "subtype": "Aquariums",
+      "address": "Near Observation Hill, Amboseli Wetland Study Centre",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616853683838-51834241e57c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "wetlands",
+        "freshwater",
+        "ecology"
+      ]
+    },
+    {
+      "id": "ANP-AQU-002",
+      "name": "The Mini Pond Life Discovery Lab",
+      "short_description": "Children can use magnifying glasses and microscopes at interactive stations to observe microscopic organisms and small creatures from local ponds.",
+      "subtype": "Aquariums",
+      "address": "Amboseli Environmental Education Centre",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1574635105779-7f41d3e6c0c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "pond life",
+        "science",
+        "discovery"
+      ]
+    },
+    {
+      "id": "ANP-AQU-003",
+      "name": "Fish of the Chyulu Hills Springs Exhibit",
+      "short_description": "Learn about the hardy fish species that thrive in the freshwater springs originating from the Chyulu Hills, providing vital water for the park.",
+      "subtype": "Aquariums",
+      "address": "Amboseli Research & Nature Center",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563200770-ce2674e5033c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "springs",
+        "fish",
+        "habitat"
+      ]
+    },
+    {
+      "id": "ANP-AQU-004",
+      "name": "Crocodylus Corner (Interactive Monitor)",
+      "short_description": "This interactive digital display teaches children about crocodiles and their role in Amboseli's ecosystem, with virtual encounters and fascinating facts.",
+      "subtype": "Aquariums",
+      "address": "Amboseli Wildlife Digital Learning Hub",
+      "opening_hours": "09:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1601007785860-2a2b0e9140aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "crocodiles",
+        "interactive",
+        "digital learning"
+      ]
+    },
+    {
+      "id": "ANP-IPC-001",
+      "name": "Savanna Soft Play Expedition",
+      "short_description": "A multi-level indoor soft play area featuring slides, ball pits, and climbing structures, all decorated with friendly savanna animal themes.",
+      "subtype": "Indoor Play Centers",
+      "address": "Amboseli Family Hub, near Kibo Safari Camp",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522867069922-863a233b66d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "soft play",
+        "indoor",
+        "climbing"
+      ]
+    },
+    {
+      "id": "ANP-IPC-002",
+      "name": "Bush Baby Bouncing Arena",
+      "short_description": "An inflatable bounce house and obstacle course zone, allowing kids to jump, climb, and tumble safely, perfect for energetic play on rainy days.",
+      "subtype": "Indoor Play Centers",
+      "address": "Amboseli Kids' Entertainment Complex",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627429189689-5302604928d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "bounce house",
+        "inflatable",
+        "active"
+      ]
+    },
+    {
+      "id": "ANP-IPC-003",
+      "name": "Junior Explorer's Craft Corner",
+      "short_description": "A cozy indoor space dedicated to creative arts and crafts, where children can draw, paint, and make safari-themed souvenirs.",
+      "subtype": "Indoor Play Centers",
+      "address": "Amboseli Lodge Activity Center (Various locations)",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1546252431-152e00781702?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "crafts",
+        "creative",
+        "art"
+      ]
+    },
+    {
+      "id": "ANP-IPC-004",
+      "name": "The Rhino's Retreat Arcade",
+      "short_description": "A small arcade with age-appropriate games, including air hockey, mini basketball, and simulation rides, offering a fun break from outdoor adventures.",
+      "subtype": "Indoor Play Centers",
+      "address": "Amboseli Game Zone, near Amboseli Sopa Lodge",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1517404215737-04644da2b67f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "arcade",
+        "games",
+        "indoor fun"
+      ]
+    }
+  ]
+}

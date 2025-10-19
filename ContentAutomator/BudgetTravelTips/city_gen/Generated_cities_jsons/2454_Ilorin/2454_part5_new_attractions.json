@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Ilorin",
+    "city_id": "2454"
+  },
+  "items": [
+    {
+      "id": "ICC001",
+      "name": "Ilorin Contemporary Canvas",
+      "short_description": "A vibrant new art gallery showcasing avant-garde and traditional Nigerian art. It provides a platform for emerging local talents and hosts regular exhibitions.",
+      "address": "Sola Saraki Arts Complex, Off Tanke Road, Ilorin.",
+      "opening_hours": "10:00-18:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/10186989/pexels-photo-10186989.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "art gallery",
+        "culture",
+        "modern art"
+      ]
+    },
+    {
+      "id": "KIL002",
+      "name": "Kwara Innovation Lounge",
+      "short_description": "A dynamic co-working space and tech hub designed for innovators, entrepreneurs, and remote workers. Featuring a modern café, private meeting rooms, and regular workshops.",
+      "address": "Plot 5, Adewole Estate, Fate Road, Ilorin.",
+      "opening_hours": "08:00-22:00 (Mon-Sat)",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "tech hub",
+        "co-working",
+        "cafe"
+      ]
+    },
+    {
+      "id": "RKP003",
+      "name": "Royal Kids Playzone",
+      "short_description": "Ilorin's premier indoor family entertainment center, offering a safe and exciting environment. Kids can enjoy trampolines, soft play areas, and a variety of arcade games.",
+      "address": "Shoprite Complex, Off Fate Road, Ilorin.",
+      "opening_hours": "10:00-20:00 (Daily)",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/17208929/pexels-photo-17208929.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "kids",
+        "family fun",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "ASL004",
+      "name": "The Asa Sky Lounge",
+      "short_description": "Perched atop a new boutique hotel, this stylish rooftop bar offers panoramic views of Ilorin, signature cocktails, and a sophisticated ambiance perfect for an evening out.",
+      "address": "Asa Dam Road, GRA, Ilorin.",
+      "opening_hours": "17:00-00:00 (Wed-Sun)",
+      "price_level": "expensive",
+      "images": "https://images.pexels.com/photos/2567290/pexels-photo-2567290.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "rooftop bar",
+        "nightlife",
+        "luxury"
+      ]
+    },
+    {
+      "id": "SSFP005",
+      "name": "Sobi Street Food Park",
+      "short_description": "A vibrant open-air food park featuring a diverse array of local and international street food vendors. Enjoy live music and communal dining areas under the stars.",
+      "address": "Opposite Sobi Hill Barracks, Ilorin East, Ilorin.",
+      "opening_hours": "16:00-23:00 (Thu-Sun)",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/2290076/pexels-photo-2290076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "food market",
+        "street food",
+        "dining"
+      ]
+    },
+    {
+      "id": "OIH006",
+      "name": "Oja Ilorin Heritage Hub",
+      "short_description": "An interactive cultural center dedicated to preserving and showcasing the rich history, traditions, and arts of the Ilorin people. Experience engaging exhibits and cultural performances.",
+      "address": "Beside Emir's Palace, Ilorin City Centre, Ilorin.",
+      "opening_hours": "09:00-17:00 (Mon-Sat)",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/17436067/pexels-photo-17436067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "heritage",
+        "culture",
+        "museum"
+      ]
+    },
+    {
+      "id": "HGA007",
+      "name": "Harmony Garden & Arboretum",
+      "short_description": "A sprawling botanical garden and arboretum offering serene walking trails, picnic spots, and a collection of indigenous and exotic plant species. An ideal escape into nature.",
+      "address": "University of Ilorin Teaching Hospital Road, Ilorin.",
+      "opening_hours": "07:00-19:00 (Daily)",
+      "price_level": "free",
+      "images": "https://images.pexels.com/photos/364095/pexels-photo-364095.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "nature",
+        "park",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "KAP008",
+      "name": "Kwara Adrenaline Park",
+      "short_description": "The ultimate adventure park featuring zip-lining, obstacle courses, paintball arenas, and a thrilling climbing wall for thrill-seekers of all ages. Perfect for group outings.",
+      "address": "Off Old Jebba Road, Gaa Akanbi, Ilorin.",
+      "opening_hours": "09:00-18:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/279854/pexels-photo-279854.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "adventure",
+        "outdoor",
+        "sports"
+      ]
+    },
+    {
+      "id": "GACV009",
+      "name": "Gari Alimi Creatives Village",
+      "short_description": "A vibrant collective where local artisans and craftsmen showcase and sell their handmade pottery, textiles, sculptures, and jewelry. Features live demonstrations and workshops.",
+      "address": "Gari Alimi Layout, Ilorin.",
+      "opening_hours": "10:00-19:00 (Mon-Sat)",
+      "price_level": "free",
+      "images": "https://images.pexels.com/photos/1749774/pexels-photo-1749774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "crafts",
+        "artisan",
+        "market"
+      ]
+    },
+    {
+      "id": "OSSW010",
+      "name": "Oasis Serenity Spa & Wellness",
+      "short_description": "A luxurious urban spa offering a range of holistic treatments including massages, facials, and hydrotherapy. Step into a serene relaxation lounge for ultimate rejuvenation.",
+      "address": "Off New Yidi Road, GRA, Ilorin.",
+      "opening_hours": "09:00-20:00 (Tue-Sun)",
+      "price_level": "expensive",
+      "images": "https://images.pexels.com/photos/3983353/pexels-photo-3983353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "spa",
+        "wellness",
+        "luxury"
+      ]
+    }
+  ]
+}

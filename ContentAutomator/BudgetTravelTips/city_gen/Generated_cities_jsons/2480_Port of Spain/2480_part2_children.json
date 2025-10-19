@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Port of Spain",
+    "city_id": "2480"
+  },
+  "items": [
+    {
+      "id": "FarmAtt1",
+      "name": "Green Acres Petting Farm",
+      "short_description": "A charming farm where children can interact with friendly animals, learn about farm life, and enjoy pony rides. Perfect for a hands-on agricultural experience.",
+      "subtype": "Farm Attractions",
+      "address": "Saddle Road, Maraval, Port of Spain",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549419163-4a7b7a9e69c5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "animals",
+        "farm life",
+        "petting zoo"
+      ]
+    },
+    {
+      "id": "FarmAtt2",
+      "name": "Little Sprout Gardens",
+      "short_description": "Kids can get their hands dirty planting seeds, harvesting vegetables, and understanding the cycle of nature. Educational workshops are held weekly.",
+      "subtype": "Farm Attractions",
+      "address": "Long Circular Road, St. James, Port of Spain",
+      "opening_hours": "10:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510250005517-916298587d16?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "gardening",
+        "nature",
+        "education"
+      ]
+    },
+    {
+      "id": "FarmAtt3",
+      "name": "Barnyard Buddies Experience",
+      "short_description": "An interactive farm experience featuring feeding sessions with goats, sheep, and chickens. Includes a tractor ride around the property.",
+      "subtype": "Farm Attractions",
+      "address": "Lady Chancellor Road, Port of Spain",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627931327121-64152702280d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "animals",
+        "tractor rides",
+        "family fun"
+      ]
+    },
+    {
+      "id": "FarmAtt4",
+      "name": "Farmer's Friend Orchard",
+      "short_description": "Explore a fruit orchard where kids can pick seasonal fruits and learn about tropical agriculture. Features a small petting area and picnic spots.",
+      "subtype": "Farm Attractions",
+      "address": "Western Main Road, Carenage, Port of Spain",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1534067783941-51c9c23ecefd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "orchard",
+        "fruit picking",
+        "nature"
+      ]
+    },
+    {
+      "id": "DinoPark1",
+      "name": "Jurassic Jungle PoS",
+      "short_description": "Step back in time to an era of colossal creatures. This park features life-sized animatronic dinosaurs hidden within a lush, tropical setting.",
+      "subtype": "Dinosaur Parks",
+      "address": "Invaders Bay, Audrey Jeffers Highway, Port of Spain",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1520635293427-4dd3d987d692?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dinosaurs",
+        "animatronics",
+        "prehistoric"
+      ]
+    },
+    {
+      "id": "DinoPark2",
+      "name": "Dino Dig Discovery Site",
+      "short_description": "Aspiring paleontologists can unearth dinosaur bones in a simulated excavation pit. Includes a small museum showcasing real fossils.",
+      "subtype": "Dinosaur Parks",
+      "address": "Wrightson Road Extension, Port of Spain",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1587841121696-ec6d1ef5035e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "paleontology",
+        "fossils",
+        "interactive"
+      ]
+    },
+    {
+      "id": "DinoPark3",
+      "name": "Raptor Run Adventure",
+      "short_description": "A thrilling outdoor park with dinosaur-themed obstacle courses and a mini-golf course. Beware of the 'roaming' raptors!",
+      "subtype": "Dinosaur Parks",
+      "address": "Circular Road, St. Augustine (near Port of Spain)",
+      "opening_hours": "10:30-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596752766324-4f08f8826504?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "dinosaurs",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "DinoPark4",
+      "name": "Triassic Trail Walk",
+      "short_description": "A scenic walking trail through a recreation of a Triassic period landscape, complete with static dinosaur models and informational plaques.",
+      "subtype": "Dinosaur Parks",
+      "address": "Queen's Park Savannah, Port of Spain",
+      "opening_hours": "08:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579309282834-2e92ed942079?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature trail",
+        "dinosaurs",
+        "educational"
+      ]
+    },
+    {
+      "id": "StoryPark1",
+      "name": "Whispering Woods Tales",
+      "short_description": "Discover a magical forest where beloved fairy tales come to life through interactive exhibits and live storytelling sessions. A truly immersive narrative experience.",
+      "subtype": "Storytelling Parks",
+      "address": "Royal Botanic Gardens, Port of Spain",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1532057753173-90610360a7e0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fairy tales",
+        "storytelling",
+        "magic"
+      ]
+    },
+    {
+      "id": "StoryPark2",
+      "name": "Legendary Lane Adventures",
+      "short_description": "Journey through a park dedicated to local folklore and Caribbean myths. Each path leads to a new story, told by animated figures and soundscapes.",
+      "subtype": "Storytelling Parks",
+      "address": "Nelson Street, Port of Spain",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616763488796-039169ef6ff2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "folklore",
+        "myths",
+        "cultural"
+      ]
+    },
+    {
+      "id": "StoryPark3",
+      "name": "Imagination Station Park",
+      "short_description": "A vibrant park designed to spark creativity, with dedicated zones for role-playing, puppet shows, and creating original stories. Daily workshops available.",
+      "subtype": "Storytelling Parks",
+      "address": "Ariapita Avenue, Woodbrook, Port of Spain",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517409249788-b76921319c5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "creativity",
+        "imagination",
+        "workshops"
+      ]
+    },
+    {
+      "id": "StoryPark4",
+      "name": "The Rhyme & Reason Garden",
+      "short_description": "A whimsical garden where nursery rhymes are brought to life with colourful sculptures and interactive installations. Perfect for toddlers and preschoolers.",
+      "subtype": "Storytelling Parks",
+      "address": "Cascade Road, Port of Spain",
+      "opening_hours": "09:00-15:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1590804077696-cd9d261e4000?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nursery rhymes",
+        "toddlers",
+        "interactive art"
+      ]
+    },
+    {
+      "id": "LegoPark1",
+      "name": "Brick City Builders Lab",
+      "short_description": "An indoor wonderland filled with millions of building bricks, offering free-play zones, challenging build competitions, and expert-led workshops.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Frederick Street, Port of Spain",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627885746816-c875154ce861?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Lego",
+        "building",
+        "creativity"
+      ]
+    },
+    {
+      "id": "LegoPark2",
+      "name": "Mega Blocks Construction Zone",
+      "short_description": "A spacious outdoor park designed for collaborative building with oversized blocks and construction equipment. Great for gross motor skills and teamwork.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Champs Fleurs, Port of Spain (East)",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533083626245-d852066d511a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "construction",
+        "outdoor play",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "LegoPark3",
+      "name": "Robo-Bricks Engineering Hub",
+      "short_description": "Focuses on robotics and engineering using advanced building kits. Kids can design, build, and program their own robotic creations.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Corner of Tragarete Road & Cipriani Blvd, Port of Spain",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1526402867866-e8a846177b94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "robotics",
+        "engineering",
+        "STEM"
+      ]
+    },
+    {
+      "id": "LegoPark4",
+      "name": "Mini Masterpiece Studio",
+      "short_description": "A creative space where children can build and display their Lego creations. Features themed building challenges and a gallery for young artists.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Independence Square, Port of Spain",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589707261944-937210967389?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "display",
+        "challenges"
+      ]
+    },
+    {
+      "id": "QuestGame1",
+      "name": "Lost Temple Treasure Hunt",
+      "short_description": "Embark on an epic quest through a themed 'lost temple' environment, solving puzzles and overcoming challenges to find hidden treasures. Ideal for thrill-seekers.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Western Main Road, St. James, Port of Spain",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1579998132030-a94f6f264858?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "treasure hunt",
+        "puzzles",
+        "adventure"
+      ]
+    },
+    {
+      "id": "QuestGame2",
+      "name": "Spy Kids Mission Headquarters",
+      "short_description": "Recruits undergo secret agent training, complete with laser mazes, code-breaking activities, and covert ops simulations. Great for strategic thinkers.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Park Street, Port of Spain",
+      "opening_hours": "11:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549490349-f52e5057d904?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "spy",
+        "strategy",
+        "team building"
+      ]
+    },
+    {
+      "id": "QuestGame3",
+      "name": "Enchanted Forest Escape",
+      "short_description": "A magical escape room experience set in an enchanted forest. Teams must solve riddles and find clues to break a spell before time runs out.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Queens Park East, Port of Spain",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596759089761-002d73352df5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "escape room",
+        "fantasy",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "QuestGame4",
+      "name": "Pirate's Cove Challenge",
+      "short_description": "Set sail on an outdoor pirate adventure, navigating treacherous waters, finding buried treasure, and outwitting rival pirate crews. Water-based activities included.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Dock Road, Chaguaramas (near Port of Spain)",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1614717143922-921d2830f81a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "pirates",
+        "outdoor",
+        "water activities"
+      ]
+    },
+    {
+      "id": "PlayPark1",
+      "name": "Queen's Park Adventureland",
+      "short_description": "A sprawling outdoor adventure park with multiple playgrounds, climbing structures, zip lines, and obstacle courses for all age groups. Ideal for active kids.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Queen's Park Savannah, Port of Spain",
+      "opening_hours": "08:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1510525000000-000000000000?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "playground",
+        "climbing",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "PlayPark2",
+      "name": "Splash & Slide Water Fun",
+      "short_description": "A vibrant water park featuring various slides, splash pads, and shallow pools. Perfect for cooling off and having a wet, wild time.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Eastern Main Road, San Juan (near Port of Spain)",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1595183350438-d67b2d56c4e0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "water park",
+        "slides",
+        "summer"
+      ]
+    },
+    {
+      "id": "PlayPark3",
+      "name": "Treetop Trekkers Course",
+      "short_description": "An aerial adventure park with suspended bridges, climbing nets, and zip lines high among the trees. Offers different difficulty levels for all ages.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Macqueripe Road, Chaguaramas (near Port of Spain)",
+      "opening_hours": "09:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1591550974794-6d9b04f1c1f5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "aerial adventure",
+        "zip line",
+        "climbing"
+      ]
+    },
+    {
+      "id": "PlayPark4",
+      "name": "Downtown Kids Play Space",
+      "short_description": "An urban indoor playground with soft play areas, climbing walls, and interactive games, perfect for younger children on rainy days.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Henry Street, Port of Spain",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596759089761-002d73352df5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "indoor playground",
+        "soft play",
+        "toddlers"
+      ]
+    },
+    {
+      "id": "FairyTale1",
+      "name": "Enchanted Forest of Dreams",
+      "short_description": "Wander through a magical forest inhabited by fairy tale characters and creatures. Features themed rides, puppet shows, and charming storybook settings.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Lady Young Road, Morvant, Port of Spain",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1550745165-9bd0c253b89b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fairy tales",
+        "fantasy",
+        "rides"
+      ]
+    },
+    {
+      "id": "FairyTale2",
+      "name": "Princess Palace & Knight's Keep",
+      "short_description": "Live out royal fantasies at this themed park. Children can meet princesses, train as knights, and explore a grand castle complete with a dragon's lair.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Queens Park West, Port of Spain",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596759089761-002d73352df5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "princesses",
+        "knights",
+        "castles"
+      ]
+    },
+    {
+      "id": "FairyTale3",
+      "name": "Gnome's Secret Garden",
+      "short_description": "A miniature world where children can explore tiny houses, hidden paths, and discover the magical lives of garden gnomes and fairies. Interactive and charming.",
+      "subtype": "Fairy Tale Parks",
+      "address": "St. Ann's Road, Port of Spain",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582266205739-158a17684ddc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "gnomes",
+        "fairies",
+        "miniature world"
+      ]
+    },
+    {
+      "id": "FairyTale4",
+      "name": "Neverland Adventure Zone",
+      "short_description": "Fly to Neverland and join Peter Pan, Captain Hook, and the Lost Boys in a series of swashbuckling adventures and imaginative play zones.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Mucurapo Road, Port of Spain",
+      "opening_hours": "10:30-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520635293427-4dd3d987d692?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Peter Pan",
+        "adventure",
+        "imagination"
+      ]
+    },
+    {
+      "id": "Museum1",
+      "name": "Discovery Cove Children's Museum",
+      "short_description": "An interactive museum where kids can explore science, art, and culture through hands-on exhibits, workshops, and engaging displays. Learning is fun here!",
+      "subtype": "Children’s Museums",
+      "address": "Cor. Abercromby St. & Independence Square, Port of Spain",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579762715118-a6f17bd776e3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "science",
+        "art",
+        "interactive learning"
+      ]
+    },
+    {
+      "id": "Museum2",
+      "name": "Little Innovators Workshop",
+      "short_description": "Dedicated to inspiring young inventors, this museum features stations for engineering, coding, and building. Encourages creative problem-solving.",
+      "subtype": "Children’s Museums",
+      "address": "Richmond Street, Port of Spain",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549298243-7a2e0a8b9e6f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "STEM",
+        "innovation",
+        "engineering"
+      ]
+    },
+    {
+      "id": "Museum3",
+      "name": "World Explorers Gallery",
+      "short_description": "A cultural journey for kids, featuring exhibits on different countries, their traditions, and art forms. Promotes global awareness and diversity.",
+      "subtype": "Children’s Museums",
+      "address": "Chancellor Hill, St. Clair, Port of Spain",
+      "opening_hours": "09:30-15:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596759089761-002d73352df5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "culture",
+        "global",
+        "diversity"
+      ]
+    },
+    {
+      "id": "Museum4",
+      "name": "Tiny Tot Art & Play Centre",
+      "short_description": "Designed for toddlers and preschoolers, this center combines sensory play with early art exploration, fostering creativity and motor skills development.",
+      "subtype": "Children’s Museums",
+      "address": "Fitzgerald Lane, Port of Spain",
+      "opening_hours": "08:30-14:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596759089761-002d73352df5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddlers",
+        "art",
+        "sensory play"
+      ]
+    },
+    {
+      "id": "Planetarium1",
+      "name": "Star Gazer's Little Dome",
+      "short_description": "A beginner-friendly planetarium offering immersive shows about stars, planets, and constellations. Features interactive exhibits on space exploration.",
+      "subtype": "Planetariums for Kids",
+      "address": "University of the West Indies, St. Augustine (near Port of Spain)",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620138541816-563604b321a4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "astronomy",
+        "space",
+        "education"
+      ]
+    },
+    {
+      "id": "Planetarium2",
+      "name": "Cosmic Kids Journey",
+      "short_description": "Take a simulated voyage through the solar system with engaging 3D projections and narration tailored for young minds. Special 'Junior Astronaut' programs available.",
+      "subtype": "Planetariums for Kids",
+      "address": "National Academy for the Performing Arts, Port of Spain",
+      "opening_hours": "11:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1543722530-d2c67c5d1ed6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "solar system",
+        "3D shows",
+        "astronauts"
+      ]
+    },
+    {
+      "id": "Planetarium3",
+      "name": "Galaxy Gaze Centre",
+      "short_description": "An introductory planetarium focusing on constellations and myths associated with the night sky. Includes a portable telescope experience on clear evenings.",
+      "subtype": "Planetariums for Kids",
+      "address": "Wrightson Road, Port of Spain",
+      "opening_hours": "10:30-15:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1522036491950-8b091f096c46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "constellations",
+        "night sky",
+        "telescope"
+      ]
+    },
+    {
+      "id": "Planetarium4",
+      "name": "Nebula Navigators Hub",
+      "short_description": "An interactive hub for exploring galaxies and nebulae with digital displays and hands-on activities that explain celestial phenomena. Ideal for slightly older children.",
+      "subtype": "Planetariums for Kids",
+      "address": "Port of Spain Public Library, Knox Street, Port of Spain",
+      "opening_hours": "12:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1507664320499-c4309307c917?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "galaxies",
+        "nebulae",
+        "digital exhibits"
+      ]
+    },
+    {
+      "id": "CartoonMeet1",
+      "name": "Toon Town Plaza Meetup",
+      "short_description": "Meet and greet your favourite classic cartoon characters live! Enjoy photo opportunities, character performances, and themed activities. Schedule varies weekly.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Trincity Mall (near Port of Spain)",
+      "opening_hours": "14:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579762715118-a6f17bd776e3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "characters",
+        "photo ops",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "CartoonMeet2",
+      "name": "Hero Haven Pop-Up",
+      "short_description": "A rotating event where children can meet popular superhero and animated film characters. Expect interactive sessions, themed games, and special appearances.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Movietowne, Invaders Bay, Port of Spain",
+      "opening_hours": "15:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596759089761-002d73352df5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "superheroes",
+        "animated films",
+        "events"
+      ]
+    },
+    {
+      "id": "CartoonMeet3",
+      "name": "Mascot Mania Funfest",
+      "short_description": "A lively festival featuring a variety of beloved mascots and cartoon figures. Enjoy parades, dance-offs, and plenty of opportunities for hugs and high-fives.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Centre of Excellence, Macoya (near Port of Spain)",
+      "opening_hours": "13:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596759089761-002d73352df5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "mascots",
+        "festival",
+        "parade"
+      ]
+    },
+    {
+      "id": "CartoonMeet4",
+      "name": "Storybook Friends Corner",
+      "short_description": "A cozy, intimate setting where children can meet characters from classic storybooks and popular children's shows. Includes storytelling and craft sessions.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Queens Park Savannah, Port of Spain",
+      "opening_hours": "10:00-14:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596759089761-002d73352df5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "storybooks",
+        "crafts",
+        "intimate"
+      ]
+    }
+  ]
+}

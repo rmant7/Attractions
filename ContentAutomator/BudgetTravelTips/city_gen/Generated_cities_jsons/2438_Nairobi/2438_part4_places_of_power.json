@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Nairobi",
+    "city_id": "2438"
+  },
+  "items": [
+    {
+      "id": "NAI-DPS-001",
+      "name": "The Windswept Ridge of Ngong",
+      "short_description": "A high, open ridge offering panoramic views, known for its strong winds believed to carry ancestral whispers and clear the mind.",
+      "subtype": "Desert Power Sites",
+      "address": "Ngong Hills Reserve, Ngong Road, Nairobi",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1549646875-9e6e8e8e7a0e",
+      "tags": [
+        "ancestral",
+        "meditation",
+        "views"
+      ]
+    },
+    {
+      "id": "NAI-DPS-002",
+      "name": "Savannah Sanctuary Outlook",
+      "short_description": "A secluded spot on the edge of Nairobi National Park, where the expansive savannah evokes a sense of raw, untamed spiritual power.",
+      "subtype": "Desert Power Sites",
+      "address": "Langata Road, near Nairobi National Park entrance, Nairobi",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1594953934449-74d1264c1b9b",
+      "tags": [
+        "nature",
+        "wildlife",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "NAI-DPS-003",
+      "name": "Kikuyu Ancestral Stone Fields",
+      "short_description": "An area dotted with ancient volcanic rocks, traditionally revered by the Kikuyu as places of prayer and connection to the earth's primal energy.",
+      "subtype": "Desert Power Sites",
+      "address": "Karen Plains Road, near Ngong Forest, Nairobi",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1620359333906-81e8d38b5d5d",
+      "tags": [
+        "indigenous",
+        "earth energy",
+        "heritage"
+      ]
+    },
+    {
+      "id": "NAI-DPS-004",
+      "name": "Mukoma Plains Spirit Point",
+      "short_description": "A designated point within the Mukoma area, where the stark, open landscape is believed to amplify spiritual introspection and connection to cosmic forces.",
+      "subtype": "Desert Power Sites",
+      "address": "Mukoma Road, Karen, Nairobi",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1544256673-f365d496a804",
+      "tags": [
+        "cosmic",
+        "open space",
+        "reflection"
+      ]
+    },
+    {
+      "id": "NAI-MEP-001",
+      "name": "Shanti Vihara Peace Centre",
+      "short_description": "A contemporary multi-faith meditation and wellness center, fostering inner peace and interfaith harmony through workshops and communal practice.",
+      "subtype": "Modern Energy Places",
+      "address": "Mbagathi Way, Nairobi",
+      "visiting_hours": "09:00-20:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1522765859708-bb3b90f5c1d6",
+      "tags": [
+        "meditation",
+        "interfaith",
+        "wellness"
+      ]
+    },
+    {
+      "id": "NAI-MEP-002",
+      "name": "The Akili Creative Hub",
+      "short_description": "A vibrant community space where art, innovation, and social entrepreneurship converge, radiating a powerful energy of collective progress and hope.",
+      "subtype": "Modern Energy Places",
+      "address": "River Road, CBD, Nairobi",
+      "visiting_hours": "10:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1632734913349-21808603632f",
+      "tags": [
+        "creativity",
+        "community",
+        "innovation"
+      ]
+    },
+    {
+      "id": "NAI-MEP-003",
+      "name": "St. Andrew's PCEA Sanctuary of Hope",
+      "short_description": "A modern architectural church known for its inspiring sermons, vibrant choir, and active community outreach programs that uplift and empower.",
+      "subtype": "Modern Energy Places",
+      "address": "Nyerere Road, Upper Hill, Nairobi",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620584478147-194165d5ef76",
+      "tags": [
+        "Christian",
+        "community",
+        "inspiration"
+      ]
+    },
+    {
+      "id": "NAI-MEP-004",
+      "name": "Nairobi Green Energy Gardens",
+      "short_description": "An urban green space showcasing sustainable living practices and renewable energy, inspiring visitors with a vision of a harmonious future with nature.",
+      "subtype": "Modern Energy Places",
+      "address": "Waiyaki Way, Westlands, Nairobi",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1593539746405-b02c0b6f9376",
+      "tags": [
+        "sustainability",
+        "eco-spiritual",
+        "future"
+      ]
+    },
+    {
+      "id": "NAI-MAH-001",
+      "name": "Benedictine Monastery of St. John",
+      "short_description": "A serene Catholic monastery offering spiritual retreats and a tranquil environment for contemplation amidst beautiful gardens and quiet chapels.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Langata South Road, Nairobi",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1588661726006-258074d4d29f",
+      "tags": [
+        "Catholic",
+        "retreat",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "NAI-MAH-002",
+      "name": "Orthodox Hermitage of the Holy Trinity",
+      "short_description": "A small, secluded Eastern Orthodox hermitage dedicated to prayer and asceticism, welcoming visitors seeking quiet reflection and spiritual guidance.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Limuru Road, Gigiri, Nairobi",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1614777596767-17293a525164",
+      "tags": [
+        "Orthodox",
+        "seclusion",
+        "prayer"
+      ]
+    },
+    {
+      "id": "NAI-MAH-003",
+      "name": "Vipassana Meditation Centre (Nairobi)",
+      "short_description": "A dedicated center for Vipassana meditation courses, offering silent retreats for deep insight and self-discovery.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Karen Bogani Road, Nairobi",
+      "visiting_hours": "Varies by retreat schedule",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1558482086-1d3744158428",
+      "tags": [
+        "Buddhist",
+        "meditation",
+        "retreat"
+      ]
+    },
+    {
+      "id": "NAI-MAH-004",
+      "name": "Serenity Gardens Interfaith Retreat",
+      "short_description": "A tranquil interfaith retreat center designed for personal reflection and spiritual renewal, featuring diverse meditative spaces and natural pathways.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Ngong Road, near Ngong Forest, Nairobi",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1533229230554-1b48b9f76a08",
+      "tags": [
+        "interfaith",
+        "reflection",
+        "nature"
+      ]
+    },
+    {
+      "id": "NAI-OS-001",
+      "name": "The Mugumo Tree of Elders",
+      "short_description": "A giant, ancient fig tree, historically revered as a sacred site where community elders sought wisdom and made important decisions.",
+      "subtype": "Oracle Sites",
+      "address": "Karura Forest, Thika Road, Nairobi",
+      "visiting_hours": "08:00-17:30",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1589886751225-c6375f426545",
+      "tags": [
+        "sacred tree",
+        "wisdom",
+        "ancestral"
+      ]
+    },
+    {
+      "id": "NAI-OS-002",
+      "name": "Gikuyu Shrine of Prophecy",
+      "short_description": "A small, hidden shrine dedicated to ancestral spirits, where traditional diviners once interpreted signs and offered guidance to the community.",
+      "subtype": "Oracle Sites",
+      "address": "Miotoni Road, Karen, Nairobi (exact location hidden, by local guide)",
+      "visiting_hours": "By guided appointment only",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1601004318723-5e7514a4b2b6",
+      "tags": [
+        "indigenous",
+        "divination",
+        "spiritual guidance"
+      ]
+    },
+    {
+      "id": "NAI-OS-003",
+      "name": "The Whispering Waters Oracle",
+      "short_description": "A natural spring within a rock formation, whose gentle flowing waters are believed to carry prophetic messages to those who listen intently.",
+      "subtype": "Oracle Sites",
+      "address": "Nairobi National Park, near Hippo Pools area",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1587321033909-514d2325c9b6",
+      "tags": [
+        "nature spirit",
+        "intuition",
+        "sacred water"
+      ]
+    },
+    {
+      "id": "NAI-OS-004",
+      "name": "Mukuria's Wisdom Rock",
+      "short_description": "A prominent, smooth granite boulder said to be a powerful conduit for ancestral wisdom, where individuals come to seek clarity and inner guidance.",
+      "subtype": "Oracle Sites",
+      "address": "Oloolua Nature Trail, Karen, Nairobi",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1530279644349-a2e6f4a86b36",
+      "tags": [
+        "ancestral wisdom",
+        "rock power",
+        "clarity"
+      ]
+    },
+    {
+      "id": "NAI-AC-001",
+      "name": "Old Kifaru Settlement Ruins",
+      "short_description": "The fragmented remains of an early Iron Age settlement, offering a glimpse into the spiritual practices and community life of Nairobi's ancient inhabitants.",
+      "subtype": "Ancient Cities",
+      "address": "Athi River Road, outskirts of Nairobi (near Kitengela)",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gedi_ruins_2.jpg/1024px-Gedi_ruins_2.jpg",
+      "tags": [
+        "archaeology",
+        "pre-colonial",
+        "settlement"
+      ]
+    },
+    {
+      "id": "NAI-AC-002",
+      "name": "The Mau Mau Freedom Village Memorial",
+      "short_description": "A reconstructed historical village and memorial site honoring the spirit and resilience of those who fought for independence, embodying a powerful cultural memory.",
+      "subtype": "Ancient Cities",
+      "address": "Karen-Ngong Road, near Ngong Forest, Nairobi",
+      "visiting_hours": "08:30-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dedan_Kimathi_memorial.jpg/800px-Dedan_Kimathi_memorial.jpg",
+      "tags": [
+        "history",
+        "resistance",
+        "heritage"
+      ]
+    },
+    {
+      "id": "NAI-AC-003",
+      "name": "Pre-colonial Trade Route Oasis",
+      "short_description": "A designated historical marker and small interpretive center at a former key watering point along ancient trade routes, where cultures once converged.",
+      "subtype": "Ancient Cities",
+      "address": "Mombasa Road, near Machakos Junction, Nairobi (outskirts)",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1600325492261-269666014e7a",
+      "tags": [
+        "trade history",
+        "cultural exchange",
+        "ancient paths"
+      ]
+    },
+    {
+      "id": "NAI-AC-004",
+      "name": "Kariokor Colonial Heritage Park",
+      "short_description": "While colonial, this park preserves structures and stories from Nairobi's early urban development, reflecting the layered history and foundational energies of the modern city.",
+      "subtype": "Ancient Cities",
+      "address": "Kariokor Market area, CBD, Nairobi",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1610427352355-667980333333",
+      "tags": [
+        "colonial history",
+        "urban development",
+        "heritage park"
+      ]
+    },
+    {
+      "id": "NAI-CAS-001",
+      "name": "Uhuru Peak Solstice Marker",
+      "short_description": "A specially marked spot on Uhuru Gardens' highest point, offering an unobstructed view for observing solstices and equinoxes, believed to align spiritual energies.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Uhuru Gardens National Monument and Museum, Langata Road, Nairobi",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1611090382878-fc7b3d2b271d",
+      "tags": [
+        "solstice",
+        "astronomy",
+        "alignment"
+      ]
+    },
+    {
+      "id": "NAI-CAS-002",
+      "name": "Nairobi Observatory Hill",
+      "short_description": "A public hill offering clear night sky views, historically used by local communities for celestial observation and understanding agricultural cycles.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Near State House, Nairobi",
+      "visiting_hours": "06:00-22:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502484081039-4d9241517409",
+      "tags": [
+        "stargazing",
+        "traditional astronomy",
+        "night sky"
+      ]
+    },
+    {
+      "id": "NAI-CAS-003",
+      "name": "Maasai Star Dome",
+      "short_description": "A conceptual open-air structure on the edge of the Nairobi National Park, designed to evoke traditional Maasai astronomical knowledge and star lore.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Magadi Road, near KWS Headquarters, Nairobi",
+      "visiting_hours": "10:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1549341454-e918544c1b11",
+      "tags": [
+        "Maasai culture",
+        "ethnoastronomy",
+        "star lore"
+      ]
+    },
+    {
+      "id": "NAI-CAS-004",
+      "name": "Equator Crossing Meridian Point",
+      "short_description": "Although not directly on the equator, this point marks a conceptual meridian where local ancient paths were thought to connect earth and sky energies.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Thika Superhighway, near Ruiru",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563278913-b54199c09930",
+      "tags": [
+        "equator",
+        "energy lines",
+        "cosmic connection"
+      ]
+    },
+    {
+      "id": "NAI-MGS-001",
+      "name": "Ololua Stone Circle",
+      "short_description": "A natural arrangement of large boulders within the Oloolua Forest, believed by some to be an ancient gathering or ritual site, evoking megalithic presence.",
+      "subtype": "Megalithic Sites",
+      "address": "Oloolua Nature Trail, Karen, Nairobi",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1567812165039-8d76a3e2e030",
+      "tags": [
+        "stone circle",
+        "ritual site",
+        "nature"
+      ]
+    },
+    {
+      "id": "NAI-MGS-002",
+      "name": "The Kitisuru Boulders",
+      "short_description": "A cluster of massive, naturally eroded granite boulders in a secluded area, revered for their imposing presence and perceived ancient energy.",
+      "subtype": "Megalithic Sites",
+      "address": "Kitisuru Road, Nairobi",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1610098197775-9d32d721b1b3",
+      "tags": [
+        "sacred rocks",
+        "geological wonder",
+        "earth energy"
+      ]
+    },
+    {
+      "id": "NAI-MGS-003",
+      "name": "Ngong Rock Altar",
+      "short_description": "A prominent, flat-topped rock formation on the Ngong Hills, traditionally used as an outdoor altar for offerings and blessings by local communities.",
+      "subtype": "Megalithic Sites",
+      "address": "Ngong Hills Reserve, Ngong Road, Nairobi",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1549887708-3f59c033e07d",
+      "tags": [
+        "outdoor altar",
+        "offerings",
+        "blessings"
+      ]
+    },
+    {
+      "id": "NAI-MGS-004",
+      "name": "The Guardian Stones of Giraffe Centre",
+      "short_description": "Two colossal, ancient stones flanking the entrance to a natural reserve area, seen as protectors of the land and its spiritual essence.",
+      "subtype": "Megalithic Sites",
+      "address": "Giraffe Centre, Langata Road, Nairobi",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1510343717145-896894c5e317",
+      "tags": [
+        "protector spirits",
+        "ancient stones",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "NAI-MRF-001",
+      "name": "Balancing Rock of Karen",
+      "short_description": "A gravity-defying rock formation that appears precariously balanced, symbolizing the delicate balance of life and cosmic forces.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Karen Gables Area, Nairobi",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1606900223945-8d5119472e3a",
+      "tags": [
+        "natural wonder",
+        "balance",
+        "geology"
+      ]
+    },
+    {
+      "id": "NAI-MRF-002",
+      "name": "The Sentinels of Lukenya",
+      "short_description": "Two towering, weathered rock formations on the approach to Lukenya Hills, standing like ancient sentinels guarding the plains and spiritual gateways.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Machakos-Nairobi Road, near Lukenya Hills (outskirts)",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1631557993074-b58097b8782a",
+      "tags": [
+        "natural monument",
+        "guardians",
+        "landscape"
+      ]
+    },
+    {
+      "id": "NAI-MRF-003",
+      "name": "Elephant Head Rock",
+      "short_description": "A distinctive rock formation naturally carved by erosion into the shape of an elephant's head, revered for its connection to nature and animal spirits.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Nairobi National Park, near Ivory Burning Site",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1582265008587-f825e65476a5",
+      "tags": [
+        "animal spirit",
+        "nature art",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "NAI-MRF-004",
+      "name": "The Preacher's Pulpit Stone",
+      "short_description": "A naturally elevated rock outcrop with a flat top, historically used by traditional storytellers and spiritual leaders as a 'pulpit' to address communities.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Nairobi Arboretum, Kilimani, Nairobi",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1602927233261-2f2b3b723f5b",
+      "tags": [
+        "storytelling",
+        "community gathering",
+        "natural stage"
+      ]
+    },
+    {
+      "id": "NAI-PYR-001",
+      "name": "The Spirit of Africa Monument",
+      "short_description": "A modern, pyramidal monument celebrating African heritage and spiritual unity, featuring intricate carvings and a meditation chamber at its base.",
+      "subtype": "Pyramids",
+      "address": "Uhuru Gardens National Monument and Museum, Langata Road, Nairobi",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1598506148332-945781682c7f",
+      "tags": [
+        "modern monument",
+        "African heritage",
+        "unity"
+      ]
+    },
+    {
+      "id": "NAI-PYR-002",
+      "name": "The Ascent of Knowledge Pyramid",
+      "short_description": "A conceptual art installation in a university campus, designed as a stepped pyramid, symbolizing the journey of enlightenment and academic pursuit.",
+      "subtype": "Pyramids",
+      "address": "University of Nairobi Main Campus, Uhuru Highway",
+      "visiting_hours": "07:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1614741498851-f703554e580e",
+      "tags": [
+        "education",
+        "enlightenment",
+        "symbolic art"
+      ]
+    },
+    {
+      "id": "NAI-PYR-003",
+      "name": "Maasai Olorum Shrine (Pyramidal Cairn)",
+      "short_description": "A traditional Maasai-inspired stone cairn, built in a pyramidal shape, honoring Olorum (God) and representing the sacred mountains and connection to the divine.",
+      "subtype": "Pyramids",
+      "address": "KWS Safari Walk, Langata Road, Nairobi",
+      "visiting_hours": "08:30-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1607530638531-169b1e93c1cf",
+      "tags": [
+        "Maasai spiritual",
+        "cairn",
+        "divine connection"
+      ]
+    },
+    {
+      "id": "NAI-PYR-004",
+      "name": "The Healing Triangle Memorial",
+      "short_description": "A small, modern pyramidal memorial dedicated to peace and reconciliation, offering a quiet space for reflection and sending healing intentions.",
+      "subtype": "Pyramids",
+      "address": "Central Park, Uhuru Highway, Nairobi",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1540306121708-8e8e7c2f6d0f",
+      "tags": [
+        "peace",
+        "memorial",
+        "healing"
+      ]
+    },
+    {
+      "id": "NAI-CRS-001",
+      "name": "The Junction of Fate (CBD)",
+      "short_description": "Historically a significant meeting point for early traders and communities, this bustling intersection in the CBD is seen as a place where paths cross and destinies unfold.",
+      "subtype": "Crossroads",
+      "address": "Junction of Moi Avenue and Kenyatta Avenue, CBD, Nairobi",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620719810626-47b29a259c6c",
+      "tags": [
+        "urban energy",
+        "destiny",
+        "meeting point"
+      ]
+    },
+    {
+      "id": "NAI-CRS-002",
+      "name": "Kikuyu-Maasai Traditional Exchange Point",
+      "short_description": "A historical site near the outskirts, where Kikuyu farmers and Maasai pastoralists traditionally met for trade and cultural exchange, symbolizing unity amidst diversity.",
+      "subtype": "Crossroads",
+      "address": "Ngong Road, near Ngong Town",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628178726588-46c59b207567",
+      "tags": [
+        "cultural exchange",
+        "tradition",
+        "unity"
+      ]
+    },
+    {
+      "id": "NAI-CRS-003",
+      "name": "The Confluence of Souls (Arboretum)",
+      "short_description": "A tranquil spot within the Nairobi Arboretum where several walking paths converge, believed to be a point of spiritual convergence and quiet reflection on life's journey.",
+      "subtype": "Crossroads",
+      "address": "Nairobi Arboretum, Kilimani, Nairobi",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1600121175027-4c4f90111f18",
+      "tags": [
+        "reflection",
+        "pathways",
+        "nature"
+      ]
+    },
+    {
+      "id": "NAI-CRS-004",
+      "name": "Gikomba Market Energy Hub",
+      "short_description": "While a busy market, its chaotic energy and constant flow of people, goods, and stories make it a powerful cultural crossroads, embodying the spirit of resilient Nairobi life.",
+      "subtype": "Crossroads",
+      "address": "Gikomba Market, Kamukunji, Nairobi",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1636940822662-8433362a341b",
+      "tags": [
+        "market culture",
+        "urban life",
+        "resilience"
+      ]
+    }
+  ]
+}

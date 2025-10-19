@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Homa Bay",
+    "city_id": "2427"
+  },
+  "items": [
+    {
+      "id": "UNW001",
+      "name": "Rusinga Island's Singing Stones",
+      "short_description": "Discover peculiar rock formations on Rusinga Island, believed by locals to 'sing' with the wind, offering a unique auditory and visual experience.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Rusinga Island shoreline, near Tom Mboya Mausoleum",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1595168212168-980e15b6d929?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "rock formations",
+        "geology",
+        "island adventure"
+      ]
+    },
+    {
+      "id": "UNW002",
+      "name": "Mbita Causeways Submerged Forest",
+      "short_description": "Explore the eerie, partially submerged trees along the Mbita Causeway, remnants of a past flood, creating a hauntingly beautiful wetland landscape.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Mbita Causeway, along Lake Victoria",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1520624021708-5452d9a334e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "wetlands",
+        "unique landscape",
+        "birdwatching"
+      ]
+    },
+    {
+      "id": "UNW003",
+      "name": "Kanyamwa Escarpment Caves",
+      "short_description": "Venture into the ancient Kanyamwa Escarpment caves, natural formations offering cool respite and intriguing geological patterns overlooking Homa Bay.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Kanyamwa Escarpment, Homa Bay outskirts",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1623862215168-3011a62d51c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "caves",
+        "geology",
+        "hiking"
+      ]
+    },
+    {
+      "id": "UNW004",
+      "name": "God Nyachoda Rock",
+      "short_description": "Discover this legendary rock formation near Lake Victoria, revered by local communities and offering stunning views, shrouded in captivating folklore.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Sindo, near Lake Victoria shoreline",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1549725807-681b4715b34a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "folklore",
+        "rock formation",
+        "scenic view"
+      ]
+    },
+    {
+      "id": "FDS001",
+      "name": "Tilapia Tides Grill & Bar",
+      "short_description": "Savor the freshest Lake Victoria tilapia, expertly grilled and served with local 'ugali', right on the waterfront with breathtaking sunset views.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Homa Bay Pier, along the lake",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1606550974751-6c170669d07f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "local cuisine",
+        "fresh fish",
+        "waterfront dining"
+      ]
+    },
+    {
+      "id": "FDS002",
+      "name": "Dunga Delights Cafe",
+      "short_description": "A charming cafe in Dunga known for its aromatic Kenyan coffee, homemade pastries, and a cozy ambiance perfect for a relaxed afternoon.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Dunga, near the fishing village",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "coffee shop",
+        "pastries",
+        "local snacks"
+      ]
+    },
+    {
+      "id": "FDS003",
+      "name": "Mbita Rooftop Sundowners",
+      "short_description": "Enjoy panoramic views of the Mbita Causeway and Lake Victoria with refreshing cocktails and light bites from this chic rooftop bar.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Mbita Point, main town building",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1574305411707-1607590209f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "rooftop bar",
+        "cocktails",
+        "lake views"
+      ]
+    },
+    {
+      "id": "FDS004",
+      "name": "Mama P's Authentic Luo Kitchen",
+      "short_description": "Experience genuine Luo culinary traditions at this humble eatery, famous for its hearty servings of 'omena' (sardines) and chicken stew.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Homa Bay Town, near the main market",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628795904834-8c084f67c269?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "authentic cuisine",
+        "Luo food",
+        "local experience"
+      ]
+    },
+    {
+      "id": "IP001",
+      "name": "Lake Victoria Panorama Pool",
+      "short_description": "Dive into luxury at this infinity pool offering uninterrupted, expansive views of Lake Victoria's shimmering expanse, perfect for a relaxing escape.",
+      "subtype": "Infinity Pools",
+      "location_hint": "At a premier lodge on the Homa Bay hills",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1502691873091-a1288c42a278?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "luxury",
+        "lake view",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "IP002",
+      "name": "Rusinga Island Lakeside Oasis",
+      "short_description": "An exclusive infinity pool on Rusinga Island, blending seamlessly with the lake, providing a tranquil haven with stunning island and water vistas.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Rusinga Island Resort, Mbita",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549488344-9ad90e2f50f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "island resort",
+        "exclusive",
+        "tranquil"
+      ]
+    },
+    {
+      "id": "IP003",
+      "name": "Mbita Causeways Edge Pool",
+      "short_description": "Experience a unique swim at this infinity pool perched near the Mbita Causeway, offering dynamic views of boats, birds, and the engineering marvel.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Mbita Point Hotel, overlooking the causeway",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1594247514104-e350aa140ddf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "unique view",
+        "causeway",
+        "swimming"
+      ]
+    },
+    {
+      "id": "IP004",
+      "name": "Homa Bay Hills Retreat Pool",
+      "short_description": "Nestled in the serene Homa Bay hills, this infinity pool provides a peaceful escape with breathtaking views of the lush landscape and distant lake.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Homa Bay Hills Eco-Lodge, near the town",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1593414008107-1b0337c8651c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "hilltop views",
+        "eco-lodge",
+        "serenity"
+      ]
+    },
+    {
+      "id": "BCV001",
+      "name": "Luanda K'Otieno Ferry Beach",
+      "short_description": "More than just a ferry point, this expansive sandy stretch offers vibrant activity, stunning lake views, and a perfect spot to watch boats arrive.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Luanda K'Otieno, ferry terminal",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1620857731737-fb4a59f515d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "lake shore",
+        "ferry point",
+        "local life"
+      ]
+    },
+    {
+      "id": "BCV002",
+      "name": "Mbita Point Sunset Sands",
+      "short_description": "Relax on these golden sands at Mbita Point, offering postcard-perfect sunset views over Lake Victoria and the iconic causeway.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Mbita Point, near the causeway entrance",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1620857731737-fb4a59f515d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "sunset view",
+        "sandy beach",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "BCV003",
+      "name": "Rusinga Island Secret Cove",
+      "short_description": "Discover a secluded, tranquil cove on Rusinga Island, ideal for peaceful reflection, swimming, and capturing unspoiled lake scenery.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Northern Rusinga Island, hidden bay",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1543787399-6e3d069b61d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "secluded",
+        "swimming",
+        "island escape"
+      ]
+    },
+    {
+      "id": "BCV004",
+      "name": "Homa Bay Waterfront Promenade",
+      "short_description": "Stroll along Homa Bay's newly developed promenade, offering refreshing lake breezes, scenic views, and vibrant local activity.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Homa Bay Town, along the main bay",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1575820627549-b00693a652c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "promenade",
+        "lake walk",
+        "town views"
+      ]
+    },
+    {
+      "id": "SAM001",
+      "name": "Fisherman's Fable Mural",
+      "short_description": "A vibrant mural celebrating the life and legends of Lake Victoria fishermen, adorning a wall near the main Homa Bay pier.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Homa Bay Pier area",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596765792550-9c4c7c6a9b47?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "local culture",
+        "fishing art",
+        "colorful"
+      ]
+    },
+    {
+      "id": "SAM002",
+      "name": "Luo Heritage Wall",
+      "short_description": "Discover a series of intricate murals depicting the rich history, traditions, and iconic figures of the Luo community in Homa Bay's town center.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Homa Bay Town, near the cultural center",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1627915993883-cf2d2946f04c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "cultural art",
+        "heritage",
+        "urban exploration"
+      ]
+    },
+    {
+      "id": "SAM003",
+      "name": "Mbita Community Canvas",
+      "short_description": "A collaborative art project featuring colorful and hopeful murals created by local artists and residents, brightening the streets of Mbita.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Mbita Point, various walls",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1595168212168-980e15b6d929?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "community art",
+        "bright colors",
+        "local artists"
+      ]
+    },
+    {
+      "id": "SAM004",
+      "name": "Wildlife Wonders Alley",
+      "short_description": "An alleyway transformed into an outdoor gallery, showcasing stunning murals of Lake Victoria's diverse birdlife and aquatic creatures.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Homa Bay Town, behind the main road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1565430855673-a261c6b12d5d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "wildlife art",
+        "nature murals",
+        "hidden gem"
+      ]
+    },
+    {
+      "id": "FES001",
+      "name": "Homa Bay Fish Festival",
+      "short_description": "An annual celebration of Lake Victoria's bounty, featuring fishing competitions, culinary delights, traditional music, and vibrant parades.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Homa Bay Pier & Town Centre (Annual)",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1582218084803-fb13c9502047?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "local festival",
+        "food festival",
+        "cultural event"
+      ]
+    },
+    {
+      "id": "FES002",
+      "name": "Luo Cultural Extravaganza",
+      "short_description": "Immerse yourself in the rich Luo heritage with captivating traditional dances, storytelling, elaborate attire, and indigenous music performances.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Homa Bay Cultural Centre (Seasonal)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1588656755455-8a25c381c0ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "cultural show",
+        "traditional dance",
+        "Luo heritage"
+      ]
+    },
+    {
+      "id": "FES003",
+      "name": "Mbita Island Regatta",
+      "short_description": "Witness thrilling boat races and water sports around Mbita and Rusinga Islands, a vibrant spectacle celebrating the region's seafaring traditions.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Mbita Channel & Rusinga Island shores (Annual)",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1563870878-a28a3a0e1b1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "boat race",
+        "water sports",
+        "island event"
+      ]
+    },
+    {
+      "id": "FES004",
+      "name": "Harvest Moon Night Market",
+      "short_description": "A magical evening market featuring local crafts, organic produce, and live folk music under the moonlight, celebrating the local harvest.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Homa Bay Town Grounds (Quarterly)",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1560538059-46700c01d4a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "night market",
+        "harvest festival",
+        "live music"
+      ]
+    },
+    {
+      "id": "NB001",
+      "name": "Rusinga Island Panoramic Viewpoint",
+      "short_description": "Ascend to a high point on Rusinga Island for a breathtaking 360-degree panorama of Lake Victoria, its islands, and the distant mainland.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Rusinga Island, central hills",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1620857731737-fb4a59f515d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "lake view",
+        "island views",
+        "panoramic"
+      ]
+    },
+    {
+      "id": "NB002",
+      "name": "Kanyamwa Escarpment Vista",
+      "short_description": "Marvel at the dramatic cliffs and lush greenery of the Kanyamwa Escarpment, providing a stunning natural frame for Homa Bay and the lake beyond.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Kanyamwa Escarpment, viewpoint pull-off",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596765792550-9c4c7c6a9b47?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "cliffs",
+        "lush landscape",
+        "scenic overlook"
+      ]
+    },
+    {
+      "id": "NB003",
+      "name": "Mbita Causeway Bird Sanctuary",
+      "short_description": "The Mbita Causeway wetlands are a haven for diverse birdlife, offering serene backdrops of water and reeds with fishing boats gently passing by.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Mbita Causeway, along the water's edge",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596765792550-9c4c7c6a9b47?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "birdwatching",
+        "wetlands",
+        "calm waters"
+      ]
+    },
+    {
+      "id": "NB004",
+      "name": "Nyamgong'a Hills Grasslands",
+      "short_description": "Explore the rolling Nyamgong'a Hills, offering vast savannah grasslands and a sense of endless open skies, perfect for nature photography.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Outskirts of Homa Bay, Nyamgong'a area",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1593414008107-1b0337c8651c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "grasslands",
+        "savannah",
+        "open skies"
+      ]
+    },
+    {
+      "id": "MB001",
+      "name": "Homa Bay Central Market",
+      "short_description": "Immerse yourself in the bustling heart of Homa Bay, a vibrant market offering fresh produce, local crafts, textiles, and authentic interactions.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Homa Bay Town Centre",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1595168212168-980e15b6d929?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "local market",
+        "fresh produce",
+        "cultural shopping"
+      ]
+    },
+    {
+      "id": "MB002",
+      "name": "Mbita Fish Landing Site",
+      "short_description": "Witness the daily catch at this lively fish market where fishermen bring in their fresh haul from Lake Victoria – a true glimpse into local life.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Mbita Point, by the pier",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1620857731737-fb4a59f515d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "fish market",
+        "local life",
+        "fresh seafood"
+      ]
+    },
+    {
+      "id": "MB003",
+      "name": "Rusinga Island Crafts Hub",
+      "short_description": "Explore artisan workshops and stalls on Rusinga Island, showcasing intricate basketry, wood carvings, and jewelry made by local craftspeople.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Rusinga Island, near Tom Mboya Mausoleum",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549488344-9ad90e2f50f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "craft market",
+        "artisan goods",
+        "souvenirs"
+      ]
+    },
+    {
+      "id": "MB004",
+      "name": "Sindo Weekly Bazaar",
+      "short_description": "A vibrant weekly market in Sindo, known for its diverse array of agricultural produce, textiles, and lively atmosphere, popular with locals.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Sindo Town, main square (Weekly)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1560538059-46700c01d4a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "weekly market",
+        "produce",
+        "local experience"
+      ]
+    },
+    {
+      "id": "ISP001",
+      "name": "Homa Bay Waterfront Boardwalk",
+      "short_description": "Stroll along this beautifully designed boardwalk that hugs the Homa Bay shoreline, offering stunning lake views and a refreshing walk.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Homa Bay Town, adjacent to the lake",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1575820627549-b00693a652c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "boardwalk",
+        "scenic walk",
+        "lake views"
+      ]
+    },
+    {
+      "id": "ISP002",
+      "name": "Rusinga Island Hilltop Ascent",
+      "short_description": "Follow a winding pathway up a Rusinga Island hill to reach a historical site or viewpoint, offering rewarding panoramic vistas of the lake.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Rusinga Island, path to a higher ground",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1543787399-6e3d069b61d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "hiking",
+        "viewpoint",
+        "island path"
+      ]
+    },
+    {
+      "id": "ISP003",
+      "name": "Mbita Causeways Pedestrian Path",
+      "short_description": "Walk or cycle along the designated pedestrian path of the Mbita Causeway, providing unique perspectives of the lake and a connecting experience.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Mbita Causeway, Mbita Point",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1620857731737-fb4a59f515d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "walking path",
+        "causeway view",
+        "cycling"
+      ]
+    },
+    {
+      "id": "ISP004",
+      "name": "Kanyamwa Escarpment Cliffside Trail",
+      "short_description": "A rugged trail winding along the Kanyamwa Escarpment cliffs, offering dramatic views and an adventurous pathway for hikers.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Kanyamwa Escarpment, trail entrance",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596765792550-9c4c7c6a9b47?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "cliff trail",
+        "adventure",
+        "hiking"
+      ]
+    },
+    {
+      "id": "MA001",
+      "name": "Homa Bay County Assembly Building",
+      "short_description": "An impressive example of contemporary African architecture, blending modern design with local cultural elements in the heart of Homa Bay.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Homa Bay Town, government precinct",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1563870878-a28a3a0e1b1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "contemporary design",
+        "government building",
+        "urban landmark"
+      ]
+    },
+    {
+      "id": "MA002",
+      "name": "Lake Victoria Eco-Lodge Suites",
+      "short_description": "Discover sustainable luxury in these modern eco-friendly lodge suites, featuring innovative design that harmonizes with the natural lake environment.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Near Mbita Point, lakeside",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1549488344-9ad90e2f50f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "eco-design",
+        "sustainable",
+        "lodge architecture"
+      ]
+    },
+    {
+      "id": "MA003",
+      "name": "Mbita Innovation Hub",
+      "short_description": "A striking modern building serving as a center for local innovation and technology, with a sleek design that stands out in Mbita town.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Mbita Point, main road",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1574305411707-1607590209f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "innovation center",
+        "sleek design",
+        "urban development"
+      ]
+    },
+    {
+      "id": "MA004",
+      "name": "Rusinga Cultural Centre Refurbished Wing",
+      "short_description": "A newly renovated wing of the Rusinga Cultural Centre showcasing modern architectural elements while respecting traditional aesthetics, a cultural bridge.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Rusinga Island, near Tom Mboya Mausoleum",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1588656755455-8a25c381c0ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "cultural center",
+        "renovated",
+        "traditional modern blend"
+      ]
+    }
+  ]
+}

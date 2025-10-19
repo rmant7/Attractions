@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Kisumu",
+    "city_id": "2430"
+  },
+  "items": [
+    {
+      "id": "KMW-UNW-01",
+      "name": "Mystical Kit Mikayi Rocks",
+      "short_description": "Explore the legendary granite rock formations steeped in local folklore, offering breathtaking views of the surrounding landscape.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Kit Mikayi, just off Kisumu-Bondo Road",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kit_Mikayi_at_Sunrise.jpg/1200px-Kit_Mikayi_at_Sunrise.jpg",
+      "tags": [
+        "Folklore",
+        "Rock Formations",
+        "Panoramic Views"
+      ]
+    },
+    {
+      "id": "KMW-UNW-02",
+      "name": "Ndere Island's Wild Shores",
+      "short_description": "Discover Ndere Island National Park, a small, uninhabited island on Lake Victoria, boasting unique wildlife and untouched natural beauty.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Ndere Island National Park, Lake Victoria",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_small_Ndere_Island_national_park.jpg",
+      "tags": [
+        "Island Escape",
+        "Wildlife",
+        "Lake Victoria"
+      ]
+    },
+    {
+      "id": "KMW-UNW-03",
+      "name": "Dunga Papyrus Wetlands",
+      "short_description": "Wander through the unique papyrus wetlands at Dunga Beach, a distinctive ecosystem teeming with birdlife and offering a serene escape.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Dunga Beach, Kisumu",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1647492981944-d023cf8736d5?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Wetlands",
+        "Birdwatching",
+        "Nature Trails"
+      ]
+    },
+    {
+      "id": "KMW-UNW-04",
+      "name": "Kisumu Impala Sanctuary's Lakefront",
+      "short_description": "Experience the unique blend of wildlife and Lake Victoria's natural beauty within this sanctuary, featuring stunning lake views and protected species.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Kisumu Impala Sanctuary",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1619623192004-921606553256?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Wildlife Sanctuary",
+        "Lake Views",
+        "Ecosystem"
+      ]
+    },
+    {
+      "id": "KMW-CLN-01",
+      "name": "Jubilee Market's Vibrant Hues",
+      "short_description": "Immerse yourself in the kaleidoscope of colors at Kisumu's bustling Jubilee Market, where fresh produce, textiles, and local crafts create a lively spectacle.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Kisumu Jubilee Market, Oginga Odinga Street",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1620247963659-c290a6184ff5?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Market Life",
+        "Local Culture",
+        "Street Photography"
+      ]
+    },
+    {
+      "id": "KMW-CLN-02",
+      "name": "Dunga Fishing Village Charm",
+      "short_description": "Capture the rustic beauty of Dunga's fishing boats and nets, painted in vibrant colors against the backdrop of Lake Victoria, a true local gem.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Dunga Fishing Village, Kisumu",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596205739815-e215e98544b8?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Fishing Village",
+        "Lakeside",
+        "Boats"
+      ]
+    },
+    {
+      "id": "KMW-CLN-03",
+      "name": "Kondele's Lively Streets",
+      "short_description": "Experience the energetic pulse of Kondele, a dynamic Kisumu neighborhood known for its bustling street vendors, roadside shops, and vibrant local life.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Kondele, Kisumu",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1634639706342-998ae614362a?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Street Scenes",
+        "Local Vendors",
+        "Urban Exploration"
+      ]
+    },
+    {
+      "id": "KMW-CLN-04",
+      "name": "Kisumu Museum's Cultural Boma",
+      "short_description": "Step into the vibrant re-creation of traditional homesteads at the Kisumu Museum, showcasing colorful tribal huts and artifacts that tell a story.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Kisumu Museum Grounds",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Traditional_luhya_homestead_at_Kisumu_museum.jpg/1280px-Traditional_luhya_homestead_at_Kisumu_museum.jpg",
+      "tags": [
+        "Cultural Heritage",
+        "Traditional Huts",
+        "Museum"
+      ]
+    },
+    {
+      "id": "KMW-NBB-01",
+      "name": "Lake Victoria Sunset at Dunga",
+      "short_description": "Witness the iconic African sunset over Lake Victoria from Dunga Beach, painting the sky in fiery hues, perfect for a memorable photograph.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Dunga Beach, Kisumu",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1658428178825-f71691238d2f?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Sunset Views",
+        "Lake Victoria",
+        "Serene"
+      ]
+    },
+    {
+      "id": "KMW-NBB-02",
+      "name": "Impala Sanctuary's Lush Greens",
+      "short_description": "Pose against the vibrant natural scenery of Kisumu Impala Sanctuary, featuring lush vegetation, grazing impalas, and the shimmering lake.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Kisumu Impala Sanctuary",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1620247963659-c290a6184ff5?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Wildlife",
+        "Greenery",
+        "Nature Photography"
+      ]
+    },
+    {
+      "id": "KMW-NBB-03",
+      "name": "Riat Hills Panoramic Views",
+      "short_description": "Ascend to Riat Hills for expansive panoramic views of Kisumu city, Lake Victoria, and the distant landscapes, a breathtaking natural backdrop.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Riat Hills, outskirts of Kisumu",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1658428236162-8f6a9e144a4d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Hilltop Views",
+        "Cityscape",
+        "Lake Views"
+      ]
+    },
+    {
+      "id": "KMW-NBB-04",
+      "name": "Lwanda K'Otieno Lakeside",
+      "short_description": "Discover the tranquil beauty of the lakeside area near Lwanda K'Otieno ferry terminal, offering untouched natural backdrops of the lake and distant islands.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Lwanda K'Otieno Ferry Terminal area",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1658428178825-f71691238d2f?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Lakeside",
+        "Rural Beauty",
+        "Tranquil"
+      ]
+    },
+    {
+      "id": "KMW-RTV-01",
+      "name": "Acacia Premier Rooftop Lounge",
+      "short_description": "Enjoy spectacular city and lake views from the sophisticated rooftop bar and lounge of Acacia Premier Hotel, especially enchanting at sunset.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Acacia Premier Hotel, Achieng Oneko Rd",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1594951010078-d56ee933a201?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Luxury",
+        "City Views",
+        "Sunset Drinks"
+      ]
+    },
+    {
+      "id": "KMW-RTV-02",
+      "name": "The Vic Hotel's Sky Deck",
+      "short_description": "Ascend to The Vic Hotel's upper floors for expansive vistas of Kisumu city, offering a modern perspective of the urban landscape.",
+      "subtype": "Rooftop Views",
+      "location_hint": "The Vic Hotel, Nyerere Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1557997327-142289634d28?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Urban Views",
+        "Hotel Views",
+        "Modern"
+      ]
+    },
+    {
+      "id": "KMW-RTV-03",
+      "name": "Grand Royal Swiss Hotel Terrace",
+      "short_description": "Capture stunning panoramic views from the elegant terraces of the Grand Royal Swiss Hotel, overlooking the city and its green surroundings.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Grand Royal Swiss Hotel, off Kisumu-Kakamega Highway",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1563911075345-0371465227d8?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "High-End",
+        "Panoramic",
+        "Evening Views"
+      ]
+    },
+    {
+      "id": "KMW-RTV-04",
+      "name": "Sip & Dip Lounge Rooftop",
+      "short_description": "A popular spot known for its vibrant ambiance and refreshing drinks, offering a great vantage point for urban photography and city lights.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Sip & Dip Lounge, Milimani",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1514949219356-02e4d0d5b7a1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Nightlife",
+        "City Lights",
+        "Social Spot"
+      ]
+    },
+    {
+      "id": "KMW-HAC-01",
+      "name": "Kisumu Art House Courtyard",
+      "short_description": "Seek out the serene inner courtyard of a local art house or gallery (conceptual), a tranquil oasis showcasing local art amidst lush greenery.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Hypothetical: A local art space in Milimani",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582234057630-6b6f3c1d1a6d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Art Space",
+        "Tranquil",
+        "Green Oasis"
+      ]
+    },
+    {
+      "id": "KMW-HAC-02",
+      "name": "Jubilee Market's Secret Lanes",
+      "short_description": "Discover the less-trodden pathways and back alleys within Jubilee Market, revealing unique vendor stalls and authentic local interactions.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Jubilee Market, Kisumu",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1536737526743-1cf0e4a77e5e?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Market Discovery",
+        "Local Life",
+        "Authentic"
+      ]
+    },
+    {
+      "id": "KMW-HAC-03",
+      "name": "Old Post Office Inner Yard",
+      "short_description": "Explore the quaint, perhaps slightly overgrown, inner courtyard of Kisumu's colonial-era Post Office, a quiet retreat from the city's bustle.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Old Post Office, Oginga Odinga Street",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1506452140889-72a39498a44d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Colonial Charm",
+        "Historic",
+        "Quiet Spot"
+      ]
+    },
+    {
+      "id": "KMW-HAC-04",
+      "name": "Cultural Centre Alcoves",
+      "short_description": "Find interesting nooks and pathways within a local cultural center, perhaps adorned with traditional art or small craft shops.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Dunga Hill Camp cultural sections / Kisumu Cultural Centre",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1579783900760-b6f10c3f0b2f?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Cultural Spot",
+        "Crafts",
+        "Intimate"
+      ]
+    },
+    {
+      "id": "KMW-IFP-01",
+      "name": "Acacia Premier Infinity Pool",
+      "short_description": "Swim in the stunning infinity pool at Acacia Premier Hotel, offering uninterrupted views of Kisumu and a luxurious escape.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Acacia Premier Hotel, Achieng Oneko Rd",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1563911302832-60e0a5c2d338?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Luxury Pool",
+        "Cityscape",
+        "Relaxation"
+      ]
+    },
+    {
+      "id": "KMW-IFP-02",
+      "name": "The Vic Hotel Infinity Edge",
+      "short_description": "Experience the stylish infinity pool at The Vic Hotel, merging with the horizon and providing a chic setting for relaxation and photography.",
+      "subtype": "Infinity Pools",
+      "location_hint": "The Vic Hotel, Nyerere Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1587739506691-6a2d100c5ee3?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Modern Pool",
+        "Chic",
+        "Hotel Stay"
+      ]
+    },
+    {
+      "id": "KMW-IFP-03",
+      "name": "Grand Royal Swiss Poolside",
+      "short_description": "Indulge in the grand infinity pool at Grand Royal Swiss Hotel, framed by elegant architecture and offering serene views.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Grand Royal Swiss Hotel, off Kisumu-Kakamega Highway",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1594241617300-47edca28e574?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Resort Pool",
+        "Elegant",
+        "Tranquil Swim"
+      ]
+    },
+    {
+      "id": "KMW-IFP-04",
+      "name": "Ciala Resort's Scenic Pool",
+      "short_description": "Escape to Ciala Resort, a short drive from Kisumu, to enjoy its beautifully designed infinity pool with scenic views of the surrounding countryside.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Ciala Resort, Kisumu-Busia Road",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1569427181514-6c39832d2035?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Resort Getaway",
+        "Country Views",
+        "Exclusive"
+      ]
+    },
+    {
+      "id": "KMW-HIA-01",
+      "name": "Kisumu Railway Station",
+      "short_description": "Step back in time at the colonial-era Kisumu Railway Station, a beautifully preserved architectural gem from the East African Railway's golden age.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Kisumu Railway Station, Oginga Odinga St",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_old_Kisumu_Railway_station_building.jpg/1280px-The_old_Kisumu_Railway_station_building.jpg",
+      "tags": [
+        "Colonial",
+        "Railway History",
+        "Heritage"
+      ]
+    },
+    {
+      "id": "KMW-HIA-02",
+      "name": "All Saints Cathedral",
+      "short_description": "Admire the impressive stone facade and intricate details of All Saints Cathedral, a significant historic church reflecting early 20th-century colonial design.",
+      "subtype": "Historic Architecture",
+      "location_hint": "All Saints Cathedral, Kisumu",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/All_Saints%27_Cathedral%2C_Kisumu.jpg/1024px-All_Saints%27_Cathedral%2C_Kisumu.jpg",
+      "tags": [
+        "Church",
+        "Colonial",
+        "Religious Landmark"
+      ]
+    },
+    {
+      "id": "KMW-HIA-03",
+      "name": "Kisumu Law Courts",
+      "short_description": "Witness the grandeur of the Kisumu Law Courts, a imposing structure that stands as a testament to colonial administration and architectural prowess.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Kisumu Law Courts, Court Road",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kisumu_law_court.jpg/1280px-Kisumu_law_court.jpg",
+      "tags": [
+        "Government Building",
+        "Colonial",
+        "Grand Structure"
+      ]
+    },
+    {
+      "id": "KMW-HIA-04",
+      "name": "Old Kisumu Post Office",
+      "short_description": "Capture the charm of the Old Kisumu Post Office, a well-preserved building that echoes the city's past with its distinctive colonial design.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Old Post Office, Oginga Odinga Street",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kisumu_Post_Office.jpg",
+      "tags": [
+        "Heritage Site",
+        "Colonial",
+        "Public Building"
+      ]
+    },
+    {
+      "id": "KMW-ISP-01",
+      "name": "Impala Sanctuary Boardwalk",
+      "short_description": "Stroll along the picturesque wooden boardwalk at Kisumu Impala Sanctuary, offering stunning lakeside views and encounters with resident wildlife.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Kisumu Impala Sanctuary",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596205739815-e215e98544b8?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Nature Walk",
+        "Lakeside",
+        "Wildlife Spotting"
+      ]
+    },
+    {
+      "id": "KMW-ISP-02",
+      "name": "Kisumu Museum Sculpture Garden Path",
+      "short_description": "Wander through the artfully arranged pathways of the Kisumu Museum's outdoor sculpture garden, a blend of culture and nature.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Kisumu Museum Grounds",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kisumu_Museum_grounds.jpg/1024px-Kisumu_Museum_grounds.jpg",
+      "tags": [
+        "Museum Garden",
+        "Sculptures",
+        "Cultural Walk"
+      ]
+    },
+    {
+      "id": "KMW-ISP-03",
+      "name": "Grand Royal Swiss Hotel Grand Staircase",
+      "short_description": "Descend or ascend the elegant, sweeping staircase inside the Grand Royal Swiss Hotel, a photogenic spot for luxury and grandeur.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Grand Royal Swiss Hotel Lobby",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1596701831885-2675b34032d6?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Luxury Interior",
+        "Hotel",
+        "Elegant"
+      ]
+    },
+    {
+      "id": "KMW-ISP-04",
+      "name": "Jomo Kenyatta Sports Ground Steps",
+      "short_description": "The grand steps leading into the Jomo Kenyatta Sports Ground provide an impressive architectural feature, ideal for dynamic shots and wide angles.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Jomo Kenyatta Sports Ground, Mamboleo",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jomo_Kenyatta_International_Stadium.jpg/1280px-Jomo_Kenyatta_International_Stadium.jpg",
+      "tags": [
+        "Stadium",
+        "Public Space",
+        "Architectural"
+      ]
+    },
+    {
+      "id": "KMW-BNO-01",
+      "name": "Riat Hills Overlook",
+      "short_description": "Perched on Riat Hills, this overlook offers breathtaking panoramic views of Kisumu City, Lake Victoria, and the sprawling landscape below.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Riat Hills, Kisumu",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1658428236162-8f6a9e144a4d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Panoramic",
+        "City Views",
+        "Scenic Drive"
+      ]
+    },
+    {
+      "id": "KMW-BNO-02",
+      "name": "Dunga Beach Viewpoint",
+      "short_description": "A popular spot at Dunga Beach to watch the fishermen and take in the expansive views of Lake Victoria and its vibrant activity.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Dunga Beach, Kisumu",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1608752243708-3004d4133405?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Lakeside",
+        "Local Life",
+        "Observation Point"
+      ]
+    },
+    {
+      "id": "KMW-BNO-03",
+      "name": "Kisumu Airport Flyover",
+      "short_description": "A modern architectural marvel, the flyover near Kisumu International Airport provides interesting angles and a glimpse of the city's infrastructure.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Kisumu International Airport Road",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1597561875141-8f4356e7240c?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Modern Infrastructure",
+        "Urban",
+        "Roadway"
+      ]
+    },
+    {
+      "id": "KMW-BNO-04",
+      "name": "Oile Park Pedestrian Bridge",
+      "short_description": "Cross the charming pedestrian bridge within Oile Park, offering pleasant views of the park's greenery and the city's bustling center.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Oile Park, Kisumu",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1506452140889-72a39498a44d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Park",
+        "Pedestrian",
+        "City Greenery"
+      ]
+    },
+    {
+      "id": "KMW-MOD-01",
+      "name": "United Mall Facade",
+      "short_description": "Showcasing sleek lines and contemporary design, United Mall's exterior offers a prime example of modern commercial architecture in Kisumu.",
+      "subtype": "Modern Architecture",
+      "location_hint": "United Mall, Oginga Odinga Street",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1588607621102-171b3152c1fe?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Shopping Mall",
+        "Contemporary",
+        "Urban Landmark"
+      ]
+    },
+    {
+      "id": "KMW-MOD-02",
+      "name": "Kisumu International Airport Terminal",
+      "short_description": "Experience the contemporary design of the Kisumu International Airport Terminal, a symbol of the city's growth and connectivity.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Kisumu International Airport",
+      "best_time": "Daytime",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Kisumu_International_Airport.jpg",
+      "tags": [
+        "Airport",
+        "Infrastructure",
+        "Modern Design"
+      ]
+    },
+    {
+      "id": "KMW-MOD-03",
+      "name": "Mega Plaza Tower",
+      "short_description": "The towering Mega Plaza stands out with its multi-story modern design, a prominent feature of Kisumu's evolving skyline.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Mega Plaza, Oginga Odinga Street",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549429440-b6a380e227a9?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Skyscraper",
+        "Commercial",
+        "Urban"
+      ]
+    },
+    {
+      "id": "KMW-MOD-04",
+      "name": "Acacia Premier Hotel Exterior",
+      "short_description": "The sleek, glass-paneled exterior of Acacia Premier Hotel represents modern luxury, reflecting the Kisumu sky and offering clean, architectural lines.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Acacia Premier Hotel, Achieng Oneko Rd",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1563911075345-0371465227d8?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "Hotel",
+        "Glass Facade",
+        "Luxury"
+      ]
+    }
+  ]
+}

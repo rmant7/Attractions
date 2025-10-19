@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Nouadhibou",
+    "city_id": "2421"
+  },
+  "items": [
+    {
+      "id": "NDB_B01",
+      "name": "Cap Blanc Scenic Vista",
+      "short_description": "Perched at the edge of the iconic Cap Blanc peninsula, this viewpoint offers breathtaking panoramas where the vast desert meets the Atlantic's azure expanse. Spot diverse birdlife and perhaps even marine mammals from above.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Cap Blanc Peninsula",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/CapBlancNouadhibou.jpg",
+      "tags": [
+        "coastal views",
+        "wildlife",
+        "panoramic"
+      ]
+    },
+    {
+      "id": "NDB_UW01",
+      "name": "Nouadhibou Ship Graveyard",
+      "short_description": "Witness an otherworldly landscape where hundreds of abandoned vessels, from fishing boats to cargo ships, slowly rust into the shallow waters. It's a hauntingly beautiful testament to time and the elements, unlike anywhere else.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Bay of Nouadhibou",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nouadhibou_ship_graveyard.jpg",
+      "tags": [
+        "abandoned places",
+        "eerie beauty",
+        "unique landscape"
+      ]
+    },
+    {
+      "id": "NDB_FE01",
+      "name": "Grand Marché de Nouadhibou",
+      "short_description": "Immerse yourself in the vibrant chaos and rich sensory experience of Nouadhibou's main market. A kaleidoscope of colors, sounds, and aromas, it's where local life truly unfolds and an authentic cultural event in itself.",
+      "subtype": "Festivals & Events",
+      "location_hint": "City Center",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/5638848/pexels-photo-5638848.jpeg",
+      "tags": [
+        "local culture",
+        "bustling market",
+        "street photography"
+      ]
+    },
+    {
+      "id": "NDB_HA01",
+      "name": "Old Quarter's Souk Passages",
+      "short_description": "Wander through the narrow, winding alleys of Nouadhibou's older residential and commercial quarter. Discover hidden shops, traditional homes, and a quiet charm away from the main thoroughfares.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Koudia District (Old Quarter)",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Rue_dans_le_koudia_de_Nouadhibou.jpg",
+      "tags": [
+        "historic district",
+        "local life",
+        "charming alleys"
+      ]
+    },
+    {
+      "id": "NDB_CI01",
+      "name": "Traditional Fishing Dhow Display",
+      "short_description": "Along the waterfront, find beautifully preserved traditional Mauritanian fishing dhows, often adorned with colorful patterns. These installations celebrate the city's deep connection to the sea and its ancient fishing heritage.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Port Area Waterfront",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fishing_boat_Nouadhibou.jpg/1024px-Fishing_boat_Nouadhibou.jpg",
+      "tags": [
+        "maritime heritage",
+        "local craftsmanship",
+        "photogenic boats"
+      ]
+    },
+    {
+      "id": "NDB_RV01",
+      "name": "Portside Horizon Terrace",
+      "short_description": "Ascend to a high vantage point overlooking Nouadhibou's bustling port and the vast Atlantic beyond. Enjoy a refreshing drink as you watch ships come and go, with the city lights twinkling as dusk settles.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Central Port District",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg",
+      "tags": [
+        "cityscape",
+        "ocean views",
+        "relaxing atmosphere"
+      ]
+    },
+    {
+      "id": "NDB_NB01",
+      "name": "Desert Meets Ocean Dune Panorama",
+      "short_description": "Just outside the city, witness the dramatic convergence of golden Saharan dunes cascading directly into the vibrant blue of the Atlantic Ocean. This rare landscape provides an epic backdrop for unforgettable photographs.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Coastal Desert Fringe (North of city)",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Dune_de_sable_se_jetant_dans_l%27oc%C3%A9an_en_Mauritanie.jpg",
+      "tags": [
+        "desert landscape",
+        "oceanic fusion",
+        "natural wonder"
+      ]
+    },
+    {
+      "id": "NDB_BC01",
+      "name": "Plage de l'Océan",
+      "short_description": "Discover long stretches of golden sand and tranquil waters along Nouadhibou's Atlantic coast. Ideal for a peaceful stroll, beachcombing, or simply soaking in the serene coastal ambiance away from the city's bustle.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "North Coast Road",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Beach_Nouadhibou.jpg",
+      "tags": [
+        "pristine beach",
+        "seaside serenity",
+        "coastal walk"
+      ]
+    },
+    {
+      "id": "NDB_IP01",
+      "name": "Cap Blanc Oasis Resort Pool",
+      "short_description": "Indulge in a luxurious escape at this imagined oasis, where a stunning infinity pool appears to merge seamlessly with the vast Atlantic Ocean. Enjoy panoramic views and unparalleled relaxation in a sophisticated setting.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Hypothetical: Cap Blanc Resort Area",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/1287460/pexels-photo-1287460.jpeg",
+      "tags": [
+        "luxury escape",
+        "oceanfront",
+        "resort lifestyle"
+      ]
+    },
+    {
+      "id": "NDB_UH01",
+      "name": "Residence des Pêcheurs Eco-Lodge",
+      "short_description": "Experience the charm of a beachfront eco-lodge designed with local aesthetics and sustainability in mind. Offering a blend of comfort and authentic Mauritanian hospitality, it's a unique stay close to nature.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Coastal Outskirts (South of city)",
+      "best_time": "Night",
+      "images": "https://images.pexels.com/photos/3225531/pexels-photo-3225531.jpeg",
+      "tags": [
+        "eco-friendly",
+        "boutique stay",
+        "cultural immersion"
+      ]
+    }
+  ]
+}

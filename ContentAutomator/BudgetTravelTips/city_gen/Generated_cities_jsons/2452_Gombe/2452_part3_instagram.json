@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Gombe",
+    "city_id": "2452"
+  },
+  "items": [
+    {
+      "id": "GOMFEST001",
+      "name": "Gombe Durbar Spectacle",
+      "short_description": "Witness the vibrant and regal display of horsemanship, a cherished cultural tradition of the North. Decorated horses and riders parade in magnificent attire, celebrating heritage.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Emir's Palace Square, Gombe",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Durbar_Festival_in_Katsina%2C_Nigeria_-_01.jpg",
+      "tags": [
+        "culture",
+        "festival",
+        "horses"
+      ]
+    },
+    {
+      "id": "GOMFEST002",
+      "name": "Kaltungo Cultural Fiesta",
+      "short_description": "Experience the rich tapestry of Kaltungo's traditions with lively dances, traditional music, and colorful costumes. A true immersion into local Gombe heritage.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Kaltungo LGA Grounds",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Culture_Display.jpg",
+      "tags": [
+        "tradition",
+        "dance",
+        "community"
+      ]
+    },
+    {
+      "id": "GOMFEST003",
+      "name": "Tula Water & Harvest Festival",
+      "short_description": "A celebratory event around the life-giving waters of Tula, honoring the annual harvest with traditional rituals, songs, and communal feasts. Captures the spirit of rural Gombe.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Tula Plateau, near Kaltungo",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596489397635-43a9b1c78216",
+      "tags": [
+        "harvest",
+        "nature",
+        "locallife"
+      ]
+    },
+    {
+      "id": "GOMFEST004",
+      "name": "Gombe Arts & Crafts Fair",
+      "short_description": "Explore a vibrant showcase of Gombe's artistic talent, featuring intricate local crafts, traditional textiles, and contemporary artworks. Perfect for finding unique souvenirs.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Gombe Township Stadium Annexe",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1629853315904-741ce695e1e1",
+      "tags": [
+        "artisan",
+        "crafts",
+        "souvenirs"
+      ]
+    },
+    {
+      "id": "GOMFLWR001",
+      "name": "Gombe University Botanical Garden",
+      "short_description": "A tranquil oasis brimming with diverse flora, offering a peaceful escape and a feast for the eyes. Ideal for nature lovers and leisurely strolls.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Gombe State University Campus",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1517441223963-c3c727048123",
+      "tags": [
+        "botanical",
+        "nature",
+        "serenity"
+      ]
+    },
+    {
+      "id": "GOMFLWR002",
+      "name": "Government House Rose Garden",
+      "short_description": "Discover a meticulously maintained garden boasting a stunning array of rose varieties in full bloom. Its beauty provides a picturesque backdrop for photos.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Behind Government House",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1506198642289-53e7f60032e4",
+      "tags": [
+        "roses",
+        "formal",
+        "beauty"
+      ]
+    },
+    {
+      "id": "GOMFLWR003",
+      "name": "Emir's Palace Serene Gardens",
+      "short_description": "Nestled within the royal grounds, these historic gardens offer a blend of traditional landscaping and vibrant blossoms. A quiet spot steeped in grandeur.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Emir's Palace Complex",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1594589098939-2c70d473b1d3",
+      "tags": [
+        "royal",
+        "historic",
+        "peaceful"
+      ]
+    },
+    {
+      "id": "GOMFLWR004",
+      "name": "Airstrip Road Bougainvillea Lanes",
+      "short_description": "The roadsides burst with cascades of colorful bougainvillea, creating vibrant tunnels of pinks, purples, and oranges. A simple yet stunning roadside attraction.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Along Airstrip Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1587820684128-66487e492211",
+      "tags": [
+        "bougainvillea",
+        "urbanbeauty",
+        "colorful"
+      ]
+    },
+    {
+      "id": "GOMART001",
+      "name": "Pantami Stadium Sports Murals",
+      "short_description": "Dynamic and inspiring murals adorn the exterior walls of Pantami Stadium, celebrating local sports heroes and the spirit of athleticism in Gombe.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Pantami Township Stadium",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1580252875150-13f8c8585e82",
+      "tags": [
+        "sports",
+        "urbanart",
+        "inspiration"
+      ]
+    },
+    {
+      "id": "GOMART002",
+      "name": "Main Market Life Murals",
+      "short_description": "Vibrant and detailed murals depicting daily life and market scenes can be found on walls around Gombe Main Market. They tell stories of local commerce and culture.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Gombe Main Market periphery",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1577741300894-edc702d75f64",
+      "tags": [
+        "marketlife",
+        "culture",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "GOMART003",
+      "name": "Biu Road Underpass Gallery",
+      "short_description": "The underpass walls along Biu Road have been transformed into a public art gallery, featuring various themes by local artists. A hidden gem of urban expression.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Biu Road Underpass",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1616781206169-4e76a6b18973",
+      "tags": [
+        "underpass",
+        "communityart",
+        "urban"
+      ]
+    },
+    {
+      "id": "GOMART004",
+      "name": "Youth Centre Graffiti Wall",
+      "short_description": "A dynamic and ever-evolving graffiti wall at the Gombe Youth Centre, showcasing modern street art and contemporary expressions from the city's young talents.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Gombe Youth Development Centre",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549887707-c10443d31481",
+      "tags": [
+        "graffiti",
+        "youthculture",
+        "modernart"
+      ]
+    },
+    {
+      "id": "GOMHLN001",
+      "name": "Old Gombe Town's Labyrinthine Alleys",
+      "short_description": "Step into a bygone era as you wander through narrow, winding alleys of old Gombe, revealing traditional mud-brick homes and a sense of timeless charm.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Old Gombe Quarter",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1610427382103-6e3a9c733362",
+      "tags": [
+        "historic",
+        "traditional",
+        "exploring"
+      ]
+    },
+    {
+      "id": "GOMHLN002",
+      "name": "Emir's Palace Inner Courtyard",
+      "short_description": "A secluded and serene courtyard within the Emir's Palace, featuring intricate architectural details and a peaceful ambiance. A glimpse into royal solitude.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Emir's Palace Complex",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582285199696-6d5b0606f36b",
+      "tags": [
+        "royal",
+        "architecture",
+        "tranquil"
+      ]
+    },
+    {
+      "id": "GOMHLN003",
+      "name": "Central Mosque's Quiet Courtyard",
+      "short_description": "Discover a large, peaceful courtyard surrounded by the grand architecture of Gombe Central Mosque. It's a place for reflection and appreciating Islamic design.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Gombe Central Mosque",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596706076214-e0b4a7063467",
+      "tags": [
+        "mosque",
+        "islamicart",
+        "peace"
+      ]
+    },
+    {
+      "id": "GOMHLN004",
+      "name": "Artisan Quarters Backstreets",
+      "short_description": "Stroll through the backstreets of Gombe's artisan quarters, where craftsmen work in their workshops and unique local goods can be discovered off the beaten path.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Kasuwar Baki area",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1565152345564-9d519d08e5c8",
+      "tags": [
+        "craftsmanship",
+        "local",
+        "authentic"
+      ]
+    },
+    {
+      "id": "GOMHIS001",
+      "name": "Gombe Emir's Palace",
+      "short_description": "A magnificent example of traditional Hausa-Fulani architecture, the Emir's Palace is the seat of the Gombe Emirate and a striking symbol of local heritage.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Gombe City Centre",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/27/The_Emirs_Palace_in_Gombe_state_Nigeria.jpg",
+      "tags": [
+        "palace",
+        "traditional",
+        "heritage"
+      ]
+    },
+    {
+      "id": "GOMHIS002",
+      "name": "Old Divisional Office",
+      "short_description": "This colonial-era building stands as a testament to Gombe's administrative past. Its unique architectural style offers a glimpse into Nigeria's pre-independence history.",
+      "subtype": "Historic Architecture",
+      "location_hint": "GRA, Gombe",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Colonial_era_building_in_Lagos%2C_Nigeria.jpg",
+      "tags": [
+        "colonial",
+        "history",
+        "architecture"
+      ]
+    },
+    {
+      "id": "GOMHIS003",
+      "name": "Gombe Central Mosque",
+      "short_description": "An imposing and beautifully designed mosque, serving as a spiritual landmark in Gombe. Its grand minarets and intricate details are a sight to behold.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Gombe City Centre",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Central_mosque_Gombe_state.jpg",
+      "tags": [
+        "mosque",
+        "religious",
+        "landmark"
+      ]
+    },
+    {
+      "id": "GOMHIS004",
+      "name": "Dukku Emirate Old Residence",
+      "short_description": "Further afield, this historic residence in Dukku showcases traditional rural emirate architecture. Its weathered walls tell stories of generations past.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Dukku Town",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Emir%27s_Palace%2C_Zaria_1.jpg/800px-Emir%27s_Palace%2C_Zaria_1.jpg",
+      "tags": [
+        "ruralhistory",
+        "traditionalhome",
+        "ancient"
+      ]
+    },
+    {
+      "id": "GOMMKT001",
+      "name": "Gombe Main Market",
+      "short_description": "Immerse yourself in the bustling energy of Gombe's central market, a vibrant hub where local goods, fresh produce, and unique crafts are traded daily.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Abacha Road, Gombe",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gombe_market_Abacha_road.jpg",
+      "tags": [
+        "bustling",
+        "localgoods",
+        "marketlife"
+      ]
+    },
+    {
+      "id": "GOMMKT002",
+      "name": "Kasuwan Mata (Women's Market)",
+      "short_description": "A lively market predominantly run by women, offering a colorful array of textiles, household items, and traditional foods. Experience a unique community spirit.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Near Bolari area",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1537233800268-b7887d19a4e8",
+      "tags": [
+        "womenentrepreneurs",
+        "textiles",
+        "community"
+      ]
+    },
+    {
+      "id": "GOMMKT003",
+      "name": "Artisan Craft Bazaar",
+      "short_description": "Discover a treasure trove of handmade goods, from intricately carved wooden items to beautiful beaded jewelry. Support local artisans and find authentic Gombe souvenirs.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Opposite General Hospital",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1520638023360-640a33a38891",
+      "tags": [
+        "crafts",
+        "handmade",
+        "souvenirs"
+      ]
+    },
+    {
+      "id": "GOMMKT004",
+      "name": "Mile 3 Daily Produce Market",
+      "short_description": "A bustling local market specializing in fresh farm produce, spices, and local foodstuffs. Perfect for experiencing the everyday culinary heart of Gombe.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Mile 3 area, along Bajoga Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1543152661-897ad7697b0a",
+      "tags": [
+        "freshproduce",
+        "foodmarket",
+        "localflavor"
+      ]
+    },
+    {
+      "id": "GOMBRDG001",
+      "name": "Dadinkowa Dam Overlook",
+      "short_description": "Marvel at the expansive Dadinkowa Dam and its vast reservoir from a scenic overlook. The panoramic views of water and surrounding hills are truly breathtaking.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Dadinkowa, near Gombe",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Dadinkowa_Dam.jpg",
+      "tags": [
+        "dam",
+        "reservoir",
+        "panoramic"
+      ]
+    },
+    {
+      "id": "GOMBRDG002",
+      "name": "Gombe Hills Panoramic Viewpoint",
+      "short_description": "Ascend to a natural viewpoint in the Gombe Hills for spectacular panoramic views of the city skyline and surrounding savannah. Ideal for capturing sunsets.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Gombe Hills outskirts",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1598282361138-038c92f582d9",
+      "tags": [
+        "hills",
+        "cityscape",
+        "viewpoint"
+      ]
+    },
+    {
+      "id": "GOMBRDG003",
+      "name": "Kumo-Gombe Road Modern Bridge",
+      "short_description": "An impressive modern bridge connecting Gombe to Kumo, offering interesting architectural lines and a unique perspective of the landscape as you cross.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Kumo-Gombe Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1627582496294-85590916d552",
+      "tags": [
+        "modernarchitecture",
+        "infrastructure",
+        "roadtrip"
+      ]
+    },
+    {
+      "id": "GOMBRDG004",
+      "name": "Gombe Stream Crossing Footbridge",
+      "short_description": "A charming, rustic footbridge spanning a local stream, offering a peaceful natural setting and a picturesque spot for quiet reflection amidst greenery.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near Pantami Village",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1574041133038-16e6f1f440a7",
+      "tags": [
+        "nature",
+        "footbridge",
+        "serene"
+      ]
+    },
+    {
+      "id": "GOMFOOD001",
+      "name": "Jalo's Kitchen: Authentic Gombe Delights",
+      "short_description": "Savor the true flavors of Gombe with traditional Northern Nigerian cuisine. Jalo's Kitchen offers a cozy atmosphere and dishes prepared with local ingredients.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Behind Federal Secretariat",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1591410141696-98835f8fc31b",
+      "tags": [
+        "localcuisine",
+        "authentic",
+        "northernnigerian"
+      ]
+    },
+    {
+      "id": "GOMFOOD002",
+      "name": "The Gombe Grill & Lounge",
+      "short_description": "A modern and chic spot perfect for an evening out, offering a mix of continental and local grilled dishes. Enjoy a vibrant ambiance with friends.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "GRA Area",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1563612089-9a7000e47997",
+      "tags": [
+        "grill",
+        "modern",
+        "nightlife"
+      ]
+    },
+    {
+      "id": "GOMFOOD003",
+      "name": "Mai Shai Tea Stalls (Keke Area)",
+      "short_description": "Experience Gombe's bustling street food culture at the Mai Shai stalls, where you can enjoy hot tea, local bread (kosai), and various snacks under the stars.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Keke NAPEP stand area",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1621259160515-7489a6963e6e",
+      "tags": [
+        "streetfood",
+        "localtea",
+        "nighteats"
+      ]
+    },
+    {
+      "id": "GOMFOOD004",
+      "name": "Yola Road Suya Spots",
+      "short_description": "Indulge in the best Suya (spicy grilled meat skewers) that Gombe has to offer. A beloved local delicacy, perfect for a flavorful evening snack.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Along Yola Road",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1623940172545-23c218204b7b",
+      "tags": [
+        "suya",
+        "grilledmeat",
+        "spicy"
+      ]
+    },
+    {
+      "id": "GOMPOOL001",
+      "name": "Gombe International Hotel Rooftop Pool",
+      "short_description": "Dive into luxury at this stunning rooftop infinity pool offering panoramic views of the Gombe cityscape. A perfect spot to unwind and capture elegant photos.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Gombe International Hotel",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1563911302283-d2bc129e9670",
+      "tags": [
+        "luxury",
+        "rooftop",
+        "cityview"
+      ]
+    },
+    {
+      "id": "GOMPOOL002",
+      "name": "Pantami Resort & Spa Serenity Pool",
+      "short_description": "Nestled within a serene resort, this infinity pool provides a tranquil escape with lush surroundings. Ideal for relaxation and capturing peaceful moments.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Pantami Resort & Spa",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1567438469502-3f139d675402",
+      "tags": [
+        "resort",
+        "relaxation",
+        "peaceful"
+      ]
+    },
+    {
+      "id": "GOMPOOL003",
+      "name": "Gombe Hills Eco-Lodge Infinity Pool",
+      "short_description": "An eco-friendly infinity pool that blends seamlessly with the natural landscape of the Gombe Hills, offering refreshing dips with breathtaking natural backdrops.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Gombe Hills Eco-Lodge",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1534067783941-51c9c23ecefd",
+      "tags": [
+        "eco-friendly",
+        "nature",
+        "scenic"
+      ]
+    },
+    {
+      "id": "GOMPOOL004",
+      "name": "Executive Residence Pool Retreat",
+      "short_description": "An exclusive and modern infinity pool within a high-end private residence, featuring sleek design and a sophisticated ambiance. Offers a touch of private luxury.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Exclusive GRA Residential Area",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1580437433010-388f615951c7",
+      "tags": [
+        "private",
+        "exclusive",
+        "modern"
+      ]
+    },
+    {
+      "id": "GOMSTAIR001",
+      "name": "Emir's Palace Grand Staircase",
+      "short_description": "The ornate and grand staircase leading into the Emir's Palace is a regal architectural feature, perfect for capturing the majesty of Gombe's traditional leadership.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Emir's Palace main entrance",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1558907823-3b1a8f9c15e3",
+      "tags": [
+        "grandeur",
+        "royal",
+        "architecture"
+      ]
+    },
+    {
+      "id": "GOMSTAIR002",
+      "name": "Gombe State Library Steps",
+      "short_description": "The broad, sweeping steps of the Gombe State Library offer a contemporary architectural backdrop. A quiet spot for reflection and photography.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Gombe State Library Complex",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1510626245367-73d76e499d63",
+      "tags": [
+        "modern",
+        "library",
+        "minimalist"
+      ]
+    },
+    {
+      "id": "GOMSTAIR003",
+      "name": "Pantami Stadium Entrance Steps",
+      "short_description": "The wide, imposing steps leading up to Pantami Township Stadium provide a grand and energetic entrance. Ideal for capturing dynamic shots.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Pantami Township Stadium",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549479366-511ed7ee7452",
+      "tags": [
+        "stadium",
+        "energy",
+        "grandentrance"
+      ]
+    },
+    {
+      "id": "GOMSTAIR004",
+      "name": "Kumo Hills Scenic Footpath",
+      "short_description": "Embark on a natural footpath winding through the Kumo Hills, offering refreshing views and a connection to Gombe's picturesque landscape. Perfect for nature walks.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Outskirts of Kumo Town",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1588696113872-9993355554f6",
+      "tags": [
+        "hiking",
+        "naturetrail",
+        "scenicwalk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "South Caicos",
+    "city_id": "2411"
+  },
+  "items": [
+    {
+      "id": "SC_AQG001",
+      "name": "Conch Coast Treasure Hunt",
+      "short_description": "Embark on a pirate-themed treasure hunt along the scenic coast, solving riddles and deciphering maps to find the hidden loot.",
+      "subtype": "Adventure & Quest Games",
+      "address": "East Bay Beach, South Caicos",
+      "opening_hours": "09:30-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517457375-96105c31622b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHBraXJhdGUlMjB0cmVhc3VyZSUyMGh1bnR8ZW58MHx8fHwxNzE4OTkxNjQyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "pirates",
+        "treasure hunt",
+        "outdoor",
+        "mystery"
+      ]
+    },
+    {
+      "id": "SC_AQG002",
+      "name": "Mangrove Maze Quest",
+      "short_description": "Navigate a specially designed maze within the natural mangrove ecosystem, learning about local wildlife as you go. Ideal for young explorers.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Near the Salt Ponds, South Caicos",
+      "opening_hours": "10:00-15:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549487445-565451e06716?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxtYW5ncm92ZSUyMG1hemV8ZW58MHx8fHwxNzE4OTkxNjgyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature",
+        "exploration",
+        "environmental",
+        "maze"
+      ]
+    },
+    {
+      "id": "SC_AQG003",
+      "name": "Island Explorer's Challenge",
+      "short_description": "A self-guided quest that takes families around Cockburn Harbour, solving riddles related to South Caicos' history and landmarks.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Cockburn Harbour Waterfront, South Caicos",
+      "opening_hours": "09:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1627964098236-09e4f210e74f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxpbmRpYW5hJTIwam9uZXMlMjBraWRzfGVufDB8fHx8MTcxODk5MTg1NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "history",
+        "culture",
+        "walking tour",
+        "riddles"
+      ]
+    },
+    {
+      "id": "SC_AQG004",
+      "name": "Lighthouse Mystery Trail",
+      "short_description": "Follow a trail of clues leading to the historic lighthouse, uncovering a fictional local mystery and a small 'treasure' at the end.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Near the South Caicos Lighthouse, South Caicos",
+      "opening_hours": "08:00-14:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1587274029272-d599b5182962?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxzY2F2ZW5nZXIlMjBodW50JTIwa2lkc3xlbnwwfHx8fDE3MTg5OTIwNTl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "scavenger hunt",
+        "lighthouse",
+        "coastal",
+        "family fun"
+      ]
+    },
+    {
+      "id": "SC_DP001",
+      "name": "Caicos Dino Dig Site",
+      "short_description": "An interactive paleontological dig site where kids can unearth replica dinosaur bones and fossils in a giant sandpit.",
+      "subtype": "Dinosaur Parks",
+      "address": "Sailrock Resort Area, South Caicos",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628124231885-c1b827e69f82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxncm91bmQlMjBkaW5vc2F1cnxlbnwwfHx8fDE3MTg5OTIyNzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "dinosaurs",
+        "paleontology",
+        "dig site",
+        "interactive"
+      ]
+    },
+    {
+      "id": "SC_DP002",
+      "name": "Lost Lagoon Dino Trails",
+      "short_description": "Walk through a themed jungle trail featuring life-sized dinosaur models, some with animatronic movements and sounds, amidst lush greenery.",
+      "subtype": "Dinosaur Parks",
+      "address": "Near South Caicos Airport, South Caicos",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1628124231885-c1b827e69f82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxwYXJrJTIwZGlub3NhdXJ8ZW58MHx8fHwxNzE4OTkyNDEzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animatronics",
+        "dino models",
+        "walk-through",
+        "jungle theme"
+      ]
+    },
+    {
+      "id": "SC_DP003",
+      "name": "Prehistoric Ponds Adventure",
+      "short_description": "An educational park focusing on aquatic prehistoric life, with models of marine reptiles and exhibits explaining ancient ecosystems.",
+      "subtype": "Dinosaur Parks",
+      "address": "Salina Bay, South Caicos",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616886475510-74693a2e37f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxwcmVoaXN0b3JpYyUyMGNodW5nfGVufDB8fHx8MTcxODk5MjU2OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marine dinosaurs",
+        "education",
+        "aquatic life",
+        "exhibits"
+      ]
+    },
+    {
+      "id": "SC_DP004",
+      "name": "Dino Discovery Garden",
+      "short_description": "A smaller, family-friendly garden featuring static dinosaur models, interactive facts, and plants from the Mesozoic era.",
+      "subtype": "Dinosaur Parks",
+      "address": "High Street, Cockburn Harbour, South Caicos",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579435427958-3908c6913e6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxkZWluZXNhYXVyJTIwcGFya3xlbnwwfHx8fDE3MTg5OTM0NjR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "garden",
+        "dinosaur models",
+        "educational",
+        "photo ops"
+      ]
+    },
+    {
+      "id": "SC_WPK001",
+      "name": "Salt Cay Splash Pad",
+      "short_description": "A fun, zero-depth splash pad featuring fountains, misters, and small water features, perfect for toddlers and young children to cool off.",
+      "subtype": "Water Parks for Kids",
+      "address": "Cockburn Harbour Park, South Caicos",
+      "opening_hours": "10:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1543789053-066e01a89c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHwzNyUyMGtzaWRzJTIwc3BsYXNoJTIwcGFkfGVufDB8fHx8MTcxODk5Mjk3Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "splash pad",
+        "free",
+        "toddler friendly",
+        "water fun"
+      ]
+    },
+    {
+      "id": "SC_WPK002",
+      "name": "Conch Cove Water Slides",
+      "short_description": "A collection of small, safe water slides and gentle aquatic play structures designed specifically for children up to age 10.",
+      "subtype": "Water Parks for Kids",
+      "address": "Sailrock Resort, South Caicos",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1571587522521-0e1933c1626c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHdzYXRlciUyMHNsaWRlJTIwa2lkc3xlbnwwfHx8fDE3MTg5OTMxMDZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water slides",
+        "kids pool",
+        "resort attraction",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "SC_WPK003",
+      "name": "Reef Runners River",
+      "short_description": "A slow-moving lazy river themed with colorful coral reef decorations, allowing kids to float gently on tubes.",
+      "subtype": "Water Parks for Kids",
+      "address": "East Bay Beach Resort Area, South Caicos",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596489391038-76c271810f63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHw5MSUyMGxhenklMjByaXZlciUyMGtpaWRzfGVufDB8fHx8MTcxODk5MzIyNnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lazy river",
+        "tubing",
+        "reef theme",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "SC_WPK004",
+      "name": "Pirate's Paradise Lagoon",
+      "short_description": "An interactive water playground featuring a large pirate ship, water cannons, climbing nets, and dumping buckets.",
+      "subtype": "Water Parks for Kids",
+      "address": "Near the Government Dock, Cockburn Harbour, South Caicos",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1616781223964-b89569ce4a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHw3NiUyMHBpcmF0ZSUyMHdhdGVyJTIwcGFya3xlbnwwfHx8fDE3MTg5OTMzODJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "pirate ship",
+        "water playground",
+        "interactive",
+        "adventure"
+      ]
+    },
+    {
+      "id": "SC_AR001",
+      "name": "Flamingo Flyer Carousel",
+      "short_description": "A classic carousel ride adorned with beautifully hand-painted flamingos, conch shells, and other local wildlife, perfect for younger children.",
+      "subtype": "Amusement Rides",
+      "address": "Cockburn Harbour Town Square, South Caicos",
+      "opening_hours": "17:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1555567301-447a1184a44f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxjYXJvdXNlbCUyMGtpZHN8ZW58MHx8fHwxNzE4OTkzNTI4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "carousel",
+        "classic ride",
+        "local theme",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "SC_AR002",
+      "name": "Mini Reef Roller Coaster",
+      "short_description": "A gentle, child-friendly roller coaster with mild dips and turns, themed around an underwater reef adventure.",
+      "subtype": "Amusement Rides",
+      "address": "Near South Caicos Airport, South Caicos",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510617326265-d6d74c3e8020?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHdraWRzJTIwcm9sbGVyJTIwY29hc3RlcnxlbnwwfHx8fDE3MTg5OTM2NzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "roller coaster",
+        "thrill ride",
+        "underwater theme",
+        "kids"
+      ]
+    },
+    {
+      "id": "SC_AR003",
+      "name": "Boiling Hole Bumper Boats",
+      "short_description": "Navigate and bump into friends in small, electric bumper boats within a contained, shallow water area.",
+      "subtype": "Amusement Rides",
+      "address": "Boiling Hole Road, South Caicos",
+      "opening_hours": "11:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1589182390881-80c74f51df1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHwzNCUyMGJ1bXBlciUyMGJvYXRzJTIwa2lkc3xlbnwwfHx8fDE3MTg5OTM3NzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "bumper boats",
+        "water ride",
+        "interactive",
+        "fun"
+      ]
+    },
+    {
+      "id": "SC_AR004",
+      "name": "Sky-High Pirate Ship Swing",
+      "short_description": "A miniature swinging pirate ship ride that offers a mild thrill as it swings back and forth, perfect for aspiring buccaneers.",
+      "subtype": "Amusement Rides",
+      "address": "East Bay Beach Promenade, South Caicos",
+      "opening_hours": "10:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1610476008104-e0e64f2187f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHwzOCUyMHBpcmF0ZSUyMHNoaXAlMjByaWRlJTIwa2lkc3xlbnwwfHx8fDE3MTg5OTM5MDZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "pirate ship",
+        "swing ride",
+        "adventure",
+        "kids thrill"
+      ]
+    },
+    {
+      "id": "SC_PAP001",
+      "name": "South Caicos Community Playground",
+      "short_description": "A well-maintained community playground offering traditional swings, slides, climbing frames, and open space for free play.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Middle Street, Cockburn Harbour, South Caicos",
+      "opening_hours": "07:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1599806429391-76495b6a7139?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHw5NyUyMGtzaWRzJTIwcGxheWdyb3VuZHxlbnwwfHx8fDE3MTg5OTM5OTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "playground",
+        "community",
+        "free play",
+        "outdoors"
+      ]
+    },
+    {
+      "id": "SC_PAP002",
+      "name": "Sailrock Treehouse Trails",
+      "short_description": "An adventure park featuring elevated wooden walkways, Rope bridges, and small treehouses amidst the natural vegetation, offering unique views.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Sailrock Resort, South Caicos",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1509939527376-78bf1e39a3f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxhZHZlbnR1cmUlMjBwYXJrJTIwa2lkc3xlbnwwfHx8fDE3MTg5OTQ4ODV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "treehouse",
+        "adventure",
+        "climbing",
+        "nature"
+      ]
+    },
+    {
+      "id": "SC_PAP003",
+      "name": "Coastal Climb & Slide Park",
+      "short_description": "An ocean-themed adventure park with climbing structures resembling coral reefs, giant waves, and multiple slides for all ages.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "East Bay Beach, South Caicos",
+      "opening_hours": "08:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1601677322960-ef021c32709e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHw5MSUyMG9jZWFuJTIwdGhlbWVkJTIwcGxheWdyb3VuZHxlbnwwfHx8fDE3MTg5OTQ0NDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "climbing",
+        "slides",
+        "ocean theme",
+        "beachfront"
+      ]
+    },
+    {
+      "id": "SC_PAP004",
+      "name": "Nature's Obstacle Course",
+      "short_description": "A challenging yet safe obstacle course integrated into the island's natural landscape, featuring rope climbs, log bridges, and balance beams.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Near the Boiling Hole, South Caicos",
+      "opening_hours": "09:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1544062820-f56f34e6628b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHw3MyUyMG9ic3RhY2xlJTIwY291cnNlJTIwa2lkc3xlbnwwfHx8fDE3MTg5OTQ1ODh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "obstacle course",
+        "natural elements",
+        "physical activity",
+        "outdoor fun"
+      ]
+    },
+    {
+      "id": "SC_STP001",
+      "name": "Turks & Caicos Legends Garden",
+      "short_description": "A tranquil garden featuring artistic interpretations and plaques detailing the rich folklore, myths, and legends of the Turks & Caicos Islands.",
+      "subtype": "Storytelling Parks",
+      "address": "High Street, Cockburn Harbour, South Caicos",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1550990393-3d719ce37f90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHw4MSUyMGRpZW1lYmVyJTIwc3Rvcnl0ZWxsaW5nJTIwcGFya3xlbnwwfHx8fDE3MTg5OTQ2ODl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "folklore",
+        "legends",
+        "garden",
+        "cultural"
+      ]
+    },
+    {
+      "id": "SC_STP002",
+      "name": "The Conch Shell Chronicles",
+      "short_description": "An audio storytelling trail where visitors can scan QR codes on conch shells to listen to tales of the island's history, nature, and people.",
+      "subtype": "Storytelling Parks",
+      "address": "Near the Salt Ponds, South Caicos",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1507567634208-51f7b539c279?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHwxNiUyMHBvZGNhc3QlMjBsaXN0ZW5pbmclMjBjaGlsZHJlbnxlbnwwfHx8fDE3MTg5OTUwNzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "audio stories",
+        "history",
+        "nature",
+        "interactive"
+      ]
+    },
+    {
+      "id": "SC_STP003",
+      "name": "Shipwreck Tales Trail",
+      "short_description": "Discover the dramatic stories of South Caicos' shipwrecks through interactive displays, props, and narrated tales along a coastal path.",
+      "subtype": "Storytelling Parks",
+      "address": "East Bay Beach, South Caicos",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547806509-0d12e624f227?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHwxOSUyMHNoaXB3cmVjayUyMGtpZHN8ZW58MHx8fDE3MTg5OTUxOTl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "shipwrecks",
+        "maritime history",
+        "coastal walk",
+        "adventure stories"
+      ]
+    },
+    {
+      "id": "SC_STP004",
+      "name": "The Whispering Walls Park",
+      "short_description": "An open-air park adorned with vibrant murals and interactive installations that visually tell the stories of the island's past and present.",
+      "subtype": "Storytelling Parks",
+      "address": "Cockburn Harbour Waterfront, South Caicos",
+      "opening_hours": "07:00-22:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1627192534571-04285223e71d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHwxMDklMjBhcnQlMjBpbnN0YWxsYXRpb24lMjBraWRzfGVufDB8fHx8MTcxODk5NTM0Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "murals",
+        "visual storytelling",
+        "public art",
+        "history"
+      ]
+    },
+    {
+      "id": "SC_CM001",
+      "name": "South Caicos Marine Discovery Centre",
+      "short_description": "A hands-on children's museum dedicated to the rich marine life surrounding South Caicos, with interactive exhibits and touch tanks.",
+      "subtype": "Children’s Museums",
+      "address": "Government Dock Area, Cockburn Harbour, South Caicos",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510425712530-9b0d956417f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHw4OCUyMGNoaWxkcmVuJTIwJTIwbXVzZXVtJTIwc2VhJTIwdGhlbWV8ZW58MHx8fHwxNzE4OTk1NTQ0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marine life",
+        "oceanography",
+        "interactive exhibits",
+        "education"
+      ]
+    },
+    {
+      "id": "SC_CM002",
+      "name": "Island Heritage Exploratorium",
+      "short_description": "Explore the history, culture, and traditions of the Turks & Caicos Islands through engaging, interactive exhibits and storytelling.",
+      "subtype": "Children’s Museums",
+      "address": "High Street, Cockburn Harbour, South Caicos",
+      "opening_hours": "10:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1555029337-18f97e687e74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHw5MSUyMGNoaWxkcmVuJTIwbXVzZXVtJTIwY3VsdHVyZXxlbnwwfHx8fDE3MTg5OTU2NjN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "history",
+        "culture",
+        "heritage",
+        "interactive learning"
+      ]
+    },
+    {
+      "id": "SC_CM003",
+      "name": "Little Engineers Lab",
+      "short_description": "A STEM-focused museum space where kids can experiment with simple machines, robotics, and engineering challenges.",
+      "subtype": "Children’s Museums",
+      "address": "South Caicos Community Center, South Caicos",
+      "opening_hours": "09:30-14:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1534017772670-5b5847e9301f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHw2NCUyMGNoaWxkcmVuJTIwbXVzZXVtJTIwc3RlbXxlbnwwfHx8fDE3MTg5OTU3Nzh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "STEM",
+        "engineering",
+        "robotics",
+        "science"
+      ]
+    },
+    {
+      "id": "SC_CM004",
+      "name": "Artistic Caicos Studio",
+      "short_description": "A creative studio within the museum offering hands-on art workshops, craft activities, and a gallery showcasing children's art inspired by the island.",
+      "subtype": "Children’s Museums",
+      "address": "Near the South Caicos Airport, South Caicos",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563200782-385223e71d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHw5MyUyMGNoaWxkcmVuJTIwbXVzZXVtJTIwYXJ0fGVufDB8fHx8MTcxODk5NTkwM3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "art studio",
+        "crafts",
+        "creativity",
+        "workshops"
+      ]
+    },
+    {
+      "id": "SC_MSA001",
+      "name": "South Caicos Mini Golf Circuit",
+      "short_description": "A fun 18-hole mini-golf course with obstacles inspired by local landmarks and marine life, suitable for all ages.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Sailrock Resort, South Caicos",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582260273766-3d7192a2a0d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHw1MSUyMG1pbmklMjBnb2xmJTIwa2lkc3xlbnwwfHx8fDE3MTg5OTU5OTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mini golf",
+        "family sports",
+        "outdoor activity",
+        "putt-putt"
+      ]
+    },
+    {
+      "id": "SC_MSA002",
+      "name": "Beach Soccer & Volleyball Courts",
+      "short_description": "Designated public beach courts for friendly games of beach soccer and volleyball, open for casual play.",
+      "subtype": "Mini Sports Arenas",
+      "address": "East Bay Beach, South Caicos",
+      "opening_hours": "08:00-Sunset",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1621255745265-e99c1d07e9d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHwxNiUyMGJlYWNoJTIwc29jY2VyJTIwa2lkc3xlbnwwfHx8fDE3MTg5OTYwOTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "beach sports",
+        "soccer",
+        "volleyball",
+        "free"
+      ]
+    },
+    {
+      "id": "SC_MSA003",
+      "name": "Island Hoops Basketball Zone",
+      "short_description": "An outdoor basketball court featuring adjustable hoops to accommodate players of various ages and skill levels.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Cockburn Harbour Community Park, South Caicos",
+      "opening_hours": "08:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1627685601262-6a84f3e69f11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHwxMCUyMGtpZHMlMjBiYXNrZXRiYWxsc3xlbnwwfHx8fDE3MTg5OTYyMjF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "basketball",
+        "sports",
+        "outdoor court",
+        "active"
+      ]
+    },
+    {
+      "id": "SC_MSA004",
+      "name": "Kayak & Paddleboard Race Course",
+      "short_description": "A supervised, buoyed course in a calm bay where kids can safely try out kayaking and paddleboarding, with rental equipment available.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Near the Government Dock, South Caicos",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596752765377-f27341e98d9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHwxMiUyMGtpZHMlMjBwYWRkbGVib2FyZGluZ3xlbnwwfHx8fDE3MTg5OTYzMTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "kayaking",
+        "paddleboarding",
+        "water sports",
+        "rentals"
+      ]
+    },
+    {
+      "id": "SC_MIS001",
+      "name": "The Great Caicos Conjurer",
+      "short_description": "An entertaining stage magic show featuring a local magician performing classic illusions and kid-friendly tricks with an island twist.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "South Caicos Community Hall, Cockburn Harbour",
+      "opening_hours": "19:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1516087823903-8d0526e3c03a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHw1MiUyMGNoaWxkcmVuJTIwZnVuJTIwbWFnaWMlMjBzaG93fGVufDB8fHx8MTcxODk5NjUwM3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "magic show",
+        "illusions",
+        "entertainment",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "SC_MIS002",
+      "name": "Oceanic Illusions Tent",
+      "short_description": "A cozy, intimate tent setting for close-up magic and dazzling illusions, offering an interactive experience for a smaller audience.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "East Bay Beach Resort Area, South Caicos",
+      "opening_hours": "18:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510425712530-9b0d956417f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHw5MSUyMGtpZHMlMjBtYWdpYyUyMHNob3d8ZW58MHx8fHwxNzE4OTk2NzY3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "close-up magic",
+        "interactive",
+        "illusions",
+        "intimate show"
+      ]
+    },
+    {
+      "id": "SC_MIS003",
+      "name": "Mystic Mangrove Magic Show",
+      "short_description": "A unique magic show performed outdoors near the mangroves, blending nature with captivating tricks and environmental messages.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Near the Mangrove Boardwalk, South Caicos",
+      "opening_hours": "16:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616766021200-a61474249a56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHw0NyUyMGtpZHMlMjBtYWdpY2lhbiUyMHRyaWNrJTIwY2xvc2V1cHxlbnwwfHx8fDE3MTg5OTY4MzV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature show",
+        "eco-friendly",
+        "outdoor magic",
+        "educational"
+      ]
+    },
+    {
+      "id": "SC_MIS004",
+      "name": "Starlight Sorcery Spectacle",
+      "short_description": "An enchanting evening show under the stars, combining magic, light projections, and storytelling for a truly mesmerizing experience.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Near South Caicos Airport, Open Air Venue",
+      "opening_hours": "20:30-21:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1579294247262-598d89a200e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHw2MiUyMGxpZ2h0JTIwc2hvd3xlbnwwfHx8fDE3MTg5OTcwNzF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "night show",
+        "light show",
+        "stargazing",
+        "spectacle"
+      ]
+    },
+    {
+      "id": "SC_LWP001",
+      "name": "Caicos Block Builders Workshop",
+      "short_description": "An expansive indoor play area filled with various types of building blocks – LEGO, Duplo, and large soft blocks – for freeform construction.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "South Caicos Community Center, Cockburn Harbour",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621340150961-396417578ee1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHw2NCUyMGNoaWxkcmVuJTIwYmxvY2tzJTIwcGxheXxlbnwwfHx8fDE3MTg5OTcwOTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "building blocks",
+        "creative play",
+        "indoor",
+        "free play"
+      ]
+    },
+    {
+      "id": "SC_LWP002",
+      "name": "Island Architects Zone",
+      "short_description": "A dedicated zone where kids can build their own structures using LEGO bricks or try to replicate famous South Caicos landmarks from pre-made models.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Sailrock Resort, South Caicos",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1624641328084-29774020c90c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHwzNCUyMGxlZ28lMjBjb25zdHJ1Y3Rpb24lMjBwYXJrJTIwa2lkc3xlbnwwfHx8fDE3MTg5OTcyNzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "LEGO",
+        "architecture",
+        "model building",
+        "creative"
+      ]
+    },
+    {
+      "id": "SC_LWP003",
+      "name": "Dig & Build Construction Site",
+      "short_description": "A large outdoor sandpit equipped with toy excavators, dump trucks, and oversized building blocks for a hands-on construction experience.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Near the Airport, South Caicos",
+      "opening_hours": "09:30-15:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621535451631-50e82c5053e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHwyOCUyMGtpZHMlMjBjb25zdHJ1Y3Rpb24lMjBzaXRlfGVufDB8fHx8MTcxODk5NzM0Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sandpit",
+        "construction toys",
+        "outdoor",
+        "diggers"
+      ]
+    },
+    {
+      "id": "SC_LWP004",
+      "name": "Robotics & Tech Bricks Lab",
+      "short_description": "An interactive lab offering introductory workshops on robotics and programmable LEGO bricks, fostering an interest in technology.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Cockburn Harbour Community Center, South Caicos",
+      "opening_hours": "11:00-14:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1618363351939-299f192b0c44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHw0MSUyMGtpZHMlMjByb2JvdGljcyUyMGxlZ298ZW58MHx8fDE3MTg5OTc1MDZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "robotics",
+        "STEM",
+        "coding",
+        "workshops"
+      ]
+    }
+  ]
+}

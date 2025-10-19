@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Makurdi",
+    "city_id": "2459"
+  },
+  "items": [
+    {
+      "id": "MkdArt001",
+      "name": "The Benue Canvas Collective",
+      "short_description": "Discover the vibrant heart of Benue's contemporary art scene. This gallery showcases emerging local talents and modern Nigerian masterpieces in a striking new space.",
+      "address": "Plot 14, Kashim Ibrahim Road, Makurdi",
+      "opening_hours": "10:00-17:00 (Tuesday-Sunday)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549488316-f3089694e9fb",
+      "tags": [
+        "art",
+        "culture",
+        "gallery"
+      ]
+    },
+    {
+      "id": "MkdPark002",
+      "name": "Benue Sunset Boardwalk",
+      "short_description": "Stroll along the newly developed boardwalk offering breathtaking views of the Benue River. Perfect for evening walks, picnics, and family outings with lush green spaces.",
+      "address": "Near Wurukum Roundabout, Along Benue River Bank, Makurdi",
+      "opening_hours": "06:00-22:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1596707323204-c36b6f756070",
+      "tags": [
+        "park",
+        "outdoor",
+        "scenic"
+      ]
+    },
+    {
+      "id": "MkdFun003",
+      "name": "Makurdi Playland Arena",
+      "short_description": "A vibrant new entertainment center packed with arcade games, a state-of-the-art bowling alley, and a dedicated soft-play zone for younger children, promising fun for all ages.",
+      "address": "Off Kashim Ibrahim Road, Near Benue State University, Makurdi",
+      "opening_hours": "11:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620613296068-d064e43f11a4",
+      "tags": [
+        "family",
+        "entertainment",
+        "games"
+      ]
+    },
+    {
+      "id": "MkdFood004",
+      "name": "Taste of Benue Food Hall",
+      "short_description": "Explore a culinary paradise featuring a diverse range of local delicacies and international flavors. This new food hall brings together the best of Makurdi's vibrant food scene under one roof.",
+      "address": "Abu King Shuluwa Road, Opp. Benue Hotel, Makurdi",
+      "opening_hours": "09:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1542838139-299f2d1e27a7",
+      "tags": [
+        "food",
+        "market",
+        "dining"
+      ]
+    },
+    {
+      "id": "MkdWork005",
+      "name": "The Link Hub Makurdi",
+      "short_description": "A contemporary co-working space and stylish cafe designed for freelancers, entrepreneurs, and anyone seeking a productive environment with excellent coffee and reliable internet.",
+      "address": "Opposite NNPC Mega Station, Gboko Road, Makurdi",
+      "opening_hours": "08:00-20:00 (Monday-Saturday)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549725227-89753e1a8a25",
+      "tags": [
+        "coworking",
+        "cafe",
+        "remote work"
+      ]
+    },
+    {
+      "id": "MkdGolf006",
+      "name": "Makurdi Mini Golf Park",
+      "short_description": "Putt your way through exciting challenges at Makurdi's newest mini-golf course. Perfect for family fun, group outings, and friendly competitions amidst a beautifully landscaped environment.",
+      "address": "Along Makurdi-Gboko Road, Near Modern Market, Makurdi",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1522867011995-1f63056d61d0",
+      "tags": [
+        "outdoor",
+        "family",
+        "mini golf"
+      ]
+    },
+    {
+      "id": "MkdTech007",
+      "name": "Benue Ignite Tech Hub",
+      "short_description": "A state-of-the-art facility fostering innovation and technology in Benue State. Offers incubation programs, workshops, and collaborative spaces for startups and tech enthusiasts.",
+      "address": "Gen. Inienger Street, High Level, Makurdi",
+      "opening_hours": "09:00-18:00 (Monday-Friday)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1581093557007-68b3294b0d06",
+      "tags": [
+        "technology",
+        "innovation",
+        "education"
+      ]
+    },
+    {
+      "id": "MkdEco008",
+      "name": "Green Harvest Sanctuary",
+      "short_description": "Discover sustainable living at this serene eco-farm and wellness garden. Enjoy guided tours, fresh produce, and a farm-to-table cafe focused on healthy, local ingredients.",
+      "address": "Outskirts of North Bank, Makurdi-Lafia Road, Makurdi",
+      "opening_hours": "09:00-17:00 (Tuesday-Sunday)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1523473136892-74744955476d",
+      "tags": [
+        "eco-tourism",
+        "farm",
+        "wellness"
+      ]
+    },
+    {
+      "id": "MkdFilm009",
+      "name": "Silver Screen Makurdi",
+      "short_description": "Experience cinema reimagined at this luxurious boutique film house. Featuring comfortable seating, gourmet snacks, and a curated selection of local and international films.",
+      "address": "George Akume Road, Opposite Benue State Secretariat, Makurdi",
+      "opening_hours": "12:00-22:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1520601957262-6718d79a29e4",
+      "tags": [
+        "cinema",
+        "entertainment",
+        "luxury"
+      ]
+    },
+    {
+      "id": "MkdCraft010",
+      "name": "Makurdi Heritage Crafts Village",
+      "short_description": "A vibrant hub dedicated to preserving and promoting Benue's rich artistic heritage. Browse unique handmade crafts, meet local artisans, and find authentic souvenirs.",
+      "address": "Near Lower Benue River Basin Development Authority, Makurdi",
+      "opening_hours": "09:30-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1596707923707-1601a4e1040f",
+      "tags": [
+        "crafts",
+        "souvenirs",
+        "culture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Uyo",
+    "city_id": "2463"
+  },
+  "items": [
+    {
+      "id": "UyoGard01",
+      "name": "Ibom Tropicana Garden Oasis",
+      "short_description": "A sprawling park featuring diverse flora, manicured lawns, and serene walking paths perfect for a tranquil escape and beautiful photos.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Near Tropicana Complex, Uyo",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1607567705193-10e82c505419?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "park",
+        "serene"
+      ]
+    },
+    {
+      "id": "UyoGard02",
+      "name": "Unity Park Floral Displays",
+      "short_description": "Beyond its monuments, Unity Park boasts vibrant flower beds and well-landscaped areas, offering a colorful backdrop for your Instagram feed.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Uyo City Centre",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1549419168-ec371bf9e6a7?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "public park",
+        "flowers",
+        "city green"
+      ]
+    },
+    {
+      "id": "UyoGard03",
+      "name": "Government House Rose Garden",
+      "short_description": "A beautifully maintained garden adjacent to the official residence, known for its elegant rose bushes and quiet, picturesque spots.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Within Government House grounds",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1588691880436-1c4b7b3082ac?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "formal garden",
+        "roses",
+        "elegant"
+      ]
+    },
+    {
+      "id": "UyoGard04",
+      "name": "Ewet Housing Estate Green Spaces",
+      "short_description": "Explore the meticulously designed green areas and tree-lined streets of Ewet Housing Estate, offering charming spots for nature photography.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Ewet Housing Estate",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1518977676767-f05477839352?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "landscaping",
+        "residential",
+        "trees"
+      ]
+    },
+    {
+      "id": "UyoRoof01",
+      "name": "Four Points Sky Lounge",
+      "short_description": "Enjoy panoramic views of Uyo's growing skyline from this sophisticated rooftop bar, perfect for sunset cocktails and city lights.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Four Points by Sheraton, Ikot Ekpene Road",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1594916965158-b690d7945d81?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "city view",
+        "bar",
+        "luxury"
+      ]
+    },
+    {
+      "id": "UyoRoof02",
+      "name": "Monty Suites Rooftop Terrace",
+      "short_description": "A chic spot offering an elevated perspective of Uyo, ideal for capturing the city's urban sprawl and relaxing evenings.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Monty Suites, G-Line, Ewet Housing Estate",
+      "best_time": "Afternoon / Sunset",
+      "images": "https://images.unsplash.com/photo-1543884323-5e74c1071987?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "hotel rooftop",
+        "drinks",
+        "urban"
+      ]
+    },
+    {
+      "id": "UyoRoof03",
+      "name": "Dakkada Tower Skydeck (Imagined)",
+      "short_description": "While not publicly accessible, imagine soaring above Uyo from the highest point, offering an unparalleled 360-degree vista of the city.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Dakkada Tower, Uyo City Centre",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1596765089201-1e43486df811?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "skyscraper",
+        "panoramic",
+        "cityscape"
+      ]
+    },
+    {
+      "id": "UyoRoof04",
+      "name": "E-Library Upper Floor Views",
+      "short_description": "The unique architecture of the e-Library provides interesting framed views of the surrounding city, especially from its upper levels.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Akwa Ibom e-Library, IBB Avenue",
+      "best_time": "Daytime / Afternoon",
+      "images": "https://images.unsplash.com/photo-1522079092490-ce0f5e08b532?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "architectural view",
+        "modern building",
+        "unique perspective"
+      ]
+    },
+    {
+      "id": "UyoHist01",
+      "name": "Methodist Church Cathedral, Oron Road",
+      "short_description": "An enduring colonial-era structure with intricate details, representing an important part of Uyo's spiritual and architectural heritage.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Oron Road, Uyo",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1519782806251-4d3752e50cf6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "colonial",
+        "church",
+        "heritage"
+      ]
+    },
+    {
+      "id": "UyoHist02",
+      "name": "Old Residency Building (Governor's Lodge)",
+      "short_description": "A testament to Uyo's past, this structure (or a surviving similar one) hints at its colonial administrative roots with distinct period architecture.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Near Uyo City Centre (hypothetical)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1574883907530-9759c83690d7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "colonial",
+        "government",
+        "old charm"
+      ]
+    },
+    {
+      "id": "UyoHist03",
+      "name": "Akwa Ibom State Museum (Traditional Wing)",
+      "short_description": "Explore the older sections of the museum, showcasing traditional Akwa Ibom architecture and artifacts that tell the region's rich story.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Udo Udoma Avenue",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1576264580645-562768560938?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cultural",
+        "museum",
+        "traditional"
+      ]
+    },
+    {
+      "id": "UyoHist04",
+      "name": "Ibom Plaza Monument & Surroundings",
+      "short_description": "While modern, the central plaza's iconic monument is a historic landmark symbolizing Uyo's urban development and is surrounded by older commercial buildings.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Uyo City Centre",
+      "best_time": "Afternoon / Sunset",
+      "images": "https://images.unsplash.com/photo-1549410183-b265ff3f81e3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "landmark",
+        "urban history",
+        "public square"
+      ]
+    },
+    {
+      "id": "UyoMod01",
+      "name": "Dakkada Tower: Uyo's Skyscraper",
+      "short_description": "The sleek, towering Dakkada Tower stands as a symbol of Uyo's modernity and ambition, offering a striking photographic subject.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Uyo City Centre",
+      "best_time": "Daytime / Night",
+      "images": "https://images.unsplash.com/photo-1550992383-e1bb17316773?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "skyscraper",
+        "contemporary",
+        "iconic"
+      ]
+    },
+    {
+      "id": "UyoMod02",
+      "name": "Godswill Akpabio International Stadium",
+      "short_description": "An architectural marvel, this 'Nest of Champions' stadium features a striking design and vibrant lighting, especially impressive at night.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Udo Udoma Avenue",
+      "best_time": "Afternoon / Night",
+      "images": "https://images.unsplash.com/photo-1512809228945-31653e4198c6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "stadium",
+        "futuristic",
+        "sports"
+      ]
+    },
+    {
+      "id": "UyoMod03",
+      "name": "Akwa Ibom e-Library",
+      "short_description": "A distinctively designed building with modern aesthetics and intelligent use of space, a landmark for education and innovation.",
+      "subtype": "Modern Architecture",
+      "location_hint": "IBB Avenue, Uyo",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1543169274-1065e8a712f5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "library",
+        "innovative",
+        "public building"
+      ]
+    },
+    {
+      "id": "UyoMod04",
+      "name": "Ibom Icon Hotel & Golf Resort",
+      "short_description": "The resort's contemporary design, set amidst lush landscapes, offers a blend of luxury architecture and natural beauty.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Nwaniba Road, Uyo",
+      "best_time": "Daytime / Sunset",
+      "images": "https://images.unsplash.com/photo-1563220468-d06efd92bf73?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "resort",
+        "luxury",
+        "landscape design"
+      ]
+    },
+    {
+      "id": "UyoColN01",
+      "name": "Itam Market Vibrant Lanes",
+      "short_description": "Immerse yourself in the bustling energy and colorful displays of Itam Market, a sensory delight and a vibrant photo opportunity.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Itam, Uyo",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1627914434239-09f4296b9979?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "market",
+        "lively",
+        "street photography"
+      ]
+    },
+    {
+      "id": "UyoColN02",
+      "name": "Oron Road Commercial Hub",
+      "short_description": "Experience the lively street scene along Oron Road, with colorful shop fronts, street vendors, and the vibrant rhythm of local life.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Oron Road, Uyo",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1520638029019-3f41217e946a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "street life",
+        "commerce",
+        "urban culture"
+      ]
+    },
+    {
+      "id": "UyoColN03",
+      "name": "Uruan Street Food Alley",
+      "short_description": "As evening falls, Uruan Street transforms into a colorful array of food stalls, vibrant lights, and delicious aromas – a true local experience.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Uruan Street, Uyo",
+      "best_time": "Evening / Night",
+      "images": "https://images.unsplash.com/photo-1582215286469-42b781a53e4b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food stalls",
+        "nightlife",
+        "local cuisine"
+      ]
+    },
+    {
+      "id": "UyoColN04",
+      "name": "Ikot Ekpene Road Shops & Murals (Aspirational)",
+      "short_description": "While still developing, this main artery features some brightly painted shops and emerging street art, promising vibrant photo ops.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Ikot Ekpene Road, Uyo",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1608688404285-0552b9a117b9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "street art",
+        "shops",
+        "urban vibe"
+      ]
+    },
+    {
+      "id": "UyoBridge01",
+      "name": "Itam Flyover Interchange",
+      "short_description": "A complex network of modern overpasses, offering dynamic lines and elevated perspectives of Uyo's busy road infrastructure, especially at dusk.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Itam Road, Uyo",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1548174780-33b8782cf74b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "urban infrastructure",
+        "flyover",
+        "night lights"
+      ]
+    },
+    {
+      "id": "UyoBridge02",
+      "name": "Ekom Iman Overpass Viewpoint",
+      "short_description": "An elevated point offering a wide view over parts of Uyo, great for capturing the city's expansion and daily rhythm.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Ekom Iman axis, Uyo",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1589578119054-04470d10b7b1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "city view",
+        "elevated",
+        "roadway"
+      ]
+    },
+    {
+      "id": "UyoBridge03",
+      "name": "Uyo-Airport Road Bridge",
+      "short_description": "A well-designed bridge along the route to the airport, providing clean lines and a sense of motion, especially with traffic trails.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Airport Road, Uyo",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1523741872856-4c480104e176?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "transport",
+        "modern design",
+        "long exposure"
+      ]
+    },
+    {
+      "id": "UyoBridge04",
+      "name": "Ibom Tropicana Elevated Walkway",
+      "short_description": "Within the complex, find elevated pedestrian paths that offer unique perspectives of the gardens and surrounding leisure facilities.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Ibom Tropicana Complex, Uyo",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1627051252192-3d8540c4995c?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "pedestrian bridge",
+        "leisure",
+        "architecture"
+      ]
+    },
+    {
+      "id": "UyoNatW01",
+      "name": "Nwaniba Riverine Escapes",
+      "short_description": "Just outside Uyo, the Nwaniba area offers serene river views, lush mangrove edges, and unique natural tranquility away from the city bustle.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Nwaniba Road (outskirts of Uyo)",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1601758252033-0435f3755c3c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "river",
+        "mangroves",
+        "serene"
+      ]
+    },
+    {
+      "id": "UyoNatW02",
+      "name": "Uyo Botanic Garden (Emerging)",
+      "short_description": "An evolving green space showcasing local flora, providing a quiet retreat and unique botanical specimens for nature lovers.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Likely outskirts/future development area (hypothetical)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1526435919077-170f20d0f666?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "flora",
+        "biodiversity",
+        "tranquil"
+      ]
+    },
+    {
+      "id": "UyoNatW03",
+      "name": "Eka Iban Lake (Hidden Gem)",
+      "short_description": "A small, secluded lake or large pond within a local community, offering calm waters and a peaceful natural setting.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Local community area (hypothetical)",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1502691866408-e7d9b9a65668?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "lake",
+        "secluded",
+        "reflection"
+      ]
+    },
+    {
+      "id": "UyoNatW04",
+      "name": "The Ancient Iroko Tree, Use Offot",
+      "short_description": "A venerable, colossal Iroko tree revered for its age and grandeur, standing as a living monument of nature's majesty in a local setting.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Use Offot community (hypothetical significant tree)",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1546700021-e0e6205cf39f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancient tree",
+        "natural landmark",
+        "impressive"
+      ]
+    },
+    {
+      "id": "UyoHidd01",
+      "name": "Cultural Centre Secret Garden",
+      "short_description": "Discover a tranquil courtyard within the State Cultural Centre, a quiet oasis perfect for reflection amidst art and greenery.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Akwa Ibom State Cultural Centre",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1587522549232-261546c1e550?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "courtyard",
+        "serene",
+        "artistic"
+      ]
+    },
+    {
+      "id": "UyoHidd02",
+      "name": "Old Uyo Market Backstreets",
+      "short_description": "Step into the narrow, winding alleys behind the main market, revealing glimpses of local life, hidden stalls, and unique character.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Uyo Main Market area",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1599557929450-488b139b4b01?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "alley",
+        "local life",
+        "market scene"
+      ]
+    },
+    {
+      "id": "UyoHidd03",
+      "name": "Ewet Housing Estate Pedestrian Passages",
+      "short_description": "Explore the peaceful, often shaded pedestrian lanes and small courtyards tucked away within the well-planned Ewet Housing Estate.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Ewet Housing Estate",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596788574676-e175713c752b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "residential",
+        "quiet",
+        "greenery"
+      ]
+    },
+    {
+      "id": "UyoHidd04",
+      "name": "Artisans' Lane, Near Plaza",
+      "short_description": "A small, creatively adorned alley near the Ibom Plaza, often showcasing local crafts and street art, a charming surprise.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Behind Ibom Plaza (hypothetical)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1591147020819-33b6cf9c0e52?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art street",
+        "crafts",
+        "charming"
+      ]
+    },
+    {
+      "id": "UyoMark01",
+      "name": "Itam International Market",
+      "short_description": "Uyo's largest and most bustling market, a vibrant tapestry of commerce, culture, and colorful goods. A truly immersive experience.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Itam Road, Uyo",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1558230232-a59e9a4497e8?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "local market",
+        "bustling",
+        "cultural"
+      ]
+    },
+    {
+      "id": "UyoMark02",
+      "name": "Oron Road Farmers' Market",
+      "short_description": "A lively market specializing in fresh produce, local delicacies, and traditional ingredients, offering a genuine taste of Akwa Ibom.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Oron Road, Uyo",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582215286469-42b781a53e4b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food market",
+        "fresh produce",
+        "authentic"
+      ]
+    },
+    {
+      "id": "UyoMark03",
+      "name": "Uyo Main Market (Afaha)",
+      "short_description": "The traditional heart of commerce in Uyo, a vibrant hub where you can find everything from textiles to household goods amidst a lively atmosphere.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Afaha, Uyo",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1542691319-a1d2f7f139fb?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "traditional market",
+        "goods",
+        "local culture"
+      ]
+    },
+    {
+      "id": "UyoMark04",
+      "name": "Ekom Iman Night Bazaar",
+      "short_description": "As dusk falls, Ekom Iman lights up with a bustling night market, offering street food, crafts, and a lively social scene.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Ekom Iman, Uyo",
+      "best_time": "Evening / Night",
+      "images": "https://images.unsplash.com/photo-1549429440-667793b8296a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "night market",
+        "street food",
+        "festive"
+      ]
+    },
+    {
+      "id": "UyoDesert01",
+      "name": "Not Applicable to Uyo",
+      "short_description": "Uyo, located in Nigeria's lush tropical South-South region, is characterized by rainforests and a coastal climate, making desert landscapes entirely absent.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "N/A",
+      "best_time": "N/A",
+      "images": "https://images.unsplash.com/photo-1563812739194-2792d7742d07?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "not found",
+        "tropical",
+        "climate difference"
+      ]
+    },
+    {
+      "id": "UyoDesert02",
+      "name": "Tropical Climate Zone",
+      "short_description": "The region around Uyo is known for its abundant rainfall and dense vegetation, a stark contrast to any desert environment.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "N/A",
+      "best_time": "N/A",
+      "images": "https://images.unsplash.com/photo-1554902263-9ec5f9e2ed36?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "no desert",
+        "greenery",
+        "rainforest"
+      ]
+    },
+    {
+      "id": "UyoDesert03",
+      "name": "Lush Coastal Plains",
+      "short_description": "Uyo is situated on fertile coastal plains, characterized by rivers, creeks, and rich agricultural lands, not arid or desert conditions.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "N/A",
+      "best_time": "N/A",
+      "images": "https://images.unsplash.com/photo-1502479255740-4ae9c4033390?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wetlands",
+        "fertile land",
+        "no sand dunes"
+      ]
+    },
+    {
+      "id": "UyoDesert04",
+      "name": "Hypothetical Desert Oasis (Irrelevant)",
+      "short_description": "Any mention of deserts or sand dunes in Uyo would be purely fictional, as its geography is entirely incompatible with such features.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "N/A",
+      "best_time": "N/A",
+      "images": "https://images.unsplash.com/photo-1517439169722-b5e0037a3f8c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fictional",
+        "geography",
+        "tropical zone"
+      ]
+    }
+  ]
+}

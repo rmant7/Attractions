@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Khujand",
+    "city_id": "2417"
+  },
+  "items": [
+    {
+      "id": "KHD_SC01",
+      "name": "Khujand Discovery Dome",
+      "short_description": "An interactive science center featuring a planetarium and hands-on exhibits exploring physics, chemistry, and astronomy. Perfect for curious young minds.",
+      "subtype": "Science Centers",
+      "address": "Lenin Avenue 12A, Khujand",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594246002626-d6215321f953?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive",
+        "education",
+        "planetarium"
+      ]
+    },
+    {
+      "id": "KHD_SC02",
+      "name": "Little Innovators Lab",
+      "short_description": "A creative space where children can engage in STEM activities, robotics workshops, and experimental learning through play. Fosters problem-solving skills.",
+      "subtype": "Science Centers",
+      "address": "Somoni Street 28, Khujand",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628170889988-51f143715ac9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "STEM",
+        "robotics",
+        "workshops"
+      ]
+    },
+    {
+      "id": "KHD_SC03",
+      "name": "Future Engineers' Workshop",
+      "short_description": "Dedicated to engineering principles, this center offers building challenges, simple machine demonstrations, and a space for kids to design and test their own creations.",
+      "subtype": "Science Centers",
+      "address": "Ismoili Somoni Avenue 5B, Khujand",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596700057207-6c3e3a47926e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "engineering",
+        "building",
+        "design"
+      ]
+    },
+    {
+      "id": "KHD_SC04",
+      "name": "Khujand Eco-Science Hub",
+      "short_description": "Focuses on environmental science, offering exhibits on local ecosystems, renewable energy, and sustainability practices through engaging, hands-on activities.",
+      "subtype": "Science Centers",
+      "address": "Near Youth Lake Park, Khujand",
+      "opening_hours": "11:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1595180633423-f36113b2c270?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "environment",
+        "ecology",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "KHD_DP01",
+      "name": "Jurassic Khujand Land",
+      "short_description": "Step back in time to an era dominated by colossal dinosaurs. Features life-sized animatronic dinosaurs, fossil digs, and educational exhibits.",
+      "subtype": "Dinosaur Parks",
+      "address": "Somoni Park area, Khujand",
+      "opening_hours": "09:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1547466170-ae5bdfa89047?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "animatronics",
+        "fossils",
+        "prehistoric"
+      ]
+    },
+    {
+      "id": "KHD_DP02",
+      "name": "Dino Roar Adventure",
+      "short_description": "An interactive dinosaur park with walking trails among realistic dino replicas, a 'dinosaur egg' hunt, and a mini-museum about paleontology.",
+      "subtype": "Dinosaur Parks",
+      "address": "Near Kamoli Khujandi Park, Khujand",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1534008984920-5c66e2c39a38?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "paleontology",
+        "adventure",
+        "replicas"
+      ]
+    },
+    {
+      "id": "KHD_DP03",
+      "name": "Triassic Trek Discovery",
+      "short_description": "Explore the earliest period of dinosaurs in this immersive park, featuring smaller, less-known species and geological formations from the Triassic period.",
+      "subtype": "Dinosaur Parks",
+      "address": "Guliston Avenue 7, Khujand",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517435889389-9e85501ae730?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "geology",
+        "discovery",
+        "triassic"
+      ]
+    },
+    {
+      "id": "KHD_DP04",
+      "name": "Khujand Dino Dig Site",
+      "short_description": "A hands-on experience where children can act as paleontologists, digging for replica bones in a large sandpit and assembling dinosaur skeletons.",
+      "subtype": "Dinosaur Parks",
+      "address": "Near Amu Darya Riverside, Khujand",
+      "opening_hours": "10:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517424600-d868749a9528?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dig site",
+        "interactive",
+        "paleontology"
+      ]
+    },
+    {
+      "id": "KHD_AQ01",
+      "name": "Khujand Underwater World",
+      "short_description": "Explore the diverse aquatic life of the world's oceans and freshwater systems. Features a walk-through tunnel and daily feeding shows.",
+      "subtype": "Aquariums",
+      "address": "Shohmansur Street 15, Khujand",
+      "opening_hours": "09:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510414842594-e61da1701ae2?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "marine life",
+        "oceanic",
+        "feeding shows"
+      ]
+    },
+    {
+      "id": "KHD_AQ02",
+      "name": "Syr Darya Aquarium & River Life Center",
+      "short_description": "Dedicated to the aquatic ecosystems of the Syr Darya river and other Central Asian freshwater environments. Learn about local fish and conservation efforts.",
+      "subtype": "Aquariums",
+      "address": "Near Syr Darya Embankment, Khujand",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582239462719-2169b1836173?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "freshwater",
+        "conservation",
+        "local species"
+      ]
+    },
+    {
+      "id": "KHD_AQ03",
+      "name": "Coral Reef Discovery",
+      "short_description": "A vibrant exhibition focusing on the beauty and fragility of coral reef ecosystems, home to colorful fish and unique invertebrates.",
+      "subtype": "Aquariums",
+      "address": "Khujand City Center Mall, Khujand",
+      "opening_hours": "11:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-154030626786-d24177d0cfef?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "coral reef",
+        "tropical fish",
+        "invertebrates"
+      ]
+    },
+    {
+      "id": "KHD_AQ04",
+      "name": "Touch Pool & Tide Pool Explorers",
+      "short_description": "An interactive area where children can gently touch starfish, sea cucumbers, and other tide pool creatures under the supervision of educators.",
+      "subtype": "Aquariums",
+      "address": "Guliston Street 22, Khujand",
+      "opening_hours": "09:30-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1509376918854-b63399083321?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive",
+        "marine education",
+        "tide pool"
+      ]
+    },
+    {
+      "id": "KHD_CPT01",
+      "name": "Khujand Star Circus",
+      "short_description": "A traditional circus featuring acrobats, clowns, animal acts (ethical, domesticated animals only), and thrilling performances for all ages.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Park Culture & Recreation named after Kamoli Khujandi, Khujand",
+      "opening_hours": "17:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510443422452-45e0d720c279?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "acrobatics",
+        "clowns",
+        "live show"
+      ]
+    },
+    {
+      "id": "KHD_CPT02",
+      "name": "Magic Strings Puppet Theater",
+      "short_description": "Delightful puppet shows bringing classic fairy tales and local legends to life with beautifully crafted puppets and engaging storytelling.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Somoni Street 33, Khujand",
+      "opening_hours": "11:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1541885747-817ec7b0f694?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "puppets",
+        "storytelling",
+        "theater"
+      ]
+    },
+    {
+      "id": "KHD_CPT03",
+      "name": "Khujand Youth Circus School",
+      "short_description": "Not just a show, but a place where kids can learn circus skills like juggling, acrobatics, and unicycling. Offers weekly performances by students.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Ibn Sino Avenue 10, Khujand",
+      "opening_hours": "14:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1550992388-b4b12c8b09b5?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "circus skills",
+        "youth",
+        "performance"
+      ]
+    },
+    {
+      "id": "KHD_CPT04",
+      "name": "Shadow Play Fantasies",
+      "short_description": "A unique puppet theater specializing in traditional and modern shadow puppetry, creating magical visual stories with light and silhouette.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Navruz Park Cultural Center, Khujand",
+      "opening_hours": "18:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579201940989-1e3c23932e67?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "shadow puppets",
+        "visual arts",
+        "traditional"
+      ]
+    },
+    {
+      "id": "KHD_AQG01",
+      "name": "Lost City Khujand Escape Room",
+      "short_description": "Teams solve puzzles and unravel mysteries to escape themed rooms within a time limit. Offers various difficulty levels suitable for families.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Khujand Plaza, Building C, Floor 2, Khujand",
+      "opening_hours": "10:00-22:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1553942023-e66bc28c116c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "escape room",
+        "puzzles",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "KHD_AQG02",
+      "name": "Treasure Hunt of the Ancient Silk Road",
+      "short_description": "An outdoor treasure hunt combining historical facts about the Silk Road with engaging clues and challenges spread across a local park.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Navruz Park, Khujand",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1502444330042-d1a27e77150d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "treasure hunt",
+        "outdoor",
+        "history"
+      ]
+    },
+    {
+      "id": "KHD_AQG03",
+      "name": "Mythical Creatures VR Quest",
+      "short_description": "Immerse yourself in virtual reality to complete quests and interact with legendary creatures in fantastical landscapes. A thrilling digital adventure.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Lenin Avenue 45, Khujand",
+      "opening_hours": "12:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620950346377-f2730072d62d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "virtual reality",
+        "fantasy",
+        "quest"
+      ]
+    },
+    {
+      "id": "KHD_AQG04",
+      "name": "Secret Agent Training Academy",
+      "short_description": "Kids tackle spy-themed challenges, obstacle courses, and puzzle-solving missions to become certified secret agents. Develops agility and critical thinking.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Near Youth Lake Sports Complex, Khujand",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549445207-6b4d34c9c277?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "spy games",
+        "obstacle course",
+        "agility"
+      ]
+    },
+    {
+      "id": "KHD_CMG01",
+      "name": "Khujand Toon Town Festival",
+      "short_description": "A rotating event featuring popular cartoon characters from around the world. Kids can meet, take photos, and interact with their favorite animated heroes.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Somoni Square, Khujand",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510521849184-a1a7983637e7?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "characters",
+        "photo ops",
+        "event"
+      ]
+    },
+    {
+      "id": "KHD_CMG02",
+      "name": "Hero's Welcome Character Breakfast",
+      "short_description": "Enjoy a delicious breakfast buffet while beloved cartoon characters visit your table for individual interactions, photos, and autographs.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Grand Hotel Khujand Restaurant, Khujand",
+      "opening_hours": "08:00-10:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1544837568-d06d4e511453?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "breakfast",
+        "dining",
+        "characters"
+      ]
+    },
+    {
+      "id": "KHD_CMG03",
+      "name": "Local Legends & Storybook Friends",
+      "short_description": "Meet characters based on traditional Tajik folklore and classic children's storybooks, promoting local culture and literacy.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "National Library of Khujand, Children's Wing",
+      "opening_hours": "14:00-16:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1616110860829-1667b147d33b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "folklore",
+        "literacy",
+        "cultural"
+      ]
+    },
+    {
+      "id": "KHD_CMG04",
+      "name": "Princess & Superhero Parade",
+      "short_description": "A lively parade through a designated route where children can wave to and greet their favorite princesses and superheroes. Daily photo opportunities after the parade.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Main Avenue, Khujand Park, Khujand",
+      "opening_hours": "15:00-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579737962451-c06b29d99214?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "parade",
+        "superheroes",
+        "princesses"
+      ]
+    },
+    {
+      "id": "KHD_FA01",
+      "name": "Khujand Children's Farmstead",
+      "short_description": "A working farm where kids can interact with friendly farm animals, learn about agriculture, and participate in feeding and grooming activities.",
+      "subtype": "Farm Attractions",
+      "address": "Outskirts of Khujand, towards Buston",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506729623694-811c4ac7993a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "petting zoo",
+        "agriculture",
+        "animal interaction"
+      ]
+    },
+    {
+      "id": "KHD_FA02",
+      "name": "Harvest Haven Mini Farm",
+      "short_description": "Focuses on crop growing and gardening for kids. Features seasonal fruit picking, vegetable patches, and workshops on healthy eating and plant care.",
+      "subtype": "Farm Attractions",
+      "address": "Near Youth Lake Park, Agricultural Zone, Khujand",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1456926690460-6b3a0c648873?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "gardening",
+        "fruit picking",
+        "seasonal"
+      ]
+    },
+    {
+      "id": "KHD_FA03",
+      "name": "Wool & Wonders Alpaca Farm",
+      "short_description": "A unique farm experience centered around alpacas and other fiber animals. Kids can feed, pet, and learn about wool production, with spinning demonstrations.",
+      "subtype": "Farm Attractions",
+      "address": "Road to Chkalov, Khujand Region",
+      "opening_hours": "10:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1533446059-45053b93475f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "alpacas",
+        "fiber animals",
+        "crafts"
+      ]
+    },
+    {
+      "id": "KHD_FA04",
+      "name": "Farmer's Fun Playground",
+      "short_description": "Combines a farm setting with playground elements. Kids can climb on tractor replicas, navigate hay bale mazes, and play in barn-themed structures.",
+      "subtype": "Farm Attractions",
+      "address": "Near Friendship Park, Khujand",
+      "opening_hours": "09:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1507721999464-32588e390c50?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "playground",
+        "hay maze",
+        "farm theme"
+      ]
+    },
+    {
+      "id": "KHD_TPK01",
+      "name": "Khujand Wonder World",
+      "short_description": "A full-scale theme park designed for younger children, featuring gentle rides, character zones, and live entertainment. Safe and exciting for families.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Grand Park Avenue, Outskirts of Khujand",
+      "opening_hours": "10:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1503920953155-ac1a0b33c577?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "rides",
+        "entertainment",
+        "family fun"
+      ]
+    },
+    {
+      "id": "KHD_TPK02",
+      "name": "Miniature Khujand Land",
+      "short_description": "Explore famous landmarks of Khujand and Tajikistan in miniature form. Also features small-scale train rides and interactive cultural exhibits for kids.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Near Youth Lake, Khujand",
+      "opening_hours": "09:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621379373268-043542a22026?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "miniature",
+        "cultural",
+        "train rides"
+      ]
+    },
+    {
+      "id": "KHD_TPK03",
+      "name": "Fantasy Forest Adventure Park",
+      "short_description": "A nature-themed park with treehouse playgrounds, rope bridges, a small zipline for kids, and an enchanted forest trail with mythical creature statues.",
+      "subtype": "Theme Parks for Kids",
+      "address": "East of Khujand, near Amu Darya river",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542496856-2b4703a9f029?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature theme",
+        "zipline",
+        "treehouses"
+      ]
+    },
+    {
+      "id": "KHD_TPK04",
+      "name": "Water Splash Kingdom",
+      "short_description": "A themed water park with splash pads, shallow pools, mini slides, and water play structures, perfect for beating the summer heat.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Sayhun Street 4, Khujand",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1521404094708-466c40683a6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "water park",
+        "slides",
+        "summer fun"
+      ]
+    },
+    {
+      "id": "KHD_ZPZ01",
+      "name": "Khujand Family Zoo",
+      "short_description": "Home to a variety of animals from around the world, with spacious enclosures, educational talks, and conservation programs.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Zarafshan District, Khujand",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1534066548232-f3f20b32f483?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "educational"
+      ]
+    },
+    {
+      "id": "KHD_ZPZ02",
+      "name": "Little Paws Petting Farm",
+      "short_description": "A charming petting zoo where children can safely interact with goats, sheep, rabbits, and other friendly farm animals.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Rudaki Park area, Khujand",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1522851493407-352093d9a16f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "interactive"
+      ]
+    },
+    {
+      "id": "KHD_ZPZ03",
+      "name": "Aviary of Khujand Birds",
+      "short_description": "An immersive aviary featuring local and exotic bird species. Walk through free-flight enclosures and learn about different bird habitats.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Park Culture & Recreation named after Kamoli Khujandi, Khujand",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510206109312-70b5a1902264?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "birds",
+        "aviary",
+        "habitats"
+      ]
+    },
+    {
+      "id": "KHD_ZPZ04",
+      "name": "Reptile Realm & Amphibian Ark",
+      "short_description": "Discover the fascinating world of reptiles and amphibians from various continents. Educational displays and occasional live handling demonstrations.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Khujand Botanical Garden, North Wing",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582046261595-65c378e906c5?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "reptiles",
+        "amphibians",
+        "educational"
+      ]
+    },
+    {
+      "id": "KHD_PAP01",
+      "name": "Central Khujand Adventure Park",
+      "short_description": "A large outdoor adventure park with climbing structures, giant slides, ziplines for older kids, and designated areas for toddlers.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Main entrance of Navruz Park, Khujand",
+      "opening_hours": "08:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1577771761619-a6f91671239c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "climbing",
+        "slides",
+        "outdoor play"
+      ]
+    },
+    {
+      "id": "KHD_PAP02",
+      "name": "Toddler's Tiny Town Playground",
+      "short_description": "Specifically designed for very young children, this soft-play area offers safe and engaging activities like mini-slides, ball pits, and sensory play.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Khujand Family Entertainment Center, Floor 1",
+      "opening_hours": "09:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1568297771965-0a3ceb161240?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddlers",
+        "soft play",
+        "sensory"
+      ]
+    },
+    {
+      "id": "KHD_PAP03",
+      "name": "Sky High Ropes Course",
+      "short_description": "An aerial adventure for brave kids and teens, featuring a multi-level ropes course with various obstacles and challenges high above the ground.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Youth Lake Recreation Area, Khujand",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1574345244569-bfec994119d5?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ropes course",
+        "aerial adventure",
+        "challenges"
+      ]
+    },
+    {
+      "id": "KHD_PAP04",
+      "name": "Urban Sport Park & Skate Zone",
+      "short_description": "A dynamic park designed for active kids, featuring skate ramps, bike trails, and open spaces for general sports and free play.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Corner of Lenin Avenue and Vahdat Street, Khujand",
+      "opening_hours": "07:00-21:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1629854497554-ce11124560b4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "skatepark",
+        "bike trails",
+        "free play"
+      ]
+    }
+  ]
+}

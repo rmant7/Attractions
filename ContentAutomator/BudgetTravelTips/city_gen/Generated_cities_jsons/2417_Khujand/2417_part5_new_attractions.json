@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Khujand",
+    "city_id": "2417"
+  },
+  "items": [
+    {
+      "id": "KHJ-EP-001",
+      "name": "Syr Darya Eco-Park",
+      "short_description": "A newly developed green oasis along the Syr Darya river, offering walking paths, picnic areas, and educational exhibits on local flora and fauna. Perfect for nature lovers and families.",
+      "address": "Along the Syr Darya embankment, near Kamoli Khujandi Park",
+      "opening_hours": "06:00-22:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1549733475-474cf4a15998?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "nature",
+        "park",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": "KHJ-CAG-002",
+      "name": "Khujand Contemporary Art Gallery",
+      "short_description": "Showcasing modern Tajik and Central Asian art, this gallery features rotating exhibitions, workshops, and a vibrant space for artistic expression and cultural exchange.",
+      "address": "Rudaki Avenue 120",
+      "opening_hours": "10:00-19:00 (Closed Mondays)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579548122071-9b1979bbd2ba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "art",
+        "culture",
+        "gallery"
+      ]
+    },
+    {
+      "id": "KHJ-GP-003",
+      "name": "Silk Road Gastropub & Lounge",
+      "short_description": "A chic new spot combining traditional Tajik flavors with modern culinary techniques, offering craft beverages and live music in a sophisticated ambiance.",
+      "address": "Ismail Somoni Avenue 55",
+      "opening_hours": "12:00-00:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1600569728287-21a1ce011a68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "restaurant",
+        "nightlife",
+        "food"
+      ]
+    },
+    {
+      "id": "KHJ-KDC-004",
+      "name": "Kids' World Discovery Center",
+      "short_description": "An interactive educational play zone for children up to 12 years old, featuring STEM exhibits, creative play areas, and supervised activities designed to spark curiosity.",
+      "address": "Bobojon Gafurov Street 8, inside Khujand City Mall",
+      "opening_hours": "10:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549040330-9755e3962638?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "family-friendly",
+        "kids",
+        "education"
+      ]
+    },
+    {
+      "id": "KHJ-DHM-005",
+      "name": "Khujand Digital History Museum",
+      "short_description": "Experience Khujand's rich history through immersive digital exhibits, virtual reality tours, and interactive displays, bringing ancient legends and modern developments to life.",
+      "address": "Kandal Boulevard 30",
+      "opening_hours": "09:00-17:00 (Closed Tuesdays)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547844111-d1c93a8d11c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "history",
+        "museum",
+        "interactive"
+      ]
+    },
+    {
+      "id": "KHJ-RCC-006",
+      "name": "Rooftop Cinema & Cafe 'Starlight'",
+      "short_description": "Enjoy classic films and new releases under the stars with panoramic views of Khujand, complemented by a cozy cafe serving snacks and beverages. A unique evening experience.",
+      "address": "Intersection of Lenin Street and Turgenev Street (top floor of Khujand Plaza)",
+      "opening_hours": "19:00-00:00 (Seasonal)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596707323136-e0e0f80590ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "cinema",
+        "nightlife",
+        "views"
+      ]
+    },
+    {
+      "id": "KHJ-GBF-007",
+      "name": "The Grand Bazaar Food Court & Artisan Market",
+      "short_description": "An expansion of the famous Panjshanbe Bazaar, this new section offers a modern food court with diverse culinary options and a dedicated market for local artisans and handicrafts.",
+      "address": "Near Panjshanbe Bazaar entrance, S. Sherozi Street",
+      "opening_hours": "09:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1620023429391-723a1a6dd3e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "food",
+        "shopping",
+        "market"
+      ]
+    },
+    {
+      "id": "KHJ-BGA-008",
+      "name": "Khujand Botanical Garden Annex (Medicinal Plants)",
+      "short_description": "An extension of the main botanical garden, this specialized annex focuses on the cultivation and study of medicinal plants native to Central Asia, offering guided tours and educational programs.",
+      "address": "Firdavsi Street 15 (adjacent to main Botanical Garden)",
+      "opening_hours": "08:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549646700-1926673f8373?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "nature",
+        "education",
+        "garden"
+      ]
+    },
+    {
+      "id": "KHJ-VR-009",
+      "name": "Synergy VR Gaming Arena",
+      "short_description": "Step into virtual worlds at Khujand's newest VR gaming center. Offering a wide range of immersive experiences from action-packed adventures to puzzle-solving challenges for all ages.",
+      "address": "Tojikon Street 7, Unit 201",
+      "opening_hours": "11:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1599388147321-72921dd394c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "gaming",
+        "entertainment",
+        "technology"
+      ]
+    },
+    {
+      "id": "KHJ-WPA-010",
+      "name": "Khujand Waterfront Promenade & Amphitheater",
+      "short_description": "A beautifully redesigned section of the Syr Darya embankment, featuring wide walking paths, scenic seating areas, and a new open-air amphitheater for concerts and cultural events.",
+      "address": "Northern bank of Syr Darya, between Pushkin Park and Victory Park",
+      "opening_hours": "24/7 (Amphitheater events vary)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1593361099684-2977b068212e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "outdoor",
+        "events",
+        "views"
+      ]
+    }
+  ]
+}

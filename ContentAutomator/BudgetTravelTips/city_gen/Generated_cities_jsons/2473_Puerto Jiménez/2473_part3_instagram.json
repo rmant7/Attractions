@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Puerto Jiménez",
+    "city_id": "2473"
+  },
+  "items": [
+    {
+      "id": "PJ_CI_001",
+      "name": "Osa Conservation Art Pathway",
+      "short_description": "Discover a unique outdoor gallery featuring local artists' interpretations of Osa's rich biodiversity, blending art seamlessly with the rainforest environment.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Near Osa Conservation HQ",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1629827602058-294025d259e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "eco-art",
+        "local culture",
+        "rainforest trail"
+      ]
+    },
+    {
+      "id": "PJ_CI_002",
+      "name": "Boruca Indigenous Craft Center",
+      "short_description": "Step into a vibrant showcase of the Boruca people's artistry, where traditional masks, textiles, and crafts tell ancient stories of Costa Rica.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Main Street, Puerto Jiménez",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1625441586716-2f0941910d65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "indigenous crafts",
+        "cultural heritage",
+        "souvenirs"
+      ]
+    },
+    {
+      "id": "PJ_CI_003",
+      "name": "Gold Rush History Corner",
+      "short_description": "Unearth the past in this small, curated display dedicated to Puerto Jiménez's gold mining heritage, showcasing tools and tales from a bygone era.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Next to the town's park",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549419407-7f0227221d8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "history",
+        "mining heritage",
+        "local stories"
+      ]
+    },
+    {
+      "id": "PJ_CI_004",
+      "name": "Golfo Dulce Marine Life Exhibit",
+      "short_description": "Explore interactive exhibits that highlight the incredible biodiversity of the Golfo Dulce, from playful dolphins to majestic humpback whales.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Near the public pier",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1577908006422-9226f9872e29?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "marine biology",
+        "conservation",
+        "educational"
+      ]
+    },
+    {
+      "id": "PJ_RV_001",
+      "name": "Agua Dulce Sunset Deck",
+      "short_description": "Perched above the tree line, this restaurant deck offers panoramic views of the Pacific Ocean, perfect for sunset cocktails and spotting wildlife.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Agua Dulce Beach Resort",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1551882547-ff40c603650d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "ocean view",
+        "sunset drinks",
+        "resort dining"
+      ]
+    },
+    {
+      "id": "PJ_RV_002",
+      "name": "Lapa Rios Rainforest Vista Lounge",
+      "short_description": "Experience breathtaking views of the rainforest canopy meeting the ocean from this elevated lounge, a prime spot for birdwatching and tranquility.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Lapa Rios Eco-Lodge",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563273398-35639149ce77?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "eco-lodge",
+        "rainforest view",
+        "wildlife spotting"
+      ]
+    },
+    {
+      "id": "PJ_RV_003",
+      "name": "El Remanso Elevated Dining",
+      "short_description": "Dine suspended amidst the jungle, offering a unique perspective of the rich biodiversity and glimpses of the Pacific horizon.",
+      "subtype": "Rooftop Views",
+      "location_hint": "El Remanso Rainforest Retreat",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1596701830604-03290dd70817?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "jungle dining",
+        "luxury",
+        "romantic setting"
+      ]
+    },
+    {
+      "id": "PJ_RV_004",
+      "name": "Golfo Dulce Bay Viewpoint",
+      "short_description": "An informal, elevated spot in town offering charming views of the Golfo Dulce, perfect for watching local boats and the occasional dolphin.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Near the town's main dock",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1588661708848-18e5b565a91f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "bay view",
+        "local life",
+        "sunset spot"
+      ]
+    },
+    {
+      "id": "PJ_MB_001",
+      "name": "Puerto Jiménez Farmer's Market",
+      "short_description": "Immerse yourself in local life at this bustling weekly market, offering fresh produce, artisanal goods, and authentic Costa Rican flavors.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Central Park area (select days)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1528698059714-9df2c2c019d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "fresh produce",
+        "local food",
+        "community market"
+      ]
+    },
+    {
+      "id": "PJ_MB_002",
+      "name": "Osa Artisan Craft Stalls",
+      "short_description": "Discover unique handmade souvenirs and gifts crafted by local artisans, from intricate jewelry to sustainable wood carvings, reflecting the region's natural beauty.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Near Corcovado National Park office",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1616428766113-e7178c54eb53?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "handmade gifts",
+        "local art",
+        "souvenirs"
+      ]
+    },
+    {
+      "id": "PJ_MB_003",
+      "name": "Fisherman's Daily Catch",
+      "short_description": "Witness the day's fresh bounty as local fishermen bring in their catch. A true taste of authentic coastal life and the freshest seafood.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Public dock, Golfo Dulce",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1581404092762-b9e830e01053?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "fresh seafood",
+        "local experience",
+        "coastal life"
+      ]
+    },
+    {
+      "id": "PJ_MB_004",
+      "name": "Corcovado Gateway Bazaar",
+      "short_description": "Stock up on essentials and unique keepsakes before or after your Corcovado adventure, with a selection of outdoor gear and local trinkets.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Road to Carate",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1585869272337-b95603c40332?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "adventure gear",
+        "souvenirs",
+        "travel supplies"
+      ]
+    },
+    {
+      "id": "PJ_IP_001",
+      "name": "Bosque del Cabo Cliffside Pool",
+      "short_description": "Swim on the edge of the world in this stunning infinity pool, offering unparalleled views of the Pacific Ocean and vibrant jungle below.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Bosque del Cabo Rainforest Lodge",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563911082-f673f5544d6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "luxury resort",
+        "ocean view",
+        "relaxing"
+      ]
+    },
+    {
+      "id": "PJ_IP_002",
+      "name": "Lapa Rios Jungle Edge Pool",
+      "short_description": "Immerse yourself in nature at this eco-lodge's infinity pool, where the rainforest meets the sea, and monkeys might join you from the trees.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Lapa Rios Eco-Lodge",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582260654160-b6f1309f582f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "eco-luxury",
+        "wildlife",
+        "rainforest pool"
+      ]
+    },
+    {
+      "id": "PJ_IP_003",
+      "name": "El Remanso Cascading Horizon Pool",
+      "short_description": "This multi-tiered infinity pool blends seamlessly with the jungle, offering serene relaxation and a sense of being one with the wild Osa Peninsula.",
+      "subtype": "Infinity Pools",
+      "location_hint": "El Remanso Rainforest Retreat",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1555850409-f64f89d6e426?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "sustainable travel",
+        "tranquil",
+        "jungle escape"
+      ]
+    },
+    {
+      "id": "PJ_IP_004",
+      "name": "Iguana Lodge Oceanfront Pool",
+      "short_description": "Enjoy an infinity edge pool just steps from the beach, providing refreshing dips with the sound of waves and stunning views of the Pacific.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Iguana Lodge",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1583020614838-89c5651c6b10?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "beachfront",
+        "relaxing",
+        "ocean breeze"
+      ]
+    },
+    {
+      "id": "PJ_IL_001",
+      "name": "Puerto Jiménez Airstrip",
+      "short_description": "More than just a runway, this charming airstrip is the iconic gateway to the Osa Peninsula, offering breathtaking aerial views upon arrival and departure.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "North side of town",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1594916843477-94d86b9a8966?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "arrival point",
+        "aerial views",
+        "gateway to Osa"
+      ]
+    },
+    {
+      "id": "PJ_IL_002",
+      "name": "Golfo Dulce Public Pier",
+      "short_description": "A bustling hub where fishing boats dock and tour operators depart. The pier offers fantastic views of the gulf and local life unfolding.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Waterfront, central Puerto Jiménez",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1583416565191-2330a10c73d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "marina",
+        "fishing",
+        "sunset views"
+      ]
+    },
+    {
+      "id": "PJ_IL_003",
+      "name": "Corcovado National Park Entrance Sign",
+      "short_description": "Capture your adventure's beginning at the official entrance sign to Corcovado National Park, signaling your immersion into one of the world's most biodiverse places.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Carate entrance",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1598460613867-27083049b407?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "national park",
+        "adventure",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "PJ_IL_004",
+      "name": "The Grand Ceiba Tree",
+      "short_description": "Stand in awe beneath the colossal canopy of a magnificent ancient Ceiba tree, a true natural monument and symbol of the Osa's pristine wilderness.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Off the road to Matapalo",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1621252194576-a4f664531853?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "ancient tree",
+        "nature's marvel",
+        "rainforest giant"
+      ]
+    },
+    {
+      "id": "PJ_UNW_001",
+      "name": "Bioluminescent Kayaking in Golfo Dulce",
+      "short_description": "Paddle through a magical night as the waters of Golfo Dulce light up with ethereal blue glow, a truly unforgettable natural phenomenon.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Golfo Dulce estuary",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1620610996845-d85186b85671?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "bioluminescence",
+        "night adventure",
+        "kayaking"
+      ]
+    },
+    {
+      "id": "PJ_UNW_002",
+      "name": "Osa Mangrove Labyrinth",
+      "short_description": "Navigate an intricate maze of vital mangrove channels, teeming with unique wildlife from crocodiles to exotic birds.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Rio Tigre Mangroves",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1616781223945-812e12822a16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "mangrove forest",
+        "wildlife watching",
+        "kayak tour"
+      ]
+    },
+    {
+      "id": "PJ_UNW_003",
+      "name": "Scarlet Macaw Roosting Trees",
+      "short_description": "Witness a spectacular daily natural event as hundreds of vibrant scarlet macaws gather in specific trees, filling the air with color and squawks.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Near Escondido Beach",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1627889399433-28d1979201a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "macaws",
+        "birdwatching",
+        "wildlife spectacle"
+      ]
+    },
+    {
+      "id": "PJ_UNW_004",
+      "name": "Carbonera Hidden Hot Springs",
+      "short_description": "Discover a secluded natural hot spring nestled deep within the rainforest, offering a rejuvenating soak surrounded by pristine wilderness.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Carbonera area (require guide)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1613580521361-ec85ae90e87b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "hot springs",
+        "rainforest adventure",
+        "hidden gem"
+      ]
+    },
+    {
+      "id": "PJ_UHS_001",
+      "name": "Treehouse Lodge at Finca Bellavista",
+      "short_description": "Live out your childhood dreams in an incredible treehouse, nestled high in the canopy, offering a truly immersive jungle experience.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Finca Bellavista (south of PJ)",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1601002340263-128a1c97f480?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "treehouse",
+        "eco-lodge",
+        "jungle adventure"
+      ]
+    },
+    {
+      "id": "PJ_UHS_002",
+      "name": "Glamping Tents at Saladero Eco Lodge",
+      "short_description": "Experience luxury camping in spacious safari-style tents, with comfortable beds and stunning views of the Golfo Dulce from your private deck.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Saladero Eco Lodge (across Golfo Dulce)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1594246001049-8c9e05ce4133?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "glamping",
+        "eco-friendly",
+        "bay views"
+      ]
+    },
+    {
+      "id": "PJ_UHS_003",
+      "name": "Open-Air Bungalows at Osa Clandestina",
+      "short_description": "Connect deeply with nature in these thoughtfully designed, open-air bungalows, where the sounds of the jungle become your lullaby.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Osa Clandestina",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1616766467049-0d19e830ed6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "boutique hotel",
+        "nature immersion",
+        "sustainable stay"
+      ]
+    },
+    {
+      "id": "PJ_UHS_004",
+      "name": "Beachfront Cabinas at Matapalo Retreat",
+      "short_description": "Relax in charming, rustic cabinas just steps from the wild, pristine beaches of Matapalo, where surf and jungle meet.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Matapalo",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596701830604-03290dd70817?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "beach accommodation",
+        "surf spot",
+        "rustic charm"
+      ]
+    },
+    {
+      "id": "PJ_CN_001",
+      "name": "Fisherman's Wharf & Boat Row",
+      "short_description": "Stroll along the vibrant waterfront where colorful fishing boats are docked, surrounded by brightly painted local houses and bustling activity.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Along the Golfo Dulce waterfront",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582294101168-3e4b373f3248?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "coastal charm",
+        "local life",
+        "vibrant colors"
+      ]
+    },
+    {
+      "id": "PJ_CN_002",
+      "name": "Main Street Artisan Row",
+      "short_description": "Explore the town's main street, dotted with lively storefronts and small galleries showcasing local crafts and vibrant murals.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Puerto Jiménez Main Street",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1584988775249-166258074d28?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "shopping street",
+        "local boutiques",
+        "street art"
+      ]
+    },
+    {
+      "id": "PJ_CN_003",
+      "name": "Local Eateries & Soda Strip",
+      "short_description": "A charming stretch of road featuring a collection of colorful local sodas and restaurants, each offering delicious Tico cuisine in a festive setting.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "South end of town near the airport",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1563273398-35639149ce77?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "local food",
+        "dining",
+        "vibrant facades"
+      ]
+    },
+    {
+      "id": "PJ_CN_004",
+      "name": "Central Park & Community Hub",
+      "short_description": "The heart of Puerto Jiménez, this area surrounds the central park with its bright benches and local buildings, often hosting community events.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Town center",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1621252194576-a4f664531853?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "town square",
+        "community",
+        "local gatherings"
+      ]
+    },
+    {
+      "id": "PJ_HAC_001",
+      "name": "Casa Orquideas Secret Garden",
+      "short_description": "Discover a tranquil, hidden courtyard within this famous botanical garden, bursting with exotic orchids and a serene atmosphere.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Casa Orquideas (accessible by boat from PJ)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549419407-7f0227221d8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "botanical garden",
+        "tranquil escape",
+        "orchids"
+      ]
+    },
+    {
+      "id": "PJ_HAC_002",
+      "name": "Local Cafe Oasis Courtyard",
+      "short_description": "Tucked away off the main thoroughfare, this charming cafe offers a peaceful, plant-filled courtyard perfect for a quiet coffee break.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Behind Main Street shops",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1502424888849-c0c16999a071?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "cozy cafe",
+        "quiet spot",
+        "local hangout"
+      ]
+    },
+    {
+      "id": "PJ_HAC_003",
+      "name": "Artisan Workshop Passage",
+      "short_description": "A narrow, often overlooked passage leading to small workshops where local artists create and display their unique handmade goods.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Off the road to Dos Brazos",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1616428766113-e7178c54eb53?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "local artists",
+        "crafts",
+        "secret passage"
+      ]
+    },
+    {
+      "id": "PJ_HAC_004",
+      "name": "Garden Inn Secluded Patio",
+      "short_description": "Find peace in this small inn's hidden patio, a lush green space perfect for reading or enjoying a quiet moment away from the town's gentle bustle.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Near Puerto Jiménez Church",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582260654160-b6f1309f582f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "garden",
+        "relaxation",
+        "peaceful retreat"
+      ]
+    },
+    {
+      "id": "PJ_SAM_001",
+      "name": "Osa Wildlife Conservation Mural",
+      "short_description": "A striking mural depicting the diverse wildlife of the Osa Peninsula, a vibrant testament to local conservation efforts and natural beauty.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Community Center Wall",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1586567115160-b96277e923e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "wildlife art",
+        "conservation",
+        "community art"
+      ]
+    },
+    {
+      "id": "PJ_SAM_002",
+      "name": "Fisherman's Story Wall",
+      "short_description": "A series of colorful murals along the waterfront that tell the stories of Puerto Jiménez's fishing heritage and connection to the sea.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near the public pier",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1584988775249-166258074d28?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "maritime art",
+        "local history",
+        "waterfront"
+      ]
+    },
+    {
+      "id": "PJ_SAM_003",
+      "name": "Corcovado Flora & Fauna Murals",
+      "short_description": "Vivid murals adorning buildings near the park's gateway, showcasing the incredible plant and animal life found within Corcovado National Park.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "On the road to Carate",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1598460613867-27083049b407?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "nature art",
+        "park gateway",
+        "biodiversity"
+      ]
+    },
+    {
+      "id": "PJ_SAM_004",
+      "name": "Indigenous Boruca Mask Mural",
+      "short_description": "A powerful and colorful mural celebrating the iconic masks and rich cultural traditions of the Boruca indigenous people.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near Boruca Craft Center",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1625441586716-2f0941910d65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "indigenous art",
+        "cultural murals",
+        "traditional crafts"
+      ]
+    }
+  ]
+}

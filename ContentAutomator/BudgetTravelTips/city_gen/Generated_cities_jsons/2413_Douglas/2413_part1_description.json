@@ -1,0 +1,64 @@
+{
+  "id": "2413",
+  "name": "Douglas",
+  "country": "Isle of Man",
+  "description": "Douglas, the vibrant capital of the Isle of Man, is a captivating blend of Victorian charm, maritime heritage, and modern island life. Nestled along a sweeping bay, the town's promenade is a grand testament to its Victorian heyday, featuring horse-drawn trams that offer a nostalgic journey along the coastline. Douglas serves as the island's primary gateway, welcoming visitors via its bustling port and connecting them to the rest of the island through its unique heritage railways—the Manx Electric Railway and the Isle of Man Steam Railway, both offering scenic routes into the Manx countryside and historic towns.\n\nThe city's culture is deeply rooted in its distinct Manx heritage, influenced by Celtic and Norse traditions, reflected in its language (Manx Gaelic alongside English) and the Manx Museum, which provides an excellent overview of the island's history, folklore, and natural environment. Douglas truly comes alive during the famous Isle of Man TT races, transforming into a mecca for motorsport enthusiasts, though its appeal extends far beyond, offering stunning coastal walks, a thriving culinary scene, and a relaxed, friendly atmosphere year-round. From exploring the historic landmarks like the Tower of Refuge in the bay to enjoying contemporary arts and shopping, Douglas provides a perfect base for discovering the unique character of the Isle of Man. Its blend of history, natural beauty, and a strong sense of local identity makes it a fascinating destination for any traveler seeking something a little different.",
+  "themes": [
+    "Heritage Railways",
+    "Victorian Architecture",
+    "Motorcycle Racing",
+    "Island Culture",
+    "Coastal Beauty"
+  ],
+  "body_attributes": {
+    "climate": "Mild, oceanic climate with relatively cool summers and mild winters; frequent rainfall throughout the year.",
+    "best_time_to_visit": "May to September for warmer weather, longer days, and major events like the TT races. May/June specifically for TT.",
+    "population": "27938",
+    "area": "10.1 sq km",
+    "transport_summary": "Excellent public bus network, historic horse-drawn trams, Manx Electric Railway, and Isle of Man Steam Railway for heritage transport, and taxi services.",
+    "safety_level": "Low",
+    "geographical_features": "Located on the east coast of the Isle of Man, fronting a large natural bay with hills rising inland."
+  },
+  "travel_tips": [
+    "Consider purchasing a 'Go Explore' card for unlimited travel on buses and heritage railways, offering great value.",
+    "Book accommodation well in advance, especially during the TT races (late May/early June), as availability becomes scarce and prices rise.",
+    "Pack layers and waterproofs, as the island's weather can be unpredictable, even in summer."
+  ],
+  "budget_tips": [
+    "Utilize the extensive public transport system to save on car rental and parking costs.",
+    "Look for self-catering accommodation options to save on dining out expenses.",
+    "Many attractions, like the Manx Museum, offer free entry, providing great cultural experiences without cost."
+  ],
+  "seo": {
+    "seo_title": "Douglas Isle of Man: Your Guide to the Island Capital",
+    "seo_description": "Discover Douglas, the vibrant capital of the Isle of Man. Explore its Victorian charm, unique heritage railways, TT race culture, and coastal beauty. Plan your trip now!",
+    "keywords": [
+      "Douglas",
+      "Isle of Man",
+      "Manx",
+      "TT races",
+      "heritage railways",
+      "island travel"
+    ]
+  },
+  "meta": {
+    "continent": "Europe",
+    "currency": "Pound Sterling (GBP), Manx Pound (IMP)",
+    "language": "English, Manx Gaelic",
+    "time_zone": "GMT (UTC+0), BST (UTC+1)",
+    "popular_airlines": [
+      "Loganair",
+      "easyJet",
+      "British Airways"
+    ]
+  },
+  "title": "Douglas: Isle of Man's Historic Capital & Gateway to Island Adventure",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Douglas_Promenade_and_Bay%2C_Isle_of_Man_-_geograph.org.uk_-_1022201.jpg/1280px-Douglas_Promenade_and_Bay%2C_Isle_of_Man_-_geograph.org.uk_-_1022201.jpg",
+    "https://unsplash.com/photos/a-view-of-a-city-from-a-hill-65d_1B3m2qA"
+  ],
+  "coordinates": [
+    54.236106872558594,
+    -4.548056125640869
+  ]
+}

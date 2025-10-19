@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "South Caicos",
+    "city_id": "2411"
+  },
+  "items": [
+    {
+      "id": "SC-SF-001",
+      "name": "The Whispering Mangrove Sanctuary",
+      "short_description": "This ancient mangrove stand, believed to be a portal for ancestral spirits, holds an ethereal silence, inviting contemplation and connection with the island's deep past.",
+      "subtype": "Sacred Forests",
+      "address": "East Shore Road, near Cockburn Harbour, South Caicos",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579471190280-922650820f4d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "mangrove",
+        "ancestral",
+        "nature"
+      ]
+    },
+    {
+      "id": "SC-SF-002",
+      "name": "Coppice of Elder Wisdom",
+      "short_description": "Nestled in a secluded valley, this unique coppice woodland is said to hold the collective wisdom of generations, offering clarity and peace to those who meditate within its embrace.",
+      "subtype": "Sacred Forests",
+      "address": "Inland from Highlands, South Caicos",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1518005393049-3a131b796538?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "meditation",
+        "wisdom",
+        "secluded"
+      ]
+    },
+    {
+      "id": "SC-SF-003",
+      "name": "Serpent Palm Grove",
+      "short_description": "A small, isolated cluster of ancient palms whose gnarled trunks twist like serpents, believed to be a sacred site for healing rituals and connecting with the island's protective spirits.",
+      "subtype": "Sacred Forests",
+      "address": "Near Admiral Cockburn National Park, South Caicos",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1594917631336-f0808266205e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "tags": [
+        "healing",
+        "ritual",
+        "palms"
+      ]
+    },
+    {
+      "id": "SC-SF-004",
+      "name": "Grove of Forgotten Saints",
+      "short_description": "This quiet thicket, once a rumored burial ground for early settlers and spiritual leaders, emanates a profound sense of peace and historical resonance, inviting silent remembrance.",
+      "subtype": "Sacred Forests",
+      "address": "Old Settlement Ruins, South Caicos",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1591871279267-9191e7747e4b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "tags": [
+        "history",
+        "remembrance",
+        "peace"
+      ]
+    },
+    {
+      "id": "SC-DPS-001",
+      "name": "Salt Pond of Purification",
+      "short_description": "The vast, shimmering salt ponds are believed to possess cleansing energy, a place where the sun, wind, and mineral-rich earth combine to offer profound spiritual purification.",
+      "subtype": "Desert Power Sites",
+      "address": "Central Salt Ponds, South Caicos",
+      "visiting_hours": "Sunrise-Sunset",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1621360064560-8f9f25a75389?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "purification",
+        "salt",
+        "elemental"
+      ]
+    },
+    {
+      "id": "SC-DPS-002",
+      "name": "Wind-Sculpted Bluffs of Introspection",
+      "short_description": "Perched atop the rugged coastal bluffs, this exposed site, shaped by relentless winds, offers a panoramic vista and an ideal setting for profound introspection and clarity.",
+      "subtype": "Desert Power Sites",
+      "address": "Southern Bluffs, overlooking Sailrock, South Caicos",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1599434442084-256e01a4e21d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "introspection",
+        "coastal",
+        "wind"
+      ]
+    },
+    {
+      "id": "SC-DPS-003",
+      "name": "Sunstone Ridge Altar",
+      "short_description": "A sun-drenched, rocky outcrop where the earth's energy is said to be most potent, favored for sunrise ceremonies and seeking blessings from solar deities.",
+      "subtype": "Desert Power Sites",
+      "address": "Near Highlands Peak, South Caicos",
+      "visiting_hours": "05:30-18:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1547432049-36a56e0f0657?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "tags": [
+        "sunrise",
+        "solar",
+        "blessings"
+      ]
+    },
+    {
+      "id": "SC-DPS-004",
+      "name": "The Lunar Barren",
+      "short_description": "This desolate, almost otherworldly expanse of marl and exposed bedrock, particularly powerful under the full moon, is a site for lunar observances and quiet communion with cosmic energies.",
+      "subtype": "Desert Power Sites",
+      "address": "Remote Marls, northwest of South Caicos",
+      "visiting_hours": "By appointment, especially for night visits",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1616763428989-b0c4114f88e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "tags": [
+        "lunar",
+        "cosmic",
+        "barren"
+      ]
+    },
+    {
+      "id": "SC-MRF-001",
+      "name": "The Sentinel Stone",
+      "short_description": "A towering limestone pillar, weathered by millennia, standing guard over the island's eastern coast. It is revered as a protector spirit and a beacon for safe passage.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "East Coast cliffs, near Haulover Point, South Caicos",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1577771744177-3e8e894c2a51?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "guardian",
+        "limestone",
+        "coastal"
+      ]
+    },
+    {
+      "id": "SC-MRF-002",
+      "name": "Oracle's Arch",
+      "short_description": "A natural rock archway believed to amplify intentions and offer glimpses into the future, especially potent when one stands beneath it at midday.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "North Shore, accessible via a short hike, South Caicos",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1554188203-c3f2b1d3d0f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "archway",
+        "future",
+        "intention"
+      ]
+    },
+    {
+      "id": "SC-MRF-003",
+      "name": "The Stone Council Circle",
+      "short_description": "A unique circular arrangement of weathered limestone boulders, possibly ancient Taino or earlier formation, used for communal gatherings and spiritual discussions.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Inland plateau, west of Cockburn Harbour, South Caicos",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1588691880486-512a8848d672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "ancient",
+        "communal",
+        "gathering"
+      ]
+    },
+    {
+      "id": "SC-MRF-004",
+      "name": "Dragon's Tooth Spire",
+      "short_description": "A jagged, isolated rock formation resembling a mythical beast's tooth, believed to hold fierce protective energy and ward off negative influences.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Southern Peninsula coastline, South Caicos",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549400249-14a515f4007f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "protection",
+        "mythical",
+        "geology"
+      ]
+    },
+    {
+      "id": "SC-MH-001",
+      "name": "The Hermitage of Still Waters",
+      "short_description": "A humble, secluded hut overlooking a calm lagoon, established for silent contemplation and spiritual retreat, welcoming all who seek inner peace away from the world's noise.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Remote cove, southeast of Sailrock, South Caicos",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1520188610582-83b5f9227222?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "retreat",
+        "contemplation",
+        "solitude"
+      ]
+    },
+    {
+      "id": "SC-MH-002",
+      "name": "Our Lady of the Tides Chapel",
+      "short_description": "A small, unassuming coastal chapel, offering solace and a sense of divine presence to local fishermen and visitors. It holds services on Sundays and welcomes quiet reflection daily.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Fishermen's Landing, Cockburn Harbour, South Caicos",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510214818454-e8674c935105?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "tags": [
+        "chapel",
+        "solace",
+        "community"
+      ]
+    },
+    {
+      "id": "SC-MH-003",
+      "name": "The Inner Light Sanctuary",
+      "short_description": "A modern, minimalist structure built for meditation and mindfulness, featuring open-air design to embrace the island's natural elements. Open for guided sessions and personal practice.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Near the Highlands resort area, South Caicos",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1515238210459-a544621c2518?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "meditation",
+        "modern",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "SC-MH-004",
+      "name": "Anchor's Respite Prayer Garden",
+      "short_description": "A small, walled garden surrounding a simple stone shrine, established by local seafarers for safe journeys and remembrance. It provides a quiet space for prayer and reflection.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Behind St. John's Anglican Church, Cockburn Harbour, South Caicos",
+      "visiting_hours": "06:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582664987012-d81643666b6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "tags": [
+        "prayer",
+        "seafarers",
+        "garden"
+      ]
+    },
+    {
+      "id": "SC-CR-001",
+      "name": "Crossroads of the Four Winds",
+      "short_description": "Where four ancient paths converge, this crossroads is said to be a potent place for seeking guidance, making critical decisions, and invoking blessings from directional spirits.",
+      "subtype": "Crossroads",
+      "address": "Intersection of Major Hill Road and Old South Road, South Caicos",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1515905183424-df38d0111f18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "guidance",
+        "decisions",
+        "spirits"
+      ]
+    },
+    {
+      "id": "SC-CR-002",
+      "name": "Mariner's Junction",
+      "short_description": "The symbolic meeting point of land and sea currents, this coastal crossroads is where seafarers traditionally offer prayers for safe voyages and abundant catches.",
+      "subtype": "Crossroads",
+      "address": "End of Government Dock Road, Cockburn Harbour, South Caicos",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1558968953-652f4460515e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "seafaring",
+        "blessings",
+        "ocean"
+      ]
+    },
+    {
+      "id": "SC-CR-003",
+      "name": "Crossroads of Echoes (Old Salina Paths)",
+      "short_description": "Where ancient pathways to the saltworks intersect, this site is rich with the echoes of historical labor and the spirits of those who worked the ponds, offering insights into perseverance.",
+      "subtype": "Crossroads",
+      "address": "Near the historic Salina ruins, central South Caicos",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549419161-0e96478d38a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "history",
+        "perseverance",
+        "spirits"
+      ]
+    },
+    {
+      "id": "SC-CR-004",
+      "name": "The Confluence of Currents",
+      "short_description": "A narrow strait where strong ocean currents meet, creating a vortex of energy. It is considered a powerful spot for releasing burdens and embracing new beginnings.",
+      "subtype": "Crossroads",
+      "address": "Bottle Creek Passage entrance, South Caicos (viewable from shore)",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510206109315-9c988975a593?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "renewal",
+        "energy",
+        "oceanic"
+      ]
+    },
+    {
+      "id": "SC-OS-001",
+      "name": "Whisper Cave of Prophecy",
+      "short_description": "A small, hidden sea cave where the sounds of the ocean are amplified, believed to carry the whispers of future events and ancestral warnings to those who listen intently.",
+      "subtype": "Oracle Sites",
+      "address": "Secret Cove, southeast coast, South Caicos (requires local guide)",
+      "visiting_hours": "09:00-15:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1502447997970-13a6e9a68a52?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "prophecy",
+        "cave",
+        "ancestral"
+      ]
+    },
+    {
+      "id": "SC-OS-002",
+      "name": "Star Gazer's Hill",
+      "short_description": "The highest accessible point on the island, offering unparalleled views of the night sky. It's a prime location for celestial divination and seeking cosmic revelations.",
+      "subtype": "Oracle Sites",
+      "address": "High Point, South Caicos",
+      "visiting_hours": "19:00-05:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1542468305-b82522778848?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "astronomy",
+        "divination",
+        "cosmic"
+      ]
+    },
+    {
+      "id": "SC-OS-003",
+      "name": "The Dreamer's Spring",
+      "short_description": "A rare freshwater spring, whose crystalline waters are believed to induce prophetic dreams and clear visions when consumed or meditated beside, particularly at twilight.",
+      "subtype": "Oracle Sites",
+      "address": "Hidden gully, near East Bay, South Caicos",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1545638666-4148b594b23d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "dreams",
+        "visions",
+        "freshwater"
+      ]
+    },
+    {
+      "id": "SC-OS-004",
+      "name": "Echoing Gorge of Truth",
+      "short_description": "A deep, secluded gorge where one's voice resonates with unusual clarity. It's thought to be a place where honest intentions are amplified and deceit is revealed.",
+      "subtype": "Oracle Sites",
+      "address": "Northwest coast cliffs, accessible by boat/hike, South Caicos",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563200782-b7e3f8a02c89?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "truth",
+        "resonance",
+        "revelation"
+      ]
+    },
+    {
+      "id": "SC-MEP-001",
+      "name": "Horizon Wellness Hub",
+      "short_description": "A purpose-built, open-air pavilion designed for yoga, meditation, and holistic healing, situated with panoramic ocean views to maximize natural energy flow and serenity.",
+      "subtype": "Modern Energy Places",
+      "address": "Sailrock Resort Spa & Wellness Center, South Caicos",
+      "visiting_hours": "07:00-20:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1579621970795-87fbb2f71667?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "wellness",
+        "yoga",
+        "holistic"
+      ]
+    },
+    {
+      "id": "SC-MEP-002",
+      "name": "Crystal Grid Point",
+      "short_description": "A specially designated natural clearing where a large quartz crystal formation (or artistically arranged crystals) is used to amplify ambient energy, ideal for grounding and manifestation.",
+      "subtype": "Modern Energy Places",
+      "address": "Inland from Long Cay Channel, South Caicos",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1629858688439-d89163255153?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "crystals",
+        "grounding",
+        "manifestation"
+      ]
+    },
+    {
+      "id": "SC-MEP-003",
+      "name": "Tidal Breath Sanctuary",
+      "short_description": "A peaceful, accessible boardwalk leading to a platform suspended over the calm, clear waters, used for breathwork, cold plunges, and experiencing the rhythmic energy of the tides.",
+      "subtype": "Modern Energy Places",
+      "address": "South of East Bay, accessible from South Caicos Airport Road",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502479415617-66a982181297?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "breathwork",
+        "oceanic",
+        "rhythm"
+      ]
+    },
+    {
+      "id": "SC-MEP-004",
+      "name": "Eco-Spirit Gardens",
+      "short_description": "A community-managed garden focused on sustainable practices and spiritual connection to nature, featuring medicinal plants and quiet nooks for reflection and communal well-being.",
+      "subtype": "Modern Energy Places",
+      "address": "Near Cockburn Harbour, off Front Street, South Caicos",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1556911679-b1ff14088a2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "sustainability",
+        "community",
+        "nature"
+      ]
+    },
+    {
+      "id": "SC-P-001",
+      "name": "The Old Salt Stack Monument",
+      "short_description": "A historic, pyramid-shaped pile of ancient salt, solidified over centuries. Revered as a monument to the island's industrious past and the enduring spirit of its people.",
+      "subtype": "Pyramids",
+      "address": "Historic Saltworks, central South Caicos",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582236353912-7a760d2b6b19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "history",
+        "industry",
+        "endurance"
+      ]
+    },
+    {
+      "id": "SC-P-002",
+      "name": "Zenith Mound (Ancient Taino Site)",
+      "short_description": "A natural hillock, subtly shaped by ancient Taino inhabitants into a ceremonial mound. It aligns with solstices, believed to channel celestial energy for spiritual ascension.",
+      "subtype": "Pyramids",
+      "address": "Remote Taino archaeological site, North East Ridge, South Caicos",
+      "visiting_hours": "By appointment (guided visit only)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1596708307409-f10d7b2e3e5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "tags": [
+        "Taino",
+        "ceremonial",
+        "solstice"
+      ]
+    },
+    {
+      "id": "SC-P-003",
+      "name": "The Light Pyramid (Modern Art Installation)",
+      "short_description": "A striking contemporary art installation, a minimalist pyramid of reflective materials, designed to capture and refract sunlight, symbolizing enlightenment and artistic expression.",
+      "subtype": "Pyramids",
+      "address": "Near the Pompano Restaurant, coastal path, South Caicos",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1601618037061-f09c7b94101e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "modern art",
+        "enlightenment",
+        "symbolic"
+      ]
+    },
+    {
+      "id": "SC-P-004",
+      "name": "Reef Builder's Cairn",
+      "short_description": "An underwater pyramid-shaped structure, created from natural materials, to encourage coral growth and honor marine life. Divers can experience its tranquil, life-giving energy.",
+      "subtype": "Pyramids",
+      "address": "Offshore, near the protected reefs of South Caicos (diving access)",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1627916578619-2169b167389c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "marine",
+        "conservation",
+        "diving"
+      ]
+    },
+    {
+      "id": "SC-L-001",
+      "name": "The Conch Shell Labyrinth",
+      "short_description": "A beautifully crafted walking labyrinth, laid out with crushed conch shells and local stones, offering a meditative path for quiet contemplation and stress release.",
+      "subtype": "Labyrinths",
+      "address": "Community Park, Cockburn Harbour, South Caicos",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1621575005953-b0e6c7d77053?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "tags": [
+        "meditation",
+        "shells",
+        "walking"
+      ]
+    },
+    {
+      "id": "SC-L-002",
+      "name": "Mangrove Maze of Reflection",
+      "short_description": "A carefully maintained boardwalk weaving through a serene mangrove ecosystem, creating a natural labyrinth where the winding path encourages deep reflection and ecological awareness.",
+      "subtype": "Labyrinths",
+      "address": "South of East Bay, accessible from South Caicos Airport Road",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1616891000626-d62193e36e4f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "tags": [
+        "nature",
+        "reflection",
+        "ecosystem"
+      ]
+    },
+    {
+      "id": "SC-L-003",
+      "name": "Star Compass Maze",
+      "short_description": "An intricately designed outdoor maze with paths aligned to cardinal directions and celestial points, used for spiritual navigation and finding one's true bearing.",
+      "subtype": "Labyrinths",
+      "address": "Overlooking the Atlantic, near Highlands, South Caicos",
+      "visiting_hours": "06:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1550993074-b5a86ed80ee6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "navigation",
+        "celestial",
+        "self-discovery"
+      ]
+    },
+    {
+      "id": "SC-L-004",
+      "name": "The Sea Fan Spiral",
+      "short_description": "An underwater dive site where a natural coral formation forms a mesmerizing spiral pattern, believed to be a pathway for deep self-exploration and connection with marine wisdom.",
+      "subtype": "Labyrinths",
+      "address": "Offshore, protected reef, South Caicos (diving access)",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1522867086810-771f2887d903?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "underwater",
+        "self-exploration",
+        "coral"
+      ]
+    },
+    {
+      "id": "SC-BD-001",
+      "name": "Conqueror's Crest",
+      "short_description": "A strategic hilltop where early settlers and various groups vied for control, now a place for reflecting on struggles, resilience, and the island's journey towards self-determination.",
+      "subtype": "Battlefields of Destiny",
+      "address": "High Point, overlooking Cockburn Harbour, South Caicos",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1587588357777-a8a5e3c7c7f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "history",
+        "resilience",
+        "overlook"
+      ]
+    },
+    {
+      "id": "SC-BD-002",
+      "name": "Site of the Great Salt Contention",
+      "short_description": "The historic heart of the salt industry, where generations labored and social struggles unfolded. It's a powerful site for understanding economic destiny and collective human effort.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Main Salt Ponds, near the old Customs House, South Caicos",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1520608535492-4c28f7311746?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "labor",
+        "heritage",
+        "economic"
+      ]
+    },
+    {
+      "id": "SC-BD-003",
+      "name": "Hurricane's Reckoning Point",
+      "short_description": "A coastal area significantly impacted by historic hurricanes, now a poignant reminder of nature's power and the island community's enduring spirit of rebuilding and renewal.",
+      "subtype": "Battlefields of Destiny",
+      "address": "East Bay coastline, known for hurricane impact, South Caicos",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620942858466-9e6b6d2746c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "nature",
+        "resilience",
+        "renewal"
+      ]
+    },
+    {
+      "id": "SC-BD-004",
+      "name": "Point of No Return (Slave Landing)",
+      "short_description": "A somber historical coastal spot, believed to be an entry point for enslaved people. It is a powerful site for remembrance, healing, and acknowledging the profound human journey.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Remote western beach, near the old Caicos Bank Road, South Caicos",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1610476044717-36e2f6941b6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "tags": [
+        "remembrance",
+        "slavery",
+        "healing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "2440",
+  "name": "Samburu County",
+  "country": "Kenya",
+  "description": "Nestled in Kenya's arid northern frontier, Samburu County offers an unparalleled journey into raw wilderness and vibrant cultural heritage. Dominated by the famous Samburu National Reserve, Buffalo Springs, and Shaba National Reserves, it's a land of striking contrasts—from the life-giving Ewaso Ng'iro River to vast semi-desert plains and dramatic volcanic landscapes. The reserve is renowned for its unique 'Samburu Special Five': the Grevy's zebra, reticulated giraffe, Beisa oryx, Gerenuk, and the Somali ostrich, alongside common sightings of elephants, lions, leopards, and cheetahs. \n\nBeyond its abundant wildlife, Samburu is the heartland of the Samburu people, a fiercely proud and traditionally nomadic community closely related to the Maasai. Visitors have the privilege of experiencing their rich culture, characterized by colourful beaded adornments, traditional dances, and a deep respect for their environment. Many lodges offer cultural visits, providing insights into their way of life, traditional homesteads (manyattas), and ancient customs. Travel here is an immersive adventure, often requiring 4x4 vehicles to navigate the rugged terrain, especially during the dry season when wildlife congregates around permanent water sources. The landscape itself is a spectacle, with Doum palms lining the riverbanks and distant mountains framing the horizon. It's a destination for the adventurous spirit, seeking both thrilling wildlife encounters and profound cultural connections, all while supporting vital conservation efforts in this unique ecosystem.",
+  "themes": [
+    "Wildlife Safari",
+    "Cultural Immersion",
+    "Arid Landscape",
+    "Conservation",
+    "Adventure Travel"
+  ],
+  "body_attributes": {
+    "climate": "Hot and semi-arid, with high temperatures year-round and distinct wet and dry seasons. Daytime temperatures often exceed 30°C (86°F).",
+    "best_time_to_visit": "Dry seasons (January-February and June-October) for optimal wildlife viewing as animals congregate around the Ewaso Ng'iro River.",
+    "population": "310,327",
+    "area": "21022.5 sq km",
+    "transport_summary": "Access is primarily by scheduled bush flights from Nairobi to local airstrips (e.g., Samburu, Buffalo Springs) or by road in a 4x4 safari vehicle, a journey of approximately 6-7 hours from Nairobi. Internal travel within the reserves requires robust 4x4 vehicles.",
+    "safety_level": "Medium (requires staying with reputable safari operators, being aware of wildlife, and general travel precautions in remote areas).",
+    "geographical_features": "Characterized by semi-arid plains, acacia woodlands, rocky outcrops, and volcanic hills, bisected by the permanent Ewaso Ng'iro River."
+  },
+  "travel_tips": [
+    "Book with a reputable safari operator for safe and organized travel and wildlife viewing.",
+    "Stay hydrated, especially during the hot dry season, and carry sufficient water.",
+    "Respect local Samburu culture during village visits; always ask permission before taking photos of people.",
+    "Take anti-malaria precautions, as Samburu is a malaria-risk area, especially during and after the rainy season."
+  ],
+  "budget_tips": [
+    "Consider camping within the reserves or staying in community-run conservancies just outside for more affordable accommodation options.",
+    "Travel during the shoulder seasons (e.g., November, March-May) for potentially lower lodge rates.",
+    "If traveling in a group, chartering a private vehicle and splitting costs can be more economical than individual bookings.",
+    "Pack snacks and drinks for game drives to avoid reliance on more expensive lodge provisions."
+  ],
+  "seo": {
+    "seo_title": "Samburu County Kenya Travel Guide | Safari & Culture",
+    "seo_description": "Discover Samburu County, Kenya. Explore unique wildlife, immerse in Samburu culture, and plan your safari adventure with our comprehensive guide to this northern frontier.",
+    "keywords": [
+      "Samburu safari",
+      "Kenya wildlife",
+      "Samburu culture",
+      "Ewaso Ng'iro",
+      "Samburu National Reserve",
+      "African adventure"
+    ]
+  },
+  "meta": {
+    "continent": "Africa",
+    "currency": "Kenyan Shilling (KES)",
+    "language": [
+      "Swahili",
+      "English",
+      "Samburu"
+    ],
+    "time_zone": "East Africa Time (EAT, UTC+3)",
+    "popular_airlines": [
+      "Safarilink",
+      "AirKenya",
+      "Kenya Airways",
+      "Ethiopian Airlines"
+    ]
+  },
+  "title": "Samburu's Wild Heart: A Journey into Kenya's Northern Frontier",
+  "images": [
+    "https://images.unsplash.com/photo-1547477611-30c1440f7d43?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MXxyYW5kb218MHx8c2FtYnVyfGVufDB8fHx8MTcxNzUzMzE5MHw",
+    "https://images.unsplash.com/photo-1534008432-8e3b6d0c4e70?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxfDB8MXxyYW5kb218MHx8c2FtYnVyfGVufDB8fHx8MTcxNzUzMzE5MHw"
+  ],
+  "coordinates": [
+    0.5333330035209656,
+    37.53333282470703
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Asaba",
+    "city_id": "2448"
+  },
+  "items": [
+    {
+      "id": "AsabaRock01",
+      "name": "Ogbueshi's Throne Rock",
+      "short_description": "A majestic granite outcrop revered by local elders as a seat of ancient wisdom and judicial power, believed to imbue visitors with clarity and strength.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Off Okpanam Road, Asaba, Delta State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Odo_Otin_Rock_Formations_2.jpg",
+      "tags": [
+        "ancient wisdom",
+        "natural shrine",
+        "granite formation"
+      ]
+    },
+    {
+      "id": "AsabaRock02",
+      "name": "The Weeping Stones of Umuagwu",
+      "short_description": "A cluster of dark, stratified rocks where natural seepages resemble tears, believed to be a place of ancestral lament and profound emotional release.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Umuagwu Village, Anwai-Asaba Road, Asaba",
+      "visiting_hours": "07:30-18:00",
+      "entry_fee": "NGN 200",
+      "images": "https://images.unsplash.com/photo-1549673981-d41933b93f18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHJvY2slMjBmb3JtYXRpb25zJTIwYmlnJTIwcm9ja3N8ZW5wZmxpY2t8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "ancestral veneration",
+        "healing",
+        "geological wonder"
+      ]
+    },
+    {
+      "id": "AsabaRock03",
+      "name": "Echoing Gorge of the Spirits",
+      "short_description": "A deep ravine with unique acoustic properties, where local tradition holds that ancestral voices and spirits can be heard, especially at dawn and dusk.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Near Lander Road, Asaba, Delta State",
+      "visiting_hours": "06:00-18:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1590494399742-b88e1e7932ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGFmcmljYW4lMjBjbGlmZnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "ancestral voices",
+        "spiritual retreat",
+        "natural acoustics"
+      ]
+    },
+    {
+      "id": "AsabaRock04",
+      "name": "Stone Guardian of the Niger",
+      "short_description": "A solitary, towering rock formation overlooking the River Niger, believed to be a protector spirit of the waterway and its people, offering safe passage to travelers.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "River Niger Bank, Off Nnebisi Road, Asaba",
+      "visiting_hours": "24/7 (viewpoint)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510931221711-209860b73e51?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHJpdmVyJTIwcm9jayUyMGZvcm1hdGlvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "river spirit",
+        "protection",
+        "landmark"
+      ]
+    },
+    {
+      "id": "AsabaMonastery01",
+      "name": "Monastery of Our Lady of Perpetual Help",
+      "short_description": "A serene Catholic monastery offering spiritual retreats and a quiet space for contemplation, known for its beautiful gardens and the daily rhythm of prayer.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Off Summit Road, Asaba, Delta State",
+      "visiting_hours": "09:00-17:00 (for visitors)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1588667355280-994116035698?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9uYXN0ZXJ5fGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "Catholic",
+        "retreat",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "AsabaMonastery02",
+      "name": "Ezi-Iyi Hermitage of Peace",
+      "short_description": "A traditional Igbo spiritual retreat nestled by a small stream, where seekers go for purification rituals and guidance from local spiritualists on matters of destiny and healing.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Ezi-Iyi Area, Near Nnebisi Road, Asaba",
+      "visiting_hours": "By appointment (08:00-16:00)",
+      "entry_fee": "fixed amount (NGN 1,500)",
+      "images": "https://images.unsplash.com/photo-1596752765360-15101a938686?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHNlY3JlZCUyMGdyb3ZlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "Igbo spirituality",
+        "healing",
+        "purification"
+      ]
+    },
+    {
+      "id": "AsabaMonastery03",
+      "name": "Anglican Chapel of Divine Grace",
+      "short_description": "A small, historic Anglican chapel established by early missionaries, now serving as a heritage site and a place for quiet prayer and reflection for all denominations.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Old GRA, Asaba, Delta State",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596541126742-0f9c2d7f8d38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2hhcGVsfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "Christian heritage",
+        "prayer",
+        "historical"
+      ]
+    },
+    {
+      "id": "AsabaMonastery04",
+      "name": "The Retreat Centre of Light",
+      "short_description": "A modern interfaith retreat center offering guided meditation, mindfulness workshops, and silent contemplation spaces, promoting spiritual growth and communal harmony.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Opposite Delta State Polytechnic, Asaba",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "donation (for workshops)",
+      "images": "https://images.unsplash.com/photo-1517457375-a29ce298811e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmV0cmVhdCUyMGNlbnRlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "interfaith",
+        "meditation",
+        "modern spirituality"
+      ]
+    },
+    {
+      "id": "AsabaModEn01",
+      "name": "The Nexus Art & Spirit Gallery",
+      "short_description": "A contemporary gallery showcasing local artists whose works are imbued with spiritual themes and traditional Igbo motifs, believed to be a hub of creative and spiritual energy.",
+      "subtype": "Modern Energy Places",
+      "address": "DLA Road, Asaba, Delta State",
+      "visiting_hours": "10:00-18:00",
+      "entry_fee": "NGN 500",
+      "images": "https://images.unsplash.com/photo-1579532502722-e4e116962319?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGFydCUyMGdhbGxlcnl8ZW5wwfDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "art",
+        "contemporary spirituality",
+        "cultural hub"
+      ]
+    },
+    {
+      "id": "AsabaModEn02",
+      "name": "Anioma Wellness & Healing Centre",
+      "short_description": "A holistic center offering traditional Igbo healing practices, herbal remedies, and contemporary wellness therapies, focusing on body, mind, and spirit alignment.",
+      "subtype": "Modern Energy Places",
+      "address": "Off Ibusa Road, Asaba, Delta State",
+      "visiting_hours": "09:00-17:00 (by appointment)",
+      "entry_fee": "fixed amount (varies by service)",
+      "images": "https://images.unsplash.com/photo-1544161519-c07a9e7019a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGhlYWxpbmclMjBjZW50ZXJ8ZW5wwfDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "holistic healing",
+        "traditional medicine",
+        "wellness"
+      ]
+    },
+    {
+      "id": "AsabaModEn03",
+      "name": "The Harmony Garden Park",
+      "short_description": "A beautifully designed public park featuring indigenous flora, quiet zones for meditation, and a central water feature, created to foster peace and community spirit.",
+      "subtype": "Modern Energy Places",
+      "address": "Government House Road, Asaba, Delta State",
+      "visiting_hours": "06:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1531215443904-b33348123286?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1lZGl0YXRpb24lMjBnYXJkZW58ZW5wwfDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "meditation",
+        "community",
+        "nature retreat"
+      ]
+    },
+    {
+      "id": "AsabaModEn04",
+      "name": "The Igbo Cultural Centre Plaza",
+      "short_description": "A vibrant modern complex dedicated to preserving and promoting Igbo culture through performances, workshops, and exhibitions, serving as a dynamic spiritual and social hub.",
+      "subtype": "Modern Energy Places",
+      "address": "Nnebisi Road, Asaba, Delta State",
+      "visiting_hours": "09:00-21:00",
+      "entry_fee": "NGN 300 (for specific events)",
+      "images": "https://images.unsplash.com/photo-1563829023194-0610f69a6c11?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGFrcmFoJTIwY3VsdHVyYWwlMjBjZW50ZXJ8ZW5wwfDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "Igbo culture",
+        "community hub",
+        "performing arts"
+      ]
+    },
+    {
+      "id": "AsabaCross01",
+      "name": "The Four Paths of Ikenga Junction",
+      "short_description": "A historical crossroads believed to be a meeting point for ancestral spirits and deities, where offerings are traditionally made for protection and guidance in new ventures.",
+      "subtype": "Crossroads",
+      "address": "Junction of Ikenga Street and Ogbeke Road, Asaba",
+      "visiting_hours": "24/7",
+      "entry_fee": "free (offerings encouraged)",
+      "images": "https://images.unsplash.com/photo-1558980394-fd906236b856?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHJvYWRzJTIwcG9pbnR8ZW5wwfDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "ancestral veneration",
+        "offerings",
+        "guidance"
+      ]
+    },
+    {
+      "id": "AsabaCross02",
+      "name": "Obi's Sacred Convergence",
+      "short_description": "A tranquil, tree-shaded area where three paths converge, used by local communities for reconciliation rituals and seeking blessings for new beginnings and resolving disputes.",
+      "subtype": "Crossroads",
+      "address": "Near Nsukwa Road, Asaba, Delta State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1563282436-b510ed97cf29?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHRocmVlJTIwcGF0aHN8ZW5wwfDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "reconciliation",
+        "blessings",
+        "community rituals"
+      ]
+    },
+    {
+      "id": "AsabaCross03",
+      "name": "The Market Square Crossroads",
+      "short_description": "The historical heart of the old market, where commercial and spiritual energies converge. It's believed to be a powerful spot for prosperity rituals and blessings for business ventures.",
+      "subtype": "Crossroads",
+      "address": "Old Market Road, Asaba, Delta State",
+      "visiting_hours": "06:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1534066060-f1c19d4b0d02?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1hcmtldCUyMHNxdWFyZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "prosperity",
+        "market spirit",
+        "historical site"
+      ]
+    },
+    {
+      "id": "AsabaCross04",
+      "name": "Spirit of the River Junction",
+      "short_description": "A sacred point where a small tributary meets the Niger River, revered as a potent crossroad between land and water spirits, often used for water purification and fertility rites.",
+      "subtype": "Crossroads",
+      "address": "Niger River Bank, Behind Federal Secretariat, Asaba",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1574347209930-a94f99580a3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHJpdmVyJTIwY29uZmx1ZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "water spirits",
+        "fertility rites",
+        "purification"
+      ]
+    },
+    {
+      "id": "AsabaVolc01",
+      "name": "The Igneous Heart of Umuana",
+      "short_description": "A site characterized by unique dark, dense rock outcrops (ancient igneous intrusions) believed to hold concentrated earth energy, used for grounding and spiritual rejuvenation.",
+      "subtype": "Volcanic Zones",
+      "address": "Umuana Community, Off Okpanam Road, Asaba",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549045763-a2a4b3b19b6e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGlnbmVvdXMlMjByb2Nrc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "earth energy",
+        "geological wonder",
+        "rejuvenation"
+      ]
+    },
+    {
+      "id": "AsabaVolc02",
+      "name": "Ancestral Hot Stone Circle",
+      "short_description": "A formation of naturally heated stones, remnants of ancient geological activity, where traditional healers conduct warmth therapies and spiritual cleansing rituals.",
+      "subtype": "Volcanic Zones",
+      "address": "Near Ogwashi-Uku Road, Asaba",
+      "visiting_hours": "By appointment (09:00-16:00)",
+      "entry_fee": "fixed amount (NGN 1,000)",
+      "images": "https://images.unsplash.com/photo-1547829774-c2c611419355?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGhvdCUyMHNwcmluZ3N8ZW5wwfDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "healing ritual",
+        "earth energy",
+        "cleansing"
+      ]
+    },
+    {
+      "id": "AsabaVolc03",
+      "name": "The Chasm of Echoes",
+      "short_description": "A deep fissure in the earth, formed by ancient seismic shifts, revered as a portal to the underworld and a place for communicating with spirits of the deep earth.",
+      "subtype": "Volcanic Zones",
+      "address": "Along Asaba-Ughelli Expressway (old section), Asaba",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1599547525380-48293994d50c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGVhcnRoJTIwZmF1bHR8ZW5wwfDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "earth spirits",
+        "ancient geology",
+        "spiritual portal"
+      ]
+    },
+    {
+      "id": "AsabaVolc04",
+      "name": "Mineral Spring of Renewal",
+      "short_description": "A natural spring flowing from deep within the earth, rich in minerals, believed to possess powerful rejuvenating and healing properties for those who drink from its waters.",
+      "subtype": "Volcanic Zones",
+      "address": "Off Nnebisi Road, Near Azagba-Ogwu",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582236891823-3b145a089d7b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1pbmVyYWwlMjBzcHJpbmd8ZW5wwfDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "healing waters",
+        "rejuvenation",
+        "natural spring"
+      ]
+    },
+    {
+      "id": "AsabaAncT01",
+      "name": "The Shrine of Ani, Earth Goddess",
+      "short_description": "An ancient mud and thatch shrine dedicated to Ani, the Igbo goddess of fertility, morality, and agriculture. It is a vital center for community blessings and harvest rituals.",
+      "subtype": "Ancient Temples",
+      "address": "Umuaji Community, Asaba, Delta State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mburuku_Shrine%2C_Umuahia.jpg/640px-Mburuku_Shrine%2C_Umuahia.jpg",
+      "tags": [
+        "Igbo deity",
+        "fertility",
+        "harvest rituals"
+      ]
+    },
+    {
+      "id": "AsabaAncT02",
+      "name": "Omenala Ancestral Hall",
+      "short_description": "A hallowed traditional hall where community elders venerate ancestors and convene for important deliberations, believed to be constantly watched over by the guiding spirits of the past.",
+      "subtype": "Ancient Temples",
+      "address": "Old Core Area, Asaba, Delta State",
+      "visiting_hours": "By special arrangement",
+      "entry_fee": "free (for community members)",
+      "images": "https://images.unsplash.com/photo-1614035658866-1c8b3d6f76c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGFmcmljYW4lMjBjb3VydHlhcmR8ZW5wwfDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "ancestral veneration",
+        "community gathering",
+        "Igbo tradition"
+      ]
+    },
+    {
+      "id": "AsabaAncT03",
+      "name": "Temple of the River Niger Oracle",
+      "short_description": "A secluded shrine dedicated to the powerful spirits of the River Niger, consulted for prophecies, protection, and blessings related to trade, travel, and livelihood on the water.",
+      "subtype": "Ancient Temples",
+      "address": "Along the Niger River Bank, Oko-Anala, Asaba",
+      "visiting_hours": "08:00-16:00 (daily rituals)",
+      "entry_fee": "NGN 1,000 (for consultation)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eyo_Iga_Idunganran_Shrine.jpg/640px-Eyo_Iga_Idunganran_Shrine.jpg",
+      "tags": [
+        "river spirits",
+        "oracle",
+        "protection"
+      ]
+    },
+    {
+      "id": "AsabaAncT04",
+      "name": "The Sacred Iron Sculpture Grove",
+      "short_description": "An open-air traditional temple featuring ancient iron sculptures representing various deities and ancestral figures, where prayers and offerings are made for strength and justice.",
+      "subtype": "Ancient Temples",
+      "address": "Off Nnebisi Road, Near Ibuzor Junction, Asaba",
+      "visiting_hours": "24/7 (outdoor)",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Osun_Oshogbo_Sacred_Grove_1.jpg/640px-Osun_Oshogbo_Sacred_Grove_1.jpg",
+      "tags": [
+        "Igbo deities",
+        "strength",
+        "justice"
+      ]
+    },
+    {
+      "id": "AsabaCelA01",
+      "name": "The Sunstone Circle of Odoziaku",
+      "short_description": "An ancient arrangement of standing stones, believed to mark solstices and equinoxes, used by ancient Igbo astronomers and priests for agricultural and spiritual calendar keeping.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Odoziaku Farmlands, Off Asaba-Ughelli Road",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1533611319224-b158097d7405?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHN0b25laGVuZ2V8ZW5wwfDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "astronomy",
+        "solstice",
+        "ancient ritual"
+      ]
+    },
+    {
+      "id": "AsabaCelA02",
+      "name": "Moon Gate of the Niger Watchers",
+      "short_description": "A naturally formed archway in a rock outcrop, historically used as a viewing portal to observe lunar cycles, believed to enhance intuition and connect to feminine energies.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Niger River Bank, Near Power Line, Asaba",
+      "visiting_hours": "24/7 (best at night)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506501135759-e9354db90d3d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFyY2h3YXlJcnVsYW5kJTIwcm9jayUyMGZvcm1hdGlvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "lunar cycles",
+        "intuition",
+        "natural observatory"
+      ]
+    },
+    {
+      "id": "AsabaCelA03",
+      "name": "The Star Mound of Ezeani",
+      "short_description": "An ancient, man-made earthen mound, believed to have been constructed for astronomical observations and rituals, offering a panoramic view of the night sky.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Ezeani Village, Off Asaba-Benin Expressway",
+      "visiting_hours": "05:00-21:00",
+      "entry_fee": "NGN 300",
+      "images": "https://images.unsplash.com/photo-1601006509930-b186b51c0986?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YW5jaWVudCUyMG1vdW5kfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "astronomical observation",
+        "ancient rituals",
+        "earthen structure"
+      ]
+    },
+    {
+      "id": "AsabaCelA04",
+      "name": "Igala Star Gazer's Hill",
+      "short_description": "A prominent hill outside Asaba, traditionally used by the neighboring Igala people and adopted by local Igbo communities for observing meteor showers and important celestial events.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Igala Hill, Near Oko-Anala, Asaba",
+      "visiting_hours": "24/7 (best at night)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1541088461947-68b209e25e19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGhpbGx0b3AlMjB2aWV3fGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "stargazing",
+        "celestial events",
+        "inter-community history"
+      ]
+    },
+    {
+      "id": "AsabaPyr01",
+      "name": "The Anioma Ancestral Mound",
+      "short_description": "A large, ancient earthen mound, pyramidal in shape, believed to be a communal burial site for revered ancestors and a focal point for ancestral worship and blessings.",
+      "subtype": "Pyramids",
+      "address": "Old Site, Behind Federal College of Education, Asaba",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1621255392237-7f918074d6f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGZvc3NpbCUyMGJ1cnlhbCUyMG1vdW5kfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "ancestral burial",
+        "earthen pyramid",
+        "ancestral worship"
+      ]
+    },
+    {
+      "id": "AsabaPyr02",
+      "name": "Ozizza's Conical Hills",
+      "short_description": "A series of naturally occurring conical hills, interpreted by local folklore as the 'Earth's Breasts', places of nurturing energy and powerful spiritual connection to the land.",
+      "subtype": "Pyramids",
+      "address": "Ozizza Community, Off Illah Road, Asaba",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1520263440788-b2a59d91694f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y29uaWNhbCUyMGhpbGxzfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "natural formation",
+        "earth energy",
+        "folklore"
+      ]
+    },
+    {
+      "id": "AsabaPyr03",
+      "name": "The Sacred Cairn of Chiefs",
+      "short_description": "A meticulously constructed stone cairn, built over generations by traditional chiefs, symbolizing their collective wisdom and spiritual authority, believed to radiate leadership energy.",
+      "subtype": "Pyramids",
+      "address": "Palace Grounds, Asagba's Palace, Asaba",
+      "visiting_hours": "09:00-16:00 (outside viewing)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1610487002447-e6f76c70c679?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3RvbmUlMjBjYWlybnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "chieftaincy",
+        "leadership",
+        "communal monument"
+      ]
+    },
+    {
+      "id": "AsabaPyr04",
+      "name": "Ndi-Igbo Heritage Pyramid Monument",
+      "short_description": "A modern architectural monument, featuring a stepped pyramidal design, erected to honor Igbo ancestors and cultural resilience, serving as a site for reflection and cultural events.",
+      "subtype": "Pyramids",
+      "address": "Asaba City Centre, Off Nnebisi Road",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1606787968516-43b6e820061e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHN0ZXBwZWQlMjBweXJhbWlkfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "cultural monument",
+        "Igbo heritage",
+        "modern architecture"
+      ]
+    },
+    {
+      "id": "AsabaPilg01",
+      "name": "The Sacred Path to Ogba-Ukwu",
+      "short_description": "A historic path leading to the legendary Ogba-Ukwu cave (a place of worship and spiritual refuge), undertaken by seekers for deep introspection and ancestral connection.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting Point: Near Igbuzor Junction, Asaba",
+      "visiting_hours": "07:00-16:00 (guided tours available)",
+      "entry_fee": "NGN 1,000 (for guided access)",
+      "images": "https://images.unsplash.com/photo-1548689849-5f257523f668?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBhdGglMjBpbiUyMGZvcmVzdHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "spiritual journey",
+        "ancestral connection",
+        "introspection"
+      ]
+    },
+    {
+      "id": "AsabaPilg02",
+      "name": "River Niger Boat Journey of Renewal",
+      "short_description": "A traditional boat pilgrimage along a specific stretch of the River Niger, performed for cleansing, blessings, and seeking the river goddess's favor.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting Point: Asaba River Port",
+      "visiting_hours": "08:00-14:00 (select days)",
+      "entry_fee": "fixed amount (NGN 3,000 per person)",
+      "images": "https://images.unsplash.com/photo-1625907471926-2a74c7e6c986?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFmdCUyMGJvYXRzfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "river pilgrimage",
+        "cleansing",
+        "river goddess"
+      ]
+    },
+    {
+      "id": "AsabaPilg03",
+      "name": "Footsteps of Eze Nri (Spiritual Walk)",
+      "short_description": "A symbolic walking route tracing ancient paths said to have been traversed by Eze Nri priests, invoking blessings of peace and prosperity for those who follow it.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting Point: Old Market Road, Asaba (marked trail)",
+      "visiting_hours": "06:00-12:00 (self-guided)",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Forest_path_with_tree_trunks.jpg/640px-Forest_path_with_tree_trunks.jpg",
+      "tags": [
+        "historical walk",
+        "Igbo priesthood",
+        "peace and prosperity"
+      ]
+    },
+    {
+      "id": "AsabaPilg04",
+      "name": "The Anioma Healing Circuit",
+      "short_description": "A circuit connecting several traditional healing spots and sacred springs within the Anioma region, undertaken by those seeking comprehensive physical and spiritual restoration.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Information Centre: Anioma Cultural Centre, Asaba",
+      "visiting_hours": "08:00-17:00 (seasonal)",
+      "entry_fee": "donation (for guide)",
+      "images": "https://images.pexels.com/photos/1779900/pexels-photo-1779900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "holistic healing",
+        "spiritual restoration",
+        "traditional medicine"
+      ]
+    },
+    {
+      "id": "AsabaSacF01",
+      "name": "The Ogodor Forest of Nurturing",
+      "short_description": "A pristine ancient forest, believed to be inhabited by benevolent forest spirits (Mmuo Ohia), where visitors seek blessings for fertility, abundance, and protection.",
+      "subtype": "Sacred Forests",
+      "address": "Ogodor Community, Along Asaba-Ughelli Road",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/2356045/pexels-photo-2356045.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "forest spirits",
+        "fertility",
+        "protection"
+      ]
+    },
+    {
+      "id": "AsabaSacF02",
+      "name": "Mmanwu Grove of Mysteries",
+      "short_description": "A secluded grove within the larger forest, historically used for Mmanwu (masquerade) rituals and initiations, believed to be a place where the veil between worlds is thin.",
+      "subtype": "Sacred Forests",
+      "address": "Near Umuezeala, Off Nnebisi Road, Asaba",
+      "visiting_hours": "By special ceremony",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/1344697/pexels-photo-1344697.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "masquerade",
+        "initiation rites",
+        "spiritual portal"
+      ]
+    },
+    {
+      "id": "AsabaSacF03",
+      "name": "The Healing Canopy of Ogbe-Umu",
+      "short_description": "A section of an ancient forest known for its medicinal plants and a tranquil stream, where traditional healers gather herbs and conduct healing ceremonies under the dense tree canopy.",
+      "subtype": "Sacred Forests",
+      "address": "Ogbe-Umu Community, Asaba, Delta State",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "fixed amount (NGN 500)",
+      "images": "https://images.pexels.com/photos/1410226/pexels-photo-1410226.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "herbal medicine",
+        "healing",
+        "nature's pharmacy"
+      ]
+    },
+    {
+      "id": "AsabaSacF04",
+      "name": "Ancestral Tree Sanctuary",
+      "short_description": "A revered grove of ancient, towering trees, each believed to embody the spirit of a prominent ancestor, where offerings are made and stories are shared to honor lineage.",
+      "subtype": "Sacred Forests",
+      "address": "Near Federal Housing Estate, Asaba",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/2598377/pexels-photo-2598377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "ancestral veneration",
+        "lineage",
+        "ancient trees"
+      ]
+    }
+  ]
+}

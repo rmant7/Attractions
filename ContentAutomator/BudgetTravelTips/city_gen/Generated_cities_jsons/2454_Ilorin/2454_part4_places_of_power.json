@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Ilorin",
+    "city_id": "2454"
+  },
+  "items": [
+    {
+      "id": "GbonkaCave",
+      "name": "Gbonka's Retreat Cave",
+      "short_description": "A hidden grotto believed to be the meditation site of Gbonka, a legendary warrior-priest. Pilgrims seek solace and strength within its cool depths.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Off Oke-Erin Road, Ilorin, Kwara State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549726880-9280d97b0a72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "meditation",
+        "warrior-priest",
+        "hidden grotto"
+      ]
+    },
+    {
+      "id": "OyaWhisper",
+      "name": "Oya's Whisper Sanctuary",
+      "short_description": "Nestled near the Asa River, this sanctuary is dedicated to Oya, the Orisha of winds and change. Locals visit to seek guidance during life transitions.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Near Asa River Bank, Tanke, Ilorin",
+      "visiting_hours": "07:30-18:00",
+      "entry_fee": "NGN 300",
+      "images": "https://images.unsplash.com/photo-1629853381652-32b00424578e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Orisha Oya",
+        "river sanctuary",
+        "guidance"
+      ]
+    },
+    {
+      "id": "AfonjaGrotto",
+      "name": "Afonja's Secret Grotto",
+      "short_description": "A secluded grotto where Afonja, the founder of Ilorin, is said to have sought spiritual counsel before major battles. Revered for its history and mystique.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Behind Kwara State Stadium, Off Amilegbe Road, Ilorin",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596708761767-f316e689408e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Afonja",
+        "historical",
+        "seclusion"
+      ]
+    },
+    {
+      "id": "IdiapeCave",
+      "name": "Idiape Ancestral Cave",
+      "short_description": "This cave serves as a sacred repository for the spiritual energy of Idiape's founding ancestors. It's a place for communal rites and ancestral veneration.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Idiape Community, Off Sobi Hill, Ilorin",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1551698246-880629a997ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "ancestral veneration",
+        "community rites",
+        "Sobi Hill"
+      ]
+    },
+    {
+      "id": "IfaOjaOba",
+      "name": "Ifa Oracle of Oja-Oba",
+      "short_description": "A revered Ifa divination site, central to the spiritual life of Ilorin. Seekers from far and wide consult its Babalawo for guidance and destiny interpretation.",
+      "subtype": "Oracle Sites",
+      "address": "Near Oja-Oba Market, Ilorin, Kwara State",
+      "visiting_hours": "09:00-17:00 (by appointment)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1621213271708-f4b66b2b733b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Ifa divination",
+        "Babalawo",
+        "destiny"
+      ]
+    },
+    {
+      "id": "AganjuOracle",
+      "name": "Aganju Ancestral Divination Shrine",
+      "short_description": "Dedicated to Orisha Aganju, this site is where the wisdom of ancestors is channeled. It's particularly consulted for matters of leadership and community prosperity.",
+      "subtype": "Oracle Sites",
+      "address": "Aganju Street, Off Emir's Road, Ilorin",
+      "visiting_hours": "08:30-16:30",
+      "entry_fee": "NGN 750",
+      "images": "https://images.unsplash.com/photo-1596708761767-f316e689408e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Orisha Aganju",
+        "ancestral wisdom",
+        "community"
+      ]
+    },
+    {
+      "id": "OroEchoStone",
+      "name": "Oro's Echoing Stone Oracle",
+      "short_description": "An ancient stone formation believed to echo the pronouncements of Oro, a powerful Orisha. It's a site for truth-seeking and community justice.",
+      "subtype": "Oracle Sites",
+      "address": "Off Geri-Alimi Road, Oko-Olowo, Ilorin",
+      "visiting_hours": "10:00-15:00 (restricted access during Oro festival)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549726880-9280d97b0a72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Orisha Oro",
+        "justice",
+        "truth-seeking"
+      ]
+    },
+    {
+      "id": "SeerGroveSawmill",
+      "name": "The Seer's Grove of Sawmill",
+      "short_description": "A tranquil grove known for its resident seers and diviners who interpret dreams and natural signs. Offers insights into personal and communal futures.",
+      "subtype": "Oracle Sites",
+      "address": "Sawmill Area, Off Unity Road, Ilorin",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free (donations for seers' services)",
+      "images": "https://images.unsplash.com/photo-1533228943725-d910a3014387?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "divination",
+        "dreams",
+        "future insights"
+      ]
+    },
+    {
+      "id": "AfonjaLastStand",
+      "name": "Afonja's Last Stand Memorial Site",
+      "short_description": "Commemorates the legendary final battle of Afonja, the founder of Ilorin. A somber site imbued with lessons of power, betrayal, and destiny.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Oke-Suna Area, Ilorin, Kwara State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "NGN 200",
+      "images": "https://images.unsplash.com/photo-1587602360401-4c7b8e1f2b6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Afonja",
+        "history",
+        "sacrifice"
+      ]
+    },
+    {
+      "id": "OgeleWarGround",
+      "name": "The Sacred Ogele War Ground",
+      "short_description": "Site of fierce engagements during the Ilorin-Oyo wars, said to be sanctified by the spirits of fallen warriors. A place for reflection on peace and conflict.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Ogele Village, outskirts of Ilorin",
+      "visiting_hours": "Open access (daylight hours)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502570081372-e1e5b8e9f2d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Ilorin-Oyo wars",
+        "fallen warriors",
+        "peace"
+      ]
+    },
+    {
+      "id": "MopaPlains",
+      "name": "Mopa Plains of Truce",
+      "short_description": "Legendary plains where rival factions negotiated peace after prolonged conflicts. It symbolizes reconciliation and the power of dialogue over war.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Mopa-Amule Area, Off Ajase-Ipo Road, Ilorin",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506509494372-4d2d4c02f7e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "reconciliation",
+        "peace",
+        "historical agreement"
+      ]
+    },
+    {
+      "id": "BabanlomaHill",
+      "name": "Babanloma's Defense Hill",
+      "short_description": "A strategic vantage point fiercely defended by local militias against invaders. It represents the courage and resilience of the Ilorin people.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Near Babanloma Community, Ilorin East",
+      "visiting_hours": "Daylight hours",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1509653198894-069e8557b77f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "defense",
+        "courage",
+        "resilience"
+      ]
+    },
+    {
+      "id": "OkoErinSpring",
+      "name": "Oko-Erin Sacred Healing Spring",
+      "short_description": "A natural spring revered for its potent healing waters, said to cleanse ailments and bless fertility. Pilgrims visit seeking physical and spiritual renewal.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Oko-Erin Road, Ilorin, Kwara State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549726880-9280d97b0a72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "healing waters",
+        "fertility",
+        "renewal"
+      ]
+    },
+    {
+      "id": "AsaConfluence",
+      "name": "Asa River Confluence Holy Well",
+      "short_description": "Situated at the spiritual confluence of two Asa River tributaries, this well is believed to hold amplified blessings and is central to purification rites.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Near Asa Dam, Off University Road, Ilorin",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "NGN 400",
+      "images": "https://images.unsplash.com/photo-1629853381652-32b00424578e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "purification",
+        "blessings",
+        "river confluence"
+      ]
+    },
+    {
+      "id": "OlumoHealing",
+      "name": "Olumo's Healing Waters Shrine",
+      "short_description": "A sacred well revered for its association with the powerful Olumo spirit, offering protective blessings and relief from spiritual burdens. (Note: Olumo is usually Abeokuta, this is a fictional Ilorin adaptation)",
+      "subtype": "Holy Springs & Wells",
+      "address": "Alagbado Area, Ilorin South",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549726880-9280d97b0a72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "protection",
+        "spiritual cleansing",
+        "Olumo spirit"
+      ]
+    },
+    {
+      "id": "SheikhAlimiWell",
+      "name": "The Well of Sheikh Alimi's Wisdom",
+      "short_description": "An ancient well dug by Sheikh Alimi himself, believed to be imbued with his wisdom and spiritual insight. Locals fetch its water for blessings and knowledge.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Near Sheikh Alimi's Mosque, Idigba, Ilorin",
+      "visiting_hours": "05:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1616421946399-6e3e1d6d8d9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Islamic heritage",
+        "wisdom",
+        "blessings"
+      ]
+    },
+    {
+      "id": "IdiIrokoPaths",
+      "name": "Idi-Iroko's Three Paths Crossroads",
+      "short_description": "A powerful spiritual crossroads marked by a revered Iroko tree, where three ancient paths converge. Known as a site for making profound decisions and offerings to Esu.",
+      "subtype": "Crossroads",
+      "address": "Idi-Iroko Junction, Off Taiwo Road, Ilorin",
+      "visiting_hours": "Open access (24/7)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1551698246-880629a997ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Esu",
+        "decisions",
+        "offerings"
+      ]
+    },
+    {
+      "id": "OjaObaSpirit",
+      "name": "Oja-Oba Spirit Crossroads",
+      "short_description": "The vibrant Oja-Oba market crossroads, where the energy of commerce meets ancestral spirits. It's believed to be a potent spot for blessings and spiritual transactions.",
+      "subtype": "Crossroads",
+      "address": "Central Oja-Oba Market, Ilorin",
+      "visiting_hours": "06:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1621213271708-f4b66b2b733b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "market spirit",
+        "blessings",
+        "commerce"
+      ]
+    },
+    {
+      "id": "GeriAlimiWaypoint",
+      "name": "Geri-Alimi's Ancestral Waypoint",
+      "short_description": "A historic junction where travelers and merchants historically sought safe passage and divine favor. It connects the past and present spiritual journeys.",
+      "subtype": "Crossroads",
+      "address": "Geri-Alimi Roundabout, Ilorin",
+      "visiting_hours": "Open access (24/7)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502570081372-e1e5b8e9f2d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "travelers",
+        "divine favor",
+        "historical path"
+      ]
+    },
+    {
+      "id": "JunctionOfSpirits",
+      "name": "The Junction of Ancestral Spirits",
+      "short_description": "A secluded three-way junction where traditional ceremonies are held to honor ancestors and seek their blessings for community welfare and guidance.",
+      "subtype": "Crossroads",
+      "address": "Off Old Jebba Road, Behind Tanke, Ilorin",
+      "visiting_hours": "09:00-15:00 (special access for ceremonies)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1533228943725-d910a3014387?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "ancestral worship",
+        "community welfare",
+        "guidance"
+      ]
+    },
+    {
+      "id": "ShangoTemple",
+      "name": "Shango's Thunder Temple",
+      "short_description": "A vibrant temple dedicated to Shango, the Orisha of thunder and lightning. Known for its powerful rituals and festivals that celebrate justice and fiery passion.",
+      "subtype": "Ancient Temples",
+      "address": "Okelele Street, Ilorin East",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "NGN 500",
+      "images": "https://images.unsplash.com/photo-1549726880-9280d97b0a72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Orisha Shango",
+        "justice",
+        "rituals"
+      ]
+    },
+    {
+      "id": "OsunAltar",
+      "name": "Osun's Riverine Altar",
+      "short_description": "A serene altar nestled by the Asa River, honoring Osun, the Orisha of love, beauty, and fertility. Pilgrims offer prayers and seek her blessings for happiness.",
+      "subtype": "Ancient Temples",
+      "address": "Asa River Bank, Off Fate Road, Ilorin",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1629853381652-32b00424578e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Orisha Osun",
+        "fertility",
+        "love"
+      ]
+    },
+    {
+      "id": "OgunShrine",
+      "name": "Ogun's Iron Forge Shrine",
+      "short_description": "An ancient shrine dedicated to Ogun, the Orisha of iron, war, and labor. Blacksmiths and warriors traditionally offer homage here for strength and protection.",
+      "subtype": "Ancient Temples",
+      "address": "Isale-Aluko, Ilorin West",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "NGN 350",
+      "images": "https://images.unsplash.com/photo-1596708761767-f316e689408e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Orisha Ogun",
+        "warriors",
+        "protection"
+      ]
+    },
+    {
+      "id": "EsuTemple",
+      "name": "Esu's Crossroads Temple",
+      "short_description": "A small, potent temple dedicated to Esu, the divine messenger and enforcer of justice, located at a bustling crossroads. Offerings are made for clear paths and opportunities.",
+      "subtype": "Ancient Temples",
+      "address": "Near Post Office, Off Murtala Muhammed Way, Ilorin",
+      "visiting_hours": "06:30-19:00",
+      "entry_fee": "free (offerings encouraged)",
+      "images": "https://images.unsplash.com/photo-1502570081372-e1e5b8e9f2d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Orisha Esu",
+        "divine messenger",
+        "opportunities"
+      ]
+    },
+    {
+      "id": "SheikhAlimiTomb",
+      "name": "The Mausoleum of Sheikh Alimi",
+      "short_description": "The revered resting place of Sheikh Alimi, the founder of the Ilorin Emirate. A significant pilgrimage site for Muslims, embodying peace and spiritual leadership.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Okekere, Ilorin, Kwara State",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1616421946399-6e3e1d6d8d9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Islamic heritage",
+        "pilgrimage",
+        "Sheikh Alimi"
+      ]
+    },
+    {
+      "id": "AfonjaMemorial",
+      "name": "Afonja's Ancestral Memorial Shrine",
+      "short_description": "A site honoring the memory of Afonja, the Ojo of Ilorin, whose legacy shaped the city's destiny. It houses relics believed to be associated with his warrior spirit.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Okelele, Off Pakata Road, Ilorin",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 300",
+      "images": "https://images.unsplash.com/photo-1549726880-9280d97b0a72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Afonja",
+        "relics",
+        "ancestral veneration"
+      ]
+    },
+    {
+      "id": "EfunsetanRelic",
+      "name": "Efunsetan Aniwura's Sacred Reliquary",
+      "short_description": "A shrine housing objects linked to the powerful Iyaloja Efunsetan Aniwura, a pivotal historical figure. It symbolizes resilience, wealth, and spiritual power.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Idi-Ape Community, Ilorin South",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596708761767-f316e689408e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Iyaloja",
+        "resilience",
+        "historical relics"
+      ]
+    },
+    {
+      "id": "EldersMound",
+      "name": "The Elders' Ancestral Burial Mound",
+      "short_description": "An ancient burial mound believed to be the resting place of Ilorin's earliest wise elders and founding fathers. It is a site of deep respect and ancestral communication.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Off Sobi Hill Road, Alagbado, Ilorin",
+      "visiting_hours": "Daylight hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1509653198894-069e8557b77f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "ancestral worship",
+        "founding fathers",
+        "respect"
+      ]
+    },
+    {
+      "id": "SufiOkelele",
+      "name": "Okelele Sufi Retreat Centre",
+      "short_description": "A tranquil Sufi retreat offering solace and spiritual learning, particularly known for its meditative practices and Quranic studies. Open to seekers of peace.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Okelele, Ilorin East, Kwara State",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1590401490263-6c7e2b61a33a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Sufism",
+        "meditation",
+        "spiritual learning"
+      ]
+    },
+    {
+      "id": "OlodoHermitage",
+      "name": "Olodo Solitude Hermitage",
+      "short_description": "A secluded traditional hermitage for deep contemplation and spiritual purification. Seekers come for periods of fasting and intense prayer away from worldly distractions.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Olodo Village, Off Asa Dam Road, Ilorin",
+      "visiting_hours": "By special arrangement",
+      "entry_fee": "fixed amount (for retreat stay)",
+      "images": "https://images.unsplash.com/photo-1533228943725-d910a3014387?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "contemplation",
+        "purification",
+        "retreat"
+      ]
+    },
+    {
+      "id": "AlhajiMonastery",
+      "name": "Alhaji's Quietude Monastery",
+      "short_description": "Founded by a revered Alhaji, this monastery focuses on silent devotion and community service. It offers a peaceful environment for spiritual growth and reflection.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Gaa-Akanbi Area, Ilorin South",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596708761767-f316e689408e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "devotion",
+        "community service",
+        "spiritual growth"
+      ]
+    },
+    {
+      "id": "GaaImamSeclusion",
+      "name": "The Seclusion of Gaa-Imam",
+      "short_description": "A traditional retreat site for Imams and Islamic scholars, offering a quiet space for deep study of religious texts and personal spiritual development.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Gaa-Imam Community, Ilorin West",
+      "visiting_hours": "By invitation only",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502570081372-e1e5b8e9f2d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Islamic scholarship",
+        "religious study",
+        "spiritual development"
+      ]
+    },
+    {
+      "id": "AdetaSpeakingRock",
+      "name": "The Speaking Rock of Adeta",
+      "short_description": "An ancient, revered monolith believed to whisper prophecies and ancestral messages during special ceremonies. A powerful site for communal blessings.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Adeta Community, Ilorin, Kwara State",
+      "visiting_hours": "Daylight hours (restricted during festivals)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1509653198894-069e8557b77f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "prophecy",
+        "ancestral messages",
+        "blessings"
+      ]
+    },
+    {
+      "id": "OkeleleMonolith",
+      "name": "Okelele's Guarding Monolith",
+      "short_description": "A towering rock formation believed to be the ancient guardian of the Okelele community. Offers protection and stability to the land and its people.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Okelele Hills, Ilorin East",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549726880-9280d97b0a72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "guardian spirit",
+        "protection",
+        "community"
+      ]
+    },
+    {
+      "id": "ItaAmoStone",
+      "name": "Ita-Amo's Balancing Stone",
+      "short_description": "A marvel of nature, this precariously balanced rock is considered a symbol of divine equilibrium and resilience. Visitors seek balance in their lives here.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Ita-Amo Village, Off Ilorin-Ogbomosho Road",
+      "visiting_hours": "Daylight hours",
+      "entry_fee": "NGN 250",
+      "images": "https://images.unsplash.com/photo-1551698246-880629a997ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "equilibrium",
+        "resilience",
+        "natural wonder"
+      ]
+    },
+    {
+      "id": "ShaoSculptedHill",
+      "name": "The Sculpted Hill of Shao",
+      "short_description": "An ancient hill with naturally sculpted rock faces, believed to be the work of primordial spirits. It's a site for rituals seeking creative inspiration and harmony with nature.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Shao Town, Kwara State (near Ilorin)",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1506509494372-4d2d4c02f7e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "primordial spirits",
+        "creative inspiration",
+        "nature rituals"
+      ]
+    },
+    {
+      "id": "OjaIyaPath",
+      "name": "The Winding Path of Oja-Iya",
+      "short_description": "A symbolic labyrinthine path leading to an ancient market square, believed to cleanse travelers' intentions and align them with prosperity. Used for spiritual preparation.",
+      "subtype": "Labyrinths",
+      "address": "Oja-Iya Market, Ilorin, Kwara State",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1533228943725-d910a3014387?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "purification",
+        "prosperity",
+        "spiritual journey"
+      ]
+    },
+    {
+      "id": "SangoMaze",
+      "name": "Sango's Maze of Destiny",
+      "short_description": "A historically significant maze-like series of paths and courtyards within an ancient compound, believed to test one's resolve and reveal destiny under Sango's influence.",
+      "subtype": "Labyrinths",
+      "address": "Behind Emir's Palace, Isale-Aluko, Ilorin",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "NGN 400",
+      "images": "https://images.unsplash.com/photo-1502570081372-e1e5b8e9f2d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "destiny",
+        "resolve",
+        "Orisha Sango"
+      ]
+    },
+    {
+      "id": "SpiritMeanderTrail",
+      "name": "The Spirit's Meandering Trail",
+      "short_description": "A natural labyrinth of ancient footpaths through a sacred grove, said to align walkers with the rhythms of nature and ancestral spirits. Offers meditative experience.",
+      "subtype": "Labyrinths",
+      "address": "Off Geri-Alimi Road, Ago-Oko, Ilorin",
+      "visiting_hours": "Daylight hours",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549726880-9280d97b0a72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "meditation",
+        "nature alignment",
+        "ancestral spirits"
+      ]
+    },
+    {
+      "id": "OlomoLabyrinth",
+      "name": "The Olomo Labyrinth of Trials",
+      "short_description": "An intricate, sacred layout of pathways used for ritualistic 'trials of faith' by initiates. Completing the labyrinth is believed to confer spiritual maturity and blessings.",
+      "subtype": "Labyrinths",
+      "address": "Olomo Community, Ilorin West",
+      "visiting_hours": "By ritual appointment only",
+      "entry_fee": "fixed amount (initiation fee)",
+      "images": "https://images.unsplash.com/photo-1506509494372-4d2d4c02f7e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "trials of faith",
+        "initiation",
+        "spiritual maturity"
+      ]
+    }
+  ]
+}

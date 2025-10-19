@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Saint Kitts",
+    "city_id": "2445"
+  },
+  "items": [
+    {
+      "id": "SK-UNW-001",
+      "name": "The Volcanic Black Rocks Coast",
+      "short_description": "Explore the dramatic, rugged coastline shaped by ancient volcanic eruptions, forming unique black rock formations against the turquoise sea. A stunning testament to St. Kitts' fiery past, perfect for dramatic photos.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "North-east coast, near Belle Vue",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Black_Rocks_St._Kitts.jpg",
+      "tags": [
+        "Volcanic",
+        "Coastal",
+        "Dramatic"
+      ]
+    },
+    {
+      "id": "SK-B&O-001",
+      "name": "Timothy Hill's Dual Coast Panorama",
+      "short_description": "Capture the breathtaking vista where the calm Caribbean Sea meets the wild Atlantic Ocean, separated by a narrow strip of land. This iconic viewpoint offers one of St. Kitts' most famous photo opportunities.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "South Peninsula, between Frigate Bay and South Friar's Bay",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Timothy_Hill_St_Kitts.jpg",
+      "tags": [
+        "Panoramic",
+        "Coastal View",
+        "Iconic"
+      ]
+    },
+    {
+      "id": "SK-FFG-001",
+      "name": "Tropical Splendor at Romney Manor Gardens",
+      "short_description": "Wander through the lush botanical gardens surrounding historic Romney Manor, home to vibrant tropical flowers, towering trees, and the ancient Saman Tree. Discover the beauty that inspires the famed Caribelle Batik designs.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Old Road Town, St. Kitts",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Romney_Manor_St_Kitts_and_Nevis.jpg",
+      "tags": [
+        "Botanical",
+        "Historic Estate",
+        "Lush"
+      ]
+    },
+    {
+      "id": "SK-M&B-001",
+      "name": "Vibrant Flavors of Basseterre Market",
+      "short_description": "Immerse yourself in the bustling heart of local life at Basseterre's Public Market, where vibrant stalls overflow with fresh produce, spices, and local crafts. Experience the authentic sights, sounds, and tastes of St. Kitts.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Basseterre, near the waterfront",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/18/Basseterre_Market.jpg",
+      "tags": [
+        "Local Culture",
+        "Fresh Produce",
+        "Authentic"
+      ]
+    }
+  ]
+}

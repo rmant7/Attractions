@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Calabar",
+    "city_id": "2450"
+  },
+  "items": [
+    {
+      "id": "CAL-FD-001",
+      "name": "Mama's Delight Buka",
+      "short_description": "Savor authentic Calabar cuisine in a vibrant local setting. Famous for its 'Edikang Ikong' soup and 'Afang' soup, offering a true taste of Cross River.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Behind the Main Market, Goldie Street area",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596760207886-f40b2a30d507?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "local cuisine",
+        "buka",
+        "authentic"
+      ]
+    },
+    {
+      "id": "CAL-FD-002",
+      "name": "The Waterfront Bistro at Marina Resort",
+      "short_description": "Enjoy a picturesque dining experience with stunning views of the Calabar River. Perfect for fresh seafood and refreshing drinks as the boats pass by.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Marina Resort, Calabar",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1563729784422-b67303f295b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "river view",
+        "seafood",
+        "alfresco"
+      ]
+    },
+    {
+      "id": "CAL-FD-003",
+      "name": "Spice Route Cafe",
+      "short_description": "A charming cafe known for its artisanal coffee, delicious pastries, and light international fare. A cozy spot for a quiet breakfast or afternoon pick-me-up.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Ekorinim Area, near CICC",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1517220268140-57161860e6bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "coffee",
+        "cafe",
+        "pastries"
+      ]
+    },
+    {
+      "id": "CAL-FD-004",
+      "name": "Nightlife Bites on Mary Slessor Avenue",
+      "short_description": "As dusk falls, Mary Slessor Avenue comes alive with street food vendors offering grilled fish, suya, and local snacks. A lively spot for a late-night feast.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Mary Slessor Avenue",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1601614212571-08197771746f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "street food",
+        "nightlife",
+        "suya"
+      ]
+    },
+    {
+      "id": "CAL-SA-001",
+      "name": "Calabar Heritage Murals",
+      "short_description": "Discover vibrant murals depicting Calabar's rich history and cultural heritage, adorning walls throughout the historic Duke Town area.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Duke Town Streets",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1577717835154-1b702e5c830c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "cultural art",
+        "history",
+        "colorful"
+      ]
+    },
+    {
+      "id": "CAL-SA-002",
+      "name": "University of Calabar Art Walk",
+      "short_description": "Explore the creative expressions of students and local artists on the campus walls, featuring contemporary designs and social commentary.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "University of Calabar Campus",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596287016333-66f97ef719aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "student art",
+        "campus",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "CAL-SA-003",
+      "name": "Efik Symbol Street Gallery",
+      "short_description": "A collection of striking murals showcasing traditional Efik symbols and proverbs, offering a visual journey into local folklore and wisdom.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Around Calabar Cultural Centre",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1630138541940-b6f70d507119?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "Efik culture",
+        "folklore",
+        "symbolism"
+      ]
+    },
+    {
+      "id": "CAL-SA-004",
+      "name": "The Waterfront Graffiti Wall",
+      "short_description": "A dynamic public art space along the riverfront where artists frequently update their colorful graffiti and stencil work. Always something new to see!",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Marina Resort Promenade",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582294711204-718617f6943b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "graffiti",
+        "urban art",
+        "dynamic"
+      ]
+    },
+    {
+      "id": "CAL-FE-001",
+      "name": "Calabar Carnival Grand Finale",
+      "short_description": "Experience Africa's Biggest Street Party with dazzling costumes, energetic dance troupes, and a vibrant atmosphere. A truly unforgettable spectacle.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Major boulevards across Calabar",
+      "best_time": "Day (late December)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Calabar_Carnival.jpg/1280px-Calabar_Carnival.jpg",
+      "tags": [
+        "carnival",
+        "festival",
+        "parade"
+      ]
+    },
+    {
+      "id": "CAL-FE-002",
+      "name": "Obudu Mountain Race",
+      "short_description": "Witness an international athletic event set against the breathtaking backdrop of the Obudu Cattle Ranch. A challenging race with spectacular views.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Obudu Cattle Ranch (Cross River State)",
+      "best_time": "Morning (November)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Obudu_mountain_race_at_the_Obudu_Plateau%2C_Cross_River_State%2C_Nigeria.jpg/1280px-Obudu_mountain_race_at_the_Obudu_Plateau%2C_Cross_River_State%2C_Nigeria.jpg",
+      "tags": [
+        "marathon",
+        "athletics",
+        "scenic race"
+      ]
+    },
+    {
+      "id": "CAL-FE-003",
+      "name": "Cross River State Cultural Festival",
+      "short_description": "A celebration of diverse ethnic groups within Cross River State, featuring traditional dances, music, crafts, and culinary delights.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Calabar Cultural Centre",
+      "best_time": "Afternoon (seasonal)",
+      "images": "https://images.unsplash.com/photo-1549419161-0f46f3a67d16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "cultural",
+        "traditional",
+        "music"
+      ]
+    },
+    {
+      "id": "CAL-FE-004",
+      "name": "New Yam Festival (Mma Nnam)",
+      "short_description": "Join in the ancient agrarian festival celebrating the harvest of new yams, marked by traditional rites, communal feasting, and vibrant displays of heritage.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Rural communities around Calabar",
+      "best_time": "Day (August/September)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/New_Yam_festival_at_Ebonyi_State_Nigeria.jpg/1280px-New_Yam_festival_at_Ebonyi_State_Nigeria.jpg",
+      "tags": [
+        "harvest",
+        "tradition",
+        "community"
+      ]
+    },
+    {
+      "id": "CAL-HA-001",
+      "name": "Old Residency Gardens & Alleyways",
+      "short_description": "Step into a serene colonial-era retreat with lush gardens and quiet pathways, offering a glimpse into Calabar's past away from the bustling streets.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Behind the Old Residency Museum",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1574384666579-24765d752ed1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "colonial",
+        "garden",
+        "historic"
+      ]
+    },
+    {
+      "id": "CAL-HA-002",
+      "name": "Duke Town Secret Passageways",
+      "short_description": "Wander through narrow, winding alleys in the historic Duke Town, revealing hidden courtyards, ancient homes, and local life untouched by time.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Around Duke Town Church",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1558509355-885f8382098b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "historic",
+        "local life",
+        "charming"
+      ]
+    },
+    {
+      "id": "CAL-HA-003",
+      "name": "Botanical Garden's Hidden Paths",
+      "short_description": "Discover secluded walking trails and shaded nooks within Calabar's botanical gardens, offering a tranquil escape amidst diverse flora.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Calabar Botanical Garden",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1598380387588-e215f79ee886?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "nature",
+        "tranquil",
+        "gardens"
+      ]
+    },
+    {
+      "id": "CAL-HA-004",
+      "name": "Marina Resort's Back Courtyard Art",
+      "short_description": "Tucked away behind the main promenade of the Marina Resort, find a charming courtyard adorned with local art installations and a peaceful ambiance.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Behind the Marina Resort jetties",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596701831821-4f9e31d4e73b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "art installations",
+        "peaceful",
+        "resort area"
+      ]
+    },
+    {
+      "id": "CAL-IP-001",
+      "name": "CICC Hotel Sky Pool",
+      "short_description": "Indulge in a luxurious swim at the hotel's infinity-edge pool, offering panoramic views of the Calabar River and the city skyline. A perfect blend of relaxation and spectacle.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Calabar International Convention Centre (CICC) Hotel",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1582294711204-718617f6943b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "luxury",
+        "panoramic view",
+        "hotel pool"
+      ]
+    },
+    {
+      "id": "CAL-IP-002",
+      "name": "Monty Suites Rooftop Oasis",
+      "short_description": "Escape to this exclusive rooftop infinity pool, offering a serene escape with stunning vistas of Calabar's green landscape and distant river.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Monty Suites & Golf, Ekorinim",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549419161-0f46f3a67d16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "rooftop",
+        "exclusive",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "CAL-IP-003",
+      "name": "Transcorp Hilton Calabar River View Pool",
+      "short_description": "Relax in the elegant infinity pool overlooking the majestic Calabar River, offering a refreshing dip with a backdrop of natural beauty.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Transcorp Hilton Calabar (now often CICC Hotel linked)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1616781297594-5582f3c7e462?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "riverfront",
+        "luxury hotel",
+        "serene"
+      ]
+    },
+    {
+      "id": "CAL-IP-004",
+      "name": "Tinapa Lakeside Resort Pool",
+      "short_description": "Unwind by the infinity-style pool at Tinapa, offering tranquil views of the artificial lake and a peaceful ambiance perfect for a leisurely day.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Tinapa Lakeside Resort",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1565516087799-a46f73e2001e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "resort",
+        "lake view",
+        "tranquil"
+      ]
+    },
+    {
+      "id": "CAL-BO-001",
+      "name": "Calabar River Bridge Overlook",
+      "short_description": "Capture stunning panoramic views of the Calabar River, bustling port activity, and distant mangroves from this strategic elevated viewpoint.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near the Calabar River Port",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1561019183-51820a40d513?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "river view",
+        "panoramic",
+        "bridge"
+      ]
+    },
+    {
+      "id": "CAL-BO-002",
+      "name": "Marina Resort Observation Deck",
+      "short_description": "A prime spot for uninterrupted views of the Calabar River, the slave history museum, and the bustling promenade below. Great for people-watching.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Marina Resort",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1620247926177-bb8913c013aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "riverfront",
+        "viewpoint",
+        "promenade"
+      ]
+    },
+    {
+      "id": "CAL-BO-003",
+      "name": "Hills of Old Calabar Viewpoint",
+      "short_description": "Ascend to one of the natural hills surrounding Old Calabar for a serene overlook of the historic district and the river winding into the distance.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Behind Duke Town",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1598236120531-1e96716a440c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "historic",
+        "hilltop",
+        "scenic"
+      ]
+    },
+    {
+      "id": "CAL-BO-004",
+      "name": "Tinapa Bridge of Progress",
+      "short_description": "A modern bridge connecting various sections of the Tinapa Free Zone, offering unique architectural lines and reflections over its tranquil waters.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Tinapa Free Zone & Resort",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1614070005788-b4b1a45a32b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "modern architecture",
+        "reflections",
+        "resort bridge"
+      ]
+    },
+    {
+      "id": "CAL-SD-001",
+      "name": "Great Kwa River Sandbanks",
+      "short_description": "Explore the expansive, pristine sandbanks that emerge along the Great Kwa River during dry season, offering a unique 'desert-like' feel within a tropical setting.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Great Kwa River banks (requires boat access)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1579621644053-91147a247a32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "riverine",
+        "sandbanks",
+        "secluded"
+      ]
+    },
+    {
+      "id": "CAL-SD-002",
+      "name": "Adiabo Beach's Rolling Sands",
+      "short_description": "Beyond the main beach area, find gently rolling sandy expanses that evoke a dune-like landscape, perfect for serene walks and photography.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Secluded parts of Adiabo Beach",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1517400508542-a8c7b828d9c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "beach dunes",
+        "secluded",
+        "sandy landscape"
+      ]
+    },
+    {
+      "id": "CAL-SD-003",
+      "name": "Ebebe Creek Tidal Flats",
+      "short_description": "During low tide, vast stretches of smooth, rippled sand appear along Ebebe Creek, creating a mesmerizing, almost extraterrestrial landscape for exploration.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Ebebe Creek estuary",
+      "best_time": "Morning (low tide)",
+      "images": "https://images.unsplash.com/photo-1549419161-0f46f3a67d16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "tidal flats",
+        "unique landscape",
+        "estuary"
+      ]
+    },
+    {
+      "id": "CAL-SD-004",
+      "name": "Tinapa Lakeside Sand Stretch",
+      "short_description": "A man-made sandy expanse at Tinapa Lakeside Resort, designed to mimic a beach, offering a unique 'desert island' feel right by the tranquil lake.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Tinapa Lakeside Resort",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1510529806460-e64e5e786b45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "resort beach",
+        "artificial",
+        "lakeside sand"
+      ]
+    },
+    {
+      "id": "CAL-BC-001",
+      "name": "Tinapa Beach & Leisure Park",
+      "short_description": "Enjoy the calm waters and recreational activities at this popular man-made beach. Perfect for family outings and waterfront relaxation.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Tinapa Free Zone & Resort",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "man-made beach",
+        "family friendly",
+        "resort"
+      ]
+    },
+    {
+      "id": "CAL-BC-002",
+      "name": "Adiabo Coastal Stretch",
+      "short_description": "Discover long stretches of pristine, natural beach at Adiabo, offering breathtaking views of the Atlantic Ocean and a peaceful escape from the city.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Adiabo Town outskirts",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1543886510-9118c7ac978f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "natural beach",
+        "ocean view",
+        "secluded"
+      ]
+    },
+    {
+      "id": "CAL-BC-003",
+      "name": "Esuk Mba Beach Waterfront",
+      "short_description": "A charming local fishing beach where you can observe traditional coastal life and enjoy fresh catches straight from the sea, with views of the Calabar estuary.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Esuk Mba Community",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563729784422-b67303f295b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "fishing village",
+        "estuary",
+        "authentic"
+      ]
+    },
+    {
+      "id": "CAL-BC-004",
+      "name": "Marina Resort River Walk",
+      "short_description": "Stroll along the scenic riverfront promenade at Marina Resort, offering lovely views of the Calabar River, distant shores, and historical landmarks.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Marina Resort",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1596701831821-4f9e31d4e73b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "riverfront",
+        "promenade",
+        "historic views"
+      ]
+    },
+    {
+      "id": "CAL-HS-001",
+      "name": "Transcorp Hilton Calabar (CICC Hotel)",
+      "short_description": "Experience luxury and comfort at this iconic hotel, seamlessly integrated with the Calabar International Convention Centre. Offers world-class amenities and service.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "CICC Complex, Adiabo Road",
+      "best_time": "Any",
+      "images": "https://images.unsplash.com/photo-1571004351657-b016d9b9d033?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "luxury",
+        "business",
+        "modern"
+      ]
+    },
+    {
+      "id": "CAL-HS-002",
+      "name": "Tinapa Lakeside Hotel",
+      "short_description": "Stay in tranquility at this resort-style hotel overlooking the Tinapa Lake. Ideal for relaxation with access to the waterpark and duty-free shopping.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Tinapa Free Zone & Resort",
+      "best_time": "Any",
+      "images": "https://images.unsplash.com/photo-1517400508542-a8c7b828d9c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "resort",
+        "leisure",
+        "lake view"
+      ]
+    },
+    {
+      "id": "CAL-HS-003",
+      "name": "Monty Suites & Golf",
+      "short_description": "A stylish hotel with an attached golf course, offering elegant accommodations and recreational facilities for both leisure and business travelers.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Ekorinim Area",
+      "best_time": "Any",
+      "images": "https://images.unsplash.com/photo-1563729784422-b67303f295b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "boutique",
+        "golf resort",
+        "stylish"
+      ]
+    },
+    {
+      "id": "CAL-HS-004",
+      "name": "Axari Hotel & Suites",
+      "short_description": "Known for its warm hospitality and a serene environment, Axari offers comfortable rooms and a charming ambiance, perfect for a peaceful stay in Calabar.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Murtala Mohammed Highway",
+      "best_time": "Any",
+      "images": "https://images.unsplash.com/photo-1522770179533-24471fcdba45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "hospitality",
+        "serene",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "CAL-IL-001",
+      "name": "Old Residency Museum",
+      "short_description": "Step back in time at Nigeria's oldest colonial building, now a museum showcasing the country's history, particularly during the colonial era. A vital historical site.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Chief Effiong Street, Duke Town",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Old_Residency_Museum%2C_Calabar.jpg/1280px-The_Old_Residency_Museum%2C_Calabar.jpg",
+      "tags": [
+        "history",
+        "colonial",
+        "museum"
+      ]
+    },
+    {
+      "id": "CAL-IL-002",
+      "name": "Calabar International Convention Centre (CICC)",
+      "short_description": "An architectural marvel and a hub for major events, the CICC stands as a symbol of modern Calabar, with its impressive design and strategic location.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Adiabo Road",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Calabar_International_Convention_Centre.jpg/1280px-Calabar_International_Convention_Centre.jpg",
+      "tags": [
+        "modern architecture",
+        "convention center",
+        "landmark"
+      ]
+    },
+    {
+      "id": "CAL-IL-003",
+      "name": "Duke Town Church",
+      "short_description": "Nigeria's first church, founded in 1846, Duke Town Church is a historical and spiritual landmark with stunning architecture and a rich legacy.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Bassey Duke Street, Duke Town",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Duke_town_church%2C_Calabar.jpg/1024px-Duke_town_church%2C_Calabar.jpg",
+      "tags": [
+        "historic church",
+        "architecture",
+        "spiritual"
+      ]
+    },
+    {
+      "id": "CAL-IL-004",
+      "name": "Calabar Slave History Museum",
+      "short_description": "A poignant and educational museum housed in a former slave trade building, offering deep insights into the Trans-Atlantic Slave Trade's impact on Calabar.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Marina Resort",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Calabar_Slave_History_Museum.jpg/1280px-Calabar_Slave_History_Museum.jpg",
+      "tags": [
+        "history",
+        "museum",
+        "slavery"
+      ]
+    }
+  ]
+}

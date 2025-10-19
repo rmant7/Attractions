@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Port of Spain",
+    "city_id": "2480"
+  },
+  "items": [
+    {
+      "id": "PoS-UNW-01",
+      "name": "Caroni Swamp & Scarlet Ibis Sanctuary",
+      "short_description": "Glide through tranquil mangrove waterways to witness thousands of Scarlet Ibis returning to roost, painting the sky vibrant red. A breathtaking and unique wildlife spectacle at sunset.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "South of Port of Spain, near Caroni",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Scarlet_Ibis_flock_at_Caroni_Swamp%2C_Trinidad.jpg",
+      "tags": [
+        "wildlife",
+        "mangroves",
+        "birdwatching"
+      ]
+    },
+    {
+      "id": "PoS-UNW-02",
+      "name": "Gasparee Caves, Gasparee Island",
+      "short_description": "Explore the mystical Gasparee Caves, an ancient limestone cavern system on a small island near Port of Spain. Discover crystal-clear underground pools and unique rock formations.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Gasparee Island, accessible from Chaguaramas",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/05/Gasparee_Caves.jpg",
+      "tags": [
+        "caves",
+        "island",
+        "adventure"
+      ]
+    },
+    {
+      "id": "PoS-UNW-03",
+      "name": "Edelweiss Estate Bamboo Cathedral",
+      "short_description": "Walk through an ethereal 'cathedral' formed by towering bamboo stalks, creating natural arches and a soothing, dappled light. A serene and picturesque escape from the city.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Maracas Valley, Northern Range",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1627993074360-eb502b4d3f57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHNlYXJjaHwxfHxiYW1ib28lMjBjYXRoZWRyYWwlMjB0cmluaWRhZHxlbnwwfHx8fDE3MTgxODU2MDZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "bamboo forest",
+        "hiking",
+        "serenity"
+      ]
+    },
+    {
+      "id": "PoS-UNW-04",
+      "name": "Asa Wright Nature Centre's Rainforest",
+      "short_description": "Immerse yourself in a vibrant tropical rainforest, home to diverse birds, butterflies, and lush flora. Experience nature's symphony from an elevated veranda.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Arima Valley, Northern Range",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Asa_Wright_Nature_Centre_forest.jpg/1024px-Asa_Wright_Nature_Centre_forest.jpg",
+      "tags": [
+        "rainforest",
+        "birdwatching",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "PoS-NB-01",
+      "name": "Queen's Park Savannah Green Oasis",
+      "short_description": "Port of Spain's sprawling urban park, offering vast green spaces perfect for picnics, relaxation, and iconic shots with the 'Magnificent Seven' mansions in the background.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Northern edge of downtown Port of Spain",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/15/Queens_Park_Savannah_%28Trinidad%29.jpg",
+      "tags": [
+        "urban park",
+        "city views",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "PoS-NB-02",
+      "name": "Royal Botanic Gardens Lush Pathways",
+      "short_description": "Wander through historic and beautifully landscaped gardens, home to a vast collection of tropical plants, mature trees, and vibrant floral displays. A tranquil escape for nature lovers.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Adjoining Queen's Park Savannah",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1606553535919-dd55e97b5f54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHNlYXJjaHwxfHxyb3lhbCUyMGJvdGFuaWMlMjBnYXJkZW5zJTIwdHJpbmkxfGVufDB8fHx8MTcxODE4NjQ3NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "botanical",
+        "gardens",
+        "flora"
+      ]
+    },
+    {
+      "id": "PoS-NB-03",
+      "name": "Lady Young Road Lookout Views",
+      "short_description": "Capture stunning panoramic vistas of Port of Spain, the Gulf of Paria, and the Northern Range from this scenic hillside viewpoint. Especially magical at sunset.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Lady Young Road, St. Ann's",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Port_of_Spain_%28Trinidad%29_panorama_from_Lady_Young_Road.jpg/1024px-Port_of_Spain_%28Trinidad%29_panorama_from_Lady_Young_Road.jpg",
+      "tags": [
+        "cityscape",
+        "panoramic views",
+        "sunset"
+      ]
+    },
+    {
+      "id": "PoS-NB-04",
+      "name": "Chaguaramas Boardwalk & Coastal Greenery",
+      "short_description": "Stroll along the picturesque boardwalk with views of the ocean, moored boats, and lush hills. A perfect spot for a relaxed coastal backdrop.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Chaguaramas Peninsula",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1627993080004-97c9b0b4b2c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxjaGFndWFyYW1hcyUyMGJvYXJkd2Fsa3xlbnwwfHx8fDE3MTgxODY3MzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coastal",
+        "waterfront",
+        "marina"
+      ]
+    },
+    {
+      "id": "PoS-UHS-01",
+      "name": "Hyatt Regency Trinidad Waterfront Luxury",
+      "short_description": "Experience upscale comfort with breathtaking views of the Gulf of Paria from this modern waterfront hotel. Known for its sleek design and vibrant atmosphere.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Port of Spain International Waterfront Centre",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1549488344-93c4481b7e28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxoeWF0dCUyMHJlZ2VuY3klMjB0cmluaWRhZHxlbnwwfHx8fDE3MTgxODcxNzh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "luxury hotel",
+        "waterfront",
+        "modern design"
+      ]
+    },
+    {
+      "id": "PoS-UHS-02",
+      "name": "Hilton Trinidad & Conference Centre Hilltop Elegance",
+      "short_description": "An iconic inverted-pyramid design nestled in the hills, offering unparalleled panoramic views of Queen's Park Savannah and the city. A blend of history and comfort.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Lady Young Road, St. Ann's",
+      "best_time": "Afternoon / Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hilton_Trinidad.jpg/1024px-Hilton_Trinidad.jpg",
+      "tags": [
+        "historic hotel",
+        "panoramic views",
+        "unique architecture"
+      ]
+    },
+    {
+      "id": "PoS-UHS-03",
+      "name": "The BRIX, Autograph Collection Boutique Charm",
+      "short_description": "Discover contemporary luxury and distinctive design at this sophisticated boutique hotel. Offers a chic, artistic ambiance perfect for the modern traveler.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Cascade Road, St. Ann's",
+      "best_time": "Night",
+      "images": "https://media.marriott.com/is/image/marriotts7prod/autograph-trinidad-79942-hotel-exterior-00-hor-feat?wid=1440&fit=constrain",
+      "tags": [
+        "boutique hotel",
+        "chic",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "PoS-UHS-04",
+      "name": "Kapok Hotel Local & Cozy Stay",
+      "short_description": "Experience warm Trinidadian hospitality at this locally owned hotel, known for its comfortable rooms, excellent dining, and convenient location near key attractions.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Maraval Road, near Queen's Park Savannah",
+      "best_time": "Morning / Evening",
+      "images": "https://media-cdn.tripadvisor.com/media/photo-s/05/b0/46/61/kapok-hotel.jpg",
+      "tags": [
+        "local charm",
+        "convenient",
+        "hospitality"
+      ]
+    },
+    {
+      "id": "PoS-BCV-01",
+      "name": "Maracas Bay Iconic Crescent",
+      "short_description": "Relax on Trinidad's most famous beach, a picturesque crescent of golden sand fringed by lush green hills. Don't forget to try the local 'Bake and Shark'!",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "North Coast Road, accessible from Port of Spain",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596707323533-5c74384a32c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHNlYXJjaHwxfHxtYXJhY2FzJTIwYmF5JTIwdHJpbmkxfGVufDB8fHx8MTcxODE4NzU5Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sandy beach",
+        "local food",
+        "scenic drive"
+      ]
+    },
+    {
+      "id": "PoS-BCV-02",
+      "name": "Las Cuevas Bay Secluded Serenity",
+      "short_description": "Enjoy the quieter charm of Las Cuevas Bay, known for its small caves (cuevas) and calm waters. Perfect for swimming and a peaceful beach day.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "North Coast Road, past Maracas Bay",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1627993077673-a61b2d0b4b2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxsYXMlMjBjdWV2YXMlMjBiYXklMjB0cmluaWRhZHxlbnwwfHx8fDE3MTgxODc3MjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "calm waters",
+        "caves",
+        "secluded beach"
+      ]
+    },
+    {
+      "id": "PoS-BCV-03",
+      "name": "Macqueripe Bay Hidden Gem",
+      "short_description": "Discover this tucked-away cove in Chaguaramas, featuring dark sand, calm waters, and a scenic pier. Great for a refreshing dip and quiet contemplation.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Chaguaramas Peninsula",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1627993075252-c61d5a71b2f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxtYWNxdWVyaXBlJTIwYmF5JTIwdHJpbmkxfGVufDB8fHx8MTcxODE4Nzg0NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cove",
+        "calm water",
+        "scenic pier"
+      ]
+    },
+    {
+      "id": "PoS-BCV-04",
+      "name": "Tyrico Bay Surfer's Paradise",
+      "short_description": "Known for its stronger waves, Tyrico Bay is a favourite among surfers and those seeking a more rugged coastal experience. Enjoy the unspoiled natural beauty.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "North Coast Road, between Maracas and Las Cuevas",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1606553535919-dd55e97b5f54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxtYXJhY2FzJTIwYmF5JTIwdHJpbmkxfGVufDB8fHx8MTcxODE4Nzk2OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "surfing",
+        "rugged coast",
+        "natural beauty"
+      ]
+    },
+    {
+      "id": "PoS-RV-01",
+      "name": "Hyatt Regency Trinidad Rooftop Pool Deck",
+      "short_description": "Capture stunning waterfront and city skyline views from the hotel's expansive rooftop pool deck. Perfect for sunset cocktails and memorable photos.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Port of Spain International Waterfront Centre",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1559286280-97b7156999a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxoZWxpb3BhZCUyMHBvb2wlMjBhdCUyMHRvcCUyMG9mJTIwaG90ZWx8ZW58MHx8fHwxNzE4MTg4MTIzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "city skyline",
+        "waterfront",
+        "sunset drinks"
+      ]
+    },
+    {
+      "id": "PoS-RV-02",
+      "name": "Hilton Trinidad Elevated Terraces",
+      "short_description": "Enjoy panoramic views of the Queen's Park Savannah, the city below, and the Gulf of Paria from various elevated terraces and common areas of this iconic hillside hotel.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Lady Young Road, St. Ann's",
+      "best_time": "Afternoon / Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hilton_Trinidad.jpg/1024px-Hilton_Trinidad.jpg",
+      "tags": [
+        "panoramic",
+        "city views",
+        "hillside"
+      ]
+    },
+    {
+      "id": "PoS-RV-03",
+      "name": "The BRIX, Autograph Collection Sky Lounge",
+      "short_description": "Sip cocktails and enjoy chic urban views from the stylish sky lounge or an upper-floor restaurant at this modern boutique hotel. A sophisticated evening spot.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Cascade Road, St. Ann's",
+      "best_time": "Night",
+      "images": "https://media.marriott.com/is/image/marriotts7prod/autograph-trinidad-79942-dining-02-hor-clsc?wid=1440&fit=constrain",
+      "tags": [
+        "urban chic",
+        "cocktails",
+        "nightlife"
+      ]
+    },
+    {
+      "id": "PoS-RV-04",
+      "name": "Radisson Hotel Port of Spain - The View Restaurant",
+      "short_description": "Dine with a view at 'The View' restaurant, located on an upper floor, offering a commanding perspective of the city and its surroundings. A memorable culinary experience with a backdrop.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Wrightson Road, downtown Port of Spain",
+      "best_time": "Evening",
+      "images": "https://images.unsplash.com/photo-1550995669-0268aa0021b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxyb29mdG9wJTIwcmVzdGF1cmFudCUyMGNpdHl2aWV3fGVufDB8fHx8MTcxODE4ODI0OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "dining with a view",
+        "cityscape",
+        "elevated"
+      ]
+    },
+    {
+      "id": "PoS-IP-01",
+      "name": "Hyatt Regency Trinidad Infinity Edge Pool",
+      "short_description": "Indulge in a luxurious swim in the iconic infinity-edge pool, seemingly blending into the Gulf of Paria. Enjoy unparalleled waterfront views.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Port of Spain International Waterfront Centre",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1549488344-93c4481b7e28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxpbmZpbml0eSUyMHBvb2wlMjB3YXRlcmZyb250fGVufDB8fHx8MTcxODE4ODMyMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "luxury pool",
+        "waterfront",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "PoS-IP-02",
+      "name": "The BRIX, Autograph Collection Sky Pool",
+      "short_description": "Discover a sophisticated infinity-edge pool at The BRIX, offering a chic urban oasis with stylish design and a refreshing escape.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Cascade Road, St. Ann's",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1616486675376-79b88307c87c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxtb2Rlcm4lMjBob3RlbCUyMHBvb2wlMjBpbmZpbml0eSUyMGVkZ2V8ZW58MHx8fHwxNzE4MTg4NDQ1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "boutique luxury",
+        "urban oasis",
+        "modern design"
+      ]
+    },
+    {
+      "id": "PoS-IP-03",
+      "name": "Upscale Hotel Pool with City Vista (e.g. Hilton)",
+      "short_description": "While not a classic infinity pool, some upscale hotels like the Hilton Trinidad offer resort-style pools with expansive city and Savannah views that give an 'endless' visual effect.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Lady Young Road, St. Ann's (e.g. Hilton)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1563911302283-d2bc129e9670?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxyZXNvcnQlMjBwb29sJTIwcGFub3JhbWljJTIwdmlld3N8ZW58MHx8fHwxNzE4MTg4NTcwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "resort pool",
+        "city views",
+        "luxurious relaxation"
+      ]
+    },
+    {
+      "id": "PoS-IP-04",
+      "name": "Luxury Apartment Rooftop Pool",
+      "short_description": "Experience an exclusive infinity-edge pool atop a luxury residential building, offering a serene escape with panoramic urban vistas. (Note: Access may be restricted to residents/guests).",
+      "subtype": "Infinity Pools",
+      "location_hint": "Downtown Port of Spain (e.g., One Woodbrook Place)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1507747803629-bc849942a6d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxhcGFydG1lbnQlMjByb29mdG9wJTIwaW5maW5pdHklMjBwb29sfGVufDB8fHx8MTcxODE4ODYyNXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "exclusive",
+        "urban vista",
+        "modern living"
+      ]
+    },
+    {
+      "id": "PoS-FFG-01",
+      "name": "Royal Botanic Gardens Floral Displays",
+      "short_description": "Immerse yourself in vibrant floral arrangements and exotic plant species within these historic gardens, a colourful backdrop for any photo.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Adjoining Queen's Park Savannah",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1541334860-2641a919310c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxhY3R1YWwlaXJveWFsJTIwYm90YW5pYyUyMGdhcmRlbnMlMjB0cmluaWRhZHxlbnwwfHx8fDE3MTgxODg4NTR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "botanical",
+        "exotic flowers",
+        "landscaped"
+      ]
+    },
+    {
+      "id": "PoS-FFG-02",
+      "name": "Centenary Park Seasonal Blooms",
+      "short_description": "Discover a charming urban park featuring seasonal flower beds that burst with colour, offering a delightful and accessible spot for floral photography.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Frederick Street, downtown Port of Spain",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1563911302283-d2bc129e9670?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxwYXJrJTIwZmxvd2VyJTIwYmVkcyUyMGNpdHl8ZW58MHx8fHwxNzE4MTg5MDk2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "urban park",
+        "seasonal flowers",
+        "city escape"
+      ]
+    },
+    {
+      "id": "PoS-FFG-03",
+      "name": "Emperor Valley Zoo Gardens",
+      "short_description": "Beyond the animal exhibits, the zoo boasts beautifully landscaped grounds and diverse plant collections, providing vibrant natural backdrops and floral accents.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Near Queen's Park Savannah",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Trinidad%2C_Port_of_Spain%2C_botanical_garden%2C_2016-01-20%2C_01.jpg",
+      "tags": [
+        "landscaped",
+        "exotic plants",
+        "zoo gardens"
+      ]
+    },
+    {
+      "id": "PoS-FFG-04",
+      "name": "Queen's Park Savannah Poui Blossom Avenue",
+      "short_description": "During its blooming season (often March-April), the Savannah's Poui trees explode with magnificent yellow and pink blossoms, creating stunning natural avenues of colour.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Along Queen's Park Savannah Perimeter",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Golden_Poui.jpg/1024px-Golden_Poui.jpg",
+      "tags": [
+        "flowering trees",
+        "seasonal bloom",
+        "urban nature"
+      ]
+    },
+    {
+      "id": "PoS-FE-01",
+      "name": "Trinidad Carnival Grand Parade",
+      "short_description": "Experience the 'Greatest Show on Earth' with vibrant costumes, pulsating music, and an electrifying atmosphere. A photographer's dream of colour and energy.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Queen's Park Savannah & downtown streets",
+      "best_time": "Daytime (Carnival Monday & Tuesday)",
+      "images": "https://images.unsplash.com/photo-1577771701193-41a4a4d653a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHNlYXJjaHwxfHx0cmluaWRhZCUyMGNhcm5pdmFsfGVufDB8fHx8MTcxODE4OTQ0NXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "carnival",
+        "parade",
+        "costumes"
+      ]
+    },
+    {
+      "id": "PoS-FE-02",
+      "name": "Independence Day Celebrations",
+      "short_description": "Join the patriotic celebrations with a grand military parade, cultural performances, and dazzling fireworks displays honouring Trinidad and Tobago's independence.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Queen's Park Savannah & Port of Spain Waterfront",
+      "best_time": "Afternoon / Night (August 31st)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Trinidad_and_Tobago_Defence_Force_Independence_Parade_2017.jpg/1024px-Trinidad_and_Tobago_Defence_Force_Independence_Parade_2017.jpg",
+      "tags": [
+        "national holiday",
+        "parade",
+        "fireworks"
+      ]
+    },
+    {
+      "id": "PoS-FE-03",
+      "name": "Divali Nagar Festival of Lights",
+      "short_description": "Witness the spectacular Divali Nagar, a nine-night Hindu festival of lights, culture, and food. A truly enchanting experience of vibrant displays and traditions.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Chaguanas (accessible from Port of Spain)",
+      "best_time": "Night",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Divali_Nagar.jpg/1024px-Divali_Nagar.jpg",
+      "tags": [
+        "cultural festival",
+        "lights",
+        "Hindu tradition"
+      ]
+    },
+    {
+      "id": "PoS-FE-04",
+      "name": "Panoridim Steelpan Concert Series",
+      "short_description": "Immerse yourself in the unique sounds of the national instrument, the steelpan, at various concerts and events. Experience the rhythmic heart of Trinidadian culture.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Various venues across Port of Spain (e.g., Grand Stand, QPS)",
+      "best_time": "Evening",
+      "images": "https://images.unsplash.com/photo-1627993077673-a61b2d0b4b2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxpbmRpZSUyMGJhbmQlMjBtdXNpY3xlbnwwfHx8fDE3MTgxODk3NDh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "steelpan",
+        "music festival",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "PoS-MA-01",
+      "name": "International Waterfront Centre Towers",
+      "short_description": "Admire the sleek, glass-clad twin towers that dominate the city's waterfront, a symbol of Port of Spain's modern economic landscape and a striking backdrop.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Wrightson Road, downtown Port of Spain",
+      "best_time": "Afternoon / Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Port_of_Spain_Waterfront_Centre%2C_Trinidad.jpg/1024px-Port_of_Spain_Waterfront_Centre%2C_Trinidad.jpg",
+      "tags": [
+        "skyscrapers",
+        "waterfront",
+        "urban development"
+      ]
+    },
+    {
+      "id": "PoS-MA-02",
+      "name": "National Academy for the Performing Arts (NAPA)",
+      "short_description": "Marvel at NAPA's distinctive design, resembling a colossal Red Ginger lily. This architectural gem is a hub for culture and a stunning visual landmark.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Frederick Street, near Queen's Park Savannah",
+      "best_time": "Daytime / Night (lit up)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/National_Academy_for_the_Performing_Arts%2C_Port_of_Spain%2C_Trinidad_and_Tobago.jpg/1024px-National_Academy_for_the_Performing_Arts%2C_Port_of_Spain%2C_Trinidad_and_Tobago.jpg",
+      "tags": [
+        "cultural building",
+        "unique design",
+        "performing arts"
+      ]
+    },
+    {
+      "id": "PoS-MA-03",
+      "name": "Central Bank Tower",
+      "short_description": "One of Port of Spain's tallest and most recognizable buildings, the Central Bank Tower stands as a symbol of the nation's financial strength and modern urban skyline.",
+      "subtype": "Modern Architecture",
+      "location_hint": "St. Vincent Street, downtown Port of Spain",
+      "best_time": "Daytime",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Central_Bank_of_Trinidad_and_Tobago.jpg/800px-Central_Bank_of_Trinidad_and_Tobago.jpg",
+      "tags": [
+        "skyscraper",
+        "financial hub",
+        "city landmark"
+      ]
+    },
+    {
+      "id": "PoS-MA-04",
+      "name": "Hyatt Regency Trinidad Contemporary Design",
+      "short_description": "Beyond its luxury, the Hyatt features a sleek, minimalist, and contemporary architectural style that blends seamlessly with the waterfront landscape.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Port of Spain International Waterfront Centre",
+      "best_time": "Daytime / Night",
+      "images": "https://images.unsplash.com/photo-1549488344-93c4481b7e28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcwMDV8MHwxfHxhY3R1YWwlaXJoYWF0dCUyMHJlZ2VuY3klMjB0cmluaWRhZHxlbnwwfHx8fDE3MTgxOTAwNjl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "hotel architecture",
+        "sleek design",
+        "urban luxury"
+      ]
+    },
+    {
+      "id": "PoS-IL-01",
+      "name": "The Red House - Parliament Building",
+      "short_description": "An iconic colonial-era building, the seat of Trinidad and Tobago's Parliament. Its striking red facade is a powerful symbol of the nation's democracy and history.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Woodford Square, downtown Port of Spain",
+      "best_time": "Daytime",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Red_House_%28Parliament%29.jpg/1024px-Red_House_%28Parliament%29.jpg",
+      "tags": [
+        "historical",
+        "government",
+        "colonial architecture"
+      ]
+    },
+    {
+      "id": "PoS-IL-02",
+      "name": "The Magnificent Seven Mansions",
+      "short_description": "Admire the grandeur of these seven elaborately designed colonial mansions lining the western edge of Queen's Park Savannah, each with its unique architectural style.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Queen's Park West, Queen's Park Savannah",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/The_Magnificent_Seven_2020.jpg/1024px-The_Magnificent_Seven_2020.jpg",
+      "tags": [
+        "Victorian architecture",
+        "historic homes",
+        "heritage"
+      ]
+    },
+    {
+      "id": "PoS-IL-03",
+      "name": "Fort George Historical Citadel",
+      "short_description": "Explore the historic Fort George, offering well-preserved structures and incredible panoramic views of Port of Spain, the Gulf of Paria, and the surrounding Northern Range.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "St. James, overlooking Port of Spain",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fort_George%2C_Trinidad.jpg/1024px-Fort_George%2C_Trinidad.jpg",
+      "tags": [
+        "historic fort",
+        "panoramic views",
+        "colonial history"
+      ]
+    },
+    {
+      "id": "PoS-IL-04",
+      "name": "Holy Trinity Cathedral Grandeur",
+      "short_description": "Step inside this stunning Anglican cathedral, a beautiful example of Gothic Revival architecture. Its impressive stained glass windows and intricate details are truly captivating.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Woodford Square, downtown Port of Spain",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Holy_Trinity_Cathedral%2C_Port_of_Spain.jpg/800px-Holy_Trinity_Cathedral%2C_Port_of_Spain.jpg",
+      "tags": [
+        "cathedral",
+        "Gothic Revival",
+        "religious site"
+      ]
+    }
+  ]
+}

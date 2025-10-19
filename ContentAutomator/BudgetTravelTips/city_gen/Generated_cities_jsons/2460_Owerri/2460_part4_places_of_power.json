@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Owerri",
+    "city_id": "2460"
+  },
+  "items": [
+    {
+      "id": "OwerriOracle1",
+      "name": "The Whisper of Orie Uratta",
+      "short_description": "An ancient sacred grove revered for its oracular tree, believed to be a direct channel to the ancestral spirits of Uratta clan, offering guidance and prophecy.",
+      "subtype": "Oracle Sites",
+      "address": "Orie Uratta Road, Near Primary School, Owerri North, Imo State",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1627993081156-f6d8926f7433?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHNhY3JlZCUyMGdyb3ZlJTIwYW5jaWVudCUyMHRyZWVzfGVufDB8fHx8MTcwMTkxNjMyNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral wisdom",
+        "divination",
+        "sacred grove"
+      ]
+    },
+    {
+      "id": "OwerriOracle2",
+      "name": "Ikuku Ndi Mmuo Cave (Cave of Whispering Spirits)",
+      "short_description": "A secluded cave system where ancient priests communed with elemental spirits and the 'Ikuku Ndi Mmuo' (wind of the spirits) is said to carry profound insights.",
+      "subtype": "Oracle Sites",
+      "address": "Off Orlu Road, Iho Dimeze, Ikeduru LGA, Imo State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://images.unsplash.com/photo-1549419161-d7d6a5c179d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHNhY3JlZCUyMGNhdmUlMjBpbnRlcmlvcnxlbnwwfHx8fDE3MDE5MTY0MDJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "spirit communication",
+        "ancient oracle",
+        "natural shrine"
+      ]
+    },
+    {
+      "id": "OwerriOracle3",
+      "name": "Ezeala Shrine of Truth",
+      "short_description": "Located within the Ezeala ancestral compound, this shrine houses an ancient clay pot oracle, used for centuries to resolve disputes and discern truth among the community.",
+      "subtype": "Oracle Sites",
+      "address": "Amaimo Community, Ikeduru LGA, Imo State",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1601614741496-e2a14e91129b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHNhY3JlZCUyMGVsZGVyJTIwYWx0YXJ8ZW58MHx8fHwxNzAxOTE2NTM4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "justice oracle",
+        "community tradition",
+        "Igbo culture"
+      ]
+    },
+    {
+      "id": "OwerriOracle4",
+      "name": "Oguta Lake Oracle Stone",
+      "short_description": "A submerged stone at the edge of Oguta Lake, revered by local fishermen and communities as an oracle providing insights into the lake's bounty and safe passage.",
+      "subtype": "Oracle Sites",
+      "address": "Oguta Lake, Oguta, Imo State",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510484050720-d46e2978d384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHNhY3JlZCUyMGxha2UlMjBzdG9uZXxlbnwwfHx8fDE3MDE5MTY2MTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water spirits",
+        "fishermen's guide",
+        "lake lore"
+      ]
+    },
+    {
+      "id": "OwerriPyramid1",
+      "name": "Ekeonunwa Ancestral Mound",
+      "short_description": "A terraced earthen mound, traditionally believed to be the burial site of ancient clan founders, serving as a spiritual focal point for communal rituals and ancestral veneration.",
+      "subtype": "Pyramids",
+      "address": "Ekeonunwa Village, Mbaitoli LGA, Imo State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596781251390-e7f1f0a202d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfGVhcnRoJTIwbW91bmR8ZW58MHx8fHwxNzAxOTE2ODA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral burial",
+        "earthen structure",
+        "ancient rituals"
+      ]
+    },
+    {
+      "id": "OwerriPyramid2",
+      "name": "Nkwo Ancient Stone Heap",
+      "short_description": "A series of carefully stacked large stones forming a pyramidal shape, a prehistoric marker believed to channel telluric energies and mark a sacred gathering point.",
+      "subtype": "Pyramids",
+      "address": "Nkwo Umunoha, Mbaitoli LGA, Imo State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 500",
+      "images": "https://images.unsplash.com/photo-1600985552467-f377c8e9d3d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHN0b25lJTIwaGVhcHxlbnwwfHx8fDE3MDE5MTY4ODF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "megalithic",
+        "energy focus",
+        "prehistoric marker"
+      ]
+    },
+    {
+      "id": "OwerriPyramid3",
+      "name": "Oduduwa Earth Temple Mound",
+      "short_description": "A stepped earth temple, historically used for fertility rites and harvest festivals, designed to symbolically connect the earthly realm with the heavens.",
+      "subtype": "Pyramids",
+      "address": "Near Naze Road, Owerri North, Imo State",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1560935397-2a42b1029c31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHN0ZXBwZWQlMjBlYXJ0aCUyMHRlbXBsZXxlbnwwfHx8fDE3MDE5MTcwNDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fertility rites",
+        "harvest rituals",
+        "earth worship"
+      ]
+    },
+    {
+      "id": "OwerriPyramid4",
+      "name": "The Three Sisters' Hills",
+      "short_description": "Three naturally occurring, conical hills, shaped by erosion into distinct 'pyramids,' revered as the sacred dwelling places of ancient protective spirits of the land.",
+      "subtype": "Pyramids",
+      "address": "Awa Community, Oguta LGA, Imo State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1590409952528-76579698d287?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfGNvbmljYWwlMjBoaWxsc3xlbnwwfHx8fDE3MDE5MTcxMDJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature spirits",
+        "sacred landscape",
+        "geological wonder"
+      ]
+    },
+    {
+      "id": "OwerriMEP1",
+      "name": "Harmony Wellness Centre",
+      "short_description": "A contemporary hub for holistic healing, meditation, and spiritual workshops, offering a serene environment for personal growth and energetic realignment in urban Owerri.",
+      "subtype": "Modern Energy Places",
+      "address": "Plot 345, Area A, New Owerri, Imo State",
+      "visiting_hours": "09:00-19:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1582213782172-f2d184f7e71f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfGhvbGlzdGljJTIwaGVhbGluZyUyMGNlbnRlcnxlbnwwfHx8fDE3MDE5MTcyMzB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "holistic healing",
+        "meditation",
+        "personal growth"
+      ]
+    },
+    {
+      "id": "OwerriMEP2",
+      "name": "The Radiant Light Sanctuary",
+      "short_description": "A modern spiritual centre focusing on universal energy principles, offering guided visualization, crystal healing sessions, and community gatherings for spiritual seekers.",
+      "subtype": "Modern Energy Places",
+      "address": "Ikenegbu Layout, Owerri, Imo State",
+      "visiting_hours": "10:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1581456487146-277103554b7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfGNyeXN0YWwlMjBoZWFsaW5nJTIwc2FuY3R1YXJ5fGVufDB8fHx8MTcwMTkxNzMwMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "crystal healing",
+        "universal energy",
+        "new age"
+      ]
+    },
+    {
+      "id": "OwerriMEP3",
+      "name": "Chi Renewal Spa & Retreat",
+      "short_description": "A serene retreat combining modern spa therapies with traditional Igbo spiritual practices, aiming to restore 'Chi' (personal life force) and overall well-being.",
+      "subtype": "Modern Energy Places",
+      "address": "Onitsha Road, Uzii, Owerri West, Imo State",
+      "visiting_hours": "09:00-20:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1517835158656-9a25b5a83a45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfG1vZGVybiUyMHNwYSUyMHJldHJlYXR8ZW58MHx8fHwxNzAxOTE3Mzc1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wellness retreat",
+        "Igbo spirituality",
+        "life force restoration"
+      ]
+    },
+    {
+      "id": "OwerriMEP4",
+      "name": "Global Interfaith Centre Owerri",
+      "short_description": "A unique modern architectural space designed to foster interfaith dialogue and promote peace, hosting spiritual leaders and events from various traditions, emanating unity.",
+      "subtype": "Modern Energy Places",
+      "address": "Concorde Avenue, New Owerri, Imo State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1598214811797-1755152a5c4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfGludGVyZmFpdGglMjBjZW50cmV8ZW58MHx8fHwxNzAxOTE3NDU0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "interfaith dialogue",
+        "peace center",
+        "spiritual unity"
+      ]
+    },
+    {
+      "id": "OwerriCAS1",
+      "name": "Amaifeke Sunstone Circle",
+      "short_description": "A prehistoric circle of upright stones believed to have been used by ancient Igbo astronomers to track solstices and equinoxes, marking agricultural and spiritual cycles.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Amaifeke, Orlu LGA, Imo State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "NGN 700",
+      "images": "https://images.unsplash.com/photo-1516027582522-87063c89b7e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHN0b25laGVuZ2V8ZW58MHx8fHwxNzAxOTE3NjI4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancient astronomy",
+        "solstice tracker",
+        "Igbo calendar"
+      ]
+    },
+    {
+      "id": "OwerriCAS2",
+      "name": "Mbaitoli Lunar Observation Hill",
+      "short_description": "A secluded hill known for its clear night skies and an ancient rock formation that naturally aligns with key lunar phases, used for ceremonial observations and predicting rainfall.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Mgbirichi, Mbaitoli LGA, Imo State",
+      "visiting_hours": "18:00-06:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620067339796-08169128f73f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfG1vb24lMjBoaWxsJTIwc2t5fGVufDB8fHx8MTcwMTkxNzcwM3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lunar cycles",
+        "astronomical observation",
+        "agricultural lore"
+      ]
+    },
+    {
+      "id": "OwerriCAS3",
+      "name": "The Star Gazer's Plateau (Okigwe-Owerri Axis)",
+      "short_description": "An elevated plateau offering panoramic views of the night sky, historically used by Igbo spiritualists to interpret stellar constellations for guidance and prophecy.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Along Okigwe-Owerri Road (High point), Imo State",
+      "visiting_hours": "19:00-05:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502691361250-13f50821e25e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfG5pZ2h0JTIwc2t5JTIwcGxhdGVhdXxlbnwwfHx8fDE3MDE5MTc3NzB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "stellar divination",
+        "sky lore",
+        "ancient prophecy"
+      ]
+    },
+    {
+      "id": "OwerriCAS4",
+      "name": "Nne Miri Sun-Path Shrine",
+      "short_description": "A riverside shrine dedicated to Nne Miri (Mother Water spirit), where a specific rock formation captures the morning sun's first rays on equinoxes, blessing the waters and crops.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Near Otamiri River Bank, Owerri Municipal, Imo State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549704283-e02fb8e906c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHJpdmVyc2lkZSUyMHNocmluZSUyMHJvY2t8ZW58MHx8fHwxNzAxOTE3ODUwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "river spirit",
+        "equinox ritual",
+        "fertility blessing"
+      ]
+    },
+    {
+      "id": "OwerriMH1",
+      "name": "Our Lady of Perpetual Succour Monastery",
+      "short_description": "A secluded Catholic monastery nestled in the Owerri outskirts, offering a peaceful retreat for contemplation, prayer, and spiritual renewal for monks and visitors alike.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Off Port Harcourt Road, Obinze, Owerri West, Imo State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1604925765691-10c07c130d2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlY2x1ZGVkJTIwbW9uYXN0ZXJ5fGVufDB8fHx8MTcwMTkxODAwN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Catholic retreat",
+        "contemplation",
+        "monastic life"
+      ]
+    },
+    {
+      "id": "OwerriMH2",
+      "name": "Brotherhood of Light Hermitage",
+      "short_description": "An interdenominational hermitage dedicated to silence, meditation, and self-discovery, providing individual huts for spiritual seekers amidst a tranquil natural setting.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Umuapu Forest Reserve, Ohaji/Egbema LGA, Imo State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1504953934789-f5997237e199?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlY2x1ZGVkJTIwaGVybWl0YWdlfGVufDB8fHx8MTcwMTkxODA4OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "interdenominational",
+        "meditation retreat",
+        "solitude"
+      ]
+    },
+    {
+      "id": "OwerriMH3",
+      "name": "Nne Chukwu's Prayer Garden",
+      "short_description": "A vibrant garden cultivated by a community of traditional Igbo spiritualists, serving as a peaceful hermitage and a sacred space for personal prayer and devotion to the Creator.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Avu Community, Owerri West, Imo State",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596773539870-96f264dd33d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlY3JlZCUyMGdhcmRlbiUyMHBhcnF1ZXR8ZW58MHx8fDE3MDY4NzgwMjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Igbo devotion",
+        "prayer garden",
+        "spiritual community"
+      ]
+    },
+    {
+      "id": "OwerriMH4",
+      "name": "Zenith Contemplation Centre",
+      "short_description": "A modern, minimalist centre offering guided silent retreats and mindfulness practices, attracting individuals seeking mental clarity and inner peace through contemporary spiritual techniques.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Egbu Road, Owerri North, Imo State",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1517430419293-68f760166258?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfG1vZGVybiUyMG1lZGl0YXRpb24lMjByb29tfGVufDB8fHx8MTcwMTkyODg0N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mindfulness",
+        "silent retreat",
+        "inner peace"
+      ]
+    },
+    {
+      "id": "OwerriMS1",
+      "name": "Isi Mbano Ancient Stones",
+      "short_description": "A series of massive, weathered standing stones arranged in enigmatic patterns, hinting at an ancient civilization's complex spiritual beliefs and architectural prowess.",
+      "subtype": "Megalithic Sites",
+      "address": "Isi Mbano LGA, Imo State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 800",
+      "images": "https://images.unsplash.com/photo-1516027582522-87063c89b7e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHN0YW5kaW5nJTIwc3RvbmVzJTIwY2lyY2xlfGVufDB8fHx8MTcwMTkxODI4NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "standing stones",
+        "ancient civilization",
+        "prehistoric art"
+      ]
+    },
+    {
+      "id": "OwerriMS2",
+      "name": "The Great Rock of Awaka",
+      "short_description": "A colossal granite monolith, scarred with ancient carvings and petroglyphs, believed to be a sacred power spot and a repository of ancestral knowledge. Offers healing energy.",
+      "subtype": "Megalithic Sites",
+      "address": "Awaka Community, Owerri North, Imo State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1537233880491-030b42c67623?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHJvY2slMjBjYXJ2aW5nc3xlbnwwfHx8fDE3MDE5MTg0ODV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "petroglyphs",
+        "ancestral knowledge",
+        "power spot"
+      ]
+    },
+    {
+      "id": "OwerriMS3",
+      "name": "Umuowa Altar Stones",
+      "short_description": "A cluster of meticulously arranged large stones, forming what is believed to be an ancient sacrificial altar used for invoking agricultural abundance and warding off calamities.",
+      "subtype": "Megalithic Sites",
+      "address": "Umuowa, Ngor Okpala LGA, Imo State",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1537233880491-030b42c67623?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHN0b25lJTIwYWx0YXJ8ZW58MHx8fDE3MDE5MTg1NzB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sacrificial altar",
+        "agricultural rites",
+        "ancient rituals"
+      ]
+    },
+    {
+      "id": "OwerriMS4",
+      "name": "Nkwogwu Earth & Stone Walls",
+      "short_description": "Remnants of ancient earth and stone walls, forming a vast enclosure. Thought to be a fortified spiritual settlement or a grand communal ritual space of a lost kingdom.",
+      "subtype": "Megalithic Sites",
+      "address": "Nkwogwu, Aboh Mbaise LGA, Imo State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596781251390-e7f1f0a202d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfGVhcnRoJTIwd2FsbHMlMjBydWludHN8ZW58MHx8fDE3MDE5MTg2MzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancient ruins",
+        "lost kingdom",
+        "communal space"
+      ]
+    },
+    {
+      "id": "OwerriRST1",
+      "name": "The Tomb of Eze Imo",
+      "short_description": "A revered tomb complex honoring the legendary Eze Imo, the spiritual progenitor of the Imo people. Pilgrims visit to seek blessings and connect with his enduring wisdom.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Eze Imo Ancestral Grounds, Nkwerre LGA, Imo State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Traditional_shrine_in_Igbo-Ukwu.jpg",
+      "tags": [
+        "ancestor veneration",
+        "royal lineage",
+        "blessing site"
+      ]
+    },
+    {
+      "id": "OwerriRST2",
+      "name": "Okwu Ofor (Shrine of the Staff of Authority)",
+      "short_description": "A sacred shrine housing ancient Ofor (staff of authority), a potent symbol of justice, truth, and moral integrity for the Igbo people. Used in oath-taking and conflict resolution.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Achi Ancient Compound, Owerri Municipal, Imo State",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Traditional_shrine_in_Igbo-Ukwu.jpg",
+      "tags": [
+        "Igbo justice",
+        "oath-taking",
+        "sacred relic"
+      ]
+    },
+    {
+      "id": "OwerriRST3",
+      "name": "Saint Michael's Reliquary Chapel",
+      "short_description": "A Catholic chapel containing revered relics of local saints and martyrs who contributed to the spread of Christianity in the region. A site for prayer and intercession.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Along Wetheral Road, Owerri, Imo State",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1557022934-118843962b9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHJlbGlxdWFyeSUyMGNoYXBlbCUyMGludGVyaW9yfGVufDB8fHx8MTcwMTkxOTE3NXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Catholic relics",
+        "saint veneration",
+        "prayer site"
+      ]
+    },
+    {
+      "id": "OwerriRST4",
+      "name": "The Tomb of the Unknown Warrior (Igbo Resistance)",
+      "short_description": "A solemn memorial and tomb for the unnamed heroes who fell during various periods of resistance against colonial rule, symbolizing the enduring spirit of Igbo freedom.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Independence Layout, New Owerri, Imo State",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1601614741496-e2a14e91129b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfGFuY2VzdHJhbCUyMHN0YXR1ZXxlbnwwfHx8fDE3MDE5MTkzODZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "national heroes",
+        "Igbo resistance",
+        "freedom memorial"
+      ]
+    },
+    {
+      "id": "OwerriBoD1",
+      "name": "The Ogbaku Uprising Site",
+      "short_description": "The historical grounds where local communities bravely resisted colonial forces in a pivotal uprising, symbolizing the enduring fight for self-determination and spiritual sovereignty.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Ogbaku, Mbaitoli LGA, Imo State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1604925765691-10c07c130d2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfGJhdHRsZWZpZWxkfGVufDB8fHx8MTcwMTkxOTQ3OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "colonial resistance",
+        "self-determination",
+        "historical site"
+      ]
+    },
+    {
+      "id": "OwerriBoD2",
+      "name": "Nkwo Ogwa War Memorial",
+      "short_description": "A field marked by an ancient monument, commemorating a legendary battle where allied Igbo clans repelled invaders, establishing a lasting peace and shaping regional boundaries.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Nkwo Ogwa, Ikeduru LGA, Imo State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1516027582522-87063c89b7e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfGhhbmdpbmclMjBzY3VuZCUyMGJhYmVsZmllbGR8ZW58MHx8fDE3MDE5MTk1NjR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "clan history",
+        "peace treaty",
+        "heroic stand"
+      ]
+    },
+    {
+      "id": "OwerriBoD3",
+      "name": "The Agwu's Red Earth Mound (Biafran War Site)",
+      "short_description": "A site where a significant engagement of the Biafran War took place, leaving a deep spiritual imprint on the land. It symbolizes sacrifice and the enduring quest for nationhood.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Near Egbema, Ohaji/Egbema LGA, Imo State",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596781251390-e7f1f0a202d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfG1pbGl0YXJ5JTIwYmF0dGxlZmllbGR8ZW58MHx8fDE3MDE5MTk2NTl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Biafran War",
+        "sacrifice",
+        "national identity"
+      ]
+    },
+    {
+      "id": "OwerriBoD4",
+      "name": "Ndoki Resistance Point",
+      "short_description": "A former strategic hilltop that witnessed fierce resistance against slave raiders, sanctified by the spirits of those who fought to protect their community and freedom.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Ndoki, Ngor Okpala LGA, Imo State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1590409952528-76579698d287?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfGhpbGx0b3AlMjByZXNpc3RhbmNlJTIwcG9pbnR8ZW58MHx8fDE3MDE5MTk4Mjd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "slave trade history",
+        "community defense",
+        "freedom fighters"
+      ]
+    },
+    {
+      "id": "OwerriCR1",
+      "name": "Eke Ukwu Owerri Junction",
+      "short_description": "The historic Eke Ukwu market crossroads, long considered a spiritual nexus where destinies converge, trade thrives, and offerings are made to ensure prosperity and safe passage.",
+      "subtype": "Crossroads",
+      "address": "Eke Ukwu Market, Douglas Road, Owerri, Imo State",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627993081156-f6d8926f7433?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHJvYWRzJTIwY3Jvc3Nyb2Fkc3xlbnwwfHx8fDE3MDE5MTk5Mjl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "market spirituality",
+        "destiny junction",
+        "prosperity rituals"
+      ]
+    },
+    {
+      "id": "OwerriCR2",
+      "name": "Orie Uratta Spiritual Crossroads",
+      "short_description": "A renowned traditional crossroads, particularly potent at dawn and dusk, where spiritual practitioners come to leave offerings and seek guidance from elemental and ancestral spirits.",
+      "subtype": "Crossroads",
+      "address": "Orie Uratta Road, Owerri North, Imo State",
+      "visiting_hours": "05:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627993081156-f6d8926f7433?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHJvYWRzJTIwY3Jvc3Nyb2Fkc3xlbnwwfHx8fDE3MDE5MjAwMDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral communication",
+        "spirit offerings",
+        "traditional practice"
+      ]
+    },
+    {
+      "id": "OwerriCR3",
+      "name": "Nkwo Ngor Okpala Intersection",
+      "short_description": "A bustling rural intersection that serves as a symbolic point of choice and transition, often associated with personal transformation and overcoming life's challenges. Locals seek blessings here.",
+      "subtype": "Crossroads",
+      "address": "Nkwo Ngor Okpala Market, Ngor Okpala LGA, Imo State",
+      "visiting_hours": "06:00-21:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627993081156-f6d8926f7433?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHJvYWRzJTIwY3Jvc3Nyb2Fkc3xlbnwwfHx8fDE3MDE5MjAwOTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "life choices",
+        "transition point",
+        "personal transformation"
+      ]
+    },
+    {
+      "id": "OwerriCR4",
+      "name": "Afor Ajala Esoteric Crossing",
+      "short_description": "A secluded, less-trafficked crossing point believed to be a thin place between worlds, where the veil between the physical and spiritual realms is thinnest, ideal for deep meditation.",
+      "subtype": "Crossroads",
+      "address": "Near Afor Ajala Market, Iho Dimeze, Ikeduru LGA, Imo State",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627993081156-f6d8926f7433?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHJvYWRzJTIwY3Jvc3Nyb2Fkc3xlbnwwfHx8fDE3MDE5MjAxNjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "spiritual veil",
+        "meditation spot",
+        "liminal space"
+      ]
+    },
+    {
+      "id": "OwerriPR1",
+      "name": "The Healing Path to Ogbuide Shrine",
+      "short_description": "A traditional pilgrimage route leading to the sacred Ogbuide Lake Shrine, undertaken by those seeking spiritual healing, fertility blessings, and connection with the powerful water goddess.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts from Egbema Road, Ohaji/Egbema, Imo State (Route to Oguta Lake)",
+      "visiting_hours": "24/7",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549704283-e02fb8e906c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHBpbGdyZW1hZ2UlMjByb3V0ZSUyMGxhbmdzY2FwZXxlbnwwfHx8fDE3MDE5MjAyNjF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "spiritual healing",
+        "water goddess",
+        "fertility blessing"
+      ]
+    },
+    {
+      "id": "OwerriPR2",
+      "name": "Obowo Ancestral Walk",
+      "short_description": "An ancient path through Obowo communities, historically traversed by initiates and elders during ancestral festivals, culminating at the central ancestral shrine for communal rites.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Begins at Ahiaeke, Obowo LGA, Imo State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549704283-e02fb8e906c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHBpbGdyZW1hZ2UlMjByb3V0ZSUyMHdhbGtlcnN8ZW58MHx8fDE3MDE5MjAzNTF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral festival",
+        "communal rites",
+        "initiation journey"
+      ]
+    },
+    {
+      "id": "OwerriPR3",
+      "name": "The Way of the Cross (Catholic Retreat Route)",
+      "short_description": "A meditative path lined with Stations of the Cross, leading to a secluded grotto, used by Catholic faithful for prayer, reflection, and spiritual penance, especially during Lent.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts from Holy Rosary Church, Orji, Owerri North, Imo State",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1604925765691-10c07c130d2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHN0YXRpb25zJTIwb2YlMjB0aGUlMjBjcm9zc3xlbnwwfHx8fDE3MDE5MjQ1NDF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Catholic pilgrimage",
+        "Lenten reflection",
+        "spiritual penance"
+      ]
+    },
+    {
+      "id": "OwerriPR4",
+      "name": "Amaimo Riverine Passage (Market Spirit Journey)",
+      "short_description": "A historic riverine and land route linking various market towns, spiritually significant for traders who traditionally make offerings along the way to ensure prosperous business and safe journeys.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts from Amaimo Jetty, Ikeduru LGA, Imo State",
+      "visiting_hours": "05:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549704283-e02fb8e906c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHBpbGdyZW1hZ2UlMjByb3V0ZSUyMGZpZWxkfGVufDB8fHx8MTcwMTkyNDY1M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "trade spirituality",
+        "prosperity journey",
+        "riverine culture"
+      ]
+    }
+  ]
+}

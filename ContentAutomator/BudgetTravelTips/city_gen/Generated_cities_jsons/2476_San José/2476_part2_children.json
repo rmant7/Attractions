@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "San José",
+    "city_id": "2476"
+  },
+  "items": [
+    {
+      "id": "SJM001",
+      "name": "The Grand Illusionist's Den",
+      "short_description": "Step into a world where reality bends and magic is real! Witness breathtaking illusions and mind-bending tricks performed by San José's master magicians.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "170 S Market St, San José, CA 95113",
+      "opening_hours": "18:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549419137-97d81a8f6d3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "live show",
+        "mystery",
+        "family entertainment"
+      ]
+    },
+    {
+      "id": "SJM002",
+      "name": "Whimsical Wonders Magic Workshop",
+      "short_description": "Not just a show, but an interactive experience! Kids learn simple magic tricks from friendly illusionists and even perform their own mini-show.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "425 Almaden Expy, San José, CA 95125",
+      "opening_hours": "14:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510511459019-5fda7724fd8a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "interactive",
+        "workshop",
+        "learning"
+      ]
+    },
+    {
+      "id": "SJM003",
+      "name": "The Enigma Theater's Family Magic Hour",
+      "short_description": "Enjoy an hour of dazzling magic designed for all ages, featuring vanishing acts, captivating card tricks, and playful audience participation. A perfect outing for the whole family!",
+      "subtype": "Magic & Illusion Shows",
+      "address": "100 S 1st St, San José, CA 95113",
+      "opening_hours": "11:00-12:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627850849206-8d145c2f829a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "family-friendly",
+        "theater",
+        "weekend fun"
+      ]
+    },
+    {
+      "id": "SJM004",
+      "name": "Arcane Arts Pop-Up Parlor",
+      "short_description": "A rotating pop-up experience featuring close-up magic and intimate illusions in various San José locations. Check their schedule for the next hidden venue!",
+      "subtype": "Magic & Illusion Shows",
+      "address": "300 S 2nd St, San José, CA 95113",
+      "opening_hours": "19:00-21:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1509658252277-c918ee9111c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "pop-up",
+        "close-up magic",
+        "unique experience"
+      ]
+    },
+    {
+      "id": "SJA001",
+      "name": "Happy Hills Mini Fun Park",
+      "short_description": "A delightful park specially designed for younger children, featuring gentle rides, a carousel, and a mini-rollercoaster. Perfect for first-time amusement park adventures!",
+      "subtype": "Amusement Rides",
+      "address": "2500 Berryessa Rd, San José, CA 95132",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510525000778-90352d1947b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "mini park",
+        "carousel",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "SJA002",
+      "name": "Galaxy Arcade & Ride Zone",
+      "short_description": "An indoor entertainment center combining classic arcade games with exciting kiddie rides, bumper cars, and a laser tag arena. Fun for all ages, rain or shine!",
+      "subtype": "Amusement Rides",
+      "address": "2855 Stevens Creek Blvd, San José, CA 95128",
+      "opening_hours": "11:00-22:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579737976150-e74f1778c430?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "indoor fun",
+        "arcade",
+        "bumper cars"
+      ]
+    },
+    {
+      "id": "SJA003",
+      "name": "Fiesta Island Splash & Spin",
+      "short_description": "Beat the San José heat with a collection of refreshing water slides and spinning teacup rides. A small water park experience perfect for a sunny day out with the kids.",
+      "subtype": "Amusement Rides",
+      "address": "1300 S Capitol Ave, San José, CA 95127",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1572917757342-6e2717084537?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "water slides",
+        "summer fun",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "SJA004",
+      "name": "Starry Nights Ferris Wheel & Games",
+      "short_description": "Enjoy classic carnival games, delicious treats, and a majestic Ferris wheel offering stunning views of San José. Open seasonally for family evenings.",
+      "subtype": "Amusement Rides",
+      "address": "701 E Hedding St, San José, CA 95112",
+      "opening_hours": "17:00-22:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1534438327276-14e5300d3a48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ferris wheel",
+        "carnival",
+        "seasonal"
+      ]
+    },
+    {
+      "id": "SJL001",
+      "name": "Brick City Builders Studio",
+      "short_description": "An expansive indoor center where kids can unleash their creativity with millions of LEGO bricks. Build towering structures, intricate vehicles, and explore themed zones.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "550 Cottle Rd, San José, CA 95123",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582234036688-2d88835f8d97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "LEGO",
+        "building",
+        "creative play"
+      ]
+    },
+    {
+      "id": "SJL002",
+      "name": "Junior Constructor's Yard",
+      "short_description": "An outdoor adventure zone where kids can operate mini-diggers, cranes, and dump trucks in a safe, sand-filled construction site. Hard hats provided!",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "1500 White Rd, San José, CA 95127",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549646633-e7f014e7a83d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "construction vehicles",
+        "outdoor",
+        "sensory play"
+      ]
+    },
+    {
+      "id": "SJL003",
+      "name": "Robo-Builders Workshop",
+      "short_description": "Delve into the world of robotics and engineering! Kids can design, build, and program their own LEGO robots in this hands-on educational workshop.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "2000 Concourse Dr, San José, CA 95131",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1550989447-b847ae94819d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "robotics",
+        "STEM",
+        "workshop"
+      ]
+    },
+    {
+      "id": "SJL004",
+      "name": "Master Builder's Cafe",
+      "short_description": "Enjoy coffee and snacks while your kids build to their heart's content in a dedicated LEGO play area. Themed building challenges and competitions available!",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "1100 Lincoln Ave, San José, CA 95125",
+      "opening_hours": "09:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1543888356-9b7e7c9b3664?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "cafe",
+        "casual play",
+        "LEGO challenges"
+      ]
+    },
+    {
+      "id": "SJF001",
+      "name": "Willow Creek Petting Farm",
+      "short_description": "Get up close with friendly farm animals, enjoy pony rides, and explore charming farm trails. A gentle introduction to farm life for young children.",
+      "subtype": "Farm Attractions",
+      "address": "1000 Silver Creek Rd, San José, CA 95121",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1589433602161-073c6b245e3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "petting zoo",
+        "pony rides",
+        "animals"
+      ]
+    },
+    {
+      "id": "SJF002",
+      "name": "Harvest Hollow Pumpkin Patch & Corn Maze",
+      "short_description": "A quintessential autumn experience featuring acres of pumpkins, an exciting corn maze, hayrides, and festive activities for the whole family. Seasonal fun!",
+      "subtype": "Farm Attractions",
+      "address": "800 Blossom Hill Rd, San José, CA 95123",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1605374661706-932598380e2f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "seasonal",
+        "pumpkin patch",
+        "corn maze"
+      ]
+    },
+    {
+      "id": "SJF003",
+      "name": "Little Farmer's Discovery Tour",
+      "short_description": "An educational farm experience where children learn about crops, sustainability, and where their food comes from through hands-on activities and guided tours.",
+      "subtype": "Farm Attractions",
+      "address": "400 Piedmont Rd, San José, CA 95132",
+      "opening_hours": "10:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1588657597148-3197b98d28ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "educational",
+        "farm life",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "SJF004",
+      "name": "Berry Patch & Play Barn",
+      "short_description": "Pick your own fresh berries in season and then let the kids run wild in a charming play barn with slides and climbing structures. A sweet day out!",
+      "subtype": "Farm Attractions",
+      "address": "2000 Monterey Hwy, San José, CA 95112",
+      "opening_hours": "08:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1594191371583-05b6ec610444?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "fruit picking",
+        "outdoor play",
+        "seasonal produce"
+      ]
+    },
+    {
+      "id": "SJC001",
+      "name": "The Dream Weaver Puppet Theater",
+      "short_description": "Experience enchanting stories brought to life by master puppeteers. Enjoy daily shows featuring whimsical characters and imaginative narratives perfect for young audiences.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "188 S 2nd St, San José, CA 95113",
+      "opening_hours": "10:30-11:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549725585-e4612e32f05a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "puppet show",
+        "storytelling",
+        "theater"
+      ]
+    },
+    {
+      "id": "SJC002",
+      "name": "Tiny Tumbleweeds Circus School",
+      "short_description": "Kids can learn basic circus skills like juggling, acrobatics, and plate spinning in a fun, safe, and supportive environment. Unleash their inner performer!",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "1660 Parkmoor Ave, San José, CA 95125",
+      "opening_hours": "15:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510165593881-228793574c86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "circus skills",
+        "active",
+        "workshop"
+      ]
+    },
+    {
+      "id": "SJC003",
+      "name": "Starlight Jamboree Mini Circus",
+      "short_description": "A traveling mini-circus offering dazzling aerial acts, comical clowns, and incredible feats of strength, all presented in an intimate, family-friendly setting.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "200 E Santa Clara St, San José, CA 95113",
+      "opening_hours": "19:00-21:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1550993549-b0c618d3630f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "traveling show",
+        "aerialists",
+        "clowns"
+      ]
+    },
+    {
+      "id": "SJC004",
+      "name": "Shadow Play Story Den",
+      "short_description": "Discover the magic of shadow puppetry! Watch classic tales and new adventures unfold as silhouettes dance across the screen, captivating imaginations.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "1500 The Alameda, San José, CA 95126",
+      "opening_hours": "13:00-14:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563658519-58b9f76d4992?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "shadow puppets",
+        "interactive stories",
+        "artistic"
+      ]
+    },
+    {
+      "id": "SJMUM01",
+      "name": "ImagineNation Kids Museum",
+      "short_description": "A vibrant museum filled with hands-on exhibits encouraging exploration, discovery, and creative play for children of all ages. Spark curiosity in every corner!",
+      "subtype": "Children’s Museums",
+      "address": "180 Woz Way, San José, CA 95110",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1559136502-d9659020473a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "interactive exhibits",
+        "discovery",
+        "creative play"
+      ]
+    },
+    {
+      "id": "SJMUM02",
+      "name": "Art & Tinker Studio",
+      "short_description": "A unique children's museum focused on art creation and STEM tinkering. Kids can paint, sculpt, build, and experiment with various materials and tools.",
+      "subtype": "Children’s Museums",
+      "address": "100 N Almaden Ave, San José, CA 95110",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621379373264-b816a9a7a01c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "art",
+        "STEM",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "SJMUM03",
+      "name": "Tiny Town Role-Play Museum",
+      "short_description": "An immersive museum where children can explore miniature versions of a grocery store, fire station, veterinary clinic, and more, encouraging imaginative role-play.",
+      "subtype": "Children’s Museums",
+      "address": "400 E Santa Clara St, San José, CA 95113",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549247796-02d131f471e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "role-play",
+        "imagination",
+        "early learning"
+      ]
+    },
+    {
+      "id": "SJMUM04",
+      "name": "Global Explorers Children's Hall",
+      "short_description": "Journey around the world without leaving San José! This museum introduces children to diverse cultures, traditions, and geography through interactive exhibits and artifacts.",
+      "subtype": "Children’s Museums",
+      "address": "200 Park Ave, San José, CA 95113",
+      "opening_hours": "11:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620582061218-c2668b813f27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "culture",
+        "geography",
+        "world discovery"
+      ]
+    },
+    {
+      "id": "SJS001",
+      "name": "Lil' Kickers Soccer Dome",
+      "short_description": "An indoor facility offering age-appropriate soccer classes, open play sessions, and friendly scrimmages for toddlers and young children. Score some fun!",
+      "subtype": "Mini Sports Arenas",
+      "address": "1500 S Bascom Ave, San José, CA 95128",
+      "opening_hours": "09:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1541882436-056ce845b410?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "soccer",
+        "indoor sports",
+        "active play"
+      ]
+    },
+    {
+      "id": "SJS002",
+      "name": "Hoopsters Junior Court",
+      "short_description": "A dedicated mini-basketball court where kids can learn fundamentals, practice their shots, and play in a supportive and fun environment. Dunk into action!",
+      "subtype": "Mini Sports Arenas",
+      "address": "3000 Rubino Dr, San José, CA 95125",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1574577138332-95f7c32491a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "basketball",
+        "youth sports",
+        "skill building"
+      ]
+    },
+    {
+      "id": "SJS003",
+      "name": "Grand Slam Kidsplex",
+      "short_description": "Featuring mini-golf courses, batting cages scaled for kids, and a small arcade, this sports complex offers a variety of athletic fun for children.",
+      "subtype": "Mini Sports Arenas",
+      "address": "500 Branham Ln, San José, CA 95136",
+      "opening_hours": "11:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1598270104886-f13886b9c9d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "mini golf",
+        "batting cages",
+        "arcade"
+      ]
+    },
+    {
+      "id": "SJS004",
+      "name": "Apex Junior Climbing Gym",
+      "short_description": "A safe and exciting indoor climbing gym designed specifically for children, with colorful walls, auto-belays, and trained instructors to guide their vertical adventures.",
+      "subtype": "Mini Sports Arenas",
+      "address": "800 Coleman Ave, San José, CA 95110",
+      "opening_hours": "12:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627016271927-4a7b7501b1a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "climbing",
+        "adventure",
+        "indoor activity"
+      ]
+    },
+    {
+      "id": "SJT001",
+      "name": "Fairytale Forest Adventure Park",
+      "short_description": "Step into a world of classic fairytales with gentle rides, storybook character meet-and-greets, and enchanting play areas for younger visitors.",
+      "subtype": "Theme Parks for Kids",
+      "address": "2000 Monterey Rd, San José, CA 95112",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1628045620164-98c4146030c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "fairytales",
+        "character meet",
+        "gentle rides"
+      ]
+    },
+    {
+      "id": "SJT002",
+      "name": "Tiny Tides Water Fun Park",
+      "short_description": "A splash-tastic water park offering slides, spray grounds, and shallow pools specifically designed for young children and their families to cool off and play.",
+      "subtype": "Theme Parks for Kids",
+      "address": "400 Blossom Hill Rd, San José, CA 95123",
+      "opening_hours": "10:30-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596765796030-67c26d2e0524?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "water park",
+        "splash pad",
+        "summer fun"
+      ]
+    },
+    {
+      "id": "SJT003",
+      "name": "Construction Zone Playland",
+      "short_description": "Kids become construction workers for a day! Drive mini-excavators, operate cranes, and build with giant blocks in this unique, interactive theme park.",
+      "subtype": "Theme Parks for Kids",
+      "address": "1800 Story Rd, San José, CA 95122",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1547849480-e883e3aa6a92?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "construction",
+        "interactive rides",
+        "building"
+      ]
+    },
+    {
+      "id": "SJT004",
+      "name": "Animal Kingdom Kids' Safari",
+      "short_description": "Embark on a mini-safari ride, meet adorable animal characters, and enjoy animal-themed attractions in a park designed to spark a love for wildlife in young explorers.",
+      "subtype": "Theme Parks for Kids",
+      "address": "1200 S White Rd, San José, CA 95127",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517520022201-1e909a365f5a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "animals",
+        "safari",
+        "nature themed"
+      ]
+    },
+    {
+      "id": "SJD001",
+      "name": "Jurassic Jungle Adventure",
+      "short_description": "Travel back in time to an immersive park featuring life-sized animatronic dinosaurs, fossil digs, and thrilling, kid-friendly rides through prehistoric landscapes.",
+      "subtype": "Dinosaur Parks",
+      "address": "1700 Senter Rd, San José, CA 95112",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627931327170-0708579d4697?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "animatronics",
+        "prehistoric",
+        "adventure"
+      ]
+    },
+    {
+      "id": "SJD002",
+      "name": "Dino Dig Site & Paleontology Lab",
+      "short_description": "Aspiring paleontologists can unearth dinosaur bones in a giant sandpit, then learn about fossils and ancient creatures in an interactive lab.",
+      "subtype": "Dinosaur Parks",
+      "address": "600 S Bascom Ave, San José, CA 95128",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616782352123-289c44dd302c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "fossil dig",
+        "paleontology",
+        "educational"
+      ]
+    },
+    {
+      "id": "SJD003",
+      "name": "Prehistoric Play Zone",
+      "short_description": "A dinosaur-themed playground featuring giant dino slides, climbable structures, and a lava-flow splash pad for active fun. Roar into playtime!.",
+      "subtype": "Dinosaur Parks",
+      "address": "1200 Coleman Ave, San José, CA 95110",
+      "opening_hours": "09:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628189675666-834f37803650?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "playground",
+        "dino themed",
+        "outdoor play"
+      ]
+    },
+    {
+      "id": "SJD004",
+      "name": "Raptor Ridge Safari",
+      "short_description": "Board an open-air vehicle for an exciting journey through a habitat filled with friendly (and sometimes roaring) dinosaur replicas. Discover various species!",
+      "subtype": "Dinosaur Parks",
+      "address": "2000 Coyote Creek Dr, San José, CA 95111",
+      "opening_hours": "11:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1647891942004-9411933e1430?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "safari ride",
+        "dinosaur replicas",
+        "family adventure"
+      ]
+    },
+    {
+      "id": "SJSC01",
+      "name": "Little Scientist Lab",
+      "short_description": "A hands-on science center designed for young minds, offering interactive exhibits on physics, chemistry, and biology through fun experiments and demonstrations.",
+      "subtype": "Science Centers",
+      "address": "150 W Santa Clara St, San José, CA 95113",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1518177344949-0d32c91838d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "experiments",
+        "interactive",
+        "STEM"
+      ]
+    },
+    {
+      "id": "SJSC02",
+      "name": "Stargazer's Space Dome",
+      "short_description": "Explore the cosmos in a state-of-the-art planetarium with immersive shows about stars, planets, and galaxies, plus interactive exhibits on space travel and astronomy.",
+      "subtype": "Science Centers",
+      "address": "100 Senter Rd, San José, CA 95112",
+      "opening_hours": "11:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1543722530-d2c32014071e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "planetarium",
+        "space",
+        "astronomy"
+      ]
+    },
+    {
+      "id": "SJSC03",
+      "name": "Tech Explorers Workshop",
+      "short_description": "A futuristic center where kids can dive into coding, robotics, and engineering challenges. Build circuits, program drones, and create digital art.",
+      "subtype": "Science Centers",
+      "address": "200 River Oaks Pkwy, San José, CA 95134",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522066896941-2a4c84a83ce9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "robotics",
+        "coding",
+        "engineering"
+      ]
+    },
+    {
+      "id": "SJSC04",
+      "name": "Eco-Discovery Zone",
+      "short_description": "Learn about environmental science and conservation through interactive exhibits on local ecosystems, water cycles, and sustainable practices. Become an eco-hero!",
+      "subtype": "Science Centers",
+      "address": "300 W Hedding St, San José, CA 95110",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582213783164-929007e0c474?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "environment",
+        "conservation",
+        "nature science"
+      ]
+    }
+  ]
+}

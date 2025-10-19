@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Maasai Mara",
+    "city_id": "2434"
+  },
+  "items": [
+    {
+      "id": "MM-ELC-001",
+      "name": "Mara Serene Eco-Camp",
+      "short_description": "A luxurious, solar-powered tented camp offering unparalleled wildlife viewing with minimal environmental impact. Experience wilderness comfort redefined in a newly opened, sustainable setting.",
+      "address": "Olare Motorogi Conservancy, Maasai Mara",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1628176602351-4e78a2e7c9f8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "luxury safari",
+        "eco-friendly",
+        "wildlife viewing"
+      ]
+    },
+    {
+      "id": "MM-MCC-002",
+      "name": "Enkereri Maasai Cultural Village",
+      "short_description": "An authentic, interactive Maasai village experience offering insights into their rich traditions, dances, and daily life. This newly established village directly supports local communities through sustainable tourism.",
+      "address": "Near Sekenani Gate, Maasai Mara National Reserve",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549419195-23f2f2c8d5c8?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Maasai culture",
+        "community tourism",
+        "traditional dances"
+      ]
+    },
+    {
+      "id": "MM-WOD-003",
+      "name": "Talek River Skydeck",
+      "short_description": "An elevated, panoramic viewing platform offering incredible, undisturbed views of the Talek River and its resident wildlife, especially during migration season. Opened recently to enhance visitor experience.",
+      "address": "Along Talek River, Maasai Mara National Reserve",
+      "opening_hours": "06:00-18:30",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/10148855/pexels-photo-10148855.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "wildlife viewing",
+        "photography",
+        "scenic views"
+      ]
+    },
+    {
+      "id": "MM-CEC-004",
+      "name": "Mara Guardians Conservation Hub",
+      "short_description": "An interactive center dedicated to Maasai Mara's wildlife conservation, offering engaging exhibits, educational programs for all ages, and insights into anti-poaching efforts since its recent opening.",
+      "address": "Near Mara Triangle entrance, Maasai Mara",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621379109067-124b8d7c9f6a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "conservation",
+        "education",
+        "wildlife protection"
+      ]
+    },
+    {
+      "id": "MM-HBL-005",
+      "name": "Mara Sky Safaris Launchpad",
+      "short_description": "A new, state-of-the-art launch and landing site for hot air balloon safaris, complete with a pre-flight briefing lounge and post-flight champagne breakfast area, offering premium aerial experiences.",
+      "address": "North Conservancy, Maasai Mara",
+      "opening_hours": "05:00-10:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1574765660233-030678d48a1d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "hot air balloon",
+        "aerial safari",
+        "luxury experience"
+      ]
+    },
+    {
+      "id": "MM-PWC-006",
+      "name": "Lens of the Mara Photo Camp",
+      "short_description": "A purpose-built, mobile safari camp designed for amateur and professional photographers, offering expert-guided wildlife photography workshops and prime viewing locations since its recent inception.",
+      "address": "Variable (moves within conservancies), Maasai Mara",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1547466170-13f309a4d872?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "photography safari",
+        "wildlife photography",
+        "specialized camp"
+      ]
+    },
+    {
+      "id": "MM-SDO-007",
+      "name": "Celestial Mara Observatory",
+      "short_description": "An innovative, open-air observatory with high-powered telescopes, offering guided stargazing sessions under the pristine, unpolluted night skies of Maasai Mara, launched to capture celestial wonders.",
+      "address": "Mara Naboisho Conservancy",
+      "opening_hours": "19:00-23:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1509372138240-62e582e2f6d0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "night safari",
+        "astronomy",
+        "unique experience"
+      ]
+    },
+    {
+      "id": "MM-JRP-008",
+      "name": "Young Explorers Ranger Base",
+      "short_description": "A dedicated facility offering immersive, hands-on educational programs for children and teenagers to learn about wildlife tracking, conservation, and bush skills, recently opened to inspire young minds.",
+      "address": "Talek Gate area, Maasai Mara National Reserve",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1629891008060-f8f8f8b8f8f8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "family friendly",
+        "education",
+        "junior ranger"
+      ]
+    },
+    {
+      "id": "MM-RSV-009",
+      "name": "Black Rhino Conservation Outlook",
+      "short_description": "A specially designated, secure viewing point within a newly established rhino sanctuary, offering rare and ethical opportunities to observe critically endangered black rhinos, supporting vital conservation efforts.",
+      "address": "Mara North Conservancy",
+      "opening_hours": "07:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1541094030-9b36d6c3f3f0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "rhino conservation",
+        "endangered species",
+        "wildlife viewing"
+      ]
+    },
+    {
+      "id": "MM-WSB-010",
+      "name": "Mara Footprints Camp",
+      "short_description": "A secluded, eco-conscious base camp dedicated to immersive walking safaris, allowing guests to explore the bush on foot with experienced Maasai guides and trackers. This camp recently opened to offer a deeper connection to nature.",
+      "address": "Loita Hills region, adjacent to Maasai Mara",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1524855963287-c7159f8a3d60?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "walking safari",
+        "guided trek",
+        "nature immersion"
+      ]
+    }
+  ]
+}

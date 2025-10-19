@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Gombe",
+    "city_id": "2452"
+  },
+  "items": [
+    {
+      "id": "GMB001",
+      "name": "Gombe Heritage & Arts Centre",
+      "short_description": "Discover the rich cultural tapestry of Gombe through interactive exhibits, traditional performances, and local craft workshops, celebrating the state's vibrant history.",
+      "address": "Along Gombe-Potiskum Road, opposite Central Mosque, Gombe",
+      "opening_hours": "10:00-17:00 (Mon-Sat)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596707328607-422119c8f074?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "culture",
+        "history",
+        "art"
+      ]
+    },
+    {
+      "id": "GMB002",
+      "name": "Gombe Green Oasis Park",
+      "short_description": "A serene urban park featuring beautifully landscaped gardens, winding walking trails, and family-friendly picnic spots, perfect for relaxation and outdoor activities.",
+      "address": "Tudun Wada Area, off Bello Sabo Road, Gombe",
+      "opening_hours": "06:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1561726053-488b0a9c8f6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "park",
+        "nature",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "GMB003",
+      "name": "Future Science Hub Gombe",
+      "short_description": "An interactive science museum designed to inspire young minds with hands-on exhibits in robotics, astronomy, and sustainable energy, fostering a love for discovery.",
+      "address": "Near Gombe State University, Kwami LGA",
+      "opening_hours": "09:00-16:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1541097658739-e93817117e33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "education",
+        "science",
+        "kids"
+      ]
+    },
+    {
+      "id": "GMB004",
+      "name": "Kumo Hills Eco-Adventure",
+      "short_description": "Experience thrilling hiking trails, breathtaking panoramic viewpoints, and guided nature walks through the scenic and unspoiled Kumo Hills, ideal for adventurers.",
+      "address": "Kumo LGA, along Gombe-Yola Road, Gombe State",
+      "opening_hours": "07:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1506097495034-71286663f45f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "adventure",
+        "hiking",
+        "nature"
+      ]
+    },
+    {
+      "id": "GMB005",
+      "name": "Gombe Modern Crafts Market",
+      "short_description": "A vibrant and newly established marketplace showcasing authentic Gombe crafts, textiles, and traditional delicacies from talented local artisans.",
+      "address": "Along Biu Road, adjacent to Gombe Main Market",
+      "opening_hours": "08:00-19:00 (daily)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1520633190479-052490ef854c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "shopping",
+        "local products",
+        "culture"
+      ]
+    },
+    {
+      "id": "GMB006",
+      "name": "Dukku Family Fun Centre",
+      "short_description": "A modern entertainment complex offering exciting bowling lanes, arcade games, a soft play area for kids, and a variety of delicious food vendors for a fun-filled day.",
+      "address": "Dukku-Gombe Road, Dukku LGA",
+      "opening_hours": "11:00-22:00 (daily)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596766465360-639a5ee04746?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "family",
+        "entertainment",
+        "games"
+      ]
+    },
+    {
+      "id": "GMB007",
+      "name": "Dadin Kowa Dam Viewpoint & Gardens",
+      "short_description": "Enjoy breathtaking panoramic views of the magnificent Dadin Kowa Dam from specially designed viewpoints, surrounded by newly cultivated botanical gardens.",
+      "address": "Dadin Kowa Town, Yamaltu Deba LGA",
+      "opening_hours": "08:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1541818167-e9a2638a164a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "nature",
+        "scenic views",
+        "gardens"
+      ]
+    },
+    {
+      "id": "GMB008",
+      "name": "Gombe Sports Arena & Recreation Park",
+      "short_description": "A newly built multi-sport complex boasting state-of-the-art pitches for football, basketball courts, and a public gym, promoting active and healthy lifestyles.",
+      "address": "Along Gombe Bypass Road, near Federal Teaching Hospital, Gombe",
+      "opening_hours": "06:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533722791485-64906f236087?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "sports",
+        "fitness",
+        "recreation"
+      ]
+    },
+    {
+      "id": "GMB009",
+      "name": "Gombe Contemporary Art Gallery",
+      "short_description": "A vibrant space showcasing modern and contemporary artworks by emerging and established Nigerian artists, focusing on Gombe's unique cultural perspectives.",
+      "address": "Adjacent to Gombe State Library, Federal Low-Cost Estate",
+      "opening_hours": "10:00-18:00 (Tue-Sun)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1596707328607-422119c8f074?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "art",
+        "gallery",
+        "exhibition"
+      ]
+    },
+    {
+      "id": "GMB010",
+      "name": "Gombe Food Street Hub",
+      "short_description": "A bustling collection of diverse food stalls and restaurants offering local delicacies, international cuisine, and a lively evening atmosphere for culinary exploration.",
+      "address": "Off Ashaka Road, close to Pantami Mosque, Gombe",
+      "opening_hours": "16:00-23:00 (daily)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1504712535914-f58c70428d08?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "food",
+        "dining",
+        "local cuisine"
+      ]
+    }
+  ]
+}

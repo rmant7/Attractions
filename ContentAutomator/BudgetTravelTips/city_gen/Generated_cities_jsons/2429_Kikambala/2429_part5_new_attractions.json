@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Kikambala",
+    "city_id": "2429"
+  },
+  "items": [
+    {
+      "id": "KikambalaMajestic",
+      "name": "Kikambala Majestic Sands Resort",
+      "short_description": "Experience unparalleled luxury at Kikambala's newest beachfront haven, offering stunning ocean views, infinity pools, and world-class dining. Perfect for an indulgent escape.",
+      "address": "Kikambala Beach Road, near Mtwapa Bridge, Kikambala",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://unsplash.com/photos/a-large-swimming-pool-with-palm-trees-and-a-building-in-the-background-P9P78sHhBfY",
+      "tags": [
+        "luxury",
+        "beach resort",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "MtwapaMangroveEco",
+      "name": "Mtwapa Creek Mangrove Eco-Park",
+      "short_description": "Discover the serene beauty of the mangrove ecosystem with guided boardwalk tours, birdwatching, and educational exhibits focused on coastal conservation. Opened in 2021.",
+      "address": "Off Mombasa-Malindi Highway, near Mtwapa Creek, Kikambala",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://unsplash.com/photos/a-wooden-walkway-through-a-lush-forest-t22qJ0hP1eU",
+      "tags": [
+        "nature",
+        "eco-tourism",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "KikambalaWaveRiders",
+      "name": "Kikambala Wave Riders Watersports",
+      "short_description": "Get your adrenaline pumping with kitesurfing, jet skiing, and paddleboarding lessons. Our certified instructors ensure a safe and thrilling experience on the Indian Ocean.",
+      "address": "Next to Sun n Sand Beach Hotel, Kikambala Beach",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://www.pexels.com/photo/aerial-shot-of-a-person-windsurfing-on-the-sea-2212933/",
+      "tags": [
+        "watersports",
+        "adventure",
+        "beach activities"
+      ]
+    },
+    {
+      "id": "BahariCraftsVillage",
+      "name": "Bahari Crafts & Cultural Village",
+      "short_description": "Explore vibrant local artistry and traditional crafts at this newly established market. Engage with artisans and take home authentic souvenirs from the Kenyan coast.",
+      "address": "Kisauni-Kikambala Road, Kikambala Center",
+      "opening_hours": "10:00-19:00",
+      "price_level": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Masai_Market_Nairobi.jpg",
+      "tags": [
+        "culture",
+        "shopping",
+        "artisan market"
+      ]
+    },
+    {
+      "id": "ShambaTableRestaurant",
+      "name": "The Shamba Table Restaurant",
+      "short_description": "Savor fresh, organic flavors at this farm-to-table restaurant, featuring ingredients sourced directly from local Kikambala farms. A true taste of the coast.",
+      "address": "Mzambarauni Road, Kikambala",
+      "opening_hours": "12:00-22:00",
+      "price_level": "moderate",
+      "images": "https://unsplash.com/photos/table-setting-at-an-outdoor-restaurant-L4d_2e2T2eI",
+      "tags": [
+        "dining",
+        "local food",
+        "farm-to-table"
+      ]
+    },
+    {
+      "id": "KikambalaAdventurePark",
+      "name": "Kikambala Adventure Safari Park",
+      "short_description": "A thrilling new destination for families, offering ziplining, obstacle courses, mini-golf, and shaded play areas designed for all ages amidst lush greenery.",
+      "address": "Off Mtwapa-Kikambala Road, near Vipingo, Kikambala",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://www.pexels.com/photo/adventure-park-with-ropes-and-obstacles-209240/",
+      "tags": [
+        "family-friendly",
+        "adventure",
+        "kids activities"
+      ]
+    },
+    {
+      "id": "OasisWellnessRetreat",
+      "name": "Oasis Wellness Retreat & Spa",
+      "short_description": "Unwind and rejuvenate at this tranquil oasis, offering bespoke spa treatments, yoga sessions, and holistic therapies in a serene, newly built environment.",
+      "address": "Kikambala Creek Side, Mtwapa, Kikambala",
+      "opening_hours": "09:00-20:00",
+      "price_level": "expensive",
+      "images": "https://unsplash.com/photos/a-close-up-shot-of-a-person-s-hands-with-flowers-and-stones-1U1f3v9g9iQ",
+      "tags": [
+        "wellness",
+        "spa",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "BahariBoutiqueGH",
+      "name": "Bahari Boutique Guesthouse",
+      "short_description": "A charming new guesthouse offering personalized service and cozy, elegantly designed rooms just a short walk from the beach. Perfect for a quiet getaway.",
+      "address": "Kikambala South Road, plot 123, Kikambala",
+      "opening_hours": "24/7",
+      "price_level": "moderate",
+      "images": "https://unsplash.com/photos/a-bedroom-with-a-bed-and-a-window-looking-out-at-the-ocean-j77A34tKntk",
+      "tags": [
+        "accommodation",
+        "boutique",
+        "guesthouse"
+      ]
+    },
+    {
+      "id": "KikambalaMarineGuard",
+      "name": "Kikambala Marine Guardians Center",
+      "short_description": "Learn about vital marine conservation efforts in the Indian Ocean. Features interactive exhibits, rescue programs, and guided snorkeling tours of protected areas.",
+      "address": "Kuruwitu Beach Road, North Kikambala",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://www.pexels.com/photo/school-of-fish-in-an-aquarium-792828/",
+      "tags": [
+        "marine life",
+        "conservation",
+        "education"
+      ]
+    },
+    {
+      "id": "KikambalaDhowCruises",
+      "name": "Kikambala Dhow Sunset Cruises",
+      "short_description": "Embark on a breathtaking sunset dhow cruise along the Kikambala coast. Our newly opened booking lounge and departure point ensure a smooth and memorable experience.",
+      "address": "Mtwapa Creek Marina, Kikambala Side, Kikambala",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://unsplash.com/photos/a-wooden-boat-sailing-on-the-water-at-sunset-1c5t1Qh1i9M",
+      "tags": [
+        "boat tour",
+        "sunset",
+        "sightseeing"
+      ]
+    }
+  ]
+}

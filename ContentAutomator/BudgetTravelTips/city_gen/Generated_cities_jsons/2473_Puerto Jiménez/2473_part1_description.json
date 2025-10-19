@@ -1,0 +1,67 @@
+{
+  "id": "2473",
+  "name": "Puerto Jiménez",
+  "country": "Costa Rica",
+  "description": "Puerto Jiménez, nestled on the pristine shores of the Golfo Dulce on Costa Rica's remote Osa Peninsula, stands as the quintessential gateway to the unparalleled biodiversity of Corcovado National Park. This vibrant yet laid-back town perfectly embodies the \"Pura Vida\" spirit, offering travelers an authentic immersion into one of the planet's most biologically intense regions. Its culture is deeply entwined with nature conservation, fostering a friendly, unhurried pace of life where the rhythm of the rainforest dictates daily existence. Locals, often referred to as \"Ticos,\" are welcoming and proud of their natural heritage.\n\nThe undeniable main attraction is Corcovado National Park, a globally renowned sanctuary accessible primarily via guided tours from Puerto Jiménez. These expeditions promise incredible wildlife encounters, including all four Costa Rican monkey species, sloths, tapirs, elusive jaguars, and an awe-inspiring array of exotic birds. Beyond the park's boundaries, Puerto Jiménez itself offers a charming array of activities. Explore the calm, warm waters of Golfo Dulce through kayaking, paddleboarding, or boat tours, frequently spotting playful dolphins, migrating whales (seasonal), and sea turtles. Nearby Playa Platanares provides a serene, safe spot for swimming and relaxation, particularly at sunset. Adventure seekers can enjoy horseback riding through lush tropical landscapes, embark on dedicated birdwatching expeditions, or delve into the area's rich, albeit challenging, gold-panning history with local guides.\n\nTravelers should embrace the town's rustic charm and prepare for an off-the-beaten-path experience. Accommodations vary from luxurious eco-lodges to charming, budget-friendly cabinas. The culinary scene emphasizes fresh, locally sourced seafood and authentic Costa Rican \"sodas\" serving hearty, traditional meals. Remember that while Puerto Jiménez is growing in popularity, it steadfastly retains its small-town feel, making it an ideal base for adventurers seeking a profound connection with nature away from more commercialized tourist hubs. Prepare for tropical humidity, bring sturdy walking shoes, ample insect repellent, and always respect the pristine environment that defines this extraordinary corner of Costa Rica.",
+  "themes": [
+    "Eco-tourism",
+    "Wildlife",
+    "Adventure",
+    "Nature",
+    "Osa Peninsula"
+  ],
+  "body_attributes": {
+    "climate": "Tropical with distinct wet (May-November) and dry (December-April) seasons. Hot and humid year-round.",
+    "best_time_to_visit": "December to April (dry season) for hiking and wildlife viewing; shoulder months (May, November) for fewer crowds and lush scenery.",
+    "population": "1788 (town proper, 2011 census)",
+    "area": "738.07 sq km (Puerto Jiménez District)",
+    "transport_summary": "Accessible by domestic flights (Sansa, Aerobell) from San José, public buses, taxis, and 4x4 rental cars (recommended for local exploration). Boat taxis also operate on Golfo Dulce.",
+    "safety_level": "Low (standard precautions for valuables, especially in public areas, are advised).",
+    "geographical_features": "Coastal town on the tranquil Golfo Dulce, surrounded by dense primary rainforest, situated on the remote Osa Peninsula, and serving as the primary gateway to Corcovado National Park."
+  },
+  "travel_tips": [
+    "Book accommodations and Corcovado National Park tours well in advance, especially during peak season.",
+    "Bring plenty of insect repellent, sunscreen, a hat, and lightweight, quick-drying clothing.",
+    "Carry sufficient cash (Costa Rican Colones or USD) as ATMs can be limited and not all places accept cards.",
+    "Hire certified local guides for jungle treks and park visits to maximize wildlife sightings and ensure safety."
+  ],
+  "budget_tips": [
+    "Eat at 'sodas' (local eateries) for authentic, affordable Costa Rican meals.",
+    "Utilize local buses for inter-town travel instead of private taxis.",
+    "Consider visiting during the shoulder season (May, November) for potentially lower prices on tours and lodging.",
+    "Purchase groceries and cook your own meals if staying in accommodations with kitchen facilities."
+  ],
+  "seo": {
+    "seo_title": "Puerto Jiménez Travel Guide | Osa Peninsula, Costa Rica",
+    "seo_description": "Explore Puerto Jiménez, the gateway to Corcovado National Park. Discover unparalleled wildlife, eco-adventures, and pristine nature on Costa Rica's Osa Peninsula.",
+    "keywords": [
+      "Puerto Jiménez travel",
+      "Corcovado National Park",
+      "Osa Peninsula",
+      "Costa Rica eco-tourism",
+      "Golfo Dulce wildlife"
+    ]
+  },
+  "meta": {
+    "continent": "North America",
+    "currency": "Costa Rican Colón (CRC), US Dollar (USD) widely accepted",
+    "language": "Spanish",
+    "time_zone": "Central Standard Time (CST), GMT-6",
+    "popular_airlines": [
+      "United Airlines",
+      "American Airlines",
+      "Delta Air Lines",
+      "Copa Airlines",
+      "Avianca"
+    ]
+  },
+  "title": "Puerto Jiménez: Gateway to the Wild Heart of Costa Rica's Osa Peninsula",
+  "images": [
+    "https://images.unsplash.com/photo-1596204051012-7061d3674696?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1617498428599-4d6f83cf1346?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+  ],
+  "coordinates": [
+    8.53364372253418,
+    -83.30677795410156
+  ]
+}

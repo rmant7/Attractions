@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Meru",
+    "city_id": "2436"
+  },
+  "items": [
+    {
+      "id": "MERU-001",
+      "name": "Meru Highlands Eco Retreat",
+      "short_description": "Escape to serene cabins nestled within indigenous forest, offering breathtaking views of the Meru landscape and a focus on sustainable living. Perfect for nature lovers and those seeking tranquility.",
+      "address": "Off Nkubu-Kionyo Road, Meru County",
+      "opening_hours": "24/7 (for guests), 09:00-17:00 (day visitors to restaurant/trails)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1593390977464-a131238d9f48",
+      "tags": [
+        "Eco-tourism",
+        "Nature",
+        "Retreat"
+      ]
+    },
+    {
+      "id": "MERU-002",
+      "name": "Kinoru Coffee Heritage Farm & Roastery",
+      "short_description": "Discover the journey of coffee from bean to cup at this interactive farm tour and tasting experience. Learn about Meru's rich coffee heritage and enjoy freshly roasted brews.",
+      "address": "Kinoru Area, near Meru-Nanyuki Highway",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510414920409-b68a7b0d5071",
+      "tags": [
+        "Agri-tourism",
+        "Coffee",
+        "Local produce"
+      ]
+    },
+    {
+      "id": "MERU-003",
+      "name": "Meru Ancestral Arts & Culture Hub",
+      "short_description": "Immerse yourself in Meru's vibrant traditions through live performances, craft workshops, and historical exhibits. A dynamic space celebrating the indigenous culture and contemporary Meru artistry.",
+      "address": "Makutano Junction, Meru Town",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549420042-32128ae34479",
+      "tags": [
+        "Culture",
+        "Art",
+        "Heritage"
+      ]
+    },
+    {
+      "id": "MERU-004",
+      "name": "Rwandeti Adrenaline Park",
+      "short_description": "Get your heart racing with Meru's newest adventure park featuring a thrilling zipline, challenging obstacle courses, and guided forest walks. Fun for all ages looking for outdoor excitement.",
+      "address": "Along Meru-Maua Road, near Rwandeti Forest",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1623849150530-975949d012ec",
+      "tags": [
+        "Adventure",
+        "Family",
+        "Outdoors"
+      ]
+    },
+    {
+      "id": "MERU-005",
+      "name": "Jua Kali Creative Space & Cafe",
+      "short_description": "A trendy spot showcasing contemporary Meru art, unique artisan crafts, and a cozy cafe serving local and international bites. A perfect blend of culture, commerce, and chill.",
+      "address": "Meru Town Centre, Off Hospital Road",
+      "opening_hours": "08:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1514794751493-27e7f6e80b45",
+      "tags": [
+        "Art",
+        "Cafe",
+        "Local crafts"
+      ]
+    },
+    {
+      "id": "MERU-006",
+      "name": "Nyambene Hot Springs Wellness Spa",
+      "short_description": "Rejuvenate your body and mind at Meru's first natural hot springs spa. Offering therapeutic mineral baths, massages, and serene surroundings in the beautiful Nyambene Hills.",
+      "address": "Near Maua Town, Nyambene Hills",
+      "opening_hours": "09:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1574347890479-2470e8edfb2f",
+      "tags": [
+        "Wellness",
+        "Spa",
+        "Relaxation"
+      ]
+    },
+    {
+      "id": "MERU-007",
+      "name": "Meru Urban Bites Food Market",
+      "short_description": "A vibrant hub for foodies, featuring a diverse array of local and international street food vendors, fresh produce stalls, and live music. A culinary journey in the heart of Meru.",
+      "address": "Along Gitimbine Road, Meru Town",
+      "opening_hours": "11:00-22:00 (weekdays), 10:00-23:00 (weekends)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1536733276189-9a7071e72151",
+      "tags": [
+        "Food",
+        "Market",
+        "Local cuisine"
+      ]
+    },
+    {
+      "id": "MERU-008",
+      "name": "Tots & Trails Discovery Park",
+      "short_description": "An interactive outdoor learning space designed for children, featuring nature trails, educational play zones, and engaging workshops focused on local ecology and culture.",
+      "address": "Kithoka Road, Kithoka Area, Meru",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596702951939-c5c8ac2ef92d",
+      "tags": [
+        "Family",
+        "Education",
+        "Kids"
+      ]
+    },
+    {
+      "id": "MERU-009",
+      "name": "Kathita River Gardens & Arboretum",
+      "short_description": "A tranquil botanical haven along the Kathita River, perfect for leisurely strolls, birdwatching, and picnics amidst diverse plant species. A green escape within the urban fringe.",
+      "address": "Along Kathita River, near Meru Polytechnic",
+      "opening_hours": "07:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1621644783350-a927a3c3f913",
+      "tags": [
+        "Nature",
+        "Gardens",
+        "Outdoors"
+      ]
+    },
+    {
+      "id": "MERU-010",
+      "name": "The Summit Sky Lounge & Grill",
+      "short_description": "Experience panoramic views of Meru town and Mount Kenya while indulging in gourmet cuisine and bespoke cocktails. Meru's premier rooftop dining and nightlife destination.",
+      "address": "Top Floor, Meridian Plaza, Meru Town",
+      "opening_hours": "17:00-00:00 (Weekdays), 17:00-02:00 (Weekends)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1631451090533-5c8e404b9015",
+      "tags": [
+        "Dining",
+        "Nightlife",
+        "Views"
+      ]
+    }
+  ]
+}

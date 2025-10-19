@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Makurdi",
+    "city_id": "2459"
+  },
+  "items": [
+    {
+      "id": "MKD_MIS_01",
+      "name": "Makurdi Magic Palace",
+      "short_description": "Step into a world of wonder with astounding tricks and mind-bending illusions performed by Makurdi's top magicians. Perfect for all ages, with interactive segments for kids.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "15 Wadata Road, Makurdi, Benue State",
+      "opening_hours": "14:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628189689885-3010b9104084?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyMHx8bWFnaWMlMjBzaG93fGVufDB8fHx8MTcxNzA3NzA4MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "magic",
+        "illusion",
+        "family fun"
+      ]
+    },
+    {
+      "id": "MKD_MIS_02",
+      "name": "The Enchanted Stage",
+      "short_description": "Experience captivating acts of magic and illusion in an intimate setting. Features weekly rotating shows with a focus on audience participation and visual spectacle.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Behind Wurukum Market, Makurdi, Benue State",
+      "opening_hours": "15:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549419134-2e21b777a82c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyNHx8bWFnaWMlMjBzaG93fGVufDB8fHx8MTcxNzA3NzA4MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "live show",
+        "mystery",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "MKD_MIS_03",
+      "name": "Benue Illusionarium",
+      "short_description": "A grand theater showcasing a variety of illusionists, from classic disappearing acts to modern mentalism. Special matinee shows designed specifically for younger audiences.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Opp. Makurdi Modern Market, Makurdi, Benue State",
+      "opening_hours": "13:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1533038622839-a9a35e46dd70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwzNXx8bWFnaWMlMjBzaG93fGVufDB8fHx8MTcxNzA3NzA4Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "theater",
+        "spectacle",
+        "visual arts"
+      ]
+    },
+    {
+      "id": "MKD_MIS_04",
+      "name": "Mystic Wonders Kids' Show",
+      "short_description": "An interactive magic experience tailored for children, featuring colorful props, humorous tricks, and opportunities for kids to assist the magician on stage. Guaranteed smiles and gasps!",
+      "subtype": "Magic & Illusion Shows",
+      "address": "7 Kashim Ibrahim Road, GRA, Makurdi, Benue State",
+      "opening_hours": "11:00-13:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1547840134-a141aa5062a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHw0OXx8bWFnaWMlMjBzaG93fGVufDB8fHx8MTcxNzA3NzA4NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "interactive",
+        "children",
+        "fun"
+      ]
+    },
+    {
+      "id": "MKD_DP_01",
+      "name": "Makurdi Dino Land",
+      "short_description": "Journey back in time to an era of prehistoric giants! Explore life-sized dinosaur models, dig for fossils, and learn about the creatures that once roamed Earth.",
+      "subtype": "Dinosaur Parks",
+      "address": "Near Tor Tiv Palace, Makurdi-Gboko Road, Makurdi, Benue State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1599834164800-4b21699f7d24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyMHx8ZGlub3NhdXIlMjBwYXJrfGVufDB8fHx8MTcxNzA3NzQ0N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "dinosaurs",
+        "prehistoric",
+        "education"
+      ]
+    },
+    {
+      "id": "MKD_DP_02",
+      "name": "Benue Jurassic Adventure",
+      "short_description": "A thrilling outdoor park featuring animatronic dinosaurs that move and roar! Kids can enjoy guided tours, a dino-themed playground, and interactive exhibits.",
+      "subtype": "Dinosaur Parks",
+      "address": "Off Kashim Ibrahim Way, Makurdi, Benue State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1621245785023-c5b6510b14b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwzMHx8ZGlub3NhdXIlMjBwYXJrfGVufDB8fHx8MTcxNzA3NzQ0OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animatronics",
+        "adventure",
+        "excitement"
+      ]
+    },
+    {
+      "id": "MKD_DP_03",
+      "name": "Prehistoric Giants Park",
+      "short_description": "Discover a diverse collection of static and interactive dinosaur replicas amidst lush greenery. Perfect for photo opportunities and a fun, educational family outing.",
+      "subtype": "Dinosaur Parks",
+      "address": "Along Federal Low Cost Road, Makurdi, Benue State",
+      "opening_hours": "08:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1598287515324-b1523b0d4681?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwzNHx8ZGlub3NhdXIlMjBwYXJrfGVufDB8fHx8MTcxNzA3NzQ0OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "outdoor",
+        "discovery",
+        "history"
+      ]
+    },
+    {
+      "id": "MKD_DP_04",
+      "name": "Raptor Ridge Discovery",
+      "short_description": "An interactive dinosaur-themed area focusing on smaller, agile dinosaurs and their habitat. Features a fossil sandpit, a raptor maze, and a mini paleontologist workshop.",
+      "subtype": "Dinosaur Parks",
+      "address": "5 Adekaa Street, North Bank, Makurdi, Benue State",
+      "opening_hours": "10:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628045622095-23f2f84a44f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHw0Mnx8ZGlub3NhdXIlMjBwYXJrfGVufDB8fHx8MTcxNzA3NzQ1MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "interactive",
+        "paleontology",
+        "workshop"
+      ]
+    },
+    {
+      "id": "MKD_ZPZ_01",
+      "name": "Makurdi Children's Zoo",
+      "short_description": "A delightful zoo designed with young visitors in mind, featuring smaller, friendly animals and spacious enclosures. Enjoy educational talks and feeding demonstrations.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Makurdi-Gboko Road, Makurdi, Benue State",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1548679998-963d8383e20e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyMHx8cGV0dGluZyUyMHpvb3xlbnwwfHx8fDE3MTcwNzc2Njl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animals",
+        "education",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "MKD_ZPZ_02",
+      "name": "Benue Wildlife Haven",
+      "short_description": "Home to a variety of local and exotic animals, offering a glimpse into the natural world. Features a dedicated section for interactive animal encounters and feeding.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Plot 8, Judges' Quarters, Makurdi, Benue State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1599863484218-c21e64988775?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyN3x8em9vfGVufDB8fHx8MTcxNzA3NzcwMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "conservation",
+        "safari",
+        "nature"
+      ]
+    },
+    {
+      "id": "MKD_ZPZ_03",
+      "name": "Friendly Farm Animals Petting Zoo",
+      "short_description": "A charming petting zoo where children can safely interact with goats, sheep, rabbits, and other domestic farm animals. Educational talks on farm life and animal care.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Near Aper Aku Estate, Makurdi, Benue State",
+      "opening_hours": "09:30-15:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1528659556843-b71569420658?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHw0NHx8cGV0dGluZyUyMHpvb3xlbnwwfHx8fDE3MTcwNzc2NzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "farm animals",
+        "petting",
+        "gentle"
+      ]
+    },
+    {
+      "id": "MKD_ZPZ_04",
+      "name": "Safari Kids Petting Zoo",
+      "short_description": "Get up close with a variety of small, friendly animals in a safari-themed environment. Hand-feed birds, interact with guinea pigs, and learn about their unique behaviors.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "22 Otukpo Road, High Level, Makurdi, Benue State",
+      "opening_hours": "11:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1602187383796-03f47c34b150?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHw1Nnx8cGV0dGluZyUyMHpvb3xlbnwwfHx8fDE3MTcwNzc2NzR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "exotic animals",
+        "interaction",
+        "safari theme"
+      ]
+    },
+    {
+      "id": "MKD_MSA_01",
+      "name": "Makurdi Junior Sports Dome",
+      "short_description": "An indoor facility offering multiple mini-pitches for football, basketball, and various team sports tailored for children. Coaches are available for fun skill-building sessions.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Makurdi Club Road, Makurdi, Benue State",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1608757041530-9b48f9363198?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyMHx8a2lkcyUyMHNwb3J0cyUyMGluZG9vcnxlbnwwfHx8fDE3MTcwNzgxNDJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "football",
+        "basketball",
+        "active play"
+      ]
+    },
+    {
+      "id": "MKD_MSA_02",
+      "name": "Benue Active Kids Zone",
+      "short_description": "A versatile indoor arena for children to try out different sports like mini-tennis, badminton, and dodgeball. Encourages teamwork and physical activity in a safe environment.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Near Benue State University, Makurdi, Benue State",
+      "opening_hours": "11:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1588698944583-0498a87a2727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyNnx8a2lkcyUyMHNwb3J0cyUyMGluZG9vcnxlbnwwfHx8fDE3MTcwNzgxNDN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "multi-sport",
+        "fitness",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "MKD_MSA_03",
+      "name": "Tiny Titans Arena",
+      "short_description": "Designed for toddlers and preschoolers, this mini arena offers soft play versions of popular sports, focusing on coordination and motor skill development through fun games.",
+      "subtype": "Mini Sports Arenas",
+      "address": "New Makurdi GRA, Makurdi, Benue State",
+      "opening_hours": "09:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1629859558452-f41e06497f53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwzOHx8a2lkcyUyMGluZG9vciUyMHNwb3J0c3xlbnwwfHx8fDE3MTcwNzgxNDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "toddler",
+        "motor skills",
+        "safe play"
+      ]
+    },
+    {
+      "id": "MKD_MSA_04",
+      "name": "Sports Starters Complex",
+      "short_description": "An innovative center where kids can try mini versions of athletics, gymnastics, and obstacle courses. Fosters a love for sports and a healthy, active lifestyle.",
+      "subtype": "Mini Sports Arenas",
+      "address": "34 Railway Bye-Pass, Makurdi, Benue State",
+      "opening_hours": "13:00-19:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1558364273-0d3a5160807b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHw0OHx8a2lkcyUyMHNwb3J0cyUyMGluZG9vcnxlbnwwfHx8fDE3MTcwNzgxNDd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "athletics",
+        "gymnastics",
+        "obstacle course"
+      ]
+    },
+    {
+      "id": "MKD_IPC_01",
+      "name": "Makurdi Funhouse Express",
+      "short_description": "A multi-level indoor play structure with slides, tunnels, and climbing frames for endless fun. Features separate soft play zones for infants and toddlers.",
+      "subtype": "Indoor Play Centers",
+      "address": "10 Tito Gate, Makurdi, Benue State",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596700868884-29759d57a66b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyN3x8aW5kb29yJTIwcGxheWdyb3VuZCUyMGtpZHN8ZW58MHx8fHwxNzE3MDc4MzU3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "soft play",
+        "slides",
+        "climbing"
+      ]
+    },
+    {
+      "id": "MKD_IPC_02",
+      "name": "Benue Bouncy Castle World",
+      "short_description": "Jump, bounce, and slide through a vibrant collection of inflatable castles and obstacle courses. Ideal for high-energy play and birthday parties.",
+      "subtype": "Indoor Play Centers",
+      "address": "Opposite Benue State Polytechnic, Makurdi, Benue State",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621245785023-c5b6510b14b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwzNHx8aW5kb29yJTIwcGxheWdyb3VuZCUyMGtpZHN8ZW58MHx8fHwxNzE3MDc4MzU5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "bouncy castle",
+        "inflatable",
+        "birthday party"
+      ]
+    },
+    {
+      "id": "MKD_IPC_03",
+      "name": "Adventure Playland Center",
+      "short_description": "A modern indoor play center featuring interactive games, a massive ball pit, and a creative corner for arts and crafts. Something for every child's interest.",
+      "subtype": "Indoor Play Centers",
+      "address": "Food Basket Roundabout, Makurdi, Benue State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616421453472-887e5b2257e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHw0MXx8aW5kb29yJTIwcGxheWdyb3VuZCUyMGtpZHN8ZW58MHx8fHwxNzE3MDc4MzYwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ball pit",
+        "creative play",
+        "interactive games"
+      ]
+    },
+    {
+      "id": "MKD_IPC_04",
+      "name": "Kids' Discovery Hub",
+      "short_description": "An educational play space with themed rooms for imaginative play, a sensory area for younger children, and a mini-science corner. Encourages learning through play.",
+      "subtype": "Indoor Play Centers",
+      "address": "18 Katsina-Ala Street, Makurdi, Benue State",
+      "opening_hours": "11:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582218084666-419fdfb783cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHw1NXx8aW5kb29yJTIwcGxheWdyb3VuZCUyMGtpZHN8ZW58MHx8fHwxNzE3MDc4MzYyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "educational play",
+        "sensory",
+        "imaginative"
+      ]
+    },
+    {
+      "id": "MKD_CMG_01",
+      "name": "Makurdi Cartoon Gala",
+      "short_description": "Meet your favorite cartoon characters in person at this lively event! Enjoy photo opportunities, character parades, and special performances. Check schedule for character appearances.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Inside Makurdi Mall, Makurdi, Benue State",
+      "opening_hours": "12:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1560935105-88a2c262a265?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHw0fHxtYXNjb3QlMjB3aXRoJTIwa2lkc3xlbnwwfHx8fDE3MTcwNzg2MDJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "characters",
+        "photo op",
+        "parade"
+      ]
+    },
+    {
+      "id": "MKD_CMG_02",
+      "name": "Benue Character Wonderland",
+      "short_description": "A magical place where beloved animated characters come to life! Kids can hug their heroes, get autographs, and participate in themed games and activities.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Off Benue Crescent, Makurdi, Benue State",
+      "opening_hours": "11:00-15:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1579758782976-5a41595156a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwxM3x8Y2FydG9vbiUyMGNoYXJhY3RlciUyMG1lZXR8ZW58MHx8fHwxNzE3MDc4NTk4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animation",
+        "heroes",
+        "autographs"
+      ]
+    },
+    {
+      "id": "MKD_CMG_03",
+      "name": "Super Friends Meet-Up",
+      "short_description": "Join your favorite superhero and princess characters for an unforgettable meet and greet! Enjoy storytelling, singing, and dancing sessions with iconic figures.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Next to Benue Hotels, Makurdi, Benue State",
+      "opening_hours": "14:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1576472099351-c0529d675685?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyOXx8Y2FydG9vbiUyMGNoYXJhY3RlciUyMG1lZXR8ZW58MHx8fHwxNzE3MDc4NjAwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "superheroes",
+        "princesses",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "MKD_CMG_04",
+      "name": "Toon Town Encounters",
+      "short_description": "A delightful experience where kids can interact with a variety of cartoon mascots, play themed games, and capture magical moments. Fun for the whole family!",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "12 Otukpo Road, Makurdi, Benue State",
+      "opening_hours": "10:30-14:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596547190187-b952b12389d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyfHxtYXNjb3QlMjBwYXJ0eXxlbnwwfHx8fDE3MTcwNzg2NTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mascots",
+        "themed games",
+        "family fun"
+      ]
+    },
+    {
+      "id": "MKD_PAP_01",
+      "name": "Makurdi Outdoor Fun Park",
+      "short_description": "A sprawling outdoor park featuring traditional swings, slides, and climbing structures, along with open green spaces for free play and picnics.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Federal Housing Estate, North Bank, Makurdi, Benue State",
+      "opening_hours": "08:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1588147814470-7ac3b1235b5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyMHx8YWR2ZW50dXJlJTIwcGxheWdyb3VuZHxlbnwwfHx8fDE3MTcwNzg4MjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "outdoor",
+        "playground",
+        "picnic"
+      ]
+    },
+    {
+      "id": "MKD_PAP_02",
+      "name": "Benue Adventure Playground",
+      "short_description": "An exciting adventure park with challenging rope courses, zip lines, and unique climbing walls for older children. Staff supervised for safety and fun.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Behind Mobile Barracks, Makurdi, Benue State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1561706822-297c1d7634f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwzMXx8YWR2ZW50dXJlJTIwcGxheWdyb3VuZHxlbnwwfHx8fDE3MTcwNzg4MjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "adventure",
+        "zip line",
+        "climbing"
+      ]
+    },
+    {
+      "id": "MKD_PAP_03",
+      "name": "Jungle Gym Jamboree",
+      "short_description": "A themed adventure park designed like a jungle, offering various play zones, including treehouse structures, balance beams, and nature-inspired challenges for all ages.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Off Commissioner's Quarters Road, Makurdi, Benue State",
+      "opening_hours": "08:30-18:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1593353424698-c11571dd63f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHw0NXx8YWR2ZW50dXJlJTIwcGxheWdyb3VuZHxlbnwwfHx8fDE3MTcwNzg4MjN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "jungle theme",
+        "nature play",
+        "balance"
+      ]
+    },
+    {
+      "id": "MKD_PAP_04",
+      "name": "Sky High Ropes Course",
+      "short_description": "Test your agility and courage on this aerial ropes course and obstacle challenge. Features different difficulty levels to accommodate various ages and skill sets.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "9 Barracks Road, Makurdi, Benue State",
+      "opening_hours": "10:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1579758782976-5a41595156a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHw2MHx8YWR2ZW50dXJlJTIwcGxheWdyb3VuZHxlbnwwfHx8fDE3MTcwNzg4MjV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ropes course",
+        "challenge",
+        "aerial"
+      ]
+    },
+    {
+      "id": "MKD_CPT_01",
+      "name": "Makurdi Big Top Circus",
+      "short_description": "Witness spectacular acrobats, skilled clowns, and dazzling performers under the iconic big top. A traditional circus experience for the whole family.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Along Ahmadu Bello Way, Makurdi, Benue State",
+      "opening_hours": "17:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1533166547630-f4b005128038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHw1fHxjaXJjdXMlMjB0ZW50fGVufDB8fHx8MTcxNzA3OTE3Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "circus",
+        "acrobatics",
+        "clowns"
+      ]
+    },
+    {
+      "id": "MKD_CPT_02",
+      "name": "Benue Puppet Playhouse",
+      "short_description": "A charming theater dedicated to the art of puppetry. Enjoy classic fairy tales and original stories brought to life by master puppeteers.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Behind Police 'B' Division, Makurdi, Benue State",
+      "opening_hours": "14:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1520163353326-8c50e9eb8f99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHw1fHxwdXBwZXQlMjBzaG93fGVufDB8fHx8MTcxNzA3OTE2OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "puppet show",
+        "storytelling",
+        "theater"
+      ]
+    },
+    {
+      "id": "MKD_CPT_03",
+      "name": "Wonderland Marionette Show",
+      "short_description": "Mesmerizing marionette performances telling intricate stories with beautifully crafted puppets. A unique and enchanting cultural experience for children.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "IBB Square Area, Makurdi, Benue State",
+      "opening_hours": "15:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1585802107469-65b822d4f20b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHw4fHxiaWclMjB0b3AlMjBhY3JvYmF0c3xlbnwwfHx8fDE3MTcwNzkyMDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marionette",
+        "cultural",
+        "enchanting"
+      ]
+    },
+    {
+      "id": "MKD_CPT_04",
+      "name": "Acrobatics & Laughter Tent",
+      "short_description": "A smaller, family-friendly circus tent focusing on engaging acrobatic feats, juggling, and comedic acts designed to entertain young audiences.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "20 Gboko Road, Makurdi, Benue State",
+      "opening_hours": "16:30-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582218084666-419fdfb783cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyMHx8Y2lyY3VzJTIwZmFtaWx5fGVufDB8fHx8MTcxNzA3OTE3M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "juggling",
+        "comedy",
+        "family show"
+      ]
+    },
+    {
+      "id": "MKD_AQG_01",
+      "name": "Makurdi Mystery Quest",
+      "short_description": "An exciting indoor adventure where teams solve puzzles, decode clues, and complete challenges to uncover a hidden mystery. Perfect for curious minds aged 8+.",
+      "subtype": "Adventure & Quest Games",
+      "address": "North Bank Ring Road, Makurdi, Benue State",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1527799824672-9118c7c9ad5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwxOXx8a2lkcyUyMGVzY2FwZSUyMHJvb218ZW58MHx8fDE3MTcwNzkzMzR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "escape room",
+        "puzzles",
+        "team challenge"
+      ]
+    },
+    {
+      "id": "MKD_AQG_02",
+      "name": "Benue Treasure Hunt Lab",
+      "short_description": "Embark on an epic treasure hunt across a specially designed indoor and outdoor course. Follow the map, solve riddles, and discover the hidden prize!",
+      "subtype": "Adventure & Quest Games",
+      "address": "Opposite Modern Market, Makurdi, Benue State",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533038622839-a9a35e46dd70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyN3x8a2lkcyUyMHRyZWFzdXJlJTIwaHVudHxlbnwwfHx8fDE3MTcwNzkzMzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "treasure hunt",
+        "riddles",
+        "exploration"
+      ]
+    },
+    {
+      "id": "MKD_AQG_03",
+      "name": "The Lost Artifact Challenge",
+      "short_description": "A thrilling interactive quest game where children become explorers, tasked with retrieving a lost artifact through a series of physical and mental challenges.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Makurdi Club Street, Makurdi, Benue State",
+      "opening_hours": "11:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1579758782976-5a41595156a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwzMXx8a2lkcyUyMGFkdmVudHVyZSUyMGdhbWV8ZW58MHx8fDE3MTcwNzkzMzd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "explorer",
+        "physical challenge",
+        "role-play"
+      ]
+    },
+    {
+      "id": "MKD_AQG_04",
+      "name": "Code Breaker Kids' Mission",
+      "short_description": "A spy-themed adventure game where children work together to crack codes, solve ciphers, and complete secret missions. Develops critical thinking and problem-solving skills.",
+      "subtype": "Adventure & Quest Games",
+      "address": "7 Tito Gate, Makurdi, Benue State",
+      "opening_hours": "13:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1524385351811-042125553e18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHw0OXx8a2lkcyUyMHF1ZXN0JTIwZ2FtZXN8ZW58MHx8fDE3MTcwNzkzNDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "spy game",
+        "logic puzzles",
+        "critical thinking"
+      ]
+    },
+    {
+      "id": "MKD_AQ_01",
+      "name": "Makurdi Underwater World",
+      "short_description": "Dive into the fascinating world beneath the waves with a diverse collection of marine and freshwater species. Features educational exhibits and feeding schedules.",
+      "subtype": "Aquariums",
+      "address": "Along Benue River Bank, Makurdi, Benue State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1555562723-a25e64032483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyN3x8YWNxdWFyaXVtJTIwa2lkc3xlbnwwfHx8fDE3MTcwNzk1NzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marine life",
+        "fish",
+        "underwater"
+      ]
+    },
+    {
+      "id": "MKD_AQ_02",
+      "name": "Benue Riverine Aquarium",
+      "short_description": "Discover the aquatic life native to the Benue River and other Nigerian waterways, alongside a collection of tropical fish. An insightful look into local biodiversity.",
+      "subtype": "Aquariums",
+      "address": "Near Old Bridge, Makurdi, Benue State",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1559869680-a61427c5950d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwyOHx8YWNxdWFyaXVtJTIwa2lkc3xlbnwwfHx8fDE3MTcwNzk1NzR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "freshwater fish",
+        "local species",
+        "biodiversity"
+      ]
+    },
+    {
+      "id": "MKD_AQ_03",
+      "name": "Ocean Depths Discovery",
+      "short_description": "Explore the mysteries of the deep sea with impressive large tanks, interactive touch pools, and immersive exhibits showcasing sharks, rays, and colorful coral reefs.",
+      "subtype": "Aquariums",
+      "address": "Opp. College of Health Sciences, Makurdi, Benue State",
+      "opening_hours": "11:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1552553427-b67710328908?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwzMHx8YWNxdWFyaXVtJTIwa2lkc3xlbnwwfHx8fDE3MTcwNzk1NzV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ocean",
+        "coral reef",
+        "sharks"
+      ]
+    },
+    {
+      "id": "MKD_AQ_04",
+      "name": "Coral Reef Kids Center",
+      "short_description": "A family-friendly aquarium focused on the vibrant life of coral reefs. Features smaller, accessible tanks, a children's activity area, and daily educational presentations.",
+      "subtype": "Aquariums",
+      "address": "14 George Akume Road, Makurdi, Benue State",
+      "opening_hours": "09:30-15:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582218084666-419fdfb783cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MTU3Mzd8MHwxfHNlYXJjaHwzMXx8YWNxdWFyaXVtJTIwa2lkc3xlbnwwfHx8fDE3MTcwNzk1NzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coral",
+        "tropical fish",
+        "children's activities"
+      ]
+    }
+  ]
+}

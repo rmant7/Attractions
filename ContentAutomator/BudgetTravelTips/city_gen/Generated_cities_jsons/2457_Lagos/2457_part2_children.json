@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Lagos",
+    "city_id": "2457"
+  },
+  "items": [
+    {
+      "id": "DinoLagos001",
+      "name": "Dino Jungle Lagos",
+      "short_description": "Roam with life-sized animatronic dinosaurs in a lush, prehistoric setting. Kids can excavate fossils and learn about ancient creatures.",
+      "subtype": "Dinosaur Parks",
+      "address": "Plot 1, Lekki-Epe Expressway, Ibeju-Lekki, Lagos",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1691656209827-02052b04f762?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dinosaurs",
+        "paleontology",
+        "adventure"
+      ]
+    },
+    {
+      "id": "DinoLagos002",
+      "name": "Prehistoric Park Adventure",
+      "short_description": "An interactive park featuring baby dinosaur petting zones, virtual reality dino rides, and a thrilling treetop walkway.",
+      "subtype": "Dinosaur Parks",
+      "address": "45 Victoria Arobieke Street, Lekki Phase 1, Lagos",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627993077673-03091001550c?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "VR rides",
+        "interactive",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "DinoLagos003",
+      "name": "Reptile Ridge Safari",
+      "short_description": "Discover life-sized dinosaur models hidden along a jungle trail, complete with sound effects and a fossil digging sandbox for young paleontologists.",
+      "subtype": "Dinosaur Parks",
+      "address": "Near Freedom Park, Broad Street, Lagos Island, Lagos",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1610486955030-9759c8828b80?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "safari",
+        "exploration",
+        "history"
+      ]
+    },
+    {
+      "id": "DinoLagos004",
+      "name": "Jurassic Coast Kids",
+      "short_description": "A themed playground with dinosaur-shaped slides, climbing frames, and an educational center showcasing the Mesozoic Era.",
+      "subtype": "Dinosaur Parks",
+      "address": "Plot 24, Admiralty Way, Lekki Phase 1, Lagos",
+      "opening_hours": "08:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549487560-64f331776599?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "playground",
+        "educational",
+        "outdoors"
+      ]
+    },
+    {
+      "id": "FairyLagos001",
+      "name": "Enchanted Forest of Lagos",
+      "short_description": "Step into a magical realm where classic fairy tale characters come to life, offering interactive shows and story time sessions amidst whimsical gardens.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Oba Elegushi Road, Lekki, Lagos",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1544376722-127e997f0a8d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fantasy",
+        "storytelling",
+        "characters"
+      ]
+    },
+    {
+      "id": "FairyLagos002",
+      "name": "Princess & Dragon Land",
+      "short_description": "A vibrant park dedicated to princesses, knights, and friendly dragons, featuring themed rides, costume dress-up, and medieval games.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Block B, Plot 5, Banana Island, Ikoyi, Lagos",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1600863004845-d85c8f8b8e8f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "princesses",
+        "knights",
+        "rides"
+      ]
+    },
+    {
+      "id": "FairyLagos003",
+      "name": "Wizzy's Wonderland",
+      "short_description": "An imaginative world inspired by 'Alice in Wonderland', with mazes, tea parties, and optical illusions that challenge perception.",
+      "subtype": "Fairy Tale Parks",
+      "address": "12 Acme Road, Ikeja, Lagos",
+      "opening_hours": "10:30-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589178052140-5a3b9d6e4b2d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Alice in Wonderland",
+        "mazes",
+        "imagination"
+      ]
+    },
+    {
+      "id": "FairyLagos004",
+      "name": "Gnome's Grove Garden",
+      "short_description": "A charming, smaller park where children can explore miniature houses, discover hidden gnomes, and participate in nature-themed crafts.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Admiralty Way, Off Freedom Way, Lekki Phase 1, Lagos",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1594833246755-d4c38d58c1f0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "crafts",
+        "goblins"
+      ]
+    },
+    {
+      "id": "SportLagos001",
+      "name": "Lagos Mini Champs Stadium",
+      "short_description": "A multi-sport complex designed for children, offering mini football pitches, basketball courts, and track & field activities with professional coaching.",
+      "subtype": "Mini Sports Arenas",
+      "address": "34 Bourdillon Road, Ikoyi, Lagos",
+      "opening_hours": "08:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579295598583-b78972f3d6b0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "football",
+        "basketball",
+        "coaching"
+      ]
+    },
+    {
+      "id": "SportLagos002",
+      "name": "Ikoyi Kids Sports Hub",
+      "short_description": "Focusing on younger children, this hub provides age-appropriate equipment for gymnastics, mini-tennis, and martial arts introductory classes.",
+      "subtype": "Mini Sports Arenas",
+      "address": "17 Femi Okunnu Road, Ikoyi, Lagos",
+      "opening_hours": "09:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1574687612984-754f9a0662d0?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "gymnastics",
+        "tennis",
+        "martial arts"
+      ]
+    },
+    {
+      "id": "SportLagos003",
+      "name": "Victory Play Arena",
+      "short_description": "An indoor mini sports arena perfect for all weather, offering dodgeball, soft play areas, and indoor soccer leagues for kids of all ages.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Shoprite Jakande, Lekki-Epe Expy, Lagos",
+      "opening_hours": "10:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1518608298758-c07a9761e089?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "indoor sports",
+        "soccer",
+        "dodgeball"
+      ]
+    },
+    {
+      "id": "SportLagos004",
+      "name": "Little Legends Sports Park",
+      "short_description": "An outdoor park with various mini-pitches for street hockey, handball, and an obstacle course to develop agility and teamwork.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Ikeja City Mall, Alausa, Ikeja, Lagos",
+      "opening_hours": "07:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1590740625390-d51d50c26880?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "outdoor sports",
+        "obstacle course",
+        "agility"
+      ]
+    },
+    {
+      "id": "MagicLagos001",
+      "name": "Mystical Minds Theater",
+      "short_description": "Witness mind-bending illusions and classic magic tricks performed by Lagos's top family-friendly magicians. Audience participation is key!",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Silverbird Galleria, 133 Ahmadu Bello Way, Victoria Island, Lagos",
+      "opening_hours": "14:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621259585913-91147a46c1a8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "magic show",
+        "illusions",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "MagicLagos002",
+      "name": "Lagos Illusion Palace",
+      "short_description": "A dedicated venue for grand illusion performances, featuring levitations, disappearances, and interactive magic workshops for kids.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Plot 10, City of David Road, Oniru, Lekki, Lagos",
+      "opening_hours": "16:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1606550711684-257a06655c68?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "grand illusions",
+        "workshops",
+        "spectacle"
+      ]
+    },
+    {
+      "id": "MagicLagos003",
+      "name": "Grand Magic Matinee",
+      "short_description": "Enjoy a captivating afternoon of close-up magic, card tricks, and comedic acts suitable for all ages, often with special guest magicians.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Terra Kulture, Tiamiyu Savage St, Victoria Island, Lagos",
+      "opening_hours": "13:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627993077673-03091001550c?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "close-up magic",
+        "comedy",
+        "matinee"
+      ]
+    },
+    {
+      "id": "MagicLagos004",
+      "name": "Enigma Entertainment Show",
+      "short_description": "A dynamic show blending magic with storytelling and interactive elements, designed to spark wonder and curiosity in young audiences.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "The Muson Centre, 8/9 Marina, Onikan, Lagos Island, Lagos",
+      "opening_hours": "17:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510511459019-5be7293ef1a1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive",
+        "wonder",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": "StoryLagos001",
+      "name": "African Tales Park",
+      "short_description": "Immerse yourselves in vibrant African folklore with live performances, puppet shows, and interactive storytelling sessions under ancient trees.",
+      "subtype": "Storytelling Parks",
+      "address": "National Arts Theatre, Iganmu, Lagos",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601666879105-df3c9489f41b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "folklore",
+        "puppet shows",
+        "culture"
+      ]
+    },
+    {
+      "id": "StoryLagos002",
+      "name": "Whispering Woods Storyland",
+      "short_description": "A serene park designed for quiet contemplation and imaginative play, where storytellers share tales and children can create their own narratives.",
+      "subtype": "Storytelling Parks",
+      "address": "Lekki Conservation Centre Road, Lekki, Lagos",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1528659616233-0b1a629b008d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "imagination",
+        "nature",
+        "creativity"
+      ]
+    },
+    {
+      "id": "StoryLagos003",
+      "name": "Fables & Friends Garden",
+      "short_description": "A colorful garden filled with sculptures of beloved storybook characters, offering guided storytelling walks and interactive scavenger hunts.",
+      "subtype": "Storytelling Parks",
+      "address": "Tafawa Balewa Square, Onikan, Lagos Island, Lagos",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1543160432-6a6d36e2f1f6?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "storybook",
+        "sculptures",
+        "garden"
+      ]
+    },
+    {
+      "id": "StoryLagos004",
+      "name": "The Storyteller's Corner",
+      "short_description": "An intimate indoor and outdoor space dedicated to sharing global myths and legends through dramatic readings, music, and craft activities.",
+      "subtype": "Storytelling Parks",
+      "address": "The Metaphor, 78 Ogunlana Drive, Surulere, Lagos",
+      "opening_hours": "12:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510531704581-5e575e3fa70c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "myths",
+        "legends",
+        "crafts"
+      ]
+    },
+    {
+      "id": "WaterLagos001",
+      "name": "Splash Island Kids Resort",
+      "short_description": "A fantastic water park exclusively for kids, featuring safe splash pads, mini slides, and a lazy river designed for young adventurers.",
+      "subtype": "Water Parks for Kids",
+      "address": "KM 22, Lekki-Epe Expressway, Ajah, Lagos",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582234057960-e4142f36f32e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "splash pads",
+        "water slides",
+        "family fun"
+      ]
+    },
+    {
+      "id": "WaterLagos002",
+      "name": "Wet N' Wild Lagos Jr.",
+      "short_description": "Smaller scale water attractions including a wave pool, toddler-friendly slides, and water cannons, perfect for a sunny day out.",
+      "subtype": "Water Parks for Kids",
+      "address": "4 Block L, Admiralty Way, Lekki Phase 1, Lagos",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628178877524-11e2f759620b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wave pool",
+        "toddler friendly",
+        "water fun"
+      ]
+    },
+    {
+      "id": "WaterLagos003",
+      "name": "Aqua Adventure Land",
+      "short_description": "Experience thrilling water rides and an elaborate water playground with tipping buckets and interactive fountains, all designed for kids' safety.",
+      "subtype": "Water Parks for Kids",
+      "address": "Shoprite Ikeja, Obafemi Awolowo Way, Ikeja, Lagos",
+      "opening_hours": "10:30-18:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549487560-64f331776599?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "thrilling rides",
+        "water playground",
+        "safety"
+      ]
+    },
+    {
+      "id": "WaterLagos004",
+      "name": "Tidal Fun Zone",
+      "short_description": "A compact water play area featuring shallow pools, mini sprinklers, and fun water games, ideal for very young children.",
+      "subtype": "Water Parks for Kids",
+      "address": "Eko Atlantic City, Ahmadu Bello Way, Victoria Island, Lagos",
+      "opening_hours": "11:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1502691651717-d2ee45564491?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "shallow pools",
+        "water games",
+        "toddler"
+      ]
+    },
+    {
+      "id": "LegoLagos001",
+      "name": "Bricky Builders Bay",
+      "short_description": "An expansive indoor park filled with LEGO bricks of all sizes, offering free play zones, building challenges, and a master builder workshop.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Maryland Mall, Ikorodu Road, Maryland, Lagos",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627993077673-03091001550c?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "LEGO",
+        "building",
+        "creativity"
+      ]
+    },
+    {
+      "id": "LegoLagos002",
+      "name": "Lagos Block Kingdom",
+      "short_description": "Journey through themed worlds built entirely from blocks, featuring interactive displays, a LEGO train ride, and brick-themed playgrounds.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Centro Mall, Admiralty Way, Lekki Phase 1, Lagos",
+      "opening_hours": "11:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510511459019-5be7293ef1a1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "block building",
+        "themed worlds",
+        "train ride"
+      ]
+    },
+    {
+      "id": "LegoLagos003",
+      "name": "Master Builder's Workshop",
+      "short_description": "A hands-on center where children can learn advanced building techniques, participate in robotics challenges, and display their creations.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "The Palms Shopping Mall, Bisola Durosinmi Etti Dr, Lekki, Lagos",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1600863004845-d85c8f8b8e8f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "robotics",
+        "STEM",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "LegoLagos004",
+      "name": "Construct & Play City",
+      "short_description": "An imaginative city scape built with large construction blocks, allowing kids to build and demolish structures, fostering engineering skills.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "29 Bode Thomas St, Surulere, Lagos",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1544376722-127e997f0a8d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "construction",
+        "engineering",
+        "free play"
+      ]
+    },
+    {
+      "id": "QuestLagos001",
+      "name": "Lagos Quest Masters",
+      "short_description": "Embark on thrilling indoor and outdoor quests with puzzles, riddles, and physical challenges designed for team-building and critical thinking.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Landmark Event Centre, Water Corporation Road, Victoria Island, Lagos",
+      "opening_hours": "10:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1620023023249-f53835694a97?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "escape room",
+        "puzzles",
+        "team building"
+      ]
+    },
+    {
+      "id": "QuestLagos002",
+      "name": "Treasure Trove Challenge",
+      "short_description": "Follow maps and clues to uncover hidden treasures in a meticulously designed themed environment, perfect for pirates and explorers.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Chaka Leisure Park, Badagry Expressway, Lagos",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579295598583-b78972f3d6b0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "treasure hunt",
+        "pirates",
+        "exploration"
+      ]
+    },
+    {
+      "id": "QuestLagos003",
+      "name": "Mystery Manor Escape",
+      "short_description": "A family-friendly escape room experience where kids solve mysteries and uncover secrets within a haunted manor themed setting.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Jhalobia Recreation Park, Murtala Muhammed Airport Rd, Lagos",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1594833246755-d4c38d58c1f0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "escape room",
+        "mystery",
+        "indoor game"
+      ]
+    },
+    {
+      "id": "QuestLagos004",
+      "name": "Jungle Explorer Mission",
+      "short_description": "An outdoor adventure course with ropes, bridges, and zip lines, where kids navigate a 'jungle' to complete a mission and find artifacts.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Lekki-Epe Expressway, Adjacent Chevron, Lagos",
+      "opening_hours": "08:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1543160432-6a6d36e2f1f6?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "outdoor adventure",
+        "zip line",
+        "physical challenge"
+      ]
+    },
+    {
+      "id": "PlaneLagos001",
+      "name": "Starlight Kids Observatory",
+      "short_description": "A child-friendly planetarium offering immersive dome shows about stars, planets, and constellations, perfect for budding astronomers.",
+      "subtype": "Planetariums for Kids",
+      "address": "University of Lagos, Akoka, Yaba, Lagos",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533035133604-0c2b2b1a9e3e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "stars",
+        "planets",
+        "astronomy"
+      ]
+    },
+    {
+      "id": "PlaneLagos002",
+      "name": "Cosmos Junior Dome",
+      "short_description": "Experience breathtaking virtual journeys through space in a state-of-the-art digital dome, with interactive exhibits on space exploration.",
+      "subtype": "Planetariums for Kids",
+      "address": "Lagos State University, Badagry Expressway, Ojo, Lagos",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1541870634-118833076ff1?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "space exploration",
+        "virtual reality",
+        "solar system"
+      ]
+    },
+    {
+      "id": "PlaneLagos003",
+      "name": "Galactic Explorers Hub",
+      "short_description": "Beyond the dome, this hub features hands-on activities, build-your-own rocket workshops, and displays of meteorites and space artifacts.",
+      "subtype": "Planetariums for Kids",
+      "address": "Nigerian Air Force Base, Ikeja, Lagos",
+      "opening_hours": "09:00-15:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1509657470557-0a4a5b6f3b0c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "rockets",
+        "meteorites",
+        "space artifacts"
+      ]
+    },
+    {
+      "id": "PlaneLagos004",
+      "name": "Astro Kids Planetarium",
+      "short_description": "Educational shows tailored for different age groups, exploring lunar cycles, planetary missions, and the magic of the night sky.",
+      "subtype": "Planetariums for Kids",
+      "address": "Civic Centre, Ozumba Mbadiwe Ave, Victoria Island, Lagos",
+      "opening_hours": "13:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510511459019-5be7293ef1a1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "lunar",
+        "night sky",
+        "educational"
+      ]
+    },
+    {
+      "id": "SciLagos001",
+      "name": "Invento Kids Lab",
+      "short_description": "A dynamic science center where children conduct safe experiments, build gadgets, and explore principles of physics and chemistry hands-on.",
+      "subtype": "Science Centers",
+      "address": "Shoprite Circle Mall, Jakande, Lekki-Epe Expy, Lagos",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582719225883-7d5a0c3b0f5e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "experiments",
+        "physics",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "SciLagos002",
+      "name": "Discovery Zone Lagos",
+      "short_description": "Interactive exhibits cover biology, technology, and engineering, with engaging displays and workshops for children of all ages.",
+      "subtype": "Science Centers",
+      "address": "National Museum, Onikan, Lagos Island, Lagos",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1541870634-118833076ff1?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "biology",
+        "technology",
+        "engineering"
+      ]
+    },
+    {
+      "id": "SciLagos003",
+      "name": "Little Einsteins Academy",
+      "short_description": "A learning hub focused on early childhood science education, offering sensory play, simple machines, and nature exploration activities.",
+      "subtype": "Science Centers",
+      "address": "15 Wole Ariyo Street, Lekki Phase 1, Lagos",
+      "opening_hours": "08:30-16:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1618384218320-a681d4a0f443?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "early learning",
+        "sensory play",
+        "nature"
+      ]
+    },
+    {
+      "id": "SciLagos004",
+      "name": "Future Innovators Center",
+      "short_description": "Empowering older kids with coding bootcamps, robotics competitions, and advanced workshops in renewable energy and sustainable technology.",
+      "subtype": "Science Centers",
+      "address": "Yaba College of Technology, Yaba, Lagos",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594833246755-d4c38d58c1f0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "coding",
+        "robotics",
+        "STEM education"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Saint Kitts",
+    "city_id": "2445"
+  },
+  "items": [
+    {
+      "id": "SKTPK001",
+      "name": "Frigate Bay Family Funland",
+      "short_description": "A vibrant mini-theme park with gentle rides, splash pads, and island-themed attractions perfect for younger children.",
+      "subtype": "Theme Parks for Kids",
+      "address": "South Frigate Bay Road, Frigate Bay, Saint Kitts",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579548122040-fb4432de791d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxraWRzJTIwdGhlbWUlMjBwYXJrfGVufDB8fHx8MTcwMTU3MzAwMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "rides",
+        "water play",
+        "family fun"
+      ]
+    },
+    {
+      "id": "SKTPK002",
+      "name": "Sugar Cane Kidz World",
+      "short_description": "Explore the history of St. Kitts through interactive exhibits, small-scale replicas, and a fun 'sugar cane' train ride for kids.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Wingfield Estate Road, Old Road Town, Saint Kitts",
+      "opening_hours": "09:30-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627855013757-0a9b8e8f8c4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxraWRzJTIwYWR2ZW50dXJlJTIwcGFya3xlbnwwfHx8fDE3MDE1NzMyMjZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "history",
+        "train ride",
+        "educational"
+      ]
+    },
+    {
+      "id": "SKTPK003",
+      "name": "Basseterre Beach Adventure Land",
+      "short_description": "Located near the port, this park offers a pirate-themed playground, small carnival games, and a mini-golf course for young adventurers.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Port Zante Esplanade, Basseterre, Saint Kitts",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549880629-b6845348b67f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxiaXJ0aGRheSUyMHBhcnR5JTIwcGFya3xlbnwwfHx8fDE3MDE1NzMyMjZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "pirate theme",
+        "mini-golf",
+        "games"
+      ]
+    },
+    {
+      "id": "SKTPK004",
+      "name": "Palmetto Point Play Oasis",
+      "short_description": "A smaller, eco-friendly park focused on nature play, featuring climbing structures, sensory gardens, and a nature trail walk.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Palmetto Point Road, Half Moon Bay, Saint Kitts",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1626243290076-2e2e2e2e2e2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjBwbGF5Z3JvdW5kfGVufDB8fHx8MTcwMTU3MzIyN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature play",
+        "eco-friendly",
+        "climbing"
+      ]
+    },
+    {
+      "id": "SKSTP001",
+      "name": "Monkey Hill Folklore Garden",
+      "short_description": "Wander through lush gardens where local stories of mischievous monkeys and ancient island spirits come alive through interactive displays and narrated audio tours.",
+      "subtype": "Storytelling Parks",
+      "address": "Monkey Hill Road, St. Peter's, Saint Kitts",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616478950587-87a38f38c3e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxzdG9yeXRlbGxpbmclMjBwYXJrfGVufDB8fHx8MTcwMTU3MzU3Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "folklore",
+        "nature",
+        "audio tour"
+      ]
+    },
+    {
+      "id": "SKSTP002",
+      "name": "Carib Tales Trail",
+      "short_description": "An interpretive walking trail showcasing the indigenous Carib history and legends of St. Kitts through carved totems, art installations, and guided storytelling sessions.",
+      "subtype": "Storytelling Parks",
+      "address": "Bloody Point Historic Site, Old Road Town, Saint Kitts",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563831885068-07b9e0f6f7d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxpbnRlcnByZXRpdmUlMjB0cmFpbHxlbnwwfHx8fDE3MDE1NzM1NzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "history",
+        "indigenous",
+        "legends"
+      ]
+    },
+    {
+      "id": "SKSTP003",
+      "name": "The Golden Rock Narratives",
+      "short_description": "Set amidst the ruins of a historic sugar estate, this park uses theatrical performances and interactive exhibits to tell stories of plantation life and the island's journey to freedom.",
+      "subtype": "Storytelling Parks",
+      "address": "Golden Rock Estate, Cayon, Saint Kitts",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549842441-2b0e6e8e8e8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxydWluZWQlMjBlc3RhdGV8ZW5wMTcwMTU3MzU3M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "history",
+        "theatre",
+        "cultural"
+      ]
+    },
+    {
+      "id": "SKSTP004",
+      "name": "Sea Turtle Legend Lagoon",
+      "short_description": "A tranquil park dedicated to sea turtle conservation, sharing ancient legends and scientific facts about these marine creatures through illustrated storyboards and a small educational center.",
+      "subtype": "Storytelling Parks",
+      "address": "North Friars Bay Road, Frigate Bay, Saint Kitts",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510414436-1e9d1e1c1c1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxzZWF0dXJ0bGUlMjBlZHVjYXRpb258ZW5wMTcwMTU3MzU3M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "conservation",
+        "marine life",
+        "legends"
+      ]
+    },
+    {
+      "id": "SKCMG001",
+      "name": "Parrot Pete's Caribbean Crew",
+      "short_description": "Meet and greet with Parrot Pete and his friendly Caribbean animal cartoon friends, offering photo opportunities and mini-dance parties.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Port Zante Esplanade, Basseterre, Saint Kitts",
+      "opening_hours": "10:00-14:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574768393521-0428d01b17d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxjYXJ0b29uJTIwY2hhcmFjdGVyc3xlbnwwfHx8fDE3MDE1NzM5OTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "characters",
+        "photos",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "SKCMG002",
+      "name": "Mango Monkey Mascot Meet-up",
+      "short_description": "Kids can interact with the island's beloved Mango Monkey mascot and his jungle buddies, receiving high-fives and taking memorable pictures.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "South Frigate Bay Beach, Frigate Bay, Saint Kitts",
+      "opening_hours": "11:00-13:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596773223048-b4b0e8b2b7b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxtYXNjb3RzJTIwZm9yJTIwa2lkc3xlbnwwfHx8fDE3MDE1NzM5OTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mascots",
+        "photos",
+        "beach fun"
+      ]
+    },
+    {
+      "id": "SKCMG003",
+      "name": "Sea Star Sammy & Friends",
+      "short_description": "A charming meet and greet with marine-themed cartoon characters like Sea Star Sammy and Dolphin Dolly, promoting ocean awareness in a fun way.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Oualie Bay Resort, St. Kitts (near jetty)",
+      "opening_hours": "10:30-12:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1620743621450-482f34f0c40e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxtYXJpbmUlMjBjaGFyYWN0ZXJzJTIwa2lkc3xlbnwwfHx8fDE3MDE1NzM5OTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marine life",
+        "education",
+        "free event"
+      ]
+    },
+    {
+      "id": "SKCMG004",
+      "name": "Jungle Friends Jamboree",
+      "short_description": "Meet a variety of friendly jungle animal characters inspired by St. Kitts' rainforest, perfect for playful interactions and photo ops.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Central Forest Reserve, St. Paul's, Saint Kitts",
+      "opening_hours": "09:00-11:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510414436-1e9d1e1c1c1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxhbmltYWwlMjBtYXNjb3RzJTIwa2lkc3xlbnwwfHx8fDE3MDE1NzM5OTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "rainforest",
+        "animals",
+        "interactive"
+      ]
+    },
+    {
+      "id": "SKFMA001",
+      "name": "Wingfield Estate Animal Encounter",
+      "short_description": "A historic estate offering a petting zoo with local farm animals, a nature walk, and insight into traditional farming practices.",
+      "subtype": "Farm Attractions",
+      "address": "Wingfield Estate, Old Road Town, Saint Kitts",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1595130386794-0f2d8d8d8d8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxwZXR0aW5nJTIwem9vJTIwa2lkc3xlbnwwfHx8fDE3MDE1NzQ0MTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "petting zoo",
+        "history",
+        "farm animals"
+      ]
+    },
+    {
+      "id": "SKFMA002",
+      "name": "Cayon Community Farm Visit",
+      "short_description": "Experience a working community farm where kids can learn about fruit and vegetable cultivation, feed chickens, and enjoy fresh local produce.",
+      "subtype": "Farm Attractions",
+      "address": "Upper Cayon Main Road, Cayon, Saint Kitts",
+      "opening_hours": "10:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1516246816213-d3d6d5d5d5d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxmYXJtJTIwdG91cnxlbnwwfHx8fDE3MDE1NzQ0MTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "agriculture",
+        "education",
+        "fresh produce"
+      ]
+    },
+    {
+      "id": "SKFMA003",
+      "name": "Basseterre Barnyard Buddies",
+      "short_description": "A small, accessible farm experience near the capital, featuring friendly goats, sheep, and playful piglets. Perfect for younger children.",
+      "subtype": "Farm Attractions",
+      "address": "Challengers Village Road, Basseterre, Saint Kitts",
+      "opening_hours": "09:30-14:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1552046122-0d1a1b1a1b1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxmYXJtJTIwYW5pbWFscyUyMGtpZHN8ZW5wMTcwMTU3NDQxMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "petting zoo",
+        "animals",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "SKFMA004",
+      "name": "Green Acres Eco Farm",
+      "short_description": "An organic eco-farm offering tours, goat milking demonstrations, and hands-on activities like planting seedlings. Learn about sustainable farming.",
+      "subtype": "Farm Attractions",
+      "address": "Dieppe Bay Main Road, Dieppe Bay Town, Saint Kitts",
+      "opening_hours": "08:00-13:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601006124508-3a9b1c7c9a6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxvcmdhbmljJTIwZmFybXxlbnwwfHx8fDE3MDE1NzQ0MTF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "organic farming",
+        "sustainable",
+        "goat milking"
+      ]
+    },
+    {
+      "id": "SKPKI001",
+      "name": "St. Kitts Stargazer Dome",
+      "short_description": "A compact, inflatable planetarium offering immersive 360-degree shows about stars, planets, and constellations tailored for young audiences.",
+      "subtype": "Planetariums for Kids",
+      "address": "Warner Park, Basseterre, Saint Kitts (mobile setup)",
+      "opening_hours": "16:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1617467770000-0e9e9e9e9e9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxpbmZsYXRhYmxlJTIwcGxhbmV0YXJpdW18ZW5wMTcwMTU3NDgxM3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "interactive",
+        "educational"
+      ]
+    },
+    {
+      "id": "SKPKI002",
+      "name": "Cosmic Voyage Kids Lab",
+      "short_description": "Part of the local science center, this small planetarium combines star shows with hands-on space-themed experiments and activities for children.",
+      "subtype": "Planetariums for Kids",
+      "address": "Taylor's Range Road, Basseterre, Saint Kitts",
+      "opening_hours": "13:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1543722530-d2c3132e44d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxzcGFjZSUyMGxhYnxlbnwwfHx8fDE3MDE1NzQ4MTR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "science",
+        "experiments",
+        "stars"
+      ]
+    },
+    {
+      "id": "SKPKI003",
+      "name": "Island Sky Storyteller",
+      "short_description": "A unique open-air experience where a guide uses a laser pointer and a powerful telescope to tell ancient myths and point out real constellations visible from St. Kitts.",
+      "subtype": "Planetariums for Kids",
+      "address": "Timothy Hill Lookout, Frigate Bay, Saint Kitts",
+      "opening_hours": "18:30-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1601006124508-3a9b1c7c9a6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwY2VudGVyfGVufDB8fHx8MTcwMTU3NDgxNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "night sky",
+        "telescope",
+        "myths"
+      ]
+    },
+    {
+      "id": "SKPKI004",
+      "name": "Little Astronauts Academy",
+      "short_description": "A pop-up exhibit focusing on space travel and astronaut training, complete with virtual reality simulations and a mini-rocket launch experience.",
+      "subtype": "Planetariums for Kids",
+      "address": "Various locations (check schedule), Saint Kitts",
+      "opening_hours": "10:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1541189334542-4f7f4f4f4f4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHx2aXJ0dWFsJTIwcmVhbGl0eSUyMHBhcmtzfGVufDB8fHx8MTcwMTU3NDgxNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "VR",
+        "space exploration",
+        "simulation"
+      ]
+    },
+    {
+      "id": "SKDPK001",
+      "name": "Jurassic Jungle St. Kitts",
+      "short_description": "An outdoor adventure with life-sized animatronic dinosaurs hidden among the foliage, complete with roar sound effects and interpretive signs.",
+      "subtype": "Dinosaur Parks",
+      "address": "Boyd's Village, St. Peter's, Saint Kitts",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxhbmltYXRyb25pYyUyMGRpbm9zYXVyfGVufDB8fHx8MTcwMTU3NTAwM3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animatronics",
+        "prehistoric",
+        "jungle adventure"
+      ]
+    },
+    {
+      "id": "SKDPK002",
+      "name": "Prehistoric Palm Gardens",
+      "short_description": "A botanical garden themed with smaller, static dinosaur models and fossil replicas, focusing on the plant life that existed during the dinosaur era.",
+      "subtype": "Dinosaur Parks",
+      "address": "Challengers Village Road, Basseterre, Saint Kitts",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxkcmFnb25zJTIwcGFya3xlbnwwfHx8fDE3MDE1NzUwMDN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "botany",
+        "fossils",
+        "models"
+      ]
+    },
+    {
+      "id": "SKDPK003",
+      "name": "Dino Discovery Dig Site",
+      "short_description": "An interactive sand pit where kids can excavate 'dinosaur bones' and learn about paleontology, complete with miniature dinosaur models.",
+      "subtype": "Dinosaur Parks",
+      "address": "South Friars Bay Road, Frigate Bay, Saint Kitts",
+      "opening_hours": "11:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxkZXRlY3RpdmUlMjBhY3Rpdml0aWVzfGVufDB8fHx8MTcwMTU3NTAwM3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "paleontology",
+        "dig site",
+        "interactive"
+      ]
+    },
+    {
+      "id": "SKDPK004",
+      "name": "Raptor Ridge Adventure Course",
+      "short_description": "A themed obstacle course and zip line designed for older kids, featuring dinosaur-inspired challenges and views of the surrounding 'prehistoric' landscape.",
+      "subtype": "Dinosaur Parks",
+      "address": "Cayon Main Road, Cayon, Saint Kitts",
+      "opening_hours": "09:30-16:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxhZHZlbnR1cmUlMjBwYXJrc3xlbnwwfHx8fDE3MDE1NzUwMDR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "obstacle course",
+        "zip line",
+        "adventure"
+      ]
+    },
+    {
+      "id": "SKAMR001",
+      "name": "Caribbean Carousel Spin",
+      "short_description": "A classic, vibrant carousel featuring beautifully carved Caribbean-themed animals like dolphins, monkeys, and colorful birds.",
+      "subtype": "Amusement Rides",
+      "address": "Port Zante Esplanade, Basseterre, Saint Kitts",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxjYXJvdXNlbCUyMHJpZGVzfGVufDB8fHx8MTcwMTU3NTY5OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "carousel",
+        "classic ride",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "SKAMR002",
+      "name": "Sugar Train Express",
+      "short_description": "A miniature train ride that winds through a scenic route, offering views of old sugar cane fields and the island's lush landscape.",
+      "subtype": "Amusement Rides",
+      "address": "Wingfield Estate, Old Road Town, Saint Kitts",
+      "opening_hours": "09:30-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxtaW5pJTIwdHJhaW4lMjByaWRlfGVufDB8fHx8MTcwMTU3NTY5OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "train ride",
+        "scenic",
+        "historical"
+      ]
+    },
+    {
+      "id": "SKAMR003",
+      "name": "Pirate Ship Swings",
+      "short_description": "A thrilling swinging pirate ship ride, designed for kids seeking a bit more excitement, located near the Frigate Bay beach.",
+      "subtype": "Amusement Rides",
+      "address": "South Frigate Bay Beach, Frigate Bay, Saint Kitts",
+      "opening_hours": "11:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHBpcmF0ZSUyMHNoaXAlMjByaWRlfGVufDB8fHx8MTcwMTU3NTcwMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "thrill ride",
+        "pirate theme",
+        "beachside"
+      ]
+    },
+    {
+      "id": "SKAMR004",
+      "name": "Tropical Teacup Twirl",
+      "short_description": "A colorful teacup ride where kids can spin their cups as fast or slow as they like, a delightful experience for all ages.",
+      "subtype": "Amusement Rides",
+      "address": "Central Street, Basseterre, Saint Kitts (Temporary fairground)",
+      "opening_hours": "15:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxtYXJpbmUlMjB0ZWFjdXAlMjByaWRlfGVufDB8fHx8MTcwMTU3NTcwMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "teacup ride",
+        "spinning",
+        "family fun"
+      ]
+    },
+    {
+      "id": "SKMIS001",
+      "name": "The Mystic Monkey Show",
+      "short_description": "A delightful magic show featuring a 'magical monkey' character and illusionist performing engaging tricks and comedy for children.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Nevis Street, Basseterre, Saint Kitts (Community Hall)",
+      "opening_hours": "17:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxtYWdpYyUyMHNob3d8ZW5wMTcwMTU3NjA5MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "magic show",
+        "comedy",
+        "family entertainment"
+      ]
+    },
+    {
+      "id": "SKMIS002",
+      "name": "Island Illusionist's Delight",
+      "short_description": "An interactive show where the illusionist involves audience members in simple, dazzling magic tricks, leaving kids amazed and inspired.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Frigate Bay Resort Conference Room, Frigate Bay, Saint Kitts",
+      "opening_hours": "19:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxpbnRlcmFjdGl2ZSUyMG1hZ2ljfGVufDB8fHx8MTcwMTU3NjA5MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "illusions",
+        "interactive",
+        "audience participation"
+      ]
+    },
+    {
+      "id": "SKMIS003",
+      "name": "The Great Kittitian Kid Show",
+      "short_description": "A roving street magician performs close-up magic and grand illusions at various public spaces, offering a vibrant and surprising experience.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Port Zante Esplanade, Basseterre, Saint Kitts",
+      "opening_hours": "14:00-16:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxzZWFzdG9ydGVzJTIwbWFnaWNpYW5zfGVufDB8fHx8MTcwMTU3NjA5MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "street magic",
+        "free show",
+        "surprise"
+      ]
+    },
+    {
+      "id": "SKMIS004",
+      "name": "Enchanted Reef Revelry",
+      "short_description": "A themed magic show set in an underwater world, where characters perform 'water magic' and illusions with light and color.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "St. Kitts Marriott Resort & The Royal Beach Casino, Frigate Bay",
+      "opening_hours": "18:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHV2JTIwbWFnaWN8ZW5wMTcwMTU3NjA5Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "underwater theme",
+        "light show",
+        "resort entertainment"
+      ]
+    },
+    {
+      "id": "SKAQG001",
+      "name": "Hidden Gold Treasure Hunt",
+      "short_description": "An exciting scavenger hunt across historic Fort Brimstone Hill, where families solve clues to find 'pirate treasure'.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Brimstone Hill Fortress National Park, Sandy Point, Saint Kitts",
+      "opening_hours": "10:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHRyZWFzdXJlJTIwaHVudHxlbnwwfHx8fDE3MDE1NzY1NjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "treasure hunt",
+        "history",
+        "team building"
+      ]
+    },
+    {
+      "id": "SKAQG002",
+      "name": "Rainforest Ranger Quest",
+      "short_description": "A guided adventure through the St. Kitts rainforest, with challenges, riddles, and nature observation tasks to become a certified 'Rainforest Ranger'.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Central Forest Reserve, St. Paul's, Saint Kitts",
+      "opening_hours": "09:00-13:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxyYWluZm9yZXN0JTIwYWR2ZW50dXJlfGVufDB8fHx8MTcwMTU3NjU2MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature",
+        "exploration",
+        "education"
+      ]
+    },
+    {
+      "id": "SKAQG003",
+      "name": "Coastal Caper Challenge",
+      "short_description": "A beachside adventure course involving obstacle challenges, sandcastle building competitions, and water-based mini-games.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Cockleshell Bay, Saint Kitts",
+      "opening_hours": "11:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxiZWFjaCUyMGNoYWxsZW5nZXxlbnwwfHx8fDE3MDE1NzY1NjF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "beach games",
+        "obstacles",
+        "water sports"
+      ]
+    },
+    {
+      "id": "SKAQG004",
+      "name": "Old Road Manor Mystery",
+      "short_description": "An escape-room style game set in a historic manor, where kids decipher clues and puzzles to uncover a fictional island mystery.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Main Road, Old Road Town, Saint Kitts",
+      "opening_hours": "14:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfGVzY2FwZSUyMHJvb218ZW5wMTcwMTU3NjU2Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "escape room",
+        "puzzles",
+        "mystery"
+      ]
+    },
+    {
+      "id": "SKPAP001",
+      "name": "Basseterre Waterfront Playground",
+      "short_description": "A modern, well-maintained playground with swings, slides, and climbing structures, offering beautiful views of the ocean.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Bay Road, Basseterre, Saint Kitts",
+      "opening_hours": "08:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHNlYXJjaHwxfHxyZXBsYXlvdW5kfGVufDB8fHx8MTcwMTU3Njg3Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "playground",
+        "ocean view",
+        "free"
+      ]
+    },
+    {
+      "id": "SKPAP002",
+      "name": "Frigate Bay Fun Zone",
+      "short_description": "A large adventure park with multiple play areas, including a zip line for kids, climbing walls, and a dedicated toddler zone.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "South Frigate Bay Road, Frigate Bay, Saint Kitts",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHxhZHZlbnR1cmUlMjBwbGF5Z3JvdW5kfGVufDB8fHx8MTcwMTU3Njg3Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "adventure park",
+        "zip line",
+        "climbing"
+      ]
+    },
+    {
+      "id": "SKPAP003",
+      "name": "Challengers Community Park",
+      "short_description": "A local community park with traditional playground equipment, open green spaces for games, and shaded picnic areas.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Challengers Village Main Road, Challengers, Saint Kitts",
+      "opening_hours": "07:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHxtdXRpbGZhY2V0ZWQlMjBwbGF5Z3JvdW5kfGVufDB8fHx8MTcwMTU3Njg3M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "community park",
+        "picnic",
+        "free"
+      ]
+    },
+    {
+      "id": "SKPAP004",
+      "name": "Sandy Point Pirate Ship Playground",
+      "short_description": "A unique, large-scale pirate ship-themed playground featuring slides, ropes, and interactive elements designed for imaginative play.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Main Street, Sandy Point Town, Saint Kitts",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517849845537-885743a3d5f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU2MjJ8MHwxfHxwcmVzY2hvb2wlMjBwbGF5Z3JvdW5kfGVufDB8fHx8MTcwMTU3Njg3M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "pirate theme",
+        "imaginative play",
+        "slides"
+      ]
+    }
+  ]
+}

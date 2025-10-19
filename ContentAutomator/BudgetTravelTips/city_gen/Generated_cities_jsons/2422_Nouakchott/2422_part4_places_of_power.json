@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Nouakchott",
+    "city_id": "2422"
+  },
+  "items": [
+    {
+      "id": "NST1",
+      "name": "Mausoleum of Sidi Ahmed El-Kounti",
+      "short_description": "A revered tomb of a foundational Sufi scholar, believed to be a source of baraka (blessings) and spiritual guidance for the local community.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Rue 209, Tevragh-Zeina, Nouakchott",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1616881779932-6804364402a5?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Sufism",
+        "Blessings",
+        "Pilgrimage"
+      ]
+    },
+    {
+      "id": "NST2",
+      "name": "Shrine of Lalla Fatma",
+      "short_description": "Dedicated to a legendary female saint, this humble shrine is a place for women to seek solace, make supplications, and share their hopes and fears.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Quartier BTP, Dar Naim, Nouakchott",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1598286996827-2c9339e1f57b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Female Saints",
+        "Prayer",
+        "Community"
+      ]
+    },
+    {
+      "id": "NST3",
+      "name": "Tomb of the Unknown Sage",
+      "short_description": "An ancient, unmarked tomb believed to hold the remains of a great scholar or ascetic from the city's earliest days, attracting those seeking forgotten wisdom.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "El Mina District, near old fishing port, Nouakchott",
+      "visiting_hours": "Always open",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1678128362629-679901777d0a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Ancestors",
+        "Wisdom",
+        "History"
+      ]
+    },
+    {
+      "id": "NST4",
+      "name": "Zawiya of Sheikh Hamdoun",
+      "short_description": "A small Zawiya (Sufi lodge) housing the tomb of Sheikh Hamdoun, known for his poetic piety and commitment to communal harmony. A center for spiritual gatherings.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Avenue Gamal Abdel Nasser, Ksar, Nouakchott",
+      "visiting_hours": "07:00-20:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596701550974-ef2918804791?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Sufi Lodge",
+        "Poetry",
+        "Harmony"
+      ]
+    },
+    {
+      "id": "PR1",
+      "name": "The Path of Baraka (Route to Sidi Ahmed El-Kounti)",
+      "short_description": "A historic walking route from the city center to the Mausoleum of Sidi Ahmed El-Kounti, undertaken by pilgrims seeking blessings and spiritual purification.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts near Grand Marché, Nouakchott, ends at Rue 209, Tevragh-Zeina",
+      "visiting_hours": "Sunrise-Sunset (recommended)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1557007786-81a6ae93010b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Procession",
+        "Blessings",
+        "Devotion"
+      ]
+    },
+    {
+      "id": "PR2",
+      "name": "Al-Hajj al-Saghir (The Small Pilgrimage)",
+      "short_description": "A symbolic pilgrimage loop connecting 7 historic mosques and Sufi centers within Nouakchott, performed to gain spiritual merit and communal solidarity.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts and ends at Friday Mosque, Ksar, Nouakchott",
+      "visiting_hours": "Daylight hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582239328574-e3fb66827d0e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Mosques",
+        "Solidarity",
+        "Spiritual Journey"
+      ]
+    },
+    {
+      "id": "PR3",
+      "name": "Route of the Seven Stars",
+      "short_description": "An ancient desert path leading just outside the city to seven natural rock formations, believed to align with celestial bodies and offer profound meditation points.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts from PK 10, road to Akjoujt, Nouakchott",
+      "visiting_hours": "Pre-dawn or Sunset (for stargazing)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1521323321558-7e20b39f60a2?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Desert",
+        "Celestial",
+        "Meditation"
+      ]
+    },
+    {
+      "id": "PR4",
+      "name": "Pilgrimage of Repentance (Wadi al-Maghfira)",
+      "short_description": "A contemplative route along a dry wadi bed, leading to a secluded prayer spot. Used historically for seeking forgiveness and inner peace.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Behind the University of Nouakchott, heading east",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1629853380026-6b225c50c18d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Wadi",
+        "Repentance",
+        "Inner Peace"
+      ]
+    },
+    {
+      "id": "MH1",
+      "name": "Dar al-Hikma (House of Wisdom)",
+      "short_description": "A modern Sufi retreat center and hermitage on the city's outskirts, offering space for reflection, Quranic study, and traditional Islamic sciences.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Outskirts of Toujounine, Nouakchott",
+      "visiting_hours": "By appointment for retreats",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1678255977990-2766063b4b88?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Sufi Retreat",
+        "Scholarship",
+        "Meditation"
+      ]
+    },
+    {
+      "id": "MH2",
+      "name": "The Hermitage of the Silent Dunes",
+      "short_description": "A series of small, secluded mud-brick cells integrated into the sand dunes, historically used by ascetic scholars for intensive prayer and solitary contemplation.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "South-east of Nouakchott, near dune fields",
+      "visiting_hours": "Dawn-Dusk (accessible)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549487445-56540c1157f4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Asceticism",
+        "Desert",
+        "Solitude"
+      ]
+    },
+    {
+      "id": "MH3",
+      "name": "Khanqah of the Desert Bloom",
+      "short_description": "A small, self-sufficient spiritual community focused on ecological harmony and traditional Islamic spirituality, often hosting visitors for short stays.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Approx. 20 km east of Nouakchott city limits",
+      "visiting_hours": "By prior arrangement",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1629837922247-f311c1d0612c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Ecology",
+        "Community",
+        "Sufism"
+      ]
+    },
+    {
+      "id": "MH4",
+      "name": "Zawiya al-Khamsa (The Fivefold Retreat)",
+      "short_description": "A cluster of five small, interconnected rooms within an old mud-brick compound, each dedicated to a specific spiritual practice, used for short, intensive retreats.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Rue 305, Sebkha, Nouakchott",
+      "visiting_hours": "09:00-17:00 (for general viewing, retreats are private)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1601637770997-6a4a159ed5a5?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Introspection",
+        "Spiritual Practice",
+        "Historical"
+      ]
+    },
+    {
+      "id": "CR1",
+      "name": "The Market of Destinies (Souk al-Aqdar)",
+      "short_description": "The oldest and busiest market square in Nouakchott, believed to be a 'crossroads of destinies' where paths converge, fortunes are made, and life's choices are often influenced.",
+      "subtype": "Crossroads",
+      "address": "Grand Marché Square, Ksar, Nouakchott",
+      "visiting_hours": "08:00-22:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620251767674-6f014e75685a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Fate",
+        "Commerce",
+        "Vibrancy"
+      ]
+    },
+    {
+      "id": "CR2",
+      "name": "Bab al-Fatih (Gate of Openings)",
+      "short_description": "An ancient, symbolic city gate (no longer existing as a physical structure, marked by a plaza) where travelers would traditionally offer prayers for a safe journey and new beginnings.",
+      "subtype": "Crossroads",
+      "address": "Intersection of Rue de l'Indépendance and Avenue Moktar Ould Daddah, Nouakchott",
+      "visiting_hours": "Always open",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596701550974-ef2918804791?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "New Beginnings",
+        "Travel",
+        "Blessings"
+      ]
+    },
+    {
+      "id": "CR3",
+      "name": "The Junction of Whispers (Maltaga al-Hamsat)",
+      "short_description": "A less-known urban crossroads where, according to local folklore, subtle spiritual energies converge, making it a place to listen for guidance and intuition.",
+      "subtype": "Crossroads",
+      "address": "Corner of Rue 12 and Boulevard de la R.I.A., Tevragh-Zeina",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1543881516-ec084931a31d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Intuition",
+        "Guidance",
+        "Folklore"
+      ]
+    },
+    {
+      "id": "CR4",
+      "name": "The Crossroads of Sands and Sea",
+      "short_description": "The point where the desert sands meet the Atlantic coast, symbolizing the convergence of two powerful natural elements and a place for profound contemplation of existence.",
+      "subtype": "Crossroads",
+      "address": "Northern beach, Nouakchott, near Port de l'Amitié",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563278551-78929e745674?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Nature",
+        "Contemplation",
+        "Elements"
+      ]
+    },
+    {
+      "id": "HSW1",
+      "name": "Ain al-Shifa (Spring of Healing)",
+      "short_description": "A historic well renowned for its supposedly miraculous healing waters, sought by those suffering from ailments and seeking spiritual renewal.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Near old Ksar quarter, Nouakchott",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1629837922247-f311c1d0612c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Healing",
+        "Miracles",
+        "Water"
+      ]
+    },
+    {
+      "id": "HSW2",
+      "name": "Bi'r al-Hikma (Well of Wisdom)",
+      "short_description": "An ancient well said to have been frequented by early scholars, its water believed to impart clarity of thought and spiritual insight.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Close to the historic library, Rue 214, Tevragh-Zeina",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1555694295-c49b49b6574f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Wisdom",
+        "Knowledge",
+        "Clarity"
+      ]
+    },
+    {
+      "id": "HSW3",
+      "name": "The Weeping Spring of Fatima",
+      "short_description": "A small, perennial spring, rare in the arid region, linked to the tears of a devout woman mourning her lost children, now a place for solace and remembrance.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Near the old cemetery, Sebkha, Nouakchott",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1629853380026-6b225c50c18d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Solace",
+        "Remembrance",
+        "Perennial"
+      ]
+    },
+    {
+      "id": "HSW4",
+      "name": "Ma'in al-Janna (Spring of Paradise)",
+      "short_description": "A legendary spring said to have emerged miraculously, its waters are believed to bring blessings and purity, especially when collected at dawn.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Fictional location: Outskirts of Ain-Tall (south of Nouakchott)",
+      "visiting_hours": "Sunrise-Sunset",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1520140222160-c4815a51052b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Purity",
+        "Blessings",
+        "Miracle"
+      ]
+    },
+    {
+      "id": "DPS1",
+      "name": "The Whispering Rocks of Azaz",
+      "short_description": "An ancient geological formation outside the city, where wind-worn rocks create eerie whispers, believed to be the voices of ancient spirits or elemental energies.",
+      "subtype": "Desert Power Sites",
+      "address": "Approx. 30 km east of Nouakchott, towards Akjoujt",
+      "visiting_hours": "Sunrise-Sunset",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620956908076-2e76e5306660?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Geology",
+        "Elemental",
+        "Ancient Spirits"
+      ]
+    },
+    {
+      "id": "DPS2",
+      "name": "Koudia al-Jinn (Hill of the Jinn)",
+      "short_description": "A solitary hill rising from the flat desert, known in folklore as a dwelling place for jinn. Locals visit for protection or to leave offerings for good fortune.",
+      "subtype": "Desert Power Sites",
+      "address": "North-east of Nouakchott, near PK 25",
+      "visiting_hours": "Daylight hours (caution advised after dark)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1634629339243-7f7810ec5696?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Folklore",
+        "Jinn",
+        "Protection"
+      ]
+    },
+    {
+      "id": "DPS3",
+      "name": "The Celestial Alignment Stone",
+      "short_description": "A megalithic stone believed to align with specific celestial events, used by ancient peoples for astronomical observations and spiritual ceremonies.",
+      "subtype": "Desert Power Sites",
+      "address": "Remote desert, accessible from Route de l'Espoir (N1)",
+      "visiting_hours": "Sunrise-Sunset",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596701550974-ef2918804791?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Megalith",
+        "Astronomy",
+        "Ancient Rituals"
+      ]
+    },
+    {
+      "id": "DPS4",
+      "name": "The Oasis of Silent Reflection (Wahah al-Samt)",
+      "short_description": "A small, secluded oasis known for its profound tranquility and isolation, offering a perfect setting for deep meditation and reconnection with nature's raw energy.",
+      "subtype": "Desert Power Sites",
+      "address": "Fictional location: Deep in the Banc d'Arguin National Park buffer zone",
+      "visiting_hours": "Daylight hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1520140222160-c4815a51052b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Oasis",
+        "Tranquility",
+        "Nature"
+      ]
+    },
+    {
+      "id": "PY1",
+      "name": "The Sand Pyramid of Forgotten Kings (Tafra al-Muluk)",
+      "short_description": "An ancient, sand-covered pyramidal burial mound (tumulus) from an unknown pre-Islamic civilization, believed to hold echoes of powerful rulers and their lost wisdom.",
+      "subtype": "Pyramids",
+      "address": "Remote desert, 50 km east of Nouakchott",
+      "visiting_hours": "Sunrise-Sunset",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549487445-56540c1157f4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Ancient",
+        "Burial Mound",
+        "Lost Civilization"
+      ]
+    },
+    {
+      "id": "PY2",
+      "name": "Monument of Light and Reflection",
+      "short_description": "A modern, architecturally symbolic pyramidal structure in a city park, designed for quiet contemplation and to reflect the spiritual connection between desert, sky, and human aspiration.",
+      "subtype": "Pyramids",
+      "address": "Parc National de Nouakchott (Green Zone), Tevragh-Zeina",
+      "visiting_hours": "08:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1522030612658-062e718872e4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Modern",
+        "Symbolic",
+        "Contemplation"
+      ]
+    },
+    {
+      "id": "PY3",
+      "name": "The Geomantic Cairn of Direction",
+      "short_description": "A historically significant, pyramidal cairn (stone stack) built by ancient nomads, used for orientation and believed to channel earthly energies for guidance.",
+      "subtype": "Pyramids",
+      "address": "South-west desert fringes of Nouakchott",
+      "visiting_hours": "Daylight hours",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620956908076-2e76e5306660?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Nomadic",
+        "Guidance",
+        "Geomancy"
+      ]
+    },
+    {
+      "id": "PY4",
+      "name": "The Oasis Pyramid of Al-Kantara",
+      "short_description": "A fabled structure, rumored to be a small, stepped pyramid hidden near a desert oasis, guarded by local legends and said to reveal its secrets only to the truly pure of heart.",
+      "subtype": "Pyramids",
+      "address": "Fictional location: Deep desert oasis, far east of Nouakchott",
+      "visiting_hours": "Rarely visited, by legend only",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563278551-78929e745674?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Legend",
+        "Hidden",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "CS1",
+      "name": "Grotto of the Prophets' Footprints",
+      "short_description": "A small, revered cave sanctuary with ancient markings, believed by local folklore to contain imprints left by early prophets or holy figures passing through the land.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Outskirts of Ksar, towards the desert",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1555694295-c49b49b6574f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Folklore",
+        "Prophets",
+        "Ancient"
+      ]
+    },
+    {
+      "id": "CS2",
+      "name": "Ma'arat al-Salat (Cave of Prayer)",
+      "short_description": "A naturally formed rock shelter, subtly enhanced for prayer, known for its quiet acoustics and serene atmosphere, ideal for deep spiritual reflection.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "South-west desert fringe of Nouakchott",
+      "visiting_hours": "Sunrise-Sunset",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1629853380026-6b225c50c18d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Prayer",
+        "Reflection",
+        "Natural Sanctuary"
+      ]
+    },
+    {
+      "id": "CS3",
+      "name": "The Hidden Sanctuary of Al-Hima",
+      "short_description": "A man-made sanctuary carved into a low rocky outcrop, used by small groups for secret spiritual gatherings and to preserve ancient communal rituals.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Fictional location: Near the coastal wetlands, west of Nouakchott",
+      "visiting_hours": "By invitation only",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1678128362629-679901777d0a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Secret",
+        "Rituals",
+        "Community"
+      ]
+    },
+    {
+      "id": "CS4",
+      "name": "The Rock Art Gallery of Tagant",
+      "short_description": "Though a bit further afield, this significant site is a series of rock shelters with ancient petroglyphs, accessible from Nouakchott, offering a glimpse into prehistoric spiritual beliefs and art.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Fictional location: Tagant region, accessible from Nouakchott by special trip",
+      "visiting_hours": "Daylight hours",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Petroglyphs_in_the_Sahara_Desert%2C_Algeria_-_IMG_1120.jpg/1280px-Petroglyphs_in_the_Sahara_Desert%2C_Algeria_-_IMG_1120.jpg",
+      "tags": [
+        "Prehistoric",
+        "Rock Art",
+        "Ancestral"
+      ]
+    },
+    {
+      "id": "MEP1",
+      "name": "The Centre for Interfaith Dialogue",
+      "short_description": "A contemporary architectural marvel designed to foster understanding and peace between different faiths, featuring spaces for meditation, lecture halls, and communal gardens.",
+      "subtype": "Modern Energy Places",
+      "address": "Boulevard de la R.I.A., Tevragh-Zeina, Nouakchott",
+      "visiting_hours": "09:00-18:00 (daily, except Friday prayer)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1669460592950-c8e411ef126a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Interfaith",
+        "Peace",
+        "Modern Architecture"
+      ]
+    },
+    {
+      "id": "MEP2",
+      "name": "Al-Ahad Garden of Contemplation",
+      "short_description": "A meticulously designed urban garden with geometric patterns and flowing water features, intended to promote mindfulness and inner peace amidst city life.",
+      "subtype": "Modern Energy Places",
+      "address": "Adjacent to Olympic Stadium, Nouakchott",
+      "visiting_hours": "07:00-21:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1549487445-56540c1157f4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Mindfulness",
+        "Urban Retreat",
+        "Gardens"
+      ]
+    },
+    {
+      "id": "MEP3",
+      "name": "The Dome of Celestial Harmonies",
+      "short_description": "A striking modern building with a large, intricately designed dome, serving as a hub for celestial observation, Islamic astronomy, and spiritual workshops.",
+      "subtype": "Modern Energy Places",
+      "address": "Near the University of Nouakchott, Avenue de l'Université",
+      "visiting_hours": "10:00-17:00 (workshops by schedule)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1610486745145-c4193309a96e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Astronomy",
+        "Workshops",
+        "Modern Design"
+      ]
+    },
+    {
+      "id": "MEP4",
+      "name": "The Well of Digital Dhikr",
+      "short_description": "An innovative art installation and public space combining traditional Islamic remembrance (Dhikr) with digital light and sound, creating an immersive, meditative experience.",
+      "subtype": "Modern Energy Places",
+      "address": "Public Plaza, Rue de l'Aéroport, Nouakchott",
+      "visiting_hours": "18:00-23:00 (nightly)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1621379965306-0045d4791a87?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Art Installation",
+        "Dhikr",
+        "Digital Experience"
+      ]
+    },
+    {
+      "id": "LAB1",
+      "name": "The Desert Rose Labyrinth",
+      "short_description": "A sprawling, low-walled labyrinth built from local desert stones, designed for walking meditation and finding clarity amidst the natural elements.",
+      "subtype": "Labyrinths",
+      "address": "Near the coast, north of Nouakchott city center",
+      "visiting_hours": "Sunrise-Sunset",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1616881779932-6804364402a5?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Meditation",
+        "Walking Path",
+        "Desert Stone"
+      ]
+    },
+    {
+      "id": "LAB2",
+      "name": "The Sufi Wisdom Walk (Hada'iq al-Aql)",
+      "short_description": "A complex, mosaic-patterned labyrinth inlaid into the courtyard of a Sufi lodge, used for contemplative walking while reciting spiritual phrases or intentions.",
+      "subtype": "Labyrinths",
+      "address": "Zawiya of Sheikh Hamdoun, Ksar, Nouakchott",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596701550974-ef2918804791?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Sufism",
+        "Mosaic",
+        "Contemplation"
+      ]
+    },
+    {
+      "id": "LAB3",
+      "name": "The Children's Path of Patience",
+      "short_description": "A smaller, colorful labyrinth in a public park designed to teach children focus and patience, drawing on traditional local patterns and stories.",
+      "subtype": "Labyrinths",
+      "address": "Parc de la Jeunesse, Tevragh-Zeina, Nouakchott",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1571439977239-5026c4f03940?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Children",
+        "Education",
+        "Patience"
+      ]
+    },
+    {
+      "id": "LAB4",
+      "name": "Al-Mufakir Labyrinth (The Thinker's Labyrinth)",
+      "short_description": "A conceptual art piece in a public space, this metallic labyrinth challenges visitors to navigate its turns while engaging with philosophical inscriptions and interactive soundscapes.",
+      "subtype": "Labyrinths",
+      "address": "Place de l'Indépendance, Ksar, Nouakchott",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1621379965306-0045d4791a87?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Conceptual Art",
+        "Philosophy",
+        "Soundscape"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Quepos",
+    "city_id": "2475"
+  },
+  "items": [
+    {
+      "id": "QPS-FLWR-001",
+      "name": "Manuel Antonio Orchid & Heliconia Trail",
+      "short_description": "Discover a vibrant array of native orchids, heliconias, and exotic flora along this lush, shaded pathway. Perfect for nature lovers and photographers seeking a splash of tropical color.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Inside Manuel Antonio National Park",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563273398-33a7590d6448?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature photography",
+        "rainforest blooms",
+        "botanical"
+      ]
+    },
+    {
+      "id": "QPS-MKT-001",
+      "name": "Quepos Farmers Market (Feria del Agricultor)",
+      "short_description": "Immerse yourself in local culture at this bustling weekly market, offering fresh tropical fruits, artisanal crafts, and lively street food. A true taste of Quepos life!",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Quepos Marina Pez Vela (Fridays & Saturdays)",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Quepos_Farmer%27s_Market_03_2008.jpg",
+      "tags": [
+        "local produce",
+        "artisanal crafts",
+        "cultural experience"
+      ]
+    },
+    {
+      "id": "QPS-POOL-001",
+      "name": "Tulemar Resort Ocean View Infinity Pool",
+      "short_description": "Experience unparalleled ocean views from this stunning infinity pool, blending seamlessly with the Pacific horizon. A luxurious spot for sunset cocktails and breathtaking photos.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Tulemar Resort, Manuel Antonio",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1574540899478-433b0dd4c360?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "luxury travel",
+        "ocean views",
+        "sunset spot"
+      ]
+    },
+    {
+      "id": "QPS-BRDG-001",
+      "name": "Manuel Antonio Scenic Overlook",
+      "short_description": "Capture panoramic vistas of Manuel Antonio National Park's pristine beaches and lush rainforest canopy from this elevated viewpoint. Keep an eye out for monkeys and sloths below!",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Main trail within Manuel Antonio National Park",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1629864275037-f827ed744d65?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wildlife spotting",
+        "coastal views",
+        "national park"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Nouadhibou",
+    "city_id": "2421"
+  },
+  "items": [
+    {
+      "id": "NDB-EMP-001",
+      "name": "Nouadhibou Marine Eco-Park",
+      "short_description": "Discover the vibrant underwater world of Mauritania's coast at this state-of-the-art eco-park, featuring interactive exhibits and observation tanks dedicated to local marine biodiversity.",
+      "address": "Route de Cansado, Pointe de la Baie, Nouadhibou",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616782502800-ebc3c6f6e61f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxtYXJpbmV8fHx8fHwxNzAzNTc3NTA0&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "eco-tourism",
+        "marine life",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": "NDB-DSL-002",
+      "name": "Dune Sunset Lounge & Eatery",
+      "short_description": "Perched on a low dune overlooking the Atlantic, this chic lounge offers breathtaking sunset views, artisanal cocktails, and a fusion menu of local and international flavors.",
+      "address": "Corniche Ouest, Plage des Pêcheurs, Nouadhibou",
+      "opening_hours": "17:00-00:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1506748689977-833333333333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxzdW5zZXR8fHx8fHwxNzAzNTc3NTU1&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "dining",
+        "views",
+        "cocktails"
+      ]
+    },
+    {
+      "id": "NDB-PHM-003",
+      "name": "Nouadhibou Port & Heritage Museum",
+      "short_description": "Explore Nouadhibou's rich maritime history and cultural heritage through captivating exhibits, old navigation tools, and stories of its bustling port. An educational journey for all ages.",
+      "address": "Quai des Minéraliers, Port Autonome, Nouadhibou",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1534341999619-bc78b7b7b7b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxtdXNldW0sZGlzcGxheXxlfHx8fHwxNzAzNTc3NTc2&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "history",
+        "culture",
+        "museum"
+      ]
+    },
+    {
+      "id": "NDB-AMS-004",
+      "name": "Al-Waha Modern Souk",
+      "short_description": "A contemporary market blending traditional charm with modern comforts. Find authentic Mauritanian handicrafts, textiles, spices, and unique souvenirs in a vibrant, air-conditioned setting.",
+      "address": "Avenue de la République, Quartier Centre, Nouadhibou",
+      "opening_hours": "09:30-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582234088210-21a4f0b2f0a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxtb2Rlcm4gbWFya2V0fHx8fHwxNzAzNTc3NjAy&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "shopping",
+        "local crafts",
+        "market"
+      ]
+    },
+    {
+      "id": "NDB-SDC-005",
+      "name": "Starlight Desert Glamp Camp",
+      "short_description": "Escape the city lights for an unparalleled stargazing experience. Luxurious tents, traditional Mauritanian hospitality, and clear desert skies make for an unforgettable overnight adventure.",
+      "address": "Périphérie Sud-Est, Piste du Désert, Nouadhibou",
+      "opening_hours": "24/7 (for overnight stays)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1542491100-333333333333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxzZXRfaGVhZHx8fHx8fHwxNzAzNTc3NjM5&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "glamping",
+        "stargazing",
+        "desert adventure"
+      ]
+    },
+    {
+      "id": "NDB-AWSC-006",
+      "name": "AquaWave Water Sports Center",
+      "short_description": "Hit the waves and explore the bay with kayaks, paddleboards, and kitesurfing lessons. A perfect spot for adrenaline junkies and water enthusiasts of all skill levels.",
+      "address": "Plage Blanche, Zone Touristique, Nouadhibou",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1588661603953-333333333333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxtYXRlcnNwb3J0c3xlfHx8fHwxNzAzNTc3Njc3&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "water sports",
+        "adventure",
+        "beach"
+      ]
+    },
+    {
+      "id": "NDB-FWP-007",
+      "name": "Fisherman's Wharf Promenade",
+      "short_description": "Stroll along the revitalized waterfront, enjoying fresh seafood from local vendors, lively entertainment, and panoramic views of fishing boats returning with their daily catch.",
+      "address": "Boulevard du Port, face au Marché Central, Nouadhibou",
+      "opening_hours": "16:00-22:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549247653554-333333333333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxpcmFuaXNjYXBlfHx8fHwxNzAzNTc3NzA5&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "food",
+        "waterfront",
+        "local experience"
+      ]
+    },
+    {
+      "id": "NDB-ACH-008",
+      "name": "Nouadhibou Art & Culture Hub",
+      "short_description": "A dynamic space showcasing contemporary Mauritanian art and hosting cultural workshops. Experience local creativity and connect with the vibrant artistic community.",
+      "address": "Rue du Sahara, Quartier des Artisans, Nouadhibou",
+      "opening_hours": "10:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1579783900829-333333333333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxhcnRfZ2FsbGVyeXxlfHx8fHwxNzAzNTc3NzMw&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "art",
+        "culture",
+        "gallery"
+      ]
+    },
+    {
+      "id": "NDB-CBS-009",
+      "name": "Coastal Bird Sanctuary Viewpoint",
+      "short_description": "An elevated observation deck providing exceptional views of the protected wetlands, home to numerous migratory bird species. A haven for nature lovers and birdwatchers.",
+      "address": "Zone Humide de la Baie, Nord de la Ville, Nouadhibou",
+      "opening_hours": "07:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1520612985390-333333333333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxiaXJkX3dhdGNoaW5nLGNvYXN0fHx8fHwxNzAzNTc3Nzk2&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "bird watching",
+        "nature",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "NDB-LHC-010",
+      "name": "The Lighthouse Café & Bistro",
+      "short_description": "Enjoy freshly brewed coffee, light meals, and delicious pastries with a stunning panoramic view of the Atlantic Ocean and the historic lighthouse. A tranquil escape.",
+      "address": "Cap Blanc, près du Phare, Nouadhibou",
+      "opening_hours": "08:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522079080447-333333333333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxhbmdyaWxsYW91cmVzfHx8fHwxNzAzNTc3ODMy&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "cafe",
+        "views",
+        "relaxation"
+      ]
+    }
+  ]
+}

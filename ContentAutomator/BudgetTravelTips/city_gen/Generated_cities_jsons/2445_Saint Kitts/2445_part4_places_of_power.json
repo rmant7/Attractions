@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Saint Kitts",
+    "city_id": "2445"
+  },
+  "items": [
+    {
+      "id": "SKT-SM-001",
+      "name": "Mount Liamuiga: Peak of the Sky Spirits",
+      "short_description": "The highest point on Saint Kitts, revered by indigenous people as a dwelling place of spirits and a potent source of natural energy, offering panoramic views.",
+      "subtype": "Sacred Mountains",
+      "address": "Mount Liamuiga Hiking Trailhead, St. Paul's Parish, Saint Kitts",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "EC$20 (guided hike recommended)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mount_Liamuiga_crater.jpg/1920px-Mount_Liamuiga_crater.jpg",
+      "tags": [
+        "Volcano",
+        "Spiritual Summit",
+        "Indigenous Lore"
+      ]
+    },
+    {
+      "id": "SKT-SM-002",
+      "name": "The Emerald Heart of Liamuiga",
+      "short_description": "Nestled within the volcanic crater, this serene lake is believed to hold ancient energies, often visited for quiet contemplation and its pristine, otherworldly beauty.",
+      "subtype": "Sacred Mountains",
+      "address": "Mount Liamuiga Crater Trail, St. Paul's Parish, Saint Kitts",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "EC$15 (access fee, often part of tour)",
+      "images": "https://images.unsplash.com/photo-1596792348557-0402b8964d50?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Crater Lake",
+        "Volcanic Energy",
+        "Nature Sanctuary"
+      ]
+    },
+    {
+      "id": "SKT-SM-003",
+      "name": "Monkey Hill's Whispering Summit",
+      "short_description": "A lower, accessible peak offering breathtaking views of the coastline and Basseterre, locally believed to be a place where ancestral voices linger in the breeze.",
+      "subtype": "Sacred Mountains",
+      "address": "Monkey Hill Trail, South East Peninsula, Saint Kitts",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1590130097746-834c82b13735?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Coastal View",
+        "Ancestral Echoes",
+        "Gentle Hike"
+      ]
+    },
+    {
+      "id": "SKT-SM-004",
+      "name": "Wingfield Ridge Contemplation Point",
+      "short_description": "A scenic viewpoint along the Wingfield Ridge, offering expansive views of the fertile valleys and the Caribbean Sea, ideal for quiet reflection and connecting with the island's spirit.",
+      "subtype": "Sacred Mountains",
+      "address": "Wingfield Estate Road, Old Road Town, Saint Kitts",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1577742010113-d4d101d2c6c0?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Scenic Overlook",
+        "Meditation Spot",
+        "Historical Landscape"
+      ]
+    },
+    {
+      "id": "SKT-AT-001",
+      "name": "Fairfield Moravian Church: Echoes of Faith",
+      "short_description": "The evocative ruins of an 18th-century Moravian church, a testament to the enduring faith and spiritual resilience of its early congregation, including formerly enslaved people.",
+      "subtype": "Ancient Temples",
+      "address": "Fairfield Estate Road, Manchester Parish, Saint Kitts",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1589736521570-df8956972777?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Colonial History",
+        "Religious Heritage",
+        "Sacred Ruins"
+      ]
+    },
+    {
+      "id": "SKT-AT-002",
+      "name": "St. George's Anglican Church: Stone of Steadfast Devotion",
+      "short_description": "One of the oldest and most prominent churches in Basseterre, its history intertwined with the island's colonial past, serving as a beacon of spiritual life for centuries.",
+      "subtype": "Ancient Temples",
+      "address": "Cayon Street, Basseterre, Saint Kitts",
+      "visiting_hours": "09:00-16:00 (daily, services on Sunday)",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ee/St._George%27s_Anglican_Church%2C_Basseterre%2C_St._Kitts_-_Flickr_-_davef3138_CC_BY_2.0.jpg",
+      "tags": [
+        "Historic Church",
+        "Colonial Architecture",
+        "Active Worship"
+      ]
+    },
+    {
+      "id": "SKT-AT-003",
+      "name": "Old Road Estate Chapel Remains: Planter's Prayer Site",
+      "short_description": "The sparse but poignant remains of a plantation chapel, a silent witness to the spiritual lives, hopes, and sorrows of both masters and enslaved laborers.",
+      "subtype": "Ancient Temples",
+      "address": "Old Road Estate, Old Road Town, Saint Kitts",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594247895088-7f551b8c04e2?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Plantation History",
+        "Enslavement Legacy",
+        "Ruined Chapel"
+      ]
+    },
+    {
+      "id": "SKT-AT-004",
+      "name": "Carib Ancestral Gathering Stone",
+      "short_description": "A secluded natural rock formation, believed to have been a sacred meeting and ritual site for the indigenous Carib people, where ancestral spirits are still revered.",
+      "subtype": "Ancient Temples",
+      "address": "Hidden Path near Bloody Point, Old Road Town, Saint Kitts",
+      "visiting_hours": "08:00-16:00 (guided access recommended)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1550953683-1678170c4c4e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Indigenous Heritage",
+        "Ritual Site",
+        "Ancestral Worship"
+      ]
+    },
+    {
+      "id": "SKT-MR-001",
+      "name": "Bloody Point Carib Petroglyphs: Ancient Stories in Stone",
+      "short_description": "Intricate rock carvings left by the indigenous Carib people, depicting spiritual symbols and figures, offering a direct link to their ancient cosmology and worldview.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Bloody Point, Old Road Town, Saint Kitts",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carib_Petroglyphs_near_Wingfield_Estate%2C_St._Kitts.jpg/1920px-Carib_Petroglyphs_near_Wingfield_Estate%2C_St._Kitts.jpg",
+      "tags": [
+        "Petroglyphs",
+        "Indigenous Art",
+        "Ancient Symbols"
+      ]
+    },
+    {
+      "id": "SKT-MR-002",
+      "name": "Black Rocks Volcanic Spires: Gateway to the Ocean Depths",
+      "short_description": "Dramatic, jagged volcanic rock formations sculpted by the sea, believed by locals to be a powerful energy point where the island's core connects with the ocean's mystic depths.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Black Rocks, St. Paul's Parish, Saint Kitts",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Black_Rocks_in_St_Kitts.jpg/1920px-Black_Rocks_in_St_Kitts.jpg",
+      "tags": [
+        "Volcanic Geology",
+        "Coastal Energy",
+        "Natural Sculpture"
+      ]
+    },
+    {
+      "id": "SKT-MR-003",
+      "name": "Old Road Bay Carib Stone: Sentinel of the Shore",
+      "short_description": "A solitary, large rock by the shore, considered a sentinel by the Carib people, marking a significant historical landing and spiritual point along the ancient coast.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Old Road Bay, Old Road Town, Saint Kitts",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563220464-a631626f1c7d?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Coastal Landmark",
+        "Indigenous History",
+        "Sacred Rock"
+      ]
+    },
+    {
+      "id": "SKT-MR-004",
+      "name": "Devil's Hand Rock: Formations of Legend",
+      "short_description": "A unique geological formation resembling a giant hand reaching from the earth, shrouded in local folklore about spirits and ancient guardians of the island.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Hidden Cove, North Coast, Saint Kitts (access via hike)",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510484218765-1d4827d0a649?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Geological Wonder",
+        "Local Folklore",
+        "Mythic Landscape"
+      ]
+    },
+    {
+      "id": "SKT-CA-001",
+      "name": "Brimstone Hill Fortress Sunset Point: Celestial Guardian",
+      "short_description": "From the ramparts of this historic fortress, witness breathtaking sunsets aligning with specific celestial events, a point where history and the cosmos converge.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Brimstone Hill Fortress National Park, St. Paul's Parish, Saint Kitts",
+      "visiting_hours": "09:30-17:30",
+      "entry_fee": "EC$30 (park entry)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Brimstone_Hill_Fortress_National_Park_St_Kitts_and_Nevis.jpg/1920px-Brimstone_Hill_Fortress_National_Park_St_Kitts_and_Nevis.jpg",
+      "tags": [
+        "Sunset View",
+        "Historic Site",
+        "Cosmic Connection"
+      ]
+    },
+    {
+      "id": "SKT-CA-002",
+      "name": "Wingfield Solstice Stone Circle: Ancient Timekeeper",
+      "short_description": "An ancient arrangement of stones, possibly of indigenous origin or early colonial, believed to mark the solstices and equinoxes, used for agricultural and spiritual calendars.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Secluded Meadow, Wingfield Estate, Old Road Town, Saint Kitts",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1606558661642-1e24ec170669?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Astronomical Alignment",
+        "Indigenous Science",
+        "Ancient Calendar"
+      ]
+    },
+    {
+      "id": "SKT-CA-003",
+      "name": "North Frigate Bay Stargazing Knoll: Cosmic Canvas",
+      "short_description": "A secluded, elevated spot near North Frigate Bay, known for its minimal light pollution, making it an ideal location for observing constellations and meteor showers.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "North Frigate Bay Road, South East Peninsula, Saint Kitts",
+      "visiting_hours": "19:00-05:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547477123-286a014979e2?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Stargazing",
+        "Night Sky",
+        "Natural Observatory"
+      ]
+    },
+    {
+      "id": "SKT-CA-004",
+      "name": "Carib Moon Cycle Point, Cayon: Lunar Wisdom Site",
+      "short_description": "A specific coastal outcrop near Cayon, where indigenous Caribs are believed to have observed lunar cycles for planting, fishing, and ceremonial purposes.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Coastal Path near Cayon Bay, Cayon Parish, Saint Kitts",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1507525428034-b723cf961dde?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Lunar Observation",
+        "Indigenous Astronomy",
+        "Coastal Ritual"
+      ]
+    },
+    {
+      "id": "SKT-DPS-001",
+      "name": "Great Salt Pond Healing Basin: Crystal Purity",
+      "short_description": "The vast expanse of the Great Salt Pond, known for its high mineral content and stark beauty, believed by some to hold cleansing and revitalizing energies.",
+      "subtype": "Desert Power Sites",
+      "address": "Great Salt Pond Road, South East Peninsula, Saint Kitts",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Great_Salt_Pond_St._Kitts.jpg",
+      "tags": [
+        "Salt Pond",
+        "Mineral Energy",
+        "Cleansing Site"
+      ]
+    },
+    {
+      "id": "SKT-DPS-002",
+      "name": "Booby Island Barren Shores: Isle of Resilience",
+      "short_description": "This small, windswept islet off the coast of Saint Kitts, with its sparse vegetation and raw exposure, embodies a profound sense of resilience and untamed natural power.",
+      "subtype": "Desert Power Sites",
+      "address": "Offshore, accessible by boat from Major's Bay, Saint Kitts",
+      "visiting_hours": "08:00-17:00 (boat access dependent)",
+      "entry_fee": "EC$50 (boat tour fee)",
+      "images": "https://images.unsplash.com/photo-1557007353-90d1f114c004?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Isolated Island",
+        "Raw Nature",
+        "Resilience"
+      ]
+    },
+    {
+      "id": "SKT-DPS-003",
+      "name": "Conaree Black Sand Vortex: Earth's Embrace",
+      "short_description": "The vast, dark volcanic sands of Conaree Beach, absorbing the sun's energy, are considered a grounding site where one can feel a deep connection to the earth's raw, primal power.",
+      "subtype": "Desert Power Sites",
+      "address": "Conaree Beach, Conaree, Saint Kitts",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Black_sand_beach_in_St_Kitts.jpg/1920px-Black_sand_beach_in_St_Kitts.jpg",
+      "tags": [
+        "Volcanic Beach",
+        "Grounding Energy",
+        "Primal Force"
+      ]
+    },
+    {
+      "id": "SKT-DPS-004",
+      "name": "Sandy Point Windswept Ridge: Breath of the Ancients",
+      "short_description": "An exposed ridge offering sweeping views, where constant winds carry the essence of the sea and the whispers of history, a place for introspection and feeling the island's elemental spirit.",
+      "subtype": "Desert Power Sites",
+      "address": "Scenic Route, Sandy Point, Saint Kitts",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1522204996251-5120f26d246c?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Elemental Power",
+        "Wind Energy",
+        "Introspection"
+      ]
+    },
+    {
+      "id": "SKT-RS-001",
+      "name": "St. Thomas's Anglican Cemetery: Ancestral Resting Place",
+      "short_description": "A historic cemetery with graves dating back centuries, offering a somber yet peaceful space for reflection on lives past and the island's layered history.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "St. Thomas's Anglican Church Road, Middle Island, Saint Kitts",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1614763321528-912f71887012?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Historic Cemetery",
+        "Ancestral Remembrance",
+        "Colonial Graves"
+      ]
+    },
+    {
+      "id": "SKT-RS-002",
+      "name": "Sugar Estate Workers Memorial: Echoes of Labor",
+      "short_description": "A poignant memorial dedicated to the enslaved and indentured laborers who toiled on the sugar plantations, a site for remembrance, healing, and honoring their enduring spirit.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Romney Manor, Old Road Town, Saint Kitts",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596495572202-b2d2f7f9035e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Slavery Legacy",
+        "Memorial Site",
+        "Healing History"
+      ]
+    },
+    {
+      "id": "SKT-RS-003",
+      "name": "Independence Square Slave Memorial: Freedom's Tears",
+      "short_description": "Located in the heart of Basseterre, this memorial commemorates the resilience and struggle of enslaved Africans, a place of quiet reflection on the journey to freedom.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Independence Square, Basseterre, Saint Kitts",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Independence_Square_in_Basseterre%2C_St._Kitts.jpg/1920px-Independence_Square_in_Basseterre%2C_St._Kitts.jpg",
+      "tags": [
+        "Slavery History",
+        "Freedom Memorial",
+        "Urban Reflection"
+      ]
+    },
+    {
+      "id": "SKT-RS-004",
+      "name": "Old Road Bay Fisherman's Grotto: Seafarer's Blessing",
+      "short_description": "A small, humble shrine dedicated to fishermen and those lost at sea, offering blessings for safe passage and a place for maritime spiritual solace.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Old Road Bay Coastline, Old Road Town, Saint Kitts",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549646536-cb8747a76c8c?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Coastal Shrine",
+        "Maritime Culture",
+        "Blessing Site"
+      ]
+    },
+    {
+      "id": "SKT-MEP-001",
+      "name": "The Sanctuary at Palms Resort: Holistic Harmony",
+      "short_description": "A modern wellness center and meditation garden, designed to promote inner peace and balance through yoga, mindfulness practices, and natural therapies amidst lush surroundings.",
+      "subtype": "Modern Energy Places",
+      "address": "Frigate Bay Road, Frigate Bay, Saint Kitts",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "EC$50 (day pass for facilities)",
+      "images": "https://images.unsplash.com/photo-1620023023078-d421a19b48b6?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Wellness Center",
+        "Meditation",
+        "Holistic Healing"
+      ]
+    },
+    {
+      "id": "SKT-MEP-002",
+      "name": "Basseterre Urban Healing Space: Community Rejuvenation",
+      "short_description": "A vibrant community hub in Basseterre offering workshops, art therapy, and shared spiritual practices, fostering well-being and connection in an urban setting.",
+      "subtype": "Modern Energy Places",
+      "address": "Victoria Road, Basseterre, Saint Kitts",
+      "visiting_hours": "10:00-18:00 (Mon-Sat)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1563221379-ec0060935399?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Community Hub",
+        "Urban Spirituality",
+        "Creative Healing"
+      ]
+    },
+    {
+      "id": "SKT-MEP-003",
+      "name": "Frigate Bay Sunrise Yoga Deck: Dawn's Embrace",
+      "short_description": "A dedicated wooden deck overlooking Frigate Bay, offering a serene outdoor space for yoga and morning meditation, harmonizing with the rising sun and ocean breeze.",
+      "subtype": "Modern Energy Places",
+      "address": "South East Peninsula, Frigate Bay, Saint Kitts",
+      "visiting_hours": "05:30-09:00",
+      "entry_fee": "EC$25 (yoga class)",
+      "images": "https://images.unsplash.com/photo-1563259838-89c56580f1d0?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Yoga",
+        "Sunrise Meditation",
+        "Ocean View"
+      ]
+    },
+    {
+      "id": "SKT-MEP-004",
+      "name": "Kittitian Hill's Art & Spirit Path: Creative Flow",
+      "short_description": "A curated walking trail featuring contemporary art installations and contemplative spaces, designed to inspire reflection and connection with nature and artistic expression.",
+      "subtype": "Modern Energy Places",
+      "address": "Belle Tete Estate, Kittitian Hill, Saint Paul's Parish, Saint Kitts",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "EC$35 (resort amenity fee)",
+      "images": "https://images.unsplash.com/photo-1558908323-b68a9b233a1e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Artistic Journey",
+        "Nature Connection",
+        "Contemplation"
+      ]
+    },
+    {
+      "id": "SKT-CS-001",
+      "name": "Old Road Bat Cave: Carib Sanctuary",
+      "short_description": "A significant limestone cave system near Old Road Town, once used by indigenous Caribs for shelter and sacred ceremonies, its darkness holding ancient secrets and energies.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Old Road Town, Saint Kitts (guided access required)",
+      "visiting_hours": "09:00-15:00",
+      "entry_fee": "EC$20 (guided tour)",
+      "images": "https://images.unsplash.com/photo-1605663737526-ed455b57d60d?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Cave Exploration",
+        "Indigenous History",
+        "Sacred Space"
+      ]
+    },
+    {
+      "id": "SKT-CS-002",
+      "name": "Wingfield Estate Waterfall Grotto: Nature's Embrace",
+      "short_description": "A secluded, lush grotto formed by a natural waterfall within the Wingfield Estate, offering a tranquil and revitalizing sanctuary, perfect for meditation and connection with nature.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Wingfield Estate, Old Road Town, Saint Kitts",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1607567705490-671f65261f86?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Waterfall",
+        "Natural Sanctuary",
+        "Rainforest Serenity"
+      ]
+    },
+    {
+      "id": "SKT-CS-003",
+      "name": "White House Bay Sea Caves: Oceanic Echoes",
+      "short_description": "A series of accessible sea caves carved by the ocean, offering unique natural chambers where the sounds of the waves create a meditative and humbling atmosphere.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "White House Bay, South East Peninsula, Saint Kitts",
+      "visiting_hours": "09:00-16:00 (tide dependent)",
+      "entry_fee": "free (boat tour optional)",
+      "images": "https://images.unsplash.com/photo-1594950965389-70768b57b54a?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Sea Caves",
+        "Coastal Meditation",
+        "Oceanic Soundscape"
+      ]
+    },
+    {
+      "id": "SKT-CS-004",
+      "name": "Greenland Rainforest Sanctuary: Verdant Retreat",
+      "short_description": "A particularly dense and pristine section of the Greenland rainforest, designated as a natural sanctuary, where the canopy's embrace fosters deep connection to the earth's life force.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Greenland, St. Peter's Parish, Saint Kitts (access via trail)",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free (guided tour recommended for EC$40)",
+      "images": "https://images.unsplash.com/photo-1524311099187-b9c1a590a905?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Rainforest",
+        "Nature Retreat",
+        "Biodiversity"
+      ]
+    },
+    {
+      "id": "SKT-AC-001",
+      "name": "Old Road Town Historical Core: First Footprints",
+      "short_description": "The site of the first successful British settlement in the Caribbean, these fragmented remains of early buildings and infrastructure whisper tales of pioneering spirits and foundational history.",
+      "subtype": "Ancient Cities",
+      "address": "Old Road Town, Saint Kitts",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594247895088-7f551b8c04e2?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Colonial Settlement",
+        "First Settlement",
+        "Historical Ruins"
+      ]
+    },
+    {
+      "id": "SKT-AC-002",
+      "name": "Charles Fort Remains: Citadel of Memory",
+      "short_description": "The remains of a 17th-century British fort, guarding the approach to Basseterre, evoke a sense of bygone eras and the strategic importance of this early colonial hub.",
+      "subtype": "Ancient Cities",
+      "address": "Charles Fort Road, Sandy Point, Saint Kitts",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Charles_Fort%2C_St._Kitts_-_Flickr_-_davef3138.jpg/1920px-Charles_Fort%2C_St._Kitts_-_Flickr_-_davef3138.jpg",
+      "tags": [
+        "Colonial Fort",
+        "Military History",
+        "Strategic Site"
+      ]
+    },
+    {
+      "id": "SKT-AC-003",
+      "name": "Cayon Village Ancestral Paths: Echoes of Early Life",
+      "short_description": "Explore the historical core of Cayon, one of the oldest settlements on the island, where pathways and foundations reveal the patterns of early village life and community spirit.",
+      "subtype": "Ancient Cities",
+      "address": "Main Street, Cayon, Saint Kitts",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1574580214371-26c7e14f8287?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Village History",
+        "Community Roots",
+        "Historical Walk"
+      ]
+    },
+    {
+      "id": "SKT-AC-004",
+      "name": "Dieppe Bay Colonial Outpost: French & British Legacy",
+      "short_description": "The remnants of early French and later British fortifications and settlements at Dieppe Bay, marking a contested but historically rich coastal area.",
+      "subtype": "Ancient Cities",
+      "address": "Dieppe Bay, Saint Kitts",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dieppe_Bay%2C_St._Kitts_-_Flickr_-_davef3138.jpg/1920px-Dieppe_Bay%2C_St._Kitts_-_Flickr_-_davef3138.jpg",
+      "tags": [
+        "Colonial Wars",
+        "French History",
+        "Coastal Fortifications"
+      ]
+    },
+    {
+      "id": "SKT-LB-001",
+      "name": "Fairview Great House Garden Labyrinth: Path of Serenity",
+      "short_description": "A charming, geometrically designed garden labyrinth at the historic Fairview Great House, offering a meditative walk for introspection and peaceful reflection.",
+      "subtype": "Labyrinths",
+      "address": "Fairview Great House, Bayfords, Saint Kitts",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "EC$10 (garden entry)",
+      "images": "https://images.unsplash.com/photo-1520610992383-e18d6e3e5b3b?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Garden Art",
+        "Meditation Walk",
+        "Historical Estate"
+      ]
+    },
+    {
+      "id": "SKT-LB-002",
+      "name": "Royal St. Kitts Golf Eco-Labyrinth: Nature's Maze",
+      "short_description": "A unique natural pathway designed as an eco-labyrinth within the lush grounds of the golf course, inviting visitors to a reflective journey through diverse plant life.",
+      "subtype": "Labyrinths",
+      "address": "Royal St. Kitts Golf Course, Frigate Bay, Saint Kitts",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free (public access path)",
+      "images": "https://images.unsplash.com/photo-1506048128456-11f87b8f6285?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Eco-Path",
+        "Nature Walk",
+        "Golf Course Amenity"
+      ]
+    },
+    {
+      "id": "SKT-LB-003",
+      "name": "Soul Path at Mount Pleasant: Journey to Inner Peace",
+      "short_description": "A winding, thoughtfully designed walking trail on Mount Pleasant, featuring quiet nooks and viewpoints, intended as a personal journey of introspection and spiritual renewal.",
+      "subtype": "Labyrinths",
+      "address": "Mount Pleasant Trailhead, St. Peter's Parish, Saint Kitts",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1473773508852-c20e2e71d37a?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Introspection",
+        "Spiritual Walk",
+        "Mountain Trail"
+      ]
+    },
+    {
+      "id": "SKT-LB-004",
+      "name": "The Historic Basseterre Alleyways Labyrinth: Urban Discovery",
+      "short_description": "Explore the intricate network of narrow alleyways and hidden courtyards in historic Basseterre, a metaphorical labyrinth leading to unexpected discoveries and glimpses into colonial life.",
+      "subtype": "Labyrinths",
+      "address": "Central Basseterre, Saint Kitts",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1534065636306-444a80698188?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800",
+      "tags": [
+        "Urban Exploration",
+        "Colonial Town",
+        "Hidden Gems"
+      ]
+    }
+  ]
+}

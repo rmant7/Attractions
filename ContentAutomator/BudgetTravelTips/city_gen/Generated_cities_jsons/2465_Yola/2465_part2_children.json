@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Yola",
+    "city_id": "2465"
+  },
+  "items": [
+    {
+      "id": "YolaJungleMaze",
+      "name": "Yola Jungle Explorer Maze",
+      "short_description": "Navigate through a challenging tropical-themed maze, solving puzzles and discovering hidden treasures. Perfect for young adventurers eager to test their wits and teamwork.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Opposite Federal Secretariat, Jimeta, Yola, Adamawa State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594732168508-3112255679e7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "maze",
+        "puzzle",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "AdamawaHuntTrails",
+      "name": "Adamawa Treasure Hunt Trails",
+      "short_description": "Embark on an exciting scavenger hunt across various themed zones, deciphering clues to find hidden 'treasures'. Encourages problem-solving and exploration.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Along Numan Road, Doubeli, Yola South, Adamawa State",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1558230559-d83020616142?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "scavenger hunt",
+        "exploration",
+        "group activity"
+      ]
+    },
+    {
+      "id": "GongolaRiverQuest",
+      "name": "Gongola River Quest",
+      "short_description": "A water-based adventure game where kids navigate miniature boats through a winding 'river' course, completing challenges to reach the 'ancient artifact'.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Near Gongola River Bridge, Yola North, Adamawa State",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620703875323-01452243d63b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "water game",
+        "boat ride",
+        "challenge"
+      ]
+    },
+    {
+      "id": "PattensenChallenge",
+      "name": "Mount Pattensen Challenge Park",
+      "short_description": "A multi-level obstacle course designed for kids to climb, crawl, and swing their way through various fun challenges, promoting physical activity and agility.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Off Army Barracks Road, Pattensen, Yola, Adamawa State",
+      "opening_hours": "08:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1548682977-2f3b7f9d8a3d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "obstacle course",
+        "climbing",
+        "physical activity"
+      ]
+    },
+    {
+      "id": "YolaDinoPark",
+      "name": "Yola Dino Discovery Park",
+      "short_description": "Walk among life-sized animatronic dinosaurs, learn about prehistoric times, and even participate in a fossil dig simulation. An exciting educational adventure.",
+      "subtype": "Dinosaur Parks",
+      "address": "Opposite A.A. Rano Filling Station, Jimeta, Yola, Adamawa State",
+      "opening_hours": "09:30-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1536636734360-1e582d90f055?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dinosaurs",
+        "education",
+        "animatronics"
+      ]
+    },
+    {
+      "id": "GongolaJurassic",
+      "name": "Gongola Jurassic Adventure",
+      "short_description": "A thrill ride through a simulated prehistoric jungle, encountering roaring dinosaurs and lush ancient flora. Features interactive exhibits and a mini-museum.",
+      "subtype": "Dinosaur Parks",
+      "address": "Near River Benue Bank, Numan Road, Yola, Adamawa State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582260656093-6a6d6d84d547?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dinosaur ride",
+        "thrill",
+        "museum"
+      ]
+    },
+    {
+      "id": "AdamawaPreSafari",
+      "name": "Adamawa Prehistoric Safari",
+      "short_description": "Take an open-air jeep tour through a vast park populated with static and moving dinosaur models, offering fantastic photo opportunities and educational stops.",
+      "subtype": "Dinosaur Parks",
+      "address": "Old Airport Road, Bachure, Yola North, Adamawa State",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628108500249-14a51609121f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "safari",
+        "outdoor",
+        "photography"
+      ]
+    },
+    {
+      "id": "PattensenRaptor",
+      "name": "Pattensen Raptor Retreat",
+      "short_description": "A specialized exhibit focusing on the agile raptor species, featuring interactive displays, a 'raptor run' obstacle course, and a unique 3D movie experience.",
+      "subtype": "Dinosaur Parks",
+      "address": "Adjacent to Federal Housing Estate, Yola, Adamawa State",
+      "opening_hours": "10:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510467554559-54d9c490a618?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "raptors",
+        "interactive",
+        "3D movie"
+      ]
+    },
+    {
+      "id": "YolaFunfair",
+      "name": "Yola Funfair Rides",
+      "short_description": "A classic funfair with a variety of rides suitable for all ages, from gentle carousels to exciting spinning cups and a mini-Ferris wheel.",
+      "subtype": "Amusement Rides",
+      "address": "Near Yola International Airport, Airport Road, Yola, Adamawa State",
+      "opening_hours": "14:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616781702814-c368ff624458?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "carnival",
+        "rides",
+        "family fun"
+      ]
+    },
+    {
+      "id": "SunshineSpinners",
+      "name": "Sunshine Spinners Park",
+      "short_description": "Specializing in spinning rides, this park offers everything from teacup rides to dizzying twisters, ensuring laughter and excitement for all visitors.",
+      "subtype": "Amusement Rides",
+      "address": "Along Numan Road, Opposite State Polytechnic, Yola, Adamawa State",
+      "opening_hours": "12:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1502604758784-0612c6f37699?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "spinning rides",
+        "thrills",
+        "amusement park"
+      ]
+    },
+    {
+      "id": "AdamawaJoyride",
+      "name": "Adamawa Joyride Junction",
+      "short_description": "A collection of classic and modern children's rides including bumper cars, a small roller coaster, and a bouncy castle area. Perfect for younger kids.",
+      "subtype": "Amusement Rides",
+      "address": "Waziri Expressway, Wuro Hausa, Yola South, Adamawa State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1595156686364-7e8220f8c385?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "bumper cars",
+        "roller coaster",
+        "bouncy castle"
+      ]
+    },
+    {
+      "id": "RiverViewThrills",
+      "name": "River View Thrills",
+      "short_description": "Offering exciting rides with scenic views of the Benue River, including a mini-drop tower and a swinging pirate ship. Experience adventure with a beautiful backdrop.",
+      "subtype": "Amusement Rides",
+      "address": "Adjacent to Government House, Jimeta, Yola, Adamawa State",
+      "opening_hours": "11:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1622340578635-c63748281313?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "river view",
+        "drop tower",
+        "pirate ship"
+      ]
+    },
+    {
+      "id": "YolaEnchanted",
+      "name": "Yola Enchanted Forest",
+      "short_description": "Step into a magical forest where classic fairy tale characters come to life. Explore whimsical houses, meet princesses and knights, and enjoy storytime sessions.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Off Galadima Aminu Way, Yola North, Adamawa State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1502844243-70ce6164f9cb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fairy tales",
+        "storytelling",
+        "characters"
+      ]
+    },
+    {
+      "id": "AdamawaWonderland",
+      "name": "Adamawa Wonderland Tales",
+      "short_description": "A vibrant park bringing popular children's stories to life with interactive displays, character meet-and-greets, and gentle rides themed around beloved narratives.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Near Federal Medical Centre, Jimeta, Yola, Adamawa State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1520601262650-f8f90c3cf0c1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "story park",
+        "interactive",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "PrincessHeroes",
+      "name": "Princess & Heroes Kingdom",
+      "short_description": "A dream come true for fans of royalty and bravery! Kids can dress up, participate in royal parades, and train like a hero in this enchanting themed park.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Mubi Road, Opp. AUN, Wuro Hausa, Yola, Adamawa State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549488316-24a91925b6a5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "princesses",
+        "heroes",
+        "role-play"
+      ]
+    },
+    {
+      "id": "GongolaGardens",
+      "name": "Gongola Storybook Gardens",
+      "short_description": "A peaceful garden setting with sculptures and scenes from classic children's storybooks. Perfect for leisurely strolls and imaginative play amidst beautiful flora.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Close to Government House, Doubeli, Yola, Adamawa State",
+      "opening_hours": "08:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1536782376847-5c9d14d97fa3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "gardens",
+        "storybook",
+        "nature"
+      ]
+    },
+    {
+      "id": "YolaJuniorSports",
+      "name": "Yola Junior Sports Complex",
+      "short_description": "A dedicated facility with mini football pitches, basketball courts, and track areas, tailored for children's leagues and recreational play.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Adjacent to Mahmud Ribadu Square, Yola, Adamawa State",
+      "opening_hours": "07:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1548690312-cc96896221d6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "football",
+        "basketball",
+        "athletics"
+      ]
+    },
+    {
+      "id": "AdamawaOlympic",
+      "name": "Adamawa Kids' Olympic Zone",
+      "short_description": "Inspire future athletes with a multi-sport arena offering mini-golf, indoor climbing walls, and a soft-play obstacle course designed for active fun.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Atikum Abubakar Way, Karewa, Yola North, Adamawa State",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1531677326463-549079a02933?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "mini-golf",
+        "climbing",
+        "obstacle course"
+      ]
+    },
+    {
+      "id": "FutureStarsArena",
+      "name": "Future Stars Arena",
+      "short_description": "Focuses on developing coordination and team spirit through various sports challenges, including mini-tennis, badminton, and a fun interactive laser tag arena.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Along Army Barracks Road, Opp. CBN Quarters, Yola, Adamawa State",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558004515-d72f9ff433cc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "tennis",
+        "badminton",
+        "laser tag"
+      ]
+    },
+    {
+      "id": "PattensenPlayPitch",
+      "name": "Pattensen Play Pitch",
+      "short_description": "An outdoor area equipped with small pitches for five-a-side football, netball, and a dedicated space for fun relay races and group games.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Off Numan Road, Federal Low-Cost Housing Estate, Yola, Adamawa State",
+      "opening_hours": "08:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1579952936720-61b6b45a0026?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "outdoor play",
+        "football",
+        "group games"
+      ]
+    },
+    {
+      "id": "YolaIllusionPalace",
+      "name": "Yola Grand Illusion Palace",
+      "short_description": "A spectacular theatre showcasing professional magicians and illusionists, performing dazzling tricks that will amaze and entertain children and adults alike.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Near Specialist Hospital, Jimeta, Yola, Adamawa State",
+      "opening_hours": "18:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1517457210338-b78f86f7e814?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "magic show",
+        "illusions",
+        "theatre"
+      ]
+    },
+    {
+      "id": "AdamawaMagicAcad",
+      "name": "Adamawa Magic Academy",
+      "short_description": "More than just a show, this academy offers interactive workshops where kids can learn basic magic tricks and perform their own mini-shows.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Behind Government House, Doubeli, Yola, Adamawa State",
+      "opening_hours": "10:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563200926-d33a6f11f62e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "magic tricks",
+        "workshop",
+        "interactive"
+      ]
+    },
+    {
+      "id": "EnchantedStage",
+      "name": "Enchanted Stage of Yola",
+      "short_description": "A smaller, intimate venue for close-up magic, comedy magic, and storytelling with a magical twist. Features different local and visiting performers.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Along Lamido Zubairu Road, Opposite Police Headquarters, Jimeta, Yola, Adamawa State",
+      "opening_hours": "17:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1558597327-b64ec1405a41?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "close-up magic",
+        "comedy",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "MysticWonders",
+      "name": "Mystic Wonders Hall",
+      "short_description": "A dedicated hall for grand scale illusions and mentalism shows, featuring guest magicians from across Nigeria. Prepare to be astounded by mind-bending feats.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Along Ahmadu Bello Way, Yola Town, Yola South, Adamawa State",
+      "opening_hours": "19:00-21:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1517036329432-ff4d01b60656?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "grand illusions",
+        "mentalism",
+        "live show"
+      ]
+    },
+    {
+      "id": "YolaBricksBuilds",
+      "name": "Yola Bricks & Builds Park",
+      "short_description": "A paradise for Lego enthusiasts, featuring enormous Lego sculptures, dedicated building zones, and even a 'Miniland' depicting famous Yola landmarks in bricks.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Opposite Specialist Hospital, Jimeta, Yola, Adamawa State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620072054627-2c9c222634e9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Lego",
+        "building",
+        "creativity"
+      ]
+    },
+    {
+      "id": "AdamawaLegoCity",
+      "name": "Adamawa Lego City",
+      "short_description": "Explore a bustling miniature city built entirely from Lego bricks. Kids can also design and add their own creations to the evolving cityscape.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Along Numan Road, Federal Secretariat Area, Yola, Adamawa State",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1588665792942-e1d528b9a117?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Lego city",
+        "model building",
+        "imagination"
+      ]
+    },
+    {
+      "id": "ConstructionZone",
+      "name": "Construction Zone Adventure",
+      "short_description": "A hands-on park where children can operate miniature diggers, cranes, and other construction vehicles in a safe, sand-filled environment. Hard hats provided!",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Wuro Hausa Extension, Near NEPA Office, Yola South, Adamawa State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510599426987-99787e91129b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "construction",
+        "vehicles",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "ImaginationBlockLab",
+      "name": "Imagination Block Lab",
+      "short_description": "Not just Lego, but a variety of building blocks and materials for kids to experiment with design and engineering. Offers structured challenges and free-play zones.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Off Army Barracks Road, Opposite NTA Yola, Yola, Adamawa State",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601666497275-68ff3f1b4c3e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "building blocks",
+        "engineering",
+        "creative play"
+      ]
+    },
+    {
+      "id": "YolaDiscovery",
+      "name": "Yola Kids' Discovery Center",
+      "short_description": "A hands-on museum where children can explore science, art, and culture through interactive exhibits, workshops, and play areas. Learning through doing!",
+      "subtype": "Children’s Museums",
+      "address": "Along Justice Buba Ardo Road, Jimeta, Yola, Adamawa State",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1543269820-2ce3270929df?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "science",
+        "interactive",
+        "education"
+      ]
+    },
+    {
+      "id": "AdamawaYoungMinds",
+      "name": "Adamawa Young Minds Museum",
+      "short_description": "Dedicated to local history, crafts, and the environment. Children can learn about Adamawa's rich heritage through engaging displays and craft activities.",
+      "subtype": "Children’s Museums",
+      "address": "Near Federal Housing Estate, Yola North, Adamawa State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "history",
+        "culture",
+        "crafts"
+      ]
+    },
+    {
+      "id": "CuriosityCorner",
+      "name": "Curiosity Corner Yola",
+      "short_description": "An imaginative space encouraging free-form discovery. Features sensory play areas for toddlers, a costume corner, and a mini-theater for creative expression.",
+      "subtype": "Children’s Museums",
+      "address": "Doubeli Road, Near State Library, Yola, Adamawa State",
+      "opening_hours": "09:30-15:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1569472145327-0c7d425f3851?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sensory play",
+        "imagination",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "FutureInnovators",
+      "name": "Future Innovators Hub",
+      "short_description": "A modern museum focused on technology and innovation, with coding workshops, robotics demonstrations, and virtual reality experiences for young minds.",
+      "subtype": "Children’s Museums",
+      "address": "Off Barracks Road, Opp. American University of Nigeria, Yola, Adamawa State",
+      "opening_hours": "11:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1528659105469-6f103b44b826?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "technology",
+        "robotics",
+        "VR"
+      ]
+    },
+    {
+      "id": "YolaGrandCircus",
+      "name": "Yola Grand Circus Tent",
+      "short_description": "A traditional circus experience featuring acrobats, clowns, jugglers, and mesmerizing animal-free acts under a vibrant big top. Fun for the whole family!",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Located at Mahmud Ribadu Square, Yola, Adamawa State",
+      "opening_hours": "16:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1567305943640-c3d5e2361661?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "circus",
+        "acrobatics",
+        "clowns"
+      ]
+    },
+    {
+      "id": "AdamawaPuppetPlay",
+      "name": "Adamawa Puppet Playhouse",
+      "short_description": "A charming theater presenting classic and original puppet shows, bringing stories to life with intricate marionettes and hand puppets.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Off State House Road, Jimeta, Yola, Adamawa State",
+      "opening_hours": "11:00-13:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1536979564614-c71d604e386a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "puppet show",
+        "marionettes",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "JubileeJamboree",
+      "name": "Jubilee Jamboree Circus",
+      "short_description": "An interactive circus experience where kids can try out simple circus skills like juggling, plate spinning, and balancing acts, before enjoying a lively show.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Along Bishop Crowther Road, Dougirei, Yola, Adamawa State",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574578146604-ee7e64147f25?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive circus",
+        "workshops",
+        "performance"
+      ]
+    },
+    {
+      "id": "EnchantingMarionette",
+      "name": "Enchanting Marionette Theatre",
+      "short_description": "Specializing in elaborate marionette performances, this theatre brings intricate stories to life with beautifully crafted puppets and detailed sets.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Near Federal Polytechnic, Bajabure, Yola, Adamawa State",
+      "opening_hours": "13:00-15:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1521404098902-b062b8006e86?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "marionettes",
+        "theatre",
+        "artistic"
+      ]
+    },
+    {
+      "id": "YolaPettingFarm",
+      "name": "Yola Petting Farm & Gardens",
+      "short_description": "A charming farm where children can interact with friendly farm animals, enjoy pony rides, and explore beautiful botanical gardens.",
+      "subtype": "Farm Attractions",
+      "address": "Along Airport Road, Opposite Yola International Airport, Yola, Adamawa State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1590494024213-9a3b6f0490b6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "pony rides"
+      ]
+    },
+    {
+      "id": "AdamawaRural",
+      "name": "Adamawa Rural Retreat",
+      "short_description": "Experience rural life with traditional farming demonstrations, tractor rides, and seasonal fruit picking activities. Learn about local agriculture.",
+      "subtype": "Farm Attractions",
+      "address": "Outskirts of Jimeta, Along Gombe Road, Yola, Adamawa State",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510257321684-25e4f20f065a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "farming",
+        "tractor ride",
+        "fruit picking"
+      ]
+    },
+    {
+      "id": "SunshineFarm",
+      "name": "Sunshine Farm Adventures",
+      "short_description": "A lively farm park with a corn maze (seasonal), barrel train rides, and a large playground. Offers educational programs on sustainable farming.",
+      "subtype": "Farm Attractions",
+      "address": "Behind AUN, Wuro Hausa, Yola, Adamawa State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517524008697-d866dc82c6c1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "corn maze",
+        "farm playground",
+        "barrel train"
+      ]
+    },
+    {
+      "id": "GongolaHarvest",
+      "name": "Gongola Harvest Haven",
+      "short_description": "A seasonal farm attraction focused on harvest festivals, pumpkin patches, and hayrides. Perfect for autumn family outings and photo opportunities.",
+      "subtype": "Farm Attractions",
+      "address": "Near Gongola River Bridge, Yola, Adamawa State",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1537243603405-c1f0ed52b4fe?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "pumpkin patch",
+        "hayrides",
+        "seasonal"
+      ]
+    }
+  ]
+}

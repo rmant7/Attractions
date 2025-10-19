@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Lagos",
+    "city_id": "2457"
+  },
+  "items": [
+    {
+      "id": "LGS001",
+      "name": "The Lekki Arts Hub",
+      "short_description": "A vibrant new multi-disciplinary creative space featuring contemporary Nigerian art exhibitions, workshops, and a boutique cafe, fostering artistic expression.",
+      "address": "Plot 12, Admiralty Way, Lekki Phase 1, Lagos",
+      "opening_hours": "10:00-19:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579783900882-c0d3ce7bcfae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+      "tags": [
+        "art gallery",
+        "creative space",
+        "exhibitions"
+      ]
+    },
+    {
+      "id": "LGS002",
+      "name": "SkyLounge Lagos",
+      "short_description": "Perched atop a new skyscraper in Eko Atlantic, this luxurious rooftop bar offers panoramic city views, signature cocktails, and vibrant live music nights.",
+      "address": "Eko Pearl Towers, Ahmadu Bello Way, Victoria Island, Lagos",
+      "opening_hours": "17:00-02:00 (Wed-Sun)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1613465712170-4f5358045958?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "tags": [
+        "rooftop bar",
+        "nightlife",
+        "luxury"
+      ]
+    },
+    {
+      "id": "LGS003",
+      "name": "The Urban Oasis Park",
+      "short_description": "A recently redeveloped green space offering serene walking trails, family-friendly play areas, and an outdoor amphitheater for community events, perfect for urban escape.",
+      "address": "Ikorodu Road, Maryland, Lagos",
+      "opening_hours": "06:00-22:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1519661448693-e47c1f0d368e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "tags": [
+        "urban park",
+        "family friendly",
+        "nature"
+      ]
+    },
+    {
+      "id": "LGS004",
+      "name": "Kulture Kitchen & Market",
+      "short_description": "A unique food hall concept showcasing diverse Nigerian culinary traditions alongside a bustling artisanal market selling local produce and crafts, a true taste of Lagos.",
+      "address": "15 Awolowo Road, Ikoyi, Lagos",
+      "opening_hours": "11:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1600335870420-d30969d7637b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "tags": [
+        "food hall",
+        "local cuisine",
+        "artisanal market"
+      ]
+    },
+    {
+      "id": "LGS005",
+      "name": "The Arcade Hub Yaba",
+      "short_description": "Lagos's premier gaming lounge, opened recently, with state-of-the-art consoles, immersive VR experiences, and a competitive esports arena, popular with young adults.",
+      "address": "24 Commercial Avenue, Yaba, Lagos",
+      "opening_hours": "10:00-23:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1542751371-adc38148e663?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "tags": [
+        "gaming lounge",
+        "esports",
+        "virtual reality"
+      ]
+    },
+    {
+      "id": "LGS006",
+      "name": "Lagos Waterfront Promenade",
+      "short_description": "A newly constructed scenic walkway along the Lagos lagoon, perfect for evening strolls, jogging, and enjoying breathtaking sunsets over the city skyline.",
+      "address": "Off Ozumba Mbadiwe Avenue, Victoria Island, Lagos",
+      "opening_hours": "24/7",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1549419161-eb7ff86ff3b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "tags": [
+        "waterfront",
+        "walking path",
+        "scenic views"
+      ]
+    },
+    {
+      "id": "LGS007",
+      "name": "Noir Cinema & Bistro",
+      "short_description": "A luxurious boutique cinema offering an intimate movie-watching experience with plush seating, gourmet snacks, and a sophisticated pre-show bistro, redefined luxury entertainment.",
+      "address": "Block 7, Plot 10, Bishop Aboyade Cole St, Victoria Island, Lagos",
+      "opening_hours": "12:00-23:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1594902896583-0974edc1c73a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "tags": [
+        "boutique cinema",
+        "luxury experience",
+        "fine dining"
+      ]
+    },
+    {
+      "id": "LGS008",
+      "name": "The Zen Wellness Centre",
+      "short_description": "A tranquil sanctuary offering holistic wellness services including spa treatments, yoga classes, and a healthy eating cafe, providing an urban escape for rejuvenation.",
+      "address": "3 Fola Osibo St, Lekki Phase 1, Lagos",
+      "opening_hours": "08:00-20:00 (Mon-Sat)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1590176503947-f4e3c54d318e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "tags": [
+        "spa",
+        "wellness",
+        "yoga"
+      ]
+    },
+    {
+      "id": "LGS009",
+      "name": "Tech & Innovation Hub Lagos",
+      "short_description": "A collaborative co-working space and event venue fostering Lagos's burgeoning tech scene, hosting hackathons, workshops, and startup pitches since its recent opening.",
+      "address": "Herbert Macaulay Way, Alagomeji, Yaba, Lagos",
+      "opening_hours": "08:00-20:00 (Mon-Fri)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594908000021-ddc789a717b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "tags": [
+        "co-working",
+        "tech hub",
+        "innovation"
+      ]
+    },
+    {
+      "id": "LGS010",
+      "name": "AfroFusion Live",
+      "short_description": "A dynamic new live music venue dedicated to showcasing contemporary African music, from Afrobeats to Highlife, with a lively bar and dance floor for unforgettable nights.",
+      "address": "Plot 1410 Adetokunbo Ademola St, Victoria Island, Lagos",
+      "opening_hours": "19:00-03:00 (Thu-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506157788613-2c1137c86a7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "tags": [
+        "live music",
+        "afrobeats",
+        "nightclub"
+      ]
+    }
+  ]
+}

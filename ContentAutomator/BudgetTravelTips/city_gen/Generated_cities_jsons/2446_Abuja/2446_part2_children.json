@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Abuja",
+    "city_id": "2446"
+  },
+  "items": [
+    {
+      "id": "AQG001",
+      "name": "Jabi Lake Explorer Challenge",
+      "short_description": "An exciting outdoor scavenger hunt and obstacle course set around the scenic Jabi Lake, perfect for teams and families.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Jabi Lake Park, Alex Ekwueme Way, Jabi, Abuja",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628173499427-14231b46f592?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxhZHZlbnR1cmUlMjBnYW1lfGVufDB8fHx8MTcxODE5MjQwOXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "outdoor",
+        "teamwork",
+        "puzzle"
+      ]
+    },
+    {
+      "id": "AQG002",
+      "name": "Aso Rock Mystery Quest",
+      "short_description": "Unravel ancient Abuja mysteries in this captivating indoor quest game, combining riddles, physical challenges, and local folklore.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Silverbird Galleria, Plot 1161, Memorial Drive, Central Business District, Abuja",
+      "opening_hours": "11:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1601675200918-620253457a4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxlc2NhcGUlMjByb29tfGVufDB8fHx8MTcxODE5MjQxMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "indoor",
+        "mystery",
+        "brain teaser"
+      ]
+    },
+    {
+      "id": "AQG003",
+      "name": "Eagle Square Survival Challenge",
+      "short_description": "A thrilling urban survival game where kids learn navigation, problem-solving, and basic survival skills in a controlled environment.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Adjacent to Eagle Square, Shehu Shagari Way, Central Business District, Abuja",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549419149-c124a9e53dd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxiaWdzJTIwYWR2ZW50dXJlJTIwcGFya3xlbnwwfHx8fDE3MTgxOTI0MTF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "outdoor",
+        "skills",
+        "challenge"
+      ]
+    },
+    {
+      "id": "AQG004",
+      "name": "Garki Forest Maze",
+      "short_description": "Navigate a labyrinth of hedges and trails, solving riddles to find your way out. A fun and interactive experience for all ages.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Area 8, Garki II, Abuja",
+      "opening_hours": "09:30-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1620857758712-ae293a52e1f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxoZWRnZSUyMG1hemV8ZW58MHx8fHwxNzE4MTkyNDEyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "maze",
+        "outdoor",
+        "family fun"
+      ]
+    },
+    {
+      "id": "IPC001",
+      "name": "Wuse Kids Fun Palace",
+      "short_description": "A vibrant indoor play center featuring multi-level soft play structures, ball pits, and slides for endless fun.",
+      "subtype": "Indoor Play Centers",
+      "address": "Aminu Kano Crescent, Wuse II, Abuja",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579541297619-2169b8281313?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxpbmRvb3IlMjBwbGF5Z3JvdW5kfGVufDB8fHx8MTcxODE5MjQ2OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "soft play",
+        "slides",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "IPC002",
+      "name": "Maitama Adventure Zone",
+      "short_description": "An expansive indoor playground with climbing walls, trampolines, and interactive game zones designed for energetic kids.",
+      "subtype": "Indoor Play Centers",
+      "address": "Nile Street, Maitama, Abuja",
+      "opening_hours": "11:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1616781299902-6e2c90c74384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxpbmRvb3IlMjBhZHZlbnR1cmUlMjBwYXJrfGVufDB8fHx8MTcxODE5MjQ3MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "climbing",
+        "trampolines",
+        "active play"
+      ]
+    },
+    {
+      "id": "IPC003",
+      "name": "Gwarinpa Play Haven",
+      "short_description": "A cozy and safe indoor space for younger children, offering sensory play areas, building blocks, and gentle rides.",
+      "subtype": "Indoor Play Centers",
+      "address": "3rd Avenue, Gwarinpa Estate, Abuja",
+      "opening_hours": "09:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1603525547612-4161a4f0270a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxzZW5zb3J5JTIwcGxheSUyMGFyZWF8ZW58MHx8fHwxNzE4MTkyNDcxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "toddler friendly",
+        "sensory",
+        "educational toys"
+      ]
+    },
+    {
+      "id": "IPC004",
+      "name": "Durumi Bouncing Beans",
+      "short_description": "Focused on active play, this center boasts numerous bouncy castles, inflatable slides, and obstacle courses for high-energy fun.",
+      "subtype": "Indoor Play Centers",
+      "address": "Durumi District, Area 1, Abuja",
+      "opening_hours": "10:30-19:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549457632-4299b90c371d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxpbmZsYXRhYmxlJTIwcGxheXxlbnwwfHx8fDE3MTgxOTI0NzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "bouncy castle",
+        "inflatables",
+        "parties"
+      ]
+    },
+    {
+      "id": "MSA001",
+      "name": "Central Park Mini Golf",
+      "short_description": "A vibrant 18-hole mini-golf course perfect for family outings and friendly competitions, set within a beautiful park landscape.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Central Park, Ademola Adetokunbo Crescent, Wuse II, Abuja",
+      "opening_hours": "09:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596707338006-0d1279d0840e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxtaW5pJTIwZ29sZnxlbnwwfHx8fDE3MTgxOTI1NDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mini golf",
+        "outdoor",
+        "family game"
+      ]
+    },
+    {
+      "id": "MSA002",
+      "name": "Utako Futsal Hub",
+      "short_description": "Dedicated indoor futsal pitches for kids of all ages to practice their football skills, with coaching available.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Adetokunbo Ademola Crescent, Utako, Abuja",
+      "opening_hours": "14:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627993437537-02484f2982d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxmcmVlJTIwc29jY2VyfGVufDB8fHx8MTcxODE5MjU0Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "futsal",
+        "football",
+        "team sport"
+      ]
+    },
+    {
+      "id": "MSA003",
+      "name": "Jabi Skating Rink",
+      "short_description": "An indoor roller-skating rink offering lessons and free skate sessions, perfect for children to glide and have fun.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Next to Jabi Lake Mall, Bala Sokoto Way, Jabi, Abuja",
+      "opening_hours": "12:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510006720448-f6880993e3d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxzayVDMyVBMXRpbmclMjByaW5rfGVufDB8fHx8MTcxODE5MjU0N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "skating",
+        "rollerblading",
+        "active fun"
+      ]
+    },
+    {
+      "id": "MSA004",
+      "name": "Garki Batting Cages",
+      "short_description": "Practice your baseball and softball swings in safe, netted batting cages suitable for different skill levels.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Area 3, Garki, Abuja",
+      "opening_hours": "13:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1600742784013-43d961e06e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxiYXR0aW5nJTIwY2FnZXN8ZW58MHx8fHwxNzE4MTkyNTQ4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "baseball",
+        "batting",
+        "sport practice"
+      ]
+    },
+    {
+      "id": "MIS001",
+      "name": "Abuja Grand Illusion Theatre",
+      "short_description": "Experience breathtaking magic and illusion acts by master magicians, promising a show full of wonder and surprise.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Transcorp Hilton Abuja, 1 Aguiyi Ironsi Street, Maitama, Abuja",
+      "opening_hours": "19:00-21:00 (Weekends only)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1543315752-16ef784d8523?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxtYWdpYyUyMHNob3d8ZW58MHx8fHwxNzE4MTkyNTk5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "magic",
+        "illusions",
+        "live show"
+      ]
+    },
+    {
+      "id": "MIS002",
+      "name": "Kids' Enchanted Stage",
+      "short_description": "Interactive magic shows specifically designed for younger audiences, featuring balloon animals, close-up magic, and comedic acts.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Jabi Lake Mall, Bala Sokoto Way, Jabi, Abuja",
+      "opening_hours": "15:00-16:00 (Saturdays)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510529451952-ceec307b22d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxtYWdpYyUyMGZvciUyMGtpZHN8ZW58MHx8fHwxNzE4MTkyNjAwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "interactive",
+        "children's magic",
+        "comedy"
+      ]
+    },
+    {
+      "id": "MIS003",
+      "name": "The Illusionist's Workshop",
+      "short_description": "A unique experience where children can learn simple magic tricks and understand the science behind illusions in a fun, educational setting.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Area 11, Garki, Abuja",
+      "opening_hours": "10:00-12:00 (Sundays)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1550785194-e0c1f4e19b67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxtYWdpYyUyMGxhYnJhdG9yeXxlbnwwfHx8fDE3MTgxOTI2MDF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "workshop",
+        "educational",
+        "tricks"
+      ]
+    },
+    {
+      "id": "MIS004",
+      "name": "Wuse Wonderland Wonders",
+      "short_description": "A boutique theatre hosting intimate magic performances and storytelling with magical twists, ideal for younger kids.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Adetokunbo Ademola Crescent, Wuse II, Abuja",
+      "opening_hours": "16:00-17:00 (Weekends)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1594917536841-3a0a38f0d018?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxtYWdpYyUyMGNoaWxkcmVufGVufDB8fHx8MTcxODE5MjYwMnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "storytelling",
+        "intimate",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "AQU001",
+      "name": "Abuja Underwater World",
+      "short_description": "Discover a fascinating collection of fresh and saltwater marine life, including local Nigerian species and exotic fish.",
+      "subtype": "Aquariums",
+      "address": "Plot 101, Central Business District, Abuja",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1620601366167-33157e8ebca6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxhcXVhcml1bXxlbnwwfHx8fDE3MTgxOTI2NjN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marine life",
+        "educational",
+        "fish"
+      ]
+    },
+    {
+      "id": "AQU002",
+      "name": "Eco-Marine Discovery Center",
+      "short_description": "An interactive center focused on aquatic conservation, featuring touch tanks, exhibits on marine ecosystems, and a variety of colorful fish.",
+      "subtype": "Aquariums",
+      "address": "Federal Capital Territory University of Technology, Gwagwalada, Abuja",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563207435-0810ec5a073f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxhcXVhcml1bSUyMHRvdWNoJTIwdGFua3xlbnwwfHx8fDE3MTgxOTI2NjR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "conservation",
+        "touch tank",
+        "interactive"
+      ]
+    },
+    {
+      "id": "AQU003",
+      "name": "River Wonders Exhibit",
+      "short_description": "Showcasing the diverse aquatic life found in Nigeria's rivers and lakes, educating visitors on local biodiversity.",
+      "subtype": "Aquariums",
+      "address": "National Children's Park and Zoo, Asokoro, Abuja",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628173516515-e23a6f446973?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxmcmVzaHdhdGVyJTIwZmlzaHxlbnwwfHx8fDE3MTgxOTI2NjV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "local species",
+        "freshwater",
+        "biodiversity"
+      ]
+    },
+    {
+      "id": "AQU004",
+      "name": "Oceanic Gallery Abuja",
+      "short_description": "A small but captivating gallery dedicated to deep-sea creatures and coral reef ecosystems, with virtual reality experiences.",
+      "subtype": "Aquariums",
+      "address": "Ademola Adetokunbo Crescent, Wuse II, Abuja",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517726759048-2b87f4803565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxvY2VhbiUyMGZpc2h8ZW58MHx8fHwxNzE4MTkyNjY2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coral reef",
+        "deep sea",
+        "virtual reality"
+      ]
+    },
+    {
+      "id": "CPT001",
+      "name": "Abuja Grand Circus Tent",
+      "short_description": "A dazzling traditional circus featuring acrobats, clowns, animal acts (ethical), and thrilling performances for the whole family.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Adjacent to City Park, Wuse II, Abuja",
+      "opening_hours": "17:00-19:00 (Seasonal)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1534069818817-5e9262f33f11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxtYWdpYyUyMGNpcmN1c3xlbnwwfHx8fDE3MTgxOTI3MTl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "circus",
+        "acrobatics",
+        "family entertainment"
+      ]
+    },
+    {
+      "id": "CPT002",
+      "name": "Puppet Palace Garki",
+      "short_description": "Charming puppet shows bringing classic fairy tales and local stories to life with beautifully crafted puppets and engaging narratives.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Area 7, Garki, Abuja",
+      "opening_hours": "14:00-15:00 (Weekends)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549463943-7a917e804595?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxwJUMzJUI5cHBldCUyMHNob3d8ZW58MHx8fHwxNzE4MTkyNzIwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "puppet show",
+        "storytelling",
+        "children's theatre"
+      ]
+    },
+    {
+      "id": "CPT003",
+      "name": "The Flying Trapeze Kids Circus",
+      "short_description": "An interactive circus school where children can try their hand at juggling, clowning, and simple aerial arts in a safe environment.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Utako District, Abuja",
+      "opening_hours": "10:00-13:00 (Saturdays)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616428751538-89c56cf467c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxhZXJpYWwlMjBhcnRzfGVufDB8fHx8MTcxODE5MjcyMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "circus school",
+        "interactive",
+        "skills"
+      ]
+    },
+    {
+      "id": "CPT004",
+      "name": "Maitama Marionette Theatre",
+      "short_description": "Elegant marionette performances retelling classic fables and modern tales with intricate string puppets and musical scores.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Mississippi Street, Maitama, Abuja",
+      "opening_hours": "15:30-16:30 (Sundays)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1608674514065-4f7f52f8d348?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxtYXJpb25ldHRlfGVufDB8fHx8MTcxODE5MjcyMnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marionettes",
+        "theatre",
+        "fables"
+      ]
+    },
+    {
+      "id": "PK001",
+      "name": "Abuja Junior Stargazer Dome",
+      "short_description": "An immersive dome experience introducing children to constellations, planets, and the wonders of the night sky.",
+      "subtype": "Planetariums for Kids",
+      "address": "National Space Research and Development Agency (NASRDA), Obasanjo Space Centre, Abuja",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542840428-1b6e4e861d87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxwcm9qZWN0aW9uJTIwZG9tZXxlbnwwfHx8fDE3MTgxOTI3ODR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "space",
+        "educational"
+      ]
+    },
+    {
+      "id": "PK002",
+      "name": "Galaxy Explorers Planetarium",
+      "short_description": "Interactive shows and visual journeys through the solar system, designed to spark curiosity about space science in young minds.",
+      "subtype": "Planetariums for Kids",
+      "address": "Shehu Yar'adua Centre, 1 Memorial Drive, Central Business District, Abuja",
+      "opening_hours": "11:00-17:00 (Weekends)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1514787132145-a7b69c73b063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxwcm9qZWN0aW9uJTIwc3RhcnN8ZW58MHx8fHwxNzE4MTkyNzg1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "solar system",
+        "science",
+        "immersive"
+      ]
+    },
+    {
+      "id": "PK003",
+      "name": "Star Dust Kids Observatory",
+      "short_description": "A kid-friendly observatory offering safe telescope viewing of the moon and brighter planets, accompanied by engaging talks.",
+      "subtype": "Planetariums for Kids",
+      "address": "University of Abuja, Main Campus, Airport Road, Abuja",
+      "opening_hours": "18:00-20:00 (Clear nights)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522080766159-9f795d3122c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxuY2hpbGRyZW4lMjBvYnNlcnZhdG9yeXxlbnwwfHx8fDE3MTgxOTI3ODZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "observatory",
+        "telescope",
+        "night sky"
+      ]
+    },
+    {
+      "id": "PK004",
+      "name": "Cosmic Play Dome",
+      "short_description": "Combines a planetarium experience with an interactive play area, where kids can build rockets and explore space-themed exhibits.",
+      "subtype": "Planetariums for Kids",
+      "address": "Wuse District, Zone 4, Abuja",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563853110260-2586eb8c4ed9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxzcGFjZSUyMHRoZW1lZCUyMHBsYXlncm91bmR8ZW58MHx8fHwxNzE4MTkyNzg3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "space theme",
+        "play area",
+        "rockets"
+      ]
+    },
+    {
+      "id": "STP001",
+      "name": "Heritage Tales Garden",
+      "short_description": "A tranquil park where professional storytellers weave captivating Nigerian folk tales and legends under shaded trees.",
+      "subtype": "Storytelling Parks",
+      "address": "National Park, Area 10, Garki, Abuja",
+      "opening_hours": "10:00-14:00 (Weekends)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1522204523234-87295a7ee5a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxzY2VuZXJ5JTIwcGFya3xlbnwwfHx8fDE3MTgxOTI4NDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "folklore",
+        "outdoor",
+        "cultural"
+      ]
+    },
+    {
+      "id": "STP002",
+      "name": "Whispering Woods Story Park",
+      "short_description": "Follow interactive story trails with hidden surprises and listen to engaging narratives about nature and fantasy creatures.",
+      "subtype": "Storytelling Parks",
+      "address": "Maitama District, along Shehu Shagari Way, Abuja",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1507747805663-049836371a5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxsYW5kY2FwZSUyMGZhaXJ5JTIwdGFsZXN8ZW58MHx8fHwxNzE4MTkyODQxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature",
+        "fantasy",
+        "interactive trail"
+      ]
+    },
+    {
+      "id": "STP003",
+      "name": "Fantasy Fables Lagoon",
+      "short_description": "A whimsical park with themed zones dedicated to popular children's stories, featuring costumed characters and daily story readings.",
+      "subtype": "Storytelling Parks",
+      "address": "Jabi District, near Jabi Lake, Abuja",
+      "opening_hours": "10:30-16:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1523995400516-2d338871626f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxmYWlyeXRhbGUlMjBwYXJrfGVufDB8fHx8MTcxODE5Mjg0Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "themed park",
+        "characters",
+        "readings"
+      ]
+    },
+    {
+      "id": "STP004",
+      "name": "Abuja Rhyme & Reason Grove",
+      "short_description": "A creative space where children are encouraged to create and share their own stories and poems in an inspiring natural setting.",
+      "subtype": "Storytelling Parks",
+      "address": "Lifecamp Area, Abuja",
+      "opening_hours": "09:00-15:00 (Weekdays for schools)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1506784983877-28774742a717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxpbnNwaXJhdGlvbmFsJTIwcGFya3xlbnwwfHx8fDE3MTgxOTI4NDN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "creative writing",
+        "poetry",
+        "nature"
+      ]
+    },
+    {
+      "id": "ZPZ001",
+      "name": "Abuja National Children's Zoo",
+      "short_description": "A well-maintained zoo with a focus on African wildlife and conservation, offering educational programs and feeding sessions.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "National Children's Park and Zoo, Asokoro, Abuja",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1610477218698-386b628469a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHx6b298ZW58MHx8fHwxNzE4MTkyODkyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "educational"
+      ]
+    },
+    {
+      "id": "ZPZ002",
+      "name": "Gwarinpa Petting Farm",
+      "short_description": "An interactive petting zoo where children can safely interact with and feed friendly farm animals like goats, rabbits, and chickens.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "2nd Avenue, Gwarinpa Estate, Abuja",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1598273648074-b58097b83d81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxwZXR0aW5nJTIwem9vfGVufDB8fHx8MTcxODE5Mjg5M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "farm animals",
+        "interactive",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "ZPZ003",
+      "name": "Critter Corner Discovery",
+      "short_description": "A smaller, specialized zoo focusing on reptiles, birds, and small mammals, with expert handlers offering engaging presentations.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Wuse II, Abuja",
+      "opening_hours": "11:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563289063-2280d9a7d30d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxyZXB0aWxlJTIwem9vfGVufDB8fHx8MTcxODE5Mjg5NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "reptiles",
+        "birds",
+        "small mammals"
+      ]
+    },
+    {
+      "id": "ZPZ004",
+      "name": "Eco-Farm & Wildlife Sanctuary",
+      "short_description": "Combines a sustainable farm experience with a sanctuary for rescued local wildlife, offering tours and educational insights.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Kwali Area Council, Abuja (Outskirts)",
+      "opening_hours": "09:00-16:00 (Appointment recommended)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582061274109-17852f829f0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHdzYW5jdHVhcnl8ZW58MHx8fHwxNzE4MTkyODk1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sanctuary",
+        "sustainable",
+        "rescued animals"
+      ]
+    },
+    {
+      "id": "LCP001",
+      "name": "Abuja Brick Builders Hub",
+      "short_description": "An expansive indoor space dedicated to Lego building, featuring massive display models, free-play zones, and building challenges.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Jabi Lake Mall, Bala Sokoto Way, Jabi, Abuja",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621213233630-3c224213d2a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxsZWdvJTIwZGlzcGxheXxlbnwwfHx8fDE3MTgxOTI5NTl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lego",
+        "building",
+        "creative play"
+      ]
+    },
+    {
+      "id": "LCP002",
+      "name": "Construction Junction Garki",
+      "short_description": "A hands-on construction park where kids can operate mini-diggers, build with large blocks, and engage in safe, supervised 'construction' work.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Area 8, Garki II, Abuja",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596765792039-380d19f56b77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxiaWclMjBjb25zdHJ1Y3Rpb24lMjB0b3lcfGVufDB8fHx8MTcxODE5Mjk2MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "construction",
+        "diggers",
+        "outdoor play"
+      ]
+    },
+    {
+      "id": "LCP003",
+      "name": "Tech Bricks Academy",
+      "short_description": "Offers workshops on robotics and engineering using Lego Mindstorms and other advanced building kits for older children interested in STEM.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Wuse Zone 5, Abuja",
+      "opening_hours": "14:00-18:00 (Weekdays for workshops)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1622383563914-726715f3a0df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxsZWdvJTIwcm9ib3RpY3N8ZW58MHx8fHwxNzE4MTkyOTYxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "robotics",
+        "STEM",
+        "workshops"
+      ]
+    },
+    {
+      "id": "LCP004",
+      "name": "Mini City Builders Club",
+      "short_description": "A collaborative space where children can contribute to building a sprawling Lego city, fostering teamwork and architectural skills.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Maitama District, Abuja",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549429283-e02927230554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTc0ODd8MHwxfHNlYXJjaHwzfHxsZWdvJTIwY2l0eXxlbnwwfHx8fDE3MTgxOTI5NjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "city building",
+        "teamwork",
+        "architecture"
+      ]
+    }
+  ]
+}

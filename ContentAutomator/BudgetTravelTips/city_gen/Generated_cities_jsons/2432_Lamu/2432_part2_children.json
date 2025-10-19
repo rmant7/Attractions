@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Lamu",
+    "city_id": "2432"
+  },
+  "items": [
+    {
+      "id": "CM001",
+      "name": "Dhow Builders Workshop & Museum",
+      "short_description": "Explore the ancient craft of dhow building with interactive exhibits, miniature models, and live demonstrations of traditional shipbuilding techniques.",
+      "subtype": "Children’s Museums",
+      "address": "Waterfront, near Lamu Fort, Lamu Old Town",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594950961520-a6122d10f545?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "history",
+        "crafts",
+        "boats"
+      ]
+    },
+    {
+      "id": "CM002",
+      "name": "Swahili Kids' Kitchen & Crafts",
+      "short_description": "A hands-on museum where children learn to prepare simple Swahili dishes, create traditional pottery, and weave with local materials.",
+      "subtype": "Children’s Museums",
+      "address": "Peponi Road, Shela Village",
+      "opening_hours": "10:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549419137-77402ef708c3?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "culture",
+        "cooking",
+        "art"
+      ]
+    },
+    {
+      "id": "CM003",
+      "name": "Lamu Marine Life Discovery Center",
+      "short_description": "Dive into the underwater world of Lamu with interactive exhibits, touch tanks, and educational displays about local fish, corals, and marine conservation.",
+      "subtype": "Children’s Museums",
+      "address": "Front Street, Lamu Old Town",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1548677610-8aa1a7d18915?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "marine life",
+        "science",
+        "conservation"
+      ]
+    },
+    {
+      "id": "CM004",
+      "name": "Donkey Sanctuary & Heritage Hub",
+      "short_description": "Learn about the vital role of donkeys in Lamu's history and daily life. Kids can help with donkey care and explore traditional tools.",
+      "subtype": "Children’s Museums",
+      "address": "Donkey Sanctuary Lane, Lamu Old Town",
+      "opening_hours": "10:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1639075726244-a02e623ec285?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "animals",
+        "history",
+        "community"
+      ]
+    },
+    {
+      "id": "CMG001",
+      "name": "Jua the Dhow's Crew Meet-up",
+      "short_description": "Meet Jua, the friendly dhow, and her cheerful crew of sea-faring cartoon characters for fun photo opportunities and sing-alongs.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Along the Jetty, Lamu Old Town",
+      "opening_hours": "11:00-12:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616550714777-ed851b433e14?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "characters",
+        "dhows",
+        "photos"
+      ]
+    },
+    {
+      "id": "CMG002",
+      "name": "Pili the Parrot's Pirate Party",
+      "short_description": "Join Pili, the colorful Lamu parrot, and her pirate friends for a lively meet-and-greet filled with games and pirate tales.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Shela Beach, near Peponi Hotel",
+      "opening_hours": "14:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582260667503-3d069b276c70?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "animals",
+        "pirates",
+        "fun"
+      ]
+    },
+    {
+      "id": "CMG003",
+      "name": "Mzee Kasa's Coral Friends",
+      "short_description": "Meet Mzee Kasa, the wise old sea turtle, and his vibrant coral reef friends. Learn about marine life and snap memorable photos.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Manda Beach, Manda Island",
+      "opening_hours": "13:00-14:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510362326941-0f7976e19197?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "marine life",
+        "education",
+        "characters"
+      ]
+    },
+    {
+      "id": "CMG004",
+      "name": "Donkey Tales with Dunda",
+      "short_description": "Encounter Dunda, the friendly Lamu donkey character, for storytelling sessions and gentle interactions that highlight the island's unique culture.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Lamu Old Town Square (near the Fort)",
+      "opening_hours": "10:30-11:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1664536294793-78c569f4640d?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "animals",
+        "culture",
+        "stories"
+      ]
+    },
+    {
+      "id": "MSA001",
+      "name": "Beach Olympics Playground",
+      "short_description": "A vibrant mini-arena on Shela beach offering scaled-down versions of beach volleyball, football, and creative sandcastle-building competitions.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Shela Public Beach, Shela Village",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1620831614741-bb0d421fb3d5?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "beach sports",
+        "outdoor",
+        "games"
+      ]
+    },
+    {
+      "id": "MSA002",
+      "name": "Dhow Race Simulator Challenge",
+      "short_description": "Experience the thrill of a traditional dhow race through an engaging virtual reality simulator, complete with interactive rowing and sailing challenges.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Utukufu Street, Lamu Old Town",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549117658-ec3791334969?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "virtual reality",
+        "sailing",
+        "challenge"
+      ]
+    },
+    {
+      "id": "MSA003",
+      "name": "Coconut Tree Climb & Swing",
+      "short_description": "A safe and exhilarating area for kids to try guided coconut tree climbing and enjoy swings fashioned from natural materials.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Near Kizingoni Beach, Lamu East",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1603504104257-234b6e594b2f?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "climbing",
+        "nature"
+      ]
+    },
+    {
+      "id": "MSA004",
+      "name": "Old Town Alleyway Games",
+      "short_description": "A series of traditional Swahili street games adapted for children, set within a charming replica of Lamu's narrow alleyways.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Kenyatta Road, Lamu Old Town",
+      "opening_hours": "10:00-15:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1605342750392-f3f773418c39?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "traditional games",
+        "culture",
+        "street play"
+      ]
+    },
+    {
+      "id": "FTP001",
+      "name": "Sultan's Secret Garden",
+      "short_description": "Wander through a lush, enchanted garden inspired by Swahili royalty tales, featuring hidden nooks, mystical statues, and whispering fountains.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Behind Lamu Fort, Lamu Old Town",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1592654303126-a9e99c3e98b0?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fantasy",
+        "gardens",
+        "royalty"
+      ]
+    },
+    {
+      "id": "FTP002",
+      "name": "Coral Kingdom Maze",
+      "short_description": "Navigate an exciting, immersive maze themed as an underwater coral kingdom, populated by friendly characters from local marine legends.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Manda Island, near Manda Bay",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1594754792644-8c823f6e56b0?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "maze",
+        "marine life",
+        "legends"
+      ]
+    },
+    {
+      "id": "FTP003",
+      "name": "The Whispering Baobab Grove",
+      "short_description": "Discover an enchanting grove of ancient baobab trees, where hidden sound installations share age-old Lamu stories and fables.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Just outside Shela Village, towards the dunes",
+      "opening_hours": "09:30-17:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1627885012354-94a01c8a66ec?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "stories",
+        "magic"
+      ]
+    },
+    {
+      "id": "FTP004",
+      "name": "Genie's Bottle Island",
+      "short_description": "An imaginative mini-island playground inspired by Arabian Nights and local genie stories, featuring whimsical structures and water play areas.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Floating platform near Lamu Waterfront",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1623912169542-f8c5c7d0e408?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fantasy",
+        "playground",
+        "water fun"
+      ]
+    },
+    {
+      "id": "PFK001",
+      "name": "Star Sailors Dome",
+      "short_description": "A captivating dome experience focused on how dhow sailors navigated by the stars, exploring constellations and celestial myths relevant to coastal cultures.",
+      "subtype": "Planetariums for Kids",
+      "address": "Lamu Fort grounds, Lamu Old Town",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506461994648-5256e299ec5e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "stars",
+        "navigation",
+        "dhows"
+      ]
+    },
+    {
+      "id": "PFK002",
+      "name": "Moonlit Mangrove Observatory",
+      "short_description": "An open-air observatory offering simple telescope viewing sessions of the moon and stars, complemented by local legends about the night sky.",
+      "subtype": "Planetariums for Kids",
+      "address": "Near Manda Toto, Manda Island",
+      "opening_hours": "18:30-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1542385108-724d2d475ceb?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "stargazing",
+        "mangroves",
+        "folklore"
+      ]
+    },
+    {
+      "id": "PFK003",
+      "name": "Constellation Corner",
+      "short_description": "A cozy, inflatable planetarium dome for younger children, presenting basic star shows and engaging stories about the brightest constellations.",
+      "subtype": "Planetariums for Kids",
+      "address": "Shela Village Community Hall, Shela",
+      "opening_hours": "11:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1601017770967-73238640165c?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "astronomy",
+        "toddlers",
+        "learning"
+      ]
+    },
+    {
+      "id": "PFK004",
+      "name": "Dhow Navigator's Stargazing Deck",
+      "short_description": "An elevated deck offering guided stargazing sessions with binoculars and telescopes, focusing on cultural astronomy and traditional navigation.",
+      "subtype": "Planetariums for Kids",
+      "address": "Top floor of a building near the waterfront, Lamu Old Town",
+      "opening_hours": "19:00-21:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1504338940822-4917a1b41e6b?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "stargazing",
+        "culture",
+        "night sky"
+      ]
+    },
+    {
+      "id": "AQ001",
+      "name": "Lamu Living Reef Exhibit",
+      "short_description": "A vibrant aquarium showcasing the diverse marine life of Lamu's coral reefs, with interactive displays on local fish species and their habitats.",
+      "subtype": "Aquariums",
+      "address": "Front Street, near Lamu Museum, Lamu Old Town",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1588661706689-d19118e11ee9?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "marine life",
+        "coral reef",
+        "education"
+      ]
+    },
+    {
+      "id": "AQ002",
+      "name": "Turtle Hatchery & Rescue",
+      "short_description": "Visit a dedicated center for sea turtle conservation, observe rescued turtles, and learn about the local turtle hatching programs.",
+      "subtype": "Aquariums",
+      "address": "Shela Beach, towards the north end",
+      "opening_hours": "10:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1593361099684-0e31e5055627?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "turtles",
+        "conservation",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "AQ003",
+      "name": "Mangrove Wonders Tank",
+      "short_description": "Discover the unique ecosystem of Lamu's mangroves through specialized tanks showcasing fish, crustaceans, and other creatures that thrive there.",
+      "subtype": "Aquariums",
+      "address": "Near Manda Island Jetty, Manda Island",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1606554522437-123476ee4b29?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "mangroves",
+        "ecosystem",
+        "aquatic life"
+      ]
+    },
+    {
+      "id": "AQ004",
+      "name": "Seahorse Lagoon",
+      "short_description": "A captivating exhibit dedicated to the delicate beauty of seahorses, featuring various local species in meticulously recreated habitats.",
+      "subtype": "Aquariums",
+      "address": "Along the Main Pier, Lamu Old Town",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1522851163152-d17e6e5a498b?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "seahorses",
+        "exotic fish",
+        "biodiversity"
+      ]
+    },
+    {
+      "id": "STP001",
+      "name": "Bustani ya Hadithi (Garden of Tales)",
+      "short_description": "An enchanting outdoor amphitheater where local storytellers share traditional Swahili myths, legends, and fables under the shade of ancient trees.",
+      "subtype": "Storytelling Parks",
+      "address": "Near the Old Town Market, Lamu Old Town",
+      "opening_hours": "10:00-12:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1558230588-433e1ee4f141?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "folklore",
+        "culture",
+        "live performance"
+      ]
+    },
+    {
+      "id": "STP002",
+      "name": "The Baobab of Wisdom",
+      "short_description": "Gather around a majestic baobab tree for immersive storytelling sessions, where ancient tales of wisdom and adventure come alive.",
+      "subtype": "Storytelling Parks",
+      "address": "On the path between Lamu and Shela",
+      "opening_hours": "14:00-16:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1627885012354-94a01c8a66ec?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "fables",
+        "oral tradition"
+      ]
+    },
+    {
+      "id": "STP003",
+      "name": "Dhow Legends Lakeside",
+      "short_description": "Experience captivating stories of the sea and legendary dhow journeys, told by master storytellers either on a traditional dhow or by a serene waterside setting.",
+      "subtype": "Storytelling Parks",
+      "address": "Waterfront Park, Lamu Old Town",
+      "opening_hours": "15:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549117658-ec3791334969?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sea stories",
+        "dhows",
+        "legends"
+      ]
+    },
+    {
+      "id": "STP004",
+      "name": "Island Lore Lagoon",
+      "short_description": "Explore an interactive park setting where pressing buttons or activating sensors triggers short, engaging stories about Lamu's unique island myths and history.",
+      "subtype": "Storytelling Parks",
+      "address": "Manda Island, near the beach resorts",
+      "opening_hours": "11:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1542602737-7098e9455a5b?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive",
+        "myths",
+        "island history"
+      ]
+    },
+    {
+      "id": "PAP001",
+      "name": "Dhow Adventure Playground",
+      "short_description": "A themed playground featuring structures shaped like traditional dhows, climbing nets like rigging, and vast sandpits for creative play.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Shela Beachfront, Shela Village",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1601736691459-0f46c2688b1b?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "outdoor play",
+        "dhows",
+        "beach"
+      ]
+    },
+    {
+      "id": "PAP002",
+      "name": "Donkey Trail Challenge",
+      "short_description": "An engaging mini-obstacle course designed for kids, mimicking the paths and challenges of Lamu's donkey routes, with safe climbing and balance elements.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Behind Lamu Museum, Lamu Old Town",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616428751508-3693e5066a34?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "obstacle course",
+        "donkeys",
+        "active play"
+      ]
+    },
+    {
+      "id": "PAP003",
+      "name": "Mangrove Climb & Slide",
+      "short_description": "A unique adventure playground with structures resembling mangrove roots, interconnected by slides, swings, and rope bridges for exploration.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Manda Bay Beach, Manda Island",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1577770851890-a5441547477e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "climbing",
+        "nature-themed",
+        "adventure"
+      ]
+    },
+    {
+      "id": "PAP004",
+      "name": "Lamu Fort Fun Zone",
+      "short_description": "An exciting adventure playground located near the historic Lamu Fort, featuring climbing walls, slides, and towers inspired by its ancient architecture.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Grounds adjacent to Lamu Fort, Lamu Old Town",
+      "opening_hours": "08:30-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1621532986427-463d1a80c982?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fortress",
+        "historic",
+        "playground"
+      ]
+    },
+    {
+      "id": "AQG001",
+      "name": "The Sultan's Lost Treasure Hunt",
+      "short_description": "Embark on an epic treasure hunt through the winding alleys of Lamu Old Town, solving riddles and following clues to find the Sultan's lost riches.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Starts at Lamu Fort, Lamu Old Town",
+      "opening_hours": "09:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1595180183577-bb891398846c?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "treasure hunt",
+        "old town",
+        "mystery"
+      ]
+    },
+    {
+      "id": "AQG002",
+      "name": "Dhow Captain's Compass Quest",
+      "short_description": "A navigation-themed quest where kids learn to use a compass and map to find hidden points along the Lamu waterfront, discovering nautical secrets.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Starts at the Main Jetty, Lamu Old Town",
+      "opening_hours": "10:00-14:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1550547071-8b17b203c9b7?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "navigation",
+        "dhows",
+        "exploration"
+      ]
+    },
+    {
+      "id": "AQG003",
+      "name": "Marine Mystery Eco-Quest",
+      "short_description": "An educational adventure on Shela Beach, where teams solve environmental puzzles and challenges to uncover secrets of marine conservation.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Starts at Shela Beach entrance",
+      "opening_hours": "09:30-13:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594754792644-8c823f6e56b0?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ecology",
+        "beach",
+        "puzzle"
+      ]
+    },
+    {
+      "id": "AQG004",
+      "name": "Manda Island Explorer's Challenge",
+      "short_description": "A guided quest across Manda Island, leading kids through historical sites and natural landscapes to complete challenges and learn about the island's past.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Starts at Manda Island Jetty",
+      "opening_hours": "10:30-16:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1542602737-7098e9455a5b?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "island exploration",
+        "history",
+        "nature"
+      ]
+    },
+    {
+      "id": "MIS001",
+      "name": "The Mystic Dhow Captain's Tricks",
+      "short_description": "A captivating magic show where a 'dhow captain' performs illusions and magic tricks using nautical themes and traditional Lamu elements.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Lamu Waterfront Cultural Tent, Lamu Old Town",
+      "opening_hours": "18:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549117658-ec3791334969?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "magic",
+        "illusion",
+        "dhows"
+      ]
+    },
+    {
+      "id": "MIS002",
+      "name": "Swahili Sorcerer's Secrets",
+      "short_description": "A unique magic and illusion show blending traditional Swahili storytelling with astonishing feats of magic, promising a cultural and magical experience.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Shela Community Hall, Shela Village",
+      "opening_hours": "16:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616550714777-ed851b433e14?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "culture",
+        "magic tricks",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "MIS003",
+      "name": "Desert Genie's Delights",
+      "short_description": "A mesmerizing show featuring a 'desert genie' performing classic illusions with an Arabian Nights flair, filled with wonder and mystery.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Manda Island Resort Entertainment Area",
+      "opening_hours": "19:30-20:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1506461994648-5256e299ec5e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "genie",
+        "illusions",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "MIS004",
+      "name": "Ocean Wonders Magic Show",
+      "short_description": "Witness a magical spectacle inspired by the ocean, where illusions involve disappearing fish, conjured water, and other marine-themed wonders.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Near Lamu Museum Courtyard, Lamu Old Town",
+      "opening_hours": "17:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1548677610-8aa1a7d18915?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ocean",
+        "magic",
+        "aquatic"
+      ]
+    }
+  ]
+}

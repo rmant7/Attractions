@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Makurdi",
+    "city_id": "2459"
+  },
+  "items": [
+    {
+      "id": "MKR_MRF_001",
+      "name": "Akaaya Rock of Ancestors",
+      "short_description": "A cluster of towering granite monoliths revered by local communities as the dwelling place of ancient spirits and a site for traditional rites of passage.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Off Otukpo Road, near Ushongo Junction, Makurdi, Benue State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1547820352-730164c062c3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral worship",
+        "rock formations",
+        "spiritual rites"
+      ]
+    },
+    {
+      "id": "MKR_MRF_002",
+      "name": "Ikyogen Sacred Boulders",
+      "short_description": "An assembly of large, smooth boulders believed to hold protective powers. Elders visit to offer prayers for peace and successful harvests.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Gboko Road, near Modern Market, Makurdi, Benue State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579294247738-16479b009e5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "protection",
+        "harvest rituals",
+        "natural wonder"
+      ]
+    },
+    {
+      "id": "MKR_MRF_003",
+      "name": "Tiv Ancestral Pillars",
+      "short_description": "Naturally formed rock pillars, said to represent the founding ancestors of the Tiv people. A place for reflection and connecting with ancient heritage.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "North Bank Area, along River Benue, Makurdi, Benue State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 300",
+      "images": "https://images.unsplash.com/photo-1627993077641-5a1e2f3d6928?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Tiv culture",
+        "heritage site",
+        "meditation"
+      ]
+    },
+    {
+      "id": "MKR_MRF_004",
+      "name": "Orokam Whispering Rocks",
+      "short_description": "A unique formation of rocks with natural crevices that create whispering sounds in the wind, believed to be the voices of ancient oracles communicating messages.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Near Makurdi Modern Market, Makurdi, Benue State",
+      "visiting_hours": "08:30-17:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1621375376046-e555909249d9?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "oracle",
+        "nature sounds",
+        "spiritual communication"
+      ]
+    },
+    {
+      "id": "MKR_AC_001",
+      "name": "Ruins of Kwande Kingdom",
+      "short_description": "Remnants of a once-thriving pre-colonial Kwande kingdom, offering a glimpse into the sophisticated urban planning and spiritual practices of ancient Makurdi inhabitants.",
+      "subtype": "Ancient Cities",
+      "address": "Outskirts of North Bank, near River Benue, Makurdi, Benue State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://images.unsplash.com/photo-1548011295-8495a6391494?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "archeology",
+        "ancient history",
+        "kingdom ruins"
+      ]
+    },
+    {
+      "id": "MKR_AC_002",
+      "name": "Benue River City Remains",
+      "short_description": "Submerged and partially excavated remains of an ancient settlement along the Benue River, believed to be a trading and spiritual hub of a forgotten civilization.",
+      "subtype": "Ancient Cities",
+      "address": "Along River Benue embankment, Wurukum, Makurdi, Benue State",
+      "visiting_hours": "10:00-15:00 (dry season only)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1549419137-a1288960156d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "river civilization",
+        "excavation site",
+        "lost city"
+      ]
+    },
+    {
+      "id": "MKR_AC_003",
+      "name": "Igede Ancestral Townsite",
+      "short_description": "Site of an early Igede communal settlement, where foundations of ancient homes and spiritual altars can still be discerned, offering insight into early communal living.",
+      "subtype": "Ancient Cities",
+      "address": "Behind Benue State University, Makurdi, Benue State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628174780520-b4d455c11d1a?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Igede culture",
+        "ancient dwellings",
+        "archeological park"
+      ]
+    },
+    {
+      "id": "MKR_AC_004",
+      "name": "Onyagede Proto-City Foundations",
+      "short_description": "Traces of a very early human settlement, characterized by unique pottery fragments and foundational structures, indicating complex spiritual beliefs and social organization.",
+      "subtype": "Ancient Cities",
+      "address": "East of Makurdi, near Modern Market, Makurdi, Benue State",
+      "visiting_hours": "09:00-16:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1587397985797-1ec627b08803?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "proto-history",
+        "ancient civilization",
+        "pottery"
+      ]
+    },
+    {
+      "id": "MKR_MS_001",
+      "name": "Gboko Road Stone Circle",
+      "short_description": "An ancient arrangement of large standing stones, believed to have served as a ceremonial ground and possibly an astronomical calendar for early agricultural societies.",
+      "subtype": "Megalithic Sites",
+      "address": "Along Gboko Road, outskirts of Makurdi, Benue State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1620857904070-5b927a7c8524?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "stone circle",
+        "ancient calendar",
+        "ceremonial site"
+      ]
+    },
+    {
+      "id": "MKR_MS_002",
+      "name": "Wurukum Stone Altar",
+      "short_description": "A massive, flat-topped stone surrounded by smaller, deliberately placed rocks, identified as a central sacrificial and offering altar from the late Stone Age.",
+      "subtype": "Megalithic Sites",
+      "address": "Near Wurukum Market, Makurdi, Benue State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 500",
+      "images": "https://images.unsplash.com/photo-1580970347209-4091b619076b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancient altar",
+        "sacrifice",
+        "prehistoric"
+      ]
+    },
+    {
+      "id": "MKR_MS_003",
+      "name": "Makurdi Sun-Stone Alignment",
+      "short_description": "A series of carefully oriented megaliths that align with the sunrise during solstices and equinoxes, believed to have been used for spiritual timing and harvest festivals.",
+      "subtype": "Megalithic Sites",
+      "address": "North Bank, elevated plain overlooking the Benue River, Makurdi, Benue State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1627993077641-5a1e2f3d6928?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "astronomy",
+        "solstice",
+        "ancient technology"
+      ]
+    },
+    {
+      "id": "MKR_MS_004",
+      "name": "Agatu Megalithic Gate",
+      "short_description": "Two massive upright stones forming a gateway, traditionally considered the entrance to the spiritual realm and a point for ancestral consultation.",
+      "subtype": "Megalithic Sites",
+      "address": "Rural area south of Makurdi, Benue State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1621375376046-e555909249d9?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "spiritual gateway",
+        "ancestral veneration",
+        "stone structure"
+      ]
+    },
+    {
+      "id": "MKR_PY_001",
+      "name": "Idoma Ancestral Mounds",
+      "short_description": "A series of ancient, stepped earth mounds, pyramid-like in form, believed to be the burial sites of Idoma kings and chiefs, and places of power for communal rituals.",
+      "subtype": "Pyramids",
+      "address": "South of Makurdi, near Otukpo Road, Benue State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1524316027424-d2e8b813739d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "burial mounds",
+        "Idoma heritage",
+        "royal tombs"
+      ]
+    },
+    {
+      "id": "MKR_PY_002",
+      "name": "Benue Earth Temple",
+      "short_description": "A large, ancient earthen pyramid with a flat summit, used as a ceremonial platform for rain-making and fertility rituals by prehistoric communities.",
+      "subtype": "Pyramids",
+      "address": "North Bank outskirts, Makurdi, Benue State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 700",
+      "images": "https://images.unsplash.com/photo-1549419137-a1288960156d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "earthworks",
+        "fertility rites",
+        "ancient temple"
+      ]
+    },
+    {
+      "id": "MKR_PY_003",
+      "name": "Gwer West Sacred Hill",
+      "short_description": "A natural hill reshaped into a terraced, pyramid-like structure, revered as a sacred 'mountain of creation' where the first humans were believed to have emerged.",
+      "subtype": "Pyramids",
+      "address": "Near Gwer West Local Government Area, Makurdi, Benue State",
+      "visiting_hours": "07:30-16:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502479532570-8b01a6132717?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "creation myth",
+        "sacred hill",
+        "terraced structure"
+      ]
+    },
+    {
+      "id": "MKR_PY_004",
+      "name": "Makurdi Ancestral Cairn",
+      "short_description": "A large, stone-faced earthen pyramid, marking a significant tribal burial ground. It's a site for ancestral homage and remembrance, particularly during festivals.",
+      "subtype": "Pyramids",
+      "address": "East of Makurdi town, Benue State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1548011295-8495a6391494?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cairn",
+        "burial site",
+        "remembrance"
+      ]
+    },
+    {
+      "id": "MKR_LA_001",
+      "name": "Ayia Stone Maze",
+      "short_description": "A naturally formed rock maze with winding passages and dead ends, believed to be a spiritual testing ground for initiates seeking wisdom and guidance.",
+      "subtype": "Labyrinths",
+      "address": "Along Makurdi-Gboko Road, Benue State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 400",
+      "images": "https://images.unsplash.com/photo-1579294247738-16479b009e5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "rock maze",
+        "initiation",
+        "spiritual journey"
+      ]
+    },
+    {
+      "id": "MKR_LA_002",
+      "name": "River Benue Cavern Labyrinth",
+      "short_description": "A complex network of underground caves and tunnels near the Benue River, historically used for clandestine rituals and as a hiding place during ancient conflicts, imbued with mystery.",
+      "subtype": "Labyrinths",
+      "address": "Underneath the cliffs near River Benue, Wurukum, Makurdi, Benue State",
+      "visiting_hours": "09:00-15:00 (guided tours only)",
+      "entry_fee": "NGN 1500",
+      "images": "https://images.unsplash.com/photo-1502479532570-8b01a6132717?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "caves",
+        "underground",
+        "mysteries"
+      ]
+    },
+    {
+      "id": "MKR_LA_003",
+      "name": "Ukon Traditional Walkway",
+      "short_description": "A deliberately constructed earthen labyrinth within a sacred grove, used for meditative walks and rites of passage, symbolizing life's complex journey.",
+      "subtype": "Labyrinths",
+      "address": "Near Benue State University, Makurdi, Benue State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549419137-a1288960156d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "meditation",
+        "rites of passage",
+        "earth labyrinth"
+      ]
+    },
+    {
+      "id": "MKR_LA_004",
+      "name": "Oju Sacred Pathways",
+      "short_description": "An intricate network of ancient, unmarked paths through a dense forest, believed to lead seekers to profound spiritual insight or connect them with ancestral spirits.",
+      "subtype": "Labyrinths",
+      "address": "Rural area, east of Makurdi, Benue State",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596791886866-993c17838562?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "forest paths",
+        "spiritual insight",
+        "ancestral connection"
+      ]
+    },
+    {
+      "id": "MKR_SF_001",
+      "name": "Wurukum Ancestral Grove",
+      "short_description": "A pristine ancient forest, home to sacred trees and believed to be the resting place of community elders. It's a site for peaceful reflection and respectful homage.",
+      "subtype": "Sacred Forests",
+      "address": "Off Makurdi-Gboko Road, near Wurukum Market, Makurdi, Benue State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1533722709232-a567c9e0ff90?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral spirits",
+        "nature worship",
+        "peaceful retreat"
+      ]
+    },
+    {
+      "id": "MKR_SF_002",
+      "name": "Benue River Spirit Wood",
+      "short_description": "A dense forest along the Benue River, considered sacred to the river spirits and fertility deities. It's a place where communities seek blessings for abundance and safe passage.",
+      "subtype": "Sacred Forests",
+      "address": "River Benue banks, South Bank, Makurdi, Benue State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596791886866-993c17838562?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "river deities",
+        "fertility rites",
+        "blessings"
+      ]
+    },
+    {
+      "id": "MKR_SF_003",
+      "name": "Tse-Kucha Sacred Grove",
+      "short_description": "A secluded forest known for its ancient trees and medicinal plants, traditionally used by healers and spiritual leaders for harvesting herbs and communing with nature's wisdom.",
+      "subtype": "Sacred Forests",
+      "address": "Outskirts of Makurdi, near Tse-Kucha village, Benue State",
+      "visiting_hours": "07:30-16:30",
+      "entry_fee": "NGN 200",
+      "images": "https://images.unsplash.com/photo-1579294247738-16479b009e5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "healing herbs",
+        "traditional medicine",
+        "nature's wisdom"
+      ]
+    },
+    {
+      "id": "MKR_SF_004",
+      "name": "Otukpo Road Spirit Sanctuary",
+      "short_description": "A small, protected forest patch along a historical route, where travelers traditionally stop to offer prayers for safe journeys and protection from malevolent spirits.",
+      "subtype": "Sacred Forests",
+      "address": "Along Otukpo Road, before Federal University of Agriculture, Makurdi, Benue State",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1528659851610-d9d15c71b3e8?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "traveler's blessing",
+        "protection",
+        "ancient path"
+      ]
+    },
+    {
+      "id": "MKR_RST_001",
+      "name": "Chief Makurdi's Mausoleum",
+      "short_description": "The revered final resting place of a legendary chief, whose tomb is a site of pilgrimage for those seeking blessings of leadership and justice.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Central Makurdi, near Government House, Benue State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1571404118335-b27150a0f9b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "chief's tomb",
+        "pilgrimage",
+        "leadership"
+      ]
+    },
+    {
+      "id": "MKR_RST_002",
+      "name": "Idoma Ancestral Shrine",
+      "short_description": "A sacred shrine housing ancient relics and effigies of Idoma lineage ancestors, serving as a focal point for communal veneration and cultural preservation.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Rural area, South of Makurdi, Benue State",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1628174780520-b4d455c11d1a?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Idoma culture",
+        "relics",
+        "ancestral veneration"
+      ]
+    },
+    {
+      "id": "MKR_RST_003",
+      "name": "Tiv Oracle's Sepulchre",
+      "short_description": "The humble but powerful burial site of a renowned ancient Tiv oracle, still visited by those seeking prophetic guidance and spiritual insight.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Near Makurdi-Gboko Road, Makurdi, Benue State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549419137-a1288960156d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Tiv oracle",
+        "prophecy",
+        "spiritual guidance"
+      ]
+    },
+    {
+      "id": "MKR_RST_004",
+      "name": "Katsina-Ala Warrior Shrine",
+      "short_description": "A shrine dedicated to the brave warriors of the Katsina-Ala region, featuring ancient weapons and effigies. It's a place for honoring courage and seeking protection.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "North Bank, near River Katsina-Ala confluence, Makurdi, Benue State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 400",
+      "images": "https://images.unsplash.com/photo-1524316027424-d2e8b813739d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "warrior tradition",
+        "courage",
+        "protection"
+      ]
+    },
+    {
+      "id": "MKR_OS_001",
+      "name": "River Benue Oracle Cave",
+      "short_description": "A mysterious cave overlooking the Benue River, believed to be the dwelling of a powerful river oracle. Pilgrims seek wisdom and solutions to complex problems here.",
+      "subtype": "Oracle Sites",
+      "address": "Cliffs along River Benue, North Bank, Makurdi, Benue State",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1502479532570-8b01a6132717?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "river oracle",
+        "wisdom",
+        "spiritual guidance"
+      ]
+    },
+    {
+      "id": "MKR_OS_002",
+      "name": "Gberev Prophecy Rock",
+      "short_description": "A prominent rock formation with unique markings, said to reveal glimpses of the future to those who meditate upon it. Historically a site for communal prophecy.",
+      "subtype": "Oracle Sites",
+      "address": "Rural area, West of Makurdi, Benue State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547820352-730164c062c3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "prophecy",
+        "meditation",
+        "future insight"
+      ]
+    },
+    {
+      "id": "MKR_OS_003",
+      "name": "Aondo Earth Oracle",
+      "short_description": "A secluded spot with a unique geological anomaly, believed to be a direct channel to the earth spirits (Aondo) for divination, especially regarding land and agriculture.",
+      "subtype": "Oracle Sites",
+      "address": "Near Federal University of Agriculture Makurdi, Benue State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "NGN 300",
+      "images": "https://images.unsplash.com/photo-1579294247738-16479b009e5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "earth spirits",
+        "divination",
+        "agriculture blessings"
+      ]
+    },
+    {
+      "id": "MKR_OS_004",
+      "name": "Okpokwu Whispering Tree",
+      "short_description": "An ancient, enormous tree renowned for its rustling leaves that are interpreted by local priests as messages from ancestral spirits, offering counsel and warnings.",
+      "subtype": "Oracle Sites",
+      "address": "Outskirts of Makurdi, towards Okpokwu LGA, Benue State",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1528659851610-d9d15c71b3e8?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sacred tree",
+        "ancestral messages",
+        "counsel"
+      ]
+    },
+    {
+      "id": "MKR_HSW_001",
+      "name": "Wurukum Healing Spring",
+      "short_description": "A natural spring whose waters are believed to possess potent healing properties, attracting pilgrims seeking cures for various ailments and spiritual purification.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Near Wurukum Market, Makurdi, Benue State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1571404118335-b27150a0f9b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "healing waters",
+        "purification",
+        "pilgrimage"
+      ]
+    },
+    {
+      "id": "MKR_HSW_002",
+      "name": "Tiv Ancestral Well",
+      "short_description": "An ancient well, meticulously maintained, from which water is drawn for sacred rituals and communal blessings. It symbolizes life and continuity for the Tiv people.",
+      "subtype": "Holy Springs & Wells",
+      "address": "North Bank, Makurdi, Benue State",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1524316027424-d2e8b813739d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sacred well",
+        "Tiv culture",
+        "life-giving water"
+      ]
+    },
+    {
+      "id": "MKR_HSW_003",
+      "name": "Idoma Cleansing Stream",
+      "short_description": "A small, perennial stream whose cool, clear waters are used in Idoma traditional rites for spiritual cleansing, purification, and renewal.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Rural area, South of Makurdi, Benue State",
+      "visiting_hours": "06:30-17:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1628174780520-b4d455c11d1a?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cleansing ritual",
+        "Idoma tradition",
+        "spiritual renewal"
+      ]
+    },
+    {
+      "id": "MKR_HSW_004",
+      "name": "Makurdi Fertility Grotto",
+      "short_description": "A small, secluded grotto with a constantly flowing spring, revered as a source of fertility and blessings for childbearing. Many couples visit seeking divine intervention.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Hidden valley near Federal University of Agriculture, Makurdi, Benue State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 200",
+      "images": "https://images.unsplash.com/photo-1549419137-a1288960156d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fertility",
+        "blessings",
+        "sacred grotto"
+      ]
+    },
+    {
+      "id": "MKR_VZ_001",
+      "name": "Ogbadibo Basalt Columns",
+      "short_description": "Ancient, perfectly formed hexagonal basalt columns, remnants of long-extinct volcanic activity. Revered as 'pillars of creation' and a site of primal energy.",
+      "subtype": "Volcanic Zones",
+      "address": "Outskirts of Makurdi, near Ogbadibo LGA boundary, Benue State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579294247738-16479b009e5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "basalt",
+        "geological wonder",
+        "creation myth"
+      ]
+    },
+    {
+      "id": "MKR_VZ_002",
+      "name": "Makurdi Volcanic Plug",
+      "short_description": "A prominent, ancient volcanic plug rising sharply from the landscape, believed to be a powerful energy vortex and a point of communion with earth spirits.",
+      "subtype": "Volcanic Zones",
+      "address": "East of Makurdi, Benue State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "NGN 500",
+      "images": "https://images.unsplash.com/photo-1502479532570-8b01a6132717?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "earth energy",
+        "geology",
+        "spiritual vortex"
+      ]
+    },
+    {
+      "id": "MKR_VZ_003",
+      "name": "Igumale Hot Spring Remnants",
+      "short_description": "A site featuring ancient mineral deposits and warm earth patches, indicating a past hot spring from extinct volcanic activity, revered for its residual healing warmth.",
+      "subtype": "Volcanic Zones",
+      "address": "Rural area, South-East of Makurdi, Benue State",
+      "visiting_hours": "08:30-17:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1571404118335-b27150a0f9b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "hot springs",
+        "healing earth",
+        "extinct volcano"
+      ]
+    },
+    {
+      "id": "MKR_VZ_004",
+      "name": "Benue Fire Caves",
+      "short_description": "A series of small caves in ancient volcanic rock, characterized by unusual mineral deposits that glow faintly in certain conditions. Believed to be sacred to fire deities.",
+      "subtype": "Volcanic Zones",
+      "address": "Rocky hills near River Benue, North Bank, Makurdi, Benue State",
+      "visiting_hours": "10:00-15:00 (dry season)",
+      "entry_fee": "NGN 800",
+      "images": "https://images.unsplash.com/photo-1549419137-a1288960156d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fire deities",
+        "glowing minerals",
+        "sacred caves"
+      ]
+    }
+  ]
+}

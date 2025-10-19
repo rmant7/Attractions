@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Khujand",
+    "city_id": "2417"
+  },
+  "items": [
+    {
+      "id": "KHJ-SF-001",
+      "name": "Chashma-i-Ayub Sacred Grove",
+      "short_description": "A tranquil grove believed to be blessed by the Prophet Ayub (Job), its spring waters are said to have healing properties and offer a peaceful spot for reflection.",
+      "subtype": "Sacred Forests",
+      "address": "Near Ismoil Somoni Avenue, Khujand",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Forest_stream_in_Kyrgyzstan.jpg",
+      "tags": [
+        "nature",
+        "healing",
+        "pilgrimage"
+      ]
+    },
+    {
+      "id": "KHJ-SF-002",
+      "name": "Arbob-Bagh Mystical Woods",
+      "short_description": "Adjacent to the historical Arbob Cultural Palace, these ancient trees are rumored to be imbued with the wisdom of past rulers and scholars, a site for seeking inspiration and clarity.",
+      "subtype": "Sacred Forests",
+      "address": "Arbob Cultural Palace Complex, Khujand",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "fixed amount (20 TJS)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Musa_Pervaneh.jpg",
+      "tags": [
+        "history",
+        "meditation",
+        "royal past"
+      ]
+    },
+    {
+      "id": "KHJ-SF-003",
+      "name": "Sogdian Whispering Pines",
+      "short_description": "A small, ancient stand of pines overlooking the Syr Darya, revered since Sogdian times. Locals believe the wind through their branches carries messages from ancestors.",
+      "subtype": "Sacred Forests",
+      "address": "Along Syr Darya River, Northern outskirts of Khujand",
+      "visiting_hours": "08:00-20:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Syr_Darya_at_Khujand.jpg",
+      "tags": [
+        "ancient",
+        "nature worship",
+        "ancestral spirits"
+      ]
+    },
+    {
+      "id": "KHJ-SF-004",
+      "name": "Seven Springs Sanctuary",
+      "short_description": "A verdant area where seven natural springs converge, considered a holy site for purification rituals and prayers for fertility and abundance by local communities for centuries.",
+      "subtype": "Sacred Forests",
+      "address": "Foothills near Buston (formerly Chkalovsk), Khujand Region",
+      "visiting_hours": "06:00-21:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sary_Chelek_Nature_Reserve_forest.jpg",
+      "tags": [
+        "fertility",
+        "purification",
+        "sacred water"
+      ]
+    },
+    {
+      "id": "KHJ-AC-001",
+      "name": "Citadel of Alexandria Eschate Remains",
+      "short_description": "The weathered foundations and unearthed artifacts of Alexander the Great's farthest city, offering a tangible connection to ancient Hellenistic and Sogdian civilizations.",
+      "subtype": "Ancient Cities",
+      "address": "Panjshanbe Bazaar Area, Khujand",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount (30 TJS)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/3/36/Khujand_Fortress.jpg",
+      "tags": [
+        "archaeology",
+        "Hellenistic",
+        "Sogdian"
+      ]
+    },
+    {
+      "id": "KHJ-AC-002",
+      "name": "Panjakent Route Caravanserai Ruins",
+      "short_description": "The ghostly outlines of an ancient Silk Road caravanserai, where merchants, pilgrims, and ideas once converged, now a place to reflect on historical journeys and cultural exchange.",
+      "subtype": "Ancient Cities",
+      "address": "Eastern outskirts, near Panjakent Road, Khujand",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/af/Caravanserai_Sardoba_Mubarak.jpg",
+      "tags": [
+        "Silk Road",
+        "trade history",
+        "nomadic spirit"
+      ]
+    },
+    {
+      "id": "KHJ-AC-003",
+      "name": "Old Khujand Ghetto Remains (Pre-Soviet Era)",
+      "short_description": "Traces of a once vibrant pre-Soviet Jewish quarter, showcasing the city's diverse historical tapestry and the enduring spirit of communities through centuries of change.",
+      "subtype": "Ancient Cities",
+      "address": "Old City District, near Kamoli Khujandi Park, Khujand",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bukhara_old_Jewish_Quarter.jpg",
+      "tags": [
+        "cultural heritage",
+        "Jewish history",
+        "urban exploration"
+      ]
+    },
+    {
+      "id": "KHJ-AC-004",
+      "name": "Zamok-i-Kadim (Ancient Fortress Outpost)",
+      "short_description": "The crumbling walls of a forgotten fortress outpost, once guarding the Fergana Valley entrance. Its strategic perch offers panoramic views and a sense of ancient vigilance.",
+      "subtype": "Ancient Cities",
+      "address": "Hills overlooking the city, near the airport road, Khujand",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tajikistan_fortress.jpg",
+      "tags": [
+        "fortification",
+        "strategic site",
+        "panoramic views"
+      ]
+    },
+    {
+      "id": "KHJ-BD-001",
+      "name": "Temurmalik's Last Stand Hill",
+      "short_description": "Commemorating the legendary resistance of Temurmalik against the Mongol invasion in the 13th century, this hill inspires courage and national pride.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Eastern bank of Syr Darya, Khujand",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/8/87/Mongol_Soldier_on_Horseback.jpg",
+      "tags": [
+        "Mongol invasion",
+        "heroism",
+        "national pride"
+      ]
+    },
+    {
+      "id": "KHJ-BD-002",
+      "name": "Defiance Pass (Soviet-Basmachi Conflict)",
+      "short_description": "A rugged mountain pass, site of fierce clashes during the Basmachi movement against Soviet rule. It's a somber reminder of ideological struggles and sacrifices.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Northern mountains, near Asht District border",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tajikistan_landscape_1.jpg",
+      "tags": [
+        "Soviet era",
+        "resistance",
+        "historical conflict"
+      ]
+    },
+    {
+      "id": "KHJ-BD-003",
+      "name": "Battle of Khujand Field (Arab Conquest Era)",
+      "short_description": "The historical ground where early Islamic armies clashed with local Sogdian forces, marking a pivotal moment in the spread of Islam into Central Asia.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Southern plains, near Gafurov District border",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/15/Samarkand_Historical_Site.jpg",
+      "tags": [
+        "Islamic conquest",
+        "Sogdian resistance",
+        "cultural shift"
+      ]
+    },
+    {
+      "id": "KHJ-BD-004",
+      "name": "Crossroads of Empires Memorial",
+      "short_description": "Not a battlefield itself, but a monument erected at a strategic point commemorating the many empires (Achaemenid, Hellenistic, Turkic) that fought for control of the Fergana Valley.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Intersection of Republic Avenue and Somoni Avenue, Khujand",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Independence_Monument%2C_Dushanbe.jpg",
+      "tags": [
+        "memorial",
+        "imperial history",
+        "strategic importance"
+      ]
+    },
+    {
+      "id": "KHJ-OS-001",
+      "name": "Shaman's Rock of Prophecy",
+      "short_description": "An ancient, unusually shaped rock formation in the hills, believed by local folklore to have been used by pre-Islamic shamans for divination and receiving visions.",
+      "subtype": "Oracle Sites",
+      "address": "Hills above Leninabad Park, Khujand",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/6/6b/A_small_hill_near_Khujand.jpg",
+      "tags": [
+        "shamanism",
+        "folklore",
+        "divination"
+      ]
+    },
+    {
+      "id": "KHJ-OS-002",
+      "name": "Whispering Cave of the Ancestors",
+      "short_description": "A secluded cave system where ancient Sogdian priests are said to have interpreted echoes and natural phenomena to foresee future events and commune with ancestral spirits.",
+      "subtype": "Oracle Sites",
+      "address": "North of Buston, in the foothills of Turkestan Range",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Khorog_Mountains_Gunt_Valley.jpg",
+      "tags": [
+        "cave",
+        "ancestor worship",
+        "pre-Islamic"
+      ]
+    },
+    {
+      "id": "KHJ-OS-003",
+      "name": "Djinn's Water Source Oracle",
+      "short_description": "A mysterious spring whose bubbling patterns and clarity were once consulted for omens. Some believe benevolent Djinn reside here, offering insights to the pure of heart.",
+      "subtype": "Oracle Sites",
+      "address": "Rural area near Ghonchi, Southwest Khujand Region",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b5/River_in_Pamir.jpg",
+      "tags": [
+        "water magic",
+        "folklore",
+        "spirit communication"
+      ]
+    },
+    {
+      "id": "KHJ-OS-004",
+      "name": "Star-Gazer's Platform (Ancient Observatory)",
+      "short_description": "The remnants of an ancient platform, possibly used by astronomers or astrologers for observing celestial alignments to predict harvest, wars, and dynastic fortunes.",
+      "subtype": "Oracle Sites",
+      "address": "High plateau near the Uzbek border, West Khujand",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ulugh_Beg_Observatory.jpg",
+      "tags": [
+        "astrology",
+        "ancient science",
+        "cosmic omen"
+      ]
+    },
+    {
+      "id": "KHJ-CR-001",
+      "name": "Panjshanbe Bazaar (Five-Day Market)",
+      "short_description": "A bustling historical market, the vibrant heart of Khujand for centuries, where goods, cultures, and ideas from the Silk Road converged. A living testament to trade and human connection.",
+      "subtype": "Crossroads",
+      "address": "Panjshanbe Square, Khujand",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Panjshanbe_Bazaar%2C_Khujand.jpg",
+      "tags": [
+        "market",
+        "Silk Road",
+        "cultural exchange"
+      ]
+    },
+    {
+      "id": "KHJ-CR-002",
+      "name": "Friendship Arch of Central Asia",
+      "short_description": "A modern monument symbolizing Khujand's historical role as a meeting point for diverse cultures and nations, fostering understanding and collaboration in the region.",
+      "subtype": "Crossroads",
+      "address": "Junction of Ismoil Somoni Ave and Shahidi Khoja Obid Street, Khujand",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Arch_of_Triumph%2C_Bukhara.jpg",
+      "tags": [
+        "symbolism",
+        "unity",
+        "international relations"
+      ]
+    },
+    {
+      "id": "KHJ-CR-003",
+      "name": "Syr Darya Bridge of Travelers",
+      "short_description": "The ancient river crossing over the Syr Darya, a vital artery for centuries of migration, trade, and pilgrimage. It embodies journeys and transitions.",
+      "subtype": "Crossroads",
+      "address": "Old Bridge connecting east and west Khujand",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/22/Khujand_Bridge.jpg",
+      "tags": [
+        "river crossing",
+        "migration",
+        "journey"
+      ]
+    },
+    {
+      "id": "KHJ-CR-004",
+      "name": "Sufi Pilgrims' Junction",
+      "short_description": "A traditional gathering point for Sufi adherents before embarking on journeys to shrines in the Fergana Valley, a place for blessings and communal farewells.",
+      "subtype": "Crossroads",
+      "address": "Near Sheikh Muslihiddin Complex, Khujand",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/9/90/Uzbekistan_001.jpg",
+      "tags": [
+        "Sufism",
+        "pilgrimage",
+        "gathering point"
+      ]
+    },
+    {
+      "id": "KHJ-RS-001",
+      "name": "Mausoleum of Sheikh Muslihiddin",
+      "short_description": "The revered tomb of a 12th-century Sufi poet and sage, a major pilgrimage site where visitors seek blessings, spiritual guidance, and a connection to the city's Islamic heritage.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Sheikh Muslihiddin Square, Khujand",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/07/Mausoleum_of_Sheikh_Muslihiddin.jpg",
+      "tags": [
+        "Sufi saint",
+        "mausoleum",
+        "pilgrimage"
+      ]
+    },
+    {
+      "id": "KHJ-RS-002",
+      "name": "Bibi Khujandi's Shrine (Female Saint)",
+      "short_description": "A modest but deeply respected shrine dedicated to Bibi Khujandi, a local female ascetic whose wisdom and piety are still revered, particularly by women seeking solace and strength.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Old Town residential area, near Kamoli Khujandi Park, Khujand",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hazrati_Imam_Mosque%2C_Tashkent.jpg",
+      "tags": [
+        "female saint",
+        "spirituality",
+        "local legend"
+      ]
+    },
+    {
+      "id": "KHJ-RS-003",
+      "name": "Sogdian Fire Temple Burial Mounds",
+      "short_description": "Ancient burial mounds believed to be associated with a pre-Islamic Sogdian fire temple, hinting at Zoroastrian practices and ancestor veneration.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Rural area, South of Khujand, near Proletar district",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Zoroastrian_tower_of_silence.jpg",
+      "tags": [
+        "Zoroastrian",
+        "ancient burial",
+        "fire worship"
+      ]
+    },
+    {
+      "id": "KHJ-RS-004",
+      "name": "Tomb of the Unnamed Scholar",
+      "short_description": "A simple, unmarked tomb in an old cemetery, believed to be the resting place of a highly influential but humble scholar whose spiritual presence is still felt and respected.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Old Khujand Cemetery, near Central Mosque",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/7/77/Old_cemetery_in_Bukhara.jpg",
+      "tags": [
+        "humility",
+        "wisdom",
+        "cemetery"
+      ]
+    },
+    {
+      "id": "KHJ-CA-001",
+      "name": "Solstice Peak Observatory",
+      "short_description": "A natural rock outcrop offering clear views of the sky, believed by ancient inhabitants to be aligned with solstices and equinoxes, used for calendrical rituals.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "High point in the Kurama Mountains, overlooking Khujand",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pamir_Mountains_view.jpg",
+      "tags": [
+        "solstice",
+        "ancient astronomy",
+        "natural alignment"
+      ]
+    },
+    {
+      "id": "KHJ-CA-002",
+      "name": "Moon Gate of Khujand",
+      "short_description": "A historical archway (possibly a city gate or caravanserai entrance) designed to perfectly frame the rising full moon on specific nights, a site for nocturnal contemplation.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Eastern Gate entrance to Old City, Khujand",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Moon_over_Samarkand.jpg",
+      "tags": [
+        "moon rituals",
+        "architectural alignment",
+        "night sky"
+      ]
+    },
+    {
+      "id": "KHJ-CA-003",
+      "name": "Constellation Rock Carvings",
+      "short_description": "Ancient petroglyphs on a secluded rock face, depicting star patterns and celestial beings, offering a glimpse into the cosmologies of early Khujand inhabitants.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Remote valley in the Gafurov District, Khujand Region",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Petroglyphs_at_Saimaluu-Tash.jpg",
+      "tags": [
+        "petroglyphs",
+        "ancient cosmology",
+        "star worship"
+      ]
+    },
+    {
+      "id": "KHJ-CA-004",
+      "name": "Plenetary Garden of Wisdom",
+      "short_description": "A modern garden designed with specific plant arrangements and pathways representing planetary orbits, fostering harmony and reflection on cosmic order.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Green Belt Park, North Khujand",
+      "visiting_hours": "08:00-20:00",
+      "entry_fee": "fixed amount (15 TJS)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Botanical_Garden%2C_Dushanbe.jpg",
+      "tags": [
+        "modern design",
+        "cosmic harmony",
+        "meditation garden"
+      ]
+    },
+    {
+      "id": "KHJ-MH-001",
+      "name": "Sufi Khanqah of Khwaja Ubaidullah",
+      "short_description": "A historical Sufi lodge where dervishes once lived and practiced, maintaining a serene atmosphere for spiritual retreat, prayer, and studying Sufi teachings.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Old City District, near the Syr Darya embankment, Khujand",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/03/Samarkand_Nizam_Khanqah.jpg",
+      "tags": [
+        "Sufism",
+        "retreat",
+        "Islamic mysticism"
+      ]
+    },
+    {
+      "id": "KHJ-MH-002",
+      "name": "Cave of Forty Ascetics (Childukhtaron Grotto)",
+      "short_description": "A legend-rich cave system where forty female ascetics are said to have sought refuge and spiritual enlightenment, now a site for quiet contemplation and women's gatherings.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Foothills of the Turkestan Range, outside Buston",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/9/90/Childukhtaron_rocks.jpg",
+      "tags": [
+        "asceticism",
+        "female saints",
+        "legend"
+      ]
+    },
+    {
+      "id": "KHJ-MH-003",
+      "name": "Bektashi Dervish Tekke Ruins",
+      "short_description": "The atmospheric ruins of a former Bektashi dervish lodge, a unique expression of Sufism in Central Asia, offering a glimpse into their communal and spiritual life.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Remote village near Kanibadam, Khujand Region",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Sufi_dervish_lodge_Saripul.jpg",
+      "tags": [
+        "Bektashi",
+        "Sufi order",
+        "historical ruins"
+      ]
+    },
+    {
+      "id": "KHJ-MH-004",
+      "name": "Hermitage of the Silent Scholar",
+      "short_description": "A secluded dwelling, once home to a revered silent scholar who dedicated his life to spiritual study and meditation. It offers a profound sense of peace and solitude.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Mountain slopes overlooking the Syr Darya, West Khujand",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Tajik_traditional_house_on_the_hills.jpg",
+      "tags": [
+        "solitude",
+        "meditation",
+        "spiritual learning"
+      ]
+    },
+    {
+      "id": "KHJ-ME-001",
+      "name": "Park of National Unity & Renaissance",
+      "short_description": "A contemporary public space designed to foster a sense of national identity, unity, and hope for the future, with symbolic sculptures and peaceful green areas.",
+      "subtype": "Modern Energy Places",
+      "address": "Near Republican Square, Khujand",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Khujand_Park.jpg",
+      "tags": [
+        "national identity",
+        "modern symbolism",
+        "public space"
+      ]
+    },
+    {
+      "id": "KHJ-ME-002",
+      "name": "Center for Intercultural Dialogue",
+      "short_description": "A vibrant hub for workshops, discussions, and artistic events promoting understanding and harmony between diverse cultures and faiths, a focal point for modern spiritual exchange.",
+      "subtype": "Modern Energy Places",
+      "address": "Istaravshan Street, New Khujand District",
+      "visiting_hours": "09:00-20:00",
+      "entry_fee": "fixed amount (for events) / free (for entry)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Aga_Khan_Foundation_Center_Dushanbe.jpg",
+      "tags": [
+        "interfaith",
+        "cultural exchange",
+        "community hub"
+      ]
+    },
+    {
+      "id": "KHJ-ME-003",
+      "name": "Sunset Viewpoint of the Fergana Valley",
+      "short_description": "A popular modern spot chosen for its breathtaking panoramic views of the Fergana Valley and Syr Darya, where people gather to reflect, find peace, and appreciate nature's grandeur.",
+      "subtype": "Modern Energy Places",
+      "address": "Hilltop viewpoint, Western Khujand",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Tajikistan_Mountains_Sunset.jpg",
+      "tags": [
+        "nature observation",
+        "reflection",
+        "scenic beauty"
+      ]
+    },
+    {
+      "id": "KHJ-ME-004",
+      "name": "Contemporary Art & Spirituality Gallery",
+      "short_description": "A gallery showcasing local and regional artists whose works explore themes of spirituality, identity, and the modern human condition, offering new perspectives on ancient wisdom.",
+      "subtype": "Modern Energy Places",
+      "address": "Academician Rakhimov Street, Khujand City Center",
+      "visiting_hours": "10:00-19:00",
+      "entry_fee": "fixed amount (25 TJS)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fa/National_Museum_of_Antiquities_of_Tajikistan_hall.jpg",
+      "tags": [
+        "art",
+        "modern spirituality",
+        "cultural expression"
+      ]
+    },
+    {
+      "id": "KHJ-AT-001",
+      "name": "Zoroastrian Fire Altar Remains",
+      "short_description": "The excavated foundations of an ancient fire altar, testifying to the vibrant Zoroastrian presence in the region before the advent of Islam. A powerful link to pre-Islamic faiths.",
+      "subtype": "Ancient Temples",
+      "address": "Archaeology site, near Buston-Khujand highway",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount (20 TJS)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Atashgah_of_Baku_1.jpg",
+      "tags": [
+        "Zoroastrianism",
+        "fire worship",
+        "ancient religion"
+      ]
+    },
+    {
+      "id": "KHJ-AT-002",
+      "name": "Sun Temple of Sogdiana (Reconstructed Site)",
+      "short_description": "A speculative reconstruction or interpretive display of what a Sogdian sun temple might have looked like, based on archaeological finds, highlighting solar reverence in ancient times.",
+      "subtype": "Ancient Temples",
+      "address": "Museum of Archaeology and History of Sughd Region, Khujand",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount (35 TJS)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sogdian_Mural.jpg",
+      "tags": [
+        "Sogdian culture",
+        "sun worship",
+        "reconstruction"
+      ]
+    },
+    {
+      "id": "KHJ-AT-003",
+      "name": "Hellenistic Altar to Zeus (Remnants)",
+      "short_description": "Faint traces of an altar believed to be dedicated to Zeus, left by Alexander the Great's settlers in Alexandria Eschate, an intriguing blend of Hellenistic and Central Asian history.",
+      "subtype": "Ancient Temples",
+      "address": "Within the Khujand Fortress Museum grounds",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount (30 TJS)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Hellenistic_altar_frieze_fragment.jpg",
+      "tags": [
+        "Hellenistic",
+        "Greek mythology",
+        "Alexander the Great"
+      ]
+    },
+    {
+      "id": "KHJ-AT-004",
+      "name": "Earth Mother Shrine (Pre-Sogdian)",
+      "short_description": "A primitive, natural shrine site, possibly a cave or rock shelter, where early inhabitants worshiped an Earth Mother deity, celebrating fertility and agricultural cycles.",
+      "subtype": "Ancient Temples",
+      "address": "Remote hills, Southeast of Khujand, near Shahriston District",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/22/Cave_art_in_Las_Cuevas_de_la_Serpiente.jpg",
+      "tags": [
+        "prehistoric",
+        "fertility cult",
+        "earth worship"
+      ]
+    }
+  ]
+}

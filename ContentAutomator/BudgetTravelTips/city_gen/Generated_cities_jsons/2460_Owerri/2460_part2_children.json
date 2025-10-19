@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Owerri",
+    "city_id": "2460"
+  },
+  "items": [
+    {
+      "id": "OW-WP-001",
+      "name": "AquaFun Lagoon",
+      "short_description": "A vibrant water park featuring multiple slides, splash pads, and a lazy river designed specifically for children of all ages.",
+      "subtype": "Water Parks for Kids",
+      "address": "Plot 10, Port Harcourt Road, Owerri, Imo State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1571900138242-491a13156829?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8a2lkcyUyMHdhdGVyJTIwcGFya3x8fHx8fDE2NzkwNzEwNDM&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water slides",
+        "family fun",
+        "summer activities"
+      ]
+    },
+    {
+      "id": "OW-WP-002",
+      "name": "Splashland Owerri",
+      "short_description": "Offering a variety of shallow pools, interactive water fountains, and gentle slides, perfect for toddlers and young children to safely enjoy.",
+      "subtype": "Water Parks for Kids",
+      "address": "Off Egbu Road, Behind Shoprite, Owerri, Imo State",
+      "opening_hours": "11:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1620868285934-0d7e4e08253a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8a2lkcyUyMHNwbGFzaCUyMHBhZHxlbnwwfHx8fDE3MTg2MzkxOTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "toddler friendly",
+        "splash pad",
+        "water play"
+      ]
+    },
+    {
+      "id": "OW-WP-003",
+      "name": "Tropical Riptide Park",
+      "short_description": "An adventurous water park with themed zones, including a pirate ship play area and an exciting wave pool suitable for older kids.",
+      "subtype": "Water Parks for Kids",
+      "address": "World Bank Road Extension, New Owerri, Imo State",
+      "opening_hours": "09:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1623916960851-40999557b447?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fGtpaWRzJTIwd2F2ZSUyMHBvb2x8ZW58MHx8fHwxNzE4NjM5MjU2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wave pool",
+        "themed",
+        "adventure"
+      ]
+    },
+    {
+      "id": "OW-WP-004",
+      "name": "Sunny Bay Waterworld",
+      "short_description": "A family-friendly water attraction featuring shaded relaxation areas, a gentle current river, and small slides for a relaxed day out.",
+      "subtype": "Water Parks for Kids",
+      "address": "Plot 5, Okigwe Road, Owerri, Imo State",
+      "opening_hours": "10:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563260780-e8354c0e6fc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Nnx8a2lkcyUyMHdhdGVyJTIwcGFya3xlbnwwfHx8fDE3MTg2MzkxOTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "relaxed",
+        "family day",
+        "shallow pools"
+      ]
+    },
+    {
+      "id": "OW-CMG-001",
+      "name": "Owerri Toon Town",
+      "short_description": "A magical place where kids can meet their favorite cartoon characters, get autographs, and take memorable photos.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Ikenegbu Layout Extension, Owerri, Imo State",
+      "opening_hours": "12:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522033090623-649033327663?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8Y2FydG9vbiUyMGNoYXJhY3RlcnxlbnwwfHx8fDE3MTg2NDAwMjh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "character interaction",
+        "photo ops",
+        "children's heroes"
+      ]
+    },
+    {
+      "id": "OW-CMG-002",
+      "name": "Characterland Cafe",
+      "short_description": "Enjoy a delicious meal while beloved cartoon mascots visit your table for a unique and interactive dining experience.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Wetheral Road, Beside Shoprite, Owerri, Imo State",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549488339-a9a7a9a1d1f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fGNhcnRvb24lMjBjaGFyYWN0ZXJ8ZW58MHx8fHwxNzE4NjQwMDI4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "themed dining",
+        "mascot",
+        "interactive"
+      ]
+    },
+    {
+      "id": "OW-CMG-003",
+      "name": "Hero's Hall Meet & Greet",
+      "short_description": "A special event venue hosting rotating appearances from popular superhero and fantasy characters, with storytelling sessions.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Aladinma Avenue, Owerri, Imo State",
+      "opening_hours": "Varies by event (e.g., 14:00-16:00)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1524355554316-24855a805c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fGNhcnRvb24lMjBjaGFyYWN0ZXJ8ZW58MHx8fHwxNzE4NjQwMDI4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "superheroes",
+        "storytelling",
+        "special events"
+      ]
+    },
+    {
+      "id": "OW-CMG-004",
+      "name": "Fantasy Forest Character Zone",
+      "short_description": "Explore a whimsical forest setting where friendly animated characters emerge for spontaneous interactions and photo opportunities.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Off IMSU Back Gate Road, Owerri, Imo State",
+      "opening_hours": "13:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627918884968-3010b9122396?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8OHx8ZmFudGFzeSUyMGNoYXJhY3RlcnxlbnwwfHx8fDE3MTg2NDAwOTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "whimsical",
+        "interactive",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "OW-LCP-001",
+      "name": "Brick Builders Zone Owerri",
+      "short_description": "An expansive indoor park filled with millions of LEGO bricks, allowing children to build, create, and display their masterpieces.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Warehouse Roundabout, Along Okigwe Road, Owerri, Imo State",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563834044186-b485bb09090b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bGVnbyUyMHdvcmxkfGVufDB8fHx8MTcxODY0MDczMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lego",
+        "building blocks",
+        "creative play"
+      ]
+    },
+    {
+      "id": "OW-LCP-002",
+      "name": "MegaBlock Mania Workshop",
+      "short_description": "Focuses on larger construction blocks for younger children, fostering motor skills and imaginative play in a safe environment.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Shoprite Mall, Ground Floor, Egbu Road, Owerri, Imo State",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621535496660-9844e1351147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8bWFnbmElMjBibG9ja3N8ZW58MHx8fHwxNzE4NjQwNzMxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "duplo",
+        "toddler activities",
+        "fine motor skills"
+      ]
+    },
+    {
+      "id": "OW-LCP-003",
+      "name": "Engineer's Lab: Lego Robotics",
+      "short_description": "An interactive lab where older children can learn basic engineering principles and robotics through guided LEGO mindstorms projects.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "FUTO-Nekede Road, Ihiagwa, Owerri, Imo State",
+      "opening_hours": "14:00-17:00 (Weekdays), 10:00-16:00 (Weekends)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1621066265745-667469a5651c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fGxlZ28lMjByb2JvdGljc3xlbnwwfHx8fDE3MTg2NDA3MzF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "robotics",
+        "STEM",
+        "educational"
+      ]
+    },
+    {
+      "id": "OW-LCP-004",
+      "name": "Owerri Brick City Model",
+      "short_description": "Features intricate LEGO models of Owerri landmarks and a free-build area where kids can contribute to a growing miniature city.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Orlu Road, Opposite Imo State University, Owerri, Imo State",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549495146-24b9100869d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fGxlZ28lMjBjaXR5fGVufDB8fHx8MTcxODY0MDczMXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "model building",
+        "local landmarks",
+        "collaborative"
+      ]
+    },
+    {
+      "id": "OW-FA-001",
+      "name": "Green Acres Kids Farm",
+      "short_description": "A charming farm where children can interact with friendly animals, learn about agriculture, and enjoy pony rides.",
+      "subtype": "Farm Attractions",
+      "address": "Off Onitsha Road, Near Avu Community, Owerri, Imo State",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1588636402444-231a403ff240?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8a2lkcyUyMGZhcm0lMjBhbmltYWxzfGVufDB8fHx8MTcxODY0MTQwOXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animal interaction",
+        "pony rides",
+        "rural experience"
+      ]
+    },
+    {
+      "id": "OW-FA-002",
+      "name": "Owerri Petting Zoo & Orchard",
+      "short_description": "A delightful petting zoo featuring goats, sheep, and chickens, alongside an orchard where kids can pick seasonal fruits.",
+      "subtype": "Farm Attractions",
+      "address": "Mbari Street, Extension, Owerri, Imo State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582855116742-054238e5d083?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8N3x8a2lkcyUyMHBldHRpbmclMjB6b298ZW58MHx8fHwxNzE4NjQxNDA5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "petting zoo",
+        "fruit picking",
+        "farm animals"
+      ]
+    },
+    {
+      "id": "OW-FA-003",
+      "name": "The Little Farmer's Corner",
+      "short_description": "An educational attraction where children participate in simulated farm tasks, from planting seeds to collecting eggs, promoting hands-on learning.",
+      "subtype": "Farm Attractions",
+      "address": "Area H, World Bank Housing Estate, Owerri, Imo State",
+      "opening_hours": "09:30-15:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517592496738-4e892d1136b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fGtpaWRzJTIwZmFybSUyMGVkdWNhdGlvbnxlbnwwfHx8fDE3MTg2NDE0MDl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "educational",
+        "hands-on",
+        "agriculture"
+      ]
+    },
+    {
+      "id": "OW-FA-004",
+      "name": "OW-Farm Fun Park",
+      "short_description": "A compact farm-themed park with miniature tractors, a corn maze (seasonal), and a barnyard play area for endless fun.",
+      "subtype": "Farm Attractions",
+      "address": "MCC Road, Opposite Federal Secretariat, Owerri, Imo State",
+      "opening_hours": "10:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1506456079075-801267b140cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fGtpaWRzJTIwZmFybSUyMHBhcmt8ZW58MHx8fDE3MTg2NDE0MzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "farm theme",
+        "play area",
+        "seasonal activities"
+      ]
+    },
+    {
+      "id": "OW-AQ-001",
+      "name": "Owerri Ocean Wonders",
+      "short_description": "A captivating aquarium showcasing marine life from Nigeria's coastlines and beyond, with interactive touch tanks for kids.",
+      "subtype": "Aquariums",
+      "address": "Government House Road, New Owerri, Imo State",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549727447-0b1a0e36b85e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8a2lkcyUyMGFxdWFyaXVtfGVufDB8fHx8MTcxODY0MjExNnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marine life",
+        "touch tank",
+        "educational"
+      ]
+    },
+    {
+      "id": "OW-AQ-002",
+      "name": "AquaRealm Discovery Centre",
+      "short_description": "Explore a vibrant collection of freshwater fish and amphibians, complete with engaging educational displays and feeding demonstrations.",
+      "subtype": "Aquariums",
+      "address": "Plot 8, Akwakuma Road, Owerri, Imo State",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1557053538-426b38466b02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Nnx8ZnJlc2h3YXRlciUyMGFxdWFyaXVtfGVufDB8fHx8MTcxODY0MjExNnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "freshwater fish",
+        "amphibians",
+        "demonstrations"
+      ]
+    },
+    {
+      "id": "OW-AQ-003",
+      "name": "Coral Reef Kids Aquarium",
+      "short_description": "A smaller, kid-focused aquarium with colorful coral exhibits, clownfish, and interactive games about ocean conservation.",
+      "subtype": "Aquariums",
+      "address": "Nekede Road, Ihiagwa, Owerri, Imo State",
+      "opening_hours": "11:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1600863866632-601449625345?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8OHx8Y29yYWwlMjByZWVmJTIwa2lkc3xlbnwwfHx8fDE3MTg2NDIyNTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coral reef",
+        "ocean conservation",
+        "interactive games"
+      ]
+    },
+    {
+      "id": "OW-AQ-004",
+      "name": "The Deep Blue Classroom",
+      "short_description": "Combines an aquarium experience with marine biology workshops, offering an in-depth look at aquatic ecosystems for curious young minds.",
+      "subtype": "Aquariums",
+      "address": "Works Layout, Near Concorde Hotel, Owerri, Imo State",
+      "opening_hours": "09:30-15:00 (Weekdays), 10:00-17:00 (Weekends)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1558296303-3467614e59f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fG1hcmluZSUyMGJpb2xvZ3klMjBraWRzJTIwZWR1Y2F0aW9ufGVufDB8fHx8MTcxODY0MjExNnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marine biology",
+        "workshops",
+        "aquatic ecosystems"
+      ]
+    },
+    {
+      "id": "OW-AR-001",
+      "name": "Joyland Rides Owerri",
+      "short_description": "A classic amusement park offering a range of gentle and thrilling rides suitable for various age groups, including a carousel and mini-coaster.",
+      "subtype": "Amusement Rides",
+      "address": "Port Harcourt Road, Opposite Imo State Zoo, Owerri, Imo State",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1536098059083-d93339031070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8a2lkcyUyMGFtdXNlbWVudCUyMHJpZGVzfGVufDB8fHx8MTcxODY0MzA1NXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "carousel",
+        "mini coaster",
+        "family rides"
+      ]
+    },
+    {
+      "id": "OW-AR-002",
+      "name": "Thrillville Junior Fun Park",
+      "short_description": "Designed for younger thrill-seekers, this park features scaled-down versions of popular rides, ensuring a safe and exciting experience.",
+      "subtype": "Amusement Rides",
+      "address": "Orlu Road, Umuodu, Owerri, Imo State",
+      "opening_hours": "11:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1601620023027-d0c35dd2f0c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fGtpaWRzJTIwZmFpciUyMHJpZGVzfGVufDB8fHx8MTcxODY0MzA1NXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "junior rides",
+        "small rollercoaster",
+        "safe fun"
+      ]
+    },
+    {
+      "id": "OW-AR-003",
+      "name": "Adventure Spin & Fly",
+      "short_description": "An indoor amusement center with bumper cars, a small Ferris wheel, and interactive arcade games, perfect for rainy days.",
+      "subtype": "Amusement Rides",
+      "address": "Relief Market Road, Owerri, Imo State",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517409419139-22a4b7edc5e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTZ8fGtpaWRzJTIwYnVtcGVyJTIwY2Fyc3xlbnwwfHx8fDE3MTg2NDMwNTV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "indoor rides",
+        "bumper cars",
+        "arcade games"
+      ]
+    },
+    {
+      "id": "OW-AR-004",
+      "name": "Carnival Corner Owerri",
+      "short_description": "Experience the joy of a carnival with classic rides like a swing carousel, teacup ride, and various games of skill for prizes.",
+      "subtype": "Amusement Rides",
+      "address": "Plot 2, Federal Secretariat Road, New Owerri, Imo State",
+      "opening_hours": "16:00-22:00 (Weekends only)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1502444330042-d1a299714203?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjB8fGtpaWRzJTIwY2Fybml2YWwlMjByaWRlcyZlbnwwfHx8fDE3MTg2NDMwNTV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "carnival games",
+        "swing ride",
+        "prizes"
+      ]
+    },
+    {
+      "id": "OW-PLK-001",
+      "name": "StarGazers Academy Owerri",
+      "short_description": "An immersive planetarium offering captivating shows about stars, planets, and constellations, tailored for young astronomers.",
+      "subtype": "Planetariums for Kids",
+      "address": "Along Owerri-Aba Road, Near FUTO Main Gate, Owerri, Imo State",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542475510-ecb88bb4a081?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8a2lkcyUyMHBsYW5ldGFyaXVtfGVufDB8fHx8MTcxODY0MzcxMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "space exploration",
+        "constellations"
+      ]
+    },
+    {
+      "id": "OW-PLK-002",
+      "name": "Cosmic Kids Hub",
+      "short_description": "A hands-on science center with a small dome planetarium, allowing children to explore basic concepts of space and gravity through interactive exhibits.",
+      "subtype": "Planetariums for Kids",
+      "address": "Old Nekede Road, Ihiagwa, Owerri, Imo State",
+      "opening_hours": "09:30-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1534066548231-64d84f88e178?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8c3BhY2UlMjBzY2llbmNlJTIwa2lkc3xlbnwwfHx8fDE3MTg2NDM3MTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "science center",
+        "gravity",
+        "interactive exhibits"
+      ]
+    },
+    {
+      "id": "OW-PLK-003",
+      "name": "Galaxy Explorers Dome",
+      "short_description": "Features animated planetarium shows that take children on a virtual journey through the solar system, with engaging stories and facts.",
+      "subtype": "Planetariums for Kids",
+      "address": "Area A, World Bank Housing Estate, Owerri, Imo State",
+      "opening_hours": "11:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542845672-8700072b2a65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8OHx8c29sYXIlMjBzeXN0ZW0lMjBraWRzJTIwZWR1Y2F0aW9ufGVufDB8fHx8MTcxODY0MzcxMHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "solar system",
+        "virtual journey",
+        "animated shows"
+      ]
+    },
+    {
+      "id": "OW-PLK-004",
+      "name": "Little Astronauts Observatory",
+      "short_description": "Offers introductory stargazing sessions with kid-friendly telescopes and storytelling about mythological constellations, weather permitting.",
+      "subtype": "Planetariums for Kids",
+      "address": "Off Egbu Road, Behind Federal Medical Centre, Owerri, Imo State",
+      "opening_hours": "18:00-20:00 (Evening sessions)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1601362831818-f031ed42b10a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fGtpaWRzJTIwdGVsZXNjb3BlfGVufDB8fHx8MTcxODY0MzczMnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "stargazing",
+        "telescopes",
+        "mythology"
+      ]
+    },
+    {
+      "id": "OW-AQG-001",
+      "name": "Jungle Quest Zone Owerri",
+      "short_description": "An immersive indoor adventure playground with multi-level climbing structures, slides, and obstacle courses set in a jungle theme.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Ikenegbu Layout, Douglas Road, Owerri, Imo State",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1555543163-12a843940183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8a2lkcyUyMGluZG9vciUyMGFkdmVudHVyZSUyMHBsYXlncm91bmR8ZW58MHx8fHwxNzE4NjQ0Mjk3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "indoor adventure",
+        "obstacle course",
+        "climbing"
+      ]
+    },
+    {
+      "id": "OW-AQG-002",
+      "name": "Mystery Island Escape Room (Kids Edition)",
+      "short_description": "A specially designed escape room adventure for children, where they solve puzzles and riddles to unlock secrets and 'escape' an island.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Works Layout, Near Alvan Ikoku College of Education, Owerri, Imo State",
+      "opening_hours": "13:00-19:00 (Booking required)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1533036660144-8848d7d8e2cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8OHx8a2lkcyUyMGVzY2FwZSUyMHJvb218ZW58MHx8fHwxNzE4NjQ0Mjk3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "escape room",
+        "puzzles",
+        "team challenge"
+      ]
+    },
+    {
+      "id": "OW-AQG-003",
+      "name": "Treasure Hunt Trails Owerri",
+      "short_description": "Outdoor guided treasure hunts across scenic parts of Owerri parks, where kids follow clues and solve challenges to find hidden treasures.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Imo State Zoological Garden & Wildlife Park, Owerri, Imo State",
+      "opening_hours": "09:00-14:00 (Weekends only)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522858807-62f928a36c92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fGtpaWRzJTIwdHJlYXN1cmUlMjBodW50fGVufDB8fHx8MTcxODY0NDM2M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "outdoor adventure",
+        "clues",
+        "exploration"
+      ]
+    },
+    {
+      "id": "OW-AQG-004",
+      "name": "Medieval Quest Playground",
+      "short_description": "A themed outdoor playground designed as a castle, complete with towers, drawbridges, and role-playing props for imaginative knightly quests.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Royce Road, New Owerri, Imo State",
+      "opening_hours": "08:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579728416625-7284b3f2e466?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fGNhc3RsZSUyMHBsYXlncm91bmR8ZW58MHx8fHwxNzE4NjQ0Mjk3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "role-play",
+        "themed playground",
+        "imagination"
+      ]
+    },
+    {
+      "id": "OW-CMU-001",
+      "name": "Curiosity Corner Owerri",
+      "short_description": "An interactive children's museum fostering learning through play with exhibits on science, art, and Nigerian culture.",
+      "subtype": "Children’s Museums",
+      "address": "Wetheral Road, Opposite Assumpta Cathedral, Owerri, Imo State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563618175-1031d277717d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8Y2hpbGRyZW4lMjBtdXNldW18ZW58MHx8fHwxNzE4NjQ0OTUyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "interactive exhibits",
+        "science",
+        "culture"
+      ]
+    },
+    {
+      "id": "OW-CMU-002",
+      "name": "Discovery Kids Lab & Museum",
+      "short_description": "Focuses on hands-on science experiments, a robotics corner, and an innovation workshop to spark young inventors' minds.",
+      "subtype": "Children’s Museums",
+      "address": "Egbu Road, Near Imo State University Teaching Hospital, Owerri, Imo State",
+      "opening_hours": "10:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510531704581-5b7a040859d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Nnx8a2lkcyUyMHNjaWVuY2UlMjBsYWJ8ZW58MHx8fHwxNzE4NjQ0OTUyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "science experiments",
+        "robotics",
+        "innovation"
+      ]
+    },
+    {
+      "id": "OW-CMU-003",
+      "name": "Little Artisans Studio & Gallery",
+      "short_description": "A creative space within a museum, offering art classes, craft workshops, and a gallery showcasing children's artworks.",
+      "subtype": "Children’s Museums",
+      "address": "Ikenegbu Layout, Off Oparanozie Street, Owerri, Imo State",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582234057630-67a83d736340?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fGtpaWRzJTIwYXJ0JTIwd29ya3Nob3B8ZW58MHx8fHwxNzE4NjQ0OTUyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "art classes",
+        "crafts",
+        "creative expression"
+      ]
+    },
+    {
+      "id": "OW-CMU-004",
+      "name": "History & Heritage Junior Museum",
+      "short_description": "Introduces children to the rich history and cultural heritage of Imo State and Nigeria through engaging stories, artifacts, and dress-up activities.",
+      "subtype": "Children’s Museums",
+      "address": "Plot 1, Concorde Boulevard, New Owerri, Imo State",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1594895689100-348633783a62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTN8fGhpc3RvcnlJTIwa2lkcyUyMG11c2V1bXxlbnwwfHx8fDE3MTg2NDQ5NTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "history",
+        "culture",
+        "heritage"
+      ]
+    },
+    {
+      "id": "OW-PAP-001",
+      "name": "Adventure Oasis Park",
+      "short_description": "A vast outdoor park featuring elaborate climbing frames, swings, zip lines, and picnic areas for a full day of family fun.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Along Aba Road, Ihiagwa, Owerri, Imo State",
+      "opening_hours": "08:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1590453531649-1662f558d042?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8a2lkcyUyMGFkdmVudHVyZSUyMHBhcmt8ZW58MHx8fHwxNzE4NjQ1OTIzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "climbing frames",
+        "zip lines",
+        "outdoor play"
+      ]
+    },
+    {
+      "id": "OW-PAP-002",
+      "name": "Funland Owerri Kids Park",
+      "short_description": "A popular community playground with modern play equipment, including slides, sandpits, and dedicated areas for different age groups.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Rochas Okorocha Street, New Owerri, Imo State",
+      "opening_hours": "07:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1589218209869-7c88b222ce04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8N3x8a2lkcyUyMHBsYXlncm91bmR8ZW58MHx8fHwxNzE4NjQ1OTIzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "community park",
+        "slides",
+        "sandpit"
+      ]
+    },
+    {
+      "id": "OW-PAP-003",
+      "name": "Nature's Edge Play Garden",
+      "short_description": "A natural playground emphasizing wooden structures, sensory gardens, and opportunities for imaginative play within a lush, green setting.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Along Owerri-Port Harcourt Road, Umuguma, Owerri, Imo State",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563852109848-18e0018d2772?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fG5hdHVyYWwlMjBwbGF5Z3JvdW5kfGVufDB8fHx8MTcxODY0NTkyM3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "natural play",
+        "sensory garden",
+        "wooden structures"
+      ]
+    },
+    {
+      "id": "OW-PAP-004",
+      "name": "Urban Kids Adventure Hub",
+      "short_description": "An indoor adventure park featuring trampolines, soft play areas, and a climbing wall, perfect for active kids regardless of weather.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Okwu Uratta Road, Opp. Eastern Palm University, Owerri, Imo State",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620857993206-8d197607a9b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTl8fGtpZHMlMjBpbmRvb3IlMjBhZHZlbnR1cmUlMjBwYXJrfGVufDB8fHx8MTcxODY0NTkyM3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "trampolines",
+        "soft play",
+        "climbing wall"
+      ]
+    }
+  ]
+}

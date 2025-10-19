@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Puerto Jiménez",
+    "city_id": "2473"
+  },
+  "items": [
+    {
+      "id": "PJ_ANC_001",
+      "name": "Forgotten Hearth of the Osa People",
+      "short_description": "Believed to be the remnants of a significant pre-Columbian ceremonial hearth, this site offers a glimpse into the spiritual practices of the ancient inhabitants of the Osa Peninsula.",
+      "subtype": "Ancient Cities",
+      "address": "Near Rio Tigre, 5 km North of Puerto Jiménez, Osa Peninsula",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549495964-67252065e1c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwcnVpbnMlMjBqdW5nbGV8ZW58MHx8fHwxNjQ3MjI3NjEz&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "archaeology",
+        "indigenous history",
+        "sacred ground"
+      ]
+    },
+    {
+      "id": "PJ_ANC_002",
+      "name": "Jaguar Tooth Enclave Ruins",
+      "short_description": "Hidden deep within the rainforest, these overgrown ruins are said to be a former village or outpost, revered for its connection to the Jaguar spirit and ancestral wisdom.",
+      "subtype": "Ancient Cities",
+      "address": "Corcovado National Park buffer zone, trail entrance 10 km NW of Puerto Jiménez",
+      "visiting_hours": "08:00-15:00",
+      "entry_fee": "20 USD",
+      "images": "https://images.pexels.com/photos/1036329/pexels-photo-1036329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "rainforest",
+        "lost civilization",
+        "animal spirit"
+      ]
+    },
+    {
+      "id": "PJ_ANC_003",
+      "name": "Sunken Shell Mound Settlement",
+      "short_description": "Located near the coast, this partially submerged shell mound represents an ancient coastal settlement, offering insights into the early maritime life and spiritual reverence for the ocean.",
+      "subtype": "Ancient Cities",
+      "address": "Gulfo Dulce coastline, access point near Playa Preciosa",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Punta_Burica_shell_midden.jpg/1280px-Punta_Burica_shell_midden.jpg",
+      "tags": [
+        "coastal heritage",
+        "maritime history",
+        "archaeological site"
+      ]
+    },
+    {
+      "id": "PJ_ANC_004",
+      "name": "Echoes of the Serpent Stone Court",
+      "short_description": "A small, circular arrangement of natural stones believed to be an ancient ceremonial court where community decisions were made and spiritual rituals performed, dedicated to the fertility and wisdom of the serpent.",
+      "subtype": "Ancient Cities",
+      "address": "East of Dos Brazos de Rio Tigre, 7 km inland from Puerto Jiménez",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1616239109310-85f2694119f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxzYWNyZWQlMjBjaXJjbGUlMjBydWluc3xlbnwwfHx8fDE2NDcyMjgyMDc&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "indigenous ritual",
+        "community gathering",
+        "serpent wisdom"
+      ]
+    },
+    {
+      "id": "PJ_PIL_001",
+      "name": "Path of the Silent Sages",
+      "short_description": "A meditative trail leading through the dense primary rainforest, said to be walked by ancient shamans seeking solitude and insight from nature's profound wisdom.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Trailhead near La Leona Ranger Station, Osa Peninsula",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "15 USD",
+      "images": "https://images.unsplash.com/photo-1547844111-c9679f22c6e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxyYWluZm9yZXN0JTIwdHJhaWx8ZW58MHx8fHwxNjQ3MjI3NjEz&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "meditation",
+        "nature walk",
+        "spiritual journey"
+      ]
+    },
+    {
+      "id": "PJ_PIL_002",
+      "name": "Journey to the Cascading Soul",
+      "short_description": "This route follows a meandering river upstream to a hidden waterfall, a site believed to cleanse the spirit and rejuvenate the soul with its pure, powerful flow.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Access point 8 km on the road to Dos Brazos, Puerto Jiménez",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/1572076/pexels-photo-1572076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "waterfall",
+        "purification",
+        "forest path"
+      ]
+    },
+    {
+      "id": "PJ_PIL_003",
+      "name": "Coastal Spirit Walk",
+      "short_description": "A calming coastal path along the Gulfo Dulce, offering panoramic views and a chance for introspection, connecting pilgrims with the vastness of the ocean and its ancestral spirits.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts from Playa Tamales, Puerto Jiménez",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Playa_Preciosa_at_sunrise.jpg/1280px-Playa_Preciosa_at_sunrise.jpg",
+      "tags": [
+        "ocean views",
+        "introspection",
+        "coastal walk"
+      ]
+    },
+    {
+      "id": "PJ_PIL_004",
+      "name": "Emerald Heart Ascent",
+      "short_description": "A challenging but rewarding trek up a moderate incline, culminating at a viewpoint that reveals the 'Emerald Heart' of the Osa, a vast expanse of untouched rainforest, inspiring reverence for nature's grandeur.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Trailhead near Lapa Rios Eco Lodge, outside Puerto Jiménez",
+      "visiting_hours": "07:30-15:00",
+      "entry_fee": "10 USD",
+      "images": "https://images.unsplash.com/photo-1517454228919-4b8a2e2d2c1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxvc2ElMjBwZW5pbnN1bGElMjB2aWV3cG9pbnR8ZW58MHx8fHwxNjQ3MjI4Njcz&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "trekking",
+        "viewpoint",
+        "nature reverence"
+      ]
+    },
+    {
+      "id": "PJ_CEL_001",
+      "name": "Solstice Gaze Point",
+      "short_description": "A natural clearing on a gentle hill, recognized by indigenous groups for its precise alignment with the sunrise during the summer solstice, a time for renewal and blessing.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Finca Pura Vida, 4 km East of Puerto Jiménez",
+      "visiting_hours": "05:00-07:00 (special events for solstices)",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1555432098-b807b5a8b7c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxzdW5yaXNlJTIwZm9yZXN0JTIwY2xlYXJpbmd8ZW58MHx8fHwxNjQ3MjI3NjEz&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "solstice",
+        "astronomy",
+        "ancient rituals"
+      ]
+    },
+    {
+      "id": "PJ_CEL_002",
+      "name": "Lunar Whisper Clearing",
+      "short_description": "An open space surrounded by tall trees, where the moon's light filters down in a unique pattern, believed to be ideal for lunar observations and receiving intuitive messages during full moons.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Bosque del Cabo Rainforest Lodge grounds, 18 km South of Puerto Jiménez",
+      "visiting_hours": "19:00-22:00 (by appointment)",
+      "entry_fee": "10 USD",
+      "images": "https://images.pexels.com/photos/1105658/pexels-photo-1105658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "moon cycles",
+        "intuition",
+        "night sky"
+      ]
+    },
+    {
+      "id": "PJ_CEL_003",
+      "name": "Star Weaver's Outlook",
+      "short_description": "Perched on a coastal cliff, this natural vantage point offers unobstructed views of the night sky, a place where ancestors were said to 'weave' stories from the constellations and seek cosmic guidance.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Cliffside near Matapalo, 25 km South of Puerto Jiménez",
+      "visiting_hours": "18:00-06:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Stars_over_Manuel_Antonio_National_Park.jpg/1280px-Stars_over_Manuel_Antonio_National_Park.jpg",
+      "tags": [
+        "stargazing",
+        "cosmic wisdom",
+        "coastal cliff"
+      ]
+    },
+    {
+      "id": "PJ_CEL_004",
+      "name": "Equinox Stone Compass",
+      "short_description": "A set of naturally occurring stones arranged in a way that creates shadow alignments during the equinoxes, marking the balance between light and dark, day and night.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Near the Rio Esquinas mouth, 12 km North of Puerto Jiménez",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1502444330043-c79323777d13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwc3RvbmUlMjBhbGlnbm1lbnR8ZW58MHx8fHwxNjQ3MjI5MTgy&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "equinox",
+        "ancient calendar",
+        "natural monument"
+      ]
+    },
+    {
+      "id": "PJ_BAT_001",
+      "name": "Ridge of Resilient Spirits",
+      "short_description": "A secluded ridge overlooking the Gulfo Dulce, said to be the site of ancient tribal skirmishes. It's now a place to reflect on resilience and the enduring spirit of survival.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Cerro Osa Foothills, 10 km South-East of Puerto Jiménez",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547844111-c9679f22c6e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxyYWluZm9yZXN0JTIwdHJhaWx8ZW58MHx8fHwxNjQ3MjI3NjEz&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "resilience",
+        "historical site",
+        "reflection"
+      ]
+    },
+    {
+      "id": "PJ_BAT_002",
+      "name": "Cove of the Fallen Protectors",
+      "short_description": "A quiet cove where local legends speak of a fierce battle between indigenous protectors and invaders, a poignant reminder of sacrifices made to preserve the land and its sanctity.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Playa Sombrero Cove, near Carate, 40 km South of Puerto Jiménez",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/1234567/pexels-photo-1234567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "indigenous legacy",
+        "sacrifice",
+        "coastal history"
+      ]
+    },
+    {
+      "id": "PJ_BAT_003",
+      "name": "Echoing Valley of Truce",
+      "short_description": "A serene valley where, after prolonged conflict, rival indigenous clans laid down their arms and forged a lasting peace, now a symbol of reconciliation and harmony.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Near the community of Piro, 30 km South of Puerto Jiménez",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Corcovado_National_Park_-_Piro_River.jpg/1280px-Corcovado_National_Park_-_Piro_River.jpg",
+      "tags": [
+        "peace",
+        "reconciliation",
+        "historical landmark"
+      ]
+    },
+    {
+      "id": "PJ_BAT_004",
+      "name": "Last Stand Point of the Golden Serpent",
+      "short_description": "A mythical battlefield in folklore, where a golden serpent spirit defended the sacred gold veins from encroaching miners. It's a tale of environmental protection and spiritual resistance.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Remote section of the Talamanca mountains bordering Osa, accessible via specialized tour from Dos Brazos",
+      "visiting_hours": "07:00-14:00 (guided tours only)",
+      "entry_fee": "40 USD",
+      "images": "https://images.unsplash.com/photo-1510484799011-8f5b8f2d5e5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxnb2xkJTIwbWluZSUyMGxhbmRzY2FwZXxlbnwwfHx8fDE2NDcyMjkzMjY&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "folklore",
+        "environmentalism",
+        "spiritual resistance"
+      ]
+    },
+    {
+      "id": "PJ_HSP_001",
+      "name": "Healing Waters of Osa",
+      "short_description": "A pristine natural spring emerging from volcanic rock, renowned for its clear, cool waters believed to possess healing properties for both body and spirit.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Near Alto Laguna, 15 km North of Puerto Jiménez",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1589748792078-430c6a1e50f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxoZWFsaW5nJTIwc3ByaW5nJTIwcmFpbmZvcmVzdHxlbnwwfHx8fDE2NDcyMjk0NTU&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "healing water",
+        "natural spring",
+        "purification"
+      ]
+    },
+    {
+      "id": "PJ_HSP_002",
+      "name": "Whispering Falls Sanctuary",
+      "short_description": "A series of small, gentle waterfalls feeding into crystal-clear pools, creating a tranquil sanctuary where the 'whispers' of the water are said to bring peace and clarity to those who listen.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Along Rio Carbonera, 6 km East of Puerto Jiménez",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/338575/pexels-photo-338575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "waterfall",
+        "tranquility",
+        "meditation spot"
+      ]
+    },
+    {
+      "id": "PJ_HSP_003",
+      "name": "Emerald Pool of Rebirth",
+      "short_description": "A vibrant green pool fed by an underground spring, surrounded by lush vegetation. Local folklore suggests bathing here can symbolize rebirth and a fresh start.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Deep within a private reserve near Tigre, 9 km North of Puerto Jiménez",
+      "visiting_hours": "08:00-15:00 (guided access)",
+      "entry_fee": "25 USD",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emerald_Pool_at_Hana.jpg/1280px-Emerald_Pool_at_Hana.jpg",
+      "tags": [
+        "rebirth",
+        "sacred pool",
+        "folklore"
+      ]
+    },
+    {
+      "id": "PJ_HSP_004",
+      "name": "Serpent's Breath Spring",
+      "short_description": "A small, bubbling spring at the base of an ancient fig tree, said to be exhaled by a benevolent earth serpent spirit, bestowing wisdom and vitality upon those who drink its waters.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Within the Osa Wildlife Sanctuary, 20 km South of Puerto Jiménez",
+      "visiting_hours": "09:00-16:00 (with sanctuary admission)",
+      "entry_fee": "30 USD",
+      "images": "https://images.unsplash.com/photo-1548689539-c1f0b0c60f4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxzcHJpbmclMjByYWluZm9yZXN0JTIwdHJlZXxlbnwwfHx8fDE2NDcyMjk1NTg&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "wisdom",
+        "vitality",
+        "earth spirit"
+      ]
+    },
+    {
+      "id": "PJ_SFO_001",
+      "name": "Ancient Ceiba Grove",
+      "short_description": "A majestic grove dominated by colossal Ceiba trees, revered as 'Trees of Life' by indigenous cultures, acting as cosmic connectors between earth and sky.",
+      "subtype": "Sacred Forests",
+      "address": "Near Corcovado National Park entrance, La Leona sector",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "20 USD",
+      "images": "https://images.unsplash.com/photo-1582765324310-bf9b59e7f41a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxjZWliYSUyMHRyZWVzfGVufDB8fHx8MTY0NzIyOTcxMQ&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "ancient trees",
+        "indigenous spirituality",
+        "rainforest"
+      ]
+    },
+    {
+      "id": "PJ_SFO_002",
+      "name": "Forest of the Spirit Keepers",
+      "short_description": "A particularly dense and untouched section of rainforest, believed to be guarded by ancestral spirits, offering profound tranquility and a powerful connection to the primal essence of Osa.",
+      "subtype": "Sacred Forests",
+      "address": "East of Dos Brazos de Rio Tigre, 10 km inland from Puerto Jiménez",
+      "visiting_hours": "08:00-15:00 (guided tours recommended)",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/2042250/pexels-photo-2042250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "pristine nature",
+        "ancestral spirits",
+        "deep forest"
+      ]
+    },
+    {
+      "id": "PJ_SFO_003",
+      "name": "Emerald Canopy Sanctuary",
+      "short_description": "An elevated canopy walk experience above a particularly biodiverse section of forest, offering a unique perspective on the 'living church' of the rainforest and its intricate web of life.",
+      "subtype": "Sacred Forests",
+      "address": "Osa Interactive Gardens, 3 km North of Puerto Jiménez",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "35 USD",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Rainforest_canopy_walk_-_Corcovado.jpg/1280px-Rainforest_canopy_walk_-_Corcovado.jpg",
+      "tags": [
+        "biodiversity",
+        "canopy walk",
+        "eco-spiritual"
+      ]
+    },
+    {
+      "id": "PJ_SFO_004",
+      "name": "Whispering Palms of Ancestors",
+      "short_description": "A secluded grove of ancient palm trees near the coast, whose rustling fronds are said to carry the whispers of ancestors, providing guidance and solace.",
+      "subtype": "Sacred Forests",
+      "address": "Playa Sombrero, near Matapalo, 28 km South of Puerto Jiménez",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1534064117830-4e31e21b7a24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwcGFsbSUyMGdyb3ZlfGVufDB8fHx8MTY0NzMwMDI1OA&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "ancestral wisdom",
+        "coastal grove",
+        "solace"
+      ]
+    },
+    {
+      "id": "PJ_CRO_001",
+      "name": "Junction of Three Paths",
+      "short_description": "A historical meeting point where three ancient trails converged, symbolizing choices and new beginnings, a place where travelers would pause and seek guidance for their journey ahead.",
+      "subtype": "Crossroads",
+      "address": "Intersection of roads to Dos Brazos, Carate, and Puerto Jiménez",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510484799011-8f5b8f2d5e5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxyb2FkJTIwanVuY3Rpb258ZW58MHx8fHwxNjQ3MjI3NjEz&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "new beginnings",
+        "decision point",
+        "historical site"
+      ]
+    },
+    {
+      "id": "PJ_CRO_002",
+      "name": "Whispers of the River Confluence",
+      "short_description": "The exact spot where the Rio Agujas and a smaller tributary merge, a powerful energetic confluence where river spirits are said to share ancient wisdom, perfect for reflection.",
+      "subtype": "Crossroads",
+      "address": "Riverbank access near Agujas, 15 km North of Puerto Jiménez",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/1769805/pexels-photo-1769805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "river spirits",
+        "confluence",
+        "reflection"
+      ]
+    },
+    {
+      "id": "PJ_CRO_003",
+      "name": "The Great Meeting Point",
+      "short_description": "A spacious clearing historically used by different indigenous groups for trade, diplomacy, and ceremonial gatherings. It embodies the spirit of community and shared destiny.",
+      "subtype": "Crossroads",
+      "address": "Near Ojo de Agua community, 7 km North of Puerto Jiménez",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Community_gathering_in_Costa_Rica.jpg/1280px-Community_gathering_in_Costa_Rica.jpg",
+      "tags": [
+        "community",
+        "gathering place",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "PJ_CRO_004",
+      "name": "Portal of Converging Energies",
+      "short_description": "A lesser-known site where subtle energy lines are believed to intersect, creating a palpable sense of spiritual energy, often sought by those seeking clarity or a boost in personal power.",
+      "subtype": "Crossroads",
+      "address": "Hidden trail in a private reserve, 12 km West of Puerto Jiménez",
+      "visiting_hours": "08:30-14:30 (guided access)",
+      "entry_fee": "30 USD",
+      "images": "https://images.unsplash.com/photo-1502444330043-c79323777d13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBwb3J0YWx8ZW58MHx8fHwxNjQ3MjMwMzQx&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "energy vortex",
+        "spiritual clarity",
+        "personal power"
+      ]
+    },
+    {
+      "id": "PJ_MON_001",
+      "name": "Stone Sentinel of Gulfo Dulce",
+      "short_description": "A massive, weather-worn rock formation standing tall on the coastline, said to be a watchful guardian spirit of the Gulfo Dulce, offering protection and guidance to seafarers.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Near Playa Blanca, along the Gulfo Dulce coast, 5 km from Puerto Jiménez",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549495964-67252065e1c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxjYXBhdGFpbiUyMHJvY2t8ZW58MHx8fHwxNjQ3MjI3NjEz&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "guardian spirit",
+        "coastal landmark",
+        "natural sculpture"
+      ]
+    },
+    {
+      "id": "PJ_MON_002",
+      "name": "Jaguar's Paw Rock",
+      "short_description": "A unique rock formation resembling a giant jaguar's paw print, revered by local communities as a powerful symbol of the jungle's apex predator and its protective essence.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Hidden trail off the road to Carate, 18 km South of Puerto Jiménez",
+      "visiting_hours": "08:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/1036329/pexels-photo-1036329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "jaguar spirit",
+        "sacred animal",
+        "rock formation"
+      ]
+    },
+    {
+      "id": "PJ_MON_003",
+      "name": "Sleeping Giant Boulder",
+      "short_description": "A colossal boulder resembling a sleeping human figure, a legendary ancient giant who once roamed the Osa Peninsula and now rests, watching over the land.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Near the community of Piro, 25 km South of Puerto Jiménez",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sleeping_Giant_Provincial_Park_Thunder_Bay.jpg/1280px-Sleeping_Giant_Provincial_Park_Thunder_Bay.jpg",
+      "tags": [
+        "folklore",
+        "mythical figure",
+        "natural wonder"
+      ]
+    },
+    {
+      "id": "PJ_MON_004",
+      "name": "Crystal Vein Monolith",
+      "short_description": "A prominent rock formation subtly interwoven with quartz crystals, believed to amplify intentions and connect visitors to the earth's subtle energies for healing and clarity.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Remote forest section accessible via trail from Dos Brazos, 8 km inland",
+      "visiting_hours": "08:00-14:00 (guided tours recommended)",
+      "entry_fee": "30 USD",
+      "images": "https://images.unsplash.com/photo-1616239109310-85f2694119f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxjcnlzdGFsJTIwcm9ja3N8ZW58MHx8fHwxNjQ3MjMwNDkx&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "crystal energy",
+        "healing",
+        "earth energy"
+      ]
+    },
+    {
+      "id": "PJ_ORA_001",
+      "name": "Cave of Whispering Echoes",
+      "short_description": "A small, unassuming cave whose unique acoustics amplify sounds, believed by ancient shamans to be a portal for receiving ancestral messages and prophetic whispers.",
+      "subtype": "Oracle Sites",
+      "address": "Coastal cliffs near Matapalo, accessible at low tide, 22 km South of Puerto Jiménez",
+      "visiting_hours": "09:00-14:00 (check tide schedules)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549495964-67252065e1c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxjYXZlJTIwaW5kaWdlbm91c3xlbnwwfHx8fDE2NDcyMjc2MTM&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "prophecy",
+        "ancestral communication",
+        "secluded cave"
+      ]
+    },
+    {
+      "id": "PJ_ORA_002",
+      "name": "Great Seer's Banyan Tree",
+      "short_description": "An immense Banyan tree with sprawling roots, considered sacred by indigenous groups as a source of deep wisdom and a place to consult for guidance on important life decisions.",
+      "subtype": "Oracle Sites",
+      "address": "Private nature reserve, 7 km North of Puerto Jiménez",
+      "visiting_hours": "08:00-16:00 (guided access)",
+      "entry_fee": "15 USD",
+      "images": "https://images.pexels.com/photos/1036329/pexels-photo-1036329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "wisdom tree",
+        "guidance",
+        "sacred tree"
+      ]
+    },
+    {
+      "id": "PJ_ORA_003",
+      "name": "Prophet's Lookout Cliff",
+      "short_description": "A dramatic cliff face offering expansive views of the Pacific Ocean, where shamans would come to meditate and receive visions from the vastness of the sea and sky.",
+      "subtype": "Oracle Sites",
+      "address": "Remote section of coast near Carate, 35 km South of Puerto Jiménez",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Playa_Preciosa_at_sunrise.jpg/1280px-Playa_Preciosa_at_sunrise.jpg",
+      "tags": [
+        "visions",
+        "meditation",
+        "ocean views"
+      ]
+    },
+    {
+      "id": "PJ_ORA_004",
+      "name": "Mirror Pond of Visions",
+      "short_description": "A perfectly still, natural pond deep in the forest, its reflective surface was believed to show glimpses of the future or answers to profound questions for those who gazed upon it with an open heart.",
+      "subtype": "Oracle Sites",
+      "address": "Tigre Valley, accessible by trail from Dos Brazos, 10 km inland",
+      "visiting_hours": "07:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1510484799011-8f5b8f2d5e5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxyZWZsZWN0aW9uJTIwcG9uZHxlbnwwfHx8fDE2NDcyMzA2MDc&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "future visions",
+        "introspection",
+        "nature oracle"
+      ]
+    },
+    {
+      "id": "PJ_MEP_001",
+      "name": "Osa Spirit Yoga Sanctuary",
+      "short_description": "A tranquil open-air yoga shala nestled in the rainforest, dedicated to fostering mind-body-spirit connection through daily yoga classes, meditation, and holistic workshops.",
+      "subtype": "Modern Energy Places",
+      "address": "Barrio Bambú, 2 km East of Puerto Jiménez center",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "15 USD (per class)",
+      "images": "https://images.unsplash.com/photo-1549495964-67252065e1c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHlvZ2ElMjBzYW5jdHVhcnl8ZW58MHx8fHwxNjQ3MjI3NjEz&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "yoga",
+        "meditation",
+        "wellness"
+      ]
+    },
+    {
+      "id": "PJ_MEP_002",
+      "name": "Harmonic Flow Retreat Center",
+      "short_description": "An eco-friendly retreat center specializing in sound healing, reiki, and vibrational therapies, utilizing the natural frequencies of the rainforest for deep relaxation and energy balance.",
+      "subtype": "Modern Energy Places",
+      "address": "Playa Preciosa, 3 km South of Puerto Jiménez",
+      "visiting_hours": "09:00-18:00 (by appointment)",
+      "entry_fee": "fixed amount (for sessions)",
+      "images": "https://images.pexels.com/photos/1036329/pexels-photo-1036329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "sound healing",
+        "reiki",
+        "retreat center"
+      ]
+    },
+    {
+      "id": "PJ_MEP_003",
+      "name": "Coastal Serenity Meditation Deck",
+      "short_description": "A secluded wooden deck overlooking the tranquil waters of Gulfo Dulce, designed as a peaceful space for silent meditation, breathwork, and connection with marine energy.",
+      "subtype": "Modern Energy Places",
+      "address": "Near the entrance to the Esquinas River, 8 km North of Puerto Jiménez",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Playa_Preciosa_at_sunrise.jpg/1280px-Playa_Preciosa_at_sunrise.jpg",
+      "tags": [
+        "meditation",
+        "ocean energy",
+        "serenity"
+      ]
+    },
+    {
+      "id": "PJ_MEP_004",
+      "name": "The Living Earth Healing Garden",
+      "short_description": "A vibrant botanical garden focused on medicinal plants and permaculture, offering educational tours and a tranquil space for grounding practices and connecting with the earth's nurturing energies.",
+      "subtype": "Modern Energy Places",
+      "address": "Road to Dos Brazos, 6 km from Puerto Jiménez",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "10 USD",
+      "images": "https://images.unsplash.com/photo-1510484799011-8f5b8f2d5e5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MzV8MHwxfHNlYXJjaHwxfHxmZWxsaW5nJTIwcmV0cmVhdHxlbnwwfHx8fDE2NDcyMzA5MjY&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "herbal medicine",
+        "permaculture",
+        "earthing"
+      ]
+    }
+  ]
+}

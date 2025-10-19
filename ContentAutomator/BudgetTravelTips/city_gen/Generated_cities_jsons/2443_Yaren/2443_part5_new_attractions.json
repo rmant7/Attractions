@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Yaren",
+    "city_id": "2443"
+  },
+  "items": [
+    {
+      "id": "YSP001",
+      "name": "Yaren Sunset Point & Café",
+      "short_description": "Discover breathtaking panoramic ocean views as the sun dips below the horizon, paired with refreshing local beverages and snacks. A perfect spot for evening relaxation and photography.",
+      "address": "Coast Road, Yaren District",
+      "opening_hours": "16:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1476602336688-66236b280140?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sunset view",
+        "café",
+        "oceanfront"
+      ]
+    },
+    {
+      "id": "NMDC002",
+      "name": "Nauru Marine Discovery Centre",
+      "short_description": "Dive into the wonders of Nauru's vibrant marine life through interactive exhibits and a small touch tank. Learn about local conservation efforts and the island's unique coral ecosystems.",
+      "address": "Near Nauru International Airport, Yaren District",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1548174780-b530509a27c0?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "marine life",
+        "education",
+        "conservation"
+      ]
+    },
+    {
+      "id": "TVW003",
+      "name": "Topside View Walkway",
+      "short_description": "Explore a newly constructed elevated walkway offering unique perspectives of Nauru's 'Topside' phosphate landscape and lush regrowth. Ideal for nature enthusiasts and photographers.",
+      "address": "Inland Scenic Route, Yaren District",
+      "opening_hours": "06:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1520108342790-271d473489fe?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature walk",
+        "landscape",
+        "free"
+      ]
+    },
+    {
+      "id": "NCHH004",
+      "name": "Nauru Cultural Heritage Hub",
+      "short_description": "Immerse yourself in Nauruan traditions with a rotating display of artifacts, storytelling sessions, and live demonstrations of traditional crafts. A living museum celebrating the island's rich past.",
+      "address": "Central Yaren, Yaren District",
+      "opening_hours": "10:00-15:00 (Mon-Fri)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1560960579-2580a6c0b91e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "culture",
+        "history",
+        "local crafts"
+      ]
+    },
+    {
+      "id": "YCMP005",
+      "name": "Yaren Community Market Plaza",
+      "short_description": "A vibrant, newly designed market space offering fresh local produce, handmade goods, and delicious street food. Experience the heart of Yaren's community on market days.",
+      "address": "Market Road, Yaren District",
+      "opening_hours": "07:00-14:00 (Weekends)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1510414902640-c11684c3756c?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "market",
+        "local food",
+        "community"
+      ]
+    },
+    {
+      "id": "ABKPH006",
+      "name": "Anibare Bay Kayak & Paddleboard Hire",
+      "short_description": "Discover the serene beauty of Anibare Bay with newly available kayak and paddleboard rentals. Glide over clear waters and enjoy the calm, picturesque coastline.",
+      "address": "Anibare Bay Road, Yaren District",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582260654030-22c53a652e75?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "water sports",
+        "beach",
+        "adventure"
+      ]
+    },
+    {
+      "id": "BBLBD007",
+      "name": "Buada Lagoon Birdwatching Deck",
+      "short_description": "A tranquil, elevated platform offering prime views of Buada Lagoon, Nauru's only freshwater lake, and its diverse birdlife. A haven for nature lovers and bird enthusiasts.",
+      "address": "Buada Lagoon Access Road, Yaren District",
+      "opening_hours": "06:30-17:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1610486665780-3024841a0179?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "birdwatching",
+        "nature",
+        "lagoon"
+      ]
+    },
+    {
+      "id": "NEPPG008",
+      "name": "Nauru Eco-Park & Picnic Grounds",
+      "short_description": "A newly developed green space with walking trails, native plant gardens, and family-friendly picnic areas. Enjoy a peaceful escape into Nauru's natural flora.",
+      "address": "South Yaren, Yaren District",
+      "opening_hours": "08:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1565551910606-d2508770c061?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "park",
+        "picnic",
+        "nature"
+      ]
+    },
+    {
+      "id": "PSIC009",
+      "name": "Phosphate Story Interpretive Centre",
+      "short_description": "Uncover the powerful history of Nauru's phosphate mining industry through interactive exhibits, historical photographs, and personal accounts. Understand its impact on the island and its people.",
+      "address": "Near the Old Cantilevers, Yaren District",
+      "opening_hours": "10:00-16:00 (Tue-Sat)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1558276075-801ee437b78a?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "history",
+        "mining",
+        "education"
+      ]
+    },
+    {
+      "id": "NSGP010",
+      "name": "Nauru Star-Gazing Platform",
+      "short_description": "Escape city lights and witness the incredible brilliance of the Southern Hemisphere night sky from a dedicated, dark-sky viewing platform. Perfect for astronomy enthusiasts.",
+      "address": "Elevated area, Yaren District",
+      "opening_hours": "19:00-23:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1506748281137-080c9451121d?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "astronomy",
+        "night sky",
+        "free"
+      ]
+    }
+  ]
+}

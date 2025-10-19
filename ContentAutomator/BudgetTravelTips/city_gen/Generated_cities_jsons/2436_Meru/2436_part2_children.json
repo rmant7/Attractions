@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Meru",
+    "city_id": "2436"
+  },
+  "items": [
+    {
+      "id": "CM001",
+      "name": "Meru Discovery Den",
+      "short_description": "An interactive museum where children can explore local culture, history, and natural science through hands-on exhibits designed for curious young minds.",
+      "subtype": "Children’s Museums",
+      "address": "Kinoru Stadium Road, Meru Town, Meru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1577908906103-e887f4c5c2d3",
+      "tags": [
+        "interactive",
+        "education",
+        "culture"
+      ]
+    },
+    {
+      "id": "CM002",
+      "name": "Little Innovators Lab",
+      "short_description": "A vibrant space fostering creativity and problem-solving through workshops in robotics, coding, and imaginative play, perfect for future engineers and artists.",
+      "subtype": "Children’s Museums",
+      "address": "Near Meru National Polytechnic, Meru-Nanyuki Highway, Meru",
+      "opening_hours": "10:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1628173426543-a61f5f3e7b16",
+      "tags": [
+        "STEM",
+        "creativity",
+        "workshops"
+      ]
+    },
+    {
+      "id": "CM003",
+      "name": "Cultural Kids' Corner",
+      "short_description": "Dedicated to teaching children about Meru's rich heritage through traditional stories, crafts, and games in an engaging, family-friendly environment.",
+      "subtype": "Children’s Museums",
+      "address": "Meru Museum Grounds, Milimani Estate, Meru",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549419149-160a2d2139e5",
+      "tags": [
+        "heritage",
+        "arts & crafts",
+        "local history"
+      ]
+    },
+    {
+      "id": "CM004",
+      "name": "Playful Past Museum",
+      "short_description": "Step back in time! Kids can explore ancient tools, replica artifacts, and historical games, learning about the past in a fun and interactive way.",
+      "subtype": "Children’s Museums",
+      "address": "Kithoka Road, Makutano, Meru",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628173426543-a61f5f3e7b16",
+      "tags": [
+        "history",
+        "discovery",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "TP001",
+      "name": "Mt. Kenya Adventure Park Jr.",
+      "short_description": "A thrilling theme park featuring mini roller coasters, splash pads, and imaginative play zones, all inspired by the natural beauty of Mt. Kenya.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Nkubu-Meru Road, Kithoka, Meru",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1590488819036-749e79435b84",
+      "tags": [
+        "thrills",
+        "outdoor",
+        "family fun"
+      ]
+    },
+    {
+      "id": "TP002",
+      "name": "Meru Safari Kidsland",
+      "short_description": "Embark on a mini-safari adventure with jungle-themed rides, animal encounters, and discovery trails, perfectly scaled for young explorers.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Off Meru-Maua Road, Ruiga, Meru",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1604770280490-6395b8d002a2",
+      "tags": [
+        "safari",
+        "adventure",
+        "animal-themed"
+      ]
+    },
+    {
+      "id": "TP003",
+      "name": "Magical Meadows Fun Park",
+      "short_description": "A whimsical park with gentle rides, vibrant gardens, and magical play structures, ideal for toddlers and young children seeking enchantment.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Gatimbi Road, South Imenti, Meru",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1522810798369-e77227d825c9",
+      "tags": [
+        "toddler-friendly",
+        "fantasy",
+        "gentle rides"
+      ]
+    },
+    {
+      "id": "TP004",
+      "name": "Sunshine Coast Mini World",
+      "short_description": "Despite being inland, this park offers a 'coastal' experience with water play zones, sand pits, and miniature boat rides for endless aquatic fun.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Meru-Isiolo Highway, Giaki, Meru",
+      "opening_hours": "10:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1550772225-c6517a9497e5",
+      "tags": [
+        "water park",
+        "beach theme",
+        "playgrounds"
+      ]
+    },
+    {
+      "id": "AR001",
+      "name": "Meru Funfair Whirl",
+      "short_description": "A collection of classic amusement rides, including a Ferris wheel, merry-go-round, and bumper cars, providing nostalgic fun for all ages.",
+      "subtype": "Amusement Rides",
+      "address": "Makutano Town Center, Meru-Nanyuki Highway, Meru",
+      "opening_hours": "14:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1524339196924-f7615951bf49",
+      "tags": [
+        "classic rides",
+        "carnival",
+        "family fun"
+      ]
+    },
+    {
+      "id": "AR002",
+      "name": "Joyride Junction",
+      "short_description": "Features a variety of kid-friendly rides like spinning teacups, mini trains, and a giant slide, ensuring endless giggles and excitement.",
+      "subtype": "Amusement Rides",
+      "address": "Meru-Maua Road, Kaaga, Meru",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627993416212-0e95655c6e8e",
+      "tags": [
+        "spinning rides",
+        "trains",
+        "slides"
+      ]
+    },
+    {
+      "id": "AR003",
+      "name": "Sky High Swings & Slides",
+      "short_description": "Offers exhilarating swings that go high into the air and towering slides, perfect for older kids seeking a dose of adrenaline.",
+      "subtype": "Amusement Rides",
+      "address": "Near Meru University of Science & Technology, Meru",
+      "opening_hours": "13:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596791242379-38c205315a67",
+      "tags": [
+        "thrill rides",
+        "swings",
+        "tall slides"
+      ]
+    },
+    {
+      "id": "AR004",
+      "name": "The Giggle Go-Rounds",
+      "short_description": "A charming collection of smaller rides including carousels, bouncing castles, and gentle car rides, designed for the youngest visitors.",
+      "subtype": "Amusement Rides",
+      "address": "Nkubu Market Street, Nkubu, Meru",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628173426543-a61f5f3e7b16",
+      "tags": [
+        "carousel",
+        "bouncy castle",
+        "toddler rides"
+      ]
+    },
+    {
+      "id": "SC001",
+      "name": "Meru Young Scientists Hub",
+      "short_description": "An inspiring science center with hands-on experiments, interactive exhibits on physics and chemistry, and a dedicated space for budding inventors.",
+      "subtype": "Science Centers",
+      "address": "Off Meru-Isiolo Highway, Gatimbi, Meru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582239474775-80252b4757c6",
+      "tags": [
+        "experiments",
+        "physics",
+        "invention"
+      ]
+    },
+    {
+      "id": "SC002",
+      "name": "Stargazer's Observatory & Lab",
+      "short_description": "Explore the cosmos! This center features a planetarium, telescope viewing sessions, and exhibits on astronomy and space exploration.",
+      "subtype": "Science Centers",
+      "address": "Highlands Road, Kagaa, Meru",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1577708906103-e887f4c5c2d3",
+      "tags": [
+        "astronomy",
+        "space",
+        "planetarium"
+      ]
+    },
+    {
+      "id": "SC003",
+      "name": "Eco-Explorers Center",
+      "short_description": "Focuses on environmental science, conservation, and sustainable living with interactive displays on local ecosystems, climate change, and recycling.",
+      "subtype": "Science Centers",
+      "address": "Behind Meru ASK Showground, Meru Town, Meru",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1604770280490-6395b8d002a2",
+      "tags": [
+        "ecology",
+        "conservation",
+        "environment"
+      ]
+    },
+    {
+      "id": "SC004",
+      "name": "Curiosity Cavern Science Museum",
+      "short_description": "Dive into the wonders of biology and geology with fossil digs, mineral displays, and interactive exhibits on the human body and natural phenomena.",
+      "subtype": "Science Centers",
+      "address": "Nanyuki-Meru Road, Mugumo, Meru",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522810798369-e77227d825c9",
+      "tags": [
+        "biology",
+        "geology",
+        "natural science"
+      ]
+    },
+    {
+      "id": "LC001",
+      "name": "Meru Brick Builder's City",
+      "short_description": "An immersive park where children can build anything imaginable with millions of LEGO bricks, featuring vast building zones and impressive LEGO models of Meru landmarks.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Opposite Meru Slopes Hotel, Meru Town, Meru",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574548074668-7d8794c414a9",
+      "tags": [
+        "lego",
+        "building",
+        "creativity"
+      ]
+    },
+    {
+      "id": "LC002",
+      "name": "Construct-It Kingdom",
+      "short_description": "A construction-themed play park with diggers, cranes, and building blocks of all sizes, allowing kids to engage in large-scale building projects.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Nkubu-Meru Road, Kithoka, Meru",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582239474775-80252b4757c6",
+      "tags": [
+        "construction",
+        "diggers",
+        "blocks"
+      ]
+    },
+    {
+      "id": "LC003",
+      "name": "Mini-Master Builder's Park",
+      "short_description": "Designed for younger children, this park offers oversized soft bricks and simpler construction challenges, encouraging early engineering skills.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Meru-Maua Road, Makutano, Meru",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1577708906103-e887f4c5c2d3",
+      "tags": [
+        "toddler",
+        "soft play",
+        "early learning"
+      ]
+    },
+    {
+      "id": "LC004",
+      "name": "Gear & Giggles Construction Zone",
+      "short_description": "A dynamic area where kids can design and build moving machines, explore simple mechanics, and create intricate structures with various building systems.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Meru-Nanyuki Highway, Muthara, Meru",
+      "opening_hours": "10:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1577908906103-e887f4c5c2d3",
+      "tags": [
+        "mechanics",
+        "engineering",
+        "innovative play"
+      ]
+    },
+    {
+      "id": "DP001",
+      "name": "Meru Dino Roar Valley",
+      "short_description": "Walk among life-sized animatronic dinosaurs, dig for fossils, and explore prehistoric landscapes in this thrilling and educational park.",
+      "subtype": "Dinosaur Parks",
+      "address": "Off Meru-Nanyuki Highway, Giaki, Meru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627993416212-0e95655c6e8e",
+      "tags": [
+        "dinosaurs",
+        "animatronics",
+        "fossil dig"
+      ]
+    },
+    {
+      "id": "DP002",
+      "name": "Prehistoric Playland",
+      "short_description": "A fun-filled park with dinosaur-themed playgrounds, obstacle courses, and interactive exhibits that teach kids about different dinosaur species.",
+      "subtype": "Dinosaur Parks",
+      "address": "Meru-Maua Road, Kianjai, Meru",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522810798369-e77227d825c9",
+      "tags": [
+        "playgrounds",
+        "dino-themed",
+        "educational"
+      ]
+    },
+    {
+      "id": "DP003",
+      "name": "Jurassic Jungle Kids",
+      "short_description": "Explore a lush jungle habitat filled with hidden dinosaur models, a maze, and a storytelling cave, bringing the Jurassic era to life for young adventurers.",
+      "subtype": "Dinosaur Parks",
+      "address": "Near Meru National Park Gate, Meru",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1604770280490-6395b8d002a2",
+      "tags": [
+        "jungle adventure",
+        "dino models",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "DP004",
+      "name": "Triassic Trails Adventure",
+      "short_description": "Follow marked trails through a forest dotted with static dinosaur figures, offering a scenic and informative journey into the ancient world.",
+      "subtype": "Dinosaur Parks",
+      "address": "Kithoka Estate, Meru Town, Meru",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1550772225-c6517a9497e5",
+      "tags": [
+        "trails",
+        "dino figures",
+        "nature walk"
+      ]
+    },
+    {
+      "id": "CMG001",
+      "name": "Toon Town Plaza",
+      "short_description": "Meet and greet beloved cartoon characters, enjoy live performances, and participate in themed games and photo opportunities with your favorites.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Milimani Estate, Meru Town, Meru",
+      "opening_hours": "11:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1628173426543-a61f5f3e7b16",
+      "tags": [
+        "characters",
+        "photo ops",
+        "live shows"
+      ]
+    },
+    {
+      "id": "CMG002",
+      "name": "Character Carnival Meru",
+      "short_description": "A lively carnival where popular cartoon mascots roam, offering high-fives, autographs, and leading parades with music and dance.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Meru ASK Showground, Meru Town, Meru",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1577708906103-e887f4c5c2d3",
+      "tags": [
+        "mascots",
+        "parade",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "CMG003",
+      "name": "Storybook Friends Fair",
+      "short_description": "Interact with characters from classic children's storybooks, enjoy storytelling sessions, and participate in craft activities related to beloved tales.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Nkubu Town Centre, Nkubu, Meru",
+      "opening_hours": "10:30-15:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549419149-160a2d2139e5",
+      "tags": [
+        "storybook",
+        "storytelling",
+        "crafts"
+      ]
+    },
+    {
+      "id": "CMG004",
+      "name": "Animated Adventures Hub",
+      "short_description": "Step into the world of animated movies and TV shows, with character appearances, themed games, and a special screening area for favorite episodes.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Makutano Shopping Centre, Meru-Nanyuki Highway, Meru",
+      "opening_hours": "12:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628173426543-a61f5f3e7b16",
+      "tags": [
+        "movies",
+        "TV shows",
+        "games"
+      ]
+    },
+    {
+      "id": "AQ001",
+      "name": "Meru Marine Wonders",
+      "short_description": "Discover a vibrant underwater world with diverse marine life from Kenya's coast and beyond, featuring colorful coral reefs and mesmerizing fish tanks.",
+      "subtype": "Aquariums",
+      "address": "Near Meru Greens Horticultural Park, Meru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1575023910545-c41936e3925c",
+      "tags": [
+        "marine life",
+        "coral reefs",
+        "exotic fish"
+      ]
+    },
+    {
+      "id": "AQ002",
+      "name": "River Giants & Reef Dreams",
+      "short_description": "Showcasing both freshwater giants from local rivers and the delicate beauty of ocean reefs, this aquarium offers a dual perspective on aquatic ecosystems.",
+      "subtype": "Aquariums",
+      "address": "Meru-Maua Road, Athi, Meru",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522810798369-e77227d825c9",
+      "tags": [
+        "freshwater",
+        "ocean",
+        "aquatic ecosystems"
+      ]
+    },
+    {
+      "id": "AQ003",
+      "name": "The Aqua Explorium",
+      "short_description": "An interactive aquarium where children can touch friendly sea creatures in touch pools, learn about conservation, and watch daily feeding shows.",
+      "subtype": "Aquariums",
+      "address": "Kithoka Road, Meru Town, Meru",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596791242379-38c205315a67",
+      "tags": [
+        "touch pool",
+        "conservation",
+        "feeding shows"
+      ]
+    },
+    {
+      "id": "AQ004",
+      "name": "Lake Victoria Little Critters",
+      "short_description": "Focusing on the aquatic biodiversity of Lake Victoria and other regional lakes, this compact aquarium highlights local fish, amphibians, and invertebrates.",
+      "subtype": "Aquariums",
+      "address": "Nkubu-Meru Highway, Kanyoni, Meru",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549419149-160a2d2139e5",
+      "tags": [
+        "local fish",
+        "freshwater",
+        "biodiversity"
+      ]
+    },
+    {
+      "id": "MSA001",
+      "name": "Junior Champs Sports Complex",
+      "short_description": "A multi-sport facility offering mini soccer fields, basketball courts, and a running track, designed for children aged 5-12 to play and train.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Kinoru Stadium Road, Meru Town, Meru",
+      "opening_hours": "08:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1533038676654-e67c8008433d",
+      "tags": [
+        "soccer",
+        "basketball",
+        "athletics"
+      ]
+    },
+    {
+      "id": "MSA002",
+      "name": "Meru Active Kids Arena",
+      "short_description": "Features a climbing wall, obstacle course, and specialized areas for gymnastics and martial arts, promoting fitness and agility in a fun environment.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Off Meru-Nanyuki Highway, Makutano, Meru",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1546777611-e73714b7e8d7",
+      "tags": [
+        "climbing",
+        "gymnastics",
+        "obstacle course"
+      ]
+    },
+    {
+      "id": "MSA003",
+      "name": "Goal Getters Park",
+      "short_description": "Primarily a soccer-focused mini arena with several small pitches, training drills, and friendly match opportunities for aspiring young footballers.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Meru-Maua Road, Kaaga, Meru",
+      "opening_hours": "08:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1577908906103-e887f4c5c2d3",
+      "tags": [
+        "football",
+        "training",
+        "team sports"
+      ]
+    },
+    {
+      "id": "MSA004",
+      "name": "Future Stars Multi-Sport Center",
+      "short_description": "Offers diverse sports like mini-tennis, badminton, and volleyball courts, along with equipment rental, catering to a wide range of athletic interests.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Nkubu Market Bypass, Nkubu, Meru",
+      "opening_hours": "09:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1590488819036-749e79435b84",
+      "tags": [
+        "tennis",
+        "volleyball",
+        "badminton"
+      ]
+    },
+    {
+      "id": "ZOO001",
+      "name": "Meru Wildlife Haven Jr.",
+      "short_description": "A miniature zoo featuring smaller African animals, exotic birds, and a dedicated education center on local wildlife conservation, perfect for young learners.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Off Meru-Isiolo Highway, Giaki, Meru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1522810798369-e77227d825c9",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "birds"
+      ]
+    },
+    {
+      "id": "ZOO002",
+      "name": "Savannah Smiles Petting Zoo",
+      "short_description": "An interactive petting zoo where children can safely feed and interact with friendly farm animals like goats, sheep, rabbits, and guinea pigs.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Kithoka Estate, Meru Town, Meru",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627993416212-0e95655c6e8e",
+      "tags": [
+        "farm animals",
+        "petting",
+        "interaction"
+      ]
+    },
+    {
+      "id": "ZOO003",
+      "name": "Little Paws & Hooves Farm",
+      "short_description": "Experience farm life with pony rides, animal feeding, and demonstrations of milking cows and shearing sheep, offering a glimpse into rural Meru life.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Nkubu Market Road, Nkubu, Meru",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549419149-160a2d2139e5",
+      "tags": [
+        "farm experience",
+        "pony rides",
+        "rural life"
+      ]
+    },
+    {
+      "id": "ZOO004",
+      "name": "Jungle Jamboree Zoo for Kids",
+      "short_description": "A kid-centric zoo featuring playful monkeys, colorful parrots, and other fascinating creatures in interactive exhibits, complete with a jungle-themed playground.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Meru-Maua Road, Makutano, Meru",
+      "opening_hours": "10:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1604770280490-6395b8d002a2",
+      "tags": [
+        "monkeys",
+        "parrots",
+        "jungle theme"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Akure",
+    "city_id": "2447"
+  },
+  "items": [
+    {
+      "id": "ABBH001",
+      "name": "Akure Brick Builders' Hub",
+      "short_description": "Unleash your child's inner architect at Akure's premier Lego-themed construction park. Kids can build towering structures and intricate designs with thousands of bricks.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "No. 5, Oba Adesida Road, Akure.",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510531704581-5b2874fa60ed?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Lego",
+        "construction",
+        "creative play"
+      ]
+    },
+    {
+      "id": "IBP002",
+      "name": "Imagination Block Plaza",
+      "short_description": "A vibrant space dedicated to block-based construction, offering guided workshops and free-play zones for children of all ages. Explore the wonders of engineering with various building sets.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Shoprite Complex, Alagbaka Extension, Akure.",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/2079024/pexels-photo-2079024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "blocks",
+        "engineering",
+        "workshops"
+      ]
+    },
+    {
+      "id": "FBW003",
+      "name": "Future Builders' Workshop",
+      "short_description": "Engage your children in STEM principles through interactive Lego challenges and robot-building sessions. This park encourages problem-solving and teamwork.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Beside FUTA North Gate, Obakekere, Akure.",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549704285-045339f4e48b?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "STEM",
+        "robotics",
+        "team building"
+      ]
+    },
+    {
+      "id": "AMCB004",
+      "name": "Akure Mini-City Blocks",
+      "short_description": "Children can construct their own miniature Akure using specialized Lego sets and then populate it with characters and vehicles. A truly immersive building experience.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Ijapo Estate Main Gate, Akure.",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589083321523-289b449d0121?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "city building",
+        "miniature",
+        "creative play"
+      ]
+    },
+    {
+      "id": "OOW001",
+      "name": "Ondo Ocean Wonders",
+      "short_description": "Discover the diverse marine life of the Atlantic coast and beyond at Akure's leading aquarium. Features interactive exhibits and daily feeding shows.",
+      "subtype": "Aquariums",
+      "address": "KM 7, Ondo Road, Akure.",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1530537295712-4ee1f09c0f99?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "marine life",
+        "education",
+        "fish"
+      ]
+    },
+    {
+      "id": "AAJ002",
+      "name": "Akure Aquatic Journey",
+      "short_description": "An educational journey through various freshwater and saltwater ecosystems. Children can touch starfish and learn about aquatic conservation efforts.",
+      "subtype": "Aquariums",
+      "address": "Behind Akure Shopping Mall, Adegbemile Street, Akure.",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/1036815/pexels-photo-1036815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "conservation",
+        "touch tank",
+        "freshwater"
+      ]
+    },
+    {
+      "id": "DSDC003",
+      "name": "Deep Sea Discovery Centre",
+      "short_description": "Explore the mysteries of the deep sea with fascinating displays of exotic fish, corals, and unique marine invertebrates. Special exhibits on bioluminescence.",
+      "subtype": "Aquariums",
+      "address": "Akure-Owo Expressway, Near Government House, Akure.",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1547820461-8b090df4a71d?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "exotic fish",
+        "corals",
+        "deep sea"
+      ]
+    },
+    {
+      "id": "RLLH004",
+      "name": "Riverine & Lagoon Life House",
+      "short_description": "Focused on the aquatic ecosystems of Nigeria's rivers and lagoons, showcasing local fish species and their habitats. An insight into regional biodiversity.",
+      "subtype": "Aquariums",
+      "address": "Off Oyemekun Road, By Nepa Roundabout, Akure.",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616788591876-02e07127e4e1?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "local species",
+        "rivers",
+        "biodiversity"
+      ]
+    },
+    {
+      "id": "ADD001",
+      "name": "Akure Dino Discoveryland",
+      "short_description": "Step back in time to the age of dinosaurs! Featuring life-sized animatronic dinosaurs, fossil digs, and exciting prehistoric trails for young explorers.",
+      "subtype": "Dinosaur Parks",
+      "address": "Oda Road, Near Redemption Camp, Akure.",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1602928503893-b6d859d99c4d?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "animatronic",
+        "fossils",
+        "prehistoric"
+      ]
+    },
+    {
+      "id": "JJA002",
+      "name": "Jurassic Jungle Akure",
+      "short_description": "A thrilling adventure through a jungle inhabited by roaring dinosaurs. Enjoy interactive exhibits, paleontologist workshops, and a thrilling dinosaur-themed playground.",
+      "subtype": "Dinosaur Parks",
+      "address": "Alagbaka GRA, Akure.",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1620023640236-07e382897486?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "adventure",
+        "paleontology",
+        "playground"
+      ]
+    },
+    {
+      "id": "DVE003",
+      "name": "Dinosaur Valley Explore",
+      "short_description": "Home to a variety of dinosaur species, presented in naturalistic settings. Ride the dino-train and excavate your own discoveries at the sand dig site.",
+      "subtype": "Dinosaur Parks",
+      "address": "Old Akure-Ilesha Road, Near Federal University of Technology, Akure.",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1555663784-a16f05e94b15?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "dig site",
+        "dino-train",
+        "education"
+      ]
+    },
+    {
+      "id": "PPL004",
+      "name": "Prehistoric Playland",
+      "short_description": "A family-friendly dinosaur park with interactive exhibits, educational shows, and gentle dinosaur rides for younger children. Learn about ancient creatures in a fun way.",
+      "subtype": "Dinosaur Parks",
+      "address": "Ijapo Estate, Akure.",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/1018318/pexels-photo-1018318.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "family friendly",
+        "rides",
+        "interactive"
+      ]
+    },
+    {
+      "id": "AQM001",
+      "name": "Akure Quest Masters",
+      "short_description": "Embark on an epic adventure with multiple themed escape rooms and outdoor scavenger hunts. Perfect for developing problem-solving skills and teamwork.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Adesida Road, Opposite Central Bank, Akure.",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1598000494396-857e53f1d24e?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "escape room",
+        "scavenger hunt",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "TMMPP002",
+      "name": "The Mystery Maze & Puzzle Park",
+      "short_description": "Navigate giant outdoor mazes and solve intriguing puzzles at every turn. A fun challenge for families and groups, promoting critical thinking and exploration.",
+      "subtype": "Adventure & Quest Games",
+      "address": "FUTA South Gate Area, Akure.",
+      "opening_hours": "09:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/3305/maze-nature-labyrinth-garden.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "maze",
+        "puzzles",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "AIA003",
+      "name": "Adventure Island Akure",
+      "short_description": "A dynamic park offering high ropes courses, zip lines, and a dedicated adventure playground. Challenge yourself with physical obstacles and exhilarating activities.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Off Igbatoro Road, Akure.",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510257077395-88a4e375ff60?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "high ropes",
+        "zip line",
+        "physical activity"
+      ]
+    },
+    {
+      "id": "MSQ004",
+      "name": "Magic Scroll Quest",
+      "short_description": "An interactive digital and physical quest game where children solve riddles and complete tasks to find the ancient Magic Scroll. Uses augmented reality for a unique experience.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Ade Super Complex, Road Block, Akure.",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549419137-b6f12089f21f?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "augmented reality",
+        "riddles",
+        "digital game"
+      ]
+    },
+    {
+      "id": "ACF001",
+      "name": "Akure Children's Farmstead",
+      "short_description": "A hands-on farm experience where children can interact with friendly farm animals, learn about crop cultivation, and enjoy tractor rides. Fresh produce available.",
+      "subtype": "Farm Attractions",
+      "address": "Along Ilesha Road, Before CAC Convention Ground, Akure.",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547900755-70984a958a74?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "farm animals",
+        "agriculture",
+        "tractor rides"
+      ]
+    },
+    {
+      "id": "GPMF002",
+      "name": "Green Pastures Mini-Farm",
+      "short_description": "Designed for younger children, this mini-farm allows gentle interaction with small animals, egg collecting, and gardening activities. A peaceful rural escape.",
+      "subtype": "Farm Attractions",
+      "address": "Off Shagari Village Road, Akure.",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/3631481/pexels-photo-3631481.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "petting zoo",
+        "gardening",
+        "rural"
+      ]
+    },
+    {
+      "id": "NBEF003",
+      "name": "Nature's Bounty Educational Farm",
+      "short_description": "An immersive learning environment focusing on sustainable farming practices, animal welfare, and where our food comes from. Includes farm-to-table workshops.",
+      "subtype": "Farm Attractions",
+      "address": "Akure-Ondo Road, Beyond FUTA Main Gate, Akure.",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1574768310377-62f79ce583f7?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "sustainable farming",
+        "education",
+        "animal welfare"
+      ]
+    },
+    {
+      "id": "AAKP004",
+      "name": "Akure Agri-Kids Park",
+      "short_description": "A dynamic attraction where kids can 'work' on a simulated farm, drive mini-tractors, and learn about the journey of food from farm to plate. Fun and informative.",
+      "subtype": "Farm Attractions",
+      "address": "Owena Barracks Road, Akure.",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/1013444/pexels-photo-1013444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "simulated farm",
+        "mini-tractors",
+        "food journey"
+      ]
+    },
+    {
+      "id": "AFFP001",
+      "name": "Akure Fables & Folklore Park",
+      "short_description": "Step into a world of enchanting local and international tales. The park features interactive story zones, puppet shows, and costumed character meet-and-greets.",
+      "subtype": "Storytelling Parks",
+      "address": "Off Igbatoro Road, Opposite FIRS Office, Akure.",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596495578051-46c592182743?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "folklore",
+        "puppet shows",
+        "interactive stories"
+      ]
+    },
+    {
+      "id": "TWWS002",
+      "name": "The Whispering Woods Story Trail",
+      "short_description": "A magical outdoor trail where ancient trees come alive with tales. Follow the path, listen to recorded stories, and uncover hidden literary treasures.",
+      "subtype": "Storytelling Parks",
+      "address": "Behind Federal Secretariat, Alagbaka, Akure.",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/3573351/pexels-photo-3573351.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "nature trail",
+        "audio stories",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "ISSG003",
+      "name": "Imagination Stage & Story Garden",
+      "short_description": "A vibrant performing arts space where children can both watch and participate in plays, storytelling sessions, and creative workshops. Inspires young artists.",
+      "subtype": "Storytelling Parks",
+      "address": "Ijapo Extension, Akure.",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1522064971206-f6d0f62d8542?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "performing arts",
+        "workshops",
+        "creative writing"
+      ]
+    },
+    {
+      "id": "BDL004",
+      "name": "Bookworm's Dreamland",
+      "short_description": "A unique park celebrating books and reading. Features giant storybook installations, reading nooks, and daily read-aloud sessions from classic children's literature.",
+      "subtype": "Storytelling Parks",
+      "address": "Road Block, Near Shoprite, Akure.",
+      "opening_hours": "09:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1544837775-8ec07e324021?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "reading",
+        "literature",
+        "storybook installations"
+      ]
+    },
+    {
+      "id": "AFF001",
+      "name": "Akure Fun Factory",
+      "short_description": "Akure's largest indoor play center, featuring multi-level soft play structures, ball pits, slides, and separate toddler zones. Perfect for active kids, rain or shine.",
+      "subtype": "Indoor Play Centers",
+      "address": "Adelabu Shopping Complex, Old Akure-Owo Road, Akure.",
+      "opening_hours": "09:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1629737119156-f09c64757c2e?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "soft play",
+        "ball pit",
+        "all-weather"
+      ]
+    },
+    {
+      "id": "JJP002",
+      "name": "Jolly Jumpers Playland",
+      "short_description": "A vibrant indoor center with trampolines, climbing walls, and a dedicated bouncy castle area. Encourages physical activity and boundless energy.",
+      "subtype": "Indoor Play Centers",
+      "address": "Behind Owena Motels, Alagbaka, Akure.",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/8991864/pexels-photo-8991864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "trampolines",
+        "climbing wall",
+        "bouncy castle"
+      ]
+    },
+    {
+      "id": "TID003",
+      "name": "The Imagination Dome",
+      "short_description": "More than just play, this indoor center blends active fun with creative stations. Features a large play gym, Lego tables, art corners, and a mini-theatre.",
+      "subtype": "Indoor Play Centers",
+      "address": "FUTA Road, Opposite School of Health, Akure.",
+      "opening_hours": "09:30-18:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596767854674-d4b834458f31?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "creative play",
+        "art corner",
+        "play gym"
+      ]
+    },
+    {
+      "id": "RRIP004",
+      "name": "Rainforest Rascals Indoor Park",
+      "short_description": "A jungle-themed indoor adventure park with slides, tunnels, rope bridges, and a toddler-friendly soft play zone. Escape the heat and enjoy a wild play experience.",
+      "subtype": "Indoor Play Centers",
+      "address": "Adegbola Junction, Opposite First Bank, Akure.",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/6203112/pexels-photo-6203112.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "jungle theme",
+        "slides",
+        "tunnels"
+      ]
+    },
+    {
+      "id": "AEF001",
+      "name": "Akure Enchanted Forest",
+      "short_description": "Wander through a magical forest where classic fairy tales come to life. Meet beloved characters, explore storybook cottages, and enjoy whimsical rides.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Along Ondo Road, Near Golf Course, Akure.",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1555661146-5154388e20e8?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "fairy tales",
+        "characters",
+        "whimsical rides"
+      ]
+    },
+    {
+      "id": "PNKK002",
+      "name": "Princess & Knight Kingdom",
+      "short_description": "A royal realm dedicated to princes, princesses, and valiant knights. Children can dress up, participate in royal parades, and explore a magnificent castle playground.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Ijapo Housing Estate, Opposite Fidelity Bank, Akure.",
+      "opening_hours": "10:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1616782295537-b715e751a029?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "royalty",
+        "dress-up",
+        "castle"
+      ]
+    },
+    {
+      "id": "GPV003",
+      "name": "Gnome & Pixie Village",
+      "short_description": "A charming miniature village designed for imaginative play, inhabited by friendly gnomes and pixies. Features tiny houses, magical gardens, and interactive puzzles.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Off Oba-Ile Road, Near Alakure Village, Akure.",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549488330-05047b744a1e?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "miniature",
+        "imaginative play",
+        "magical gardens"
+      ]
+    },
+    {
+      "id": "MCS004",
+      "name": "Mythical Creatures' Sanctuary",
+      "short_description": "Encounter dragons, unicorns, and other mythical beings in this themed park. Learn their stories and participate in quests to protect their magical realm.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Ilesha Garage, Opposite Army Cantonment, Akure.",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1598918939634-972166a06140?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "dragons",
+        "unicorns",
+        "fantasy quest"
+      ]
+    },
+    {
+      "id": "AKDC001",
+      "name": "Akure Kids Discovery Centre",
+      "short_description": "A dynamic children's museum with interactive exhibits spanning science, art, and culture. Encourages hands-on learning and imaginative exploration.",
+      "subtype": "Children’s Museums",
+      "address": "Adegbemile Cultural Centre, Alagbaka, Akure.",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589793181829-0601dfa13b63?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "science",
+        "art",
+        "interactive exhibits"
+      ]
+    },
+    {
+      "id": "LSM002",
+      "name": "Little Scholars Museum",
+      "short_description": "Focused on early childhood education, this museum offers sensory play, role-playing zones, and basic STEM activities for toddlers and preschoolers.",
+      "subtype": "Children’s Museums",
+      "address": "Ijapo Estate, Near The Dome, Akure.",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/1036817/pexels-photo-1036817.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "early childhood",
+        "sensory play",
+        "STEM"
+      ]
+    },
+    {
+      "id": "FIH003",
+      "name": "Future Innovators Hub",
+      "short_description": "A cutting-edge children's museum with exhibits on robotics, coding, sustainable energy, and virtual reality. Inspires future engineers and scientists.",
+      "subtype": "Children’s Museums",
+      "address": "Federal University of Technology, Akure (FUTA) Annex, Akure.",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1555231707-167bb93b8e44?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "robotics",
+        "coding",
+        "virtual reality"
+      ]
+    },
+    {
+      "id": "ACE004",
+      "name": "Akure Cultural Explorers",
+      "short_description": "Explore the rich cultural heritage of Ondo State and Nigeria through engaging exhibits, traditional craft workshops, and storytelling sessions. Promotes cultural awareness.",
+      "subtype": "Children’s Museums",
+      "address": "Behind Shoprite, Alagbaka, Akure.",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517457378877-c917ee72f782?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "culture",
+        "heritage",
+        "crafts"
+      ]
+    },
+    {
+      "id": "ATTC001",
+      "name": "Akure Tiny Top Circus",
+      "short_description": "Experience the magic of the circus with thrilling acrobats, hilarious clowns, and mesmerizing animal acts (ethical, non-harmful). A spectacle for the whole family.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Ademulegun Street, Akure (near MKO Abiola Democracy Park).",
+      "opening_hours": "17:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596541223130-580749a96e25?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "acrobatics",
+        "clowns",
+        "live show"
+      ]
+    },
+    {
+      "id": "OPP002",
+      "name": "Ondo Puppet Playhouse",
+      "short_description": "Delight in enchanting puppet shows featuring classic tales and original stories. Hand-crafted puppets bring characters to life in this cozy theater.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Oyemekun Road, Adjacent to First Bank, Akure.",
+      "opening_hours": "11:00-13:00, 15:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/10307373/pexels-photo-10307373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "puppets",
+        "storytelling",
+        "theater"
+      ]
+    },
+    {
+      "id": "MICA003",
+      "name": "Magical Illusion & Circus Arts Academy",
+      "short_description": "Witness astonishing magic shows and incredible circus acts. Also offers workshops for children interested in learning juggling, magic tricks, or basic acrobatics.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Aisha Court, Off Oda Road, Akure.",
+      "opening_hours": "16:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1509873094895-c195ad40b2f5?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "magic",
+        "circus skills",
+        "workshops"
+      ]
+    },
+    {
+      "id": "FPT004",
+      "name": "Folktale Puppet Theatre",
+      "short_description": "A unique puppet theatre showcasing traditional Nigerian folktales through elaborate puppetry and vibrant cultural performances. Educational and entertaining for all.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "State Cultural Centre, Oba Adesida Road, Akure.",
+      "opening_hours": "14:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/10860868/pexels-photo-10860868.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "Nigerian culture",
+        "folktales",
+        "traditional puppetry"
+      ]
+    }
+  ]
+}

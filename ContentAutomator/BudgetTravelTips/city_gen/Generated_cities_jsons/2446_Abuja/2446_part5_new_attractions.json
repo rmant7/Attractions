@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Abuja",
+    "city_id": "2446"
+  },
+  "items": [
+    {
+      "id": "ABUJART001",
+      "name": "Lumina Art Centre",
+      "short_description": "A vibrant hub for contemporary African art, featuring rotating exhibitions and interactive installations from emerging and established artists.",
+      "address": "Plot 105, Femi Oye Street, Utako, Abuja",
+      "opening_hours": "10:00-19:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579783902671-55416043236f?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "culture",
+        "exhibition"
+      ]
+    },
+    {
+      "id": "ABUJAFM002",
+      "name": "The Spice Route Market & Eatery",
+      "short_description": "An immersive culinary journey offering a diverse range of local and international street food, gourmet groceries, and unique dining experiences under one roof.",
+      "address": "Plot 21, Adetokunbo Ademola Crescent, Wuse II, Abuja",
+      "opening_hours": "11:00-22:00 (Daily)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542691456-e9185a420b9e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food",
+        "market",
+        "dining"
+      ]
+    },
+    {
+      "id": "ABUJAFEC003",
+      "name": "Zenith Adventure Park",
+      "short_description": "Abuja's newest indoor family entertainment destination, featuring a trampoline park, virtual reality arcade, laser tag arena, and a dedicated kids' play zone.",
+      "address": "15 Gana Street, Maitama, Abuja",
+      "opening_hours": "10:00-21:00 (Daily)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627916606016-b8471e98ce51?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "family",
+        "fun",
+        "games"
+      ]
+    },
+    {
+      "id": "ABUJANP004",
+      "name": "The Green Sanctuary Gardens",
+      "short_description": "A serene urban oasis focused on indigenous flora and fauna, offering guided nature walks, birdwatching spots, and sustainable living workshops.",
+      "address": "Off Apo-Giri Road, Behind Gudu District, Abuja",
+      "opening_hours": "07:00-18:00 (Daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1507525428034-b723cf961cfe?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "eco-tourism",
+        "outdoors"
+      ]
+    },
+    {
+      "id": "ABUJACIN005",
+      "name": "Opulence Grand Cinemas",
+      "short_description": "Redefining movie-going with state-of-the-art screens, recliner seating, private screening rooms, and an exclusive lounge serving gourmet food and drinks.",
+      "address": "Central Business District, Abuja",
+      "opening_hours": "10:00-00:00 (Daily)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1517604921473-1996d9f13612?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cinema",
+        "luxury",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "ABUJASKY006",
+      "name": "The Skyline Lounge",
+      "short_description": "Enjoy breathtaking panoramic views of Abuja's skyline while sipping on artisanal cocktails and indulging in delectable bites at this chic rooftop destination.",
+      "address": "Transcorp Hilton Abuja Rooftop, Aguiyi Ironsi Street, Maitama, Abuja",
+      "opening_hours": "17:00-02:00 (Tue-Sun)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1543888761-49b806d20389?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nightlife",
+        "views",
+        "bar"
+      ]
+    },
+    {
+      "id": "ABUJATECH007",
+      "name": "Nexus Innovation Hub & Cafe",
+      "short_description": "A collaborative space fostering technology, entrepreneurship, and creativity, featuring co-working areas, event spaces, and a public-facing modern cafe.",
+      "address": "Sani Abacha Way, Jabi, Abuja",
+      "opening_hours": "08:00-20:00 (Mon-Sat)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1629904853716-f0bc5ac373e5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "innovation",
+        "tech",
+        "cafe"
+      ]
+    },
+    {
+      "id": "ABUJAHOTEL008",
+      "name": "The Monarch Suites & Gallery",
+      "short_description": "An exclusive boutique hotel renowned for its unique design, showcasing local art, and offering public access to its award-winning restaurant and serene infinity pool.",
+      "address": "Olusegun Obasanjo Way, Guzape District, Abuja",
+      "opening_hours": "24/7 (Hotel), 07:00-23:00 (Restaurant/Pool)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1625244724122-acb192fd1ea4?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "luxury",
+        "hotel",
+        "design"
+      ]
+    },
+    {
+      "id": "ABUJAADVENT009",
+      "name": "Summit Eco-Park & Adventures",
+      "short_description": "An outdoor adventure park offering ziplining, rock climbing, obstacle courses, and guided bike trails amidst Abuja's natural landscapes, perfect for thrill-seekers.",
+      "address": "Near Kado Fish Market, Off Airport Road, Abuja",
+      "opening_hours": "08:00-18:00 (Daily)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616429302685-6490e54d6f0c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "sports",
+        "outdoors"
+      ]
+    },
+    {
+      "id": "ABUJACRAFT010",
+      "name": "Kulture Kiln Collective",
+      "short_description": "A modern take on a crafts village, showcasing artisan workshops, handcrafted goods, live cultural performances, and a contemporary Nigerian cuisine cafe.",
+      "address": "Behind National Mosque, Area 10, Garki, Abuja",
+      "opening_hours": "09:00-19:00 (Mon-Sat)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1587883501659-c2900742d45b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "crafts",
+        "heritage",
+        "culture"
+      ]
+    }
+  ]
+}

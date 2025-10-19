@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Nouakchott",
+    "city_id": "2422"
+  },
+  "items": [
+    {
+      "id": "NQCC01",
+      "name": "Al-Mizan Cultural Hub",
+      "short_description": "A vibrant new nexus for arts, music, and local traditions, offering workshops and performances that bridge ancient heritage with contemporary expression in a modern setting.",
+      "address": "Rue 301, Tevragh Zeina, Nouakchott",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549491746-883a9a13084d?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Culture",
+        "Arts",
+        "Community"
+      ]
+    },
+    {
+      "id": "NQGP02",
+      "name": "Oasis Green Park",
+      "short_description": "Nouakchott's newest urban green space, offering serene landscapes, walking paths, and shaded areas perfect for family picnics and relaxation amidst the city's bustle.",
+      "address": "Avenue Gamal Abdel Nasser, Ksar, Nouakchott",
+      "opening_hours": "06:00-22:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1560946765-51d0728c89b7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Park",
+        "Family",
+        "Relaxation"
+      ]
+    },
+    {
+      "id": "NQSC03",
+      "name": "Mauritania Grand Mall",
+      "short_description": "A premier shopping destination featuring international brands, local boutiques, a multi-screen cinema, and diverse dining options, bringing a modern retail experience to Nouakchott.",
+      "address": "Route de Nouadhibou, Teyarett, Nouakchott",
+      "opening_hours": "10:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1561708453-9d1fb2245b73?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Shopping",
+        "Entertainment",
+        "Dining"
+      ]
+    },
+    {
+      "id": "NQAG04",
+      "name": "Ksar Modern Art Space",
+      "short_description": "Showcasing emerging Mauritanian artists and contemporary African art, this newly opened gallery is a dynamic platform for visual expression and cultural dialogue.",
+      "address": "Rue de l'Ambassade de France, Ksar, Nouakchott",
+      "opening_hours": "11:00-19:00 (Closed Sundays)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1581403400688-29219b138ff4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Art",
+        "Gallery",
+        "Culture"
+      ]
+    },
+    {
+      "id": "NQTH05",
+      "name": "Sahara Tech Hub",
+      "short_description": "A bustling innovation center and co-working space that hosts tech workshops, startup incubators, and networking events, fostering Nouakchott's growing digital economy.",
+      "address": "Boulevard Général de Gaulle, Tevragh Zeina, Nouakchott",
+      "opening_hours": "09:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522204523234-8729aa6ed03d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Technology",
+        "Innovation",
+        "Community"
+      ]
+    },
+    {
+      "id": "NQCR06",
+      "name": "The Nomad's Table",
+      "short_description": "Experience contemporary Mauritanian cuisine with a fusion twist in a stylish, desert-inspired setting. A must-visit for foodies seeking unique flavors and ambiance.",
+      "address": "Cité Plage, Nouakchott",
+      "opening_hours": "12:00-23:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Dining",
+        "Cuisine",
+        "Experience"
+      ]
+    },
+    {
+      "id": "NQCP07",
+      "name": "Atlantic Breeze Promenade",
+      "short_description": "A newly developed waterfront area perfect for evening strolls, offering panoramic views of the Atlantic Ocean, street food vendors, and family-friendly activities.",
+      "address": "Along the Atlantic Coast, Nouakchott",
+      "opening_hours": "24/7",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1549725807-68b3117498c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Outdoors",
+        "Seaside",
+        "Walks"
+      ]
+    },
+    {
+      "id": "NQDC08",
+      "name": "Sahara Kids Discovery Lab",
+      "short_description": "An interactive learning space where children can explore science, technology, and Mauritanian culture through hands-on exhibits and engaging workshops, opened recently.",
+      "address": "Rue 207, Sebkha, Nouakchott",
+      "opening_hours": "09:00-17:00 (Closed Fridays)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563806295844-325d2b7c4a00?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Kids",
+        "Education",
+        "Family"
+      ]
+    },
+    {
+      "id": "NQRB09",
+      "name": "Zenith Sky Lounge",
+      "short_description": "Perched atop Nouakchott's newest boutique hotel, this stylish rooftop bar offers sophisticated cocktails, light bites, and breathtaking city views, perfect for an evening out.",
+      "address": "Avenue de la Paludisme, Tevragh Zeina, Nouakchott",
+      "opening_hours": "18:00-01:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1588697960334-00e23114d1f2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Nightlife",
+        "Luxury",
+        "Views"
+      ]
+    },
+    {
+      "id": "NQSW10",
+      "name": "Momentum Fitness & Aquatic Center",
+      "short_description": "A state-of-the-art facility featuring a modern gym, Olympic-size swimming pool, and various fitness classes, catering to health enthusiasts and sports lovers seeking a premium experience.",
+      "address": "Rue Moktar Ould Daddah, Lexar, Nouakchott",
+      "opening_hours": "06:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1599863339002-31d778d91b4a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Fitness",
+        "Wellness",
+        "Sports"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Lamu",
+    "city_id": "2432"
+  },
+  "items": [
+    {
+      "id": "LMCUL001",
+      "name": "Kuzi Kitchen & Spice Lab",
+      "short_description": "Dive into the heart of Swahili cuisine with interactive cooking classes, exploring ancient spice routes and traditional recipes in a vibrant, modern setting.",
+      "address": "Utetezi Street, Lamu Old Town",
+      "opening_hours": "10:00-16:00 (daily classes)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601053748281-79b94090b8f3?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Food",
+        "Culture",
+        "Workshop"
+      ]
+    },
+    {
+      "id": "LMCM002",
+      "name": "Pate Marine Eco-Hub",
+      "short_description": "Discover Lamu's vibrant marine life at this new conservation center. Participate in turtle releases, coral reef monitoring, or explore mangrove ecosystems via guided dhow tours.",
+      "address": "Manda Island, near Manda Airstrip",
+      "opening_hours": "08:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549419736-22a94519961f?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Nature",
+        "Conservation",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "LMART003",
+      "name": "Mkunguni Modern Art Space",
+      "short_description": "Experience the pulse of contemporary East African art in Lamu. This gallery showcases emerging and established artists with a focus on Swahili heritage and modern interpretations.",
+      "address": "Shela Village, next to Peponi Hotel",
+      "opening_hours": "10:00-18:00 (closed Mondays)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1579783900882-c0d3ce7df18f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Art",
+        "Culture",
+        "Shopping"
+      ]
+    },
+    {
+      "id": "LMWEL004",
+      "name": "Koreni Serenity Shala",
+      "short_description": "Find your inner peace at Lamu's newest wellness sanctuary. Offering daily yoga, meditation, and holistic therapies amidst tranquil gardens and ocean breezes.",
+      "address": "Near Mbuyuni Beach, Shela Village",
+      "opening_hours": "07:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1634994269137-b6f792d7f8c9?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Wellness",
+        "Relaxation",
+        "Nature"
+      ]
+    },
+    {
+      "id": "LMFSH005",
+      "name": "Swahili Threads & Treasures",
+      "short_description": "Discover ethical fashion and unique handmade crafts at this community-driven boutique. Featuring locally sourced materials and traditional artisan techniques.",
+      "address": "Lamu Old Town, waterfront street",
+      "opening_hours": "09:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1568202978051-ce54fb0ff1c1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Shopping",
+        "Crafts",
+        "Culture"
+      ]
+    },
+    {
+      "id": "LMHER006",
+      "name": "Funguni Living History House",
+      "short_description": "Step back in time at this interactive house museum. Experience daily Swahili life, traditional practices, and oral histories passed down through generations.",
+      "address": "Funguni Quarter, Lamu Old Town",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596791163486-5d6e2e5c9f5f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "History",
+        "Culture",
+        "Education"
+      ]
+    },
+    {
+      "id": "LMLOD007",
+      "name": "Mkoko Glamping Retreat",
+      "short_description": "Reconnect with nature at this luxurious eco-glamping site on Manda Island. Enjoy breathtaking views, private beach access, and sustainable living under the stars.",
+      "address": "Northern Manda Island, accessible by boat",
+      "opening_hours": "24/7 (for guests)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1571490918933-4f9e31d4b68e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Nature",
+        "Accommodation",
+        "Luxury"
+      ]
+    },
+    {
+      "id": "LMSTO008",
+      "name": "Jahazi Narratives & Ngoma Center",
+      "short_description": "Immerse yourself in traditional Swahili storytelling, poetry recitals, and vibrant musical performances at this intimate cultural space.",
+      "address": "Near Old Post Office, Lamu Old Town",
+      "opening_hours": "18:00-22:00 (event dependent)",
+      "price_level": "cheap",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Lamudrums.jpg",
+      "tags": [
+        "Culture",
+        "Performance",
+        "Music"
+      ]
+    },
+    {
+      "id": "LMKID009",
+      "name": "Kipepeo Kids' Eco-Park",
+      "short_description": "A safe and stimulating outdoor play area for children, focusing on nature exploration, traditional games, and environmental awareness, built with sustainable materials.",
+      "address": "Mainland, opposite Shela, accessible by small boat",
+      "opening_hours": "10:00-17:00 (closed Mondays)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1559850650-848e022f4b52?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Family",
+        "Nature",
+        "Kids"
+      ]
+    },
+    {
+      "id": "LMEAT010",
+      "name": "Bustani Rooftop & Bites",
+      "short_description": "Enjoy panoramic views of Lamu Old Town and spectacular sunsets while savoring fresh juices, Swahili snacks, and light meals in this breezy rooftop garden.",
+      "address": "Rooftop, above Old Dispensary, Lamu Old Town",
+      "opening_hours": "16:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616886475739-c5b8b9a1d4a0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Food",
+        "Views",
+        "Relaxation"
+      ]
+    }
+  ]
+}

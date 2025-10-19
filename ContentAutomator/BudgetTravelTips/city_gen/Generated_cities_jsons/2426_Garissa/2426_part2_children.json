@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Garissa",
+    "city_id": "2426"
+  },
+  "items": [
+    {
+      "id": "GA_AQ01",
+      "name": "Garissa Desert Explorers Maze",
+      "short_description": "A thrilling indoor maze adventure where kids solve puzzles to find hidden treasures inspired by local wildlife and history.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Along Kismayo Road, Next to Jamia Mosque, Garissa",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628424911075-802c639bb69b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "puzzles",
+        "exploration",
+        "indoor"
+      ]
+    },
+    {
+      "id": "GA_AQ02",
+      "name": "Tana River Quest Challenge",
+      "short_description": "An interactive outdoor quest game set in a shaded park, simulating a journey along the Tana River with challenges and obstacles for teamwork.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Near Garissa Primary School, Bula Sheikh, Garissa",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1601666874052-b0622a57374b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "outdoor",
+        "teamwork",
+        "obstacles"
+      ]
+    },
+    {
+      "id": "GA_AQ03",
+      "name": "Sultan's Secret Chamber Escape",
+      "short_description": "An escape room-style adventure where children work together to unlock the secrets of an ancient sultan's chamber within a time limit.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Mwangaza Road, Garissa Town Center, Garissa",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628172826554-18c7c77d66a2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "escape room",
+        "logic",
+        "team building"
+      ]
+    },
+    {
+      "id": "GA_AQ04",
+      "name": "Safari Ranger Training Course",
+      "short_description": "A mini-obstacle course combined with nature observation challenges, teaching kids about local flora and fauna in a fun way.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Garissa Airstrip Road, Bula Punda, Garissa",
+      "opening_hours": "08:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549419137-b7654ed9d837?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "physical",
+        "learning"
+      ]
+    },
+    {
+      "id": "GA_TP01",
+      "name": "Oasis Fun Park",
+      "short_description": "A vibrant mini-theme park featuring carousels, kiddie rides, and a small water play area perfect for beating the Garissa heat.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Next to Garissa University, Garissa-Modogashe Road",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1622384918742-0f5f7f502c38?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "rides",
+        "water play",
+        "family fun"
+      ]
+    },
+    {
+      "id": "GA_TP02",
+      "name": "Garissa Junior Wonderland",
+      "short_description": "A delightful park with various themed play zones, including a 'mini-safari' train ride and gentle swings for younger children.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Along Jamhuri Street, Central Garissa",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549174154-20d0f2095f70?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddler friendly",
+        "mini-train",
+        "play zones"
+      ]
+    },
+    {
+      "id": "GA_TP03",
+      "name": "Sand Dune Splashland",
+      "short_description": "A unique theme park focused on water slides, splash pads, and shallow pools designed for safe and refreshing fun under the sun.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Off Garissa-Nairobi Highway, near Kampi Samaki",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1603522784534-8b17589d9c28?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "water slides",
+        "splash park",
+        "summer fun"
+      ]
+    },
+    {
+      "id": "GA_TP04",
+      "name": "Savannah Sky Funland",
+      "short_description": "An outdoor theme park with shaded areas, offering inflatable bouncy castles, trampolines, and simple carnival games for all ages.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Bura Road, Opposite Garissa Livestock Market",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616198947621-e0c655353591?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "inflatables",
+        "carnival games",
+        "bouncing"
+      ]
+    },
+    {
+      "id": "GA_IPC01",
+      "name": "Cool Kids Play Zone",
+      "short_description": "A climate-controlled indoor center with soft play structures, ball pits, and slides, perfect for energetic children to explore.",
+      "subtype": "Indoor Play Centers",
+      "address": "Upstairs, Al-Amin Plaza, Posta Road, Garissa",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1598850604172-56360c49cf5b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "soft play",
+        "indoor playground",
+        "air-conditioned"
+      ]
+    },
+    {
+      "id": "GA_IPC02",
+      "name": "Desert Oasis Arcade & Play",
+      "short_description": "Combining classic arcade games with a multi-level climbing structure and toddler play section, all in a cool indoor environment.",
+      "subtype": "Indoor Play Centers",
+      "address": "Bula Sagal Shopping Center, Garissa-Masalani Road",
+      "opening_hours": "11:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/8920405/pexels-photo-8920405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "arcade games",
+        "climbing",
+        "toddler zone"
+      ]
+    },
+    {
+      "id": "GA_IPC03",
+      "name": "Garissa Giggle House",
+      "short_description": "A cheerful indoor play space offering creative play areas, sensory bins, and age-appropriate toys for imaginative fun.",
+      "subtype": "Indoor Play Centers",
+      "address": "Off Sankuri Road, near Garissa Town Clock, Garissa",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kids_Play_Area_at_Terminal_1%2C_Dublin_Airport.jpg",
+      "tags": [
+        "imaginative play",
+        "sensory",
+        "toddlers"
+      ]
+    },
+    {
+      "id": "GA_IPC04",
+      "name": "Urban Jungle Gym",
+      "short_description": "An exciting indoor facility featuring a large jungle gym, obstacle courses, and dedicated party rooms for events.",
+      "subtype": "Indoor Play Centers",
+      "address": "Garissa Mall, Modogashe Road, Garissa",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1610444641577-628d356895ce?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "jungle gym",
+        "obstacle course",
+        "party venue"
+      ]
+    },
+    {
+      "id": "GA_CPT01",
+      "name": "Tana River Puppet Tales",
+      "short_description": "A charming puppet theater showcasing traditional and modern stories with handcrafted puppets, often with local themes.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Cultural Center Hall, Bula Punda, Garissa",
+      "opening_hours": "14:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549419137-b7654ed9d837?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "puppet show",
+        "storytelling",
+        "traditional arts"
+      ]
+    },
+    {
+      "id": "GA_CPT02",
+      "name": "Garissa Desert Dreams Circus",
+      "short_description": "A seasonal, smaller-scale circus featuring acrobats, clowns, and animal-free acts under a colorful tent on the outskirts of town.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Open grounds near Garissa Stadium, Garissa",
+      "opening_hours": "17:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/2034177/pexels-photo-2034177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "acrobatics",
+        "clowns",
+        "seasonal"
+      ]
+    },
+    {
+      "id": "GA_CPT03",
+      "name": "Sultan's String & Shadow Theater",
+      "short_description": "A unique theater combining string puppetry with mesmerizing shadow play to tell engaging folk tales and historical narratives.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Youth Empowerment Center, Sankuri Road, Garissa",
+      "opening_hours": "15:00-17:00",
+      "price_level": "cheap",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Wayang_Kulit_%28Shadow_Puppets%29.jpg",
+      "tags": [
+        "shadow puppets",
+        "folk tales",
+        "artistic"
+      ]
+    },
+    {
+      "id": "GA_CPT04",
+      "name": "Safari Sideshow Magic",
+      "short_description": "A traveling show featuring a mix of mini-magic acts, juggling, and comedic skits performed by a small, enthusiastic troupe.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Various community halls, Garissa (check schedule)",
+      "opening_hours": "16:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1534091418737-e5470d740c57?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "juggling",
+        "comedy",
+        "traveling show"
+      ]
+    },
+    {
+      "id": "GA_AQM01",
+      "name": "Tana River Aquatic Life Center",
+      "short_description": "A modest aquarium focusing on fish species found in the Tana River and other East African freshwater ecosystems, promoting local conservation.",
+      "subtype": "Aquariums",
+      "address": "Near Tana Bridge, Garissa-Thika Highway, Garissa",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596765757271-70530f28a3ec?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "freshwater fish",
+        "local species",
+        "conservation"
+      ]
+    },
+    {
+      "id": "GA_AQM02",
+      "name": "Desert Marine Exhibit (Mini)",
+      "short_description": "A small educational exhibit showcasing hardy aquatic life that can survive in arid regions, including amphibians and invertebrates.",
+      "subtype": "Aquariums",
+      "address": "Garissa Museum Annex, Off Kismayo Road, Garissa",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/10398670/pexels-photo-10398670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "desert aquatic",
+        "educational",
+        "invertebrates"
+      ]
+    },
+    {
+      "id": "GA_AQM03",
+      "name": "Oasis Pond Discovery",
+      "short_description": "An interactive display featuring local pond life, demonstrating ecological principles to young visitors in an engaging way.",
+      "subtype": "Aquariums",
+      "address": "Within Garissa Eco-Park (planned location), Bula Punda",
+      "opening_hours": "09:00-16:00",
+      "price_level": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pond_life_display_at_National_Museum_Cardiff.jpg/1024px-Pond_life_display_at_National_Museum_Cardiff.jpg",
+      "tags": [
+        "pond life",
+        "ecology",
+        "interactive"
+      ]
+    },
+    {
+      "id": "GA_AQM04",
+      "name": "Reptile & Wetland Wonders",
+      "short_description": "This center showcases fascinating reptiles and amphibians often found near water sources in the region, focusing on their unique adaptations.",
+      "subtype": "Aquariums",
+      "address": "Garissa Wildlife & Rescue Center, Garissa Airstrip Road",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549557404-e2f416c14115?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "reptiles",
+        "amphibians",
+        "wetland animals"
+      ]
+    },
+    {
+      "id": "GA_MSA01",
+      "name": "Garissa Junior Sports Hub",
+      "short_description": "A multi-sport facility offering mini-football pitches, basketball courts, and a running track suitable for children of all ages.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Behind Garissa High School, Off Jamhuri Street",
+      "opening_hours": "08:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549880860-252f97972803?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "football",
+        "basketball",
+        "athletics"
+      ]
+    },
+    {
+      "id": "GA_MSA02",
+      "name": "Desert Racers Go-Kart Track (Kids)",
+      "short_description": "A safe, enclosed outdoor go-kart track specifically designed for children to experience the thrill of racing in a controlled environment.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Near Garissa Airstrip, Bula Punda, Garissa",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/5672205/pexels-photo-5672205.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "go-karts",
+        "racing",
+        "outdoor fun"
+      ]
+    },
+    {
+      "id": "GA_MSA03",
+      "name": "Bula Punda Bounce & Score",
+      "short_description": "An indoor sports center featuring trampolines, mini-volleyball courts, and soft play areas for active and playful kids.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Garissa Business Complex, Garissa-Nairobi Highway",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Trampoline_park.jpg/1280px-Trampoline_park.jpg",
+      "tags": [
+        "trampolines",
+        "volleyball",
+        "active play"
+      ]
+    },
+    {
+      "id": "GA_MSA04",
+      "name": "Safari Mini-Golf Course",
+      "short_description": "A charming 9-hole mini-golf course with safari animal-themed obstacles, perfect for family-friendly competition and laughs.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Oasis Hotel Grounds, Kismayo Road, Garissa",
+      "opening_hours": "10:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1620061917208-1647a76c026d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "mini-golf",
+        "family game",
+        "safari theme"
+      ]
+    },
+    {
+      "id": "GA_DPK01",
+      "name": "Garissa Dino Discovery Land",
+      "short_description": "An outdoor park featuring life-sized, static dinosaur models amidst a natural setting, with informative plaques about the prehistoric world.",
+      "subtype": "Dinosaur Parks",
+      "address": "Garissa Town Park Extension, Bula Sheikh, Garissa",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1594165682669-e70a3c77d90d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dinosaur models",
+        "prehistoric",
+        "outdoor exhibit"
+      ]
+    },
+    {
+      "id": "GA_DPK02",
+      "name": "Mesozoic Adventure Trail",
+      "short_description": "A walking trail with interactive displays and animatronic dinosaurs that move and roar, offering an immersive prehistoric experience.",
+      "subtype": "Dinosaur Parks",
+      "address": "Off Sankuri Road, near the District Hospital, Garissa",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/10363260/pexels-photo-10363260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "animatronics",
+        "interactive",
+        "walking trail"
+      ]
+    },
+    {
+      "id": "GA_DPK03",
+      "name": "Fossil Fun Dig Site",
+      "short_description": "A simulated fossil dig site where children can excavate dinosaur bones and learn about paleontology in a hands-on environment.",
+      "subtype": "Dinosaur Parks",
+      "address": "Behind Garissa University Library, Garissa-Modogashe Road",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Children_digging_for_dinosaur_bones_at_Dinosaur_State_Park_and_Arboretum.jpg/1024px-Children_digging_for_dinosaur_bones_at_Dinosaur_State_Park_and_Arboretum.jpg",
+      "tags": [
+        "fossil dig",
+        "paleontology",
+        "educational play"
+      ]
+    },
+    {
+      "id": "GA_DPK04",
+      "name": "Prehistoric Playground",
+      "short_description": "A unique playground with dinosaur-themed climbing structures, slides, and swings, designed for imaginative play and adventure.",
+      "subtype": "Dinosaur Parks",
+      "address": "Garissa Public Gardens, Jamhuri Street, Garissa",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1547842790-a544061a7a0b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dinosaur playground",
+        "climbing",
+        "imaginative play"
+      ]
+    },
+    {
+      "id": "GA_MIS01",
+      "name": "Desert Mirage Magic Show",
+      "short_description": "A captivating show featuring local magicians performing illusions, card tricks, and comedic magic acts for all ages in an intimate setting.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Garissa Community Hall, Kismayo Road, Garissa",
+      "opening_hours": "18:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563810014792-231362085750?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "magic tricks",
+        "illusions",
+        "live entertainment"
+      ]
+    },
+    {
+      "id": "GA_MIS02",
+      "name": "Sultan's Secret Illusions",
+      "short_description": "An intimate theater experience where a master illusionist performs mind-bending tricks and audience participation acts.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Oasis Hotel Convention Center, Garissa",
+      "opening_hours": "19:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/3889814/pexels-photo-3889814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "illusionist",
+        "audience participation",
+        "intimate show"
+      ]
+    },
+    {
+      "id": "GA_MIS03",
+      "name": "Young Wizards Academy (Workshops)",
+      "short_description": "An interactive workshop where kids learn simple magic tricks, develop stage presence, and even perform for each other, fostering creativity.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Garissa Youth Center, Bula Punda, Garissa",
+      "opening_hours": "10:00-12:00",
+      "price_level": "moderate",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kids_and_magic.jpg",
+      "tags": [
+        "magic workshop",
+        "learning",
+        "interactive"
+      ]
+    },
+    {
+      "id": "GA_MIS04",
+      "name": "Safari Sorcery & Jest",
+      "short_description": "A family-friendly show combining magic, juggling, and comedic performances with a lighthearted safari theme.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Garissa Cultural Hall, Posta Road, Garissa",
+      "opening_hours": "16:00-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1509825406080-d6368d374112?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "comedy magic",
+        "juggling",
+        "family show"
+      ]
+    },
+    {
+      "id": "GA_SCN01",
+      "name": "Garissa Eco-Discovery Lab",
+      "short_description": "An interactive science center focusing on local ecosystems, water conservation, and renewable energy through hands-on exhibits.",
+      "subtype": "Science Centers",
+      "address": "Near Garissa University, Garissa-Modogashe Road",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1532187640960-e420235f1118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ecology",
+        "conservation",
+        "hands-on science"
+      ]
+    },
+    {
+      "id": "GA_SCN02",
+      "name": "Star Gazer's Dome (Mini Planetarium)",
+      "short_description": "A small dome planetarium offering shows about the night sky, constellations, and the solar system, especially relevant to clear desert skies.",
+      "subtype": "Science Centers",
+      "address": "Garissa Public Library Annex, Jamhuri Street",
+      "opening_hours": "11:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/3472621/pexels-photo-3472621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "planetarium",
+        "astronomy",
+        "space science"
+      ]
+    },
+    {
+      "id": "GA_SCN03",
+      "name": "Invent & Explore Workshop",
+      "short_description": "A creative space for children to experiment with simple machines, robotics basics, and engineering challenges.",
+      "subtype": "Science Centers",
+      "address": "Al-Amin Plaza, Posta Road, Garissa",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/STEM_Camp.jpg/1280px-STEM_Camp.jpg",
+      "tags": [
+        "robotics",
+        "engineering",
+        "inventing"
+      ]
+    },
+    {
+      "id": "GA_SCN04",
+      "name": "Desert Wonders Science Gallery",
+      "short_description": "A gallery featuring exhibits on the geology, wildlife, and unique adaptations of life in arid environments.",
+      "subtype": "Science Centers",
+      "address": "Garissa Museum, Off Kismayo Road, Garissa",
+      "opening_hours": "09:00-16:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1547432029-411a0c4f8263?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "geology",
+        "wildlife",
+        "desert environment"
+      ]
+    },
+    {
+      "id": "GA_FRM01",
+      "name": "Tana River Children's Farm",
+      "short_description": "A petting zoo and educational farm where children can interact with local livestock and learn about farming practices.",
+      "subtype": "Farm Attractions",
+      "address": "Along Garissa-Hola Road, near Mororo, Garissa",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579587421876-06132049e394?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "educational"
+      ]
+    },
+    {
+      "id": "GA_FRM02",
+      "name": "Oasis Agri-Adventure",
+      "short_description": "An interactive farm experience with pony rides, vegetable patch exploration, and opportunities to feed small animals.",
+      "subtype": "Farm Attractions",
+      "address": "Off Garissa-Nairobi Highway, near Kampi Samaki",
+      "opening_hours": "09:30-17:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/4597087/pexels-photo-4597087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "pony rides",
+        "gardening",
+        "animal feeding"
+      ]
+    },
+    {
+      "id": "GA_FRM03",
+      "name": "Garissa Goat & Camel Ranch",
+      "short_description": "A unique farm focusing on goats and camels, offering camel rides and showcasing traditional pastoralist life in the region.",
+      "subtype": "Farm Attractions",
+      "address": "Bura Road, outskirts of Garissa Town",
+      "opening_hours": "08:00-16:00",
+      "price_level": "moderate",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Camels_in_Samburu_National_Reserve.jpg/1024px-Camels_in_Samburu_National_Reserve.jpg",
+      "tags": [
+        "camel rides",
+        "goats",
+        "pastoralism"
+      ]
+    },
+    {
+      "id": "GA_FRM04",
+      "name": "Green Fingers Kids Garden",
+      "short_description": "A dedicated children's garden within a larger farm, allowing kids to plant seeds, harvest vegetables, and learn about sustainable agriculture.",
+      "subtype": "Farm Attractions",
+      "address": "Near Garissa Agricultural Training Center, Modogashe Road",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1522869502662-7945d81e3a47?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "gardening",
+        "agriculture",
+        "sustainability"
+      ]
+    }
+  ]
+}

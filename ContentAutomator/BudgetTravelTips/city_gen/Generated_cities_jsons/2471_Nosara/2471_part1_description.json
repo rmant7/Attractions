@@ -1,0 +1,67 @@
+{
+  "id": "2471",
+  "name": "Nosara",
+  "country": "Costa Rica",
+  "description": "Nosara, nestled on Costa Rica's stunning Nicoya Peninsula, is far more than just a beach town; it's a lifestyle destination. Renowned globally as a surf and yoga mecca, this captivating locale perfectly blends bohemian tranquility with an adventurous spirit. Its unique culture is deeply rooted in \"Pura Vida\" – a commitment to a simple, pure life – manifest in its eco-conscious community, emphasis on wellness, and deep respect for nature. The heart of Nosara lies in its magnificent, pristine beaches. Playa Guiones, with its consistent waves, is a surfer's paradise for all skill levels, dotted with surf schools and board rentals. For a more serene experience, Playa Pelada offers natural tide pools and calm waters, ideal for families and swimming. Nearby, the Ostional Wildlife Refuge is a vital nesting site for Olive Ridley sea turtles, particularly awe-inspiring during the \"arribadas\" (mass nesting events) from July to December. Beyond the waves, Nosara boasts a vibrant wellness scene, with numerous world-class yoga studios and retreat centers offering rejuvenating classes amidst lush tropical surroundings. Horseback riding, zip-lining, and exploring the diverse wildlife – including howler monkeys, iguanas, and various bird species – add to the adventure. The unpaved roads and lack of high-rise developments maintain Nosara’s rustic charm and commitment to preserving its natural beauty. Travel tips for Nosara include renting a 4x4 vehicle, especially during the green season, as roads can be challenging. Embrace the local pace, carry insect repellent, and hydrate frequently. While USD is widely accepted, having some Costa Rican Colones for smaller vendors is advisable. Nosara offers a truly immersive experience for those seeking an active, healthy, and environmentally responsible escape.",
+  "themes": [
+    "Surfing",
+    "Yoga & Wellness",
+    "Ecotourism",
+    "Beach Life",
+    "Wildlife"
+  ],
+  "body_attributes": {
+    "climate": "Tropical dry forest with distinct wet (May-Nov) and dry (Dec-Apr) seasons. Hot and humid.",
+    "best_time_to_visit": "Dry season (December-April) for sunshine, or green season (May-November) for lush scenery and fewer crowds.",
+    "population": "Approx. 10,000 (Nosara District)",
+    "area": "Coastal region; no distinct city area, spread-out villages and beaches.",
+    "transport_summary": "Access primarily by 4x4 rental car (highly recommended), local taxis, ATVs, tuk-tuks, and inter-bus shuttles from airports.",
+    "safety_level": "Medium (generally safe, but petty theft can occur; exercise standard precautions).",
+    "geographical_features": "Pacific coastline with sandy beaches, estuaries, rivers, and tropical dry forest hills."
+  },
+  "travel_tips": [
+    "Rent a 4x4 vehicle; many roads are unpaved and can be rough, especially in the rainy season.",
+    "Always carry bug repellent, especially during dawn and dusk, to ward off mosquitoes and sand flies.",
+    "Stay hydrated; drink plenty of water as the climate is hot and humid.",
+    "Respect local wildlife and natural habitats; do not disturb animals or take shells/rocks from beaches."
+  ],
+  "budget_tips": [
+    "Eat at 'sodas' (local eateries) for delicious, inexpensive traditional Costa Rican meals.",
+    "Consider visiting during the green season (May-November) for lower accommodation prices and fewer tourists.",
+    "Book accommodations with kitchenettes and buy groceries from local markets to save on dining out.",
+    "Utilize public buses or shared shuttles for inter-town travel instead of private taxis or tours."
+  ],
+  "seo": {
+    "seo_title": "Nosara Travel Guide: Surfing, Yoga & Beaches in Costa Rica",
+    "seo_description": "Explore Nosara, Costa Rica's serene surf and yoga haven. Discover pristine beaches, lush nature, and eco-conscious living in this Pura Vida paradise.",
+    "keywords": [
+      "Nosara travel",
+      "Costa Rica surfing",
+      "Nosara yoga retreats",
+      "Pacific coast Costa Rica",
+      "eco-tourism Nosara"
+    ]
+  },
+  "meta": {
+    "continent": "North America",
+    "currency": "Costa Rican Colón (CRC), USD widely accepted",
+    "language": "Spanish, English",
+    "time_zone": "CST (UTC-6)",
+    "popular_airlines": [
+      "United Airlines",
+      "American Airlines",
+      "Delta Airlines",
+      "Southwest Airlines",
+      "Copa Airlines"
+    ]
+  },
+  "title": "Nosara: Costa Rica's Untamed Gem for Surf, Yoga & Nature",
+  "images": [
+    "https://images.unsplash.com/photo-1549216068-3561a7a03649?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1550993099-075e6484a0c8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "coordinates": [
+    9.97973346710205,
+    -85.64862823486328
+  ]
+}

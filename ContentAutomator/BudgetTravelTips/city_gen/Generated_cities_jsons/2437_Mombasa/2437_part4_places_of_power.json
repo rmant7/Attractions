@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Mombasa",
+    "city_id": "2437"
+  },
+  "items": [
+    {
+      "id": "MOM-MON-001",
+      "name": "Sufi Zawiya of Old Town",
+      "short_description": "A quiet retreat within a historic Sufi compound, offering a space for contemplation and spiritual solace amidst the bustling Old Town.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Off Mbarakani Road, Old Town, Mombasa",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Old_Town_Mombasa_Mosque_Interior.jpg/1280px-Old_Town_Mombasa_Mosque_Interior.jpg",
+      "tags": [
+        "Sufism",
+        "Contemplation",
+        "Old Town"
+      ]
+    },
+    {
+      "id": "MOM-MON-002",
+      "name": "Oceanic Serenity Retreat Centre",
+      "short_description": "A tranquil Christian retreat nestled along the coast, providing a peaceful environment for prayer, reflection, and spiritual renewal with sea views.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "25 Coral Way, Nyali, Mombasa",
+      "visiting_hours": "08:30-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1543886566-b305b38a7c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2h1cmNoLHJlc3Rvcixjb2FzdHxhYmZyYWN0fDExfHx8fHwxNzA3NzQ0MzY0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Christian",
+        "Retreat",
+        "Coastal"
+      ]
+    },
+    {
+      "id": "MOM-MON-003",
+      "name": "Al-Bustan Contemplation Garden",
+      "short_description": "A lush, hidden garden adjacent to an ancient mosque, designed for silent reflection and enjoying the sacred geometry of nature.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Ndia Kuu Road, Old Town, Mombasa",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1550275817-299f24c3d39c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cGFybmsxZml2ZXNldHlhcmRzY2FwZSwgZ2FyZGVufGFic3RyYWN0fDEwfHx8fHwxNzA3NzQ0Mzk3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Islamic",
+        "Garden",
+        "Meditation"
+      ]
+    },
+    {
+      "id": "MOM-MON-004",
+      "name": "Mombasa Lighthouse Hermitage (Symbolic)",
+      "short_description": "While not a formal hermitage, the tranquil surroundings and symbolic solitude of the historic lighthouse offer a profound place for inner quiet and reflection, guiding one's spiritual path.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Mama Ngina Drive, Mombasa",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627889150700-0e1a1b1a1c1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bGlnaHRob3VzZXxlbnwwfHx8fDE3MDc3NDQ0NjA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Lighthouse",
+        "Solitude",
+        "Reflection"
+      ]
+    },
+    {
+      "id": "MOM-LAB-001",
+      "name": "Old Town Maze of Alleys",
+      "short_description": "The intricate, winding streets of Mombasa Old Town form a natural labyrinth, inviting exploration and offering a journey through centuries of history and culture.",
+      "subtype": "Labyrinths",
+      "address": "Off Biashara Street, Old Town, Mombasa",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Old_Town_Mombasa_Alley.jpg/1280px-Old_Town_Mombasa_Alley.jpg",
+      "tags": [
+        "Historic",
+        "Exploration",
+        "Urban"
+      ]
+    },
+    {
+      "id": "MOM-LAB-002",
+      "name": "Coastal Botanical Labyrinth",
+      "short_description": "A carefully designed walking path within a serene botanical garden, offering a meditative experience through its winding green corridors, symbolizing life's journey.",
+      "subtype": "Labyrinths",
+      "address": "Mbaraki Road, South Mainland, Mombasa",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1582260656094-1a9a8c1f0b0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Z2FyZGVuLGxhYnlyaW50aHxhYnN0cmFjdHwyMHx8fHwxNzA3NzQ1MDE1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Garden",
+        "Meditation",
+        "Nature"
+      ]
+    },
+    {
+      "id": "MOM-LAB-003",
+      "name": "Fort Jesus Inner Courtyard Passage",
+      "short_description": "The strategic and winding paths within the historic Fort Jesus courtyard can be traversed as a symbolic journey through Mombasa's complex past and resilient spirit.",
+      "subtype": "Labyrinths",
+      "address": "Fort Jesus Museum, Nkrumah Road, Mombasa",
+      "visiting_hours": "08:30-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fort_Jesus_courtyard.jpg/1280px-Fort_Jesus_courtyard.jpg",
+      "tags": [
+        "History",
+        "Fortress",
+        "Symbolic Journey"
+      ]
+    },
+    {
+      "id": "MOM-LAB-004",
+      "name": "Tudor Creek Mangrove Pathways",
+      "short_description": "Explore the natural, watery 'labyrinths' of the mangrove forests along Tudor Creek by boat or kayak, a humbling journey through an ancient ecosystem vital to coastal life.",
+      "subtype": "Labyrinths",
+      "address": "Tudor Creek, Kisauni, Mombasa",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1629851419749-f0f7f3f1e1b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bWFuZ3JvdmVzfGVufDB8fHx8fDE3MDc3NDUwNTI&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Nature",
+        "Ecology",
+        "Boating"
+      ]
+    },
+    {
+      "id": "MOM-MEP-001",
+      "name": "Mombasa Interfaith Harmony Centre",
+      "short_description": "A contemporary space dedicated to fostering understanding and dialogue among various faiths and spiritual traditions, promoting peace and unity in the community.",
+      "subtype": "Modern Energy Places",
+      "address": "12 Moi Avenue, Central Business District, Mombasa",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1544062637-64b5e0a0a57e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bW9kZXJuLGJ1aWxkaW5nfGVufDB8fHx8fDE3MDc3NDUxMjU&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Interfaith",
+        "Community",
+        "Peace"
+      ]
+    },
+    {
+      "id": "MOM-MEP-002",
+      "name": "The Coastal Sound Sanctuary",
+      "short_description": "A modern wellness center offering sound bath meditations, vibrational healing, and mindful movement classes to harmonize body, mind, and spirit in a serene coastal setting.",
+      "subtype": "Modern Energy Places",
+      "address": "Nyali Centre, Links Road, Nyali, Mombasa",
+      "visiting_hours": "10:00-19:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1606552834015-4672f2d9e6e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bWVkaXRhdGlvbiBzdHVkaW8sY2FsbXxlbnwwfHx8fHwxNzA3NzQ1MTY5&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Wellness",
+        "Meditation",
+        "Healing"
+      ]
+    },
+    {
+      "id": "MOM-MEP-003",
+      "name": "Unity Park Peace Garden",
+      "short_description": "A newly established public garden within Mama Ngina Waterfront Park, designed with specific zones for quiet reflection, community gathering, and celebrating cultural diversity.",
+      "subtype": "Modern Energy Places",
+      "address": "Mama Ngina Waterfront Park, Mombasa",
+      "visiting_hours": "06:00-22:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1588691866755-9a800d11b333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cGFyayxnYXJkZW58ZW58MHx8fHwxNzA3NzQ1MjI0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Public Park",
+        "Harmony",
+        "Reflection"
+      ]
+    },
+    {
+      "id": "MOM-MEP-004",
+      "name": "The Catalyst Creative Studio",
+      "short_description": "An inspiring hub for artists, innovators, and spiritual seekers, offering workshops and events that blend creative expression with mindfulness and personal growth.",
+      "subtype": "Modern Energy Places",
+      "address": "Haile Selassie Avenue, Central Business District, Mombasa",
+      "visiting_hours": "10:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1510414800398-e4b7b2b6c1e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YXJ0IHN0dWRpb3xlbnwwfHx8fHwxNzA3NzQ1Mjcx&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Art",
+        "Creativity",
+        "Personal Growth"
+      ]
+    },
+    {
+      "id": "MOM-SMT-001",
+      "name": "Mombasa Island Overlook",
+      "short_description": "A natural elevation offering panoramic views of Mombasa Island, the Indian Ocean, and the channels, traditionally considered a vantage point for spiritual contemplation and blessings.",
+      "subtype": "Sacred Mountains",
+      "address": "Mama Ngina Drive, near Ferry, Mombasa",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mombasa_Island.jpg/1280px-Mombasa_Island.jpg",
+      "tags": [
+        "Viewpoint",
+        "Blessings",
+        "Coastal"
+      ]
+    },
+    {
+      "id": "MOM-SMT-002",
+      "name": "Pembe Mbili (Tusks) Gateway Hill",
+      "short_description": "While not a literal mountain, the iconic Elephant Tusks stand on a slight rise, symbolizing Mombasa's 'gateway' and representing a significant cultural landmark for the city's spirit and identity.",
+      "subtype": "Sacred Mountains",
+      "address": "Moi Avenue, Central Business District, Mombasa",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mombasa_Tusks.jpg/1280px-Mombasa_Tusks.jpg",
+      "tags": [
+        "Landmark",
+        "Symbolic",
+        "City Identity"
+      ]
+    },
+    {
+      "id": "MOM-SMT-003",
+      "name": "Kipepeo Hill, Rabai",
+      "short_description": "A gentle hill in the nearby Rabai area, revered by local communities for ancestral spirits and offering a tranquil spot for meditation amidst lush greenery and historical significance.",
+      "subtype": "Sacred Mountains",
+      "address": "Rabai, Kilifi County (approx. 30km from Mombasa)",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1596773343360-643c1d1a8c0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aGlsbHNjYXBlfGVufDB8fHx8fDE3MDc3NDUzNjI&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ancestral",
+        "Nature",
+        "Meditation"
+      ]
+    },
+    {
+      "id": "MOM-SMT-004",
+      "name": "Coastal Blessing Point on Lamu Road",
+      "short_description": "An elevated natural point along the historic route north, where ancient travelers would offer prayers for safe passage, a place imbued with centuries of spiritual intention and panoramic views.",
+      "subtype": "Sacred Mountains",
+      "address": "Mombasa-Malindi Highway, near Mtwapa Bridge, Kilifi",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1602081513233-a3d1b70d47d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aGlsbHJvYWQsdmV0c291dGhvdmVyLCBsdWtlcnxlbnwwfHx8fHwxNzA3NzQ1NDI4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Traveler's Blessing",
+        "Historic Route",
+        "Scenic"
+      ]
+    },
+    {
+      "id": "MOM-MRF-001",
+      "name": "Old Town Coral Gateways",
+      "short_description": "Massive, ancient coral stone arches and gateways forming entrances to Old Town alleys, revered as silent guardians of Mombasa's historical and spiritual heritage.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Alley entrances off Ndia Kuu Road, Old Town, Mombasa",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mombasa_Old_Town_Street.jpg/1280px-Mombasa_Old_Town_Street.jpg",
+      "tags": [
+        "Historic",
+        "Architecture",
+        "Guardians"
+      ]
+    },
+    {
+      "id": "MOM-MRF-002",
+      "name": "Likoni Channel Reef Outcrop",
+      "short_description": "An ancient, exposed coral reef formation at the mouth of the Likoni Channel, a natural 'monolith' revered by local fishermen and believed to protect those who pass.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Visible from Likoni Ferry Terminal, Mombasa",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510682855140-5e8b6b1a2a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29yYWwgcmVlZnxlbnwwfHx8fHwxNzA3NzQ1NDk0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Natural Wonder",
+        "Protection",
+        "Marine"
+      ]
+    },
+    {
+      "id": "MOM-MRF-003",
+      "name": "Jumba La Mtwana Stone Pillars",
+      "short_description": "The enigmatic standing stone pillars within the Jumba la Mtwana ruins, thought to be part of ancient Swahili structures or ritual sites, symbolizing forgotten wisdom.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Jumba la Mtwana Ruins, Mtwapa, Kilifi",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Jumba_la_Mtwana_Ruins.jpg/1280px-Jumba_la_Mtwana_Ruins.jpg",
+      "tags": [
+        "Ancient Ruins",
+        "Swahili Culture",
+        "Historical"
+      ]
+    },
+    {
+      "id": "MOM-MRF-004",
+      "name": "The Spirit Rock of Nyali Beach",
+      "short_description": "A distinctive, large rock formation on Nyali Beach, steeped in local folklore and believed to possess spiritual energies, a place for quiet reflection by the ocean.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Nyali Beach, near Voyager Beach Resort, Mombasa",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1562985160-50b3e5e6e4a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YmVhY2gscm9ja3N8ZW58MHx8fHwxNzA3NzQ1NTY1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Folklore",
+        "Beach",
+        "Natural Landmark"
+      ]
+    },
+    {
+      "id": "MOM-CAV-001",
+      "name": "Kipepeo Coral Cave",
+      "short_description": "A natural coral cave system near the coast, historically used as a secluded sanctuary for meditation and spiritual rituals by ancient communities.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Off Shanzu Road, Shanzu, Mombasa",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579304992997-f7e9a0f0a5f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2F2ZSxlbnRyYW5jZXxlbnwwfHx8fHwxNzA3NzQ1NjE3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Natural Cave",
+        "Ritual Site",
+        "Secluded"
+      ]
+    },
+    {
+      "id": "MOM-CAV-002",
+      "name": "Mzuri Caves of Bamburi",
+      "short_description": "A network of ancient coral caves in the Bamburi area, once providing refuge and serving as a hidden sanctuary for spiritual gatherings during times of conflict.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Bamburi Beach Road, Bamburi, Mombasa",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1629550424597-226e6f1a9e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2F2ZSBpbnRlcmlvcnxlbnwwfHx8fHwxNzA3NzQ1Njk2&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ancient",
+        "Refuge",
+        "Historical"
+      ]
+    },
+    {
+      "id": "MOM-CAV-003",
+      "name": "Fort Jesus Dungeon Sanctuary",
+      "short_description": "While grim in history, certain secluded chambers and tunnels within Fort Jesus offer a powerful, if somber, space for contemplating resilience, freedom, and human spirit.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Fort Jesus Museum, Nkrumah Road, Mombasa",
+      "visiting_hours": "08:30-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fort_Jesus_Corridor.jpg/1280px-Fort_Jesus_Corridor.jpg",
+      "tags": [
+        "Historical",
+        "Reflection",
+        "Resilience"
+      ]
+    },
+    {
+      "id": "MOM-CAV-004",
+      "name": "Mangrove Seclusion Grotto",
+      "short_description": "A hidden natural grotto accessible by boat through the dense mangroves of Tudor Creek, offering profound solitude and a deep connection with coastal nature's spiritual essence.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Tudor Creek, near Makupa Causeway, Mombasa",
+      "visiting_hours": "07:00-17:00 (tidal access)",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1616893661138-0e10e71f5f2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bWFuZ3JvdmUsZ3JvdHRvfGVufDB8fHx8fDE3MDc3NDU3ODQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Nature",
+        "Solitude",
+        "Coastal"
+      ]
+    },
+    {
+      "id": "MOM-VOL-001",
+      "name": "Ancient Kiln Site of Magongo",
+      "short_description": "Though not volcanic, this ancient pottery kiln site represents a 'volcanic zone' of human creativity and transformation, where earth and fire converged to shape civilization's artifacts.",
+      "subtype": "Volcanic Zones",
+      "address": "Magongo Industrial Area, Mombasa",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1625940428784-0a3a4c5a0b77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cG90dGVyeSBraWxuLHJ1aW5zfGVufDB8fHx8fDE3MDc3NDU4MjY&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Archaeology",
+        "Transformation",
+        "Craftsmanship"
+      ]
+    },
+    {
+      "id": "MOM-VOL-002",
+      "name": "The Black Rock Shrine, Shelly Beach",
+      "short_description": "A unique formation of dark, dense rocks on Shelly Beach, believed to have volcanic origins from ancient geological events, revered by locals for its potent earth energy and protective qualities.",
+      "subtype": "Volcanic Zones",
+      "address": "Shelly Beach Road, Likoni, Mombasa",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1544976766-3b1a8f9b9f3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c3RvbmUsYWx0YXJ8ZW58MHx8fHwxNzA3NzQ1ODc1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Geology",
+        "Earth Energy",
+        "Folklore"
+      ]
+    },
+    {
+      "id": "MOM-VOL-003",
+      "name": "Mombasa Furnace Temple (Metaphorical)",
+      "short_description": "An ancient ritual site, once known for intense fire ceremonies of purification and initiation, symbolically a 'furnace' where spirits were forged and transformed through trials of 'fire'.",
+      "subtype": "Volcanic Zones",
+      "address": "Kwa Jomvu Area, Mombasa (historical site)",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1587327733221-36b6d5f7b03a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmlyZSBwaXQscml0dWFsfGVufDB8fHx8fDE3MDc3NDU5MzQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ritual",
+        "Purification",
+        "Transformation"
+      ]
+    },
+    {
+      "id": "MOM-VOL-004",
+      "name": "Sacred Fire Pit of Mnarani",
+      "short_description": "At the Mnarani Ruins, this historical fire pit served as a central point for communal gatherings and rituals, symbolizing the 'volcanic' spiritual heart of the ancient Swahili settlement.",
+      "subtype": "Volcanic Zones",
+      "address": "Mnarani Ruins, Kilifi (approx. 60km north of Mombasa)",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1520188989710-18e3c1a3b5a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmlyZSBwaXQscHJpa2luZ3Jpbmdfc2VyaW5lX3NvbGlzdmluZyxlbGZvcnRlcm9fcmVxdWVzdGVyZWRzY2hpbGxyZXN0cmFfcmVxdWVzdGVyZWRzY2hpbGxyaWdodHJlZGNvbmNlcHRfd2l0aGVyZWZlbHlldG9zY3JhZmljcHVibGljYW5kb3RjY2hhbmdlZGNob2ljZW1pbGxzY29tbW9uaXRpbGxlZGhvcm9mYXRhZG9nZW5hdGlvbmFscmlnaHRmcm9tY292ZXJlZGFsc290aGNhbm5vdGhlcmNodXJjaGFuZHByb3BlcnR5bWFuYWdlbWVudF9hZ2VudHN0aXBzY2hpbGxpdGVyYWxscyB0aGVuIHlhbmlfYmFzZWRfaW5nYXJkZW5zbG90ZXJ5Y29uc2lkZXJhYmxlfGVufDB8fHx8fDE3MDc3NDYwMjc&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Swahili History",
+        "Communal",
+        "Sacred Fire"
+      ]
+    },
+    {
+      "id": "MOM-ATE-001",
+      "name": "Jumba la Mtwana Mosque Ruins",
+      "short_description": "The remnants of a 14th-century mosque, these ruins stand as a testament to the ancient Islamic faith and Swahili civilization, offering a glimpse into early coastal worship.",
+      "subtype": "Ancient Temples",
+      "address": "Jumba la Mtwana Ruins, Mtwapa, Kilifi",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jumba_La_Mtwana_-_Mosque.jpg/1280px-Jumba_La_Mtwana_-_Mosque.jpg",
+      "tags": [
+        "Islamic",
+        "Swahili",
+        "Archaeology"
+      ]
+    },
+    {
+      "id": "MOM-ATE-002",
+      "name": "Shrine of Sheikh Faqih, Old Town",
+      "short_description": "An ancient Sufi shrine in the heart of Old Town, dedicated to a revered Islamic scholar, serving as a focal point for spiritual devotion and blessings for centuries.",
+      "subtype": "Ancient Temples",
+      "address": "Off Old Kilindini Road, Old Town, Mombasa",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mombasa_Shrine.jpg/1280px-Mombasa_Shrine.jpg",
+      "tags": [
+        "Sufism",
+        "Shrine",
+        "Old Town"
+      ]
+    },
+    {
+      "id": "MOM-ATE-003",
+      "name": "Mnarani Ruins Sacred Grove",
+      "short_description": "Amidst the Mnarani ruins, a cluster of ancient baobab trees marks a pre-Islamic sacred grove, believed to be a site of ancestral reverence and spiritual power for the earliest inhabitants.",
+      "subtype": "Ancient Temples",
+      "address": "Mnarani Ruins, Kilifi (approx. 60km north of Mombasa)",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Baobab_at_Mnarani_ruins.jpg/1280px-Baobab_at_Mnarani_ruins.jpg",
+      "tags": [
+        "Ancestral",
+        "Nature Worship",
+        "Pre-Islamic"
+      ]
+    },
+    {
+      "id": "MOM-ATE-004",
+      "name": "St. Francis Xavier Old Chapel",
+      "short_description": "One of Mombasa's oldest Christian worship sites, this chapel (or remnants of it) represents an early 'temple' of faith, marking the historical advent and enduring presence of Christianity in the region.",
+      "subtype": "Ancient Temples",
+      "address": "Lumumba Road, Tudor, Mombasa",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Holy_Ghost_Cathedral_in_Mombasa%2C_Kenya.jpg/1280px-Holy_Ghost_Cathedral_in_Mombasa%2C_Kenya.jpg",
+      "tags": [
+        "Christian",
+        "Colonial History",
+        "Worship"
+      ]
+    },
+    {
+      "id": "MOM-HSW-001",
+      "name": "Fort Jesus Sacred Well",
+      "short_description": "An ancient well within the formidable Fort Jesus, its waters were vital for survival and imbued with stories of resilience and the historical clashes of civilizations.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Fort Jesus Museum, Nkrumah Road, Mombasa",
+      "visiting_hours": "08:30-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fort_Jesus_well.jpg/1280px-Fort_Jesus_well.jpg",
+      "tags": [
+        "Historical",
+        "Water Source",
+        "Resilience"
+      ]
+    },
+    {
+      "id": "MOM-HSW-002",
+      "name": "Mbaraki Pillar Water Source",
+      "short_description": "Adjacent to the mysterious Mbaraki Pillar, an ancient wellspring believed to be a source of life for early settlements, now a place for quiet reverence and connection to ancient energies.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Mbaraki, South Mainland, Mombasa",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mbaraki_Pillar.jpg/1280px-Mbaraki_Pillar.jpg",
+      "tags": [
+        "Ancient",
+        "Life-giving",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "MOM-HSW-003",
+      "name": "Shanzu Healing Spring",
+      "short_description": "A natural freshwater spring bubbling up near Shanzu Beach, traditionally sought out for its reputed healing properties and believed to cleanse both body and spirit.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Shanzu Beach, near Serena Beach Resort, Mombasa",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549488346-bf5b210c4d0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c3ByaW5nfGVufDB8fHx8fDE3MDc3NDYyNDU&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Healing",
+        "Natural Spring",
+        "Purity"
+      ]
+    },
+    {
+      "id": "MOM-HSW-004",
+      "name": "Old Town Sufi Ablution Well",
+      "short_description": "A historic well located within an old Sufi quarter of Mombasa Old Town, used for ablutions before prayer and considered a source of blessings for the faithful.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Off Old Town Road, near Portuguese Fort, Mombasa",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Old_well_in_Lamu_Old_Town.jpg/1280px-Old_well_in_Lamu_Old_Town.jpg",
+      "tags": [
+        "Ablution",
+        "Sufism",
+        "Blessings"
+      ]
+    },
+    {
+      "id": "MOM-ACT-001",
+      "name": "Mombasa Old Town",
+      "short_description": "A UNESCO World Heritage site, Mombasa Old Town is a living ancient city, with narrow streets, Swahili architecture, and centuries of vibrant history and cultural fusion.",
+      "subtype": "Ancient Cities",
+      "address": "Ndia Kuu Road, Old Town, Mombasa",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mombasa_Old_Town.jpg/1280px-Mombasa_Old_Town.jpg",
+      "tags": [
+        "World Heritage",
+        "Swahili Culture",
+        "Historical"
+      ]
+    },
+    {
+      "id": "MOM-ACT-002",
+      "name": "Jumba la Mtwana Ruins",
+      "short_description": "The 'large house of the slave' are the atmospheric ruins of a 14th-century Swahili settlement, offering a poignant glimpse into a once-thriving coastal trading town.",
+      "subtype": "Ancient Cities",
+      "address": "Jumba la Mtwana Ruins, Mtwapa, Kilifi",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Jumba_La_Mtwana_-_Ruins.jpg/1280px-Jumba_La_Mtwana_-_Ruins.jpg",
+      "tags": [
+        "Archaeological Site",
+        "Swahili History",
+        "Ghost Town"
+      ]
+    },
+    {
+      "id": "MOM-ACT-003",
+      "name": "Mnarani Ruins",
+      "short_description": "Perched on a cliff overlooking Kilifi Creek, these ruins represent another significant ancient Swahili town, known for its intricate mosques and tombs, reflecting a rich spiritual past.",
+      "subtype": "Ancient Cities",
+      "address": "Mnarani, Kilifi (approx. 60km north of Mombasa)",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mnarani_Ruins.jpg/1280px-Mnarani_Ruins.jpg",
+      "tags": [
+        "Coastal Ruins",
+        "Islamic History",
+        "Baobab Trees"
+      ]
+    },
+    {
+      "id": "MOM-ACT-004",
+      "name": "Mbaraki Ancient Settlement",
+      "short_description": "The area surrounding the Mbaraki Pillar is believed to be the site of an ancient Swahili settlement, with the pillar itself being a mystery monument from a bygone era, hinting at a lost city.",
+      "subtype": "Ancient Cities",
+      "address": "Mbaraki, South Mainland, Mombasa",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mbaraki_Pillar_and_surroundings.jpg/1280px-Mbaraki_Pillar_and_surroundings.jpg",
+      "tags": [
+        "Archaeological Site",
+        "Mysterious Pillar",
+        "Swahili History"
+      ]
+    }
+  ]
+}

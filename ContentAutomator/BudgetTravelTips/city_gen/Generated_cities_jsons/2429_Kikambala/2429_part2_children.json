@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Kikambala",
+    "city_id": "2429"
+  },
+  "items": [
+    {
+      "id": "SP001",
+      "name": "Kikambala Legends Grove",
+      "short_description": "A serene park where ancient Mijikenda legends and fables are brought to life through interactive displays, storytellers, and thematic gardens. Children can wander through paths dedicated to heroes and spirits of the local folklore.",
+      "subtype": "Storytelling Parks",
+      "address": "Along Kikambala Beach Road, Kikambala, Kilifi County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596700810334-9d6e492f1a6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTF8fGhpZGRlbiUyMHBhcmt8ZW58MHx8MHx8&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "local culture",
+        "folklore",
+        "interactive"
+      ]
+    },
+    {
+      "id": "SP002",
+      "name": "Whispering Baobab Tales",
+      "short_description": "Nestled around a grand baobab tree, this park features daily storytelling sessions focusing on African animal fables and moral lessons. Kids can enjoy shaded play areas and craft stations.",
+      "subtype": "Storytelling Parks",
+      "address": "Kwa Kadzengo Area, off B8 Road, Kikambala, Kilifi County",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579547006842-12e0f8f8f7b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTR8fGJhb2JhYiUyMHRyZWV8ZW58MHx8MHx8&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "nature",
+        "animal fables",
+        "crafts"
+      ]
+    },
+    {
+      "id": "SP003",
+      "name": "Magical Creek Chronicles",
+      "short_description": "An enchanting park designed around a gentle creek, where professional storytellers weave tales of water spirits and aquatic adventures. Contains themed playgrounds and picnic spots.",
+      "subtype": "Storytelling Parks",
+      "address": "Near Mzambarauni Creek, Kikambala, Kilifi County",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1508240402241-1a3b1f516d2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTl8fGZhbnRhc3klMjBwYXJrfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "water-themed",
+        "imagination",
+        "picnic"
+      ]
+    },
+    {
+      "id": "SP004",
+      "name": "Starry Night Stories Dome",
+      "short_description": "An indoor storytelling dome with projected starry skies, offering evening sessions of cosmic adventures and mythical tales. Perfect for a unique and immersive storytelling experience.",
+      "subtype": "Storytelling Parks",
+      "address": "Kikambala Inland Road, next to Kikambala Primary School, Kikambala, Kilifi County",
+      "opening_hours": "18:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1516035069371-55d0459520b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTB8fHN0YXJyeSUyMG5pZ2h0JTIwZG9tZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "indoor",
+        "night experience",
+        "immersive"
+      ]
+    },
+    {
+      "id": "WP001",
+      "name": "Kikambala Splash & Play Lagoon",
+      "short_description": "A vibrant water park with shallow pools, mini slides, and interactive water features designed specifically for young children. Features a large splash pad and a lazy river.",
+      "subtype": "Water Parks for Kids",
+      "address": "Along Kikambala-Mtwapa Road, Kikambala, Kilifi County",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601639148003-90d571f307a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8M3x8d2F0ZXIlMjBwYXJrfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "slides",
+        "splash pad",
+        "family fun"
+      ]
+    },
+    {
+      "id": "WP002",
+      "name": "Coconut Coast Waterland",
+      "short_description": "A tropical-themed water park offering a variety of slides, water cannons, and a dedicated toddlers' area. Surrounded by lush coconut trees, it provides a refreshing escape.",
+      "subtype": "Water Parks for Kids",
+      "address": "Near Kikambala Beach Resort, Kikambala, Kilifi County",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563205086-4f4a3d6f1c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8OXx8dHJvcGljYWwlMjB3YXRlcnBhcmt8ZW58MHx8MHx8&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "tropical",
+        "resort access",
+        "water games"
+      ]
+    },
+    {
+      "id": "WP003",
+      "name": "Diani Aqua Fun Park (Kikambala Annex)",
+      "short_description": "A smaller, but action-packed annex of a famous water park, featuring a wave pool, several multi-lane slides, and a pirate ship play structure for adventurous kids.",
+      "subtype": "Water Parks for Kids",
+      "address": "Off Mtwapa Creek Road, Kikambala, Kilifi County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1543770450-484ffb028d7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTd8fHBpcmF0ZSUyMHdhdGVyJTIwcGFya3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "wave pool",
+        "pirate theme",
+        "thrilling"
+      ]
+    },
+    {
+      "id": "WP004",
+      "name": "Pwani Puddles Paradise",
+      "short_description": "A charming water playground with gentle fountains, tipping buckets, and a soft-surface splash zone for the youngest visitors. Offers shaded seating for parents.",
+      "subtype": "Water Parks for Kids",
+      "address": "Inside Kilifi Sands Estate, Kikambala, Kilifi County",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1589345262294-0612d7f8a7e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTB8fHRvZGRsZXIlMjBzcGxhc2glMjBwYWR8ZW58MHx8MHx8&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "toddler-friendly",
+        "fountains",
+        "shaded"
+      ]
+    },
+    {
+      "id": "AQG001",
+      "name": "Kikambala Safari Quest",
+      "short_description": "An outdoor adventure park where children embark on a safari-themed quest, solving puzzles and overcoming obstacles to find hidden treasures. Involves navigating through simulated jungle paths.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Kikambala Wilderness Trail, near Utange, Kikambala, Kilifi County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510343360251-8693d25642c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTB8fHNhZmFyaSUyMGNoaWxkcmVuJTIwYWR2ZW50dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "safari theme",
+        "puzzles",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "AQG002",
+      "name": "Lost Pirate's Cove Challenge",
+      "short_description": "A coastal-themed adventure zone where kids follow clues to uncover a pirate's lost treasure. Features climbing structures, rope bridges, and sandy challenges.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Next to Kikambala Beach, Kikambala, Kilifi County",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517855026040-cfc6c8f4d994?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8Nnx8cGlyYXRlJTIwYWR2ZW50dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "pirate adventure",
+        "climbing",
+        "beachside"
+      ]
+    },
+    {
+      "id": "AQG003",
+      "name": "Secret Garden Maze & Mystery",
+      "short_description": "A large hedge maze with hidden clues and riddles, leading to a magical secret garden. Encourages teamwork and problem-solving.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Along Kikambala-Kaloleni Road, Kikambala, Kilifi County",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1623910931211-1a3b110e5ed5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8NXx8aGVkZ2UlMjBtYXplfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "maze",
+        "riddles",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "AQG004",
+      "name": "Mt. Kili Kid's Expedition",
+      "short_description": "An indoor adventure course simulating a mountain climb, complete with artificial rock walls, rope swings, and a zip line. Designed to challenge physical and mental agility.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Kwa Kadzengo Market Area, Kikambala, Kilifi County",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558223637-299f2b3e817e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MXx8aW5kb29yJTIwY2xpbWJpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "indoor climbing",
+        "physical challenge",
+        "zip line"
+      ]
+    },
+    {
+      "id": "TPK001",
+      "name": "Kikambala Kid's Kingdom",
+      "short_description": "A classic theme park featuring gentle rides, carousels, and a mini-rollercoaster tailored for young children. Includes character meet-and-greets and live performances.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Kikambala-Mtwapa Road, opposite Kikambala Mosque, Kikambala, Kilifi County",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549488346-60193136551b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTB8fGtpZGRpZSUyMHBhcmt8ZW58MHx8MHx8&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "rides",
+        "carousel",
+        "live shows"
+      ]
+    },
+    {
+      "id": "TPK002",
+      "name": "Jua Kali Junior Junction",
+      "short_description": "A unique theme park celebrating Kenyan innovation and creativity, with interactive exhibits on local crafts, a miniature village, and 'build-your-own' workshops.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Near Kikambala Industrial Area, Kikambala, Kilifi County",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510468965011-e40df5f7b494?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTR8fGFmcmklMjBjcmFmdHMlMjBjaGlsZHJlbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "local crafts",
+        "interactive",
+        "educational"
+      ]
+    },
+    {
+      "id": "TPK003",
+      "name": "Coastal Critters Park",
+      "short_description": "A charming animal-themed park with gentle rides shaped like marine creatures and coastal animals. Educational displays about local wildlife are also featured.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Kikambala Beach Front, Kikambala, Kilifi County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558223637-299f2b3e817e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTd8fGNoaWxkcmVuJTIwYW5pbWFsJTIwcGFya3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "animal theme",
+        "educational",
+        "coastal"
+      ]
+    },
+    {
+      "id": "TPK004",
+      "name": "Safari Fun Land",
+      "short_description": "A safari-themed amusement park with kiddie rides, a small train ride through a 'savannah' landscape, and animal encounters (domestic animals).",
+      "subtype": "Theme Parks for Kids",
+      "address": "Off B8 Road, near Kuruwitu Beach, Kikambala, Kilifi County",
+      "opening_hours": "09:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563229867-9d7a2f5b5f4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTB8fHNhZmFyaSUyMHRoZW1lJTIwcGFya3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "safari",
+        "train ride",
+        "amusement"
+      ]
+    },
+    {
+      "id": "SC001",
+      "name": "Kikambala Junior Innovators Lab",
+      "short_description": "An interactive science center designed for young minds, with hands-on experiments in physics, chemistry, and biology. Encourages curiosity and discovery through play.",
+      "subtype": "Science Centers",
+      "address": "Kikambala Town Centre, next to Post Office, Kikambala, Kilifi County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1532057630730-819a531e2d7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTR8fGNoaWxkcmVuJTIwc2NpZW5jZSUyMGxhYnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "hands-on",
+        "experiments",
+        "discovery"
+      ]
+    },
+    {
+      "id": "SC002",
+      "name": "Ocean Wonders Discovery Hub",
+      "short_description": "Focused on marine biology and oceanography, this center features interactive exhibits on coral reefs, marine life, and ocean conservation. Includes a touch tank.",
+      "subtype": "Science Centers",
+      "address": "Kikambala Beach Road, near fish market, Kikambala, Kilifi County",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1522066927976-a4c3f58e65f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTR8fG9jZWFuJTIwZGlzY292ZXJ5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "marine biology",
+        "conservation",
+        "touch tank"
+      ]
+    },
+    {
+      "id": "SC003",
+      "name": "Kilifi County Tech Explorers",
+      "short_description": "A modern science center dedicated to technology and engineering for kids. Features robotics workshops, coding games, and virtual reality experiences.",
+      "subtype": "Science Centers",
+      "address": "Mtwapa-Kikambala Bypass, Kikambala, Kilifi County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1555239169-7c1544a0b2d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTB8fHJvYm90aWNzJTIwd29ya3Nob3B8ZW58MHx8MHx8&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "technology",
+        "robotics",
+        "VR"
+      ]
+    },
+    {
+      "id": "SC004",
+      "name": "Ancient Earth Exhibit (Kikambala)",
+      "short_description": "Explores geology, paleontology, and the history of Earth with dinosaur fossils, rock formations, and interactive digs. Perfect for budding geologists.",
+      "subtype": "Science Centers",
+      "address": "Along Kaloleni Road, Kikambala, Kilifi County",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1589178499553-ee849f28d716?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTF8fGRpbm9zYXVyJTIwZm9zc2lsc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "geology",
+        "dinosaurs",
+        "paleontology"
+      ]
+    },
+    {
+      "id": "MIS001",
+      "name": "Kikambala Mystical Marvels",
+      "short_description": "A dedicated venue hosting daily magic shows and illusion performances tailored for a young audience. Expect disappearing acts, card tricks, and interactive magic lessons.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Kikambala Community Hall, Kikambala, Kilifi County",
+      "opening_hours": "14:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520696989441-2a149c4d3d7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTB8fGNoaWxkcmVuJTIwbWFnaWMlMjBzaG93fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "magic tricks",
+        "illusions",
+        "interactive"
+      ]
+    },
+    {
+      "id": "MIS002",
+      "name": "Coastal Enchantment Stage",
+      "short_description": "Set against a historical backdrop, this outdoor stage presents magic shows with a local twist, incorporating traditional stories into modern illusions.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Inside Jumba La Mtwana Historic Site, Kikambala, Kilifi County",
+      "opening_hours": "15:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1536746812836-e0e980f769d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTV8fG91dGRvb3IlMjBzdGFnZSUyMG1hZ2ljfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "outdoor",
+        "local theme",
+        "performance art"
+      ]
+    },
+    {
+      "id": "MIS003",
+      "name": "The Great Kikambala Wizardry",
+      "short_description": "A grand magic theater featuring elaborate illusions, levitation acts, and captivating storytelling through magic. Offers VIP seating and post-show meet-and-greets.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Kikambala Tourist Centre, Kikambala, Kilifi County",
+      "opening_hours": "19:00-21:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1547842777-a87f7a7f7a99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8N3x8bWFnaWMlMjB0aGVhdGVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "grand illusions",
+        "theater",
+        "captivating"
+      ]
+    },
+    {
+      "id": "MIS004",
+      "name": "Illusionist's Corner Cafe",
+      "short_description": "A cozy cafe where children can watch close-up magic, learn simple tricks, and enjoy magical-themed snacks. Perfect for a more intimate magic experience.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Kwa Kadzengo Area, Kikambala, Kilifi County",
+      "opening_hours": "11:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621379965582-7f2a1b7e2a9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8NXx8Y296eSUyMGNhZmUlMjBjaGlsZHJlbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "close-up magic",
+        "cafe",
+        "learning"
+      ]
+    },
+    {
+      "id": "FTP001",
+      "name": "Kikambala Wonderland Woods",
+      "short_description": "An enchanting forest park where classic fairy tales come to life with themed cottages, character statues, and interactive story paths. Children can meet their favorite fairy tale characters.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Off Mombasa-Malindi Highway, Kikambala, Kilifi County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579547006842-12e0f8f8f7b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTZ8fGZhaXJ5JTIwdGFsZSUyMHdvb2RzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "fairy tales",
+        "enchanted forest",
+        "character meet"
+      ]
+    },
+    {
+      "id": "FTP002",
+      "name": "Princess & Knight's Castle Garden",
+      "short_description": "A magical garden centered around a miniature castle, where kids can dress up as princesses or knights, participate in themed activities, and enjoy royal feasts.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Kikambala Beach Resort Extension, Kikambala, Kilifi County",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1578332152331-5f0c4a45a1f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTB8fGNhc3RsZSUyMGdhcmRlbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "princesses",
+        "knights",
+        "dress-up"
+      ]
+    },
+    {
+      "id": "FTP003",
+      "name": "The Gnomes' Hollow & Pixie Trails",
+      "short_description": "A whimsical park with miniature gnome homes, pixie-sized trails, and hidden surprises. Encourages exploration and imaginative play in a natural setting.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Along Kikambala River Bank, Kikambala, Kilifi County",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1520696989441-2a149c4d3d7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTF8fG5hdHVyZSUyMHBhcmt8ZW58MHx8MHx8&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "whimsical",
+        "nature play",
+        "imagination"
+      ]
+    },
+    {
+      "id": "FTP004",
+      "name": "Storybook Village of Kikambala",
+      "short_description": "A quaint village re-creating scenes from beloved children's storybooks, with miniature houses, interactive props, and opportunities for dramatic play.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Kikambala-Mtwapa Link Road, Kikambala, Kilifi County",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574696041132-ec26090e4a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8NHx8c3Rvcnlib29rJTIwdmlsbGFnZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "storybook scenes",
+        "dramatic play",
+        "interactive"
+      ]
+    },
+    {
+      "id": "AQ001",
+      "name": "Kikambala Marine Life Centre",
+      "short_description": "A state-of-the-art aquarium showcasing the diverse marine life of the Indian Ocean, with large tanks, a tunnel, and educational exhibits on conservation.",
+      "subtype": "Aquariums",
+      "address": "Kikambala Beach Front, near Kuruwitu, Kikambala, Kilifi County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1533939632832-fb9f87498363?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8N3x8YXF1YXJpdW0lMjB0dW5uZWx8ZW58MHx8MHx8&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "marine life",
+        "conservation",
+        "aquatic tunnel"
+      ]
+    },
+    {
+      "id": "AQ002",
+      "name": "Coral Reef Discovery Tank",
+      "short_description": "A compact yet vibrant aquarium focusing on local coral ecosystems and their inhabitants. Features a touch pool and daily feeding demonstrations.",
+      "subtype": "Aquariums",
+      "address": "Kikambala-Mtwapa Road, inside Coastal Mall, Kikambala, Kilifi County",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1522066927976-a4c3f58e65f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8NXx8Y29yYWwlMjByZWVmJTIwYXF1YXJpdW18ZW58MHx8MHx8&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "coral reefs",
+        "local species",
+        "touch pool"
+      ]
+    },
+    {
+      "id": "AQ003",
+      "name": "Deep Sea Explorers Exhibit",
+      "short_description": "An immersive exhibit exploring the mysterious creatures of the deep sea, using special lighting and interactive displays to simulate the abyss.",
+      "subtype": "Aquariums",
+      "address": "Off B8 Road, Kikambala, Kilifi County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1560731671-5b721e3f81e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTB8fGRlZXAlMjBzZWElMjBmaXNofGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "deep sea",
+        "immersive",
+        "unique species"
+      ]
+    },
+    {
+      "id": "AQ004",
+      "name": "Pwani Predator Pool",
+      "short_description": "A thrilling exhibit featuring local marine predators like sharks and rays in a large, open-air pool. Offers educational talks about their roles in the ecosystem.",
+      "subtype": "Aquariums",
+      "address": "Next to Kikambala Fish Market, Kikambala, Kilifi County",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517441865922-b258055615d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8Nnx8c2hhcmtJbmZvcm1hdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "sharks",
+        "rays",
+        "predators"
+      ]
+    },
+    {
+      "id": "LWC001",
+      "name": "Kikambala Brick Builders Hub",
+      "short_description": "An expansive indoor center filled with millions of LEGO bricks, offering free-building zones, themed building challenges, and a gallery of impressive LEGO models.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Kikambala Town Centre, next to Uchumi Supermarket, Kikambala, Kilifi County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563456801-4c7b8e5c8a32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8Nnx8bGVnbyUyMGJ1aWxkaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "LEGO",
+        "free building",
+        "creative"
+      ]
+    },
+    {
+      "id": "LWC002",
+      "name": "Coastal Creator's Workshop",
+      "short_description": "A construction-themed park where kids can build with oversized blocks, operate miniature construction vehicles, and participate in daily 'build-off' competitions.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Along Kikambala-Mtwapa Road, Kikambala, Kilifi County",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1520696989441-2a149c4d3d7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTB8fGNvbnN0cnVjdGlvbiUyMHBhcmt8ZW58MHx8MHx8&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "oversized blocks",
+        "construction vehicles",
+        "competition"
+      ]
+    },
+    {
+      "id": "LWC003",
+      "name": "Safari Block Land",
+      "short_description": "A unique LEGO park featuring intricate models of African safari animals and landmarks, along with building stations where children can add to the safari landscape.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Off Malindi Road, Kikambala, Kilifi County",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574696041132-ec26090e4a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTd8fGxlZ28lMjBzYWZhcmklMjBhbmltYWxzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "safari theme",
+        "LEGO models",
+        "interactive building"
+      ]
+    },
+    {
+      "id": "LWC004",
+      "name": "Junior Engineer's Playground",
+      "short_description": "An outdoor park with various building materials like wood, pipes, and natural elements, encouraging open-ended construction and engineering play.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Kwa Kadzengo Area, Kikambala, Kilifi County",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1582210459345-d88661b17b6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTJ8fGNoaWxkcmVuJTIwb3V0ZG9vciUyMGNvbnN0cnVjdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "outdoor",
+        "natural materials",
+        "engineering play"
+      ]
+    },
+    {
+      "id": "CMG001",
+      "name": "Kikambala Cartoon Carnival",
+      "short_description": "A lively event space hosting regular cartoon character parades and meet-and-greets with beloved animated heroes. Features photo opportunities and interactive dances.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Kikambala Market Square, Kikambala, Kilifi County",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1516035069371-55d0459520b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTR8fGNhcnRvb24lMjBjYXJuaXZhbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "parade",
+        "photo ops",
+        "interactive"
+      ]
+    },
+    {
+      "id": "CMG002",
+      "name": "African Animation Junction",
+      "short_description": "Dedicated to popular African animated characters, this venue offers meet-and-greet sessions, storytelling, and mini-shows celebrating local animation.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Kikambala Shopping Centre, Kikambala, Kilifi County",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549488346-60193136551b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTh8fGFmcmklMjBhbmltYXRpb258ZW58MHx8MHx8&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "African animation",
+        "local characters",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "CMG003",
+      "name": "Mascots & Mirth Meet-Up",
+      "short_description": "A premium experience offering exclusive meet-and-greets with a rotating roster of popular cartoon characters, complete with professional photos and character-themed gifts.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Inside Kilifi Sands Resort, Kikambala, Kilifi County",
+      "opening_hours": "13:00-15:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1517604905380-60f1b29a2c3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTZ8fGNhcnRvb24lMjBtZWV0JTIwZ3JlZXRzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "exclusive",
+        "resort access",
+        "gifts"
+      ]
+    },
+    {
+      "id": "CMG004",
+      "name": "Weekend Character Bash",
+      "short_description": "A free, open-air event held every weekend, where children can meet various cartoon characters, enjoy bounce houses, and play games with their animated friends.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Kikambala Sports Grounds, Kikambala, Kilifi County",
+      "opening_hours": "10:00-14:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1623910931211-1a3b110e5ed5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MHxzZWFyY2h8MTB8fGJvdW5jZSUyMGhvdXNlJTIwZXZlbnR8ZW58MHx8MHx8&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "weekend event",
+        "free entry",
+        "bounce houses"
+      ]
+    }
+  ]
+}

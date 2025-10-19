@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Wajir",
+    "city_id": "2442"
+  },
+  "items": [
+    {
+      "id": "WAJ_CMG_001",
+      "name": "Wajir Toonland Adventures",
+      "short_description": "A vibrant space where children can meet beloved cartoon characters, get autographs, and enjoy interactive shows. Features local storytelling alongside global favorites.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Community Hall, Biashara Street, Wajir Town",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579227114347-c0235b3bb942?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "characters",
+        "entertainment",
+        "interactive"
+      ]
+    },
+    {
+      "id": "WAJ_CMG_002",
+      "name": "Safari Squad Meet-Up",
+      "short_description": "Join the 'Safari Squad' for exciting photo opportunities and engaging storytelling sessions with animal-themed cartoon characters promoting wildlife awareness.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Wajir Primary School Grounds, Bute Road, Wajir",
+      "opening_hours": "11:00-15:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1547466547-06138676a6f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "animals",
+        "photos",
+        "educational"
+      ]
+    },
+    {
+      "id": "WAJ_CMG_003",
+      "name": "Desert Dream Characters",
+      "short_description": "Meet friendly, desert-inspired cartoon characters who share tales of the Wajir landscape and local traditions. Perfect for cultural immersion.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Wajir Cultural Center, Garissa Road, Wajir",
+      "opening_hours": "09:30-14:30",
+      "price_level": "cheap",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Children%27s_museum_of_Indianapolis_characters.jpg/1024px-Children%27s_museum_of_Indianapolis_characters.jpg",
+      "tags": [
+        "culture",
+        "local lore",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "WAJ_CMG_004",
+      "name": "Heroes & Heroines Pavilion",
+      "short_description": "A special area dedicated to children meeting and interacting with characters representing bravery, kindness, and community spirit.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Wajir Township Park, Adjacent to Governor's Office",
+      "opening_hours": "10:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/7988264/pexels-photo-7988264.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "role models",
+        "inspiration",
+        "play"
+      ]
+    },
+    {
+      "id": "WAJ_LWP_001",
+      "name": "Wajir Brick Builders Hub",
+      "short_description": "An indoor park filled with thousands of Lego bricks, allowing children to build anything from desert vehicles to local homesteads. Workshops available.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Old Airport Road, Near Wajir Airstrip",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1518779578619-a178afb44550?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "building",
+        "creativity",
+        "engineering"
+      ]
+    },
+    {
+      "id": "WAJ_LWP_002",
+      "name": "Desert Design Lab",
+      "short_description": "Kids can design and construct miniature Wajir towns, bridges, and infrastructure using large building blocks and Lego sets. Focus on urban planning.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Makaburi Street, Wajir North",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/1721932/pexels-photo-1721932.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "architecture",
+        "logic",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "WAJ_LWP_003",
+      "name": "Future Architects Zone",
+      "short_description": "An interactive construction park featuring various building materials, including giant foam blocks and Lego Duplo, to inspire future architects and engineers.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Along Wajir-Mandera Road, Kismayu Ward",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596707325251-ce037ae615d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "design",
+        "imagination",
+        "problem-solving"
+      ]
+    },
+    {
+      "id": "WAJ_LWP_004",
+      "name": "Wajir Wonders Workshop",
+      "short_description": "A creative space where children can experiment with different building challenges, from constructing the tallest tower to designing a functional vehicle with Lego.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Market Street, Central Wajir",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1557005085-3b95764d1f2a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "innovation",
+        "challenges",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "WAJ_AMR_001",
+      "name": "Wajir Funfair Carnival",
+      "short_description": "A collection of classic family-friendly amusement rides, including a mini Ferris wheel, carousel, and bumper cars, providing joy for all ages.",
+      "subtype": "Amusement Rides",
+      "address": "Wajir Showground, Near Wajir Referral Hospital",
+      "opening_hours": "16:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517724391104-a690740954b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "thrills",
+        "carnival",
+        "family"
+      ]
+    },
+    {
+      "id": "WAJ_AMR_002",
+      "name": "Desert Explorer Train",
+      "short_description": "A gentle miniature train ride that takes children on a scenic journey through a simulated desert landscape, complete with animal cutouts.",
+      "subtype": "Amusement Rides",
+      "address": "Wajir Riverside Park, Along Tana River (seasonal)",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1507621495045-bf214d0267c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "train ride",
+        "scenic",
+        "relaxing"
+      ]
+    },
+    {
+      "id": "WAJ_AMR_003",
+      "name": "Soaring Eagle Swings",
+      "short_description": "Experience the joy of flight on the soaring eagle swing ride, a classic attraction that lifts riders high into the air for exhilarating views.",
+      "subtype": "Amusement Rides",
+      "address": "Wajir Public Gardens, Opposite District Commissioner's Office",
+      "opening_hours": "15:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542898769-02a806c9a9d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "heights",
+        "excitement",
+        "classic"
+      ]
+    },
+    {
+      "id": "WAJ_AMR_004",
+      "name": "Junior Jeep Adventure",
+      "short_description": "Kids can drive their own mini-jeeps on a specially designed track, simulating a safari adventure with safe, low-speed fun.",
+      "subtype": "Amusement Rides",
+      "address": "Old Airfield Road, Near Wajir Primary School",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1587375000570-52e42a969f6e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "driving",
+        "safari theme",
+        "adventure"
+      ]
+    },
+    {
+      "id": "WAJ_AQU_001",
+      "name": "Wajir Oasis Water Wonders",
+      "short_description": "A small but informative aquarium showcasing indigenous freshwater fish species found in seasonal rivers and boreholes, promoting water conservation.",
+      "subtype": "Aquariums",
+      "address": "Wajir Environmental Centre, Off Wajir-Garissa Road",
+      "opening_hours": "09:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1535498730704-5f12a80e0c03?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "freshwater",
+        "conservation",
+        "local species"
+      ]
+    },
+    {
+      "id": "WAJ_AQU_002",
+      "name": "Desert Depths Discovery",
+      "short_description": "A unique 'virtual' aquarium experience combined with real small-scale exhibits, allowing children to explore simulated ocean environments and learn about marine life.",
+      "subtype": "Aquariums",
+      "address": "Wajir Innovation Hub, Next to Post Office",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/3807271/pexels-photo-3807271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "virtual reality",
+        "marine life",
+        "educational"
+      ]
+    },
+    {
+      "id": "WAJ_AQU_003",
+      "name": "Wajir Pond Life Pavilion",
+      "short_description": "Dedicated to the fascinating microscopic and small aquatic life found in local water sources, including insects, amphibians, and tiny fish. Interactive exhibits.",
+      "subtype": "Aquariums",
+      "address": "Wajir Botanical Gardens, Behind County Assembly",
+      "opening_hours": "09:30-14:30",
+      "price_level": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Aquarium_at_Science_Centre%2C_Singapore.jpg/1024px-Aquarium_at_Science_Centre%2C_Singapore.jpg",
+      "tags": [
+        "micro-organisms",
+        "ecology",
+        "interactive"
+      ]
+    },
+    {
+      "id": "WAJ_AQU_004",
+      "name": "River Journey Exhibit",
+      "short_description": "Follow the simulated journey of a river from its source to the sea, highlighting different aquatic ecosystems and the creatures that inhabit them, with focus on conservation.",
+      "subtype": "Aquariums",
+      "address": "Wajir Youth Resource Center, Airport Road",
+      "opening_hours": "11:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1606789501174-a02ecf2d4838?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "river ecosystem",
+        "journey",
+        "environmental"
+      ]
+    },
+    {
+      "id": "WAJ_STP_001",
+      "name": "Wajir Whispers & Wonders Garden",
+      "short_description": "A serene park with themed zones where local elders and storytellers share traditional Somali and Kenyan tales under shady trees.",
+      "subtype": "Storytelling Parks",
+      "address": "Wajir Public Library Grounds, Opposite District Hospital",
+      "opening_hours": "14:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "folklore",
+        "oral tradition",
+        "culture"
+      ]
+    },
+    {
+      "id": "WAJ_STP_002",
+      "name": "Legends of the North-East",
+      "short_description": "An interactive park where children can walk through scenes from popular local legends, with costumed characters bringing stories to life.",
+      "subtype": "Storytelling Parks",
+      "address": "Wajir Cultural Heritage Site, Along Bute Road",
+      "opening_hours": "09:00-13:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/6684074/pexels-photo-6684074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "myths",
+        "interactive play",
+        "history"
+      ]
+    },
+    {
+      "id": "WAJ_STP_003",
+      "name": "The Talking Trees Trail",
+      "short_description": "Follow a winding path through a garden where hidden speakers and artistic installations recount fables and animal stories, encouraging imaginative play.",
+      "subtype": "Storytelling Parks",
+      "address": "Wajir Green Belt Project, Along Wajir-Mandera Highway",
+      "opening_hours": "08:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1506198946761-4191d90f23d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "nature",
+        "imagination",
+        "fables"
+      ]
+    },
+    {
+      "id": "WAJ_STP_004",
+      "name": "Dream Weaver's Pavilion",
+      "short_description": "A cozy, open-air pavilion designed for storytelling, puppetry, and creative writing workshops, where children can also share their own stories.",
+      "subtype": "Storytelling Parks",
+      "address": "Wajir Children's Centre, Madarasah Street",
+      "opening_hours": "10:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1541334994071-70014a5ac272?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "puppetry",
+        "creativity",
+        "workshops"
+      ]
+    },
+    {
+      "id": "WAJ_MSA_001",
+      "name": "Wajir Junior Sports Complex",
+      "short_description": "A multi-purpose mini-arena offering football, basketball, and volleyball courts sized for children, promoting active play and friendly competition.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Adjacent to Wajir Stadium, Kismayu Ward",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1628163690623-28c935043f11?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "football",
+        "basketball",
+        "active"
+      ]
+    },
+    {
+      "id": "WAJ_MSA_002",
+      "name": "Little Champions Track & Field",
+      "short_description": "A scaled-down track and field area for children to practice running, jumping, and throwing, encouraging basic athletic skills.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Wajir Public Sports Grounds, Bute Road",
+      "opening_hours": "07:00-11:00, 16:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1628163688176-6552a4e21a8d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "athletics",
+        "running",
+        "fitness"
+      ]
+    },
+    {
+      "id": "WAJ_MSA_003",
+      "name": "Wajir Net Sports Hub",
+      "short_description": "Featuring mini-courts for badminton, tennis, and table tennis, ideal for children to develop hand-eye coordination and learn new sports.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Wajir Social Hall, Opposite County Headquarters",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1620869372271-bf55b00c6d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "tennis",
+        "badminton",
+        "coordination"
+      ]
+    },
+    {
+      "id": "WAJ_MSA_004",
+      "name": "Desert Dash Obstacle Course",
+      "short_description": "A fun, safe obstacle course designed for children to climb, crawl, and balance, promoting physical agility and problem-solving.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Wajir Adventure Park, Near Wajir Airstrip",
+      "opening_hours": "08:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/1034440/pexels-photo-1034440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "obstacle course",
+        "agility",
+        "challenge"
+      ]
+    },
+    {
+      "id": "WAJ_PAP_001",
+      "name": "Wajir Oasis Adventure Park",
+      "short_description": "A sprawling outdoor park with swings, slides, climbing frames, and a zipline, all set in a beautifully landscaped, shaded environment.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Wajir Public Gardens, Adjacent to Wajir Town Council",
+      "opening_hours": "07:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1563461427196-0158a1a38a7c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "climbing",
+        "slides",
+        "outdoor play"
+      ]
+    },
+    {
+      "id": "WAJ_PAP_002",
+      "name": "Sandy Explorers Playground",
+      "short_description": "A unique sand-based playground featuring large sandpits, digging equipment, and structures for creative sand play, perfect for younger children.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Along Wajir Riverbank (seasonal), Behind Wajir Main Market",
+      "opening_hours": "08:00-17:00",
+      "price_level": "free",
+      "images": "https://images.pexels.com/photos/366304/pexels-photo-366304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "sand play",
+        "sensory",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "WAJ_PAP_003",
+      "name": "Sky High Climbing Towers",
+      "short_description": "A challenging adventure park with multi-level climbing towers, rope bridges, and obstacle courses for older children to test their agility and courage.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Wajir Youth Park, Wajir Garissa Road",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1587841133038-e6f6a7d53b49?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "climbing",
+        "adventure",
+        "physical challenge"
+      ]
+    },
+    {
+      "id": "WAJ_PAP_004",
+      "name": "The Nesting Village Play Area",
+      "short_description": "Inspired by local bird nests and traditional shelters, this playground offers unique structures for imaginative play, hiding, and exploring.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Wajir Township Gardens, Block A",
+      "opening_hours": "07:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1507781079555-4676648cf498?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "imaginative play",
+        "nature-inspired",
+        "exploration"
+      ]
+    },
+    {
+      "id": "WAJ_DNP_001",
+      "name": "Wajir Dino Discovery Land",
+      "short_description": "Step back in time to an era of giants! This park features life-sized dinosaur models, interactive displays, and fossil digging pits for young paleontologists.",
+      "subtype": "Dinosaur Parks",
+      "address": "Wajir Science & Dino Park, Along Bute Road",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1629867907572-887e076711d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "dinosaurs",
+        "fossils",
+        "paleontology"
+      ]
+    },
+    {
+      "id": "WAJ_DNP_002",
+      "name": "Jurassic Journey Wajir",
+      "short_description": "Embark on a thrilling journey through animated dinosaur exhibits, complete with sound effects and educational signboards. Learn about different species.",
+      "subtype": "Dinosaur Parks",
+      "address": "Wajir Family Entertainment Complex, Old Airport Road",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549419137-97d264f33d45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "animatronics",
+        "prehistoric",
+        "adventure"
+      ]
+    },
+    {
+      "id": "WAJ_DNP_003",
+      "name": "Dino Dig Site & Lab",
+      "short_description": "An educational attraction where children can participate in mock archaeological digs, uncovering dinosaur bones, and then assemble skeletons in a fun 'lab' setting.",
+      "subtype": "Dinosaur Parks",
+      "address": "Wajir Museum Annex, Adjacent to County Assembly",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/3860074/pexels-photo-3860074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "archaeology",
+        "education",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "WAJ_DNP_004",
+      "name": "Wajir Reptile Realm",
+      "short_description": "While not strictly dinosaurs, this park explores ancient reptiles and their modern descendants, featuring large models and information about evolution.",
+      "subtype": "Dinosaur Parks",
+      "address": "Wajir Conservation Centre, Wajir South",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Giant_turtle_sculpture%2C_Miami_Seaquarium.jpg/1024px-Giant_turtle_sculpture%2C_Miami_Seaquarium.jpg",
+      "tags": [
+        "reptiles",
+        "evolution",
+        "natural history"
+      ]
+    },
+    {
+      "id": "WAJ_FMA_001",
+      "name": "Wajir Kids' Farm & Petting Zoo",
+      "short_description": "An interactive farm where children can meet and feed friendly farm animals like goats, sheep, and camels, learning about their care and local pastoral life.",
+      "subtype": "Farm Attractions",
+      "address": "Wajir Agricultural Show Grounds, Garissa Road",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596541655079-05527a421b5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "farm animals",
+        "petting zoo",
+        "pastoralism"
+      ]
+    },
+    {
+      "id": "WAJ_FMA_002",
+      "name": "The Little Farmer's Garden",
+      "short_description": "Children can learn about planting, growing vegetables, and sustainable farming practices in a hands-on garden, including collecting fresh produce.",
+      "subtype": "Farm Attractions",
+      "address": "Wajir Green Farm Project, Along Wajir-Moyale Road",
+      "opening_hours": "08:00-12:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/5431665/pexels-photo-5431665.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "gardening",
+        "agriculture",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "WAJ_FMA_003",
+      "name": "Wajir Camel & Livestock Experience",
+      "short_description": "A unique opportunity for children to interact with camels, learn about their importance in the region, and even experience a short camel ride.",
+      "subtype": "Farm Attractions",
+      "address": "Wajir Livestock Training Centre, Diiso Location",
+      "opening_hours": "10:00-15:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1620163901768-4a946e37a28e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "camels",
+        "animal interaction",
+        "cultural"
+      ]
+    },
+    {
+      "id": "WAJ_FMA_004",
+      "name": "Dairy Discoveries Milk Station",
+      "short_description": "Children learn where milk comes from, how it's processed, and can even try their hand at 'milking' a simulated cow, focusing on local dairy practices.",
+      "subtype": "Farm Attractions",
+      "address": "Wajir Food & Nutrition Centre, Near Township Market",
+      "opening_hours": "09:30-13:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627993072213-982e5b7c2518?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "dairy",
+        "food education",
+        "farming"
+      ]
+    },
+    {
+      "id": "WAJ_CMU_001",
+      "name": "Wajir Junior Explorers Museum",
+      "short_description": "An interactive museum designed for children to explore local culture, science, and history through hands-on exhibits and creative play zones.",
+      "subtype": "Children’s Museums",
+      "address": "Wajir Cultural Centre Extension, Off Biashara Street",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579207018318-7fdf6f20436b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "interactive learning",
+        "culture",
+        "science"
+      ]
+    },
+    {
+      "id": "WAJ_CMU_002",
+      "name": "Desert Discoveries Science Lab",
+      "short_description": "A children's museum wing focused on science experiments, geology, and understanding the unique ecosystem of Wajir through fun, practical activities.",
+      "subtype": "Children’s Museums",
+      "address": "Wajir Education Hub, Airport Road",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/3059639/pexels-photo-3059639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "science",
+        "experiments",
+        "geology"
+      ]
+    },
+    {
+      "id": "WAJ_CMU_003",
+      "name": "Wajir Arts & Craft Corner",
+      "short_description": "An expressive space within the museum where children can engage in traditional Wajir crafts, painting, and artistic expression, guided by local artisans.",
+      "subtype": "Children’s Museums",
+      "address": "Wajir Community Arts Centre, Near Main Mosque",
+      "opening_hours": "09:30-15:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563486150165-2268759553f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "arts",
+        "crafts",
+        "creativity"
+      ]
+    },
+    {
+      "id": "WAJ_CMU_004",
+      "name": "Our Wajir Heritage House",
+      "short_description": "A children-friendly museum showcasing the rich history, traditions, and artifacts of Wajir, with engaging displays and stories about the region's past.",
+      "subtype": "Children’s Museums",
+      "address": "Wajir County Museum, Along Wajir-Garissa Road",
+      "opening_hours": "11:00-16:00",
+      "price_level": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Children_at_the_Vapriikki_Museum_%282%29.jpg/1024px-Children_at_the_Vapriikki_Museum_%282%29.jpg",
+      "tags": [
+        "history",
+        "heritage",
+        "artifacts"
+      ]
+    }
+  ]
+}

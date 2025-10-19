@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Nouadhibou",
+    "city_id": "2421"
+  },
+  "items": [
+    {
+      "id": "NDB-LEGO-001",
+      "name": "Brick Builders' Oasis",
+      "short_description": "A vibrant indoor park where kids can build towering structures, design vehicles, and create their own Lego cities. Features themed building zones and a large free-play area.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "12 Rue des Dattes, Quartier Industriel, Nouadhibou",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563729906236-23b9f1d02c81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwzfHxlY29saW1lJTJDYnJpY2slMkNsaWZlJTIwcGFya3xlbnwwfHx8fDE3MTA5Nzg2MDZ8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "lego",
+        "building",
+        "creative play"
+      ]
+    },
+    {
+      "id": "NDB-LEGO-002",
+      "name": "Nouadhibou Construct-o-Rama",
+      "short_description": "An interactive construction site for kids, using large soft blocks and Lego Duplo bricks. Children can operate mini diggers and cranes in a safe, imaginative environment.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "5 Avenue du Commerce, Centre Ville, Nouadhibou",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/17231791/pexels-photo-17231791/free-photo-of-child-playing-with-duplo-blocks.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "construction",
+        "duplo",
+        "role play"
+      ]
+    },
+    {
+      "id": "NDB-LEGO-003",
+      "name": "Desert Brick Safari",
+      "short_description": "Explore a unique Lego landscape inspired by the Mauritanian desert and its wildlife. Build your own desert creatures and vehicles to navigate through sandy dunes made of bricks.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Route de Cansado, Zone Touristique, Nouadhibou",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1615555415714-2575f0a1c1d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxsZWdvJTIwc2FmYXJpJXJvYm90c3xlbnwwfHx8fDE3MTA5NzkxNzJ8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "safari",
+        "desert",
+        "imagination"
+      ]
+    },
+    {
+      "id": "NDB-LEGO-004",
+      "name": "Ocean Brick Bay",
+      "short_description": "A LEGO theme park section focusing on marine life and port activities. Kids can build ships, underwater cities, and sea creatures, with interactive water-play elements.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Boulevard Maritime, près du Port, Nouadhibou",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1533479632890-e22e573f1d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxsZWdvJTIwbWFyaW5lJTIwc2hpcCUyMGNoaWxkcmVufGVufDB8fHx8MTcxMDk3OTIzOHww&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "marine life",
+        "ocean",
+        "water play"
+      ]
+    },
+    {
+      "id": "NDB-ZOO-001",
+      "name": "Nouadhibou Mini-Zoo & Aviary",
+      "short_description": "A small, well-maintained zoo featuring a selection of local and exotic birds, small mammals, and reptiles. Focuses on conservation education and animal welfare.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Parc National du Banc d'Arguin, Route N2, Nouadhibou",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1555410189-9a7000bf1f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwzfHxzY2hpbGRyZW4lMjB6b28lMkNhbmltYWxzfGVufDB8fHx8MTcxMDk3OTM3Nnww&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "animals",
+        "birds",
+        "education"
+      ]
+    },
+    {
+      "id": "NDB-ZOO-002",
+      "name": "Desert Critters Petting Farm",
+      "short_description": "An interactive petting zoo where children can safely interact with friendly farm animals like goats, sheep, and donkeys, as well as learn about desert-adapted creatures.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Ferme Pédagogique, Route de l'Aéroport, Nouadhibou",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/1010373/pexels-photo-1010373.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "interactive"
+      ]
+    },
+    {
+      "id": "NDB-ZOO-003",
+      "name": "Marine Life Discovery Aquarium (Mini-Zoo Section)",
+      "short_description": "While primarily an aquarium, it includes a 'mini-zoo' section showcasing marine mammals and coastal birds rescued from the local waters, offering educational talks.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Quai des Pêcheurs, près du Port, Nouadhibou",
+      "opening_hours": "09:30-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1579222230006-258169145625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwzfHxtYXJpbmUlMjBzZWFsaW9uJTIwYmFieXxlbnwwfHx8fDE3MTA5Nzk2OTZ8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "marine life",
+        "conservation",
+        "aquarium"
+      ]
+    },
+    {
+      "id": "NDB-ZOO-004",
+      "name": "Ostrich & Gazelle Enclosure",
+      "short_description": "A specialized, spacious enclosure dedicated to indigenous desert animals such as ostriches and various gazelle species, allowing visitors to observe them in a near-natural habitat.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Zone de Cansado, Route N2, Nouadhibou",
+      "opening_hours": "08:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621255532504-06ac9b98ec34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxvYmFudm9fbmF0aW9uYWxfaXJsfGVufDB8fHx8MTcxMDk4MDAwN3ww&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "desert animals",
+        "wildlife",
+        "observation"
+      ]
+    },
+    {
+      "id": "NDB-SPORTS-001",
+      "name": "Desert Soccer Kids League",
+      "short_description": "A mini-soccer arena specifically designed for children aged 5-12, offering small-sided games, coaching sessions, and mini-tournaments on artificial turf.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Terrain de Sport N°3, Avenue de la République, Nouadhibou",
+      "opening_hours": "15:00-20:00 (weekdays), 10:00-18:00 (weekends)",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/3621183/pexels-photo-3621183.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "soccer",
+        "team sports",
+        "active play"
+      ]
+    },
+    {
+      "id": "NDB-SPORTS-002",
+      "name": "Coastal Court Hoops",
+      "short_description": "An outdoor mini-basketball court complex with adjustable hoops and soft ground, perfect for kids to practice shooting, dribbling, and friendly pickup games by the sea breeze.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Boulevard du Port, près du Phare, Nouadhibou",
+      "opening_hours": "08:00-22:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1582236317208-8f85f31548e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxiaXN0ZW5kZXJkJTIwY291cnQlMjBraWxzfGVufDB8fHx8MTcxMDk4MDI4OXww&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "basketball",
+        "outdoor sports",
+        "free play"
+      ]
+    },
+    {
+      "id": "NDB-SPORTS-003",
+      "name": "Mini-Golf Oasis",
+      "short_description": "A creatively designed 18-hole mini-golf course with a desert oasis theme, featuring fun obstacles and challenges suitable for all ages, but particularly engaging for children.",
+      "subtype": "Mini Sports Arenas",
+      "address": "7 Rue des Palmiers, Zone Loisirs, Nouadhibou",
+      "opening_hours": "11:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/16142995/pexels-photo-16142995/free-photo-of-minigolf-course.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "mini golf",
+        "precision sports",
+        "family fun"
+      ]
+    },
+    {
+      "id": "NDB-SPORTS-004",
+      "name": "Adventure Skate Park (Kids Zone)",
+      "short_description": "A dedicated and supervised section within a larger skate park, offering smaller ramps, low rails, and flat areas for children to learn skateboarding, rollerblading, and scootering safely.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Parc des Jeunes, Rue des Sports, Nouadhibou",
+      "opening_hours": "14:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563214532-6a77f0a996f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxiaXN0ZW5kZXJkJTIwcGFya3xlbnwwfHx8fDE3MTA5ODA1NTl8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "skateboarding",
+        "scootering",
+        "active"
+      ]
+    },
+    {
+      "id": "NDB-PLAY-001",
+      "name": "Sahara Sands Adventure Park",
+      "short_description": "An expansive adventure park featuring elaborate climbing structures, zip lines, obstacle courses, and a giant sandpit. Designed to challenge and excite children with a desert theme.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Parc Public des Dunes, Route N2, Nouadhibou",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627958197171-aa3434685e13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxhZHZlbnR1cmUlMjBwbGF5Z3JvdW5kfGVufDB8fHx8MTcxMDk4MDc5MHww&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "adventure",
+        "climbing",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "NDB-PLAY-002",
+      "name": "Portside Play Haven",
+      "short_description": "A nautical-themed playground located near the port, with structures resembling ships, lighthouses, and marine creatures. Includes swings, slides, and water play features.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Esplanade du Port, Boulevard Maritime, Nouadhibou",
+      "opening_hours": "08:00-20:00",
+      "price_level": "free",
+      "images": "https://images.pexels.com/photos/18251268/pexels-photo-18251268/free-photo-of-a-playground-in-a-park.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "playground",
+        "nautical",
+        "free play"
+      ]
+    },
+    {
+      "id": "NDB-PLAY-003",
+      "name": "Oasis Springs Playground",
+      "short_description": "A lush, shaded playground offering a respite from the sun. Features traditional swings, slides, merry-go-rounds, and a small splash pad for cooling off in the warmer months.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Jardin Public, Avenue de l'Indépendance, Nouadhibou",
+      "opening_hours": "07:00-21:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1614022842429-5f21295b9d31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxsdXNoJTIwc3BsYXNoJTIwcGFkJTIwcGxheWdyb3VuZHxlbnwwfHx8fDE3MTA5ODExNTJ8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "swings",
+        "slides",
+        "splash pad"
+      ]
+    },
+    {
+      "id": "NDB-PLAY-004",
+      "name": "Dino Dig Discovery Park",
+      "short_description": "An archaeological-themed adventure park where kids can dig for 'dinosaur bones' in a large sandpit, climb on prehistoric-themed structures, and explore a fossil maze.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Site Archéologique des Jeunes, Quartier du Nord, Nouadhibou",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/8991316/pexels-photo-8991316.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "dinosaurs",
+        "discovery",
+        "archaeology"
+      ]
+    },
+    {
+      "id": "NDB-MUSEUM-001",
+      "name": "Nouadhibou Little Explorers Museum",
+      "short_description": "An interactive museum designed for young children, featuring hands-on exhibits that encourage imaginative play, sensory exploration, and early learning across various themes.",
+      "subtype": "Children’s Museums",
+      "address": "Centre Culturel, Rue de la Paix, Nouadhibou",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596495638204-c368d40026e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxiaXJzdGVuc2hfcGxhbmV0YXJpdW0lMkNpbnRlcmFjdGl2ZXxlbnwwfHx8fDE3MTA5ODEzNDF8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "interactive",
+        "learning",
+        "play"
+      ]
+    },
+    {
+      "id": "NDB-MUSEUM-002",
+      "name": "Coastal Culture Kids Gallery",
+      "short_description": "This museum introduces children to the rich maritime history and culture of Nouadhibou and Mauritania through engaging exhibits, traditional craft workshops, and storytelling sessions.",
+      "subtype": "Children’s Museums",
+      "address": "Ancien Port, Boulevard Maritime, Nouadhibou",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/15725211/pexels-photo-15725211/free-photo-of-kids-in-museum.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "culture",
+        "history",
+        "art"
+      ]
+    },
+    {
+      "id": "NDB-MUSEUM-003",
+      "name": "My City, My Home Museum",
+      "short_description": "A miniature city where kids can role-play various community roles like firefighters, doctors, shopkeepers, and construction workers, fostering social skills and civic awareness.",
+      "subtype": "Children’s Museums",
+      "address": "15 Avenue Principale, Quartier Résidentiel, Nouadhibou",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1599026330067-f31693a12ff3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxzY2hpbGRyZW4lMjByb2xlcGxheSUyMG11c2V1bXxlbnwwfHx8fDE3MTA5ODE2NDl8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "role play",
+        "community",
+        "social skills"
+      ]
+    },
+    {
+      "id": "NDB-MUSEUM-004",
+      "name": "Desert Discovery Children's Museum",
+      "short_description": "Focuses on the unique ecosystem, geology, and nomadic cultures of the Sahara. Exhibits include sand exploration, desert animal models, and traditional tent building.",
+      "subtype": "Children’s Museums",
+      "address": "Route de Cansado, Centre d'Études Désertiques, Nouadhibou",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/1350876/pexels-photo-1350876.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "desert",
+        "ecosystem",
+        "culture"
+      ]
+    },
+    {
+      "id": "NDB-SCIENCE-001",
+      "name": "Nouadhibou Young Scientists Lab",
+      "short_description": "A hands-on science center for kids, featuring interactive experiments in physics, chemistry, and biology. Encourages inquiry and discovery through engaging activities.",
+      "subtype": "Science Centers",
+      "address": "Centre de Recherche Scientifique, Quartier Universitaire, Nouadhibou",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628174780590-2ff0d33e5066?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwzfHxzY2hpbGRyZW4lMjBzY2llbmNlJTIwZXhwZXJpbWVudHN8ZW5wwfHx8fDE3MTA5ODE4OTJ8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "science",
+        "experiments",
+        "discovery"
+      ]
+    },
+    {
+      "id": "NDB-SCIENCE-002",
+      "name": "Marine Science Exploratorium",
+      "short_description": "Dedicated to marine biology and oceanography, this center allows children to explore the underwater world through interactive displays, touch tanks, and simulations of ocean currents.",
+      "subtype": "Science Centers",
+      "address": "Pôle Scientifique Maritime, près de l'IMROP, Nouadhibou",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.pexels.com/photos/2065840/pexels-photo-2065840.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "marine biology",
+        "oceanography",
+        "ecology"
+      ]
+    },
+    {
+      "id": "NDB-SCIENCE-003",
+      "name": "Energy Explorers Center",
+      "short_description": "An interactive center teaching children about different forms of energy – solar, wind, and kinetic – through fun, hands-on exhibits like building mini wind turbines and solar cars.",
+      "subtype": "Science Centers",
+      "address": "20 Rue des Énergies, Zone Technologique, Nouadhibou",
+      "opening_hours": "10:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582236429352-8b8a531f82f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBzY2llbmNlJTIwa2lkc3xlbnwwfHx8fDE3MTA5ODI0NjR8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "energy",
+        "technology",
+        "renewable"
+      ]
+    },
+    {
+      "id": "NDB-SCIENCE-004",
+      "name": "Desert Skies & Earth Science Hub",
+      "short_description": "This center focuses on geology, meteorology, and astronomy of the desert region. Kids can learn about rock formations, weather patterns, and celestial bodies visible from Nouadhibou.",
+      "subtype": "Science Centers",
+      "address": "Observatoire Junior, Route de l'Est, Nouadhibou",
+      "opening_hours": "14:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/8991319/pexels-photo-8991319.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "geology",
+        "astronomy",
+        "weather"
+      ]
+    },
+    {
+      "id": "NDB-RIDES-001",
+      "name": "Portside Pirate Ship Carousel",
+      "short_description": "A classic carousel with a pirate ship theme, featuring various sea creatures and swashbuckling characters instead of horses. Located with views of the actual port.",
+      "subtype": "Amusement Rides",
+      "address": "Place du Souvenir, Boulevard Maritime, Nouadhibou",
+      "opening_hours": "16:00-22:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/6841297/pexels-photo-6841297.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "carousel",
+        "classic ride",
+        "nautical"
+      ]
+    },
+    {
+      "id": "NDB-RIDES-002",
+      "name": "Mini-Ferris Wheel of Nouadhibou",
+      "short_description": "A colorful, kid-friendly Ferris wheel offering gentle rides and panoramic views of the city and its coastline from a modest height, perfect for younger children.",
+      "subtype": "Amusement Rides",
+      "address": "Parc d'Attractions Municipal, Avenue du Parc, Nouadhibou",
+      "opening_hours": "17:00-23:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510467793085-f53835c60a4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxiaXJzdGVuc2hfcGxhbmV0YXJpdW0lMkNmZXJyaXMlMjB3aGVlbHxlbnwwfHx8fDE3MTA5ODQxNDJ8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "ferris wheel",
+        "views",
+        "gentle ride"
+      ]
+    },
+    {
+      "id": "NDB-RIDES-003",
+      "name": "Desert Dunes Bumper Cars",
+      "short_description": "A themed bumper car arena where children can drive brightly colored cars designed to look like desert buggies, bumping into each other in a safe, enclosed space.",
+      "subtype": "Amusement Rides",
+      "address": "Centre de Loisirs Oasis, Route de Cansado, Nouadhibou",
+      "opening_hours": "15:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/2069796/pexels-photo-2069796.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "bumper cars",
+        "driving",
+        "fun"
+      ]
+    },
+    {
+      "id": "NDB-RIDES-004",
+      "name": "The Speedy Seahorse Roller Coaster (Mini)",
+      "short_description": "A gentle, small-scale roller coaster designed for junior thrill-seekers. It features a marine life theme with a friendly seahorse as its mascot, offering mild drops and turns.",
+      "subtype": "Amusement Rides",
+      "address": "Parc d'Aventures Aquatiques, Quartier de la Plage, Nouadhibou",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542281286-9a067064d4dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxiaXJzdGVuc2hfcGxhbmV0YXJpdW0lMkNyYWlsJTIwY29hc3RlcnxlbnwwfHx8fDE3MTA5ODQyOTB8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "roller coaster",
+        "thrill",
+        "marine theme"
+      ]
+    },
+    {
+      "id": "NDB-FAIRY-001",
+      "name": "Arabian Nights Storyland",
+      "short_description": "A magical park bringing to life classic tales from 'One Thousand and One Nights,' with themed areas, character meet-and-greets, and enchanting attractions.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Jardin des Contes, Route Touristique, Nouadhibou",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/10141692/pexels-photo-10141692.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "fairy tales",
+        "arabian nights",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "NDB-FAIRY-002",
+      "name": "Desert Princess Castle Park",
+      "short_description": "Explore a beautiful castle-themed park where children can meet desert princesses, attend royal feasts, and participate in magical quests, all set against a Mauritanian backdrop.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Domaine des Rêves, Avenue du Palais, Nouadhibou",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1515918712397-6a1b02133f93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxpbmNlc3MlMjBjYXN0bGUlMjBwYXJrfGVufDB8fHx8MTcxMDk4MzM1OXww&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "princesses",
+        "castles",
+        "magical"
+      ]
+    },
+    {
+      "id": "NDB-FAIRY-003",
+      "name": "The Enchanted Oasis Trail",
+      "short_description": "A whimsical walking trail through a landscaped park, adorned with sculptures and interactive scenes depicting local folk tales and mythical desert creatures.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Parc Naturel des Fables, Quartier Sud, Nouadhibou",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/11550974/pexels-photo-11550974.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "folk tales",
+        "fantasy",
+        "nature walk"
+      ]
+    },
+    {
+      "id": "NDB-FAIRY-004",
+      "name": "Fishermen's Tales Cove",
+      "short_description": "This park is inspired by local fishermen's legends and sea myths. Children can discover giant fish sculptures, mythical sea creatures, and listen to captivating stories by the water.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Plage des Histoires, Boulevard Maritime, Nouadhibou",
+      "opening_hours": "10:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1624637497143-df9d54e4c25f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxzZWFzaWRlJTIwc3RhdHVlcyUyMGZhaXJ5fGVufDB8fHx8MTcxMDk4MzY5MXww&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "sea legends",
+        "myths",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "NDB-PLANET-001",
+      "name": "Starlight Dome Junior Planetarium",
+      "short_description": "A small, kid-friendly planetarium offering immersive shows about stars, planets, and constellations, tailored for young audiences with engaging visuals and simple explanations.",
+      "subtype": "Planetariums for Kids",
+      "address": "Centre Astronomique, Route de l'Est, Nouadhibou",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601736113110-33cf6a49591e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxiaXJzdGVuc2hfcGxhbmV0YXJpdW0lMkNrZW5kZXJnaW5mcmllbmRsaWNoZXJ8ZW5wwfHx8fDE3MTA5ODM4MzV8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "astronomy",
+        "stars",
+        "space"
+      ]
+    },
+    {
+      "id": "NDB-PLANET-002",
+      "name": "Cosmic Kids Voyage Dome",
+      "short_description": "An interactive planetarium where children embark on a virtual journey through the solar system, learning about each planet through games and animated presentations.",
+      "subtype": "Planetariums for Kids",
+      "address": "École Primaire des Étoiles, Avenue Céleste, Nouadhibou",
+      "opening_hours": "09:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/3382483/pexels-photo-3382483.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "solar system",
+        "planets",
+        "education"
+      ]
+    },
+    {
+      "id": "NDB-PLANET-003",
+      "name": "Desert Night Sky Observatory (Kids Section)",
+      "short_description": "A dedicated area within a larger observatory, featuring child-sized telescopes and guides who help kids identify visible constellations and explain basic celestial phenomena.",
+      "subtype": "Planetariums for Kids",
+      "address": "Observatoire du Désert, Zone Éloignée, Nouadhibou",
+      "opening_hours": "18:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542840004-946e3d242634?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxiaXJzdGVuc2hfcGxhbmV0YXJpdW0lMkN0ZWxlc2NvcGV8ZW5wwfHx8fDE3MTA5ODQyNjh8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "observatory",
+        "constellations",
+        "night sky"
+      ]
+    },
+    {
+      "id": "NDB-PLANET-004",
+      "name": "Galaxy Explorers Play-Lab (Planetarium Annex)",
+      "short_description": "An annex to a planetarium, offering hands-on activities like building rocket models, designing alien creatures, and a mini-simulator for 'flying' through space.",
+      "subtype": "Planetariums for Kids",
+      "address": "Complexe Spatial Junior, Rue Galactique, Nouadhibou",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/3382490/pexels-photo-3382490.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "space exploration",
+        "rockets",
+        "creative play"
+      ]
+    },
+    {
+      "id": "NDB-STORY-001",
+      "name": "Whispering Sands Story Park",
+      "short_description": "A tranquil park designed for storytelling, with shaded seating areas, a central stage, and sculptures depicting characters from Mauritanian folk tales and desert legends.",
+      "subtype": "Storytelling Parks",
+      "address": "Jardin des Histoires, Quartier des Poètes, Nouadhibou",
+      "opening_hours": "09:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1510206680388-77983c271cf0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwzfHxzdG9yeXRlbGxpbmclMjBwYXJrJTJDYXJhYmlhbiUyMGxpZ2h0c3xlbnwwfHx8fDE3MTA5ODQ0NjR8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "folk tales",
+        "storytelling",
+        "culture"
+      ]
+    },
+    {
+      "id": "NDB-STORY-002",
+      "name": "The Mariners' Myth Circle",
+      "short_description": "Located by the sea, this park features interactive installations and comfortable nooks where professional storytellers share tales of the ocean, brave sailors, and mythical sea creatures.",
+      "subtype": "Storytelling Parks",
+      "address": "Port des Récits, Boulevard Maritime, Nouadhibou",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/15707743/pexels-photo-15707743/free-photo-of-man-in-a-traditional-costume-sitting-on-a-rock-and-telling-a-story.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "sea myths",
+        "legends",
+        "performances"
+      ]
+    },
+    {
+      "id": "NDB-STORY-003",
+      "name": "Animal Fables Forest",
+      "short_description": "A small, shaded area with carved animal figures and interactive sound stations that play classic fables and stories about desert animals, encouraging imaginative play.",
+      "subtype": "Storytelling Parks",
+      "address": "Parc de la Faune, Route du Parc National, Nouadhibou",
+      "opening_hours": "09:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1533230491953-29a3a9366e60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzgyMjJ8MHwxfHNlYXJjaHwxfHxhbmltYWwlMjBmYWJsZXMlMjBmb3Jlc3R8ZW5wwfHx8fDE3MTA5ODQ3MDN8MA&ixlib=rb-4.0.3&q=80&w=400",
+      "tags": [
+        "animal stories",
+        "fables",
+        "nature"
+      ]
+    },
+    {
+      "id": "NDB-STORY-004",
+      "name": "Journey of the Nomads Story Path",
+      "short_description": "An educational storytelling path that narrates the history and traditions of Mauritanian nomadic tribes through interactive exhibits, audio guides, and re-created scenes.",
+      "subtype": "Storytelling Parks",
+      "address": "Musée Vivant des Nomades, Route de l'Ancien Ksar, Nouadhibou",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/10398642/pexels-photo-10398642.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1",
+      "tags": [
+        "history",
+        "tradition",
+        "nomads"
+      ]
+    }
+  ]
+}

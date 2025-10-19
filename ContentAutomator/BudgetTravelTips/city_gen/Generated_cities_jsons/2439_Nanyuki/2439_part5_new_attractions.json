@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Nanyuki",
+    "city_id": "2439"
+  },
+  "items": [
+    {
+      "id": "NykAdvPk1",
+      "name": "Nanyuki Skybound Adventure Park",
+      "short_description": "Soar through the Nanyuki skies on thrilling ziplines and conquer challenging ropes courses amidst breathtaking views of Mount Kenya. Perfect for adrenaline junkies and families alike.",
+      "address": "Nanyuki-Doldol Road, near Ol Pejeta Conservancy turn-off",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594947932371-331e87d00f73?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "zipline",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": "MtKHeights",
+      "name": "Mount Kenya Heights Eco-Lodge",
+      "short_description": "Experience sustainable luxury in an exclusive eco-lodge offering panoramic views of Mount Kenya. Enjoy personalized service, organic cuisine, and serene nature walks.",
+      "address": "Off Nanyuki-Meru Road, foothills of Mount Kenya",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627889702581-9b6d8b9d0e74?q=80&w=2862&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "luxury",
+        "eco-tourism",
+        "accommodation"
+      ]
+    },
+    {
+      "id": "NykArtHub",
+      "name": "Equator Art & Culture Centre",
+      "short_description": "Discover the vibrant creativity of local and regional artists at Nanyuki's newest art hub. Featuring diverse exhibits, workshops, and a focus on East African heritage.",
+      "address": "Kenyatta Avenue, Nanyuki Town Centre",
+      "opening_hours": "10:00-18:00 (Mon-Sat)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1579783900882-c0d3ce7ddd7f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "culture",
+        "local artists"
+      ]
+    },
+    {
+      "id": "ShambaEats",
+      "name": "The Shamba Kitchen & Deli",
+      "short_description": "Savor fresh, organic dishes made with ingredients sourced directly from local Nanyuki farms. A delightful culinary experience focusing on sustainability and taste.",
+      "address": "Naromoru Road, Nanyuki",
+      "opening_hours": "07:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517248135467-4c7ed4825944?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "restaurant",
+        "organic food",
+        "local produce"
+      ]
+    },
+    {
+      "id": "NykWldCare",
+      "name": "Nanyuki Wildlife Rescue Centre",
+      "short_description": "Witness the incredible work of wildlife conservationists rehabilitating injured and orphaned animals. Learn about local wildlife and the efforts to protect them. Educational and inspiring.",
+      "address": "Near Ol Pejeta Conservancy, Nanyuki-Rumuruti Road",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547481525-4bf604928d32?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "education"
+      ]
+    },
+    {
+      "id": "EquatorGlamp",
+      "name": "Equator Star Glamping Retreat",
+      "short_description": "Unwind in luxurious canvas tents under the vast Nanyuki sky. Enjoy unparalleled stargazing, bonfire nights, and comfortable amenities in a pristine natural setting.",
+      "address": "Off Doldol Road, Laikipia County",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1525283485834-c7c4b784e27f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "glamping",
+        "stargazing",
+        "nature retreat"
+      ]
+    },
+    {
+      "id": "NykBrewCo",
+      "name": "Mount Kenya Craft Brewery",
+      "short_description": "Tour Nanyuki's first craft brewery and sample a range of unique, locally-inspired beers. Learn about the brewing process and enjoy the lively atmosphere of the taproom.",
+      "address": "Industrial Area, Nanyuki",
+      "opening_hours": "11:00-21:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589255776263-d1df52b9044b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "brewery",
+        "craft beer",
+        "tasting"
+      ]
+    },
+    {
+      "id": "NykCurios",
+      "name": "Nanyuki Artisan Market",
+      "short_description": "Explore a vibrant weekly market showcasing handmade crafts, unique souvenirs, and fresh local produce from Nanyuki's talented artisans and farmers.",
+      "address": "Nanyuki Showground Road (weekly location)",
+      "opening_hours": "09:00-16:00 (Saturdays only)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1574516422839-4911d37b6b19?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "market",
+        "crafts",
+        "local goods"
+      ]
+    },
+    {
+      "id": "SereneNyk",
+      "name": "Equator Wellness Retreat & Spa",
+      "short_description": "Rejuvenate your mind and body at this tranquil retreat offering holistic spa treatments, yoga sessions, and mindful workshops amidst the serene Nanyuki landscape.",
+      "address": "Burguret area, Nanyuki-Nyeri Road",
+      "opening_hours": "08:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1621516709875-9c8c772c72b2?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wellness",
+        "spa",
+        "retreat"
+      ]
+    },
+    {
+      "id": "NykBikePark",
+      "name": "Nanyuki Enduro Trails",
+      "short_description": "Explore exhilarating mountain bike trails designed for all skill levels, from gentle rides to challenging descents. Rent equipment on-site and experience Nanyuki's natural beauty on two wheels.",
+      "address": "Dedan Kimathi University Road, near Nanyuki Airstrip",
+      "opening_hours": "08:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1610444583803-0941d2432d67?q=80&w=2864&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "mountain biking",
+        "outdoor sports",
+        "adventure"
+      ]
+    }
+  ]
+}

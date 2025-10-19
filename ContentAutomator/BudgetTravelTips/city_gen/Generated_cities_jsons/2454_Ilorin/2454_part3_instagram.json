@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Ilorin",
+    "city_id": "2454"
+  },
+  "items": [
+    {
+      "id": "IL_HA01",
+      "name": "Emir's Palace Grand Entrance",
+      "short_description": "Step back in time at the impressive gates of Ilorin's Emir's Palace, a symbol of royal heritage and traditional Yoruba-Fulani architecture. Its intricate designs offer a stunning backdrop for photography.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Oja-Oba Market Area, Ilorin",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596701026065-9a842f1f0e43?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "history",
+        "royalty",
+        "culture"
+      ]
+    },
+    {
+      "id": "IL_CN01",
+      "name": "Gambari Quarters Vibrant Streets",
+      "short_description": "Immerse yourself in the lively atmosphere of Gambari Quarters, where vibrant wall murals and bustling street scenes create a picturesque backdrop. Every corner tells a story through its vivid hues and local charm.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Gambari Quarters, near Emir's Palace",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/10312684/pexels-photo-10312684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "streetlife",
+        "localart",
+        "vibrant"
+      ]
+    },
+    {
+      "id": "IL_FG01",
+      "name": "Unilorin Botanical Garden Serenity",
+      "short_description": "Find peace amidst the lush, blooming flora of the University of Ilorin's botanical garden, a green sanctuary perfect for nature lovers and tranquil strolls. Capture the vibrant hues of diverse plant species.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "University of Ilorin Campus",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1502484025170-80415d4822ed?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "nature",
+        "gardens",
+        "serenity"
+      ]
+    },
+    {
+      "id": "IL_RV01",
+      "name": "Skyline Terrace @ Kwara Hotel",
+      "short_description": "Experience stunning panoramic views of Ilorin's sprawling cityscape from the elevated comfort of Kwara Hotel's rooftop terrace. It's especially captivating at dusk as the city lights begin to twinkle.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Kwara Hotel, Ahmadu Bello Way",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/3573752/pexels-photo-3573752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "cityscape",
+        "sunset",
+        "panoramic"
+      ]
+    }
+  ]
+}

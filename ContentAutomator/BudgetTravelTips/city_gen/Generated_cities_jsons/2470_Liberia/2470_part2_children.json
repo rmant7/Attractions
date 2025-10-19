@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Liberia",
+    "city_id": "2470"
+  },
+  "items": [
+    {
+      "id": "LIB-SC-001",
+      "name": "Monrovia Discovery Lab",
+      "short_description": "An interactive science center where children can explore physics, chemistry, and biology through hands-on experiments and engaging exhibits.",
+      "subtype": "Science Centers",
+      "address": "Tubman Boulevard, Sinkor, Monrovia, Liberia",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1541339907198-e087566cdb92",
+      "tags": [
+        "interactive",
+        "education",
+        "experiments"
+      ]
+    },
+    {
+      "id": "LIB-SC-002",
+      "name": "Liberia Tech Explorers",
+      "short_description": "A modern hub where kids learn about robotics, coding, and engineering through playful challenges and building activities. Ignites young minds in technology.",
+      "subtype": "Science Centers",
+      "address": "Congo Town Road, Paynesville, Montserrado County, Liberia",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628126848035-c33842c525f0",
+      "tags": [
+        "technology",
+        "robotics",
+        "STEM"
+      ]
+    },
+    {
+      "id": "LIB-SC-003",
+      "name": "Coastal Ecology Center",
+      "short_description": "Dedicated to marine life and coastal ecosystems, this center offers educational exhibits, touch tanks, and interactive displays about Liberia's aquatic biodiversity.",
+      "subtype": "Science Centers",
+      "address": "Bushrod Island, Monrovia, Liberia",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549419137-011867c21626",
+      "tags": [
+        "ecology",
+        "marine life",
+        "conservation"
+      ]
+    },
+    {
+      "id": "LIB-SC-004",
+      "name": "Stars of Africa Observatory",
+      "short_description": "Gaze into the Liberian night sky with telescopes and learn about constellations, planets, and space exploration through engaging presentations and simulations.",
+      "subtype": "Science Centers",
+      "address": "Robertsfield Highway, Margibi County, Liberia",
+      "opening_hours": "18:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517976191753-f72670d850a5",
+      "tags": [
+        "astronomy",
+        "space",
+        "stargazing"
+      ]
+    },
+    {
+      "id": "LIB-ST-001",
+      "name": "Kru Folk Tale Gardens",
+      "short_description": "Wander through lush gardens adorned with sculptures depicting famous Kru folk tales. Audio stories bring the characters to life, offering a unique cultural experience.",
+      "subtype": "Storytelling Parks",
+      "address": "Mamba Point, Monrovia, Liberia",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1518022718115-410ce9c20a9a",
+      "tags": [
+        "folklore",
+        "culture",
+        "narrative"
+      ]
+    },
+    {
+      "id": "LIB-ST-002",
+      "name": "Palm Tree Story Circle",
+      "short_description": "An open-air venue nestled under towering palm trees, where local griots and storytellers share traditional Liberian legends and moral tales.",
+      "subtype": "Storytelling Parks",
+      "address": "Benson Street, Monrovia, Liberia",
+      "opening_hours": "11:00-16:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1517721867169-d41a87752e5a",
+      "tags": [
+        "traditional",
+        "oral history",
+        "community"
+      ]
+    },
+    {
+      "id": "LIB-ST-003",
+      "name": "Legends of the Mano River",
+      "short_description": "Discover the mythical creatures and heroic sagas inspired by the Mano River region. Interactive exhibits and animated displays recount ancient tales.",
+      "subtype": "Storytelling Parks",
+      "address": "Old Road, Sinkor, Monrovia, Liberia",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1598075308696-61329c0b11cf",
+      "tags": [
+        "myths",
+        "adventure stories",
+        "interactive"
+      ]
+    },
+    {
+      "id": "LIB-ST-004",
+      "name": "Journey of the 'Returnees' Park",
+      "short_description": "A historical storytelling park chronicling the journey and settlement of the Americo-Liberians, featuring educational plaques, reenactments, and historical figures.",
+      "subtype": "Storytelling Parks",
+      "address": "Broad Street, Monrovia, Liberia",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533139855513-8d63657df630",
+      "tags": [
+        "history",
+        "settlement",
+        "Liberian heritage"
+      ]
+    },
+    {
+      "id": "LIB-AQ-001",
+      "name": "Jungle Explorer Maze",
+      "short_description": "Navigate a thrilling maze filled with lush greenery, rope bridges, and hidden clues. Solve puzzles to find your way out and become a jungle master.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Gardnersville Road, Monrovia, Liberia",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517039014164-96cf418721c4",
+      "tags": [
+        "maze",
+        "exploration",
+        "puzzles"
+      ]
+    },
+    {
+      "id": "LIB-AQ-002",
+      "name": "Diamond Mine Quest",
+      "short_description": "Embark on a themed escape room adventure set in a simulated diamond mine. Work together to solve riddles, find hidden gems, and escape before time runs out!",
+      "subtype": "Adventure & Quest Games",
+      "address": "Oldest Congau Town, Monrovia, Liberia",
+      "opening_hours": "12:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522869158021-321303126f30",
+      "tags": [
+        "escape room",
+        "treasure hunt",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "LIB-AQ-003",
+      "name": "Pirate's Cove Challenge",
+      "short_description": "A water-based adventure park featuring climbing nets, splash zones, and an obstacle course. Kids can pretend to be pirates searching for lost treasure.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Kendeja Beach Road, Paynesville, Liberia",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1599818815183-b7899f848c41",
+      "tags": [
+        "water play",
+        "climbing",
+        "adventure"
+      ]
+    },
+    {
+      "id": "LIB-AQ-004",
+      "name": "Mount Nimba Ascent",
+      "short_description": "An indoor climbing facility designed for children, offering various wall challenges and bouldering routes. Experience the thrill of scaling a mountain safely.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Duport Road, Paynesville, Montserrado County, Liberia",
+      "opening_hours": "11:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1588661706689-e13768e1694d",
+      "tags": [
+        "climbing",
+        "physical challenge",
+        "indoors"
+      ]
+    },
+    {
+      "id": "LIB-MSA-001",
+      "name": "Young Lone Star Field",
+      "short_description": "A dedicated mini soccer pitch for children to practice their skills, play friendly matches, and learn the fundamentals of Liberia's favorite sport.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Vamoma House Area, Monrovia, Liberia",
+      "opening_hours": "08:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1574627065091-a1288c42a08f",
+      "tags": [
+        "soccer",
+        "football",
+        "sports"
+      ]
+    },
+    {
+      "id": "LIB-MSA-002",
+      "name": "Beach Volley Kids Zone",
+      "short_description": "Sandy courts perfect for children to enjoy beach volleyball, build sandcastles, and participate in other beach-themed games in a safe environment.",
+      "subtype": "Mini Sports Arenas",
+      "address": "ELWA Beach, Paynesville, Liberia",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1589487213459-00155b1f662a",
+      "tags": [
+        "volleyball",
+        "beach games",
+        "sand"
+      ]
+    },
+    {
+      "id": "LIB-MSA-003",
+      "name": "Hoop Dreams Junior",
+      "short_description": "Mini basketball courts with adjustable hoops, designed for young enthusiasts to practice shooting, dribbling, and playing the game of basketball.",
+      "subtype": "Mini Sports Arenas",
+      "address": "S.D. Cooper Road, Old Road, Monrovia, Liberia",
+      "opening_hours": "09:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628172911140-5b23d9a103d3",
+      "tags": [
+        "basketball",
+        "hoops",
+        "sports training"
+      ]
+    },
+    {
+      "id": "LIB-MSA-004",
+      "name": "Track & Field Tykes",
+      "short_description": "A small, safe track and field area where children can try various athletic activities like sprinting, long jump, and mini hurdles, fostering a love for sports.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Caldwell Road, Monrovia, Liberia",
+      "opening_hours": "08:30-17:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1579361309865-c35967ee2763",
+      "tags": [
+        "athletics",
+        "running",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "LIB-DP-001",
+      "name": "Liberian Dino Discovery",
+      "short_description": "Step back in time to an age of giants! This park features life-sized animatronic dinosaurs, fossil digging sites, and educational exhibits about prehistoric life.",
+      "subtype": "Dinosaur Parks",
+      "address": "Paynesville City, Montserrado County, Liberia",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1559825442-f67f62d4e738",
+      "tags": [
+        "dinosaurs",
+        "animatronics",
+        "fossils"
+      ]
+    },
+    {
+      "id": "LIB-DP-002",
+      "name": "Jurassic Jungle Safari",
+      "short_description": "Take a thrilling guided tour through a simulated jungle, encountering realistic dinosaur models hidden among the foliage. An immersive adventure for all ages.",
+      "subtype": "Dinosaur Parks",
+      "address": "Robertsfield Highway, Margibi County, Liberia",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1628169601004-bb50f1469077",
+      "tags": [
+        "safari",
+        "immersive",
+        "prehistoric"
+      ]
+    },
+    {
+      "id": "LIB-DP-003",
+      "name": "Prehistoric River Monsters",
+      "short_description": "Focuses on ancient aquatic creatures and marine dinosaurs that once roamed Earth's waters. Features impressive models and interactive displays.",
+      "subtype": "Dinosaur Parks",
+      "address": "New Georgia Estate, Monrovia, Liberia",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579738128965-081e285d1e43",
+      "tags": [
+        "marine dinosaurs",
+        "aquatic life",
+        "ancient history"
+      ]
+    },
+    {
+      "id": "LIB-DP-004",
+      "name": "Pangea Playland",
+      "short_description": "A dinosaur-themed playground with slides, climbing structures, and interactive elements. Kids can play alongside friendly dinosaur figures.",
+      "subtype": "Dinosaur Parks",
+      "address": "Paynesville Central, Monrovia, Liberia",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1587848243603-67c30f40d7c0",
+      "tags": [
+        "playground",
+        "dinosaur theme",
+        "fun"
+      ]
+    },
+    {
+      "id": "LIB-ZZ-001",
+      "name": "Monrovia Children's Zoo",
+      "short_description": "A small, friendly zoo featuring local Liberian wildlife and a few exotic species. Designed for young visitors to learn about animals and conservation.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Tubman Boulevard, Sinkor, Monrovia, Liberia",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522069165741-26c9f28c2c52",
+      "tags": [
+        "animals",
+        "wildlife",
+        "education"
+      ]
+    },
+    {
+      "id": "LIB-ZZ-002",
+      "name": "Farm Friends Petting Zoo",
+      "short_description": "Get up close with friendly farm animals like goats, sheep, and chickens. Children can feed and interact with the animals in a safe, supervised environment.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Old Road, Paynesville, Montserrado County, Liberia",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563827471842-bc054179339e",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "interaction"
+      ]
+    },
+    {
+      "id": "LIB-ZZ-003",
+      "name": "Rainforest Rescuers Habitat",
+      "short_description": "A sanctuary for rescued and rehabilitated local rainforest animals. Learn about biodiversity and the importance of protecting Liberia's natural heritage.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Gbarnga Highway, Bong County, Liberia",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579178972175-6e44b8b64e83",
+      "tags": [
+        "rescue center",
+        "rainforest",
+        "conservation"
+      ]
+    },
+    {
+      "id": "LIB-ZZ-004",
+      "name": "Critter Corner Liberia",
+      "short_description": "An indoor exhibit showcasing smaller, unique creatures from Liberia and beyond, offering educational talks and supervised handling sessions.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Mataldi Estate, Monrovia, Liberia",
+      "opening_hours": "11:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510471206109-f836528d264f",
+      "tags": [
+        "small animals",
+        "exotic pets",
+        "interactive"
+      ]
+    },
+    {
+      "id": "LIB-CMG-001",
+      "name": "Afro-Toon Heroes Hall",
+      "short_description": "Meet and greet your favorite local cartoon characters and superheroes! Enjoy interactive shows, photo opportunities, and exclusive merchandise.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Randall Street, Monrovia, Liberia",
+      "opening_hours": "12:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1516035069371-877db99bb713",
+      "tags": [
+        "characters",
+        "local heroes",
+        "photo ops"
+      ]
+    },
+    {
+      "id": "LIB-CMG-002",
+      "name": "Fantasy Forest Friends",
+      "short_description": "Step into an enchanted forest where magical creatures and beloved cartoon characters come to life for hugs, stories, and unforgettable encounters.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Bushrod Island, Monrovia, Liberia",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1560946023-c917ee965f57",
+      "tags": [
+        "fantasy",
+        "mascots",
+        "imagination"
+      ]
+    },
+    {
+      "id": "LIB-CMG-003",
+      "name": "Superhero HQ Liberia",
+      "short_description": "Train with your favorite international superheroes, participate in fun challenges, and get awesome photos. Unleash your inner hero!",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Paynesville Omega Community, Montserrado County, Liberia",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1581456484196-0f855d494966",
+      "tags": [
+        "superheroes",
+        "costume characters",
+        "adventure"
+      ]
+    },
+    {
+      "id": "LIB-CMG-004",
+      "name": "Princess Palace Pop-Up",
+      "short_description": "A magical experience where children can meet their favorite princesses, enjoy storytelling, sing-alongs, and dress-up sessions.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Hotel Africa Road, Monrovia, Liberia",
+      "opening_hours": "13:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582294191060-3129487c093a",
+      "tags": [
+        "princesses",
+        "fairytale",
+        "dress-up"
+      ]
+    },
+    {
+      "id": "LIB-AR-001",
+      "name": "Joyful Journey Carousel",
+      "short_description": "A classic merry-go-round with beautifully painted horses and whimsical creatures, offering a delightful and gentle ride for young children.",
+      "subtype": "Amusement Rides",
+      "address": "Tubman Boulevard, Sinkor, Monrovia, Liberia",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596280456108-724d27e7f7b3",
+      "tags": [
+        "carousel",
+        "classic ride",
+        "gentle"
+      ]
+    },
+    {
+      "id": "LIB-AR-002",
+      "name": "Palm Grove Ferris Wheel",
+      "short_description": "A mini Ferris wheel offering panoramic views of the surrounding park and palm trees. A gentle thrill for younger visitors.",
+      "subtype": "Amusement Rides",
+      "address": "S.D. Cooper Road, Old Road, Monrovia, Liberia",
+      "opening_hours": "11:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621575775369-04b3a4a2b3b7",
+      "tags": [
+        "Ferris wheel",
+        "views",
+        "family ride"
+      ]
+    },
+    {
+      "id": "LIB-AR-003",
+      "name": "Congo River Rapids Ride",
+      "short_description": "A gentle water ride that simulates a journey down a river, complete with splashes and mild twists. Perfect for cooling down on a warm day.",
+      "subtype": "Amusement Rides",
+      "address": "ELWA Junction, Paynesville, Liberia",
+      "opening_hours": "10:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522770245645-a7b5399581a5",
+      "tags": [
+        "water ride",
+        "rapids",
+        "thrill"
+      ]
+    },
+    {
+      "id": "LIB-AR-004",
+      "name": "Miniature Train Express",
+      "short_description": "All aboard for a scenic ride! This miniature train takes children and parents on a charming journey around the park, spotting various attractions.",
+      "subtype": "Amusement Rides",
+      "address": "GSA Road, Paynesville, Montserrado County, Liberia",
+      "opening_hours": "09:30-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1586548777931-50e567705118",
+      "tags": [
+        "train ride",
+        "scenic",
+        "park tour"
+      ]
+    },
+    {
+      "id": "LIB-CPT-001",
+      "name": "Liberia Little Big Top",
+      "short_description": "A vibrant, animal-free circus showcasing talented acrobats, clowns, jugglers, and illusionists, bringing joy and wonder to all ages.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Sinkor Airfield, Monrovia, Liberia",
+      "opening_hours": "14:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1521747116042-5a810fda9664",
+      "tags": [
+        "circus",
+        "acrobatics",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "LIB-CPT-002",
+      "name": "Kente Puppet Playhouse",
+      "short_description": "Experience the magic of traditional Liberian puppetry. Hand-crafted puppets tell engaging stories, often with moral lessons and cultural insights.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Camp Johnson Road, Monrovia, Liberia",
+      "opening_hours": "11:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510525008595-314ca6644f12",
+      "tags": [
+        "puppets",
+        "cultural",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "LIB-CPT-003",
+      "name": "Magic Lantern Theater",
+      "short_description": "A unique theater specializing in shadow puppetry and light shows, creating mesmerizing visual stories that captivate the imagination.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Broad Street, Monrovia, Liberia",
+      "opening_hours": "13:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579373903107-744040a5a306",
+      "tags": [
+        "shadow play",
+        "visual arts",
+        "magic"
+      ]
+    },
+    {
+      "id": "LIB-CPT-004",
+      "name": "The Jester's Jamboree",
+      "short_description": "An interactive performance space featuring comedic acts, juggling, magic tricks, and audience participation, ensuring laughter and fun for all.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Carey Street, Monrovia, Liberia",
+      "opening_hours": "12:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1502479251834-3199f7962464",
+      "tags": [
+        "comedy",
+        "juggling",
+        "interactive show"
+      ]
+    },
+    {
+      "id": "LIB-LCP-001",
+      "name": "Build-It Blocks Bay",
+      "short_description": "A massive free-play area filled with countless LEGO bricks of all shapes and sizes. Kids can unleash their creativity and build anything they imagine.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Congo Town Back Road, Monrovia, Liberia",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1598428801968-fd280962d854",
+      "tags": [
+        "LEGO",
+        "building",
+        "creativity"
+      ]
+    },
+    {
+      "id": "LIB-LCP-002",
+      "name": "Master Builder Workshop",
+      "short_description": "Guided workshops where children learn advanced LEGO building techniques, participate in themed challenges, and even dabble in LEGO robotics.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Old Road, Sinkor, Monrovia, Liberia",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510531704581-5b7a946872a7",
+      "tags": [
+        "robotics",
+        "STEM",
+        "workshops"
+      ]
+    },
+    {
+      "id": "LIB-LCP-003",
+      "name": "Junior Architect's Yard",
+      "short_description": "An outdoor construction zone equipped with giant foam blocks, large wooden bricks, and soft play elements, perfect for toddlers and preschoolers to build big.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Duport Road, Paynesville, Montserrado County, Liberia",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517702813137-e54fce000f07",
+      "tags": [
+        "construction",
+        "soft play",
+        "toddlers"
+      ]
+    },
+    {
+      "id": "LIB-LCP-004",
+      "name": "Imagination City Lego",
+      "short_description": "Explore a miniature city built entirely from LEGO bricks, featuring famous Liberian landmarks alongside fantastical creations. Interactive displays and photo ops.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Tubman Boulevard, Congotown, Monrovia, Liberia",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582294247514-9276d1e44efb",
+      "tags": [
+        "Lego models",
+        "exhibition",
+        "miniature city"
+      ]
+    }
+  ]
+}

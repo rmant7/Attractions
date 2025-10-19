@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Lagos",
+    "city_id": "2457"
+  },
+  "items": [
+    {
+      "id": "LAG_NB_001",
+      "name": "Canopy Walkway Adventure at LCC",
+      "short_description": "Traverse Africa's longest canopy walkway at Lekki Conservation Centre for breathtaking aerial views amidst lush, unspoiled nature, perfect for unique perspectives.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Lekki Conservation Centre, Lekki Peninsula",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1669298285513-8fc6d482a578?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjY4OTd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature",
+        "adventure",
+        "canopy-walk"
+      ]
+    },
+    {
+      "id": "LAG_NB_002",
+      "name": "Lufasi Nature Park's Green Oasis",
+      "short_description": "Escape the city's hustle into the serene and expansive greenery of Lufasi Nature Park, offering tranquil trails and diverse flora for peaceful nature shots.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Lekki-Epe Expressway",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "park",
+        "greenery",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "LAG_NB_003",
+      "name": "Palm-Fringed Shores of Tarkwa Bay",
+      "short_description": "Discover this idyllic island beach accessible by boat, featuring swaying palm trees, golden sands, and the calming Atlantic Ocean for a tropical paradise backdrop.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Tarkwa Bay Island, Offshore Lagos Island",
+      "best_time": "Afternoon / Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tarkwa_bay_beach.jpg/1280px-Tarkwa_bay_beach.jpg",
+      "tags": [
+        "beach",
+        "tropical",
+        "ocean"
+      ]
+    },
+    {
+      "id": "LAG_NB_004",
+      "name": "Eleko Beach's Untamed Coastline",
+      "short_description": "Experience the rustic beauty of Eleko Beach, a less crowded spot where natural coastal landscapes and crashing waves provide a dramatic and serene natural backdrop.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Lekki-Epe Expressway",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1507525428034-b723cf96153e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjY5NjB8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coast",
+        "beach",
+        "wild"
+      ]
+    },
+    {
+      "id": "LAG_DD_001",
+      "name": "Ibeju-Lekki's Golden Sands Expanse",
+      "short_description": "Explore the vast, uninterrupted stretches of golden sand along the Ibeju-Lekki coastline, offering a dramatic, minimalist 'desert-like' landscape for unique photoshoots.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Ibeju-Lekki Axis",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1549488344-933612f0f4e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjcwMTN8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coastline",
+        "vast",
+        "sandy"
+      ]
+    },
+    {
+      "id": "LAG_DD_002",
+      "name": "Lighthouse Beach's Sandy Peaks",
+      "short_description": "Discover natural sand formations and expansive beachscapes near Lighthouse Beach, providing unique textures and contours that mimic subtle 'dunes' against the ocean backdrop.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Tarkwa Bay Vicinity",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/1619812/pexels-photo-1619812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "beach",
+        "textures",
+        "landscape"
+      ]
+    },
+    {
+      "id": "LAG_DD_003",
+      "name": "Eko Atlantic Foreshore's Open Sands",
+      "short_description": "The developing Eko Atlantic City foreshore presents vast, open sandy landscapes merging with the ocean, ideal for dramatic and minimalist compositions evoking a grand scale.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Victoria Island",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1510404495204-ed6d7a42b083?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjcxMjB8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "urbanbeach",
+        "minimalist",
+        "expanse"
+      ]
+    },
+    {
+      "id": "LAG_DD_004",
+      "name": "Badagry Coastline's Untouched Dunes",
+      "short_description": "Venture to the remote Badagry coastline to find secluded spots with natural sand accumulations and a wild, untouched feel, reminiscent of distant, soft dunes.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Badagry",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1579549301140-6294b0d009e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjcxNjF8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "secluded",
+        "wild",
+        "coastal"
+      ]
+    },
+    {
+      "id": "LAG_UHS_001",
+      "name": "Artistic Escapes at The Art Hotel",
+      "short_description": "Immerse yourself in a vibrant world of contemporary African art and luxury at this boutique hotel, where every corner is a thoughtfully curated and photogenic masterpiece.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Victoria Island",
+      "best_time": "Day / Night",
+      "images": "https://images.unsplash.com/photo-1571004113524-2c2e0b503e2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjcyMjh8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "boutique",
+        "art",
+        "luxury"
+      ]
+    },
+    {
+      "id": "LAG_UHS_002",
+      "name": "Private Beach Paradise at Casa Ilashe",
+      "short_description": "Discover an exclusive and serene beach resort, accessible only by boat, offering stunning villas, lush gardens, and a truly unique, private escape from the city's bustle.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Ilashe Island",
+      "best_time": "Day / Sunset",
+      "images": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "resort",
+        "beach",
+        "exclusive"
+      ]
+    },
+    {
+      "id": "LAG_UHS_003",
+      "name": "Elegant Opulence at The Wheatbaker",
+      "short_description": "Indulge in sophisticated luxury and admire a curated collection of Nigerian art within this acclaimed boutique hotel, offering refined aesthetics and a tranquil ambiance.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Ikoyi",
+      "best_time": "Afternoon / Night",
+      "images": "https://images.unsplash.com/photo-1578683010236-d7168c31130d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjcyNTB8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "luxury",
+        "boutique",
+        "design"
+      ]
+    },
+    {
+      "id": "LAG_UHS_004",
+      "name": "Iconic Waterfront Grandeur at Eko Hotel",
+      "short_description": "Capture the grandeur of Lagos's most iconic hotel, boasting multiple towers, diverse pools, and panoramic views of the Atlantic Ocean and the vibrant city skyline.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Victoria Island",
+      "best_time": "Sunset / Night",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Eko_Hotel_and_Suite_in_Victoria_Island_Lagos.jpg/1280px-Eko_Hotel_and_Suite_in_Victoria_Island_Lagos.jpg",
+      "tags": [
+        "landmark",
+        "hotel",
+        "skyline"
+      ]
+    },
+    {
+      "id": "LAG_BO_001",
+      "name": "Architectural Elegance of Lekki-Ikoyi Link Bridge",
+      "short_description": "This visually stunning cable-stayed bridge offers sleek lines and modern design, perfect for dynamic shots, especially when lit up at dawn or dusk.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Between Lekki Phase 1 and Ikoyi",
+      "best_time": "Morning / Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lekki_Ikoyi_Link_Bridge_01.jpg/1280px-Lekki_Ikoyi_Link_Bridge_01.jpg",
+      "tags": [
+        "modern",
+        "architecture",
+        "bridge"
+      ]
+    },
+    {
+      "id": "LAG_BO_002",
+      "name": "Majestic Views from Third Mainland Bridge",
+      "short_description": "As one of Africa's longest bridges, it provides sweeping panoramic views of the Lagos Lagoon, the sprawling city skyline, and bustling waterways.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Lagos Lagoon",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1621644783321-4d1e2e1c9e8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "landmark",
+        "lagoon",
+        "skyline"
+      ]
+    },
+    {
+      "id": "LAG_BO_003",
+      "name": "Historic Carter Bridge Panorama",
+      "short_description": "Capture the historic charm of Carter Bridge, offering unique perspectives of Lagos Island, bustling markets, and the vibrant life along the waterfront.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Lagos Island / Mainland",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Carter_bridge.jpg/1280px-Carter_bridge.jpg",
+      "tags": [
+        "historic",
+        "waterfront",
+        "cityscape"
+      ]
+    },
+    {
+      "id": "LAG_BO_004",
+      "name": "Sky-High Overlook at Atmosphere Rooftop",
+      "short_description": "Enjoy breathtaking 360-degree views of the Lagos skyline, Victoria Island, and the Atlantic Ocean from this chic rooftop bar and restaurant.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "The Lennox Mall, Lekki",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1549419163-f254b11f7e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjczNDF8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "rooftop",
+        "skyline",
+        "views"
+      ]
+    },
+    {
+      "id": "LAG_CN_001",
+      "name": "Vibrant Hues of Makoko Floating Community",
+      "short_description": "Discover the unique charm of this bustling floating community, where houses on stilts are painted in bright colors against the serene lagoon backdrop, a truly unique sight.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Yaba",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Makoko_Canal.jpg/1280px-Makoko_Canal.jpg",
+      "tags": [
+        "community",
+        "waterfront",
+        "unique"
+      ]
+    },
+    {
+      "id": "LAG_CN_002",
+      "name": "Kaleidoscope of Culture at Balogun Market",
+      "short_description": "Immerse yourself in the vibrant energy and endless colors of Lagos's most famous textile market, a sensory explosion of fabrics, goods, and lively street life.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Lagos Island",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1622359560447-d3527b13a3b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjczODR8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "market",
+        "textiles",
+        "culture"
+      ]
+    },
+    {
+      "id": "LAG_CN_003",
+      "name": "Colonial Charm of Broad Street",
+      "short_description": "Wander through the historic Broad Street, adorned with colonial-era buildings painted in various shades, showcasing a rich blend of history and vibrant city life.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Lagos Island",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Old_Colonial_Building_in_Broad_Street_Lagos.jpg/1280px-Old_Colonial_Building_in_Broad_Street_Lagos.jpg",
+      "tags": [
+        "colonial",
+        "historic",
+        "streetscape"
+      ]
+    },
+    {
+      "id": "LAG_CN_004",
+      "name": "Artistic Vibrance at Nike Art Gallery",
+      "short_description": "Step into a world of indigenous and contemporary African art, where the gallery's vibrant exterior and colorful artworks provide endless photographic inspiration.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Lekki",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nike_Art_Gallery_1.jpg/1280px-Nike_Art_Gallery_1.jpg",
+      "tags": [
+        "art",
+        "gallery",
+        "culture"
+      ]
+    },
+    {
+      "id": "LAG_MA_001",
+      "name": "Futuristic Skylines of Eko Atlantic City",
+      "short_description": "Witness the emergence of a new city, boasting modern skyscrapers, ambitious urban planning, and a futuristic landscape against the backdrop of the Atlantic Ocean.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Victoria Island",
+      "best_time": "Sunset / Night",
+      "images": "https://images.unsplash.com/photo-1541014522923-4e4f7e2c9f5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjczOTB8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "urban",
+        "development",
+        "futuristic"
+      ]
+    },
+    {
+      "id": "LAG_MA_002",
+      "name": "Landmark Towers' Sleek Design",
+      "short_description": "Capture the stunning contemporary architecture of Landmark Towers, a prominent feature on the Lagos coastline, reflecting modernity and innovation with its striking facade.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Victoria Island",
+      "best_time": "Afternoon / Sunset",
+      "images": "https://images.pexels.com/photos/1036814/pexels-photo-1036814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "skyscraper",
+        "glass",
+        "minimalist"
+      ]
+    },
+    {
+      "id": "LAG_MA_003",
+      "name": "Heritage Place's Reflective Glass Facade",
+      "short_description": "Admire the striking, reflective glass facade of Heritage Place, a symbol of modern corporate architecture nestled in the heart of Lagos's bustling business district.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Ikoyi",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1502920514313-52581002a659?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjczOTh8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "corporate",
+        "glass",
+        "urban"
+      ]
+    },
+    {
+      "id": "LAG_MA_004",
+      "name": "Alliance Française's Architectural Marvel",
+      "short_description": "This cultural center, also known as Mike Adenuga Centre, showcases a beautifully designed, contemporary building with geometric patterns and inviting spaces for architectural enthusiasts.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Ikoyi",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alliance_Francaise_at_Mike_Adenuga_Centre_in_Ikoyi%2C_Lagos.jpg/1280px-Alliance_Francaise_at_Mike_Adenuga_Centre_in_Ikoyi%2C_Lagos.jpg",
+      "tags": [
+        "cultural",
+        "geometric",
+        "design"
+      ]
+    },
+    {
+      "id": "LAG_FDS_001",
+      "name": "Afro-Chic Delights at Nok by Alara",
+      "short_description": "Experience contemporary African cuisine in a beautifully designed space that blends art, nature, and exquisite flavors, making every dish and corner a masterpiece for your feed.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Victoria Island",
+      "best_time": "Afternoon / Night",
+      "images": "https://images.unsplash.com/photo-1514933651105-0646ef315340?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjczNTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fine-dining",
+        "african",
+        "design"
+      ]
+    },
+    {
+      "id": "LAG_FDS_002",
+      "name": "Trendy Tastes at Circa Nonpareil",
+      "short_description": "A popular spot known for its vibrant ambiance, delicious international menu, and chic, modern interiors that provide a stylish backdrop for your culinary photos and gatherings.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Lekki Phase 1",
+      "best_time": "Afternoon / Night",
+      "images": "https://images.pexels.com/photos/3324683/pexels-photo-3324683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "trendy",
+        "international",
+        "ambiance"
+      ]
+    },
+    {
+      "id": "LAG_FDS_003",
+      "name": "Asian Elegance at Shiro Restaurant & Bar",
+      "short_description": "Indulge in an exquisite Asian fusion experience within a luxurious setting, featuring captivating decor and artfully presented dishes perfect for sophisticated foodies.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Victoria Island",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1555561073-2e0f8c2b7e1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjczNzZ8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "asian",
+        "luxury",
+        "fusion"
+      ]
+    },
+    {
+      "id": "LAG_FDS_004",
+      "name": "Rock 'n' Roll Vibes at Hard Rock Cafe Lagos",
+      "short_description": "Enjoy classic American fare and vibrant live music in a globally recognized setting filled with iconic music memorabilia, perfect for a lively and energetic photo op.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Victoria Island",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1549410190-2527410887e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjczNDF8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lively",
+        "music",
+        "casual"
+      ]
+    },
+    {
+      "id": "LAG_IP_001",
+      "name": "Sky-High Dips at The Art Hotel Rooftop Pool",
+      "short_description": "Enjoy a refreshing swim in this elegant rooftop pool, offering captivating panoramic views of the Lagos skyline, ideal for striking urban-chic photos and sunset relaxation.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Victoria Island",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1502680390460-cf006ee72023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjY3NjZ8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "rooftop",
+        "pool",
+        "skyline"
+      ]
+    },
+    {
+      "id": "LAG_IP_002",
+      "name": "Lagoon Views from Radisson Blu Anchorage Pool",
+      "short_description": "Relax by the stunning outdoor pool that overlooks the bustling Lagos Lagoon, offering a serene escape and beautiful backdrop for your poolside moments and city views.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Victoria Island",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/1769374/pexels-photo-1769374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "hotel",
+        "lagoon",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "LAG_IP_003",
+      "name": "Opulent Oasis at Eko Signature Pool",
+      "short_description": "Immerse yourself in the grandeur of Eko Hotel's Signature pool area, offering luxurious design and serene waters for a glamorous swim and photogenic resort experience.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Victoria Island",
+      "best_time": "Day",
+      "images": "https://images.unsplash.com/photo-1563911302-a24687807755?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjY3NjJ8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "luxury",
+        "resort",
+        "swimming"
+      ]
+    },
+    {
+      "id": "LAG_IP_004",
+      "name": "Tranquil Waters at Clear Essence California Spa Pool",
+      "short_description": "Discover a peaceful retreat at this resort's beautifully landscaped pool area, designed for ultimate relaxation and photogenic tranquility amidst lush, natural surroundings.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Ikoyi",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1574482813295-a8867a5b3d00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjY2OTd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "spa",
+        "retreat",
+        "garden"
+      ]
+    },
+    {
+      "id": "LAG_HA_001",
+      "name": "Echoes of History at Freedom Park",
+      "short_description": "Explore this former colonial prison, now a vibrant arts and recreation center, showcasing historic structures, open-air stages, and monuments that narrate Nigeria's story.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Lagos Island",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Freedom_Park%2C_Lagos.jpg/1280px-Freedom_Park%2C_Lagos.jpg",
+      "tags": [
+        "heritage",
+        "colonial",
+        "arts"
+      ]
+    },
+    {
+      "id": "LAG_HA_002",
+      "name": "Brazilian Quarter's Unique Afro-Brazilian Houses",
+      "short_description": "Wander through this historic district on Lagos Island, admiring the distinctive Afro-Brazilian architecture with its intricate facades and vibrant past, especially around Kakawa Street.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Lagos Island (e.g., Kakawa Street)",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Waterhouse_on_kakawa_street_Lagos.jpg/1280px-Waterhouse_on_kakawa_street_Lagos.jpg",
+      "tags": [
+        "colonial",
+        "brazilian",
+        "cultural"
+      ]
+    },
+    {
+      "id": "LAG_HA_003",
+      "name": "Architectural Heritage of National Museum Lagos",
+      "short_description": "Discover the striking mid-century architecture of the National Museum, a landmark structure that houses a vast collection of Nigerian art and historical artifacts.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Onikan, Lagos Island",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/National_Museum_Lagos.jpg/1280px-National_Museum_Lagos.jpg",
+      "tags": [
+        "museum",
+        "culture",
+        "history"
+      ]
+    },
+    {
+      "id": "LAG_HA_004",
+      "name": "Royal Grandeur of Oba's Palace (Iga Idunganran)",
+      "short_description": "Witness the historic seat of the Oba of Lagos, a blend of traditional Yoruba and colonial architectural influences, representing centuries of royal heritage and power (exterior views are often most accessible).",
+      "subtype": "Historic Architecture",
+      "location_hint": "Lagos Island",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oba%27s_Palace_%28Iga_Idunganran%29_in_Lagos.jpg/1280px-Oba_N%27s_Palace_%28Iga_Idunganran%29_in_Lagos.jpg",
+      "tags": [
+        "royal",
+        "yotuba",
+        "palace"
+      ]
+    },
+    {
+      "id": "LAG_ISP_001",
+      "name": "Freedom Park's Spiraling Ascent",
+      "short_description": "Climb the dramatic black spiral staircase within Freedom Park, offering a fantastic architectural photo opportunity and a unique perspective of the vibrant cultural space.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Lagos Island",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549419163-f254b11f7e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjczNDF8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "spiral",
+        "architecture",
+        "historic"
+      ]
+    },
+    {
+      "id": "LAG_ISP_002",
+      "name": "Artistic Path to Nike Art Gallery",
+      "short_description": "The colorful and creatively adorned pathway leading to the Nike Art Gallery makes for an iconic entrance, setting the tone for the artistic journey within before you even step inside.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Lekki",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549410190-2527410887e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjczNDF8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "art",
+        "entrance",
+        "pathway"
+      ]
+    },
+    {
+      "id": "LAG_ISP_003",
+      "name": "Majestic Steps of National Museum Lagos",
+      "short_description": "Capture the grandeur of the wide, imposing steps leading up to the National Museum, a classic architectural element perfect for stately and reflective photographs.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Onikan, Lagos Island",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1590629767228-093551532f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NjczNzZ8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "museum",
+        "entrance",
+        "grand"
+      ]
+    },
+    {
+      "id": "LAG_ISP_004",
+      "name": "Eko Atlantic Marina Promenade",
+      "short_description": "Stroll along the sleek, modern pathways of the Eko Atlantic Marina, offering stunning waterfront views and an urban-chic backdrop perfect for contemporary lifestyle shots.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Victoria Island",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/1036814/pexels-photo-1036814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "tags": [
+        "waterfront",
+        "modern",
+        "promenade"
+      ]
+    }
+  ]
+}

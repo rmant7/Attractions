@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Nosara",
+    "city_id": "2471"
+  },
+  "items": [
+    {
+      "id": "NosaraPuppetParade",
+      "name": "Jungle Friends Puppet Parade",
+      "short_description": "A whimsical outdoor puppet show featuring local wildlife characters, often seen strolling through popular Nosara areas. Interactive and engaging for all ages.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Various locations, often near Playa Guiones main entrance",
+      "opening_hours": "16:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1542898993-9c8e9b418a09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxwdXBwZXQlMjBhcnRpcyUyMGtpZHN8ZW58MHx8fHwxNzE3OTA3NjQ3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "outdoor",
+        "storytelling",
+        "free"
+      ]
+    },
+    {
+      "id": "ShadowPlayDen",
+      "name": "Nosara Shadow Play Den",
+      "short_description": "Step into a magical world of light and shadows, where kids can create their own stories using puppets and projections. Workshops available to craft unique characters.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Ruta 160, across from Super Nosara",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596707324424-9b5edc3848b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxzY2hpbGRyZW4lMjBzaGFkb3clMjBwdXBwZXRzfGVufDB8fHx8fDE3MTc5MDc3NDJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "indoor",
+        "creative",
+        "workshops"
+      ]
+    },
+    {
+      "id": "TicoCircusCamp",
+      "name": "Tico Tropical Circus Camp",
+      "short_description": "A seasonal mini-circus camp offering aerial silks, juggling, and clowning for kids. Culminates in a charming, small-scale performance for families.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Near Bodhi Tree Yoga Resort, Guiones Norte",
+      "opening_hours": "09:00-13:00 (seasonal)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1614949504624-954f9a0662d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMGFlcmlhbCUyMHNpbGtzfGVufDB8fHx8fDE3MTc5MDc3OTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "seasonal",
+        "active",
+        "performance"
+      ]
+    },
+    {
+      "id": "NosaraStoryPuppets",
+      "name": "Nosara Folk Tale Puppet Show",
+      "short_description": "Experience local folklore through beautifully crafted traditional puppets. Shows are held in an intimate outdoor setting, perfect for younger audiences.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Pura Vida Mini Golf, Playa Guiones",
+      "opening_hours": "17:30-18:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1601614769062-89582d977e2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxmb2xrJTIwdGFsZSUyMHB1cHBldHN8ZW58MHx8fHwxNzE3OTA3ODcyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cultural",
+        "outdoor",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "ReefDiscoveryCenter",
+      "name": "Guiones Reef Discovery Center",
+      "short_description": "A small, educational center showcasing the vibrant marine life found in the Nosara reefs. Features local fish, corals, and interactive exhibits on ocean conservation.",
+      "subtype": "Aquariums",
+      "address": "Main Street, Playa Guiones",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620743826017-91a5665476a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxtYXJpbmUlMjBzY2llbmNlJTIwY2VudGVyfGVufDB8fHx8fDE3MTc5MDc5MzV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marine life",
+        "educational",
+        "conservation"
+      ]
+    },
+    {
+      "id": "MangroveExplorer",
+      "name": "Nosara Mangrove Explorer Lab",
+      "short_description": "Dedicated to the unique ecosystem of the Nosara mangroves, this lab has tanks with juvenile fish, crabs, and other creatures found in the estuary. Offers guided tours.",
+      "subtype": "Aquariums",
+      "address": "Near Nosara River mouth, Playa Pelada",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627916531478-f716911624fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxtYW5ncm92ZSUyMGVjb3N5c3RlbXxlbnwwfHx8fDE3MTc5MDgwODZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mangroves",
+        "ecology",
+        "guided tours"
+      ]
+    },
+    {
+      "id": "TurtleRescueTanks",
+      "name": "Ostional Turtle Rescue Viewing Tanks",
+      "short_description": "A small facility affiliated with the Ostional Wildlife Refuge, providing a temporary home for injured sea turtles. Visitors can observe turtles in rehabilitation tanks.",
+      "subtype": "Aquariums",
+      "address": "Road to Ostional, outside Nosara",
+      "opening_hours": "11:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1509315570072-03e051381333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxzZWElMjB0dXJ0bGUlMjByZXNjdWV8ZW58MHx8fHwxNzE3OTA4MTMyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sea turtles",
+        "wildlife rescue",
+        "conservation"
+      ]
+    },
+    {
+      "id": "PacificTouchPools",
+      "name": "Pacific Tide Pool Touch Exhibit",
+      "short_description": "Interactive touch pools allow children to safely explore starfish, sea urchins, and other small marine creatures typically found in local tide pools. Educational staff on hand.",
+      "subtype": "Aquariums",
+      "address": "Near Playa Guiones North, next to the surf school",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549487771-872f232c253d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHx0aWRlJTIwcG9vbCUyMGtpZHN8ZW58MHx8fHwxNzE3OTA4MTc3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "interactive",
+        "marine life",
+        "tide pools"
+      ]
+    },
+    {
+      "id": "NosaraSkateBowl",
+      "name": "Nosara Mini Skate Bowl",
+      "short_description": "A small but well-designed concrete skate bowl perfect for kids learning to skateboard or scooter. Offers beginner lessons and open sessions.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Behind 'Olas Verdes Hotel', Playa Guiones",
+      "opening_hours": "08:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1601053158489-408d66052723?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxiaWdpbm5lciUyMHNrYXRlYm93bHxlbnwwfHx8fDE3MTc5MDgyMjV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "skateboarding",
+        "active",
+        "lessons"
+      ]
+    },
+    {
+      "id": "JungleMiniGolf",
+      "name": "Jungle Adventure Mini Golf",
+      "short_description": "An 18-hole mini-golf course with a fun, jungle theme. Navigate through waterfalls, bridges, and local animal statues. Fun for the whole family.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Ruta 160, near Gilded Iguana",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627931327170-07fc1e23924f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxtaW5pZ29sZiUyMGtpbmdsZSUyMHRoZW1lfGVufDB8fHx8fDE3MTc5MDgyNzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mini-golf",
+        "family-friendly",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "NosaraNinjaKids",
+      "name": "Nosara Little Ninja Kids Course",
+      "short_description": "A scaled-down outdoor obstacle course designed for children to challenge their agility, strength, and balance. Supervision and safety equipment provided.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Behind 'Harmony Hotel', Guiones Beach",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1589334758832-7ed4a7428f52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxtaW5pJTIwbmluamElMjBvYnN0YWNsZSUyMGNvdXJzZXxlbnwwfHx8fDE3MTc5MDgzNTR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "obstacle course",
+        "active",
+        "fitness"
+      ]
+    },
+    {
+      "id": "BeachSportsZone",
+      "name": "Nosara Beach Sports Zone",
+      "short_description": "Dedicated public courts for kids' beach volleyball and soccer, located right on the sand. Often has informal games and pick-up matches for all skill levels.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Playa Guiones, near the main surf break",
+      "opening_hours": "07:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1616790930773-1991873fb2a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxiaGVhY2glMjBzb2NjZXIlMjBraWRzfGVufDB8fHx8fDE3MTc5MDgzOTR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "beach sports",
+        "outdoor",
+        "free"
+      ]
+    },
+    {
+      "id": "CanopyCoaster",
+      "name": "Jungle Canopy Coaster",
+      "short_description": "A unique, gentle zip-line roller coaster hybrid that winds through the jungle canopy. Safe and thrilling for older kids and adventurous younger ones.",
+      "subtype": "Amusement Rides",
+      "address": "Road to Ostional, beyond the main Nosara strip",
+      "opening_hours": "09:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1601737722744-9343ee065e94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHx6aXAlMjBsaW5lJTIwa2lkc3xlbnwwfHx8fDE3MTc5MDk3NTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "thrill",
+        "outdoor",
+        "canopy"
+      ]
+    },
+    {
+      "id": "MiniJungleTrain",
+      "name": "Nosara Mini Jungle Train",
+      "short_description": "A charming miniature train ride that takes children on a scenic loop through a recreated jungle environment, spotting animal statues along the way.",
+      "subtype": "Amusement Rides",
+      "address": "Near 'La Banana' Restaurant, Guiones Norte",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596707324424-9b5edc3848b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxtaW5pYXR1cmUlMjBqdW5nbGUlMjB0cmFpbnxlbnwwfHx8fDE3MTc5MDk4MDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "gentle ride",
+        "scenic",
+        "train"
+      ]
+    },
+    {
+      "id": "NosaraSplashdown",
+      "name": "Nosara Splashdown Water Slide",
+      "short_description": "A single, exhilarating water slide with a small splash pool, perfect for cooling off on a hot day. Simple fun for all ages, supervised for safety.",
+      "subtype": "Amusement Rides",
+      "address": "Behind the 'Super Express' market, Nosara Town",
+      "opening_hours": "11:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1603517226227-d648b704c7c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxraWRzJTIwd2F0ZXIlMjBzbGlkZXxlbnwwfHx8fDE3MTc5MDk4NTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water ride",
+        "summer",
+        "fun"
+      ]
+    },
+    {
+      "id": "SunsetCarousel",
+      "name": "Sunset Beach Carousel",
+      "short_description": "A charming, classic carousel with beautifully painted jungle animals, situated close to the beach for magical sunset rides. Operates seasonally.",
+      "subtype": "Amusement Rides",
+      "address": "Playa Pelada beachfront (seasonal location)",
+      "opening_hours": "17:00-20:00 (seasonal)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579737156942-e19c36ce8755?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxjYXJvdXNlbCUyMGJld2F0JTIwYW5pbWFsc3xlbnwwfHx8fDE3MTc5MDk5MTR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "classic ride",
+        "seasonal",
+        "evening"
+      ]
+    },
+    {
+      "id": "PirateTreasureQuest",
+      "name": "The Lost Pirate Treasure Quest",
+      "short_description": "An interactive outdoor treasure hunt on Playa Guiones, where teams follow clues and solve puzzles to find the 'lost treasure'. Great for group play.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Playa Guiones, meeting point near lifeguard tower",
+      "opening_hours": "09:00-12:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506544777595-654a9d701f40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxraWRzJTIwdHJlYXN1cmUlMjBodW50fGVufDB8fHx8fDE3MTc5MTEwNzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "outdoor",
+        "team game",
+        "mystery"
+      ]
+    },
+    {
+      "id": "MonkeyForestPuzzle",
+      "name": "Nosara Monkey Forest Puzzle Trail",
+      "short_description": "A guided nature walk through a private reserve with challenges and riddles to solve, learning about the jungle and its inhabitants. Spot real monkeys!",
+      "subtype": "Adventure & Quest Games",
+      "address": "Private reserve near Hotel Lagarta Lodge",
+      "opening_hours": "08:30-11:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1599388145100-34d6e9874c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxqdW5nbGUlMjBhZHZlbnR1cmUlMjBraWRzfGVufDB8fHx8fDE3MTc5MTExNDh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature",
+        "educational",
+        "guided"
+      ]
+    },
+    {
+      "id": "SurfCampEscape",
+      "name": "The 'Surf Camp Secret' Escape Room",
+      "short_description": "An indoor escape room themed around finding a legendary surf spot. Teams must solve puzzles and find clues within a limited time to 'escape' with the secret.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Plaza Guiones, above the surf shop",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558000551-736b47c617b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxlc2NhcGUlMjByb29tJTIwa2lkc3xlbnwwfHx8fDE3MTc5MTExOTV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "indoor",
+        "puzzle",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "BioLuminescentQuest",
+      "name": "Bioluminescent Beach Night Quest",
+      "short_description": "A magical evening adventure to discover the bioluminescent plankton near Nosara. Guides lead a gentle quest to learn about this natural phenomenon.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Meeting point at Playa Pelada parking (seasonal)",
+      "opening_hours": "19:00-21:00 (seasonal)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1579782574514-998971f49619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxiaW9sdW1pbmVzY2VudCUyMGFsc2FlfGVufDB8fHx8fDE3MTc5MTEyOTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "night adventure",
+        "nature",
+        "seasonal"
+      ]
+    },
+    {
+      "id": "NosaraTreehousePark",
+      "name": "Nosara Treehouse Adventure Park",
+      "short_description": "A multi-level playground built around natural trees, featuring swings, slides, climbing nets, and observation decks. Designed with sustainable materials.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Near the Nosara Yoga Institute, Guiones",
+      "opening_hours": "08:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628178652317-a16f849641d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHx0cmVlaG91c2UlMjBwbGF5Z3JvdW5kfGVufDB8fHx8fDE3MTc5MTEzMzF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "outdoor",
+        "climbing",
+        "nature-themed"
+      ]
+    },
+    {
+      "id": "EcoDiscoveryPlay",
+      "name": "Eco-Discovery Playground",
+      "short_description": "An eco-friendly playground with wooden structures, a sandpit, and creative play zones encouraging connection with nature. Free access, community-maintained.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Community Center Park, Nosara Town",
+      "opening_hours": "07:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1563851502476-c567a57a80b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxlY28lMjBwbGF5Z3JvdW5kJTIwa2lkc3xlbnwwfHx8fDE3MTc5MTEzODM2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "community",
+        "free",
+        "natural materials"
+      ]
+    },
+    {
+      "id": "SurfSplashPark",
+      "name": "Surfside Splash & Play Park",
+      "short_description": "A combination water splash pad and traditional playground, perfect for younger children to cool off and play. Shaded areas available for parents.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Near 'The Bodhi Tree', Guiones",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627916531478-f716911624fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxzcGxhc2glMjBwYWQlMjBraWRzfGVufDB8fHx8fDE3MTc5MTE0MjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "water play",
+        "playground",
+        "shaded"
+      ]
+    },
+    {
+      "id": "JungleGymExplorer",
+      "name": "Jungle Gym Explorer Zone",
+      "short_description": "A challenging multi-structure jungle gym with bridges, tunnels, and a climbing wall designed for active kids to burn energy and develop motor skills.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Across from 'K'DOGZ' restaurant, Guiones",
+      "opening_hours": "08:30-19:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579737156942-e19c36ce8755?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxqdW5nbGUlMjBneW0lMjBraWRzfGVufDB8fHx8fDE3MTc5MTE0NjV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "active",
+        "climbing",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "NosaraWildlifeRescue",
+      "name": "Nosara Wildlife Rescue & Education Center",
+      "short_description": "A respected wildlife rescue center that rehabilitates injured animals. Offers limited public viewing of some non-releasable residents and educational talks.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Ruta 160, near the Nosara River bridge",
+      "opening_hours": "10:00-14:00 (daily talks)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1625907474447-068305417df8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHx3aWxkbGlmZSUyMHJlc2N1ZSUyMHRlbnRlcnxlbnwwfHx8fDE3MTc5MTE1MjN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "educational"
+      ]
+    },
+    {
+      "id": "MiniFincaPetting",
+      "name": "Mini Finca Petting Zoo",
+      "short_description": "A charming small farm where children can interact with friendly farm animals like goats, chickens, and miniature horses. Hand-feeding opportunities available.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Behind 'Super La Paloma', Nosara Town",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1546765798-250325f69089?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxwZXR0aW5nJTIwem9vJTIwZ29hdHN8ZW58MHx8fHwxNzE3OTExNTgyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "farm animals",
+        "interactive",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": "ButterflyAviary",
+      "name": "Nosara Butterfly Garden & Aviary",
+      "short_description": "Walk through an enclosed garden filled with a vibrant array of local butterflies and colorful tropical birds. Learn about their life cycles and habitats.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Next to 'Hotel Santa Teresa', Playa Pelada",
+      "opening_hours": "09:30-15:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1635399587440-272ec8579979?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxidXR0ZXJmbHklMjBhdmFyeXxlbnwwfHx8fDE3MTc5MTE2MjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "butterflies",
+        "birds",
+        "nature"
+      ]
+    },
+    {
+      "id": "SlothSanctuaryWalk",
+      "name": "Nosara Sloth Sanctuary Guided Walk",
+      "short_description": "A unique opportunity for a guided walk through a protected area known for its resident sloths. Observe these gentle creatures in their natural habitat from a distance.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Road to San Juanillo (specific meeting point given)",
+      "opening_hours": "07:00-10:00 (guided tours only)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596707324424-9b5edc3848b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxzbG90aCUyMHdhbGt8ZW58MHx8fHwxNzE3OTExNjcyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sloths",
+        "wildlife viewing",
+        "guided"
+      ]
+    },
+    {
+      "id": "TropicalSoftPlay",
+      "name": "Tropical Tumble Soft Play Zone",
+      "short_description": "A multi-level indoor soft play area with slides, ball pits, and climbing structures, providing a safe and stimulating environment for young children to play.",
+      "subtype": "Indoor Play Centers",
+      "address": "Plaza Guiones, next to the bank",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522045585573-0d3221e56b46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxzb2Z0JTIwcGxheSUyMGtpbmdzJTIwYmFsbCUyMHBpdHxlbnwwfHx8fDE3MTc5MTE3MjN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "soft play",
+        "indoor",
+        "toddlers"
+      ]
+    },
+    {
+      "id": "NosaraArtLab",
+      "name": "Nosara Kids' Art & Craft Lab",
+      "short_description": "An indoor space dedicated to creative expression through various art mediums. Offers drop-in sessions for painting, clay, and craft projects, perfect for rainy days.",
+      "subtype": "Indoor Play Centers",
+      "address": "Ruta 160, across from 'Organico Market'",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1590209618171-889b7d5668ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxpbmRvb3IlMjBhcnQlMjBhY3Rpdml0eSUyMGNoaWxkcmVufGVufDB8fHx8fDE3MTc5MTE3NjZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "art",
+        "crafts",
+        "rainy day"
+      ]
+    },
+    {
+      "id": "JungleArcade",
+      "name": "Jungle Games Arcade & Laser Tag",
+      "short_description": "An indoor entertainment center with classic arcade games, redemption games, and a small laser tag arena. Fun for older children and teens.",
+      "subtype": "Indoor Play Centers",
+      "address": "Near 'La Pulperia', Guiones",
+      "opening_hours": "12:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1593348123286-9a25b2f15919?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxpbmRvb3IlMjBhcmNhZGUlMjBsYXNlciUyMHRhZ3xlbnwwfHx8fDE3MTc5MTE4MDd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "arcade",
+        "laser tag",
+        "older kids"
+      ]
+    },
+    {
+      "id": "BounceHouseFiesta",
+      "name": "Bounce House Fiesta",
+      "short_description": "A spacious indoor facility filled with inflatable bounce houses, obstacle courses, and slides. Perfect for energetic kids to jump and play, especially on hot days.",
+      "subtype": "Indoor Play Centers",
+      "address": "Behind 'Nosara Pizza', Nosara Town",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620248408103-6d9b04753086?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxpbmRvb3IlMjBib3VuY2UlMjBob3VzZXxlbnwwfHx8fDE3MTc5MTE4NDh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "inflatables",
+        "active",
+        "indoor"
+      ]
+    },
+    {
+      "id": "NosaraEcoMuseum",
+      "name": "Nosara Eco-Discovery Museum",
+      "short_description": "An interactive children's museum focused on the unique ecology of Nosara and Guanacaste. Exhibits cover marine life, jungle animals, and sustainable living.",
+      "subtype": "Children’s Museums",
+      "address": "Plaza Guiones, second floor",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1587320072049-ec7f41b44917?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMGVjb2xvZ3klMjBtdXNldW18ZW58MHx8fHwxNzE3OTEyNDkwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "educational",
+        "ecology",
+        "interactive"
+      ]
+    },
+    {
+      "id": "TicoKidsCulture",
+      "name": "Tico Kids Culture & Art Studio",
+      "short_description": "A hands-on museum where children explore Costa Rican culture through traditional crafts, music, dance, and storytelling. Offers workshops and open creative play.",
+      "subtype": "Children’s Museums",
+      "address": "Near 'La Bodega', Nosara Town",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1584443653139-4d6d671f2514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMGN1bHR1cmUlMjBtdXNldW18ZW58MHx8fHwxNzE3OTEyNTI3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cultural",
+        "art",
+        "workshops"
+      ]
+    },
+    {
+      "id": "LittleSurferScience",
+      "name": "Little Surfers' Science & Wave Lab",
+      "short_description": "This museum explores the science behind surfing and waves, marine biology, and ocean physics through interactive experiments and exhibits for aspiring young surfers.",
+      "subtype": "Children’s Museums",
+      "address": "Playa Guiones, above a surf school",
+      "opening_hours": "09:30-15:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621360156965-06a65522ee60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxlbWlzdHlhcnklMjBjaGlsZHJlbnMlMjBtdXNldW18ZW58MHx8fHwxNzE3OTEyNjE1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "science",
+        "surfing",
+        "marine life"
+      ]
+    },
+    {
+      "id": "InnovatorsWorkshop",
+      "name": "Nosara Young Innovators' Workshop",
+      "short_description": "A hands-on discovery center focused on STEM (Science, Technology, Engineering, Math) with build stations, coding games, and simple robotics for creative learning.",
+      "subtype": "Children’s Museums",
+      "address": "Ruta 160, near the gas station",
+      "opening_hours": "10:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1533726743907-7f09f0863038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxzY2hpbGRyZW4lMjBzdGVtJTIwbXVzZXVtfGVufDB8fHx8fDE3MTc5MTI2NjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "STEM",
+        "building",
+        "innovation"
+      ]
+    },
+    {
+      "id": "HaciendaGuiones",
+      "name": "Hacienda Guiones Farm Tour",
+      "short_description": "A working family farm offering guided tours where children can learn about tropical fruit cultivation, coffee processing, and traditional farming methods. Includes tasting.",
+      "subtype": "Farm Attractions",
+      "address": "Hacienda Guiones, off Ruta 160 before Nosara",
+      "opening_hours": "08:00-12:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1544417726-2580c85c2c7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxtcmlnaWRlbiUyMGZhcm0lMjB0b3VyfGVufDB8fHx8fDE3MTc5MTI3MTJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "farm tour",
+        "educational",
+        "tasting"
+      ]
+    },
+    {
+      "id": "RanchoPeladaHorses",
+      "name": "Rancho Pelada Horseback Riding",
+      "short_description": "Enjoy guided horseback rides along the beach and jungle trails. Friendly horses and experienced guides make it safe and fun for children of all riding levels.",
+      "subtype": "Farm Attractions",
+      "address": "Playa Pelada, near the river mouth",
+      "opening_hours": "07:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1605374467362-e935414d3392?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxob3JzZWJhY2slMjByaWRpbmclMjBraWRzfGVufDB8fHx8fDE3MTc5MTI3NTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "horse riding",
+        "outdoor",
+        "beach"
+      ]
+    },
+    {
+      "id": "DairyExperience",
+      "name": "Nosara Dairy & Cheese Making Experience",
+      "short_description": "Visit a small local dairy farm to learn about cow milking and artisanal cheese making. Kids can try their hand at basic tasks and sample fresh products.",
+      "subtype": "Farm Attractions",
+      "address": "On the road to Garza, outside Nosara",
+      "opening_hours": "09:00-11:00 (reservations required)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582235940562-eb7e82f76326?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHxpYWlyeSUyMGZhcm0lMjBraWRzfGVufDB8fHx8fDE3MTc5MTI3OTl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "dairy",
+        "food production",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "TropicalFruitHarvest",
+      "name": "Tropical Fruit Picking Adventure",
+      "short_description": "A seasonal attraction allowing families to visit an orchard and pick their own fresh, organic tropical fruits like mangoes, starfruit, and papayas.",
+      "subtype": "Farm Attractions",
+      "address": "Orchard near Finca Austria, Nosara",
+      "opening_hours": "08:00-12:00 (seasonal)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1594966779402-d9f75d507119?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NjYyMTl8MHwxfHNlYXJjaHwxfHx0cm9waWNhbCUyMGZydWl0JTIwcGlja2luZ3xlbnwwfHx8fDE3MTc5MTI4NDZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fruit picking",
+        "seasonal",
+        "organic"
+      ]
+    }
+  ]
+}

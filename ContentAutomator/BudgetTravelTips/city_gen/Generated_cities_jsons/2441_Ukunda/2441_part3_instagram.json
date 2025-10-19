@@ -1,0 +1,555 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Ukunda",
+    "city_id": "2441"
+  },
+  "items": [
+    {
+      "id": "UkuCI001",
+      "name": "Kaya Kinondo Sacred Forest Museum",
+      "short_description": "Explore the rich history and traditions of the Digo people at this interpretive center, a gateway to the ancient Kaya Kinondo forest.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Near Kaya Kinondo Sacred Forest, Diani",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596707323114-1f4a43a8b4b7",
+      "tags": [
+        "history",
+        "Digo culture",
+        "sacred site"
+      ]
+    },
+    {
+      "id": "UkuCI002",
+      "name": "Ukunda Heritage Village Display",
+      "short_description": "A vibrant display of traditional Swahili and Mijikenda artifacts, showcasing the local way of life through art and historical items.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Ukunda Town Center",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/8372338/pexels-photo-8372338.jpeg",
+      "tags": [
+        "local art",
+        "Swahili heritage",
+        "community"
+      ]
+    },
+    {
+      "id": "UkuCI003",
+      "name": "Diani Cultural Arts Centre",
+      "short_description": "Immerse yourself in local craftsmanship with rotating exhibitions of paintings, sculptures, and traditional textiles by Ukunda artists.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Diani Beach Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1558299668-385217462a6b",
+      "tags": [
+        "art gallery",
+        "local artists",
+        "crafts"
+      ]
+    },
+    {
+      "id": "UkuCI004",
+      "name": "Chale Island Ancestral Shrine",
+      "short_description": "A secluded, spiritual site on Chale Island, offering a glimpse into the mystical beliefs and history of the coastal communities.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Chale Island",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549887754-08a8a6d1a603",
+      "tags": [
+        "spiritual",
+        "island life",
+        "ancient ritual"
+      ]
+    },
+    {
+      "id": "UkuSAM001",
+      "name": "Diani Coastal Life Murals",
+      "short_description": "Vibrant murals adorning walls along Diani Beach Road, depicting marine life, local fishermen, and the colorful essence of coastal Kenya.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Diani Beach Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1506543949987-df50949d0124",
+      "tags": [
+        "urban art",
+        "marine themes",
+        "community art"
+      ]
+    },
+    {
+      "id": "UkuSAM002",
+      "name": "Ukunda Market District Walls",
+      "short_description": "Discover hidden gems of street art tucked away in the lively alleys around Ukunda Market, portraying daily life and local stories.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Ukunda Main Market area",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/1760463/pexels-photo-1760463.jpeg",
+      "tags": [
+        "market art",
+        "local scenes",
+        "urban exploration"
+      ]
+    },
+    {
+      "id": "UkuSAM003",
+      "name": "Galu Beach Village Art Wall",
+      "short_description": "A collaborative art project by Galu Beach residents, featuring bright murals that reflect their serene coastal lifestyle and traditions.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Galu Beach Village",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563200922-3a32b00f72d5",
+      "tags": [
+        "village art",
+        "coastal life",
+        "community project"
+      ]
+    },
+    {
+      "id": "UkuSAM004",
+      "name": "Colobus Conservation Youth Murals",
+      "short_description": "Engaging and educational murals painted by local youth at the Colobus Conservation Centre, promoting wildlife protection.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Colobus Conservation Centre",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/3474744/pexels-photo-3474744.jpeg",
+      "tags": [
+        "wildlife art",
+        "conservation",
+        "educational"
+      ]
+    },
+    {
+      "id": "UkuBO001",
+      "name": "Diani Beach Cliff Viewpoint",
+      "short_description": "Perched on a low cliff, this spot offers breathtaking panoramic views of Diani's expansive white sands and the turquoise Indian Ocean.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Southern end of Diani Beach",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1547702677-2cf3b0b6e680",
+      "tags": [
+        "ocean view",
+        "sunset spot",
+        "coastal cliff"
+      ]
+    },
+    {
+      "id": "UkuBO002",
+      "name": "Mwachema River Mouth Bridge",
+      "short_description": "A picturesque bridge offering views of the Mwachema River winding its way to meet the Indian Ocean, often dotted with local fishing boats.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near Diani Beach South",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/2085733/pexels-photo-2085733.jpeg",
+      "tags": [
+        "river view",
+        "fishing boats",
+        "estuary"
+      ]
+    },
+    {
+      "id": "UkuBO003",
+      "name": "Shimba Hills Forest Canopy Overlook",
+      "short_description": "An elevated viewpoint providing stunning vistas of the lush Shimba Hills National Reserve, famous for its elephants and diverse wildlife.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Shimba Hills National Reserve (accessible from Ukunda)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1616853927653-ff513229b35b",
+      "tags": [
+        "forest view",
+        "wildlife",
+        "safari access"
+      ]
+    },
+    {
+      "id": "UkuBO004",
+      "name": "Galu Beach Tidal Lagoon Crossing",
+      "short_description": "A charming, rustic wooden bridge spanning a tidal lagoon at Galu Beach, perfect for a serene stroll and capturing tranquil coastal scenes.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Galu Beach",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/10326070/pexels-photo-10326070.jpeg",
+      "tags": [
+        "beach walk",
+        "wooden bridge",
+        "lagoon view"
+      ]
+    },
+    {
+      "id": "UkuCN001",
+      "name": "Ukunda Old Town Lanes",
+      "short_description": "Wander through the narrow, bustling lanes of Ukunda's old town, where vibrant fabrics, local produce, and smiling faces create a lively atmosphere.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Ukunda Town Center",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596707323114-1f4a43a8b4b7",
+      "tags": [
+        "local life",
+        "street photography",
+        "authentic experience"
+      ]
+    },
+    {
+      "id": "UkuCN002",
+      "name": "Diani Beach Fishing Village",
+      "short_description": "Experience the authentic charm of a local fishing village with colorful dhows, busy fishermen, and homes painted in bright hues against the ocean backdrop.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Near Diani Beach South",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/18485601/pexels-photo-18485601.jpeg",
+      "tags": [
+        "fishing community",
+        "coastal culture",
+        "vibrant boats"
+      ]
+    },
+    {
+      "id": "UkuCN003",
+      "name": "Galu Beach Coastal Settlement",
+      "short_description": "A picturesque cluster of homes along Galu Beach, characterized by their simple architecture and often brightly painted facades, reflecting the relaxed pace of life.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Galu Beach",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1506543949987-df50949d0124",
+      "tags": [
+        "beach homes",
+        "quaint village",
+        "coastal charm"
+      ]
+    },
+    {
+      "id": "UkuCN004",
+      "name": "Ukunda Market Square",
+      "short_description": "The vibrant heart of Ukunda, where colorful stalls overflow with fresh produce, spices, and textiles, creating a sensory feast for visitors.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Ukunda Main Market",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/4597379/pexels-photo-4597379.jpeg",
+      "tags": [
+        "market life",
+        "bustling",
+        "local produce"
+      ]
+    },
+    {
+      "id": "UkuUHS001",
+      "name": "The Sands at Chale Island Resort",
+      "short_description": "An eco-chic resort set on a private island, offering unique Swahili-inspired architecture, stilt bungalows, and pristine beaches.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Chale Island (accessible by boat from Ukunda)",
+      "best_time": "All Day",
+      "images": "https://images.unsplash.com/photo-1610641887149-a6873528b7e2",
+      "tags": [
+        "private island",
+        "luxury resort",
+        "eco-friendly"
+      ]
+    },
+    {
+      "id": "UkuUHS002",
+      "name": "Diani Treehouses",
+      "short_description": "Sleep among the canopies in these unique, elevated treehouse accommodations, blending rustic charm with modern comforts for an immersive nature experience.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Diani Beach, near Colobus Conservation",
+      "best_time": "All Day",
+      "images": "https://images.unsplash.com/photo-1602447998634-118c7c980f7d",
+      "tags": [
+        "eco-lodge",
+        "nature stay",
+        "unique architecture"
+      ]
+    },
+    {
+      "id": "UkuUHS003",
+      "name": "AfroChic Diani Beach Boutique Hotel",
+      "short_description": "A stylish and intimate beachfront retreat known for its personalized service, exquisite decor, and stunning ocean views.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Diani Beach North",
+      "best_time": "All Day",
+      "images": "https://images.pexels.com/photos/1579739/pexels-photo-1579739.jpeg",
+      "tags": [
+        "boutique hotel",
+        "luxury escape",
+        "beachfront"
+      ]
+    },
+    {
+      "id": "UkuUHS004",
+      "name": "Kinondo Kwetu Eco-Lodge",
+      "short_description": "A secluded and authentic family-run eco-lodge offering rustic elegance, incredible Swahili hospitality, and direct access to a pristine private beach.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Kinondo Beach, South of Diani",
+      "best_time": "All Day",
+      "images": "https://images.unsplash.com/photo-1549887754-08a8a6d1a603",
+      "tags": [
+        "secluded lodge",
+        "authentic",
+        "private beach"
+      ]
+    },
+    {
+      "id": "UkuFFG001",
+      "name": "Colobus Conservation Gardens",
+      "short_description": "Lush, well-maintained gardens surrounding the conservation center, featuring indigenous plants and flowers that attract local wildlife.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Colobus Conservation Centre, Diani",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1524334228308-b8ad8a34d075",
+      "tags": [
+        "botanical garden",
+        "wildlife friendly",
+        "tropical plants"
+      ]
+    },
+    {
+      "id": "UkuFFG002",
+      "name": "Diani Beach Resort Botanical Grounds",
+      "short_description": "Many resorts along Diani Beach boast extensive botanical gardens, vibrant with tropical flowers, towering palms, and fragrant shrubs.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Various Diani Beach Resorts",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/4099468/pexels-photo-4099468.jpeg",
+      "tags": [
+        "resort gardens",
+        "tropical flowers",
+        "palm trees"
+      ]
+    },
+    {
+      "id": "UkuFFG003",
+      "name": "Kinondo Village Herb & Spice Gardens",
+      "short_description": "Discover traditional Swahili herb and spice gardens in Kinondo Village, where aromatic plants are cultivated for culinary and medicinal uses.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Kinondo Village",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1510414930-b99f807274ba",
+      "tags": [
+        "herb garden",
+        "spices",
+        "local agriculture"
+      ]
+    },
+    {
+      "id": "UkuFFG004",
+      "name": "Ukunda Tropical Flower Nursery",
+      "short_description": "A local nursery showcasing an array of exotic tropical flowers and plants, a burst of color and fragrance in Ukunda.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Ukunda outskirts",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/10183181/pexels-photo-10183181.jpeg",
+      "tags": [
+        "flower nursery",
+        "exotic flora",
+        "garden inspiration"
+      ]
+    },
+    {
+      "id": "UkuMB001",
+      "name": "Ukunda Main Market",
+      "short_description": "The bustling heart of Ukunda, this vibrant market offers everything from fresh produce and spices to colorful fabrics and local crafts.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Ukunda Town Center",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596707323114-1f4a43a8b4b7",
+      "tags": [
+        "local market",
+        "fresh produce",
+        "cultural immersion"
+      ]
+    },
+    {
+      "id": "UkuMB002",
+      "name": "Diani Beach Craft Bazaar",
+      "short_description": "A vibrant collection of stalls along Diani Beach, perfect for finding unique handcrafted souvenirs, local artwork, and intricate carvings.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Diani Beach Road",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/5619375/pexels-photo-5619375.jpeg",
+      "tags": [
+        "crafts",
+        "souvenirs",
+        "artisan goods"
+      ]
+    },
+    {
+      "id": "UkuMB003",
+      "name": "Galu Beach Daily Fish Market",
+      "short_description": "Experience the authentic daily catch at Galu Beach, where fishermen bring in fresh seafood, providing a lively glimpse into local life.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Galu Beach",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1587560599299-1a0e08f8f047",
+      "tags": [
+        "fish market",
+        "fresh seafood",
+        "local experience"
+      ]
+    },
+    {
+      "id": "UkuMB004",
+      "name": "Ukunda Spice & Textile Stalls",
+      "short_description": "A sensory delight within Ukunda Market, dedicated to vibrant textiles, fragrant spices, and a wide array of local herbs.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Ukunda Main Market",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/4597379/pexels-photo-4597379.jpeg",
+      "tags": [
+        "spices",
+        "textiles",
+        "aromatic"
+      ]
+    },
+    {
+      "id": "UkuISP001",
+      "name": "Ali Barbour's Cave Restaurant Descent",
+      "short_description": "Descend a series of rustic stone steps into the magical ambiance of Ali Barbour's Cave Restaurant, a truly unique dining experience.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Diani Beach South",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1579782520336-b7e8d2e82f5b",
+      "tags": [
+        "cave dining",
+        "unique experience",
+        "atmospheric"
+      ]
+    },
+    {
+      "id": "UkuISP002",
+      "name": "Kaya Kinondo Sacred Forest Trails",
+      "short_description": "Wander along ancient, winding paths through the sacred Kaya Kinondo forest, feeling the spiritual presence of its towering trees.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Kaya Kinondo Sacred Forest, Diani",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/10326070/pexels-photo-10326070.jpeg",
+      "tags": [
+        "forest path",
+        "sacred site",
+        "nature walk"
+      ]
+    },
+    {
+      "id": "UkuISP003",
+      "name": "Chale Island Mangrove Boardwalk",
+      "short_description": "A picturesque wooden boardwalk winding through dense mangrove forests on Chale Island, offering unique views of marine life and birds.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Chale Island",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549887754-08a8a6d1a603",
+      "tags": [
+        "mangrove walk",
+        "island exploration",
+        "birdwatching"
+      ]
+    },
+    {
+      "id": "UkuISP004",
+      "name": "Diani Beach Oceanfront Boardwalk",
+      "short_description": "Enjoy a leisurely stroll along a charming wooden boardwalk that skirts parts of Diani Beach, offering stunning ocean vistas and access to beachfront establishments.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Various sections of Diani Beach",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/2085733/pexels-photo-2085733.jpeg",
+      "tags": [
+        "beach walk",
+        "coastal path",
+        "scenic stroll"
+      ]
+    },
+    {
+      "id": "UkuUNW001",
+      "name": "Ali Barbour's Coral Cave",
+      "short_description": "A natural coral cave, millions of years old, transformed into an atmospheric restaurant, offering a truly unique geological and dining experience.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Diani Beach South",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1579782520336-b7e8d2e82f5b",
+      "tags": [
+        "natural cave",
+        "geological wonder",
+        "unique dining"
+      ]
+    },
+    {
+      "id": "UkuUNW002",
+      "name": "Kaya Kinondo Sacred Forest",
+      "short_description": "An ancient coastal forest, a UNESCO World Heritage site, revered by the Digo people for its spiritual significance and unique biodiversity.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Diani Beach",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kaya_Kinondo_Sacred_Forest.jpg/1280px-Kaya_Kinondo_Sacred_Forest.jpg",
+      "tags": [
+        "sacred forest",
+        "UNESCO site",
+        "biodiversity"
+      ]
+    },
+    {
+      "id": "UkuUNW003",
+      "name": "Chale Island Tidal Sandbanks",
+      "short_description": "Witness the mesmerizing appearance of pristine sandbanks emerging from the turquoise waters around Chale Island during low tide, perfect for exploring.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Chale Island",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549887754-08a8a6d1a603",
+      "tags": [
+        "tidal phenomenon",
+        "island beauty",
+        "sandbanks"
+      ]
+    },
+    {
+      "id": "UkuUNW004",
+      "name": "Diani Beach Coral Gardens",
+      "short_description": "Explore vibrant underwater coral gardens just offshore from Diani Beach, teeming with colorful marine life, ideal for snorkeling and diving.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Diani Beach marine park area",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/1089302/pexels-photo-1089302.jpeg",
+      "tags": [
+        "coral reef",
+        "snorkeling",
+        "marine life"
+      ]
+    },
+    {
+      "id": "UkuIL001",
+      "name": "Diani Beach",
+      "short_description": "Renowned worldwide for its pristine white sands, swaying palm trees, and clear turquoise waters, Diani Beach is the jewel of Kenya's coast.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Diani Beach",
+      "best_time": "All Day",
+      "images": "https://images.unsplash.com/photo-1506543949987-df50949d0124",
+      "tags": [
+        "world-famous beach",
+        "tropical paradise",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "UkuIL002",
+      "name": "Colobus Conservation Centre",
+      "short_description": "A vital wildlife sanctuary dedicated to the protection of the rare Angolan colobus monkey and other primates, offering educational tours.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Diani Beach",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/1792671/pexels-photo-1792671.jpeg",
+      "tags": [
+        "wildlife sanctuary",
+        "conservation",
+        "primates"
+      ]
+    },
+    {
+      "id": "UkuIL003",
+      "name": "Chale Island",
+      "short_description": "A stunning private island just off the coast of Ukunda, known for its untouched natural beauty, lush mangrove forests, and unique tidal phenomena.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Off Ukunda Coast (accessible by boat)",
+      "best_time": "All Day",
+      "images": "https://images.unsplash.com/photo-1610641887149-a6873528b7e2",
+      "tags": [
+        "private island",
+        "natural beauty",
+        "eco-tourism"
+      ]
+    }
+  ]
+}

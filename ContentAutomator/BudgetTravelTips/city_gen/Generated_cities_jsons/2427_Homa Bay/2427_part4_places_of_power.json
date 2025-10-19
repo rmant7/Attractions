@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Homa Bay",
+    "city_id": "2427"
+  },
+  "items": [
+    {
+      "id": "HB_SF_001",
+      "name": "Kanyamwa Ancestral Grove",
+      "short_description": "A dense indigenous forest revered as the resting place of community elders and a site for ancestral communication. It's believed to be a source of profound healing and guidance.",
+      "subtype": "Sacred Forests",
+      "address": "Near Kanyamwa Hills, Ndhiwa Sub-county, Homa Bay",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rainforest_at_Budongo_Forest%2C_Uganda.jpg/1280px-Rainforest_at_Budongo_Forest%2C_Uganda.jpg",
+      "tags": [
+        "ancestral worship",
+        "healing",
+        "nature sanctuary"
+      ]
+    },
+    {
+      "id": "HB_SF_002",
+      "name": "Got Kabondo Sacred Woods",
+      "short_description": "Perched on the slopes of Got Kabondo, this forest is central to rain-making ceremonies and blessings for fertile harvests. Its ancient trees are considered living spirits.",
+      "subtype": "Sacred Forests",
+      "address": "Got Kabondo Slopes, Kabondo Kasipul, Homa Bay",
+      "visiting_hours": "07:30-16:30",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1601004863584-6385a4f781ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "rainmaking",
+        "fertility rites",
+        "indigenous trees"
+      ]
+    },
+    {
+      "id": "HB_SF_003",
+      "name": "Simbi Nyaima's Protective Thicket",
+      "short_description": "Surrounding the mystical Lake Simbi Nyaima, this small but potent thicket is believed to protect the lake's sacred powers. Locals perform rituals here to seek harmony and ward off misfortune.",
+      "subtype": "Sacred Forests",
+      "address": "Lake Simbi Nyaima Shore, Karachuonyo, Homa Bay",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "KES 100",
+      "images": "https://images.unsplash.com/photo-1620958189518-ff352ffb6239?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "mythical lake",
+        "protection rituals",
+        "local lore"
+      ]
+    },
+    {
+      "id": "HB_SF_004",
+      "name": "Gwassi Hill's High Forest",
+      "short_description": "At the peak of Gwassi Hills, this forest holds deep spiritual significance for the Suba people. It is a site for initiation rites and communing with nature spirits for wisdom.",
+      "subtype": "Sacred Forests",
+      "address": "Upper Gwassi Hills, Suba South, Homa Bay",
+      "visiting_hours": "06:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549487779-1bf4b1979b18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "initiation rites",
+        "Suba culture",
+        "wisdom seeking"
+      ]
+    },
+    {
+      "id": "HB_CS_001",
+      "name": "Nyamgonde Cave of Whispers",
+      "short_description": "A revered cave believed to be a direct channel to ancestral spirits. Visitors often come here to seek guidance and leave offerings, listening for the 'whispers' of the past.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Near Nyamgonde Village, Rangwe, Homa Bay",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1510257007684-2f22b826ff8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "ancestral spirits",
+        "guidance",
+        "offerings"
+      ]
+    },
+    {
+      "id": "HB_CS_002",
+      "name": "Mwagi's Rock Sanctuary",
+      "short_description": "An open-air rock formation carved by nature, used for generations as a sanctuary for healing rituals and community blessings. Its unique acoustics enhance spiritual ceremonies.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Mwagi Hills, Mbita Town, Homa Bay",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620023605632-f3f1e941199a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "healing rituals",
+        "blessings",
+        "natural formations"
+      ]
+    },
+    {
+      "id": "HB_CS_003",
+      "name": "Rusinga Island Ancestral Cave",
+      "short_description": "A secluded cave on Rusinga Island, historically used for private meditations and vision quests by island elders. It offers a powerful sense of connection to ancient island wisdom.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Northern Rusinga Island, Mbita, Homa Bay",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "KES 150",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Cave_of_the_winds_Rusinga_Island.jpg",
+      "tags": [
+        "meditation",
+        "vision quest",
+        "island spirituality"
+      ]
+    },
+    {
+      "id": "HB_CS_004",
+      "name": "Got Ramogi's Shrine Cave",
+      "short_description": "Though primarily known for its mountain, a hidden cave within Got Ramogi serves as a sacred shrine where offerings are made to the spirit of Ramogi, the legendary ancestor of the Luo people.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Got Ramogi Slopes, Ndhiwa, Homa Bay",
+      "visiting_hours": "08:30-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1542385108-9993309a6042?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Luo ancestry",
+        "Ramogi spirit",
+        "hidden shrine"
+      ]
+    },
+    {
+      "id": "HB_OS_001",
+      "name": "Kisaka's Divination Rocks",
+      "short_description": "A cluster of uniquely shaped rocks where traditional diviners historically consulted spirits for community guidance and foresight. It's believed the stones still emanate prophetic energy.",
+      "subtype": "Oracle Sites",
+      "address": "Kisaka Area, Kasipul, Homa Bay",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579295551980-8b438f219747?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "divination",
+        "prophecy",
+        "traditional lore"
+      ]
+    },
+    {
+      "id": "HB_OS_002",
+      "name": "Nyatike Whispering Tree",
+      "short_description": "An ancient fig tree (Mugumo) where elders would gather to interpret the 'whispers' of the wind through its leaves, offering wisdom and warnings for the community's future.",
+      "subtype": "Oracle Sites",
+      "address": "Nyatike Plains, Suba North, Homa Bay",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Mugumo_tree_at_the_Mau_Mau_Freedom_Fighters%27_Shrine%2C_Chyulu_Hills.jpg",
+      "tags": [
+        "fig tree",
+        "community wisdom",
+        "ancient rituals"
+      ]
+    },
+    {
+      "id": "HB_OS_003",
+      "name": "Kodera Visionary Spring",
+      "short_description": "A natural spring whose shimmering waters were historically used for scrying and vision quests by spiritual seers. It's said to reveal glimpses of destiny to the pure of heart.",
+      "subtype": "Oracle Sites",
+      "address": "Kodera Forest Edge, Rachuonyo North, Homa Bay",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1620310237571-06180321287e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "scrying",
+        "vision quest",
+        "natural spring"
+      ]
+    },
+    {
+      "id": "HB_OS_004",
+      "name": "Gwasi Prophets' Peak",
+      "short_description": "A high vantage point on Gwassi Hills where ancient prophets would ascend to receive celestial messages and offer spiritual direction to the clans below. The views themselves inspire reverence.",
+      "subtype": "Oracle Sites",
+      "address": "Upper Gwassi Hills, Suba South, Homa Bay",
+      "visiting_hours": "06:00-15:00",
+      "entry_fee": "fixed amount (KES 250)",
+      "images": "https://images.unsplash.com/photo-1629891820610-d86161491746?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "prophetic visions",
+        "celestial messages",
+        "mountain views"
+      ]
+    },
+    {
+      "id": "HB_DPS_001",
+      "name": "Mfangano Island's Bare Stone",
+      "short_description": "A vast, exposed granite outcrop on Mfangano Island, believed to hold primal earth energy. It's a place for grounding, meditation, and connecting with the raw power of the land and lake.",
+      "subtype": "Desert Power Sites",
+      "address": "Central Mfangano Island, Mbita, Homa Bay",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579737190013-1dd776735a7b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "earth energy",
+        "grounding",
+        "island solitude"
+      ]
+    },
+    {
+      "id": "HB_DPS_002",
+      "name": "Wasweta Arid Plains",
+      "short_description": "A remote, sparsely vegetated plain near Lake Victoria, known for its intense stillness and a sense of ancient, untamed power. It's visited for deep introspection and spiritual cleansing.",
+      "subtype": "Desert Power Sites",
+      "address": "Wasweta Area, Ndhiwa, Homa Bay",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1543886561-bf96b7974464?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "introspection",
+        "cleansing",
+        "natural power"
+      ]
+    },
+    {
+      "id": "HB_DPS_003",
+      "name": "Sori Karungu Rocky Outcrop",
+      "short_description": "An imposing rock formation overlooking Sori Bay, revered for its raw, enduring energy. It's a place where communities gather for resilience rituals and to seek strength in adversity.",
+      "subtype": "Desert Power Sites",
+      "address": "Sori Karungu, Suba South, Homa Bay",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563720630567-9d628b577a83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "resilience",
+        "strength seeking",
+        "geological wonder"
+      ]
+    },
+    {
+      "id": "HB_DPS_004",
+      "name": "Remba Island's Windswept Shores",
+      "short_description": "The isolated, windswept shores of Remba Island are considered a potent site for purification and releasing old energies into the vastness of Lake Victoria. Its isolation fosters spiritual renewal.",
+      "subtype": "Desert Power Sites",
+      "address": "Remba Island, Mbita, Homa Bay",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "fixed amount (KES 300 - boat fee not included)",
+      "images": "https://images.unsplash.com/photo-1549216480-16f2c3b52d2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "purification",
+        "spiritual renewal",
+        "island solitude"
+      ]
+    },
+    {
+      "id": "HB_MEP_001",
+      "name": "Homa Bay Cathedral of Peace",
+      "short_description": "A vibrant modern cathedral known for its powerful sermons, contemporary gospel music, and active community outreach. It serves as a spiritual hub for many residents of Homa Bay town.",
+      "subtype": "Modern Energy Places",
+      "address": "Cathedral Rd, Homa Bay Town, Homa Bay",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1568478491180-2a406e40938f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Christianity",
+        "community worship",
+        "gospel music"
+      ]
+    },
+    {
+      "id": "HB_MEP_002",
+      "name": "Lake Victoria Interfaith Centre",
+      "short_description": "A newly established center promoting interfaith dialogue, peace, and shared spiritual practices among different religious communities in the region. It hosts workshops and meditation sessions.",
+      "subtype": "Modern Energy Places",
+      "address": "Off Kisumu-Homa Bay Rd, Near Kendu Bay, Homa Bay",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount (KES 500 for workshops)",
+      "images": "https://images.unsplash.com/photo-1510257007684-2f22b826ff8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "interfaith dialogue",
+        "peacebuilding",
+        "meditation"
+      ]
+    },
+    {
+      "id": "HB_MEP_003",
+      "name": "Divine Favour Ministry Tabernacle",
+      "short_description": "A thriving charismatic church known for its dynamic worship, prophetic ministry, and focus on personal transformation. It attracts a large youth following seeking spiritual empowerment.",
+      "subtype": "Modern Energy Places",
+      "address": "Tom Mboya Estate, Rongo, Homa Bay",
+      "visiting_hours": "Sundays 09:00-13:00, Weekdays 18:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1587560562545-2e635f7560e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "charismatic worship",
+        "youth ministry",
+        "spiritual empowerment"
+      ]
+    },
+    {
+      "id": "HB_MEP_004",
+      "name": "New Dawn Ashram (Yoga & Wellness)",
+      "short_description": "A serene wellness center blending Eastern spiritual practices like yoga and meditation with African holistic healing traditions. It offers retreats and workshops for inner peace and well-being.",
+      "subtype": "Modern Energy Places",
+      "address": "Near Gwassi Lodge, Gwassi Hills, Homa Bay",
+      "visiting_hours": "07:00-19:00 (by appointment/retreat schedule)",
+      "entry_fee": "fixed amount (retreat fees vary)",
+      "images": "https://images.unsplash.com/photo-1629891820610-d86161491746?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "yoga",
+        "meditation",
+        "holistic healing"
+      ]
+    },
+    {
+      "id": "HB_RST_001",
+      "name": "Tom Mboya's Mausoleum",
+      "short_description": "The final resting place of the revered Kenyan nationalist and politician, Tom Mboya. This solemn mausoleum is a pilgrimage site for those seeking inspiration from his legacy of leadership and social justice.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Rusinga Island, Mbita, Homa Bay",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount (KES 200)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/41/Mausoleum_of_Tom_Mboya.jpg",
+      "tags": [
+        "national hero",
+        "legacy",
+        "political history"
+      ]
+    },
+    {
+      "id": "HB_RST_002",
+      "name": "Chief Odera Akang'o's Ancestral Tomb",
+      "short_description": "The historic tomb of the legendary Chief Odera Akang'o, a powerful Luo leader known for his resistance against colonial rule. It is a site for remembering and honoring ancestral strength.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Gem Rae, Kanyamwa, Homa Bay",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Luo_chief.jpg/1280px-Luo_chief.jpg",
+      "tags": [
+        "Luo history",
+        "ancestral veneration",
+        "resistance hero"
+      ]
+    },
+    {
+      "id": "HB_RST_003",
+      "name": "Simbi Nyaima's Offering Shrine",
+      "short_description": "A small, unassuming shrine at the edge of Lake Simbi Nyaima, where locals leave offerings to appease the spirits of the drowned village, believed to reside in the lake's mysterious depths.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Lake Simbi Nyaima, Karachuonyo, Homa Bay",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1620958189518-ff352ffb6239?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "mythical shrine",
+        "offerings",
+        "local legend"
+      ]
+    },
+    {
+      "id": "HB_RST_004",
+      "name": "Gwassi Elders' Burial Mound",
+      "short_description": "An ancient burial mound on Gwassi Hills, traditionally reserved for the most revered Suba elders and spiritual leaders. It is a sacred place for reflection and connecting with ancestral wisdom.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Lower Gwassi Hills, Suba South, Homa Bay",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1601004863584-6385a4f781ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Suba elders",
+        "ancestral wisdom",
+        "burial site"
+      ]
+    },
+    {
+      "id": "HB_SM_001",
+      "name": "Got Rabour (Mountain of Prayer)",
+      "short_description": "A prominent hill widely regarded as a 'Mountain of Prayer' where various Christian denominations and traditional worshippers ascend for fervent prayer, fasting, and spiritual renewal.",
+      "subtype": "Sacred Mountains",
+      "address": "Got Rabour, Rachuonyo East, Homa Bay",
+      "visiting_hours": "Open 24 hours (daylight recommended)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1543886561-bf96b7974464?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "prayer mountain",
+        "spiritual renewal",
+        "interdenominational"
+      ]
+    },
+    {
+      "id": "HB_SM_002",
+      "name": "Gwassi Hills (Suba Ancestral Home)",
+      "short_description": "The majestic Gwassi Hills are the ancestral heartland of the Suba people, revered for housing ancient spirits and providing resources for traditional life. It's a site for cultural preservation and spiritual connection.",
+      "subtype": "Sacred Mountains",
+      "address": "Gwassi Hills Range, Suba South, Homa Bay",
+      "visiting_hours": "06:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549487779-1bf4b1979b18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Suba culture",
+        "ancestral land",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "HB_SM_003",
+      "name": "Got Ramogi (Luo Origin Point)",
+      "short_description": "Legendary as the first settlement of Ramogi, the patriarch of the Luo people, after their migration. It is considered a deeply sacred site, representing the origin and identity of the Luo community.",
+      "subtype": "Sacred Mountains",
+      "address": "Got Ramogi, Ndhiwa, Homa Bay",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "KES 100",
+      "images": "https://images.unsplash.com/photo-1543886561-bf96b7974464?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "Luo origins",
+        "ancestral patriarch",
+        "cultural identity"
+      ]
+    },
+    {
+      "id": "HB_SM_004",
+      "name": "Kanyamwa Escarpment's Summit",
+      "short_description": "Offering panoramic views of Lake Victoria, the summit of Kanyamwa Escarpment is a place for solitary meditation and seeking clarity. It's believed the expansive vista helps clear the mind and spirit.",
+      "subtype": "Sacred Mountains",
+      "address": "Kanyamwa Escarpment, Ndhiwa, Homa Bay",
+      "visiting_hours": "06:30-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1543886561-bf96b7974464?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "meditation",
+        "panoramic views",
+        "spiritual clarity"
+      ]
+    },
+    {
+      "id": "HB_AT_001",
+      "name": "Thim Lich Ohinga Rock Temple",
+      "short_description": "While primarily an archaeological site of dry-stone enclosures, its central, well-preserved structures functioned as ancient communal temples and ceremonial grounds for early Luo communities.",
+      "subtype": "Ancient Temples",
+      "address": "Thim Lich Ohinga, Sori Karungu, Homa Bay",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount (KES 500 for non-residents)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Thimlich_Ohinga_in_Homa_Bay.jpg/1280px-Thimlich_Ohinga_in_Homa_Bay.jpg",
+      "tags": [
+        "archaeological site",
+        "Luo history",
+        "ceremonial grounds"
+      ]
+    },
+    {
+      "id": "HB_AT_002",
+      "name": "Mfangano Island Rock Art Site (Mabro)",
+      "short_description": "Though not a temple in the architectural sense, the ancient rock art at Mabro on Mfangano Island serves as a sacred 'visual temple,' depicting ancestral spirits and cosmological beliefs of early island dwellers.",
+      "subtype": "Ancient Temples",
+      "address": "Mabro Cave, Mfangano Island, Mbita, Homa Bay",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "fixed amount (KES 300)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Cave_of_the_winds_Rusinga_Island.jpg",
+      "tags": [
+        "rock art",
+        "ancient beliefs",
+        "cosmology"
+      ]
+    },
+    {
+      "id": "HB_AT_003",
+      "name": "Kendu Bay Ceremonial Stones",
+      "short_description": "A forgotten site marked by a circle of ancient standing stones, believed to have been an open-air temple where significant communal rites, blessings, and initiations took place in pre-colonial times.",
+      "subtype": "Ancient Temples",
+      "address": "Kendu Bay Hinterlands, Rachuonyo North, Homa Bay",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579295551980-8b438f219747?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "standing stones",
+        "pre-colonial rites",
+        "initiation site"
+      ]
+    },
+    {
+      "id": "HB_AT_004",
+      "name": "Got Kabondo Ancestral Altar",
+      "short_description": "A natural rock altar atop Got Kabondo, where ancient communities performed sacrifices and offered prayers to their ancestors and the sky deity. It remains a site of potent spiritual energy.",
+      "subtype": "Ancient Temples",
+      "address": "Got Kabondo Peak, Kabondo Kasipul, Homa Bay",
+      "visiting_hours": "06:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1563720630567-9d628b577a83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "rock altar",
+        "ancestral prayers",
+        "sky deity"
+      ]
+    },
+    {
+      "id": "HB_PR_001",
+      "name": "Gwassi Mountain Ascent Trail",
+      "short_description": "A challenging but rewarding pilgrimage route leading to the sacred peaks of Gwassi Hills. Pilgrims undertake this journey to connect with Suba ancestors and seek spiritual renewal at the mountain's summit.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting point near Sindo Town, Suba South, Homa Bay",
+      "visiting_hours": "06:00-16:00 (for ascent and descent)",
+      "entry_fee": "fixed amount (KES 200)",
+      "images": "https://images.unsplash.com/photo-1549487779-1bf4b1979b18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "mountain pilgrimage",
+        "Suba culture",
+        "spiritual renewal"
+      ]
+    },
+    {
+      "id": "HB_PR_002",
+      "name": "Simbi Nyaima Circuit Walk",
+      "short_description": "A circular walking path around the mystical Lake Simbi Nyaima, undertaken by locals for spiritual cleansing and meditation. Each step is believed to shed negativity and invite blessings from the lake spirits.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Lake Simbi Nyaima, Karachuonyo, Homa Bay",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "KES 100",
+      "images": "https://images.unsplash.com/photo-1620958189518-ff352ffb6239?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "cleansing ritual",
+        "meditation walk",
+        "lake spirits"
+      ]
+    },
+    {
+      "id": "HB_PR_003",
+      "name": "Rusinga Island Ancestral Trail",
+      "short_description": "A historical route connecting various ancestral sites and ancient rock art locations across Rusinga Island. Pilgrims follow this path to honor ancestors and delve into the island's deep spiritual heritage.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting point near Mbita Bridge, Rusinga Island, Homa Bay",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Rusinga_island_beach.jpg",
+      "tags": [
+        "island heritage",
+        "ancestral veneration",
+        "historical trail"
+      ]
+    },
+    {
+      "id": "HB_PR_004",
+      "name": "Sori Karungu Lakeside Path",
+      "short_description": "A tranquil path along the shores of Lake Victoria near Sori Karungu, traditionally used by fishermen and villagers for contemplative walks and offering prayers for safe passage and bountiful catches.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Sori Karungu Fishing Village, Suba South, Homa Bay",
+      "visiting_hours": "05:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549216480-16f2c3b52d2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "lakeside walk",
+        "fishermen prayers",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "HB_BD_001",
+      "name": "Kanyamwa Ridge War Memorial",
+      "short_description": "Site of a legendary tribal clash, now marked by a memorial. It is remembered as a place where the destiny of several clans was forged, embodying themes of courage, sacrifice, and survival.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Kanyamwa Ridge, Ndhiwa, Homa Bay",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1534069818451-24018ee4c784?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "tribal history",
+        "courage",
+        "memorial site"
+      ]
+    },
+    {
+      "id": "HB_BD_002",
+      "name": "Thim Lich Ohinga Defensive Walls",
+      "short_description": "The formidable dry-stone walls of Thim Lich Ohinga served as a crucial defensive stronghold. It represents a battlefield where ancient communities fought to preserve their way of life and sovereignty.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Thim Lich Ohinga, Sori Karungu, Homa Bay",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount (KES 500 for non-residents)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Thimlich_Ohinga_in_Homa_Bay.jpg/1280px-Thimlich_Ohinga_in_Homa_Bay.jpg",
+      "tags": [
+        "ancient warfare",
+        "fortification",
+        "sovereignty"
+      ]
+    },
+    {
+      "id": "HB_BD_003",
+      "name": "Kuja River Crossing (Migration's Last Stand)",
+      "short_description": "A historically significant crossing point of the Kuja River, where early migrating communities faced their final tests and conflicts before settling in Homa Bay. It signifies trials and triumph.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Kuja River, Rongo Sub-county, Homa Bay",
+      "visiting_hours": "Open access (daylight recommended)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1587560562545-2e635f7560e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "migration history",
+        "community trials",
+        "river crossing"
+      ]
+    },
+    {
+      "id": "HB_BD_004",
+      "name": "Nyakwere Battlefield Plain",
+      "short_description": "A vast open plain near Nyakwere, known as the site of several decisive battles between rival clans. It's a somber place, reflecting on the costs of conflict and the eventual establishment of peace.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Nyakwere Plains, Rangwe, Homa Bay",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1543886561-bf96b7974464?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "clan conflicts",
+        "peace history",
+        "historical plains"
+      ]
+    }
+  ]
+}

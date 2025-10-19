@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Wajir",
+    "city_id": "2442"
+  },
+  "items": [
+    {
+      "id": "WJR_001",
+      "name": "Wajir County Cultural Hub",
+      "short_description": "A vibrant new center dedicated to preserving and showcasing the rich Somali and Borana cultures of Wajir through exhibitions, performances, and workshops.",
+      "address": "Off Griftu Road, Wajir Town Centre",
+      "opening_hours": "09:00-17:00 (Mon-Sat)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579737153177-d3d3d4d3d3d?auto=format&fit=crop&w=1080&q=80",
+      "tags": [
+        "culture",
+        "heritage",
+        "exhibition"
+      ]
+    },
+    {
+      "id": "WJR_002",
+      "name": "Shalaale Desert Eco-Park",
+      "short_description": "A newly designated eco-park promoting sustainable tourism and offering guided walks to observe unique desert flora and fauna, including rare bird species native to the arid landscape.",
+      "address": "15 km East of Wajir Airstrip",
+      "opening_hours": "07:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1587560867761-1e9d1e3e7f4a?auto=format&fit=crop&w=1080&q=80",
+      "tags": [
+        "nature",
+        "eco-tourism",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "WJR_003",
+      "name": "Wajir Innovation & Tech Centre",
+      "short_description": "A state-of-the-art facility providing co-working spaces, training programs, and incubation support for young entrepreneurs in Wajir's growing tech and startup scene.",
+      "address": "Korahei Road, Near Wajir County Government Offices",
+      "opening_hours": "08:00-20:00 (Mon-Fri)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1620286851212-0e3f0e3f0e3f?auto=format&fit=crop&w=1080&q=80",
+      "tags": [
+        "innovation",
+        "technology",
+        "education"
+      ]
+    },
+    {
+      "id": "WJR_004",
+      "name": "Lagh Bogal Green Oasis",
+      "short_description": "A community-led reforestation and water harvesting project transformed into a serene public park, offering shaded picnic spots and a children's play area along the seasonal riverbed.",
+      "address": "Along Lagh Bogal seasonal riverbed, South Wajir",
+      "opening_hours": "24/7",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-150674403813-f43501724d03?auto=format&fit=crop&w=1080&q=80",
+      "tags": [
+        "recreation",
+        "green space",
+        "community"
+      ]
+    },
+    {
+      "id": "WJR_005",
+      "name": "Wajir Modern Bazaar",
+      "short_description": "A newly constructed, organized market complex offering a wide array of local goods, fresh produce, and handicrafts in a clean, vibrant, and bustling environment.",
+      "address": "Opposite Wajir Bus Park, Wajir Town",
+      "opening_hours": "07:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1543787213-90d1f4b304c4?auto=format&fit=crop&w=1080&q=80",
+      "tags": [
+        "shopping",
+        "local goods",
+        "market"
+      ]
+    },
+    {
+      "id": "WJR_006",
+      "name": "Orahey Wildlife Viewing Point",
+      "short_description": "An elevated platform and designated area providing safe observation of local wildlife, particularly around watering holes during seasonal migrations, offering unique photography opportunities.",
+      "address": "30 km North of Wajir Town, off Wajir-Mandera Road",
+      "opening_hours": "06:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1518700257007-6c2e1f40d04c?auto=format&fit=crop&w=1080&q=80",
+      "tags": [
+        "wildlife",
+        "safari",
+        "nature"
+      ]
+    },
+    {
+      "id": "WJR_007",
+      "name": "Wajir Public Library & Resource Centre",
+      "short_description": "A contemporary library offering a vast collection of books, digital resources, and dedicated study areas, promoting literacy and lifelong learning in the county.",
+      "address": "Next to Wajir County Referral Hospital",
+      "opening_hours": "08:30-19:00 (Mon-Sat)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1544373187-5c4e0f4e0f4e?auto=format&fit=crop&w=1080&q=80",
+      "tags": [
+        "education",
+        "library",
+        "learning"
+      ]
+    },
+    {
+      "id": "WJR_008",
+      "name": "Soko Mjinga Food Court",
+      "short_description": "A hygienic and diverse food court gathering various local eateries under one roof, offering traditional Somali dishes, grilled meats, and refreshing beverages in a communal setting.",
+      "address": "Off Wajir-Garissa Road, near Central Market",
+      "opening_hours": "09:00-22:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1504674900250-9341776964a2?auto=format&fit=crop&w=1080&q=80",
+      "tags": [
+        "food",
+        "dining",
+        "local cuisine"
+      ]
+    },
+    {
+      "id": "WJR_009",
+      "name": "Wajir Sports & Recreation Complex",
+      "short_description": "A newly built multi-purpose sports facility featuring modern football pitches, basketball courts, and a community gym, encouraging healthy lifestyles and local sports talent.",
+      "address": "Along Airport Road, Wajir South",
+      "opening_hours": "06:00-21:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1552667498-5c4e0f4e0f4e?auto=format&fit=crop&w=1080&q=80",
+      "tags": [
+        "sports",
+        "recreation",
+        "fitness"
+      ]
+    },
+    {
+      "id": "WJR_010",
+      "name": "Old Wajir Fort Interpretive Centre",
+      "short_description": "Built adjacent to the historic Old Wajir Fort, this center provides detailed historical context, recovered artifacts, and interactive displays about the fort's colonial past and its regional significance.",
+      "address": "Near Old Wajir Fort, Wajir Town",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533038676-e2a1e4a3c4f7?auto=format&fit=crop&w=1080&q=80",
+      "tags": [
+        "history",
+        "heritage",
+        "museum"
+      ]
+    }
+  ]
+}

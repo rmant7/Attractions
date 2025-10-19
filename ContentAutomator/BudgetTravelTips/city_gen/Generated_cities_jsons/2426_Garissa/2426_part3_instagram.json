@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Garissa",
+    "city_id": "2426"
+  },
+  "items": [
+    {
+      "id": "GCN001",
+      "name": "Soko Kuu Vibrant Bazaar Alley",
+      "short_description": "Dive into the bustling heart of Garissa, where textiles, spices, and local crafts paint a vivid picture in the narrow market alleys. A sensory explosion of color and life awaits.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Soko Kuu (Main Market)",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1542872322-2616f7336f3c",
+      "tags": [
+        "market",
+        "vibrant",
+        "culture"
+      ]
+    },
+    {
+      "id": "GCN002",
+      "name": "Bilin Community Art Lane",
+      "short_description": "A dedicated lane in the Bilin area where community initiatives have transformed walls and spaces with bright murals and painted storefronts. It's a testament to local creativity.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Bilin Neighborhood",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596792622728-ee13702a43b1",
+      "tags": [
+        "community",
+        "art",
+        "vibrant"
+      ]
+    },
+    {
+      "id": "GCN003",
+      "name": "Garissa University Campus Greens",
+      "short_description": "The university's main square and student housing areas feature brightly painted buildings and well-maintained green spaces, offering a lively and youthful burst of color.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Garissa University Campus",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1607593630656-94676166164f",
+      "tags": [
+        "campus",
+        "youth",
+        "modern"
+      ]
+    },
+    {
+      "id": "GCN004",
+      "name": "Tana River Viewpoint Terraces",
+      "short_description": "Overlooking the Tana River, these terraced viewing platforms are adorned with colorful benches, planters, and local art, creating a picturesque spot for relaxation.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Tana Riverfront",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1627909323062-81e813f28247",
+      "tags": [
+        "river",
+        "sunset",
+        "scenic"
+      ]
+    },
+    {
+      "id": "GSM001",
+      "name": "Garissa Heritage Mural Walk",
+      "short_description": "Discover a series of large-scale murals depicting Garissa's rich cultural heritage and landscapes, strategically placed along a main thoroughfare. Each tells a unique story.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Along Kismayu Road",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1616782352136-d70377ee196b",
+      "tags": [
+        "heritage",
+        "art",
+        "culture"
+      ]
+    },
+    {
+      "id": "GSM002",
+      "name": "University Creative Wall Gallery",
+      "short_description": "The walls surrounding Garissa University's arts faculty are transformed into an open-air gallery, showcasing student and local artists' vibrant and thought-provoking street art.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Garissa University Arts Faculty",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1510007802779-ad20cf9e9c70",
+      "tags": [
+        "student art",
+        "campus",
+        "urban art"
+      ]
+    },
+    {
+      "id": "GSM003",
+      "name": "Soko Kuu Merchants' Murals",
+      "short_description": "Explore the lively Soko Kuu where various shop fronts and market stalls feature intricate murals reflecting their trade or community messages, adding character to the bustling market.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Soko Kuu",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549419149-16a7071e620d",
+      "tags": [
+        "market",
+        "local art",
+        "commerce"
+      ]
+    },
+    {
+      "id": "GSM004",
+      "name": "Al-Fatah Mosque Community Panels",
+      "short_description": "Adjacent to the Al-Fatah Mosque, a series of painted panels and small murals reflect themes of peace, community, and local proverbs, fostering a sense of shared identity.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near Al-Fatah Mosque",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1627909323062-81e813f28247",
+      "tags": [
+        "community",
+        "mosque",
+        "peace"
+      ]
+    },
+    {
+      "id": "GFFG001",
+      "name": "Garissa University Oasis Garden",
+      "short_description": "A meticulously cultivated garden within the university campus, featuring drought-resistant native plants, vibrant seasonal flowers, and shaded seating areas. A true green haven.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Garissa University Main Campus",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1506729623864-4424ce3d2110",
+      "tags": [
+        "botanical",
+        "campus",
+        "oasis"
+      ]
+    },
+    {
+      "id": "GFFG002",
+      "name": "Tana River Eco-Park Floral Path",
+      "short_description": "Stroll along a landscaped pathway in the Tana River Eco-Park, where carefully curated flowerbeds burst with color, attracting local birds and butterflies to the riverbanks.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Tana River Eco-Park",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1596765792463-549b6b907f9f",
+      "tags": [
+        "eco-park",
+        "river",
+        "nature"
+      ]
+    },
+    {
+      "id": "GFFG003",
+      "name": "Bilin Community Herb & Flower Patch",
+      "short_description": "A grassroots community project in Bilin, this garden combines aromatic herbs with vibrant flowers, providing a beautiful and fragrant space for local residents to gather.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Bilin Community Center",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1506729623864-4424ce3d2110",
+      "tags": [
+        "community",
+        "sustainable",
+        "aromatic"
+      ]
+    },
+    {
+      "id": "GFFG004",
+      "name": "Garissa Wildlife Conservancy Native Blooms",
+      "short_description": "Specific areas within the conservancy showcase natural desert blooms and cultivated indigenous flowers, especially after seasonal rains, creating a unique and vibrant landscape.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Garissa Wildlife Conservancy outskirts",
+      "best_time": "Morning (seasonal)",
+      "images": "https://images.unsplash.com/photo-1550503029-798df6c76e27",
+      "tags": [
+        "wildlife",
+        "native plants",
+        "seasonal"
+      ]
+    },
+    {
+      "id": "GHA001",
+      "name": "Garissa Old Town Mosque",
+      "short_description": "An ancient mosque in the heart of Garissa's older quarter, featuring traditional Islamic architecture with unique local adaptations, a quiet testament to centuries of faith.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Garissa Old Town",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Garissa_mosque.jpg",
+      "tags": [
+        "mosque",
+        "heritage",
+        "spiritual"
+      ]
+    },
+    {
+      "id": "GHA002",
+      "name": "Colonial Administration Block Remnants",
+      "short_description": "Discover the sturdy, weathered remains of a British colonial administration building, offering a glimpse into Garissa's past as a strategic regional center.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Near County Offices",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549419149-16a7071e620d",
+      "tags": [
+        "colonial",
+        "history",
+        "architecture"
+      ]
+    },
+    {
+      "id": "GHA003",
+      "name": "Boni Cultural Heritage Center Building",
+      "short_description": "The center is housed in a renovated traditional building, showcasing Boni architectural elements and serving as a hub for preserving and displaying the rich history of the Boni people.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Central Garissa",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1528172935038-f949c47e80f9",
+      "tags": [
+        "cultural",
+        "heritage",
+        "traditional"
+      ]
+    },
+    {
+      "id": "GHA004",
+      "name": "Early Independence Era Police Station",
+      "short_description": "This distinctive stone-built police station from the early post-independence period stands as a robust example of functional architecture from a formative era for Garissa.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Near Garissa Airstrip",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kenya_Police_Training_College%2C_Kiganjo_-_main_gate_and_administration_block.jpg",
+      "tags": [
+        "history",
+        "post-independence",
+        "functional"
+      ]
+    },
+    {
+      "id": "GMB001",
+      "name": "Soko Kuu Grand Bazaar",
+      "short_description": "The bustling heart of Garissa, Soko Kuu is a labyrinth of stalls offering everything from colorful fabrics and intricate jewelry to fresh produce and aromatic spices.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Central Garissa",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1610488667530-502a5e954f9a",
+      "tags": [
+        "market",
+        "local life",
+        "shopping"
+      ]
+    },
+    {
+      "id": "GMB002",
+      "name": "Garissa Livestock Market",
+      "short_description": "Experience the vibrant energy of Garissa's livestock market, where traders haggle over camels, goats, and cattle, offering a unique insight into pastoralist culture.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Outskirts of Garissa",
+      "best_time": "Morning (early)",
+      "images": "https://images.unsplash.com/photo-1627909323062-81e813f28247",
+      "tags": [
+        "livestock",
+        "culture",
+        "authentic"
+      ]
+    },
+    {
+      "id": "GMB003",
+      "name": "Somali Street Food Stalls",
+      "short_description": "A concentrated area of street food vendors near the main bus park, serving delicious Somali and Kenyan snacks, stews, and chai in a lively, informal setting.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Near Garissa Bus Park",
+      "best_time": "Afternoon / Night",
+      "images": "https://images.unsplash.com/photo-1627909323062-81e813f28247",
+      "tags": [
+        "food",
+        "culinary",
+        "street eats"
+      ]
+    },
+    {
+      "id": "GMB004",
+      "name": "Handcrafts & Artisan Corner",
+      "short_description": "Discover a hidden gem within Soko Kuu, where local artisans display beautifully crafted baskets, leather goods, wood carvings, and traditional attire, perfect for unique souvenirs.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Soko Kuu (specific section)",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1627909323062-81e813f28247",
+      "tags": [
+        "crafts",
+        "artisans",
+        "souvenirs"
+      ]
+    },
+    {
+      "id": "GBCV001",
+      "name": "Tana River Sunset Sands",
+      "short_description": "While not a true beach, this designated sandy stretch along the Tana River offers a tranquil spot to relax, watch river life, and enjoy breathtaking sunsets over the water.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Tana Riverfront South",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1548545934-e4c16a309e3e",
+      "tags": [
+        "river",
+        "sunset",
+        "serene"
+      ]
+    },
+    {
+      "id": "GBCV002",
+      "name": "Garissa Riverine Oasis Park",
+      "short_description": "A beautifully landscaped park featuring artificial sandy areas, water features, and lush greenery, designed to evoke a refreshing oasis experience by the Tana River.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Along Tana River North",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596765792463-549b6b907f9f",
+      "tags": [
+        "oasis",
+        "river",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "GBCV003",
+      "name": "Riverview Promenade Ponds",
+      "short_description": "A modern riverfront promenade incorporating decorative ponds and sandy leisure zones, providing a cooling and visually appealing alternative to coastal escapism.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Central Tana Riverfront",
+      "best_time": "Afternoon / Sunset",
+      "images": "https://images.unsplash.com/photo-1596765792463-549b6b907f9f",
+      "tags": [
+        "urban",
+        "river",
+        "leisure"
+      ]
+    },
+    {
+      "id": "GBCV004",
+      "name": "Tana River Canoeing & Leisure Spot",
+      "short_description": "A calm section of the Tana River where locals gather for relaxation, informal swimming, and canoe rides, providing a 'beach-like' recreational feel by the water.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "North Tana River bend",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549419149-16a7071e620d",
+      "tags": [
+        "river activities",
+        "local life",
+        "recreation"
+      ]
+    },
+    {
+      "id": "GFE001",
+      "name": "Garissa Cultural Heritage Festival",
+      "short_description": "An annual celebration showcasing the diverse traditions, music, dance, and culinary arts of the communities residing in Garissa and the larger Northeastern region.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Garissa Stadium / University Grounds",
+      "best_time": "All day (annual)",
+      "images": "https://images.unsplash.com/photo-1627909323062-81e813f28247",
+      "tags": [
+        "culture",
+        "festival",
+        "heritage"
+      ]
+    },
+    {
+      "id": "GFE002",
+      "name": "Eid al-Adha Street Celebrations",
+      "short_description": "Experience the joyous atmosphere during Eid, when streets come alive with families in traditional attire, festive markets, and community gatherings celebrating this important religious holiday.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Central Garissa neighborhoods",
+      "best_time": "Morning / Afternoon (seasonal)",
+      "images": "https://images.unsplash.com/photo-1616782352136-d70377ee196b",
+      "tags": [
+        "religious",
+        "community",
+        "festive"
+      ]
+    },
+    {
+      "id": "GFE003",
+      "name": "Garissa University Youth Fest",
+      "short_description": "A vibrant multi-day event on campus featuring student performances, art exhibitions, inter-faculty competitions, and local music, highlighting the energy of Garissa's youth.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Garissa University Grounds",
+      "best_time": "Afternoon / Night (annual)",
+      "images": "https://images.unsplash.com/photo-1528172935038-f949c47e80f9",
+      "tags": [
+        "youth",
+        "education",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "GFE004",
+      "name": "Tana River Regatta & Bazaar",
+      "short_description": "A lively event focusing on the Tana River, with traditional boat races, riverside entertainment, and a pop-up market celebrating the river's ecological and cultural significance.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Tana Riverfront",
+      "best_time": "All day (annual)",
+      "images": "https://images.unsplash.com/photo-1549419149-16a7071e620d",
+      "tags": [
+        "river",
+        "community",
+        "sports"
+      ]
+    },
+    {
+      "id": "GCI001",
+      "name": "Northeastern Heritage Monument",
+      "short_description": "A grand monument celebrating the resilience, history, and cultural fusion of the communities inhabiting Kenya's Northeastern region, with interpretive plaques.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Central Garissa Roundabout",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1549419149-16a7071e620d",
+      "tags": [
+        "heritage",
+        "history",
+        "public art"
+      ]
+    },
+    {
+      "id": "GCI002",
+      "name": "Traditional Somali House Exhibit",
+      "short_description": "A preserved or reconstructed traditional Somali house within a cultural center, offering an immersive experience into the architecture, decor, and lifestyle of the past.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Boni Cultural Heritage Center",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1627909323062-81e813f28247",
+      "tags": [
+        "culture",
+        "traditional",
+        "immersive"
+      ]
+    },
+    {
+      "id": "GCI003",
+      "name": "Peace & Unity Sculpture Park",
+      "short_description": "An open-air park featuring abstract and figurative sculptures by local artists, dedicated to themes of peace, unity, and coexistence, reflecting Garissa's community spirit.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Garissa Public Park",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1596765792463-549b6b907f9f",
+      "tags": [
+        "peace",
+        "art",
+        "community"
+      ]
+    },
+    {
+      "id": "GCI004",
+      "name": "Tana River Life Interpretive Panels",
+      "short_description": "Along the Tana River Eco-Park, a series of engaging interpretive panels and small installations explain the river's ecosystem, local livelihoods, and historical significance.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Tana River Eco-Park",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1506729623864-4424ce3d2110",
+      "tags": [
+        "nature",
+        "education",
+        "river"
+      ]
+    },
+    {
+      "id": "GIL001",
+      "name": "Garissa University Clock Tower",
+      "short_description": "The prominent clock tower at the heart of Garissa University serves as an iconic symbol of education and progress, visible across much of the campus.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Garissa University Main Campus",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Garissa_University_Main_Gate.jpg",
+      "tags": [
+        "education",
+        "campus",
+        "modern"
+      ]
+    },
+    {
+      "id": "GIL002",
+      "name": "Al-Fatah Grand Mosque",
+      "short_description": "One of Garissa's largest and most architecturally significant mosques, its distinctive domes and minarets are a prominent feature of the city's skyline and spiritual life.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Central Garissa",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1616782352136-d70377ee196b",
+      "tags": [
+        "mosque",
+        "spiritual",
+        "architecture"
+      ]
+    },
+    {
+      "id": "GIL003",
+      "name": "Tana River Bridge & Viewpoint",
+      "short_description": "The main bridge crossing the Tana River offers a vital connection and a strategic viewpoint for expansive river landscapes, especially beautiful during sunrise or sunset.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Tana River Bridge",
+      "best_time": "Sunrise / Sunset",
+      "images": "https://images.unsplash.com/photo-1549419149-16a7071e620d",
+      "tags": [
+        "river",
+        "engineering",
+        "viewpoint"
+      ]
+    },
+    {
+      "id": "GIL004",
+      "name": "Garissa County Assembly Building",
+      "short_description": "A distinctive government building reflecting modern Kenyan architecture, symbolizing local governance and development, often illuminated at night.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Garissa Town Center",
+      "best_time": "Afternoon / Night",
+      "images": "https://images.unsplash.com/photo-1549419149-16a7071e620d",
+      "tags": [
+        "governance",
+        "modern",
+        "architecture"
+      ]
+    },
+    {
+      "id": "GISP001",
+      "name": "University Library Grand Staircase",
+      "short_description": "The impressive main staircase leading to the Garissa University Library, a hub of knowledge, offers an architecturally pleasing and often bustling pathway for students.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Garissa University Library",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1589149495394-4d6d6f5198e3",
+      "tags": [
+        "campus",
+        "architecture",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "GISP002",
+      "name": "Old Town Bazaar Pathways",
+      "short_description": "Navigate the charmingly winding, narrow pathways of Garissa's Old Town Bazaar, where centuries of trade have shaped the atmospheric routes between traditional shops.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Garissa Old Town / Soko Kuu",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1610488667530-502a5e954f9a",
+      "tags": [
+        "market",
+        "historic",
+        "labyrinthine"
+      ]
+    },
+    {
+      "id": "GISP003",
+      "name": "Riverfront Promenade Steps",
+      "short_description": "Graceful steps descending from the city center to the Tana River promenade, offering tiered seating and panoramic views as you approach the water's edge.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Central Tana Riverfront",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1596765792463-549b6b907f9f",
+      "tags": [
+        "river",
+        "scenic",
+        "urban design"
+      ]
+    },
+    {
+      "id": "GISP004",
+      "name": "Peace Garden Ascending Paths",
+      "short_description": "Meandering, brick-paved pathways that gently ascend through the terraced Peace Garden, leading to various contemplation spots and offering peaceful strolls.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Garissa Public Park (Peace Garden section)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1506729623864-4424ce3d2110",
+      "tags": [
+        "garden",
+        "serene",
+        "contemplation"
+      ]
+    }
+  ]
+}

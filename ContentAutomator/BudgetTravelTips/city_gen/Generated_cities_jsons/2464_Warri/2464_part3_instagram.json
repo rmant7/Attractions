@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Warri",
+    "city_id": "2464"
+  },
+  "items": [
+    {
+      "id": "WarriPalaceFacade",
+      "name": "Olu of Warri Palace Facade",
+      "short_description": "Discover the intricate royal architecture of the Itsekiri Kingdom's majestic palace. Its grand entrance and traditional motifs offer a glimpse into a rich cultural legacy.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Olu Palace Road, Warri",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Olu_of_Warri_palace.jpg",
+      "tags": [
+        "royal",
+        "Itsekiri",
+        "heritage"
+      ]
+    },
+    {
+      "id": "OldGovtHouseRuins",
+      "name": "Colonial Echoes at Old Government House Ruins",
+      "short_description": "Explore the atmospheric remnants of Warri's British colonial past. These historic ruins stand as a silent testament to a bygone era, offering a poignant backdrop for reflection.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Along Warri-Sapele Road",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/05/Remains_of_the_colonial_government_house_in_Calabar%2C_Nigeria.jpg",
+      "tags": [
+        "colonial",
+        "ruins",
+        "history"
+      ]
+    },
+    {
+      "id": "StAndrewsChurchWarri",
+      "name": "St. Andrew's Anglican Church",
+      "short_description": "Admire the timeless beauty of St. Andrew's Anglican Church, a significant landmark with stunning stained glass windows and classic architectural lines. It's a serene spot reflecting Warri's spiritual heritage.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Warri-Sapele Road, Warri",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Saint_Andrew%27s_Church%2C_Warri.jpg",
+      "tags": [
+        "church",
+        "heritage",
+        "spiritual"
+      ]
+    },
+    {
+      "id": "NanasPalaceKoko",
+      "name": "Nana's Palace at Koko",
+      "short_description": "Venture slightly outside Warri to Nana's Palace in Koko, a beautifully preserved 19th-century chieftain's residence. This architectural marvel celebrates the legacy of the legendary Nana Olomu.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Koko Town, Delta State (near Warri)",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/9/90/Nana_Museum.jpg",
+      "tags": [
+        "chieftain",
+        "museum",
+        "Itsekiri"
+      ]
+    },
+    {
+      "id": "AjamimoghaSteps",
+      "name": "Ajamimogha Heritage Steps",
+      "short_description": "Wind through the historic Ajamimogha district on these charming, time-worn steps that connect vibrant street life with peaceful residential areas. Each step tells a story of Warri's past.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Ajamimogha district, Warri",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/8/87/Village_walkway.jpg",
+      "tags": [
+        "heritage",
+        "walkway",
+        "local life"
+      ]
+    },
+    {
+      "id": "DeltaMallPromenade",
+      "name": "Delta Mall Riverside Promenade",
+      "short_description": "Enjoy a leisurely stroll along the envisioned modern promenade near Delta Mall, offering scenic views of the Warri River. It's a perfect blend of urban charm and natural beauty.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Near Delta Mall, Effurun",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1549646872-9b244d413348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "modern",
+        "riverside",
+        "leisure"
+      ]
+    },
+    {
+      "id": "WarriMarketPaths",
+      "name": "Warri Market Maze Paths",
+      "short_description": "Immerse yourself in the bustling energy of Warri's central market, navigating its vibrant, winding pathways. A kaleidoscope of colors, sounds, and aromas awaits around every corner.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Warri Main Market, Okere Road",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/11/Market_in_Nigeria.jpg",
+      "tags": [
+        "market",
+        "vibrant",
+        "local culture"
+      ]
+    },
+    {
+      "id": "OluPalaceGardenStairs",
+      "name": "Olu's Palace Garden Staircase",
+      "short_description": "Ascend the elegant, ornate staircase within the serene gardens of the Olu of Warri's Palace. This beautiful feature provides a regal pathway amidst lush greenery, perfect for a grand entrance.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Olu Palace Grounds, Warri",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Garden_at_a_palace_in_Buea%2C_Cameroon.jpg",
+      "tags": [
+        "palace",
+        "gardens",
+        "elegant"
+      ]
+    },
+    {
+      "id": "KokoBeachWaterfront",
+      "name": "Koko Beach Waterfront Charm",
+      "short_description": "Escape to the serene Koko Beach, a picturesque waterfront offering tranquil sandy shores and the gentle lapping of the Atlantic-fed waters. It's a hidden gem for relaxation and scenic photography.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Koko Town (near Warri)",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Koko_beach.jpg",
+      "tags": [
+        "beach",
+        "serene",
+        "coastal"
+      ]
+    },
+    {
+      "id": "EscravosEstuaryOutlook",
+      "name": "Escravos River Estuary Outlook",
+      "short_description": "Witness the dramatic confluence of the Escravos River with the Atlantic Ocean from a breathtaking vantage point. The expansive views of ships, water, and sky are truly captivating.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Escravos, Delta State",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lagos_Fishing.jpg",
+      "tags": [
+        "estuary",
+        "river",
+        "panoramic"
+      ]
+    },
+    {
+      "id": "WarriRiverSunsetPoint",
+      "name": "Warri River Sunset Point",
+      "short_description": "Experience the magic of a Warri River sunset, where golden hues paint the sky over calm waters and passing boats. This popular spot offers a peaceful end to any day.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Along the Warri River banks",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Boat_on_the_Niger_Delta.jpg",
+      "tags": [
+        "sunset",
+        "riverside",
+        "tranquil"
+      ]
+    },
+    {
+      "id": "OgbeIjohWaterfront",
+      "name": "Ogbe-Ijoh Waterfront Promenade",
+      "short_description": "Discover the vibrant life of Warri's waterfront at Ogbe-Ijoh, where local traders and fishermen create a bustling, authentic scene. The energetic atmosphere is a photographer's delight.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Ogbe-Ijoh Market Area",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Waterfront_activities.jpg",
+      "tags": [
+        "waterfront",
+        "market",
+        "local life"
+      ]
+    },
+    {
+      "id": "EffurunRoundaboutWalls",
+      "name": "Effurun Roundabout Art Walls",
+      "short_description": "Explore the dynamic street art adorning the walls around Effurun Roundabout, a major nexus in Warri. These vibrant murals showcase local talent and tell stories of community life.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Effurun Roundabout",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549667793-189f7f0e9f0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "street art",
+        "urban",
+        "vibrant"
+      ]
+    },
+    {
+      "id": "GbagiMarketStoryMural",
+      "name": "Gbagi Market Story Mural",
+      "short_description": "Uncover the sprawling 'Story of Warri' mural near Gbagi Market, depicting the city's rich history and cultural tapestry. This vibrant artwork is a true hidden gem for art enthusiasts.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near Gbagi Market, Warri",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1594833202976-1e6a392a8b3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "mural",
+        "culture",
+        "narrative"
+      ]
+    },
+    {
+      "id": "YouthCenterMural",
+      "name": "\"Hope for Warri\" Youth Center Mural",
+      "short_description": "Discover the inspiring 'Hope for Warri' mural at a local youth empowerment center, a collaborative piece radiating positivity and community spirit. It's a powerful statement of aspiration.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Enerhen Road, Effurun",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1627916298640-df10b37f4117?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "community art",
+        "inspirational",
+        "youth"
+      ]
+    },
+    {
+      "id": "WarriCityGateMural",
+      "name": "Warri City Gate Welcome Mural",
+      "short_description": "Be greeted by the impressive 'Welcome to Warri' mural at the city's main entrance, a colossal artwork celebrating its people and landscape. It's an iconic photo opportunity for arrivals.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Warri City Gate",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1595431666870-13d8032e3a09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "city landmark",
+        "welcome",
+        "public art"
+      ]
+    },
+    {
+      "id": "AmajajaFestival",
+      "name": "Amajaja Festival Procession",
+      "short_description": "Immerse yourself in the vibrant energy of the Amajaja Festival, a spectacular display of Itsekiri culture with colorful costumes, traditional dances, and lively processions. A truly unforgettable experience.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Olu Palace Grounds & Warri streets",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Warri_Cultural_Dancers.jpg",
+      "tags": [
+        "Itsekiri",
+        "cultural",
+        "procession"
+      ]
+    },
+    {
+      "id": "UrhoboCulturalDay",
+      "name": "Urhobo Cultural Day Celebration",
+      "short_description": "Join the joyous celebration of Urhobo Cultural Day, featuring traditional music, elaborate costumes, and energetic dance performances. It's a fantastic opportunity to experience Urhobo heritage.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Various community centers",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Urhobo_dancers_in_Nigeria.jpg",
+      "tags": [
+        "Urhobo",
+        "dance",
+        "tradition"
+      ]
+    },
+    {
+      "id": "WarriCarnivalParade",
+      "name": "Warri Carnival Parade",
+      "short_description": "Revel in the electrifying atmosphere of the annual Warri Carnival, a dazzling street parade filled with costumed dancers, floats, and pulsating music. The city comes alive with pure joy.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Major streets of Warri",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/8/86/Lagos_Carnival_2016.jpg",
+      "tags": [
+        "carnival",
+        "parade",
+        "festive"
+      ]
+    },
+    {
+      "id": "WarriBoatRegatta",
+      "name": "Warri River Boat Regatta Spectacle",
+      "short_description": "Witness the thrilling boat regatta on the Warri River, a colorful aquatic spectacle showcasing traditional canoes in competitive races and ceremonial parades. It's a vibrant display of riverine culture.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Warri River waterfront",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/6/69/Oron_Boat_Regatta_3.jpg",
+      "tags": [
+        "regatta",
+        "riverine",
+        "spectacle"
+      ]
+    },
+    {
+      "id": "MysticMangroveCanopies",
+      "name": "Mystic Mangrove Canopies",
+      "short_description": "Delve into the enchanting world of the Niger Delta's mangrove forests, where dense canopies create mystical, green tunnels. These unique ecosystems offer a truly immersive nature experience.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Outskirts of Warri, Delta creeks",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mangrove_Forest_in_the_Niger_Delta.jpg",
+      "tags": [
+        "mangroves",
+        "wilderness",
+        "ecosystem"
+      ]
+    },
+    {
+      "id": "OsubiAirfieldGreen",
+      "name": "Osubi Airfield Green Expanse",
+      "short_description": "Discover the unexpected tranquility of the vast green expanse surrounding Osubi Airfield, offering wide-open vistas of savannah-like landscapes. It's a surprisingly peaceful spot for nature shots.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Near Osubi Airport",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/8/89/Nigerian_Scenery_in_Kano.jpg",
+      "tags": [
+        "savanna",
+        "open space",
+        "greenery"
+      ]
+    },
+    {
+      "id": "WarriRiverbankFlora",
+      "name": "Warri Riverbank Tropical Flora",
+      "short_description": "Explore the lush, vibrant tropical flora that lines the banks of the Warri River. The diverse plant life creates a verdant backdrop, perfect for nature photography and serene walks.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Along Warri River",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Riverine_vegetation.jpg",
+      "tags": [
+        "tropical",
+        "riverine",
+        "botany"
+      ]
+    },
+    {
+      "id": "PalmGroveSerenityPark",
+      "name": "Palm Grove Serenity Park",
+      "short_description": "Find peace and picturesque views within a charming palm grove park, an imagined oasis of tall, swaying palms. The dappled light and natural beauty make for stunning photo opportunities.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Effurun-Warri axis",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Palm_trees_in_the_Niger_Delta.jpg",
+      "tags": [
+        "palm trees",
+        "oasis",
+        "natural beauty"
+      ]
+    },
+    {
+      "id": "EffurunBridgeViewpoint",
+      "name": "Effurun Bridge Viewpoint",
+      "short_description": "Stand atop the Effurun Bridge and capture sweeping views of the bustling cityscape and the winding waterways below. It's a prime spot for urban panoramas, especially at dusk.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Effurun Bridge, Effurun",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Effurun_bridge.jpg",
+      "tags": [
+        "urban view",
+        "bridge",
+        "cityscape"
+      ]
+    },
+    {
+      "id": "WarriPortAccessBridge",
+      "name": "Warri Port Access Bridge",
+      "short_description": "Gain a unique perspective of Warri's vital port activities from the elevated vantage point of its access bridge. Watch ships and industrial life unfold against the Delta backdrop.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Warri Port Area",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/8/84/Warri_port.jpg",
+      "tags": [
+        "port",
+        "industrial",
+        "vista"
+      ]
+    },
+    {
+      "id": "UghelliWarriOverpass",
+      "name": "Ughelli-Warri Express Overpass",
+      "short_description": "Experience the dynamic flow of traffic and city life from a modern overpass along the Ughelli-Warri Expressway. The elevated perspective offers striking patterns and movement for captivating shots.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Ughelli-Warri Expressway",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1601243734185-98f5b801a6b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "highway",
+        "modern",
+        "urban flow"
+      ]
+    },
+    {
+      "id": "CreekRoadPedBridge",
+      "name": "Creek Road Pedestrian Bridge",
+      "short_description": "Cross the charming Creek Road Pedestrian Bridge, offering a gentle arc over a tranquil Warri creek. It's a peaceful spot for a quiet moment and a lovely photo opportunity.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Creek Road, Warri",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/3/36/The_lagoon_pedestrian_bridge%2C_Lagos.jpg",
+      "tags": [
+        "pedestrian",
+        "creek",
+        "peaceful"
+      ]
+    },
+    {
+      "id": "FloatingMarketEcosystem",
+      "name": "Floating Market Ecosystem",
+      "short_description": "Discover the bustling yet unique ecosystem of a traditional floating market, where goods are traded directly from canoes on the water. It's a lively and visually striking cultural experience.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Otokutu River, near Warri",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/da/Ganvie_floating_village_in_Benin.jpg",
+      "tags": [
+        "floating market",
+        "river life",
+        "cultural wonder"
+      ]
+    },
+    {
+      "id": "WhisperingMangroveTunnel",
+      "name": "The Whispering Mangrove Tunnel",
+      "short_description": "Paddle through a serene, winding tunnel formed by ancient mangrove roots, where the canopy overhead creates an intimate, almost ethereal pathway. The sounds of the delta echo softly.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Delta creeks, Omadino area",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mangrove_Forest_in_the_Niger_Delta.jpg",
+      "tags": [
+        "mangrove",
+        "nature tunnel",
+        "ethereal"
+      ]
+    },
+    {
+      "id": "RiverbedGeoglyphs",
+      "name": "Riverbed Geoglyph Formations",
+      "short_description": "During the dry season, explore the exposed riverbeds where natural erosion sculpts intricate patterns and 'geoglyphs' in the earth. These ephemeral artworks are a testament to nature's power.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Seasonal riverbeds, Warri River",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549725807-c81b2a9d8c8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "erosion",
+        "riverbed",
+        "natural art"
+      ]
+    },
+    {
+      "id": "AncientIrokoSentinel",
+      "name": "Ancient Iroko Sentinel Tree",
+      "short_description": "Seek out the majestic Ancient Iroko Sentinel, a towering, centuries-old tree steeped in local folklore and revered for its imposing presence. Its gnarled roots and vast canopy are awe-inspiring.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Obodo-Warri bush paths",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Iroko_Tree.jpg",
+      "tags": [
+        "ancient tree",
+        "folklore",
+        "majestic"
+      ]
+    },
+    {
+      "id": "SeasonalRiverSandbanks",
+      "name": "Seasonal Warri River Sandbanks",
+      "short_description": "During the dry season, vast sandbanks emerge along the Warri River, creating serene, beach-like landscapes perfect for quiet contemplation. These temporary 'islands' offer a unique natural escape.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Warri River, low tide areas",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Onitsha_Beach%2C_Anambra_State%2C_Nigeria.jpg",
+      "tags": [
+        "river beach",
+        "sandbanks",
+        "dry season"
+      ]
+    },
+    {
+      "id": "UgbomroQuarriedScape",
+      "name": "Ugbomro Quarried Landscape",
+      "short_description": "Explore the dramatic, stark landscape of the Ugbomro quarry, where excavated earth forms abstract patterns and 'dune-like' mounds. It's an unusual, almost lunar, backdrop for striking photography.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Ugbomro Community, Effurun",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Quarry_at_Abeokuta%2C_Ogun_State%2C_Nigeria.jpg",
+      "tags": [
+        "quarry",
+        "earthscape",
+        "stark beauty"
+      ]
+    },
+    {
+      "id": "AgbarhoRiversideDunes",
+      "name": "Agbarho Riverside Miniature Dunes",
+      "short_description": "Discover small, picturesque sand dunes formed by river currents along the Agbarho River. These miniature 'deserts' are a unique natural formation in the Delta region.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Agbarho River banks",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/7/7b/A_small_desert_in_northern_Nigeria.jpg",
+      "tags": [
+        "river dunes",
+        "miniature desert",
+        "unique geology"
+      ]
+    },
+    {
+      "id": "EffurunIndustrialEarth",
+      "name": "Effurun Industrial Earth Scapes",
+      "short_description": "Capture the raw, expansive beauty of cleared industrial lands in Effurun, where vast stretches of earth and sand create striking, almost desert-like minimalist landscapes. Ideal for avant-garde photography.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Effurun Industrial Area",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Industrial_area_in_Lagos.jpg",
+      "tags": [
+        "industrial",
+        "bare earth",
+        "minimalist"
+      ]
+    },
+    {
+      "id": "DeltaMallRooftopGarden",
+      "name": "Delta Mall Rooftop Garden & View",
+      "short_description": "Ascend to the envisioned rooftop garden atop Delta Mall for refreshing greenery and panoramic views of Effurun's sprawling urban landscape. It's a tranquil escape with a modern vibe.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Delta Mall, Effurun",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596766468798-1e43d7c3b9c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "rooftop garden",
+        "urban oasis",
+        "modern"
+      ]
+    },
+    {
+      "id": "WarriGrandHotelTerrace",
+      "name": "Warri Grand Hotel Terrace View",
+      "short_description": "Enjoy sophisticated vistas of Warri city from the elegant rooftop terrace of the Warri Grand Hotel. This elevated spot offers breathtaking panoramas, especially as the city lights up.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Warri Grand Hotel, Effurun",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1571212879685-2e6b72a9a7a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "tags": [
+        "hotel view",
+        "cityscape",
+        "luxury"
+      ]
+    },
+    {
+      "id": "PTITowerSunsetPanorama",
+      "name": "PTI Tower Sunset Panorama",
+      "short_description": "Capture a stunning sunset over the Warri skyline from a high vantage point at the Petroleum Training Institute (PTI) area. The golden hour casts a beautiful glow over the urban sprawl.",
+      "subtype": "Rooftop Views",
+      "location_hint": "PTI Road, Effurun",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Port_Harcourt_city_skyline.jpg",
+      "tags": [
+        "skyline",
+        "sunset",
+        "panoramic"
+      ]
+    },
+    {
+      "id": "EkpanRooftopCanvas",
+      "name": "Ekpan Neighborhood Rooftop Canvas",
+      "short_description": "Discover the intricate patterns and vibrant life visible from an elevated view over the dense Ekpan neighborhood. The mosaic of rooftops and bustling streets tells a unique Warri story.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Ekpan, near Warri",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/1a/An_aerial_view_of_Benin_city_Nigeria.jpg",
+      "tags": [
+        "neighborhood",
+        "aerial",
+        "urban patterns"
+      ]
+    }
+  ]
+}

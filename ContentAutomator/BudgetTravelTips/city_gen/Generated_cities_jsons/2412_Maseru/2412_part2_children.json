@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Maseru",
+    "city_id": "2412"
+  },
+  "items": [
+    {
+      "id": "PK001",
+      "name": "Maseru Star Explorers Dome",
+      "short_description": "Journey through the cosmos with interactive shows and engaging presentations perfect for young stargazers. Discover constellations and planetary wonders.",
+      "subtype": "Planetariums for Kids",
+      "address": "123 Kingsway Road, Maseru Central, Maseru",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?kids+planetarium,space+dome",
+      "tags": [
+        "space",
+        "astronomy",
+        "education"
+      ]
+    },
+    {
+      "id": "PK002",
+      "name": "Galaxy Kids Observatory",
+      "short_description": "An introductory observatory experience where children can look through kid-friendly telescopes and learn about stars, moon phases, and space exploration.",
+      "subtype": "Planetariums for Kids",
+      "address": "45 Pioneer Road, Maseru East, Maseru",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/400x300/?children+observatory,stars+kids",
+      "tags": [
+        "telescopes",
+        "night sky",
+        "learning"
+      ]
+    },
+    {
+      "id": "PK003",
+      "name": "Cosmic Quest VR Zone",
+      "short_description": "Step into virtual reality and explore distant galaxies, walk on the moon, or fly through asteroid fields in this immersive space adventure for kids.",
+      "subtype": "Planetariums for Kids",
+      "address": "78 Moshoeshoe Road, Maseru West, Maseru",
+      "opening_hours": "11:00-18:00",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/400x300/?kids+vr,space+adventure+children",
+      "tags": [
+        "virtual reality",
+        "exploration",
+        "interactive"
+      ]
+    },
+    {
+      "id": "PK004",
+      "name": "Little Astronauts Hub",
+      "short_description": "A hands-on workshop center where aspiring astronauts can build rockets, simulate space missions, and engage in space-themed crafts.",
+      "subtype": "Planetariums for Kids",
+      "address": "20 Ha Hoohlo Street, Maseru South, Maseru",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?kids+space+workshop,astronaut+training",
+      "tags": [
+        "workshops",
+        "crafts",
+        "STEM"
+      ]
+    },
+    {
+      "id": "CM001",
+      "name": "Maseru Discovery Place",
+      "short_description": "A vibrant museum offering hands-on exhibits across various themes, from local culture to global environments, designed for curious young minds.",
+      "subtype": "Children’s Museums",
+      "address": "15 Kingsway Road, Maseru Central, Maseru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?childrens+museum,kids+discovery+center",
+      "tags": [
+        "interactive",
+        "culture",
+        "learning"
+      ]
+    },
+    {
+      "id": "CM002",
+      "name": "Tiny Inventors Workshop Museum",
+      "short_description": "Spark creativity and innovation with exhibits focused on science, technology, engineering, and math, encouraging children to build and experiment.",
+      "subtype": "Children’s Museums",
+      "address": "30 Pioneer Road, Maseru East, Maseru",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/400x300/?kids+inventors+museum,stem+children",
+      "tags": [
+        "STEM",
+        "engineering",
+        "creativity"
+      ]
+    },
+    {
+      "id": "CM003",
+      "name": "Cultural Kids Corner",
+      "short_description": "Explore the rich heritage of Lesotho through interactive displays, traditional games, and storytelling sessions tailored for children.",
+      "subtype": "Children’s Museums",
+      "address": "55 Moshoeshoe Road, Maseru West, Maseru",
+      "opening_hours": "09:30-16:30",
+      "price_level": "free",
+      "images": "https://source.unsplash.com/random/400x300/?lesotho+culture+kids,children+cultural+museum",
+      "tags": [
+        "culture",
+        "heritage",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "CM004",
+      "name": "Imagination Station Museum",
+      "short_description": "A haven for young artists and dreamers, featuring art installations, craft zones, and imaginative play areas to foster artistic expression.",
+      "subtype": "Children’s Museums",
+      "address": "88 Thamae Road, Maseru South, Maseru",
+      "opening_hours": "10:30-17:30",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?kids+art+museum,imagination+play",
+      "tags": [
+        "art",
+        "creativity",
+        "play"
+      ]
+    },
+    {
+      "id": "SC001",
+      "name": "Curiosity Lab Maseru",
+      "short_description": "Dive into the world of science with exciting hands-on experiments, live demonstrations, and exhibits that explain everyday phenomena.",
+      "subtype": "Science Centers",
+      "address": "22 Kingsway Road, Maseru Central, Maseru",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?kids+science+center,science+lab+children",
+      "tags": [
+        "experiments",
+        "physics",
+        "interactive"
+      ]
+    },
+    {
+      "id": "SC002",
+      "name": "Phenomenon Funhouse",
+      "short_description": "Explore the wonders of physics, light, and sound through playful and engaging exhibits designed to make learning fun for all ages.",
+      "subtype": "Science Centers",
+      "address": "48 Pioneer Road, Maseru East, Maseru",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/400x300/?science+funhouse+kids,physics+for+children",
+      "tags": [
+        "physics",
+        "light & sound",
+        "discovery"
+      ]
+    },
+    {
+      "id": "SC003",
+      "name": "Bio-Adventure Zone",
+      "short_description": "An engaging center focused on biology and the natural world, featuring exhibits on plants, animals, and the human body in an accessible way.",
+      "subtype": "Science Centers",
+      "address": "80 Moshoeshoe Road, Maseru West, Maseru",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?kids+biology,nature+science+children",
+      "tags": [
+        "biology",
+        "nature",
+        "environment"
+      ]
+    },
+    {
+      "id": "SC004",
+      "name": "Tech & Tinker Hub",
+      "short_description": "A modern science center dedicated to technology, robotics, and coding, offering workshops and interactive stations for future innovators.",
+      "subtype": "Science Centers",
+      "address": "35 Ha Hoohlo Street, Maseru South, Maseru",
+      "opening_hours": "11:00-18:00",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/400x300/?kids+robotics,coding+for+children",
+      "tags": [
+        "technology",
+        "robotics",
+        "coding"
+      ]
+    },
+    {
+      "id": "SP001",
+      "name": "Fairy Tale Forest Park",
+      "short_description": "Wander through enchanting themed areas inspired by classic fairy tales, with hidden surprises and interactive elements at every turn.",
+      "subtype": "Storytelling Parks",
+      "address": "10 Thaba-Bosiu Road, Maseru Rural, Maseru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?fairy+tale+park,storytelling+garden+kids",
+      "tags": [
+        "fantasy",
+        "characters",
+        "imagination"
+      ]
+    },
+    {
+      "id": "SP002",
+      "name": "Legends of Lesotho Garden",
+      "short_description": "A unique park dedicated to Basotho folklore, featuring sculptures, performance areas, and guided storytelling of traditional Sesotho legends.",
+      "subtype": "Storytelling Parks",
+      "address": "25 Roma Road, Maseru District, Maseru",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/400x300/?lesotho+folklore+park,traditional+stories+children",
+      "tags": [
+        "folklore",
+        "culture",
+        "performances"
+      ]
+    },
+    {
+      "id": "SP003",
+      "name": "Imagination Grove",
+      "short_description": "An open-ended play park designed to inspire children's own stories, with natural play structures, quiet reading nooks, and a small amphitheater.",
+      "subtype": "Storytelling Parks",
+      "address": "50 Lower Thamae, Maseru North, Maseru",
+      "opening_hours": "08:00-19:00",
+      "price_level": "free",
+      "images": "https://source.unsplash.com/random/400x300/?kids+imagination+park,creative+play+garden",
+      "tags": [
+        "nature play",
+        "reading",
+        "creativity"
+      ]
+    },
+    {
+      "id": "SP004",
+      "name": "Story Weaver's Green",
+      "short_description": "A vibrant community space hosting regular storytelling events, puppet shows, and interactive workshops for children and families.",
+      "subtype": "Storytelling Parks",
+      "address": "65 Thabong Street, Maseru South, Maseru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/400x300/?storytelling+events+kids,puppet+show+park",
+      "tags": [
+        "community",
+        "puppet shows",
+        "workshops"
+      ]
+    },
+    {
+      "id": "CMG001",
+      "name": "Adventure Character Plaza",
+      "short_description": "Meet and greet your favorite adventure cartoon characters, get autographs, and capture memorable photos in a lively, themed plaza.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Masculino Mall, Kingsway Road, Maseru",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?cartoon+character+meet+greet,kids+adventure+characters",
+      "tags": [
+        "characters",
+        "photos",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "CMG002",
+      "name": "Mascot Kingdom Meetup",
+      "short_description": "A joyful spot where popular mascots come to life, offering high-fives, hugs, and photo opportunities with their biggest little fans.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Maseru Mall, Pioneer Road, Maseru",
+      "opening_hours": "11:00-17:00",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/400x300/?mascot+kids+event,children+mascot+meeting",
+      "tags": [
+        "mascots",
+        "fun",
+        "family"
+      ]
+    },
+    {
+      "id": "CMG003",
+      "name": "Toon Town Greetings",
+      "short_description": "Step into a world of animated magic where beloved characters from famous cartoons await to share a moment and a smile with children.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Lancers Gap Shopping Centre, Moshoeshoe Road, Maseru",
+      "opening_hours": "10:30-17:30",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?cartoon+meet+greet+children,animated+characters+kids",
+      "tags": [
+        "animated",
+        "photo op",
+        "magic"
+      ]
+    },
+    {
+      "id": "CMG004",
+      "name": "Fantasy Friends Forum",
+      "short_description": "Encounter fantastical creatures and whimsical characters from storybooks and cartoons in a charming, interactive setting.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Maputsoe Road, Maseru North, Maseru",
+      "opening_hours": "12:00-16:00",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/400x300/?fantasy+characters+kids,children+story+characters",
+      "tags": [
+        "fantasy",
+        "whimsical",
+        "interactive"
+      ]
+    },
+    {
+      "id": "MSA001",
+      "name": "Junior Champs Arena",
+      "short_description": "A multi-sport complex scaled for children, featuring mini pitches for soccer, basketball courts, and agile obstacle courses.",
+      "subtype": "Mini Sports Arenas",
+      "address": "70 Ha Hoohlo Street, Maseru South, Maseru",
+      "opening_hours": "08:00-18:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?kids+sports+arena,children+multi+sport",
+      "tags": [
+        "soccer",
+        "basketball",
+        "agility"
+      ]
+    },
+    {
+      "id": "MSA002",
+      "name": "Little Kicks Stadium",
+      "short_description": "A dedicated mini soccer stadium where young players can practice their skills, join friendly matches, and feel like real football stars.",
+      "subtype": "Mini Sports Arenas",
+      "address": "40 Thabong Road, Maseru East, Maseru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/400x300/?mini+soccer+kids,children+football+pitch",
+      "tags": [
+        "soccer",
+        "football",
+        "team sports"
+      ]
+    },
+    {
+      "id": "MSA003",
+      "name": "Bounce & Score Hub",
+      "short_description": "Featuring mini basketball and netball courts, this hub is perfect for kids to develop hand-eye coordination and enjoy fast-paced games.",
+      "subtype": "Mini Sports Arenas",
+      "address": "95 Khubetsoana Street, Maseru West, Maseru",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?kids+basketball+court,children+netball",
+      "tags": [
+        "basketball",
+        "netball",
+        "active play"
+      ]
+    },
+    {
+      "id": "MSA004",
+      "name": "Ninja Kidz Course",
+      "short_description": "An exciting indoor/outdoor obstacle course designed for kids to test their strength, balance, and agility in a fun and challenging way.",
+      "subtype": "Mini Sports Arenas",
+      "address": "110 Qoaling Road, Maseru South, Maseru",
+      "opening_hours": "09:30-16:30",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/400x300/?kids+obstacle+course,ninja+warrior+children",
+      "tags": [
+        "agility",
+        "challenge",
+        "fitness"
+      ]
+    },
+    {
+      "id": "TPK001",
+      "name": "Wonderland Maseru",
+      "short_description": "A delightful theme park featuring gentle rides, whimsical attractions, and character appearances, perfect for a full day of family fun.",
+      "subtype": "Theme Parks for Kids",
+      "address": "1 Wonderland Avenue, Thaba-Bosiu Road, Maseru",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/400x300/?kids+theme+park,childrens+wonderland",
+      "tags": [
+        "rides",
+        "family fun",
+        "attractions"
+      ]
+    },
+    {
+      "id": "TPK002",
+      "name": "Adventure Island Park",
+      "short_description": "Embark on an epic adventure at this pirate and explorer-themed park, complete with treasure hunts, water features, and interactive play zones.",
+      "subtype": "Theme Parks for Kids",
+      "address": "30 Adventure Bay, Roma Road, Maseru District",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?kids+adventure+park,pirate+theme+children",
+      "tags": [
+        "pirates",
+        "exploration",
+        "water play"
+      ]
+    },
+    {
+      "id": "TPK003",
+      "name": "Fantasy Funfair Land",
+      "short_description": "A magical funfair experience with classic carnival rides, enchanted carousels, and delightful games, bringing smiles to every child's face.",
+      "subtype": "Theme Parks for Kids",
+      "address": "55 Fantasy Lane, Lower Thamae, Maseru",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?kids+funfair,childrens+carnival",
+      "tags": [
+        "carnival",
+        "rides",
+        "games"
+      ]
+    },
+    {
+      "id": "TPK004",
+      "name": "Safari Kids World",
+      "short_description": "Go on a wild safari adventure without leaving Maseru! This park features animal-themed rides, a jungle gym, and immersive wildlife exhibits.",
+      "subtype": "Theme Parks for Kids",
+      "address": "80 Safari Drive, Ha Abia, Maseru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/400x300/?kids+safari+park,jungle+theme+children",
+      "tags": [
+        "safari",
+        "animals",
+        "jungle gym"
+      ]
+    },
+    {
+      "id": "ZPZ001",
+      "name": "Maseru Wildlife Haven",
+      "short_description": "A small, ethical zoo dedicated to local and regional wildlife, offering educational programs and close-up views of fascinating animals.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "2 Kingsway Road, Maseru Central, Maseru",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?kids+zoo,wildlife+haven+children",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "education"
+      ]
+    },
+    {
+      "id": "ZPZ002",
+      "name": "Gentle Paws Petting Farm",
+      "short_description": "Children can interact with friendly farm animals like goats, sheep, and rabbits, offering a delightful hands-on experience for animal lovers.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "18 Pioneer Road, Maseru East, Maseru",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/400x300/?petting+zoo+kids,farm+animals+children",
+      "tags": [
+        "farm animals",
+        "interactive",
+        "petting"
+      ]
+    },
+    {
+      "id": "ZPZ003",
+      "name": "Avian Wonders Sanctuary",
+      "short_description": "Discover a vibrant collection of local and exotic birds in spacious aviaries, with daily feeding demonstrations and educational talks.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "60 Moshoeshoe Road, Maseru West, Maseru",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?kids+bird+sanctuary,avian+park+children",
+      "tags": [
+        "birds",
+        "aviary",
+        "nature"
+      ]
+    },
+    {
+      "id": "ZPZ004",
+      "name": "Reptile Rendezvous Park",
+      "short_description": "A fascinating park dedicated to reptiles and amphibians, allowing children to safely observe snakes, lizards, and tortoises.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "85 Ha Hoohlo Street, Maseru South, Maseru",
+      "opening_hours": "11:00-17:00",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/400x300/?kids+reptile+park,children+snakes+lizards",
+      "tags": [
+        "reptiles",
+        "exotic animals",
+        "education"
+      ]
+    },
+    {
+      "id": "DP001",
+      "name": "Dino-Land Maseru",
+      "short_description": "Step back in time at this thrilling park featuring life-sized animatronic dinosaurs, interactive dig sites, and educational exhibits on prehistoric life.",
+      "subtype": "Dinosaur Parks",
+      "address": "15 Dino-Land Way, Roma Road, Maseru District",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/400x300/?dinosaur+park+kids,animatronic+dinosaurs",
+      "tags": [
+        "dinosaurs",
+        "animatronics",
+        "paleontology"
+      ]
+    },
+    {
+      "id": "DP002",
+      "name": "Jurassic Kids Adventure",
+      "short_description": "A themed playground where children can explore giant dinosaur structures, dig for 'fossils,' and learn about different dino species.",
+      "subtype": "Dinosaur Parks",
+      "address": "30 Fossil Ridge, Thaba-Bosiu Road, Maseru Rural",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?kids+dinosaur+playground,jurassic+park+children",
+      "tags": [
+        "playground",
+        "fossils",
+        "adventure"
+      ]
+    },
+    {
+      "id": "DP003",
+      "name": "Prehistoric Pathways Park",
+      "short_description": "Walk along paths adorned with impressive dinosaur replicas and informative displays, detailing the history of these magnificent creatures.",
+      "subtype": "Dinosaur Parks",
+      "address": "55 Ancient Trail, Lower Thamae, Maseru",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/400x300/?dinosaur+replica+park,prehistoric+pathways+kids",
+      "tags": [
+        "replicas",
+        "history",
+        "education"
+      ]
+    },
+    {
+      "id": "DP004",
+      "name": "Fossil Fun Exploration Center",
+      "short_description": "An indoor center offering interactive exhibits on dinosaur bones, fossil casting workshops, and virtual reality experiences with prehistoric beasts.",
+      "subtype": "Dinosaur Parks",
+      "address": "88 Quarry Street, Ha Abia, Maseru",
+      "opening_hours": "10:30-17:30",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/400x300/?kids+fossil+dig,dinosaur+vr+children",
+      "tags": [
+        "fossils",
+        "workshops",
+        "virtual reality"
+      ]
+    },
+    {
+      "id": "AR001",
+      "name": "Carousel of Dreams",
+      "short_description": "A classic, beautifully crafted carousel featuring various animal figures, providing a timeless and magical ride for young children.",
+      "subtype": "Amusement Rides",
+      "address": "Maseru Family Fun Park, Kingsway Road, Maseru",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/400x300/?kids+carousel,children+merry+go+round",
+      "tags": [
+        "carousel",
+        "classic ride",
+        "gentle"
+      ]
+    },
+    {
+      "id": "AR002",
+      "name": "Mini Coaster Thrills",
+      "short_description": "A pint-sized roller coaster offering gentle dips and turns, perfect for first-time thrill-seekers and younger adventurers.",
+      "subtype": "Amusement Rides",
+      "address": "Adventure Land, Pioneer Road, Maseru",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?kids+roller+coaster,children+mini+coaster",
+      "tags": [
+        "roller coaster",
+        "thrill",
+        "excitement"
+      ]
+    },
+    {
+      "id": "AR003",
+      "name": "Sky High Swings",
+      "short_description": "Soar through the air on this delightful chair swing ride, offering panoramic views and a breezy experience for children and adults alike.",
+      "subtype": "Amusement Rides",
+      "address": "Joyland Park, Moshoeshoe Road, Maseru",
+      "opening_hours": "10:30-17:30",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/400x300/?kids+swing+ride,children+chair+swings",
+      "tags": [
+        "swing ride",
+        "views",
+        "breezy"
+      ]
+    },
+    {
+      "id": "AR004",
+      "name": "Bumper Cars Bash",
+      "short_description": "Hop into a colorful bumper car and navigate the arena, bumping and dodging friends and family in a fun and safe environment.",
+      "subtype": "Amusement Rides",
+      "address": "Fun City Arcade, Ha Hoohlo Street, Maseru",
+      "opening_hours": "12:00-20:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/400x300/?kids+bumper+cars,children+car+ride",
+      "tags": [
+        "bumper cars",
+        "interactive",
+        "speed"
+      ]
+    }
+  ]
+}

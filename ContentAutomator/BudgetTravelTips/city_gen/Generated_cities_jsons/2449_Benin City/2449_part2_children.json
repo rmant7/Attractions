@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Benin City",
+    "city_id": "2449"
+  },
+  "items": [
+    {
+      "id": "MGS001",
+      "name": "Edo Magic Palace",
+      "short_description": "Step into a world of wonder where local Edo myths meet breathtaking illusions. Expect disappearing acts, levitation, and mind-bending tricks that will leave children spellbound.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "15 Oba Akenzua Rd, GRA, Benin City",
+      "opening_hours": "14:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1577742045958-8b0b87569107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fG1hZ2ljJTIwc2hvdyUyMGtpZHN8ZW58MHx8fHwxNzA3OTUwNjg1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "magic show",
+        "illusions",
+        "family entertainment"
+      ]
+    },
+    {
+      "id": "MGS002",
+      "name": "Royal Illusion Theater",
+      "short_description": "A grand stage for fantastical feats! Enjoy a dazzling array of magical performances, from card tricks to grand escapes, designed to amaze young audiences and spark their imagination.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Opposite Adesuwa Grammar School, Sapele Rd, Benin City",
+      "opening_hours": "15:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549488346-a45b6b801a2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8aWxsdXNpb24lMjBzdGFnZXxlbnwwfHx8fDE3MDc5NTA3MTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "stage magic",
+        "visual tricks",
+        "kids friendly"
+      ]
+    },
+    {
+      "id": "MGS003",
+      "name": "Mystical Wonders Hall",
+      "short_description": "Experience close-up magic and interactive illusions that bring children into the heart of the mystery. Witness objects vanish and reappear, right before your eyes.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "40 Airport Road, Oredo, Benin City",
+      "opening_hours": "16:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596707248161-01f2f8164a25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8bWFnaWMlMjB0cmlja3N8ZW58MHx8fHwxNzA3OTUwNzI5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "interactive magic",
+        "close-up",
+        "wonder"
+      ]
+    },
+    {
+      "id": "MGS004",
+      "name": "Sorcerer's Den",
+      "short_description": "A quaint spot for younger kids to enjoy simple yet charming magic tricks and learn a few easy illusions themselves. Perfect for a first introduction to the world of magic.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Ugbowo Express Road, By Uselu Market, Benin City",
+      "opening_hours": "10:00-13:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1577742054174-8b0b87569107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fG1hZ2ljJTIwc2hvdyUyMGNoaWxkcmVufGVufDB8fHx8MTcwNzk1MDc1MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "junior magic",
+        "easy tricks",
+        "learning"
+      ]
+    },
+    {
+      "id": "TPK001",
+      "name": "Edo Kids Fun Land",
+      "short_description": "A vibrant amusement park tailored for children, featuring gentle rides, bouncy castles, and a soft play area. It's a haven of laughter and excitement for all ages.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Along Akpakpava Road, Benin City",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520692736173-9a3c10a47321?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fGtpdHMlMjB0aGVtZSUyMHBhcmt8ZW58MHx8fHwxNzA3OTUyMDE3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "amusement park",
+        "rides",
+        "play area"
+      ]
+    },
+    {
+      "id": "TPK002",
+      "name": "Palm Tree Play Park",
+      "short_description": "An outdoor theme park with a jungle theme, offering slides, swings, and climbing frames under the shade of lush palm trees. Ideal for active children.",
+      "subtype": "Theme Parks for Kids",
+      "address": "12 Adesuwa Road, GRA, Benin City",
+      "opening_hours": "09:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563911602-d9b23b3a6283?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8Y2hpbGRyZW4lMjBhbXVzZW1lbnQlMjBwYXJrfGVufDB8fHx8MTcwNzk1MjAzMnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "outdoor play",
+        "jungle gym",
+        "active fun"
+      ]
+    },
+    {
+      "id": "TPK003",
+      "name": "Rainbow Adventure City",
+      "short_description": "A colorful indoor theme park featuring ball pits, obstacle courses, and mini-rides, ensuring fun regardless of the weather. Perfect for toddlers and young children.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Ekenwan Road, Opposite Army Barracks, Benin City",
+      "opening_hours": "11:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1597896429215-64c483a31c59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8a2lkcyUyMGZ1biUyMHBhcmt8ZW58MHx8fHwxNzA3OTUyMDQ3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "indoor park",
+        "soft play",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "TPK004",
+      "name": "Beninville Junior World",
+      "short_description": "A charming miniature world where kids can explore scaled-down versions of city buildings, drive mini cars, and engage in imaginative role-play activities.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Off Isihor Road, Near Igbinedion University, Benin City",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1595168051649-1d48c962b322?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTd8fGNoaWxkcmVuJTIwdGhlbWUlMjBwYXJrfGVufDB8fHx8MTcwNzk1MjE2NHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "miniature city",
+        "role play",
+        "imaginative play"
+      ]
+    },
+    {
+      "id": "CPT001",
+      "name": "Benin Big Top Circus",
+      "short_description": "A traditional circus experience featuring thrilling acrobatics, hilarious clowns, and mesmerizing animal acts (ethically sourced). A spectacle for the whole family.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Ring Road, By Oba Market, Benin City",
+      "opening_hours": "17:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1600889243764-a6e386901842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8Y2lyY3VzJTIwa2lkc3xlbnwwfHx8fDE3MDc5NTIyODJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "circus acts",
+        "clowns",
+        "family show"
+      ]
+    },
+    {
+      "id": "CPT002",
+      "name": "Royal Puppet Guild",
+      "short_description": "Enchanting puppet shows telling ancient Edo folk tales and modern children's stories. Hand-crafted puppets and engaging narratives captivate young audiences.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "10 New Lagos Road, Benin City",
+      "opening_hours": "14:30-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1509043592656-b072e9a2b5d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8cHVwcGV0JTIwc2hvd3xlbnwwfHx8fDE3MDc5NTIzMDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "puppet show",
+        "folktales",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "CPT003",
+      "name": "Jester's Jamboree",
+      "short_description": "A variety show combining circus skills, juggling, and comedic acts with a touch of puppetry. Energetic and interactive, it keeps kids on the edge of their seats.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Upper Mission Road, GRA Extension, Benin City",
+      "opening_hours": "16:30-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1638384214532-6a6c4061a9c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8OHx8Y2lyY3VzJTIwcGVyZm9ybWFuY2V8ZW58MHx8fHwxNzA3OTUyMzU4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "variety show",
+        "juggling",
+        "comedy"
+      ]
+    },
+    {
+      "id": "CPT004",
+      "name": "Ostrich Alley Puppets",
+      "short_description": "A unique puppet theater specializing in larger-than-life puppets and engaging children's plays. Watch as giant figures come to life, telling tales of adventure.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Gapiona Estate, Off Sapele Road, Benin City",
+      "opening_hours": "13:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1599308432363-22f30b2c1511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8a2lkcyUyMHB1cHBldHxlbnwwfHx8fDE3MDc5NTI0NzF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "large puppets",
+        "children's plays",
+        "visual spectacle"
+      ]
+    },
+    {
+      "id": "PLK001",
+      "name": "Star Gazer's Dome",
+      "short_description": "An immersive planetarium experience designed to introduce children to the wonders of the night sky, constellations, and our solar system through engaging visuals.",
+      "subtype": "Planetariums for Kids",
+      "address": "University of Benin Main Campus, Ugbowo, Benin City",
+      "opening_hours": "10:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517976694609-b7b51e06d691?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8cGxhbmV0YXJpdW0lMjBraWRzJTIwc2hvd3xlbnwwfHx8fDE3MDc5NTI1NzB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "space exploration",
+        "educational"
+      ]
+    },
+    {
+      "id": "PLK002",
+      "name": "Cosmic Kids Journey",
+      "short_description": "Take an interactive journey through space, learning about planets, stars, and galaxies with kid-friendly narrations and captivating projections. Perfect for budding astronauts.",
+      "subtype": "Planetariums for Kids",
+      "address": "Near Iyaro Motor Park, Ring Road, Benin City",
+      "opening_hours": "11:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1506443432410-ecb0ef5d52c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8c3BhY2UlMjBzY2llbmNlJTIwa2lkc3xlbnwwfHx8fDE3MDc5NTI2MTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "solar system",
+        "space science",
+        "interactive learning"
+      ]
+    },
+    {
+      "id": "PLK003",
+      "name": "Galaxy Explorer Center",
+      "short_description": "A state-of-the-art planetarium offering virtual reality experiences of space travel and detailed explorations of distant cosmic phenomena. Great for older children.",
+      "subtype": "Planetariums for Kids",
+      "address": "Medical Stores Road, GRA, Benin City",
+      "opening_hours": "13:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1542841498-8e668a6231ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8c3BhY2UlMjBkaXNjb3Zlcnl8ZW58MHx8fHwxNzA3OTUyNjU0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "VR space",
+        "cosmic exploration",
+        "advanced astronomy"
+      ]
+    },
+    {
+      "id": "PLK004",
+      "name": "Orion's Little Star Lab",
+      "short_description": "A smaller, cozy planetarium focusing on storytelling about mythological constellations and basic celestial mechanics. Ideal for very young children.",
+      "subtype": "Planetariums for Kids",
+      "address": "Off Igbinedion University Road, Okada, Benin City",
+      "opening_hours": "09:00-14:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1537233814830-109033481216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8OHx8cGxhbmV0YXJpdW0lMjBpbnNpZGV8ZW58MHx8fHwxNzA3OTUyNzA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "constellations",
+        "space stories",
+        "toddler space"
+      ]
+    },
+    {
+      "id": "AQG001",
+      "name": "Jungle Quest Labyrinth",
+      "short_description": "Navigate a thrilling outdoor labyrinth filled with puzzles, hidden clues, and physical challenges. Children work together to find their way out and complete the 'jungle quest'.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Off Boundary Road, GRA, Benin City",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1528646039525-ee9162985f52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fGtpdHMlMjBhZHZlbnR1cmUlMjBnYW1lfGVufDB8fHx8MTcwNzk1Mjk3Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "maze",
+        "puzzles",
+        "team challenge"
+      ]
+    },
+    {
+      "id": "AQG002",
+      "name": "Ancient Benin Treasure Hunt",
+      "short_description": "Embark on an epic treasure hunt across a simulated ancient Benin kingdom. Solve riddles related to local history and culture to uncover the hidden 'Oba's treasure'.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Egor Local Government Area, Benin City",
+      "opening_hours": "10:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1629088514169-2f54d4850c26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fGNoaWxkcmVuJTIwYWR2ZW50dXJlJTIwcGFya3xlbnwwfHx8fDE3MDc5NTI5NDl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "treasure hunt",
+        "history",
+        "cultural"
+      ]
+    },
+    {
+      "id": "AQG003",
+      "name": "Mystery Manor Challenge",
+      "short_description": "An indoor adventure game set in a mysterious manor house. Kids must find clues, solve logical puzzles, and unlock secrets to complete their mission before time runs out.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Off Country Home Road, Ugbor, Benin City",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1599547136279-3c7270b24076?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8b3V0ZG9vciUyMGV4cGxvcmF0aW9uJTIwa2lkc3xlZW58MHx8fDE3MDc5NTMxMTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "escape room",
+        "logic puzzles",
+        "indoor adventure"
+      ]
+    },
+    {
+      "id": "AQG004",
+      "name": "Safari Scavenger World",
+      "short_description": "A vast outdoor area designed for scavenger hunts and exploration, with themed zones representing different safari environments. Kids use maps and compasses to find items.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Ugbor-Amagba Road, Off Sapele Road, Benin City",
+      "opening_hours": "08:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533664724647-380d0d826a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fGtpdHMlMjBwbGF5Z3JvdW5kfGVufDB8fHx8MTcwNzk1MzIxOXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "scavenger hunt",
+        "outdoor exploration",
+        "safari theme"
+      ]
+    },
+    {
+      "id": "AQU001",
+      "name": "Niger Delta Aqua World",
+      "short_description": "Explore the rich aquatic life of the Niger Delta region, showcasing various freshwater and brackish water species. Educational exhibits teach about conservation.",
+      "subtype": "Aquariums",
+      "address": "By Ikpoba Hill, Benin-Agbor Expressway, Benin City",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1509611756401-20907e5c5432?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8YXF1YXJpdW0lMjBraWRzfGVufDB8fHx8MTcwNzk1MzM3MXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "freshwater fish",
+        "conservation",
+        "local marine life"
+      ]
+    },
+    {
+      "id": "AQU002",
+      "name": "Benin Lagoon Life",
+      "short_description": "Dedicated to the unique ecosystems found in the lagoons and coastal areas surrounding Benin City. See species like manatees, crocodiles, and various birdlife in natural habitats.",
+      "subtype": "Aquariums",
+      "address": "Benin-Agbor Expressway, Near Oregbeni, Benin City",
+      "opening_hours": "10:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549117621-3e4b7b25287f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8N3x8YWxsaWdhdG9yJTIwYXF1YXJpdW18ZW58MHx8fHwxNzA3OTUzMzg0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lagoon ecosystem",
+        "manatees",
+        "crocodiles"
+      ]
+    },
+    {
+      "id": "AQU003",
+      "name": "Ocean Discovery Hub",
+      "short_description": "A state-of-the-art aquarium showcasing exotic marine life from around the world. Features touch tanks, interactive displays, and daily feeding shows for an immersive experience.",
+      "subtype": "Aquariums",
+      "address": "River Road, Off Sakponba Road, Benin City",
+      "opening_hours": "09:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547372332-6a7f9202167d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8N3x8ZmlzaCUyMGFxdWFyaXVtfGVufDB8fHx8MTcwNzk1MzQwNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marine biology",
+        "exotic fish",
+        "interactive exhibits"
+      ]
+    },
+    {
+      "id": "AQU004",
+      "name": "Freshwater Wonders",
+      "short_description": "A smaller, focused aquarium dedicated to the incredible diversity of freshwater fish and amphibians found in local rivers and lakes. Learn about their unique adaptations.",
+      "subtype": "Aquariums",
+      "address": "Uselu Shell Road, Opposite Stella Obasanjo Hospital, Benin City",
+      "opening_hours": "11:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1620958156157-0a4409392e21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8c2VhJTIwdHVydGxlJTIwa2lkc3xlbnwwfHx8fDE3MDc5NTM0NDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "freshwater aquarium",
+        "amphibians",
+        "local ecology"
+      ]
+    },
+    {
+      "id": "STP001",
+      "name": "Anansi's Story Garden",
+      "short_description": "A lush, green space where professional storytellers bring African folk tales, especially those of Anansi the Spider, to life under the shade of ancient trees. Interactive sessions for kids.",
+      "subtype": "Storytelling Parks",
+      "address": "Off Airport Road, Near Benin Airport, Benin City",
+      "opening_hours": "10:00-14:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1555462058-2041285227d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fHN0b3J5dGVsbGluZyUyMHBhcmslMjBraWRzfGVufDB8fHx8MTcwNzk1MzY1OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "folk tales",
+        "Anansi stories",
+        "outdoor storytelling"
+      ]
+    },
+    {
+      "id": "STP002",
+      "name": "Griot's Grove",
+      "short_description": "A cultural storytelling park where elders share traditional Edo narratives, proverbs, and songs, connecting children with their heritage in a serene, natural setting.",
+      "subtype": "Storytelling Parks",
+      "address": "Off Sapele Road, After Ologbo, Benin City",
+      "opening_hours": "12:00-15:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1552345840-0f3299446d5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Y2hpbGRyZW4lMjBzdG9yeSUyMHRpbWV8ZW58MHx8fHwxNzA3OTUzNzEyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "traditional stories",
+        "cultural heritage",
+        "free activities"
+      ]
+    },
+    {
+      "id": "STP003",
+      "name": "Whispering Woods Tales",
+      "short_description": "An enchanting forest-themed park where different 'story points' feature audio narratives, interactive puzzles, and costumed characters telling magical fairy tales.",
+      "subtype": "Storytelling Parks",
+      "address": "Textile Mill Road, Ugbowo, Benin City",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520627582522-83b5443a53d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8cGFyayUyMGJlbmNoJTIwcmVhZGluZ3xlbnwwfHx8fDE3MDNzk1Mzc3MHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fairy tales",
+        "interactive stories",
+        "forest theme"
+      ]
+    },
+    {
+      "id": "STP004",
+      "name": "Folklore Funfair",
+      "short_description": "Combines storytelling with carnival games and craft workshops, all themed around global folklores. Children can listen to stories then engage in activities inspired by them.",
+      "subtype": "Storytelling Parks",
+      "address": "Along Auchi Road, Egor, Benin City",
+      "opening_hours": "11:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1542472918-0599a0ed4059?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fGtpZHMlMjByZWFkaW5nJTIwYm9va3N8ZW58MHx8fHwxNzA3OTUzNzk5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "global folklore",
+        "crafts",
+        "carnival games"
+      ]
+    },
+    {
+      "id": "LCP001",
+      "name": "Benin Brick Builders",
+      "short_description": "A massive indoor space dedicated to Lego and other building blocks. Kids can build anything imaginable, participate in building challenges, and view impressive Lego sculptures.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Murtala Muhammed Way, Off Ugbowo, Benin City",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1533722245239-2e11dd4d6d67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8bGVnb3xlbnwwfHx8fDE3MDNzk1Mzk1OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Lego building",
+        "creative play",
+        "construction challenges"
+      ]
+    },
+    {
+      "id": "LCP002",
+      "name": "Creative Blocks Kingdom",
+      "short_description": "An imaginative construction park with various types of building blocks, from giant soft blocks for toddlers to intricate magnetic tiles for older kids. Encourages collaborative building.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "18 Siluko Road, Benin City",
+      "opening_hours": "11:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510531704581-5b2874fa60ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Nnx8Y2hpbGRyZW4lMjBjb25zdHJ1Y3Rpb24lMjBwbGF5fGVufDB8fHx8MTcwNzk1Mzk3OXww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "building blocks",
+        "toddler friendly",
+        "collaborative play"
+      ]
+    },
+    {
+      "id": "LCP003",
+      "name": "Master Builder's Yard",
+      "short_description": "An outdoor construction zone where children can use real (safe) tools and materials to build small structures, fostering practical skills and teamwork.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Aduwawa Road, Behind God is Good Motors, Benin City",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558223945-f09b3052a926?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fGxheWdvc3xlbnwwfHx8fDE3MDNzk1Mzk2OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "outdoor construction",
+        "tool play",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "LCP004",
+      "name": "Gear & Gadget City",
+      "short_description": "A park focused on mechanical construction, with gear sets, K'nex, and robotic kits. Kids learn about simple machines and engineering principles through hands-on building.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Ekenwan Road Bypass, Opp. UNIBEN Gate 2, Benin City",
+      "opening_hours": "12:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582030635955-a2283995f70b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8bGVnb2xhbmQlMjBraWRzfGVufDB8fHx8MTcwNzk1NDA0OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "robotics",
+        "engineering",
+        "STEM play"
+      ]
+    },
+    {
+      "id": "CMG001",
+      "name": "Character Carnival Corner",
+      "short_description": "Meet and greet beloved cartoon characters, take photos, and enjoy mini-shows and games. Features rotating popular characters from classic and modern cartoons.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Oba Market Road, City Center, Benin City",
+      "opening_hours": "14:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627092953266-9e6e87b7a67f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Y2FydG9vbiUyMGNoYXJhY3RlcnxlbnwwfHx8fDE3MDc5NTQyNjh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cartoon characters",
+        "photo opportunity",
+        "family fun"
+      ]
+    },
+    {
+      "id": "CMG002",
+      "name": "Toon Town Meetup",
+      "short_description": "An interactive zone where children can high-five, dance with, and get autographs from their favorite animated mascots. Special themed events happen monthly.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Mission Road, Near St. Paul's Catholic Church, Benin City",
+      "opening_hours": "11:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621213271509-5a1d74ef8211?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8bWFzY290JTIwa2lkc3xlbnwwfHx8fDE3MDc5NTQyODV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mascot",
+        "interactive",
+        "themed events"
+      ]
+    },
+    {
+      "id": "CMG003",
+      "name": "Mascot's Manor",
+      "short_description": "A charming manor house where storybook characters come to life for personalized meet-and-greet sessions. Children can have tea parties or participate in small games with their heroes.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Ezoti Street, Off Sakponba Road, Benin City",
+      "opening_hours": "10:00-13:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1574044199551-b8471e431872?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fGNhcnRvb24lMjBjaGFyY3RzJTIwa2lkc3xlbnwwfHx8fDE3MDc5NTQzMzd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "storybook characters",
+        "tea party",
+        "personalized experience"
+      ]
+    },
+    {
+      "id": "CMG004",
+      "name": "Friendly Faces Fiesta",
+      "short_description": "A lively outdoor festival where multiple cartoon characters roam, interacting with guests, performing short skits, and leading parades. A vibrant and energetic experience.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Uwa Street, Off Mission Road, Benin City",
+      "opening_hours": "15:00-18:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1557088494-1a3b9074b6a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTh8fGNhcnRvb24lMjBldmVudCUyMGtpZHN8ZW58MHx8fHwxNzA3OTU0MzcwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "parade",
+        "outdoor event",
+        "multiple characters"
+      ]
+    },
+    {
+      "id": "SCC001",
+      "name": "Curious Kids Lab",
+      "short_description": "An interactive science center where children can perform simple experiments, learn about physics, chemistry, and biology through hands-on activities. Led by friendly scientists.",
+      "subtype": "Science Centers",
+      "address": "Okhoro Road, After Textile Mill Road, Benin City",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1587834720964-b6d859b8d23d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8a2lkcyUyMHNjaWVuY2UlMjBjZW50ZXJ8ZW58MHx8fHwxNzA3OTU0NTI3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "hands-on science",
+        "experiments",
+        "STEM learning"
+      ]
+    },
+    {
+      "id": "SCC002",
+      "name": "Innovation Explorers",
+      "short_description": "Focusing on engineering and technology, this center allows kids to design, build, and test their own inventions, from simple machines to basic robotics. Inspires future innovators.",
+      "subtype": "Science Centers",
+      "address": "Murtala Mohammed Way, Near Ramat Park, Benin City",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1532187835105-0e104d445479?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Nnx8Y2hpbGRyZW4lMjBzY2llbmNlJTIwYWN0aXZpdHl8ZW58MHx8fHwxNzA3OTU0NTQ0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "engineering",
+        "robotics",
+        "invention"
+      ]
+    },
+    {
+      "id": "SCC003",
+      "name": "Young Discoverers Hub",
+      "short_description": "A playful science center with exhibits on the human body, nature, and the environment. Features sensory experiences and interactive displays tailored for early learners.",
+      "subtype": "Science Centers",
+      "address": "College Road, Off Ugbowo-Lagos Road, Benin City",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1583911145391-561b2e697843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fGNoaWxkcmVuJTIwc2NpZW5jZSUyMG11c2V1bXxlbnwwfHx8fDE3MDc5NTQ1NTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "early science",
+        "nature",
+        "sensory play"
+      ]
+    },
+    {
+      "id": "SCC004",
+      "name": "Edo STEM Zone",
+      "short_description": "A comprehensive STEM center offering workshops in coding, science, technology, engineering, and math for various age groups, blending fun with critical thinking.",
+      "subtype": "Science Centers",
+      "address": "Benin-Auchi Road, Eyaen, Benin City",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563200782-b7e28325a2b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fGNoaWxkcmVuJTIwc2NpZW5jZSUyMG11c2V1bXxlbnwwfHx8fDE3MDc5NTQ2NzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "STEM workshops",
+        "coding",
+        "critical thinking"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Homa Bay",
+    "city_id": "2427"
+  },
+  "items": [
+    {
+      "id": "HB-LakeVista",
+      "name": "Lake Victoria Panorama Point",
+      "short_description": "Opened in 2023, this newly developed viewpoint offers breathtaking, unobstructed vistas of Lake Victoria and the distant Rusinga Island. Perfect for sunset photography and peaceful contemplation.",
+      "address": "Gwassi Hills Road, near Tom Mboya University, Homa Bay",
+      "opening_hours": "07:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549725807-dc3b7a5a415a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "scenic view",
+        "nature",
+        "photography"
+      ]
+    },
+    {
+      "id": "HB-ArtisanMarket",
+      "name": "Homa Bay Crafts & Culture Bazaar",
+      "short_description": "Established in 2022, this vibrant open-air market celebrates local talent, showcasing handmade crafts, traditional Luo artifacts, and organic produce. Enjoy cultural performances on weekends.",
+      "address": "Off A1 Road, next to the Bus Park, Homa Bay Town",
+      "opening_hours": "10:00-18:00 (Thu-Sat)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1598409749557-f6d0a7a00f2e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "market",
+        "culture",
+        "shopping"
+      ]
+    },
+    {
+      "id": "HB-EcoLodge",
+      "name": "Rusinga Shores Eco-Lodge & Retreat",
+      "short_description": "Opened its doors in 2021, offering sustainable luxury on the shores of Lake Victoria. Features eco-friendly cottages, guided nature walks, and serene lake access for a truly immersive escape.",
+      "address": "Kandiege Bay, Homa Bay County",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1522066848135-c3c242c73335?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "eco-tourism",
+        "accommodation",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "HB-WetlandsWalk",
+      "name": "Nyamarambe Wetland Birding Trail",
+      "short_description": "Unveiled in 2023, this accessible boardwalk meanders through crucial wetlands, offering exceptional birdwatching opportunities for local and migratory species. A nature lover's paradise.",
+      "address": "Along River Homa, near Asego Market, Homa Bay",
+      "opening_hours": "08:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1502693822187-b24843ed294f?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "birdwatching",
+        "nature trail",
+        "wetlands"
+      ]
+    },
+    {
+      "id": "HB-AquaPark",
+      "name": "Homa Bay Lakeside Aqua Park",
+      "short_description": "Opened in 2024, this family-friendly park brings splashy fun to Homa Bay with thrilling water slides, a lazy river, and a dedicated kids' play area, all overlooking the lake.",
+      "address": "Kisumu Road, next to Homa Bay Pier",
+      "opening_hours": "10:00-18:00 (daily)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582294154449-0c3dfc9ff11a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "family fun",
+        "water park",
+        "leisure"
+      ]
+    },
+    {
+      "id": "HB-CafeGallery",
+      "name": "The Canvas & Coffee Spot",
+      "short_description": "A charming café and art gallery that launched in 2023, showcasing works by local artists while serving gourmet coffee and light bites. A perfect blend of culture and relaxation.",
+      "address": "Ojijo Road, Homa Bay Town Centre",
+      "opening_hours": "08:30-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1541167715-05e1974ff724?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cafe",
+        "art gallery",
+        "culture"
+      ]
+    },
+    {
+      "id": "HB-AdventureCamp",
+      "name": "Simbi Hills Adventure Camp",
+      "short_description": "Opened in 2022, this camp offers thrilling activities like zip-lining across the valley, rock climbing, and guided nature hikes around the mystical Lake Simbi. An adrenaline seeker's dream.",
+      "address": "Near Lake Simbi, Rachuonyo North",
+      "opening_hours": "08:00-17:00 (by appointment)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1583095393527-dc59955e8881?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "hiking",
+        "outdoor activities"
+      ]
+    },
+    {
+      "id": "HB-KidsCenter",
+      "name": "Nduru Children's Discovery Centre",
+      "short_description": "A vibrant educational play space for children aged 3-12, inaugurated in 2024. Features interactive exhibits, science experiments, and creative workshops designed to inspire young minds.",
+      "address": "Near Homa Bay Hospital, Homa Bay Town",
+      "opening_hours": "09:00-16:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563461491226-f78a75e2d631?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "children",
+        "education",
+        "family fun"
+      ]
+    },
+    {
+      "id": "HB-FloatingResto",
+      "name": "Lakeside Grill & Floating Restaurant",
+      "short_description": "Launched in 2023, this unique dining experience offers delicious local and international cuisine served on a gently floating platform on Lake Victoria. Enjoy stunning views with your meal.",
+      "address": "Homa Bay Pier, Kisumu Road",
+      "opening_hours": "12:00-22:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1629858638645-81676f265f29?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "restaurant",
+        "dining",
+        "lakefront"
+      ]
+    },
+    {
+      "id": "HB-CommunityPark",
+      "name": "Ondiek Green Community Park",
+      "short_description": "Opened in 2024, this beautifully landscaped urban park provides a much-needed green space for relaxation, family picnics, and community events in the heart of Homa Bay Town.",
+      "address": "Next to the County Assembly, Homa Bay Town",
+      "opening_hours": "06:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1568260024479-ca01d4a07671?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "park",
+        "community",
+        "relaxation"
+      ]
+    }
+  ]
+}

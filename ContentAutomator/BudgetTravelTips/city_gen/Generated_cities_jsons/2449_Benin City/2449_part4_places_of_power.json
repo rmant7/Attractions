@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Benin City",
+    "city_id": "2449"
+  },
+  "items": [
+    {
+      "id": "BCM001",
+      "name": "The Stone of Royal Oaths",
+      "short_description": "A large, naturally smooth granite monolith used for centuries during the coronation rites of Benin Obas and significant royal declarations. Its surface is said to absorb ancestral wisdom.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Along Uzama Street, near Uselu, Benin City, Edo State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/8911244/pexels-photo-8911244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "royal history",
+        "ancestral rites",
+        "sacred stone"
+      ]
+    },
+    {
+      "id": "BCM002",
+      "name": "Oracle's Granite Seat",
+      "short_description": "A striking, naturally formed rock chair believed to be the ancient seating place of the renowned Igue-Edo oracles, where they delivered prophecies and guided the kingdom.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Off Ekenwan Road, towards Okhokhugbo Village, Benin City, Edo State",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "NGN 500",
+      "images": "https://images.pexels.com/photos/15989107/pexels-photo-15989107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "prophecy",
+        "ancient oracle",
+        "natural wonder"
+      ]
+    },
+    {
+      "id": "BCM003",
+      "name": "Shrine of the Earth Heart",
+      "short_description": "A cluster of ancient, weathered rocks forming a natural, open-air altar. It is dedicated to the primordial Earth Mother spirit, revered for fertility and communal well-being.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Inside Okomu Forest Reserve (accessible via guided tour from Benin City), Edo State",
+      "visiting_hours": "07:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/10636294/pexels-photo-10636294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "earth spirit",
+        "fertility rites",
+        "natural altar"
+      ]
+    },
+    {
+      "id": "BCM004",
+      "name": "Ancestral Rock Pillar of Ikpoba",
+      "short_description": "A towering, solitary rock pillar standing sentinel over the Ikpoba River valley, believed to be a solidified ancestral spirit protecting the community. Offerings are left at its base.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Near Ikpoba Dam, off Akpakpava Road, Benin City, Edo State",
+      "visiting_hours": "10:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/22610731/pexels-photo-22610731/free-photo-of-monoliths-in-the-valley-of-fire-state-park.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "ancestral worship",
+        "guardian spirit",
+        "natural monument"
+      ]
+    },
+    {
+      "id": "BCT001",
+      "name": "Okomu Temple of the Great Mother",
+      "short_description": "Ruins of a revered ancient temple dedicated to Okomu, the Great Mother goddess, guardian of the forest and its creatures. Pilgrims seek her blessings for protection and abundance.",
+      "subtype": "Ancient Temples",
+      "address": "Okomu National Park (entry point near Okomu Town), Edo State",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://images.pexels.com/photos/906059/pexels-photo-906059.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "goddess worship",
+        "forest deity",
+        "ancient ruins"
+      ]
+    },
+    {
+      "id": "BCT002",
+      "name": "Royal Ancestral Altar of Ughoton",
+      "short_description": "This sacred site marks the former ancestral altar of the Oba's lineage in Ughoton, an ancient port town crucial to Benin's history. It is a place of deep royal reverence and spiritual power.",
+      "subtype": "Ancient Temples",
+      "address": "Ughoton Community, near Ovia North-East LGA, Edo State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/17228394/pexels-photo-17228394/free-photo-of-man-in-white-robe-walking-near-ruined-building.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "royal lineage",
+        "ancestral veneration",
+        "historical site"
+      ]
+    },
+    {
+      "id": "BCT003",
+      "name": "Igodomigodo Shrine of the Forefathers",
+      "short_description": "Believed to be one of the oldest spiritual sites in the region, predating the Benin Kingdom. It is dedicated to the earliest ancestors of the Edo people, known as Igodomigodo.",
+      "subtype": "Ancient Temples",
+      "address": "Old Benin City Walls Perimeter, off Sapele Road, Benin City, Edo State",
+      "visiting_hours": "10:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/10757230/pexels-photo-10757230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "pre-Benin history",
+        "primordial ancestors",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "BCT004",
+      "name": "Temple of the Sacred Iroko Grove",
+      "short_description": "A traditional temple nestled within a dense grove of ancient Iroko trees, considered sacred. It is a site for appeasing forest spirits and seeking blessings for longevity and prosperity.",
+      "subtype": "Ancient Temples",
+      "address": "Inside Iroko Sacred Forest, off Murtala Muhammed Way, Benin City, Edo State",
+      "visiting_hours": "08:30-16:30",
+      "entry_fee": "NGN 750",
+      "images": "https://images.pexels.com/photos/2568469/pexels-photo-2568469.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "forest spirits",
+        "traditional religion",
+        "sacred trees"
+      ]
+    },
+    {
+      "id": "BCA001",
+      "name": "Old Benin Walls - Sacred Gate Ruins",
+      "short_description": "Vestiges of the monumental ancient walls and moats that once protected Benin City. The ruins of the ceremonial Edaiken Gate are particularly revered for their spiritual significance.",
+      "subtype": "Ancient Cities",
+      "address": "East Gate Ruins, off Upper Ekenwan Road, Benin City, Edo State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/10757230/pexels-photo-10757230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "ancient fortifications",
+        "Benin Kingdom",
+        "historical landmark"
+      ]
+    },
+    {
+      "id": "BCA002",
+      "name": "Igue-Iha Archaeological Site",
+      "short_description": "An active archaeological dig uncovering the earliest settlements of the Edo people, predating the unified Benin Kingdom. It offers glimpses into ancient spiritual practices and communal life.",
+      "subtype": "Ancient Cities",
+      "address": "Near Ugbowo Community, off Benin-Lagos Expressway, Benin City, Edo State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 1200",
+      "images": "https://images.pexels.com/photos/346881/pexels-photo-346881.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "pre-Benin era",
+        "archaeology",
+        "ancient civilization"
+      ]
+    },
+    {
+      "id": "BCA003",
+      "name": "The Royal Artisan Quarter (Ancient Sector)",
+      "short_description": "The preserved historical section of Benin City where the famous bronze casters and ivory carvers lived and worked. The spirits of ancestral artisans are believed to inspire new works here.",
+      "subtype": "Ancient Cities",
+      "address": "Igun Street, off Sakponba Road, Benin City, Edo State",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/13501718/pexels-photo-13501718/free-photo-of-clay-pot-in-craftsmen-workshop.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "Edo arts",
+        "bronze casting",
+        "ancestral spirits"
+      ]
+    },
+    {
+      "id": "BCA004",
+      "name": "Udo's Former Capital Remains",
+      "short_description": "The faint remains of Udo, the ancient rival city-state to Benin, which once vied for regional dominance. Its spiritual significance lies in the historical power struggles and ancient curses/blessings.",
+      "subtype": "Ancient Cities",
+      "address": "Udo Town, Ovia South-West LGA, Edo State",
+      "visiting_hours": "10:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/1632790/pexels-photo-1632790.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "ancient rivalry",
+        "historical battleground",
+        "regional history"
+      ]
+    },
+    {
+      "id": "BCC001",
+      "name": "Grotto of the Whispering Waters",
+      "short_description": "A tranquil, secluded grotto fed by a natural spring, revered as a place of purification and spiritual renewal. Its gentle cascades are believed to carry messages from the water spirits.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Off Ekehuan Road, near Ogheghe Community, Benin City, Edo State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "NGN 600",
+      "images": "https://images.pexels.com/photos/2240974/pexels-photo-2240974.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "water spirits",
+        "purification rites",
+        "natural spring"
+      ]
+    },
+    {
+      "id": "BCC002",
+      "name": "The Hidden Sanctuary of Osa",
+      "short_description": "A dense, secluded grove rumored to be home to Osa, a powerful forest spirit. Entry is traditionally restricted, but special permissions allow access for spiritual offerings and meditation.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Ikpoba Hill Forest Area, off Agbor Road, Benin City, Edo State",
+      "visiting_hours": "08:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/1569483/pexels-photo-1569483.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "forest deity",
+        "sacred grove",
+        "meditation"
+      ]
+    },
+    {
+      "id": "BCC003",
+      "name": "Ukhure Ancestral Cave",
+      "short_description": "A small, ancient rock shelter believed to be a portal to the ancestral realm. It houses Ukhure staff, symbolic representations of ancestors, and is used for profound ancestral communication.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Within Ogba Zoological Garden premises (secluded area), Benin City, Edo State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 800",
+      "images": "https://images.pexels.com/photos/4019485/pexels-photo-4019485.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "ancestral veneration",
+        "spirit portal",
+        "rock shelter"
+      ]
+    },
+    {
+      "id": "BCC004",
+      "name": "The Priestess's Secluded Grove",
+      "short_description": "Historically a private sacred space used by high priestesses for rituals, divinations, and training. It remains a serene site for quiet contemplation and connecting with feminine spiritual energies.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Near Uselu Market Road, behind ancient residential compounds, Benin City, Edo State",
+      "visiting_hours": "10:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/1233890/pexels-photo-1233890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "feminine spirituality",
+        "divination",
+        "sacred women"
+      ]
+    },
+    {
+      "id": "BCMH001",
+      "name": "Retreat of the Diviners Guild",
+      "short_description": "An ancient compound historically serving as a spiritual school and retreat for the Igodomigodo diviners. It's a place where traditional knowledge and spiritual practices are preserved.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Along Forestry Road, near Government House, Benin City, Edo State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "NGN 700",
+      "images": "https://images.pexels.com/photos/1018872/pexels-photo-1018872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "divination",
+        "traditional wisdom",
+        "spiritual learning"
+      ]
+    },
+    {
+      "id": "BCMH002",
+      "name": "Hermitage of the Forest Guardian",
+      "short_description": "A humble, secluded dwelling deep within a protective forest, believed to have been the home of an ancient elder who communed with forest spirits. It offers a sense of profound peace.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Ogba Forest Reserve, off Airport Road, Benin City, Edo State",
+      "visiting_hours": "07:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/135940/pexels-photo-135940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "forest elder",
+        "spiritual seclusion",
+        "nature connection"
+      ]
+    },
+    {
+      "id": "BCMH003",
+      "name": "Temple of the Silent Vows",
+      "short_description": "A traditional Edo spiritual center, dedicated to quiet contemplation and personal vows. Visitors come to make offerings and commit to spiritual paths in its serene environment.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Off Akenzua Street, near Oba Market, Benin City, Edo State",
+      "visiting_hours": "10:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/262512/pexels-photo-262512.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "spiritual vows",
+        "contemplation",
+        "traditional Edo faith"
+      ]
+    },
+    {
+      "id": "BCMH004",
+      "name": "The Oracle's Sacred Abode",
+      "short_description": "The historical residence and training ground for a lineage of revered Benin oracles. It's a site steeped in spiritual energy, where ancient wisdom and divination arts were perfected.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Ikpoba Okha LGA, off Benin-Agbor Road, Benin City, Edo State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "NGN 900",
+      "images": "https://images.pexels.com/photos/13735161/pexels-photo-13735161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "divination arts",
+        "oracle tradition",
+        "spiritual heritage"
+      ]
+    },
+    {
+      "id": "BCMT001",
+      "name": "Uzama's Sacred Hillock",
+      "short_description": "A historically significant elevated ground within the Uzama N'Ihinron quarter, where the ancient kingmakers performed sacred rites and made crucial decisions for the kingdom.",
+      "subtype": "Sacred Mountains",
+      "address": "Uzama Palace Quarter, off Ekehuan Road, Benin City, Edo State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/161869/ethiopia-africa-landscape-nature-161869.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "royal rites",
+        "kingmakers",
+        "sacred ground"
+      ]
+    },
+    {
+      "id": "BCMT002",
+      "name": "Odighi Shrine Mound",
+      "short_description": "A prominent natural mound in the Odighi area, revered by the local community as a dwelling place of powerful earth spirits and a site for prayers, particularly during planting and harvest seasons.",
+      "subtype": "Sacred Mountains",
+      "address": "Odighi Community, Ovia North-East LGA, Edo State",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "NGN 400",
+      "images": "https://images.pexels.com/photos/15989107/pexels-photo-15989107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "earth spirits",
+        "agricultural rites",
+        "community shrine"
+      ]
+    },
+    {
+      "id": "BCMT003",
+      "name": "The Royal Ancestral Rise",
+      "short_description": "An ancient, gently sloping elevation within the royal precinct, where ancestral ceremonies for past Obas were traditionally performed. It is believed to connect the living with royal ancestors.",
+      "subtype": "Sacred Mountains",
+      "address": "Within Oba Palace Grounds (specific access may be limited), Benin City, Edo State",
+      "visiting_hours": "10:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/3389481/pexels-photo-3389481.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "royal ancestors",
+        "ceremonial ground",
+        "palace history"
+      ]
+    },
+    {
+      "id": "BCMT004",
+      "name": "Ovia's High Place",
+      "short_description": "A significant elevated plateau dedicated to Ovia, a powerful river goddess associated with fertility and protection. Pilgrims undertake journeys here for blessings and spiritual cleansing.",
+      "subtype": "Sacred Mountains",
+      "address": "Near Ovia River Bank, Ovia South-West LGA, Edo State",
+      "visiting_hours": "08:30-16:30",
+      "entry_fee": "NGN 500",
+      "images": "https://images.pexels.com/photos/1632790/pexels-photo-1632790.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "river goddess",
+        "fertility rituals",
+        "pilgrimage site"
+      ]
+    },
+    {
+      "id": "BCCX001",
+      "name": "Olokun's Junction of Abundance",
+      "short_description": "A revered crossroads dedicated to Olokun, the deity of the great waters, wealth, and spiritual coolness. Offerings are made here for prosperity and blessings from the deep.",
+      "subtype": "Crossroads",
+      "address": "Intersection of Mission Road and Oba Market Road, Benin City, Edo State",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/20349694/pexels-photo-20349694.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "Olokun deity",
+        "prosperity rituals",
+        "urban shrine"
+      ]
+    },
+    {
+      "id": "BCCX002",
+      "name": "The Three Paths of Destiny",
+      "short_description": "A unique three-way junction, anciently believed to be a place where one's destiny can be influenced. Travelers often pause to offer prayers for guidance and good fortune.",
+      "subtype": "Crossroads",
+      "address": "Junction of Akpakpava Road, Sapele Road, and Ekehuan Road, Benin City, Edo State",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/5610260/pexels-photo-5610260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "destiny guidance",
+        "spiritual choice",
+        "traveler's prayers"
+      ]
+    },
+    {
+      "id": "BCCX003",
+      "name": "Spirit Market Crossroads",
+      "short_description": "An ancient junction at the heart of what was once a bustling traditional market. It is believed to be a meeting point for both human and ancestral spirits, especially after dusk.",
+      "subtype": "Crossroads",
+      "address": "Old Market Square, Ring Road, Benin City, Edo State",
+      "visiting_hours": "06:00-22:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/10403567/pexels-photo-10403567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "ancestral meeting",
+        "market spirits",
+        "traditional rituals"
+      ]
+    },
+    {
+      "id": "BCCX004",
+      "name": "Esu's Ancient Intersect",
+      "short_description": "A potent crossroads dedicated to Esu (Elegba), the divine messenger, trickster, and guardian of pathways. Offerings are made here to ensure smooth transitions and open communication.",
+      "subtype": "Crossroads",
+      "address": "Along Airport Road, near Evbuotubu Community, Benin City, Edo State",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/6250785/pexels-photo-6250785.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "Esu deity",
+        "divine messenger",
+        "pathway guardian"
+      ]
+    },
+    {
+      "id": "BCPY001",
+      "name": "The Stepped Altar of Offerings",
+      "short_description": "An ancient, multi-tiered earth altar, meticulously constructed for large communal offerings and sacrifices to various Edo deities. Its stepped design symbolizes ascent to the divine.",
+      "subtype": "Pyramids",
+      "address": "Within Usen Community Sacred Forest, Ovia South-West LGA, Edo State",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "NGN 700",
+      "images": "https://images.pexels.com/photos/1110006/pexels-photo-1110006.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "communal rituals",
+        "earth altar",
+        "divine ascent"
+      ]
+    },
+    {
+      "id": "BCPY002",
+      "name": "Royal Ascension Mound",
+      "short_description": "A symbolically significant, ancient stepped mound located near the Oba's palace, historically used in rituals celebrating the Oba's ascension to power and connection with the divine.",
+      "subtype": "Pyramids",
+      "address": "Near the Oba's Palace, Benin City, Edo State",
+      "visiting_hours": "10:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/161869/ethiopia-africa-landscape-nature-161869.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "royal ceremonies",
+        "Oba's power",
+        "spiritual ascension"
+      ]
+    },
+    {
+      "id": "BCPY003",
+      "name": "The Great Earth Pyramids (Igueben)",
+      "short_description": "A series of ancient, naturally occurring, yet geometrically precise earth mounds in Igueben, local legends attribute their formation to ancient spiritual builders channeling earth energy.",
+      "subtype": "Pyramids",
+      "address": "Igueben LGA, Edo State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 500",
+      "images": "https://images.pexels.com/photos/3389481/pexels-photo-3389481.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "earth energy",
+        "ancient builders",
+        "geometric mounds"
+      ]
+    },
+    {
+      "id": "BCPY004",
+      "name": "Shrine of the Layered Earth",
+      "short_description": "A multi-level, ancient mud and earth shrine, showcasing intricate traditional architecture. Each layer represents a different spiritual realm, ascending towards the sky deities.",
+      "subtype": "Pyramids",
+      "address": "Off Ugbowo-Lagos Road, near Egor Community, Benin City, Edo State",
+      "visiting_hours": "10:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/13735161/pexels-photo-13735161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "sky deities",
+        "traditional architecture",
+        "spiritual realms"
+      ]
+    },
+    {
+      "id": "BCDS001",
+      "name": "Ogho Plains Ritual Ground",
+      "short_description": "A vast, open savanna-like expanse known for its powerful spiritual energy. Historically, it was used for large communal rituals, hunting rites, and festivals celebrating the raw power of nature.",
+      "subtype": "Desert Power Sites",
+      "address": "Ogho Community, near Gelegele Road, Benin City, Edo State",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/2676839/pexels-photo-2676839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "communal festivals",
+        "nature power",
+        "open-air rituals"
+      ]
+    },
+    {
+      "id": "BCDS002",
+      "name": "Sunstone Circle of Ekiadolor",
+      "short_description": "An ancient formation of standing stones in an open field, believed to harness the energy of the sun. It was a site for sun worship and ceremonies related to agricultural cycles.",
+      "subtype": "Desert Power Sites",
+      "address": "Ekiadolor Community, Ovia North-East LGA, Edo State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 600",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Stone_Circle_%28crop%29.jpg",
+      "tags": [
+        "sun worship",
+        "agricultural cycles",
+        "stone circle"
+      ]
+    },
+    {
+      "id": "BCDS003",
+      "name": "Sacred Baobab Grove (Open Site)",
+      "short_description": "A revered cluster of colossal, ancient baobab trees standing prominently in an open area. Each tree is considered an embodiment of wisdom and a sanctuary for ancestral spirits.",
+      "subtype": "Desert Power Sites",
+      "address": "Off Benin-Auchi Road, near Aduwawa, Benin City, Edo State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/34005/pexels-photo-34005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "baobab trees",
+        "ancestral wisdom",
+        "nature sanctuary"
+      ]
+    },
+    {
+      "id": "BCDS004",
+      "name": "Ancient Earth Altar of Ugbowo",
+      "short_description": "A primal, open-air altar on a slightly elevated patch of land in Ugbowo, dedicated to the raw, untamed forces of the earth. It is a site for deep earth connection rituals.",
+      "subtype": "Desert Power Sites",
+      "address": "Ugbowo Community, near UNIBEN Teaching Hospital, Benin City, Edo State",
+      "visiting_hours": "10:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/10757230/pexels-photo-10757230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "earth rituals",
+        "primal energy",
+        "nature worship"
+      ]
+    },
+    {
+      "id": "BCLB001",
+      "name": "The Oracle's Winding Path",
+      "short_description": "A historically intricate and winding path leading to a secluded spiritual dwelling, designed to disorient and purify seekers before they could consult with an ancient oracle.",
+      "subtype": "Labyrinths",
+      "address": "Off Wire Road, near Oredo LGA Secretariat, Benin City, Edo State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "NGN 800",
+      "images": "https://images.pexels.com/photos/1569483/pexels-photo-1569483.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "oracle consultation",
+        "purification journey",
+        "sacred path"
+      ]
+    },
+    {
+      "id": "BCLB002",
+      "name": "Sacred Forest Labyrinth",
+      "short_description": "An ancient network of naturally formed, twisting paths within a dense sacred grove. Used for meditative walks, spiritual questing, and connecting with the labyrinthine wisdom of the forest.",
+      "subtype": "Labyrinths",
+      "address": "Ogba Zoological Garden premises (secluded forest part), Benin City, Edo State",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/1233890/pexels-photo-1233890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "meditative walk",
+        "forest wisdom",
+        "spiritual quest"
+      ]
+    },
+    {
+      "id": "BCLB003",
+      "name": "Path of Ancestral Secrets",
+      "short_description": "An intricate, symbolically rich pathway within the ruins of an ancient royal compound. Each turn and junction is believed to reveal insights into ancestral history and hidden knowledge.",
+      "subtype": "Labyrinths",
+      "address": "Old Ugbine Community, off Ring Road, Benin City, Edo State",
+      "visiting_hours": "10:00-18:00",
+      "entry_fee": "NGN 500",
+      "images": "https://images.pexels.com/photos/10757230/pexels-photo-10757230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "ancestral knowledge",
+        "hidden wisdom",
+        "royal history"
+      ]
+    },
+    {
+      "id": "BCLB004",
+      "name": "The Seeker's Ritual Maze",
+      "short_description": "A winding, circular path designed for solitary spiritual journeys and introspection. It is believed to help seekers find clarity and spiritual direction by navigating its symbolic turns.",
+      "subtype": "Labyrinths",
+      "address": "Iyoha Community, off Ekenwan Road, Benin City, Edo State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/1569483/pexels-photo-1569483.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "introspection",
+        "spiritual direction",
+        "solitary journey"
+      ]
+    }
+  ]
+}

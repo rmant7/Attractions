@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Maiduguri",
+    "city_id": "2458"
+  },
+  "items": [
+    {
+      "id": "MDG001",
+      "name": "Resilience Gardens & Family Park",
+      "short_description": "A sprawling green oasis offering playgrounds, picnic spots, and tranquil walking trails, symbolizing Maiduguri's peaceful resurgence. It's a perfect retreat for families and individuals seeking relaxation.",
+      "address": "Off Sir Kashim Ibrahim Way, Old GRA, Maiduguri",
+      "opening_hours": "07:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549419134-8c010a08e0b6",
+      "tags": [
+        "park",
+        "family-friendly",
+        "green space"
+      ]
+    },
+    {
+      "id": "MDG002",
+      "name": "Borno Heritage & Arts Centre",
+      "short_description": "Discover the rich history and vibrant artistic expressions of Borno State. This modern center hosts exhibitions, workshops, and performances, celebrating local culture and traditions.",
+      "address": "Along Damboa Road, Opp. University of Maiduguri, Maiduguri",
+      "opening_hours": "09:00-17:00 (Mon-Sat)",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/346880/pexels-photo-346880.jpeg",
+      "tags": [
+        "culture",
+        "art",
+        "museum"
+      ]
+    },
+    {
+      "id": "MDG003",
+      "name": "Maiduguri Gateway Mall",
+      "short_description": "The city's newest and most comprehensive shopping destination, featuring a variety of local and international brands, a food court, and entertainment options. Experience modern retail therapy in the heart of Maiduguri.",
+      "address": "Custom Area, Maiduguri-Bama Road, Maiduguri",
+      "opening_hours": "09:00-21:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1517409477030-a35c597c5e53",
+      "tags": [
+        "shopping",
+        "retail",
+        "food"
+      ]
+    },
+    {
+      "id": "MDG004",
+      "name": "Future Forward Innovation Hub",
+      "short_description": "A dynamic space dedicated to empowering youth through technology, entrepreneurship, and skill development. It offers co-working spaces, training programs, and networking events for the next generation of Maiduguri leaders.",
+      "address": "GRA Extension, Near Federal Secretariat, Maiduguri",
+      "opening_hours": "08:00-19:00 (Mon-Fri)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1550920400-34d2843efc68",
+      "tags": [
+        "innovation",
+        "education",
+        "youth"
+      ]
+    },
+    {
+      "id": "MDG005",
+      "name": "Peace Arena Sports Complex",
+      "short_description": "A state-of-the-art facility featuring pitches for football, basketball courts, and a gym. It’s a community hub promoting health, fitness, and friendly competition among residents.",
+      "address": "Kashim Ibrahim College Road, Maiduguri",
+      "opening_hours": "06:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/8499920/pexels-photo-8499920.jpeg",
+      "tags": [
+        "sports",
+        "fitness",
+        "recreation"
+      ]
+    },
+    {
+      "id": "MDG006",
+      "name": "Taste of Borno Food Village",
+      "short_description": "A vibrant outdoor food court showcasing the best of traditional Borno and Nigerian cuisine. Enjoy authentic flavors, fresh ingredients, and a lively atmosphere perfect for culinary exploration.",
+      "address": "Old Maiduguri Road, Near Monday Market, Maiduguri",
+      "opening_hours": "11:00-23:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1514933651105-0646efefc1ad",
+      "tags": [
+        "food",
+        "local cuisine",
+        "dining"
+      ]
+    },
+    {
+      "id": "MDG007",
+      "name": "Green Sanctuary Botanical Garden",
+      "short_description": "A meticulously curated botanical garden dedicated to showcasing the diverse flora of the Sahel region and beyond. It serves as a research center and a serene escape for nature lovers.",
+      "address": "Maiduguri-Konduga Road, Adjacent to New GRA, Maiduguri",
+      "opening_hours": "08:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/10313883/pexels-photo-10313883.jpeg",
+      "tags": [
+        "nature",
+        "botany",
+        "education"
+      ]
+    },
+    {
+      "id": "MDG008",
+      "name": "Sahel Gallery & Workshop",
+      "short_description": "An inspiring contemporary art space displaying works from emerging and established artists from Borno and across Nigeria. Engage in art workshops or simply admire diverse expressions of creativity.",
+      "address": "Along Bama Road, Maiduguri",
+      "opening_hours": "10:00-17:00 (Tue-Sun)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1588661726053-efcc8f78d492",
+      "tags": [
+        "art",
+        "gallery",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "MDG009",
+      "name": "Maiduguri Peace & Unity Square",
+      "short_description": "A significant public square featuring a striking monument dedicated to peace and unity, commemorating Maiduguri's resilience. It's a place for reflection, public gatherings, and community events.",
+      "address": "Central Business District, Maiduguri",
+      "opening_hours": "24/7",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1628172960628-98e3b5641756",
+      "tags": [
+        "monument",
+        "history",
+        "public square"
+      ]
+    },
+    {
+      "id": "MDG010",
+      "name": "Fun Oasis Entertainment Zone",
+      "short_description": "Maiduguri's premier indoor family entertainment center, offering arcade games, soft play areas for kids, and mini-golf. It's the perfect spot for family outings and celebrations.",
+      "address": "Bolori Layout, Off Kashim Ibrahim Road, Maiduguri",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/159490/pexels-photo-159490.jpeg",
+      "tags": [
+        "family-friendly",
+        "entertainment",
+        "arcade"
+      ]
+    }
+  ]
+}

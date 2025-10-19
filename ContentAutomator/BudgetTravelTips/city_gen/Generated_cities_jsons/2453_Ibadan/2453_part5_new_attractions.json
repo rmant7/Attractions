@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Ibadan",
+    "city_id": "2453"
+  },
+  "items": [
+    {
+      "id": "IB-ART-001",
+      "name": "The Heritage Canvas",
+      "short_description": "A vibrant contemporary art gallery showcasing emerging Nigerian artists and hosting regular cultural events. Explore diverse expressions from across the nation.",
+      "address": "15 Adekunle Fajuyi Road, Jericho, Ibadan",
+      "opening_hours": "10:00-19:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549497554-4720973e877a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "culture",
+        "exhibition"
+      ]
+    },
+    {
+      "id": "IB-GAME-002",
+      "name": "Nexus VR Arena",
+      "short_description": "Step into the future at Ibadan's premier VR and eSports lounge. Experience cutting-edge virtual reality games and competitive gaming setups for all skill levels.",
+      "address": "The Palms Mall, Ring Road, Ibadan",
+      "opening_hours": "11:00-22:00 (Mon-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/9788176/pexels-photo-9788176.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "gaming",
+        "VR",
+        "eSports"
+      ]
+    },
+    {
+      "id": "IB-ROOF-003",
+      "name": "Skyline Oasis Lounge",
+      "short_description": "Enjoy breathtaking panoramic views of Ibadan while sipping craft cocktails and indulging in gourmet small bites. Perfect for sunsets and vibrant nightlife.",
+      "address": "Top Floor, Heritage Mall, Dugbe, Ibadan",
+      "opening_hours": "17:00-01:00 (Wed-Sun)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1574578964344-7703e19808d7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nightlife",
+        "drinks",
+        "views"
+      ]
+    },
+    {
+      "id": "IB-FOOD-004",
+      "name": "The Gourmand's Guild",
+      "short_description": "A vibrant culinary marketplace featuring diverse food stalls, gourmet cafes, and pop-up restaurants. Discover new flavors and local delicacies in a modern setting.",
+      "address": "7 Akinola Maja Street, Bodija, Ibadan",
+      "opening_hours": "09:00-21:00 (Mon-Sat)",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/7172583/pexels-photo-7172583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "food",
+        "culinary",
+        "market"
+      ]
+    },
+    {
+      "id": "IB-ADVN-005",
+      "name": "Rainforest Ropes & Thrills",
+      "short_description": "An eco-adventure park offering canopy walks, ziplining, and obstacle courses amidst a lush, natural landscape. Perfect for families and thrill-seekers.",
+      "address": "Off Ibadan-Lagos Expressway, Near Guru Maharaji Ji Temple, Ibadan",
+      "opening_hours": "09:00-17:00 (Tue-Sun)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596752009210-91a56113b2c3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "outdoor",
+        "family"
+      ]
+    },
+    {
+      "id": "IB-CINE-006",
+      "name": "The Screen Sanctuary",
+      "short_description": "A luxurious boutique cinema offering a curated selection of local and international films, plush seating, and gourmet snacks for an elevated movie-watching experience.",
+      "address": "22 Awolowo Avenue, Old Bodija, Ibadan",
+      "opening_hours": "13:00-23:00 (Mon-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.pexels.com/photos/6306029/pexels-photo-6306029.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "cinema",
+        "films",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "IB-WELL-007",
+      "name": "Serenity Springs Wellness Centre",
+      "short_description": "A tranquil urban oasis dedicated to holistic well-being. Offers yoga classes, spa treatments, meditation sessions, and a healthy eating cafe.",
+      "address": "Plot 8, General Gas Road, Akobo, Ibadan",
+      "opening_hours": "07:00-20:00 (Mon-Sat)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1616763321591-155ad2633bf5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wellness",
+        "spa",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "IB-WORK-008",
+      "name": "The Idea Hub & Cafe",
+      "short_description": "A dynamic co-working space blending productivity with comfort. Features high-speed internet, private meeting rooms, and a gourmet coffee bar, perfect for freelancers and startups.",
+      "address": "5 University Road, Agbowo, Ibadan",
+      "opening_hours": "08:00-21:00 (Mon-Fri), 09:00-18:00 (Sat)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596229415715-e214f4949216?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "work",
+        "cafe",
+        "community"
+      ]
+    },
+    {
+      "id": "IB-PARK-009",
+      "name": "Ojo Eco-Park & Garden",
+      "short_description": "A beautifully landscaped urban park featuring indigenous flora, walking trails, and serene picnic spots. Dedicated to environmental education and urban greening.",
+      "address": "Off Sango-Eleyele Road, Ojo, Ibadan",
+      "opening_hours": "07:00-19:00 (Mon-Sun)",
+      "price_level": "cheap",
+      "images": "https://images.pexels.com/photos/4090150/pexels-photo-4090150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "tags": [
+        "nature",
+        "park",
+        "family"
+      ]
+    },
+    {
+      "id": "IB-DISC-010",
+      "name": "Innovateum Science Centre",
+      "short_description": "An interactive science museum designed to spark curiosity in all ages. Features hands-on exhibits covering physics, technology, and environmental science.",
+      "address": "Opposite Cocoa House, Bank Road, Dugbe, Ibadan",
+      "opening_hours": "09:00-17:00 (Wed-Mon)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589793181829-9e802062534c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "science",
+        "education",
+        "family"
+      ]
+    }
+  ]
+}

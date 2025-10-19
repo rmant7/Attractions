@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Nosara",
+    "city_id": "2471"
+  },
+  "items": [
+    {
+      "id": "NSurfEco",
+      "name": "The Green Swell Surf Academy",
+      "short_description": "Learn to ride Nosara's iconic waves with an eco-conscious approach, offering lessons for all levels and focusing on ocean preservation. Experience sustainable surfing at its best, opened in 2022.",
+      "address": "Playa Guiones, Sector K, Nosara, Guanacaste",
+      "opening_hours": "07:00-17:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/?nosara,surf,school",
+      "tags": [
+        "surf",
+        "eco-tourism",
+        "lessons"
+      ]
+    },
+    {
+      "id": "NectarWell",
+      "name": "Nectar Wellness Sanctuary",
+      "short_description": "A serene retreat opened in 2023, offering holistic wellness programs including yoga, meditation, sound healing, and nourishing plant-based cuisine designed for deep relaxation and rejuvenation.",
+      "address": "Road to Playa Pelada, Nosara, Guanacaste",
+      "opening_hours": "08:00-19:00",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/?nosara,yoga,retreat",
+      "tags": [
+        "yoga",
+        "wellness",
+        "retreat"
+      ]
+    },
+    {
+      "id": "TierraViva",
+      "name": "Tierra Viva Eatery",
+      "short_description": "Opened in 2021, this farm-to-table restaurant celebrates the freshest flavors of Costa Rica, sourcing ingredients directly from local Nosara farms to create vibrant, seasonal dishes.",
+      "address": "Main Road, Near Super Nosara, Nosara, Guanacaste",
+      "opening_hours": "11:00-21:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/?nosara,farmtotable,restaurant",
+      "tags": [
+        "restaurant",
+        "local food",
+        "organic"
+      ]
+    },
+    {
+      "id": "ArtCollective",
+      "name": "Nosara Artisanal Collective",
+      "short_description": "Discover the vibrant artistic spirit of Nosara at this gallery and workshop space, opened in 2022. It showcases local and international artists, with hands-on classes available for all ages.",
+      "address": "Gabi's Spot Area, Nosara, Guanacaste",
+      "opening_hours": "10:00-18:00",
+      "price_level": "free",
+      "images": "https://source.unsplash.com/random/?nosara,art,gallery",
+      "tags": [
+        "art",
+        "culture",
+        "workshops"
+      ]
+    },
+    {
+      "id": "CanopyRiver",
+      "name": "Canopy & River Explorer",
+      "short_description": "Experience Nosara's natural beauty with thrilling guided ATV tours, river kayaking adventures, and exhilarating zip-lining excursions through lush jungle canopies. Launched in 2020.",
+      "address": "Route 160, Towards Ostional, Nosara, Guanacaste",
+      "opening_hours": "08:00-17:00",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/?nosara,zipline,adventure",
+      "tags": [
+        "adventure",
+        "eco-tourism",
+        "tours"
+      ]
+    },
+    {
+      "id": "LunaGlamp",
+      "name": "Luna Glamp Retreat",
+      "short_description": "Immerse yourself in nature with luxury glamping tents and eco-chic bungalows, offering a unique blend of wilderness adventure and sophisticated comfort. Opened its doors in 2023.",
+      "address": "Remote Road, North of Playa Pelada, Nosara, Guanacaste",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/?nosara,glamping,luxury",
+      "tags": [
+        "accommodation",
+        "luxury",
+        "nature"
+      ]
+    },
+    {
+      "id": "GuardiansWild",
+      "name": "Guardians of Nosara Wildlife Center",
+      "short_description": "A dedicated rescue and rehabilitation center for local wildlife, opened in 2024. Offers educational tours to learn about Costa Rica's biodiversity and vital conservation efforts.",
+      "address": "On the way to Playa Garza, Nosara, Guanacaste",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/?nosara,wildlife,rescue",
+      "tags": [
+        "wildlife",
+        "conservation",
+        "education"
+      ]
+    },
+    {
+      "id": "NosaraVerde",
+      "name": "Nosara Verde Market",
+      "short_description": "A vibrant open-air market opened in 2022, dedicated to sustainable living, featuring organic produce, local crafts, artisan foods, and community events every weekend.",
+      "address": "Next to Delicias del Mundo, Playa Guiones, Nosara",
+      "opening_hours": "Sat-Sun 08:00-14:00",
+      "price_level": "free",
+      "images": "https://source.unsplash.com/random/?nosara,market,sustainable",
+      "tags": [
+        "market",
+        "local products",
+        "community"
+      ]
+    },
+    {
+      "id": "SunsetSands",
+      "name": "Sunset Sands Lounge",
+      "short_description": "Opened in 2023, unwind with craft cocktails and delicious light bites at this chic beachfront lounge. It offers unparalleled views of Nosara's famous sunsets and a relaxed atmosphere.",
+      "address": "Playa Guiones North, beachfront, Nosara, Guanacaste",
+      "opening_hours": "16:00-22:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/?nosara,beachbar,sunset",
+      "tags": [
+        "bar",
+        "beachfront",
+        "sunset"
+      ]
+    },
+    {
+      "id": "LittleExplorer",
+      "name": "The Little Explorer's Jungle Gym",
+      "short_description": "A nature-inspired indoor and outdoor play space for children, designed to encourage imaginative play and physical activity in a safe and engaging environment. Opened its gates in 2024.",
+      "address": "Behind the Mini Super, Nosara Town, Nosara, Guanacaste",
+      "opening_hours": "09:00-18:00",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/?nosara,playground,kids",
+      "tags": [
+        "family",
+        "kids",
+        "playground"
+      ]
+    }
+  ]
+}

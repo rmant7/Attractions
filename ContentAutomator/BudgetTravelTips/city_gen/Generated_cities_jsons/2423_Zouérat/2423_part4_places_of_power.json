@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Zouérat",
+    "city_id": "2423"
+  },
+  "items": [
+    {
+      "id": "DHS-001",
+      "name": "Whispering Dunes of Tiris",
+      "short_description": "A vast expanse of undulating dunes believed to hold ancient desert spirits, where the wind's whispers carry ancestral messages and evoke deep connection to the land.",
+      "subtype": "Desert Power Sites",
+      "address": "20 km North-East of Zouérat, Tiris Zemmour region",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1634509746401-4c173d1f3e79",
+      "tags": [
+        "Ancient Spirits",
+        "Desert Mysticism",
+        "Wind Energy"
+      ]
+    },
+    {
+      "id": "DHS-002",
+      "name": "Iron Vein Resonance Point",
+      "short_description": "A geological anomaly where rich iron ore veins surface, creating a localized magnetic field believed to amplify intention and spiritual energy, a nexus of raw earth power.",
+      "subtype": "Desert Power Sites",
+      "address": "Near Guelb el Hadid, 15 km South of Zouérat",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/23/Iron_ore_in_Mauritania_mine.jpg",
+      "tags": [
+        "Geomancy",
+        "Magnetic Field",
+        "Earth Energy"
+      ]
+    },
+    {
+      "id": "DHS-003",
+      "name": "Oasis of Forgotten Wells",
+      "short_description": "A secluded oasis with ancient, hand-dug wells, rumored to tap into underground water sources with revitalizing spiritual properties, a place for reflection and renewal amidst the arid landscape.",
+      "subtype": "Desert Power Sites",
+      "address": "30 km West of Zouérat, off the old caravan trail",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1577907577322-fe41df3c1a3b",
+      "tags": [
+        "Renewal",
+        "Sacred Water",
+        "Desert Sanctuary"
+      ]
+    },
+    {
+      "id": "DHS-004",
+      "name": "Serpent's Ridge Petroglyphs",
+      "short_description": "A low, winding ridge adorned with pre-Islamic petroglyphs depicting serpents and other desert creatures, believed to be a conduit for ancient protective and healing energies.",
+      "subtype": "Desert Power Sites",
+      "address": "25 km South-East of Zouérat, near Oued Amguine",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Petroglyphs_at_Akakus_mountains.jpg",
+      "tags": [
+        "Ancient Art",
+        "Healing Energy",
+        "Protection"
+      ]
+    },
+    {
+      "id": "MEP-001",
+      "name": "The Iron Heart Lookout",
+      "short_description": "A viewing platform overlooking the massive iron ore mine, representing humanity's deep connection and impact on the earth's resources, inspiring contemplation on industry and nature's raw power.",
+      "subtype": "Modern Energy Places",
+      "address": "Mine overlook, 5 km North-West of Zouérat center",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627916518388-75c1286c06b2",
+      "tags": [
+        "Industrial Reflection",
+        "Human Impact",
+        "Earth Connection"
+      ]
+    },
+    {
+      "id": "MEP-002",
+      "name": "Solar Array Oasis",
+      "short_description": "A modern solar farm providing power to Zouérat, symbolizing progress, sustainability, and humanity's ability to harness the sun's divine energy for a better and brighter future.",
+      "subtype": "Modern Energy Places",
+      "address": "East of Zouérat, towards F'dérik Road",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1507693963458-7c156f2f2187",
+      "tags": [
+        "Sustainability",
+        "Progress",
+        "Solar Energy"
+      ]
+    },
+    {
+      "id": "MEP-003",
+      "name": "The Green Initiative Garden",
+      "short_description": "A community-driven experimental garden demonstrating sustainable agriculture in the desert, serving as a hopeful beacon of life, resilience, and collaborative spirit in a harsh environment.",
+      "subtype": "Modern Energy Places",
+      "address": "Community Center, Rue du Souk, Zouérat",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/338503/pexels-photo-338503.jpeg",
+      "tags": [
+        "Resilience",
+        "Community Spirit",
+        "Sustainable Living"
+      ]
+    },
+    {
+      "id": "MEP-004",
+      "name": "Communication Tower of Whispers",
+      "short_description": "A tall telecommunication tower reaching into the sky, seen as a modern-day celestial alignment, connecting the desert community to the wider world and distant voices, a symbol of global unity.",
+      "subtype": "Modern Energy Places",
+      "address": "Hilltop near the town's perimeter, Zouérat",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/1722830/pexels-photo-1722830.jpeg",
+      "tags": [
+        "Global Connection",
+        "Modern Alignment",
+        "Communication"
+      ]
+    },
+    {
+      "id": "VZ-001",
+      "name": "Black Peak of Aguelt",
+      "short_description": "A prominent dark, jagged rock formation believed to be an ancient igneous intrusion, its stark presence radiating raw earth power and primeval energy, offering a sense of geological majesty.",
+      "subtype": "Volcanic Zones",
+      "address": "40 km North-East of Zouérat, near Aguelt N'oun",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1605330364230-22c6e61f1c7f",
+      "tags": [
+        "Primeval Energy",
+        "Geological Power",
+        "Earth's Core"
+      ]
+    },
+    {
+      "id": "VZ-002",
+      "name": "Firestone Valley",
+      "short_description": "A valley scattered with dark, heavy stones that have a metallic sheen, believed to be remnants of ancient geological heat, inspiring meditation on creation, destruction, and the earth's transformative forces.",
+      "subtype": "Volcanic Zones",
+      "address": "35 km South-West of Zouérat, off the Tasiast trail",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg",
+      "tags": [
+        "Creation & Destruction",
+        "Ancient Earth",
+        "Meditative Site"
+      ]
+    },
+    {
+      "id": "VZ-003",
+      "name": "The Whispering Lava Caves",
+      "short_description": "A series of interconnected rock shelters and narrow passages carved by ancient water erosion, yet with a dark, cavernous feel reminiscent of volcanic tubes, offering deep introspection and solace.",
+      "subtype": "Volcanic Zones",
+      "address": "28 km West of Zouérat, near Touajinet",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549414457-cf57e3f8a49c",
+      "tags": [
+        "Introspection",
+        "Earth's Depths",
+        "Hidden Sanctuary"
+      ]
+    },
+    {
+      "id": "VZ-004",
+      "name": "Serpentinite Ridge Altar",
+      "short_description": "A distinctive ridge composed of serpentinite, a metamorphic rock associated with deep earth processes, its smooth, dark surfaces used as natural altars for offerings to earth spirits and ancient deities.",
+      "subtype": "Volcanic Zones",
+      "address": "22 km North of Zouérat, along the Atar route",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Serpentinite_rock_texture.jpg",
+      "tags": [
+        "Earth Offerings",
+        "Metamorphic Power",
+        "Spirit Connection"
+      ]
+    },
+    {
+      "id": "SF-001",
+      "name": "The Acacia Grove of Elders",
+      "short_description": "A rare cluster of ancient, gnarled acacia trees that have survived for centuries in the desert, revered as living elders holding the wisdom of generations and the resilience of life.",
+      "subtype": "Sacred Forests",
+      "address": "50 km North-West of Zouérat, deep in the Adrar desert",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582236049281-a6b4b45d2f6c",
+      "tags": [
+        "Ancient Wisdom",
+        "Desert Resilience",
+        "Nature Spirits"
+      ]
+    },
+    {
+      "id": "SF-002",
+      "name": "Stone Forest of Kédia",
+      "short_description": "A remarkable geological formation of weathered sandstone pillars and fins, resembling a petrified forest, inspiring awe and contemplation on deep time and the earth's sculptural artistry.",
+      "subtype": "Sacred Forests",
+      "address": "30 km South of Zouérat, Kédia d'Idjil massif foothills",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517406856525-4672e1e3b6e8",
+      "tags": [
+        "Deep Time",
+        "Geological Wonder",
+        "Earth's Art"
+      ]
+    },
+    {
+      "id": "SF-003",
+      "name": "The Date Palm Sanctuary",
+      "short_description": "A secluded, traditional date palm grove providing vital shade and sustenance, considered a sacred haven where life flourishes against all odds, a symbol of desert endurance and bounty.",
+      "subtype": "Sacred Forests",
+      "address": "Outside the settlement of Bir Moghrein, 70 km North-East of Zouérat",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.pexels.com/photos/1572018/pexels-photo-1572018.jpeg",
+      "tags": [
+        "Sanctuary",
+        "Sustenance",
+        "Desert Life"
+      ]
+    },
+    {
+      "id": "SF-004",
+      "name": "Forest of Stories",
+      "short_description": "Not a literal forest, but an ancient gathering place marked by standing stones, where oral traditions and epic poems were shared, creating a 'forest' of cultural memory and ancestral narratives.",
+      "subtype": "Sacred Forests",
+      "address": "Old Caravan Halt, 18 km East of Zouérat",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Stone_Circle_of_Naghwa%2C_Mauritania.jpg",
+      "tags": [
+        "Oral Tradition",
+        "Cultural Memory",
+        "Gathering Place"
+      ]
+    },
+    {
+      "id": "MH-001",
+      "name": "Hermit's Cave of Silent Reflection",
+      "short_description": "An ancient cave dwelling carved into a cliff face, believed to have been inhabited by a Sufi ascetic, offering profound solitude and a perfect space for silent meditation and spiritual retreat.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Jebel Zouérat foothills, 10 km North-West of Zouérat",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1518049362265-d5b2a1670964",
+      "tags": [
+        "Solitude",
+        "Meditation",
+        "Sufi Wisdom"
+      ]
+    },
+    {
+      "id": "MH-002",
+      "name": "Qalat Sidi Omar (Omar's Fort Retreat)",
+      "short_description": "The evocative ruins of a small, fortified desert retreat, once a shelter for scholars and spiritual seekers, now a poignant reminder of past devotion, resilience, and intellectual pursuit.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "25 km South-East of Zouérat, off the Tasiast trail",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Ouadane_Mauritania.jpg",
+      "tags": [
+        "Ancient Retreat",
+        "Scholarship",
+        "Resilience"
+      ]
+    },
+    {
+      "id": "MH-003",
+      "name": "The Well of the Ascetics",
+      "short_description": "A sacred well, once the primary water source for a community of desert ascetics, believed to hold blessings and facilitate spiritual cleansing, symbolizing purity and endurance.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "30 km West of Zouérat, near the ancient caravan route",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/1107775/pexels-photo-1107775.jpeg",
+      "tags": [
+        "Spiritual Cleansing",
+        "Blessings",
+        "Ascetic Life"
+      ]
+    },
+    {
+      "id": "MH-004",
+      "name": "Sanctuary of the Desert Saints",
+      "short_description": "A humble, unmarked burial site or memorial for revered local holy figures who sought enlightenment in the desert, a place of quiet veneration and contemplation for pilgrims.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Remote desert area, 45 km North of Zouérat",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Tomb_of_a_Marabout%2C_Mauritania.jpg",
+      "tags": [
+        "Veneration",
+        "Enlightenment",
+        "Holy Figures"
+      ]
+    },
+    {
+      "id": "SM-001",
+      "name": "Kédia d'Idjil Summit",
+      "short_description": "The highest peak in the region, a majestic iron ore mountain revered by local tribes as the dwelling place of powerful desert spirits and a source of profound earth energy.",
+      "subtype": "Sacred Mountains",
+      "address": "South of Zouérat, accessible via mining roads",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Mauritania_Kedia.jpg",
+      "tags": [
+        "Earth Energy",
+        "Mountain Spirits",
+        "Majesty"
+      ]
+    },
+    {
+      "id": "SM-002",
+      "name": "The Red Mountain of Visions",
+      "short_description": "A striking mountain range known for its vibrant red hues, especially at sunrise and sunset, believed to open spiritual portals and inspire visions, a canvas of shifting light.",
+      "subtype": "Sacred Mountains",
+      "address": "15 km East of Zouérat, along the Atar road",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1550438383-e18e11a7f4c9",
+      "tags": [
+        "Spiritual Portals",
+        "Visions",
+        "Sunrise/Sunset"
+      ]
+    },
+    {
+      "id": "SM-003",
+      "name": "Jebel Zarga (Blue Mountain)",
+      "short_description": "A distant mountain appearing blueish from afar, often a navigation point for ancient caravans, seen as a symbol of constancy and divine guidance in the vast, ever-changing desert.",
+      "subtype": "Sacred Mountains",
+      "address": "Visible from Zouérat, approx. 60 km North-East. Access via off-road trail.",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/1727771/pexels-photo-1727771.jpeg",
+      "tags": [
+        "Divine Guidance",
+        "Constancy",
+        "Navigation"
+      ]
+    },
+    {
+      "id": "SM-004",
+      "name": "Sentinel Peaks of Guelb",
+      "short_description": "A series of rugged, isolated peaks standing like ancient sentinels, believed to guard the desert and its secrets, offering a profound sense of protection and timelessness.",
+      "subtype": "Sacred Mountains",
+      "address": "20 km North-West of Zouérat, near the Guelb el Rhein",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1523992019777-034e3e3b3c3c",
+      "tags": [
+        "Protection",
+        "Timelessness",
+        "Guardians"
+      ]
+    },
+    {
+      "id": "CS-001",
+      "name": "Caravan Junction of Thousand Whispers",
+      "short_description": "An ancient meeting point for trans-Saharan caravans, where tales and goods were exchanged, imbued with the echoes of countless journeys and profound cultural encounters.",
+      "subtype": "Crossroads",
+      "address": "12 km South of Zouérat, where old trails converge",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1522204902621-3e5f22e70b3b",
+      "tags": [
+        "Trade Routes",
+        "Cultural Exchange",
+        "Historical Junction"
+      ]
+    },
+    {
+      "id": "CS-002",
+      "name": "The Meeting Stone of Friendship",
+      "short_description": "A large, smooth desert stone traditionally used as a meeting spot for resolving disputes and forging alliances between nomadic tribes, symbolizing peace, unity, and communal harmony.",
+      "subtype": "Crossroads",
+      "address": "8 km East of Zouérat, near the F'dérik road",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/1010077/pexels-photo-1010077.jpeg",
+      "tags": [
+        "Peace",
+        "Unity",
+        "Tribal History"
+      ]
+    },
+    {
+      "id": "CS-003",
+      "name": "Well of Shared Journeys",
+      "short_description": "A vital well at a desert intersection, where travelers from all directions sought water, making it a natural point for shared experiences and the confluence of human destinies.",
+      "subtype": "Crossroads",
+      "address": "20 km North of Zouérat, along the Atar caravan route",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1571616147413-a4e9b609c2d1",
+      "tags": [
+        "Shared Destinies",
+        "Travelers",
+        "Confluence"
+      ]
+    },
+    {
+      "id": "CS-004",
+      "name": "Crossroads of the Four Winds",
+      "short_description": "An open desert expanse where ancient trails meet, believed to be a point where the four cardinal winds gather, carrying blessings and news from all directions, connecting distant lands.",
+      "subtype": "Crossroads",
+      "address": "35 km West of Zouérat, at a wide desert plain",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1473269222416-0e3188d3e69f",
+      "tags": [
+        "Blessings",
+        "Direction",
+        "Openness"
+      ]
+    },
+    {
+      "id": "PR-001",
+      "name": "Sufi Path to the Hidden Marabout",
+      "short_description": "A ancient, winding trail leading to a remote and humble shrine of a revered Sufi holy man, undertaken as a profound journey of devotion and inner purification.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starts 15 km North-East of Zouérat, towards the Adrar foothills",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e4/A_path_in_the_Sahara.jpg",
+      "tags": [
+        "Devotion",
+        "Purification",
+        "Sufi Journey"
+      ]
+    },
+    {
+      "id": "PR-002",
+      "name": "Route of the Iron Blessing",
+      "short_description": "A historical route taken by miners and traders to the Kédia d'Idjil, seeking blessings for prosperity and safe passage from the mountain's powerful spirits, an ancient custom.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Direct route from Zouérat town to the Kédia d'Idjil foothills",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502444330043-a84497800742",
+      "tags": [
+        "Prosperity",
+        "Safe Passage",
+        "Miner's Path"
+      ]
+    },
+    {
+      "id": "PR-003",
+      "name": "The Star-Gazer's Trail",
+      "short_description": "An ancient route primarily used at night by nomads navigating by the stars, inspiring awe of the cosmos and a deep connection to the celestial rhythm of the desert.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Begins 20 km South-West of Zouérat, leading into the vast desert",
+      "visiting_hours": "19:00-04:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502691523097-f576e9f1a27e",
+      "tags": [
+        "Celestial Navigation",
+        "Cosmic Awe",
+        "Nomadic Journey"
+      ]
+    },
+    {
+      "id": "PR-004",
+      "name": "Path of Ancestral Echoes",
+      "short_description": "A less-traveled desert path that follows ancient migration routes, believed to connect pilgrims to the wisdom and spirits of their ancestors who once trod the same sands, a journey through time.",
+      "subtype": "Pilgrimage Routes",
+      "address": "30 km East of Zouérat, off the main track towards ancient encampments",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/163792/pexels-photo-163792.jpeg",
+      "tags": [
+        "Ancestral Connection",
+        "Migration History",
+        "Wisdom"
+      ]
+    },
+    {
+      "id": "CAS-001",
+      "name": "Great Sun Disc Alignment Stone",
+      "short_description": "A large, naturally occurring flat stone positioned to capture the rising sun on solstices, used by ancient desert dwellers for seasonal rituals and predictions, harmonizing with cosmic cycles.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "25 km South of Zouérat, in an open plain",
+      "visiting_hours": "05:30-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1498634817441-26c2e275294e",
+      "tags": [
+        "Solstice Rituals",
+        "Ancient Astronomy",
+        "Seasonal Cycles"
+      ]
+    },
+    {
+      "id": "CAS-002",
+      "name": "Star Gate Rock Formation",
+      "short_description": "A distinctive rock arch or opening through which specific constellations are perfectly framed during certain nights of the year, considered a gateway to cosmic realms and other dimensions.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "35 km North-West of Zouérat, near isolated Jebels",
+      "visiting_hours": "19:00-04:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506546419747-1721516e814a",
+      "tags": [
+        "Cosmic Gateways",
+        "Constellation Viewing",
+        "Night Sky"
+      ]
+    },
+    {
+      "id": "CAS-003",
+      "name": "Lunar Crescent Observing Mound",
+      "short_description": "A low, natural mound used by ancient astronomers to observe the phases of the moon and its cycles, essential for determining calendars and festivals in nomadic life, a place of lunar veneration.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "18 km West of Zouérat, near a seasonal water source",
+      "visiting_hours": "19:00-04:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/3358052/pexels-photo-3358052.jpeg",
+      "tags": [
+        "Lunar Cycles",
+        "Ancient Calendars",
+        "Nomadic Astronomy"
+      ]
+    },
+    {
+      "id": "CAS-004",
+      "name": "Celestial Compass Circle",
+      "short_description": "A naturally occurring circle of stones, or possibly an ancient arrangement, used to pinpoint cardinal directions based on celestial bodies, revered as a guide for life's journey and destiny.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "40 km East of Zouérat, in a flat, vast desert expanse",
+      "visiting_hours": "19:00-04:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517036746931-158a1a4739d1",
+      "tags": [
+        "Cardinal Directions",
+        "Life's Journey",
+        "Guidance"
+      ]
+    },
+    {
+      "id": "L-001",
+      "name": "The Winding Canyons of Introspection",
+      "short_description": "A series of narrow, winding canyons and gorges that naturally form a maze-like path, offering a physical and metaphorical journey of self-discovery and profound introspection.",
+      "subtype": "Labyrinths",
+      "address": "30 km South-East of Zouérat, in the Tiris Zemmour plateau",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549791408-590b10e53a9e",
+      "tags": [
+        "Self-Discovery",
+        "Introspection",
+        "Natural Maze"
+      ]
+    },
+    {
+      "id": "L-002",
+      "name": "Petroglyph Puzzle Path",
+      "short_description": "A marked path along a rock face adorned with numerous ancient petroglyphs and symbols, challenging visitors to decipher their meanings and connect with ancient wisdom and forgotten narratives.",
+      "subtype": "Labyrinths",
+      "address": "20 km West of Zouérat, near ancient well sites",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Petroglyphs_at_Akakus_mountains.jpg",
+      "tags": [
+        "Ancient Wisdom",
+        "Symbolism",
+        "Deciphering"
+      ]
+    },
+    {
+      "id": "L-003",
+      "name": "Sand Dune Maze of Contemplation",
+      "short_description": "A dynamically shifting arrangement of small, crescent-shaped dunes that, especially after wind storms, create a temporary, ever-changing labyrinth, perfect for mindful wandering and reflection.",
+      "subtype": "Labyrinths",
+      "address": "10 km North of Zouérat, in an active dune field",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1534066060-f1c63f0e7a2b",
+      "tags": [
+        "Mindfulness",
+        "Ephemerality",
+        "Desert Wandering"
+      ]
+    },
+    {
+      "id": "L-004",
+      "name": "The Spiral of Ancestors",
+      "short_description": "A subtle, ancient arrangement of stones or faint markings on the desert floor, forming a spiral pattern, believed to be a ritual path for connecting with ancestral spirits and gaining insight.",
+      "subtype": "Labyrinths",
+      "address": "40 km South-West of Zouérat, in a remote flat area",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1507525428034-b723cf961dde",
+      "tags": [
+        "Ancestral Connection",
+        "Ritual Path",
+        "Insight"
+      ]
+    }
+  ]
+}

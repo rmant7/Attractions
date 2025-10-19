@@ -1,0 +1,67 @@
+{
+  "id": "2470",
+  "name": "Liberia",
+  "country": "Costa Rica",
+  "description": "Liberia, affectionately known as \"La Ciudad Blanca\" (The White City) due to its distinctive white colonial houses and historical gravel roads, is the bustling capital of Costa Rica's Guanacaste province. It acts as the primary gateway for travelers heading to the pristine beaches and biodiverse national parks of the Pacific Northwest, primarily facilitated by Daniel Oduber Quirós International Airport (LIR). While many use Liberia as a transit point, the city itself offers a genuine immersion into Costa Rican culture and history. Its vibrant heart beats around Parque Central, a lively hub surrounded by charming architecture and the iconic Ermita de La Agonía church, a spiritual landmark with a rich past.\n\nThe cultural fabric of Liberia is interwoven with the \"Pura Vida\" philosophy – a laid-back, joyful approach to life. The region's heritage is deeply rooted in cattle ranching, a tradition that still influences local cuisine, music, and the spirited annual fiestas. Visitors can delve into the past at the Museo de Guanacaste, which chronicles regional history and displays local art, or simply wander the bustling streets, engaging with friendly locals and sampling authentic fare. Beyond the city limits, Liberia serves as an ideal base for exploring unparalleled natural wonders. Rincón de la Vieja National Park, with its active volcano, therapeutic hot springs, and bubbling mud pots, is a short drive away. Similarly, the world-renowned beaches of Papagayo Gulf and the Nicoya Peninsula are easily accessible, offering surfing, snorkeling, and sunbathing opportunities. Embrace the warmth of its people and the stunning natural beauty surrounding Liberia for an unforgettable Costa Rican adventure.",
+  "themes": [
+    "Ecotourism",
+    "Cultural Immersion",
+    "Beach Gateway",
+    "Volcanic Landscapes",
+    "Adventure Travel"
+  ],
+  "body_attributes": {
+    "climate": "Tropical wet and dry (savanna) climate, with a distinct dry season from December to April and a wet season from May to November. Temperatures are consistently warm year-round, often exceeding 30°C (86°F).",
+    "best_time_to_visit": "December to April (dry season) for sunny weather, ideal for beaches and outdoor activities. May and November offer lush landscapes with occasional rain, fewer crowds and lower prices.",
+    "population": "Approximately 70,000 (city proper, 2023 estimate)",
+    "area": "Approx. 560 sq km (216 sq mi) for the canton of Liberia",
+    "transport_summary": "Daniel Oduber Quirós International Airport (LIR) is the main hub. Local transport includes public buses ('buses locales'), licensed taxis, limited ride-sharing services, and rental cars for exploring surrounding areas. Many travelers use shared shuttles to coastal towns.",
+    "safety_level": "Medium (standard precautions against petty crime, especially in crowded areas, are advisable. Be aware of your surroundings, especially at night.)",
+    "geographical_features": "Located in the Guanacaste province, characterized by flat plains, rolling hills, and proximity to volcanic mountain ranges (like Rincón de la Vieja) and the Pacific coast, offering diverse landscapes."
+  },
+  "travel_tips": [
+    "Learn some basic Spanish phrases; while English is spoken in tourist areas, locals appreciate the effort and it enhances your experience.",
+    "Carry plenty of water and wear sun protection (hat, sunscreen) especially during the dry season, as temperatures can be high.",
+    "Always have local currency (Costa Rican Colones) for small purchases and local eateries ('sodas'), though USD is widely accepted in tourist spots.",
+    "Book accommodations, popular tours, and rental cars in advance, especially during peak season (December-April), to ensure availability and better rates."
+  ],
+  "budget_tips": [
+    "Eat at 'sodas' (local restaurants) for authentic and affordable Costa Rican meals, often serving a 'casado' (plate of the day).",
+    "Utilize public buses for intercity travel rather than private shuttles or taxis to save money, they are reliable and inexpensive.",
+    "Look for free activities like exploring local markets, parks, and simply strolling through the city's historic center.",
+    "Consider staying in guesthouses or hostels instead of large resorts to significantly reduce accommodation costs."
+  ],
+  "seo": {
+    "seo_title": "Liberia, Costa Rica Travel Guide | Gateway to Guanacaste",
+    "seo_description": "Explore Liberia, Costa Rica – the 'White City' and vibrant gateway to Guanacaste's stunning beaches, active volcanoes, and rich culture. Find travel tips, attractions, and budget advice for your trip.",
+    "keywords": [
+      "Liberia Costa Rica",
+      "Guanacaste travel",
+      "Rincón de la Vieja",
+      "Costa Rica beaches",
+      "Pura Vida"
+    ]
+  },
+  "meta": {
+    "continent": "North America",
+    "currency": "Costa Rican Colón (CRC), United States Dollar (USD)",
+    "language": "Spanish",
+    "time_zone": "Central Standard Time (CST), GMT-6",
+    "popular_airlines": [
+      "United Airlines",
+      "American Airlines",
+      "Delta Air Lines",
+      "Southwest Airlines",
+      "Copa Airlines"
+    ]
+  },
+  "title": "Liberia: Your White City Gateway to Guanacaste's Wonders",
+  "images": [
+    "https://images.pexels.com/photos/10156943/pexels-photo-10156943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/17586110/pexels-photo-17586110.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  ],
+  "coordinates": [
+    10.63459587097168,
+    -85.440673828125
+  ]
+}

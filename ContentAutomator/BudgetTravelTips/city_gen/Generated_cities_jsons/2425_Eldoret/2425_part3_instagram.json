@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Eldoret",
+    "city_id": "2425"
+  },
+  "items": [
+    {
+      "id": "ElInfPl1",
+      "name": "Rift Valley Edge Resort Pool",
+      "short_description": "Perched on a serene hill, this infinity pool offers breathtaking panoramic views of the distant Rift Valley escarpment. A perfect spot for a tranquil swim and stunning photos.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Elgon View Estate outskirts",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1594892418525-4b5329584a32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxpbmZpbml0eXxlbnwwfHx8fDE3MTk3NDUwOTk&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "luxury",
+        "views",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "ElInfPl2",
+      "name": "Skyline Oasis Hotel Pool",
+      "short_description": "Discover an urban retreat with this elegant rooftop infinity pool, blending modern design with a splash of Eldoret's city charm. Ideal for unwinding after a day of exploration.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Eldoret CBD",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628108154181-e234125b0351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHhob3RlbCUyMGluZmluaXR5fGVufDB8fHx8MTcxOTc0NTA5OQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "urban",
+        "chic",
+        "swimming"
+      ]
+    },
+    {
+      "id": "ElInfPl3",
+      "name": "Kapsaret Hills Seclusion Pool",
+      "short_description": "Nestled in the lush Kapsaret Hills, this hidden gem offers a private infinity pool experience. Enjoy the tranquility and green landscapes away from the city bustle.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Kapsaret Hills",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563273932-a5e3f42c2620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxoaWxzJTIwYmFja2RyfGVufDB8fHx8MTcxOTc0NTUwMg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "secluded",
+        "nature",
+        "peaceful"
+      ]
+    },
+    {
+      "id": "ElInfPl4",
+      "name": "Athletic Haven Lap Pool",
+      "short_description": "A purpose-built infinity lap pool designed for both serious training and relaxation, offering expansive views of Eldoret's famed athletic training grounds. Capture your active lifestyle.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Near Kaptagat",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1616781290378-012909f29188?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHJsYXAlMjBwb29sfGVufDB8fHx8MTcxOTc0NTEwMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fitness",
+        "athlete",
+        "views"
+      ]
+    },
+    {
+      "id": "ElNatBk1",
+      "name": "Kipkaren River Falls",
+      "short_description": "Experience the roar of cascading waters at Kipkaren River Falls, a vibrant natural spectacle surrounded by lush greenery. Perfect for refreshing photos and a deep breath of fresh air.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Kipkaren River area",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1508212170889-4e44f8087966?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxhZnJpY2FuJTIwd2F0ZXJmYWxsfGVufDB8fHx8MTcxOTc0NTEwMQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "waterfall",
+        "lush",
+        "scenic"
+      ]
+    },
+    {
+      "id": "ElNatBk2",
+      "name": "Nandi Escarpment Vista",
+      "short_description": "Gaze upon the sweeping landscapes of the Nandi Escarpment, offering a majestic backdrop of rolling hills and distant plains. An ideal spot for golden hour photography.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Along Kapsabet Road",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1508248880621-1b94dd6d9c72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGtlbnlhJTIwdmllcHJpbnR8ZW58MHx8fHwxNzE5NzQ1MTAy&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mountains",
+        "panoramic",
+        "landscape"
+      ]
+    },
+    {
+      "id": "ElNatBk3",
+      "name": "Kaptagat Forest Trails",
+      "short_description": "Immerse yourself in the serene Kaptagat Forest, a haven of tall trees, birdlife, and tranquil walking trails. Perfect for nature lovers and a cool, green photo opportunity.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Kaptagat area",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549495167-ee07153b6c33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxtb3VuZGVlJTIwZm9yZXN0fGVufDB8fHx8MTcxOTc0NTUxMw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "forest",
+        "hiking",
+        "greenery"
+      ]
+    },
+    {
+      "id": "ElNatBk4",
+      "name": "Chepkoilel Lake Gardens",
+      "short_description": "Find peace at the Chepkoilel Lake Gardens, featuring calm waters, manicured lawns, and native flora. A beautiful spot for reflections and relaxed outdoor portraits.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Near Moi University (Chepkoilel Campus)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1506506306567-27e108d810a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGdhcmRlbnxlbnwwfHx8fDE3MTk3NDUxMDM&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lake",
+        "gardens",
+        "calm"
+      ]
+    },
+    {
+      "id": "ElFDS1",
+      "name": "The Athlete's Kitchen & Cafe",
+      "short_description": "A vibrant cafe celebrating Eldoret's athletic spirit with healthy, delicious meals and energizing drinks. The lively murals and modern decor make for a perfect foodie snapshot.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Uganda Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1522079146522-6e27a6590209?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHJoZWFsdGh5JTIwY2FmZXxlbnwwfHx8fDE3MTk3NDUxMDQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "healthy",
+        "cafe",
+        "modern"
+      ]
+    },
+    {
+      "id": "ElFDS2",
+      "name": "Highland Flavors Bistro",
+      "short_description": "Indulge in a fusion of local ingredients and international cuisine at this chic bistro. Its stylish interior and beautifully plated dishes are a feast for both the palate and the camera.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Eldoret CBD",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1504719659066-df30018a1661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHRyZW5keSUyMGJpc3Ryb3xlbnwwfHx8fDE3MTk3NDUxMDQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fine dining",
+        "fusion",
+        "ambiance"
+      ]
+    },
+    {
+      "id": "ElFDS3",
+      "name": "Maize & Grill Street Eats",
+      "short_description": "Experience authentic Kenyan street food with a gourmet twist at Maize & Grill. The vibrant open-air setting and delicious grilled specialties are perfect for casual, mouth-watering posts.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Near Zion Mall",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1546069901-d703b41e86a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxkZWxpY2lvdXIlMjBmb29kfGVufDB8fHx8MTcxOTc0NTEwNQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "local cuisine",
+        "street food",
+        "vibrant"
+      ]
+    },
+    {
+      "id": "ElFDS4",
+      "name": "Kefinco Coffee & Pastries",
+      "short_description": "A cozy, rustic coffee shop known for its artisanal pastries and rich Kenyan coffee. The warm lighting and charming decor create an inviting atmosphere for your morning caffeine fix and flat lay photos.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Kefinco Area",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1497935586351-b67a49e01751?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGtsb3ZlJTIwY29mZmVlJTIwc2hvcHxlbnwwfHx8fDE3MTk3NDUxMDU&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coffee",
+        "bakery",
+        "cozy"
+      ]
+    },
+    {
+      "id": "ElRTV1",
+      "name": "Zion Heights Skybar",
+      "short_description": "Elevate your Eldoret experience at this chic skybar offering stunning 360-degree views of the city. Enjoy cocktails with a spectacular backdrop, especially as the city lights twinkle.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Zion Mall complex",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1536411516709-0d30026e382d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHJvb2Z0b3AlMjBiYXIlMjBjaXR5fGVufDB8fHx8MTcxOTc0NTEwNg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cityscape",
+        "cocktails",
+        "nightlife"
+      ]
+    },
+    {
+      "id": "ElRTV2",
+      "name": "Rift Vista Lounge & Terrace",
+      "short_description": "Perched on one of Eldoret's highest buildings, this lounge provides an unobstructed view towards the Great Rift Valley. A serene spot for contemplation and breathtaking sunset photos.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Mega City area",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1577977465943-34a17951d655?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHJvb2Z0b3AlMjBzdW5zZXR8ZW58MHx8fHwxNzE5NzQ1MTA3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "panoramic",
+        "romantic",
+        "views"
+      ]
+    },
+    {
+      "id": "ElRTV3",
+      "name": "Treetops Terrace Cafe",
+      "short_description": "A charming open-air cafe nestled amidst the tree canopy, offering a unique 'treetop' perspective of the surrounding residential areas and distant hills. Enjoy a peaceful morning coffee.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Elgon View Estate",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1517590214801-b3b3a0937c89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHRlcnJhY2UlMjBjYWZlfGVufDB8fHx8MTcxOTc0NTEwNw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cafe",
+        "greenery",
+        "serene"
+      ]
+    },
+    {
+      "id": "ElRTV4",
+      "name": "University Heights Deck",
+      "short_description": "This contemporary viewing deck offers expansive views over Moi University campus and the plains beyond. A popular spot for students and visitors to gather and enjoy the fresh air.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Moi University, Main Campus",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549880181-817860ac0270?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHVyYmFuJTIwdmllcHJpbnR8ZW58MHx8fHwxNzE5NzQ1MTA3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "campus",
+        "observation",
+        "student spot"
+      ]
+    },
+    {
+      "id": "ElBrgOl1",
+      "name": "Kipkaren River Pedestrian Bridge",
+      "short_description": "Cross the scenic Kipkaren River on this charming pedestrian bridge, offering picturesque views of the river flow and surrounding banks. A great spot for a tranquil walk.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near Kipkaren Falls",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1574936399672-ed2a0d9e27c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxwZWRlc3RyaWFuJTIwYnJpZGdlJTIwcml2ZXJ8ZW58MHx8fHwxNzE5NzQ1MTA4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "river",
+        "walkway",
+        "nature"
+      ]
+    },
+    {
+      "id": "ElBrgOl2",
+      "name": "Nandi Escarpment Viewpoint",
+      "short_description": "Stop at this designated overlook to soak in the expansive, breathtaking panorama of the Nandi Escarpment and the vast plains below. Perfect for landscape photography, especially at sunset.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Along Kapsabet Road",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1599577918458-94f796a32d18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxwYW5vcmFtaWMlMjB2aWV3fGVufDB8fHx8MTcxOTc0NTEwOA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "vista",
+        "landscape",
+        "golden hour"
+      ]
+    },
+    {
+      "id": "ElBrgOl3",
+      "name": "Lessos Valley Overlook",
+      "short_description": "Discover a hidden gem offering serene views of the Lessos Valley, a tranquil agricultural landscape. The quiet beauty and rolling fields are ideal for peaceful reflection.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Towards Lessos",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1520608552631-c4d6f6e52003?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHZhbGxleSUyMGFncmFyaWN1bHR1cmV8ZW58MHx8fHwxNzE5NzQ1MTA5&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "valley",
+        "agricultural",
+        "serenity"
+      ]
+    },
+    {
+      "id": "ElBrgOl4",
+      "name": "Chepkoilel University Bridge",
+      "short_description": "An architecturally interesting bridge connecting parts of Moi University's Chepkoilel campus, offering unique angles for urban and campus photography against a green backdrop.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Moi University, Chepkoilel Campus",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582239454848-037cf172a6b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHVyYmFuJTIwYnJpZGdlfGVufDB8fHx8MTcxOTc0NTEwOQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "architecture",
+        "campus",
+        "modern"
+      ]
+    },
+    {
+      "id": "ElFstEv1",
+      "name": "Eldoret City Marathon Finish Line",
+      "short_description": "Capture the exhilarating energy and triumphant moments at the finish line of the Eldoret City Marathon, Kenya's premier road race. Feel the spirit of champions and community.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Eldoret Sports Club",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582969037803-516c703b0d2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fG1hcmF0aG9uJTIwZmluaXNoJTIwbGluZXxlbnwwfHx8fDE3MTk3NDUxMTA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "athletics",
+        "community",
+        "excitement"
+      ]
+    },
+    {
+      "id": "ElFstEv2",
+      "name": "Kalya Cultural Festival",
+      "short_description": "Immerse yourself in the rich traditions of the Kalenjin culture at this vibrant festival. Witness captivating dances, traditional attire, and authentic storytelling.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Uasin Gishu County Assembly Grounds",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1629828552179-880572d1f7c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxhZnJpY2FuJTIwY3VsdHVyYWwlMjBmZXN0aXZhbHxlbnwwfHx8fDE3MTk3NDUxMTE&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "culture",
+        "traditional",
+        "celebration"
+      ]
+    },
+    {
+      "id": "ElFstEv3",
+      "name": "Highland Harvest Fair",
+      "short_description": "Celebrate the bounty of the land at the annual Highland Harvest Fair, featuring agricultural displays, local crafts, and delicious food. A lively event for all ages.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Eldoret Agricultural Showground",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1627916560945-31a89c93717d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGZlc3RpdmFsJTIwZm9vZHxlbnwwfHx8fDE3MTk3NDUxMTE&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "agriculture",
+        "local",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": "ElFstEv4",
+      "name": "Uasin Gishu Music Fest",
+      "short_description": "Groove to the rhythm of local and national artists at this electrifying music festival. A vibrant gathering of music lovers, art installations, and delicious street food.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Eldoret Showground",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1514525253161-c300ccd2037b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fG11c2ljJTIwZmVzdGl2YWwlMjBjcm93ZHxlbnwwfHx8fDE3MTk3NDUxMTI&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "music",
+        "concert",
+        "lively"
+      ]
+    },
+    {
+      "id": "ElUNW1",
+      "name": "Kaptagat Caves & Springs",
+      "short_description": "Explore the ancient Kaptagat Caves, mystical formations with underground springs and unique ecosystems. An adventurous delve into Eldoret's hidden geological past.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Kaptagat Forest",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596707328151-229202a35366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGNhdmVzJTIwZm9yZXN0fGVufDB8fHx8MTcxOTc0NTExMg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "caves",
+        "geology",
+        "adventure"
+      ]
+    },
+    {
+      "id": "ElUNW2",
+      "name": "Sing'ore Hill Rock Formations",
+      "short_description": "Marvel at the distinctive geological rock formations of Sing'ore Hill, sculpted by millennia of wind and rain. These natural sculptures offer a dramatic backdrop for photos.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Along Iten Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549495167-ee07153b6c33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHhVbmlxdWUlMjByb2NrJTIwZm9ybWF0aW9uc3xlbnwwfHx8fDE3MTk3NDUxMTM&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "rock formations",
+        "geological",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "ElUNW3",
+      "name": "Sirikwa Caldera Echo Point",
+      "short_description": "Visit the mystical Sirikwa Caldera, a vast ancient volcanic depression known for its unique echo phenomena. Stand at the 'Echo Point' and experience the auditory marvel.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Near Sirikwa",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1502691658399-6e3e15774844?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHh2b2xjYW5pYyUyMGNhbGRlcmF8ZW58MHx8fHwxNzE5NzQ1MTEz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "volcanic",
+        "mystical",
+        "acoustic"
+      ]
+    },
+    {
+      "id": "ElUNW4",
+      "name": "Chepkiit Water Gorges",
+      "short_description": "Explore the stunning Chepkiit Gorges, where the river has carved intricate channels and small waterfalls into the bedrock. A wild, untamed beauty perfect for adventurers.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Chepkiit area",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1574768822394-1b4d008779b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxnZXR0cmVlJTIwZ29yZ2VzfGVufDB8fHx8MTcxOTc0NTExNA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "gorge",
+        "riverscape",
+        "adventure"
+      ]
+    },
+    {
+      "id": "ElHisArc1",
+      "name": "Eldoret Clock Tower Square",
+      "short_description": "The iconic Eldoret Clock Tower stands as a central landmark, reflecting the town's colonial past. Its classic architecture and bustling surroundings offer a glimpse into history.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Eldoret CBD",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Clock_Tower%2C_Nairobi.jpg/1024px-Clock_Tower%2C_Nairobi.jpg",
+      "tags": [
+        "landmark",
+        "colonial",
+        "historic"
+      ]
+    },
+    {
+      "id": "ElHisArc2",
+      "name": "Old Post Office Building",
+      "short_description": "Admire the sturdy, stone architecture of Eldoret's original Post Office, a well-preserved relic from the early 20th century. Its rustic charm tells tales of bygone eras.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Along Uganda Road",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/The_Main_Post_Office_in_Nairobi.jpg/1024px-The_Main_Post_Office_in_Nairobi.jpg",
+      "tags": [
+        "heritage",
+        "stone building",
+        "classic"
+      ]
+    },
+    {
+      "id": "ElHisArc3",
+      "name": "Sacred Heart Cathedral Eldoret",
+      "short_description": "A magnificent example of religious architecture, the Sacred Heart Cathedral boasts striking stained-glass windows and intricate designs. A peaceful and awe-inspiring site.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Central Eldoret",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/St_Paul%27s_Catholic_Cathedral_Nairobi.jpg/1024px-St_Paul%27s_Catholic_Cathedral_Nairobi.jpg",
+      "tags": [
+        "religious",
+        "gothic",
+        "architecture"
+      ]
+    },
+    {
+      "id": "ElHisArc4",
+      "name": "Eldoret Law Courts Building",
+      "short_description": "Discover the imposing colonial-era architecture of the Eldoret Law Courts, a testament to the region's historical administrative structures. Its grand facade is a powerful photo subject.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Near Town Hall",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Uganda_High_Court_in_Kampala.JPG/1024px-Uganda_High_Court_in_Kampala.JPG",
+      "tags": [
+        "government",
+        "imposing",
+        "historic landmark"
+      ]
+    },
+    {
+      "id": "ElHtlSt1",
+      "name": "Sego Safari Camp Eldoret",
+      "short_description": "Experience rustic luxury at Sego Safari Camp, featuring beautifully appointed tents amidst nature. Wake up to bird song and enjoy authentic wilderness comfort.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Outskirts of Eldoret, near Kaptagat",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1558299863-7185038085d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGx1eHVyeSUyMHNhZmFyaSUyMHRlbnR8ZW58MHx8fHwxNzE5NzQ1MTE0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "glamping",
+        "eco-lodge",
+        "safari"
+      ]
+    },
+    {
+      "id": "ElHtlSt2",
+      "name": "The Highlands Boutique Hotel",
+      "short_description": "A charming boutique hotel with personalized service and elegant, locally inspired decor. Each room tells a story, offering a cozy and stylish escape in the heart of Eldoret.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Elgon View Estate",
+      "best_time": "Any",
+      "images": "https://images.unsplash.com/photo-1571004183860-ef021c3228a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGNoaWMlMjBib3V0aXF1ZSUyMGhvdGVsfGVufDB8fHx8MTcxOTc0NTExNQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "boutique",
+        "chic",
+        "comfort"
+      ]
+    },
+    {
+      "id": "ElHtlSt3",
+      "name": "Eldoret Eco-Lodge Retreat",
+      "short_description": "An environmentally conscious lodge offering rustic-chic cottages set amidst indigenous trees. Connect with nature and enjoy sustainable luxury just outside the city.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Near Lessos",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549488362-e6e7d6b38c64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHJ1c3RpYyUyMGVjbyUyMGxvZGdlfGVufDB8fHx8MTcxOTc0NTExNg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sustainable",
+        "nature retreat",
+        "cottages"
+      ]
+    },
+    {
+      "id": "ElHtlSt4",
+      "name": "Athlete's Rest & Wellness Resort",
+      "short_description": "Designed for athletes and wellness seekers, this resort combines modern amenities with a focus on recovery and healthy living. Features a state-of-the-art gym and serene gardens.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Along Chepkoilel Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1542152758-1f65c92c8160?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHdlbGxuZXNzJTIwcmVzb3J0fGVufDB8fHx8MTcxOTc0NTExNg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wellness",
+        "fitness",
+        "modern"
+      ]
+    },
+    {
+      "id": "ElCulIns1",
+      "name": "Uasin Gishu Heritage Sculpture Park",
+      "short_description": "Stroll through an open-air park featuring impressive sculptures depicting Kalenjin heritage and local legends. Each piece tells a story, making for a thought-provoking visit.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Eldoret National Museum Grounds",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1560931535-c38a5e78b7b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxhZnJpY2FuJTIwc2N1bHB0dXJlJTIwcGFya3xlbnwwfHx8fDE3MTk3NDUxMTc&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "art",
+        "heritage",
+        "outdoor museum"
+      ]
+    },
+    {
+      "id": "ElCulIns2",
+      "name": "Eldoret Marathon Champion Monument",
+      "short_description": "A striking monument dedicated to Eldoret's legendary long-distance runners, celebrating their achievements and inspiring future generations. A must-see for sports enthusiasts.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Near Eldoret Sports Club",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1577764213190-67c8052cf095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHwxd29ybGQlMjBhcmNoaXRlY3R1cmV8ZW58MHx8fHwxNzE5NzQ1Nzg0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "athletics",
+        "monument",
+        "inspiration"
+      ]
+    },
+    {
+      "id": "ElCulIns3",
+      "name": "Kalenjin Storytelling Murals",
+      "short_description": "Discover vibrant, large-scale murals depicting traditional Kalenjin folklore and daily life. These colorful artworks bring history to life on the streets of Eldoret.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Eldoret Town Centre alleys",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1588666324901-b295f519f727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxhZnJpY2FuJTIwZ3JhZmZpdGlfK3J1c2FyfGVufDB8fHx8MTcxOTc0NTExOA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "street art",
+        "folklore",
+        "colorful"
+      ]
+    },
+    {
+      "id": "ElCulIns4",
+      "name": "Moi University Art Gallery",
+      "short_description": "Explore contemporary and traditional Kenyan art at Moi University's dynamic art gallery. It hosts rotating exhibitions from local artists and students, fostering creative expression.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Moi University, Main Campus",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1557804506-61a7a00f28a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fGFydCUyMGdhbGxlcnl8ZW58MHx8fHwxNzE5NzQ1MTE4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "art gallery",
+        "contemporary",
+        "university"
+      ]
+    }
+  ]
+}

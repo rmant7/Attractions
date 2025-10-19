@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Maiduguri",
+    "city_id": "2458"
+  },
+  "items": [
+    {
+      "id": "MG-OS-001",
+      "name": "The Whispering Baobab of Gwange",
+      "short_description": "An ancient Baobab tree, believed to be a conduit for ancestral wisdom and prophecies, its leaves rustling with unseen voices carrying messages from the past.",
+      "subtype": "Oracle Sites",
+      "address": "Gwange Ward II, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Baobab_avenue_madagascar.jpg/1280px-Baobab_avenue_madagascar.jpg",
+      "tags": [
+        "Ancestral Wisdom",
+        "Prophecy",
+        "Nature Worship"
+      ]
+    },
+    {
+      "id": "MG-OS-002",
+      "name": "Stone of Divination, Pompomari",
+      "short_description": "A smooth, dark stone revered by ancient communities in Pompomari, where elders sought guidance through water scrying and ritual offerings for future clarity.",
+      "subtype": "Oracle Sites",
+      "address": "Off Pompomari Bypass, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "NGN 200",
+      "images": "https://images.unsplash.com/photo-1598166527230-01d0a5e84f50",
+      "tags": [
+        "Divination",
+        "Ritual",
+        "Spirituality"
+      ]
+    },
+    {
+      "id": "MG-OS-003",
+      "name": "The Oracle Mound of Gomari",
+      "short_description": "A small, elevated earthen mound where pre-Islamic priests would interpret omens from the flight of birds and the patterns of smoke, seeking divine will for their community.",
+      "subtype": "Oracle Sites",
+      "address": "Behind Gomari Market, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549487428-f6cf018a1a97",
+      "tags": [
+        "Omens",
+        "Ancient Rites",
+        "Community Guidance"
+      ]
+    },
+    {
+      "id": "MG-OS-004",
+      "name": "Ngala Seer's Spring",
+      "short_description": "A secluded spring whose waters were believed to reveal the future to those pure of heart, guarded by local lore and sought for profound insights.",
+      "subtype": "Oracle Sites",
+      "address": "Near Ngala Road junction, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1629854743477-7407a5051d9e",
+      "tags": [
+        "Purity",
+        "Visions",
+        "Sacred Water"
+      ]
+    },
+    {
+      "id": "MG-MS-001",
+      "name": "The Guardians of Konduga Road",
+      "short_description": "A cluster of three large, naturally occurring granite boulders, arranged in a way that suggests ancient ceremonial significance, possibly astronomical alignments by early inhabitants.",
+      "subtype": "Megalithic Sites",
+      "address": "Along Konduga Road, outskirts of Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628108170258-20a22e8d1326",
+      "tags": [
+        "Ancient Rituals",
+        "Astronomy",
+        "Landmark"
+      ]
+    },
+    {
+      "id": "MG-MS-002",
+      "name": "Kala-Balge Standing Stones",
+      "short_description": "A series of upright, weathered stones, remnants of an ancient boundary or sacred alignment, believed to mark significant points in the spiritual landscape.",
+      "subtype": "Megalithic Sites",
+      "address": "Off Kala-Balge Road, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1563784136-1e07b8a7f45c",
+      "tags": [
+        "Boundaries",
+        "Sacred Alignment",
+        "Prehistoric"
+      ]
+    },
+    {
+      "id": "MG-MS-003",
+      "name": "The Boulder of Ancestors, Damboa",
+      "short_description": "A massive, singular rock bearing faint, ancient carvings, said to be a gathering point for ancestral spirits and a place of deep spiritual connection.",
+      "subtype": "Megalithic Sites",
+      "address": "Near Damboa Road, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 300",
+      "images": "https://images.unsplash.com/photo-1528186290072-000c8728a2c1",
+      "tags": [
+        "Ancestral Spirits",
+        "Ancient Carvings",
+        "Sacred Gathering"
+      ]
+    },
+    {
+      "id": "MG-MS-004",
+      "name": "Gwoza Rock Shelter Marker",
+      "short_description": "A large, flat rock slab serving as an ancient marker or altar at the entrance to a now-collapsed rock shelter, once a significant site for community rituals.",
+      "subtype": "Megalithic Sites",
+      "address": "Gwoza Road, outskirts of Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1608679901452-9b2f34e8d356",
+      "tags": [
+        "Altar",
+        "Ritual Site",
+        "Historical Marker"
+      ]
+    },
+    {
+      "id": "MG-AC-001",
+      "name": "Old Ngarnam Ruins",
+      "short_description": "Faint earthen outlines and pottery shards mark the remains of a small, pre-Kanem-Bornu settlement, revealing early agricultural practices and spiritual life of its inhabitants.",
+      "subtype": "Ancient Cities",
+      "address": "Near Ngarnam Village, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1550993512-1f4a9b2b512a",
+      "tags": [
+        "Archaeology",
+        "Early Settlement",
+        "Pre-colonial History"
+      ]
+    },
+    {
+      "id": "MG-AC-002",
+      "name": "Borko Ancient Settlement Traces",
+      "short_description": "Submerged foundations and scattered artifacts indicate the presence of a once-thriving lakeside community, predating the modern city, with echoes of its spiritual past.",
+      "subtype": "Ancient Cities",
+      "address": "Along Lake Chad Basin road, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 500",
+      "images": "https://images.unsplash.com/photo-1603572855146-51219b12d590",
+      "tags": [
+        "Lost Civilizations",
+        "Lakeside Culture",
+        "Historical Exploration"
+      ]
+    },
+    {
+      "id": "MG-AC-003",
+      "name": "Yerwa Old Town Foundations",
+      "short_description": "Underlying the modern Yerwa district, remnants of older mud-brick structures and well systems hint at the original Maiduguri settlement's spiritual core and community life.",
+      "subtype": "Ancient Cities",
+      "address": "Yerwa Old Town, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "10:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1574511210963-c60a370e7041",
+      "tags": [
+        "Urban Archaeology",
+        "Founding Site",
+        "Cultural Roots"
+      ]
+    },
+    {
+      "id": "MG-AC-004",
+      "name": "Dikwa Trade Post Remnants",
+      "short_description": "Though not a full city, these ruins represent a critical ancient trade and spiritual crossroad, connecting various regional cultures and their beliefs over centuries.",
+      "subtype": "Ancient Cities",
+      "address": "Outskirts of Dikwa Road, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "07:30-18:30",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1605330058814-118c7edc4600",
+      "tags": [
+        "Trade History",
+        "Cultural Exchange",
+        "Historical Junction"
+      ]
+    },
+    {
+      "id": "MG-PY-001",
+      "name": "The Gomari Earth Mounds",
+      "short_description": "A series of large, conical earth mounds, believed to be ancient burial sites of revered chiefs or sacred granaries, resembling primal pyramids of the region.",
+      "subtype": "Pyramids",
+      "address": "Gomari Airport Road, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1616896228180-877292215c0e",
+      "tags": [
+        "Burial Mounds",
+        "Ancient Granaries",
+        "Sacred Architecture"
+      ]
+    },
+    {
+      "id": "MG-PY-002",
+      "name": "Baga Road Ancestral Tombs",
+      "short_description": "Four weathered, stepped mud-brick structures, once serving as elevated tombs for ancient spiritual leaders, now mostly eroded but retaining their sacred aura.",
+      "subtype": "Pyramids",
+      "address": "Baga Road Extension, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 400",
+      "images": "https://images.unsplash.com/photo-1596767784013-4f9e31d8c117",
+      "tags": [
+        "Ancestral Worship",
+        "Tombs",
+        "Mud Architecture"
+      ]
+    },
+    {
+      "id": "MG-PY-003",
+      "name": "The Ngala Grain Pyramids",
+      "short_description": "Not true pyramids, but ancient, multi-tiered mud-brick granaries designed to preserve spiritual offerings and food, taking on a distinctive pyramidal form over time.",
+      "subtype": "Pyramids",
+      "address": "Ngala Road, outskirts of Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "10:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Adobe_granary_in_the_village_of_Fass_in_Mauritania_01.jpg/1280px-Adobe_granary_in_the_village_of_Fass_in_Mauritania_01.jpg",
+      "tags": [
+        "Granaries",
+        "Agricultural Spirituality",
+        "Historic Structures"
+      ]
+    },
+    {
+      "id": "MG-PY-004",
+      "name": "Dikwa Sacred Cairn",
+      "short_description": "A large, pyramidal cairn of stones, accumulated over centuries by pilgrims as a devotional act, honoring an ancient spiritual awakening in the area.",
+      "subtype": "Pyramids",
+      "address": "Near Dikwa Town, Borno State, Nigeria (accessible from Maiduguri)",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1635832168444-1215b4931a7f",
+      "tags": [
+        "Pilgrimage",
+        "Devotion",
+        "Stone Monument"
+      ]
+    },
+    {
+      "id": "MG-MRF-001",
+      "name": "The Chief's Chair Rock",
+      "short_description": "A naturally carved rock formation resembling a massive throne, traditionally used by ancient leaders for important ceremonies and communal judgments, imbued with authority.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Near University of Maiduguri Gate, Borno State, Nigeria",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1612805602492-3d7124976451",
+      "tags": [
+        "Ceremonial Site",
+        "Leadership",
+        "Natural Sculpture"
+      ]
+    },
+    {
+      "id": "MG-MRF-002",
+      "name": "Gwange Whispering Stone",
+      "short_description": "A singular, tall granite monolith with unusual natural perforations, through which the wind creates haunting, 'whispering' sounds, believed to be ancestral voices.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Gwange Ward I, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1636184852936-a81d7a84b05a",
+      "tags": [
+        "Ancestral Voices",
+        "Acoustics",
+        "Mystical"
+      ]
+    },
+    {
+      "id": "MG-MRF-003",
+      "name": "The Serpent's Coil Formation",
+      "short_description": "A winding, serpentine rock formation venerated by local lore as the petrified body of a mythical river serpent, a protector spirit of the local waterways.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Along River Ngadda banks, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "NGN 200",
+      "images": "https://images.unsplash.com/photo-1605179040774-4b53ce7265e3",
+      "tags": [
+        "Mythology",
+        "Protector Spirit",
+        "Natural Wonder"
+      ]
+    },
+    {
+      "id": "MG-MRF-004",
+      "name": "Damboa Sentinel Rock",
+      "short_description": "A solitary, towering rock pillar that has served as a landmark and spiritual sentinel for travelers and communities for centuries, watching over the land.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Damboa Road, outskirts of Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1610444634045-8c7e930f3c5f",
+      "tags": [
+        "Landmark",
+        "Guardian",
+        "Ancient Sentinel"
+      ]
+    },
+    {
+      "id": "MG-SF-001",
+      "name": "Konduga Ancestral Grove",
+      "short_description": "A dense, untouched patch of forest, considered sacred ground where ancestors are honored, and traditional healing herbs are gathered with profound respect for the spirits.",
+      "subtype": "Sacred Forests",
+      "address": "Konduga Road, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1507567794354-94a2824b079d",
+      "tags": [
+        "Ancestral Veneration",
+        "Healing Herbs",
+        "Nature Preserve"
+      ]
+    },
+    {
+      "id": "MG-SF-002",
+      "name": "Ngala Spirit Woods",
+      "short_description": "A tranquil forest known for its ancient trees and unique flora, believed to be a dwelling place for nature spirits and a site for peaceful spiritual reflection.",
+      "subtype": "Sacred Forests",
+      "address": "Off Ngala Road, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "NGN 100",
+      "images": "https://images.unsplash.com/photo-1510464225028-1b6e4e8b3e81",
+      "tags": [
+        "Nature Spirits",
+        "Meditation",
+        "Tranquility"
+      ]
+    },
+    {
+      "id": "MG-SF-003",
+      "name": "Gomari Healing Thicket",
+      "short_description": "A protected woodland area containing specific plants and a small stream, traditionally used for purification rites and gathering ingredients for traditional healing rituals.",
+      "subtype": "Sacred Forests",
+      "address": "Gomari District, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579436449179-88ae5156a646",
+      "tags": [
+        "Healing Rituals",
+        "Herbal Medicine",
+        "Purification"
+      ]
+    },
+    {
+      "id": "MG-SF-004",
+      "name": "The Forbidden Forest of Baga",
+      "short_description": "A section of forest imbued with deep folklore, traditionally avoided by commoners but visited by spiritual elders for specific, solemn ceremonies and rites.",
+      "subtype": "Sacred Forests",
+      "address": "Baga Road, outskirts of Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "Restricted Access (Guided visits only)",
+      "entry_fee": "fixed amount (NGN 1000 for guide)",
+      "images": "https://images.unsplash.com/photo-1588691811800-4d4b1a415a78",
+      "tags": [
+        "Folklore",
+        "Mystical",
+        "Exclusive Rites"
+      ]
+    },
+    {
+      "id": "MG-AT-001",
+      "name": "Yerwa Ancestral Shrine",
+      "short_description": "A reconstructed mud-brick shrine on ancient foundations, dedicated to the founding spirits of the Yerwa settlement, used for communal blessings and petitions.",
+      "subtype": "Ancient Temples",
+      "address": "Yerwa Old Town, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1576402360528-76c253c07604",
+      "tags": [
+        "Ancestral Worship",
+        "Communal Blessings",
+        "Mud Architecture"
+      ]
+    },
+    {
+      "id": "MG-AT-002",
+      "name": "Damboa Water Spirit Temple",
+      "short_description": "Ruins of a small, open-air temple by an ancient well, where offerings were made to water spirits for rain, fertile lands, and safe passage across waterways.",
+      "subtype": "Ancient Temples",
+      "address": "Along Damboa Road, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1550478716-e82a6900f898",
+      "tags": [
+        "Water Spirits",
+        "Fertility Rites",
+        "Ancient Well"
+      ]
+    },
+    {
+      "id": "MG-AT-003",
+      "name": "Gwange Sun Altar",
+      "short_description": "A circular stone platform, once an open-air temple where ancient communities performed rituals welcoming the sunrise and honoring the life-giving sun deity.",
+      "subtype": "Ancient Temples",
+      "address": "Gwange Layout, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1570188673843-c07a3f8a00e0",
+      "tags": [
+        "Sun Worship",
+        "Sacred Altar",
+        "Sunrise Rituals"
+      ]
+    },
+    {
+      "id": "MG-AT-004",
+      "name": "Monguno Harvest Shrine",
+      "short_description": "Remnants of a mud-and-thatch structure, traditionally used to house harvest deities and celebrate the bounty of the land before seasonal planting and harvest.",
+      "subtype": "Ancient Temples",
+      "address": "Monguno Road, outskirts of Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 250",
+      "images": "https://images.unsplash.com/photo-1550579930-b2b95d820d20",
+      "tags": [
+        "Harvest Deity",
+        "Agricultural Rites",
+        "Traditional Shrine"
+      ]
+    },
+    {
+      "id": "MG-CR-001",
+      "name": "The Three Paths Junction",
+      "short_description": "An ancient junction of three major paths, historically a site for travelers' prayers, market blessings, and sometimes, the forging of spiritual pacts and agreements.",
+      "subtype": "Crossroads",
+      "address": "Near Customs Roundabout, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1534958173499-d421884c7f09",
+      "tags": [
+        "Traveler's Blessing",
+        "Pacts",
+        "Junction Rituals"
+      ]
+    },
+    {
+      "id": "MG-CR-002",
+      "name": "Bama Road Ancestral Crossing",
+      "short_description": "A specific point where two ancient tracks meet, believed to be a permeable veil between the living and ancestral worlds, used for offerings to guides and protectors.",
+      "subtype": "Crossroads",
+      "address": "Bama Road, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1627916568853-93d3b764032d",
+      "tags": [
+        "Ancestral Veil",
+        "Offerings",
+        "Threshold"
+      ]
+    },
+    {
+      "id": "MG-CR-003",
+      "name": "Gomari Market Crossroads",
+      "short_description": "The bustling intersection at Gomari Market, which has for centuries been a hub not only for trade but also for exchanging cultural beliefs and small, protective rituals.",
+      "subtype": "Crossroads",
+      "address": "Gomari Market Junction, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "08:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1578335445749-9f796a3ee7f9",
+      "tags": [
+        "Market Culture",
+        "Protective Rituals",
+        "Cultural Hub"
+      ]
+    },
+    {
+      "id": "MG-CR-004",
+      "name": "The Crossroads of Fate, Shehuri",
+      "short_description": "A historically significant four-way intersection within Shehuri, where community decisions were once sealed with spiritual oaths and local deities invoked for justice and truth.",
+      "subtype": "Crossroads",
+      "address": "Shehuri North, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1616788534017-d57a917e7932",
+      "tags": [
+        "Community Oaths",
+        "Justice",
+        "Fate"
+      ]
+    },
+    {
+      "id": "MG-MH-001",
+      "name": "Damboa Hermit's Retreat",
+      "short_description": "A secluded, ancient mud-brick dwelling near a quiet stream, believed to have been used by spiritual recluses seeking solitude, enlightenment, and deep contemplation.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Damboa Road, remote area, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582239405481-420a7cf50d2e",
+      "tags": [
+        "Solitude",
+        "Enlightenment",
+        "Meditation"
+      ]
+    },
+    {
+      "id": "MG-MH-002",
+      "name": "Gwange Secluded Cells",
+      "short_description": "A series of small, natural rock alcoves within a remote part of Gwange, adapted by ancient spiritual seekers for intensive meditation and ascetic practices.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Gwange Hills, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1634710178385-d62f4f210519",
+      "tags": [
+        "Asceticism",
+        "Rock Shelter",
+        "Spiritual Discipline"
+      ]
+    },
+    {
+      "id": "MG-MH-003",
+      "name": "The Ngala Solitude Mound",
+      "short_description": "A small, elevated mound with remnants of a modest structure, serving as an ancient hermitage for those undertaking solitary spiritual vigils and vision quests.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Ngala Road, remote area, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "NGN 150",
+      "images": "https://images.unsplash.com/photo-1580253457585-70334810751a",
+      "tags": [
+        "Vigils",
+        "Vision Quest",
+        "Seclusion"
+      ]
+    },
+    {
+      "id": "MG-MH-004",
+      "name": "Pompomari Spirit Grove Shelter",
+      "short_description": "A natural, secluded rock shelter within a sacred grove, traditionally used by spiritual mentors for deep contemplation and teaching apprentices ancient wisdom.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Pompomari Extension, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1578496155694-84617a26f34e",
+      "tags": [
+        "Mentorship",
+        "Grove",
+        "Ancient Wisdom"
+      ]
+    },
+    {
+      "id": "MG-CS-001",
+      "name": "The Maiduguri Initiation Cave",
+      "short_description": "A hidden cave system, historically used for coming-of-age rituals and spiritual initiations, believed to connect with the underworld and ancestral realm.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Near University of Maiduguri, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1611090332822-7711413158c8",
+      "tags": [
+        "Initiation",
+        "Underworld",
+        "Spiritual Passage"
+      ]
+    },
+    {
+      "id": "MG-CS-002",
+      "name": "Kala-Balge Ancestral Grotto",
+      "short_description": "A small, revered grotto with natural pools, where ancestral spirits are said to reside, and offerings are made for fertility, protection, and blessings.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Off Kala-Balge Road, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 300",
+      "images": "https://images.unsplash.com/photo-1626296716942-70b13515433f",
+      "tags": [
+        "Ancestral Grotto",
+        "Fertility",
+        "Protection"
+      ]
+    },
+    {
+      "id": "MG-CS-003",
+      "name": "The Stone Sanctuary of Dikwa",
+      "short_description": "A natural rock overhang forming a sheltered sanctuary, used for centuries by diverse communities for communal worship and seeking refuge during spiritual quests.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Dikwa Road, outskirts of Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.pexels.com/photos/10191242/pexels-photo-10191242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "Communal Worship",
+        "Refuge",
+        "Rock Sanctuary"
+      ]
+    },
+    {
+      "id": "MG-CS-004",
+      "name": "Ngala Healing Cavern",
+      "short_description": "A subterranean chamber known for its consistent temperature and unique mineral formations, believed to possess healing energies and aid deep meditation.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Ngala Road, Maiduguri, Borno State, Nigeria",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "fixed amount (NGN 500)",
+      "images": "https://images.unsplash.com/photo-1543789972-74c153b67946",
+      "tags": [
+        "Healing Energies",
+        "Meditation",
+        "Mineral Cave"
+      ]
+    }
+  ]
+}

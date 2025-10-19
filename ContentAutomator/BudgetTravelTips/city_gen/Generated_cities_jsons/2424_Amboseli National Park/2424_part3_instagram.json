@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Amboseli National Park",
+    "city_id": "2424"
+  },
+  "items": [
+    {
+      "id": "AMB_HAC_001",
+      "name": "The Secret Hippo Pool Oasis",
+      "short_description": "Discover a secluded, lush pool where hippos cool off, offering a serene escape and unique wildlife viewing away from the main tracks.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Near Enkongo Narok swamp, central Amboseli",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1608625902047-4cf34ae92842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHw0fGhpYnBvJTIwcG9vbCUyMHNhZmFyaXxlbnwwfHx8fDE3MTc0MDk5NzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Wildlife Spotting",
+        "Secluded Nature",
+        "Hippo Haven"
+      ]
+    },
+    {
+      "id": "AMB_HAC_002",
+      "name": "Whispering Acacia Grove",
+      "short_description": "Stroll through a tranquil, ancient acacia grove, where dappled light filters through the canopy and birdsong fills the air, offering a peaceful moment amidst the vast plains.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "East of Observation Hill",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596541539226-eb52c2cfcf8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHwyMHxhY2FjaWElMjBncm92ZXxlbnwwfHx8fDE3MTczOTY3MDd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Birdwatching",
+        "Tranquil Spot",
+        "Shaded Retreat"
+      ]
+    },
+    {
+      "id": "AMB_HAC_003",
+      "name": "Elephant's Secret Dust Bath Basin",
+      "short_description": "Witness elephants enjoying their daily dust baths in a hidden, natural depression, a mesmerizing and intimate spectacle of their natural behavior.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "West of Olokenya Swamp",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1579294246083-f2a8c3d9804a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHw3fGVsZXBoYW50JTIwZHVzdCUyMGJhdGh8ZW58MHx8fHwxNzE3Mzk2Njc0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Elephant Interaction",
+        "Wildlife Photography",
+        "Unique Behavior"
+      ]
+    },
+    {
+      "id": "AMB_HAC_004",
+      "name": "Remote Papyrus Channel Vista",
+      "short_description": "Venture to a secluded viewpoint overlooking a winding papyrus channel, where exotic birds and elusive marsh dwellers can be spotted in peace.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Near Longinye Swamp",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1616766488730-1c0c66023255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHwyfHBhcHlydXMlMjBzd2FtcHxlbnwwfHx8fDE3MTczOTY3MzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Birding Paradise",
+        "Marshland Beauty",
+        "Undiscovered Gems"
+      ]
+    },
+    {
+      "id": "AMB_FE_001",
+      "name": "The Great Amboseli Elephant Gathering",
+      "short_description": "Witness the awe-inspiring spectacle of hundreds of elephants converging on Amboseli's swamps, a seasonal gathering for water and sustenance that offers unparalleled viewing opportunities.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Central swamps and plains",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628109673238-6625893d183f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHw4fGVsZXBoYW50JTIwaGVyZCUyMEFtYm9zZWxpfGVufDB8fHx8MTcxNzM5NzA2M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Wildlife Spectacle",
+        "Elephant Migration",
+        "Seasonal Event"
+      ]
+    },
+    {
+      "id": "AMB_FE_002",
+      "name": "Maasai Cultural Boma Experience",
+      "short_description": "Immerse yourself in the vibrant traditions of the Maasai people just outside the park, featuring traditional dances, storytelling, and a glimpse into their pastoral way of life.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Maasai villages near park gates",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596773340059-e935639b56f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfE1hYXNhaSUyMGRhbmNlfGVufDB8fHx8MTcxNzM5NzA5OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Cultural Immersion",
+        "Local Traditions",
+        "Maasai Community"
+      ]
+    },
+    {
+      "id": "AMB_FE_003",
+      "name": "Annual Bird Migration Gathering",
+      "short_description": "Witness the skies and wetlands come alive with thousands of migratory birds, transforming Amboseli into a vibrant avian paradise during specific seasons.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Swamp areas and Lake Amboseli",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596200236894-08d4b38d3886?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfGJpcmQlMjBtaWdyYXRpb24lMjBhZnJpY2F8ZW58MHx8fDE3MTczOTcxNDA2MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Birdwatching",
+        "Avian Spectacle",
+        "Seasonal Migration"
+      ]
+    },
+    {
+      "id": "AMB_FE_004",
+      "name": "Full Moon Kilimanjaro Photography Safari",
+      "short_description": "Join an exclusive guided safari timed with the full moon, offering unparalleled opportunities to capture stunning nocturnal wildlife and a silhouetted Kilimanjaro under lunar light.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Various viewpoints across the park",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1550974415-bc4e88383344?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHw1fGZ1bGwlMjBtb29uJTIwYWZyaWNhJTIwc2FmYXJpfGVufDB8fHx8MTcxNzM5NzI1N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Night Photography",
+        "Lunar Safari",
+        "Unique Experience"
+      ]
+    },
+    {
+      "id": "AMB_CN_001",
+      "name": "Maasai Manyatta Hues",
+      "short_description": "Experience the vibrant palette of a Maasai village, from the striking red shukas worn by warriors to the intricate, colorful beadwork adorning the women, a true living cultural 'neighborhood'.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Maasai villages bordering Amboseli",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1558296996-857e50523267?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHwzfE1hYXNhaSUyMHZpbGxhZ2V8ZW58MHx8fHwxNzE3NDA5OTkyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Cultural Colors",
+        "Maasai Culture",
+        "Vibrant Attire"
+      ]
+    },
+    {
+      "id": "AMB_CN_002",
+      "name": "Sunset Over Golden Savanna",
+      "short_description": "Witness the Amboseli plains transform into a breathtaking canvas of gold, orange, and purple as the sun dips below the horizon, painting the landscape in dramatic hues.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Western plains, facing Kilimanjaro",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1506013665476-d36c8411d619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfGFtYm9zZWxpJTIwc3Vuc2V0fGVufDB8fHx8MTcxNzM5NzM3Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Golden Hour",
+        "Safari Sunset",
+        "Natural Palette"
+      ]
+    },
+    {
+      "id": "AMB_CN_003",
+      "name": "Emerald Swamp Oases",
+      "short_description": "Explore the vibrant green heart of Amboseli's permanent swamps, a striking contrast to the surrounding dry plains, teeming with life and lush vegetation.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Ol Tukai Orok swamps",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1616766488730-1c0c66023255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHBhcHlydXMlMjBzd2FtcHxlbnwwfHx8fDE3MTczOTY3MzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Lush Landscapes",
+        "Green Oasis",
+        "Wetland Beauty"
+      ]
+    },
+    {
+      "id": "AMB_CN_004",
+      "name": "Kilimanjaro's Seasonal Cloud Canvas",
+      "short_description": "Watch as Mount Kilimanjaro's peak becomes a dynamic backdrop, adorned with ever-changing cloud formations that paint the sky with dramatic light and shadow, creating a magnificent 'sky neighborhood'.",
+      "subtype": "Colorful Neighborhoods",
+      "location_hint": "Anywhere with a clear view of Kilimanjaro",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1527631745260-26210f11909a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfGtpbGltYW5qYXJvJTIwdm9sY2Fub3xlbnwwfHx8fDE3MTc0MDExNjN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Mountain Views",
+        "Sky Art",
+        "Dramatic Scenery"
+      ]
+    },
+    {
+      "id": "AMB_SAM_001",
+      "name": "Ancient Baobab's Etched Bark",
+      "short_description": "Admire the natural artistry of ancient baobab trees, their massive trunks displaying intricate patterns and textures, like living sculptures carved by time and nature.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Scattered throughout the park, especially near swamps",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1634062272895-c2e3919e910f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHwxfGJhYm9hYiUyMHRyZWV8ZW58MHx8fHwxNzE3Mzk3NTgzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Natural Sculptures",
+        "Tree Art",
+        "Aged Beauty"
+      ]
+    },
+    {
+      "id": "AMB_SAM_002",
+      "name": "Elephant Path Dust Paintings",
+      "short_description": "Observe the ephemeral 'art' created by elephant herds as they traverse the dusty plains, leaving behind swirling patterns and deep grooves that tell stories of their journey.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Open plains, especially near water sources",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1628109673238-6625893d183f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHw4fGVsZXBoYW50JTIwaGVyZCUyMEFtYm9zZWxpfGVufDB8fHx8MTcxNzM5NzA2M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Ephemeral Art",
+        "Elephant Trails",
+        "Nature's Patterns"
+      ]
+    },
+    {
+      "id": "AMB_SAM_003",
+      "name": "Maasai Shield & Beadwork Artistry",
+      "short_description": "Witness the striking 'street art' of Maasai culture through their intricately painted shields and vibrant beadwork, each piece a symbol of identity, status, and artistic expression.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Maasai cultural bomas",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596773340059-e935639b56f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfE1hYXNhaSUyMGRhbmNlfGVufDB8fHx8MTcxNzM5NzA5OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Cultural Art",
+        "Maasai Crafts",
+        "Traditional Symbols"
+      ]
+    },
+    {
+      "id": "AMB_SAM_004",
+      "name": "Kilimanjaro's Volcanic Canvas",
+      "short_description": "Gaze upon the majestic slopes of Mount Kilimanjaro, its ancient volcanic geology displaying natural patterns and layers, a monumental natural 'mural' visible for miles.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Northern park boundary viewpoints",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1527631745260-26210f11909a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfGtpbGltYW5qYXJvJTIwdm9sY2Fub3xlbnwwfHx8fDE3MTc0MDExNjN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Geological Wonders",
+        "Mountain Scenery",
+        "Natural Patterns"
+      ]
+    },
+    {
+      "id": "AMB_ISP_001",
+      "name": "Observation Hill's Summit Pathway",
+      "short_description": "Ascend the winding path to the summit of Observation Hill, offering panoramic 360-degree views of Amboseli, its swamps, and the majestic Kilimanjaro.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Observation Hill, central Amboseli",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1506013665476-d36c8411d619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfGFtYm9zZWxpJTIwc3Vuc2V0fGVufDB8fHx8MTcxNzM5NzM3Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Panoramic Views",
+        "Walking Trail",
+        "Safari Vantage"
+      ]
+    },
+    {
+      "id": "AMB_ISP_002",
+      "name": "The Great Elephant Highway",
+      "short_description": "Follow the ancient, well-worn paths carved by generations of elephants, leading them to water and food, often with Kilimanjaro as a magnificent backdrop.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Across the plains, especially leading to swamps",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1628109673238-6625893d183f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHw4fGVsZXBoYW50JTIwaGVyZCUyMEFtYm9zZWxpfGVufDB8fHx8MTcxNzM5NzA2M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Elephant Paths",
+        "Wildlife Routes",
+        "Kilimanjaro View"
+      ]
+    },
+    {
+      "id": "AMB_ISP_003",
+      "name": "Guided Walking Safari Trails",
+      "short_description": "Embark on a guided walking safari, venturing along footpaths that offer an intimate, ground-level perspective of the bush, its smaller wonders, and wildlife.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Designated walking zones with a ranger",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1590480996884-6997435f1118?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHwzfGdhbWUlMjB3YWxrZXJ8ZW58MHx8fHwxNzE3Mzk3OTE0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Walking Safari",
+        "Intimate Bush Experience",
+        "Nature Exploration"
+      ]
+    },
+    {
+      "id": "AMB_ISP_004",
+      "name": "Kili-Viewpoint Game Drive Tracks",
+      "short_description": "Follow the main game drive tracks that lead to prime spots for viewing elephants and other wildlife against the magnificent backdrop of Mount Kilimanjaro.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "North and West sections of the park",
+      "best_time": "Morning / Sunset",
+      "images": "https://images.unsplash.com/photo-1506013665476-d36c8411d619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfGFtYm9zZWxpJTIwc3Vuc2V0fGVufDB8fHx8MTcxNzM5NzM3Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Game Drive",
+        "Kilimanjaro Views",
+        "Wildlife Photography"
+      ]
+    },
+    {
+      "id": "AMB_IP_001",
+      "name": "Ol Tukai Lodge's Kili-View Pool",
+      "short_description": "Swim in luxury with Mount Kilimanjaro towering majestically in the distance, offering an iconic 'infinity' view that blends the pool's edge with the vast Amboseli landscape.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Ol Tukai Lodge, Central Amboseli",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1590209919702-861c82806ee3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHw1fGFmcmVzaGljYW4lMjBsb2RnZSUyMHBvb2wlMjBraWxpbWFuamFyb3xlbnwwfHx8fDE3MTc0MDA2NDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Luxury Safari",
+        "Kilimanjaro View",
+        "Relaxation"
+      ]
+    },
+    {
+      "id": "AMB_IP_002",
+      "name": "Amboseli Serena Lodge's Oasis Pool",
+      "short_description": "Relax in the refreshing waters of this lodge pool, designed to offer an uninterrupted vista of the plains where wildlife often roams, creating a serene and picturesque setting.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Amboseli Serena Safari Lodge, Western Amboseli",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1577977465924-4f05788d7529?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfGFmcmVzaGljYW4lMjBsb2RnZSUyMHBvb2x8ZW58MHx8fHwxNzE3NDAwNjE5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Safari Lodge",
+        "Panoramic Views",
+        "Wildlife Watching"
+      ]
+    },
+    {
+      "id": "AMB_IP_003",
+      "name": "Tortilis Camp's Wild View Pool",
+      "short_description": "Enjoy a dip in a beautifully integrated pool that seems to merge with the surrounding bush, providing stunning views of the plains and a chance to spot passing animals.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Tortilis Camp Amboseli, Southern Amboseli",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1590209919702-861c82806ee3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHw1fGFmcmVzaGljYW4lMjBsb2RnZSUyMHBvb2wlMjBraWxpbWFuamFyb3xlbnwwfHx8fDE3MTc0MDA2NDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Eco-Lodge",
+        "Nature Immersion",
+        "Relaxing Retreat"
+      ]
+    },
+    {
+      "id": "AMB_IP_004",
+      "name": "Tawi Lodge's Waterhole Pool",
+      "short_description": "Experience the unique thrill of swimming in a pool that overlooks a natural waterhole, where elephants and other wildlife frequently gather, creating an unforgettable viewing platform.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Tawi Lodge, adjacent to Amboseli National Park",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628109673238-6625893d183f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHw4fGVsZXBoYW50JTIwaGVyZCUyMEFtYm9zZWxpfGVufDB8fHx8MTcxNzM5NzA2M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Wildlife at Poolside",
+        "Unique View",
+        "Luxury Experience"
+      ]
+    },
+    {
+      "id": "AMB_FFG_001",
+      "name": "Seasonal Wildflower Carpets",
+      "short_description": "After the short rains, witness the plains burst into life with vibrant patches of wildflowers, creating a fleeting but beautiful natural carpet against the savanna.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Open grasslands, scattered patches",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1590480996884-6997435f1118?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHwzfGdhbWUlMjB3YWxrZXJ8ZW58MHx8fHwxNzE3Mzk3OTE0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Wild Blooms",
+        "Seasonal Beauty",
+        "Natural Gardens"
+      ]
+    },
+    {
+      "id": "AMB_FFG_002",
+      "name": "Giant Acacia Blossom Avenues",
+      "short_description": "Drive through avenues lined with giant acacia trees when they are in full bloom, their creamy white or yellow flowers creating a fragrant, ethereal canopy.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Along main tracks, especially near woodlands",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596541539226-eb52c2cfcf8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHwyMHxhY2FjaWElMjBncm92ZXxlbnwwfHx8fDE3MTczOTY3MDd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Flowering Trees",
+        "Fragrant Paths",
+        "Safari Flora"
+      ]
+    },
+    {
+      "id": "AMB_FFG_003",
+      "name": "Papyrus & Water Lily Swamps",
+      "short_description": "Discover the lush 'water gardens' of Amboseli's permanent swamps, adorned with tall papyrus reeds and delicate water lilies, a haven for birdlife and unique aquatic flora.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Enkongo Narok & Olokenya swamps",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1616766488730-1c0c66023255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHBhcHlydXMlMjBzd2FtcHxlbnwwfHx8fDE3MTczOTY3MzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Wetland Flowers",
+        "Aquatic Plants",
+        "Bird Habitat"
+      ]
+    },
+    {
+      "id": "AMB_FFG_004",
+      "name": "Desert Rose (Adenium) Clusters",
+      "short_description": "Spot the hardy and beautiful desert rose plants, displaying their vibrant pink and red trumpet-shaped flowers, a surprising pop of color in the arid landscape.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Rocky outcrops and drier areas",
+      "best_time": "Morning / Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Adenium_obesum_flower.jpg/1280px-Adenium_obesum_flower.jpg",
+      "tags": [
+        "Arid Flora",
+        "Unique Flowers",
+        "Resilient Beauty"
+      ]
+    },
+    {
+      "id": "AMB_MB_001",
+      "name": "Meshanani Gate Maasai Craft Market",
+      "short_description": "Browse a lively open-air market near the park's main gate, where Maasai artisans display a vibrant array of traditional beadwork, carvings, and textiles, perfect for authentic souvenirs.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Outside Meshanani Gate",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1596773340059-e935639b56f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfE1hYXNhaSUyMGRhbmNlfGVufDB8fHx8MTcxNzM5NzA5OHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Local Crafts",
+        "Maasai Souvenirs",
+        "Cultural Shopping"
+      ]
+    },
+    {
+      "id": "AMB_MB_002",
+      "name": "Amboseli Airstrip Curio Stalls",
+      "short_description": "Discover small, charming stalls set up near the airstrip, offering last-minute opportunities to purchase local curios and artwork from enterprising community members.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Near Amboseli Airstrip",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1577977465924-4f05788d7529?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfGFmcmVzaGljYW4lMjBsb2RnZSUyMHBvb2x8ZW58MHx8fHwxNzE3NDAwNjE5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Travel Souvenirs",
+        "Local Art",
+        "Airstrip Shopping"
+      ]
+    },
+    {
+      "id": "AMB_MB_003",
+      "name": "Lodge Gift Shop Artisan Corner",
+      "short_description": "Explore the curated selection of local crafts and high-quality souvenirs available at lodge gift shops, often featuring pieces made by local communities, supporting conservation efforts.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Major safari lodges (e.g., Ol Tukai, Serena)",
+      "best_time": "Anytime",
+      "images": "https://images.unsplash.com/photo-1590209919702-861c82806ee3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHw1fGFmcmVzaGljYW4lMjBsb2RnZSUyMHBvb2wlMjBraWxpbWFuamFyb3xlbnwwfHx8fDE3MTc0MDA2NDV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Lodge Shopping",
+        "Curated Gifts",
+        "Support Local"
+      ]
+    },
+    {
+      "id": "AMB_MB_004",
+      "name": "Community Village Handicraft Stalls",
+      "short_description": "During a guided cultural visit, discover small, informal stalls within Maasai villages, offering unique, handmade items directly from the artisans themselves, providing a more authentic shopping experience.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Designated Maasai community visits outside park",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1558296996-857e50523267?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHwzfE1hYXNhaSUyMHZpbGxhZ2V8ZW58MHx8fHwxNzE3NDA5OTkyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Authentic Crafts",
+        "Village Souvenirs",
+        "Direct Trade"
+      ]
+    },
+    {
+      "id": "AMB_UNW_001",
+      "name": "Underground Spring-fed Swamps",
+      "short_description": "Marvel at Amboseli's lifeblood – permanent, crystal-clear swamps fed by underground springs from Kilimanjaro, creating lush oases in an otherwise dry land, a true hydrological wonder.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Enkongo Narok, Olokenya, Longinye swamps",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1616766488730-1c0c66023255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHBhcHlydXMlMjBzd2FtcHxlbnwwfHx8fDE3MTczOTY3MzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Hydrological Wonder",
+        "Permanent Water",
+        "Life Source"
+      ]
+    },
+    {
+      "id": "AMB_UNW_002",
+      "name": "Disappearing Lake Amboseli",
+      "short_description": "Witness the enigmatic Lake Amboseli, a vast, shallow soda lake that dramatically changes in size and depth with the seasons, sometimes appearing as a shimmering expanse, other times a dry, salt-crusted basin.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Eastern section of the park",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Lake_Amboseli.jpg/1280px-Lake_Amboseli.jpg",
+      "tags": [
+        "Seasonal Lake",
+        "Soda Lake",
+        "Natural Phenomenon"
+      ]
+    },
+    {
+      "id": "AMB_UNW_003",
+      "name": "Chyulu Hills Volcanic Peaks",
+      "short_description": "Gaze upon the distant, dramatic silhouettes of the Chyulu Hills, a range of young volcanic cones and lava flows that form a rugged, ancient natural barrier and a unique geological feature.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Visible from eastern Amboseli viewpoints",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1527631745260-26210f11909a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfGtpbGltYW5qYXJvJTIwdm9sY2Fub3xlbnwwfHx8fDE3MTc0MDExNjN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Volcanic Landscape",
+        "Geological Feature",
+        "Scenic Backdrop"
+      ]
+    },
+    {
+      "id": "AMB_UNW_004",
+      "name": "Fossilized River Beds",
+      "short_description": "Explore ancient, dry riverbeds where the imprints of past water flows and even fossilized tracks of prehistoric animals can sometimes be found, revealing Amboseli's deep geological history.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Drier, sandy areas, especially south of swamps",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1506013665476-d36c8411d619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfGFtYm9zZWxpJTIwc3Vuc2V0fGVufDB8fHx8MTcxNzM5NzM3Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Geological History",
+        "Ancient Landscapes",
+        "Archaeological Interest"
+      ]
+    },
+    {
+      "id": "AMB_NB_001",
+      "name": "Kilimanjaro's Majestic Peak at Dawn",
+      "short_description": "Capture the iconic view of Mount Kilimanjaro, its snow-capped summit glowing orange as the sun rises, with elephants often silhouetted against this magnificent backdrop.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Northern plains, facing south",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1506013665476-d36c8411d619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfGFtYm9zZWxpJTIwc3Vuc2V0fGVufDB8fHx8MTcxNzM5NzM3Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Iconic View",
+        "Kilimanjaro Sunrise",
+        "Elephant Silhouettes"
+      ]
+    },
+    {
+      "id": "AMB_NB_002",
+      "name": "Elephant Herds on the Open Plains",
+      "short_description": "Witness vast herds of elephants traversing the expansive open plains, their majestic presence creating a quintessential African safari backdrop.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Central and western plains",
+      "best_time": "Morning / Afternoon",
+      "images": "https://images.unsplash.com/photo-1628109673238-6625893d183f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHNlYXJjaHw4fGVsZXBoYW50JTIwaGVyZCUyMEFtYm9zZWxpfGVufDB8fHx8MTcxNzM5NzA2M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Safari Photography",
+        "Elephant Herds",
+        "African Landscape"
+      ]
+    },
+    {
+      "id": "AMB_NB_003",
+      "name": "Golden Savanna at Sunset",
+      "short_description": "Experience the savanna ablaze with golden hues as the sun dips below the horizon, casting long shadows and painting the landscape in a breathtaking spectacle of light.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Any elevated viewpoint or open plains",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1506013665476-d36c8411d619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfGFtYm9zZWxpJTIwc3Vuc2V0fGVufDB8fHx8MTcxNzM5NzM3Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Sunset Views",
+        "Golden Hour",
+        "African Wilderness"
+      ]
+    },
+    {
+      "id": "AMB_NB_004",
+      "name": "Reflective Swamps with Wildlife",
+      "short_description": "Photograph the mirror-like surfaces of Amboseli's permanent swamps, reflecting the sky and surrounding acacia trees, often with elephants, zebras, or birds enjoying the water's edge.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Around Enkongo Narok and Olokenya swamps",
+      "best_time": "Morning / Late Afternoon",
+      "images": "https://images.unsplash.com/photo-1616766488730-1c0c66023255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQzNzZ8MHwxfHBhcHlydXMlMjBzd2FtcHxlbnwwfHx8fDE3MTczOTY3MzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Water Reflections",
+        "Wetland Habitat",
+        "Wildlife Photography"
+      ]
+    }
+  ]
+}

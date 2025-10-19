@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Kano",
+    "city_id": "2456"
+  },
+  "items": [
+    {
+      "id": "CMG001",
+      "name": "Kano Toon Town Express",
+      "short_description": "Hop aboard the Toon Town Express and meet your favorite cartoon characters! A lively spot for photo ops and high-fives with beloved animated friends.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Unit 5, Zoo Road Plaza, Sabon Gari, Kano",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594165561110-aa8fc41571d7",
+      "tags": [
+        "characters",
+        "photos",
+        "family"
+      ]
+    },
+    {
+      "id": "CMG002",
+      "name": "Super Squad Hangout",
+      "short_description": "Join the Super Squad for daily hero training and exclusive meet-and-greets with caped crusaders and their sidekicks. Unleash your inner hero!",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Plot 12, Civic Centre Road, Nasarawa, Kano",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1577717903273-057b6f650742",
+      "tags": [
+        "superheroes",
+        "interactive",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "CMG003",
+      "name": "Princess Palace Greetings",
+      "short_description": "Meet enchanting princesses from classic tales in their magical palace setting. A dream come true for little royalty with elegant photo opportunities.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Royal Estate Phase 2, Gidan Rumfa, Kano",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558230557-ba31b7e6822a",
+      "tags": [
+        "princesses",
+        "fantasy",
+        "girls"
+      ]
+    },
+    {
+      "id": "CMG004",
+      "name": "Safari Friends Junction",
+      "short_description": "Explore the jungle-themed junction where friendly safari animals (mascots) are waiting to greet and play with children of all ages.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Kano Zoo Entrance, Zoo Road, Kano",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1574347717462-8e10d65a8898",
+      "tags": [
+        "animals",
+        "safari",
+        "outdoors"
+      ]
+    },
+    {
+      "id": "FTP001",
+      "name": "Enchanted Forest of Kano",
+      "short_description": "Wander through a whimsical forest filled with iconic fairy tale scenes, interactive installations, and characters brought to life. A truly magical experience.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Bichi Road, Adjacent to Tiga Dam Reserve, Kano",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1517457210348-b7670092102a",
+      "tags": [
+        "magic",
+        "fantasy",
+        "adventure"
+      ]
+    },
+    {
+      "id": "FTP002",
+      "name": "Wonderland Gardens",
+      "short_description": "Step into Alice's Wonderland with mazes, giant chessboards, and peculiar characters. Enjoy tea parties and whimsical rides in this imaginative park.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Gwagwarwa Bypass, Near Kwanar Dawaki, Kano",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563200746-1264c7676654",
+      "tags": [
+        "Alice in Wonderland",
+        "gardens",
+        "rides"
+      ]
+    },
+    {
+      "id": "FTP003",
+      "name": "Sleeping Beauty's Castle & Grounds",
+      "short_description": "Explore the majestic castle and surrounding grounds, inspired by Sleeping Beauty. Kids can dress up, participate in royal court activities, and enjoy themed play areas.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Kano-Zaria Road, Adjacent to Kano Golf Club, Kano",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579728285973-c603b53f3e1b",
+      "tags": [
+        "castle",
+        "royalty",
+        "dress-up"
+      ]
+    },
+    {
+      "id": "FTP004",
+      "name": "Pinocchio's Workshop Village",
+      "short_description": "A charming village where the story of Pinocchio comes to life. Kids can build wooden toys, meet Geppetto, and enjoy gentle rides in a playful, educational setting.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Farm Centre, BUK Road, Kano",
+      "opening_hours": "10:30-18:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1547849615-1a87b1c4b752",
+      "tags": [
+        "crafts",
+        "story",
+        "village"
+      ]
+    },
+    {
+      "id": "STP001",
+      "name": "Tales of Kano Storyland",
+      "short_description": "A park dedicated to local Kano legends and African folklore. Children can listen to stories under ancient trees, interact with themed play structures, and learn about cultural heritage.",
+      "subtype": "Storytelling Parks",
+      "address": "Gidan Makama Museum Grounds, Emir's Palace Road, Kano",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533965582236-8e50953a6331",
+      "tags": [
+        "folklore",
+        "culture",
+        "interactive"
+      ]
+    },
+    {
+      "id": "STP002",
+      "name": "The Grand Narratives Park",
+      "short_description": "Journey through a park designed with different 'story zones,' each focusing on a classic children's book. Features character meet-and-greets, activity stations, and mini-shows.",
+      "subtype": "Storytelling Parks",
+      "address": "Next to Murtala Muhammed Library, Civic Centre Road, Kano",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1532050893325-3b1bbbf51921",
+      "tags": [
+        "books",
+        "learning",
+        "shows"
+      ]
+    },
+    {
+      "id": "STP003",
+      "name": "Adventure Chronicles Park",
+      "short_description": "An exciting park where children become the heroes of their own adventure. Follow clues, solve riddles, and unlock new parts of the park as a grand story unfolds around them.",
+      "subtype": "Storytelling Parks",
+      "address": "Kano Zoological Garden Annexe, Zoo Road, Kano",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522867011986-e5c9b2075f11",
+      "tags": [
+        "adventure",
+        "puzzles",
+        "role-play"
+      ]
+    },
+    {
+      "id": "STP004",
+      "name": "Whispering Woods Tales",
+      "short_description": "A serene park nestled among trees where storytellers captivate audiences with nature-inspired tales and myths. Features cozy reading nooks and a small open-air stage.",
+      "subtype": "Storytelling Parks",
+      "address": "Maiduguri Road, Near Challawa Gorge Dam, Kano",
+      "opening_hours": "11:00-16:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1510484556485-f55e090f4251",
+      "tags": [
+        "nature",
+        "reading",
+        "calm"
+      ]
+    },
+    {
+      "id": "CDM001",
+      "name": "Kano Kids Discovery Museum",
+      "short_description": "An interactive museum where kids can explore science, art, and culture through hands-on exhibits. Designed to inspire curiosity and learning through play.",
+      "subtype": "Children’s Museums",
+      "address": "No. 7, Airport Road, Tarauni, Kano",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596707328679-b1d431d102e3",
+      "tags": [
+        "science",
+        "interactive",
+        "education"
+      ]
+    },
+    {
+      "id": "CDM002",
+      "name": "Little Builders Workshop Museum",
+      "short_description": "Focused on engineering and construction, this museum allows children to design, build, and test their creations using various materials. Ignites problem-solving skills.",
+      "subtype": "Children’s Museums",
+      "address": "Opposite Federal College of Education, Gyadi-Gyadi, Kano",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1618770734023-e5756781283e",
+      "tags": [
+        "engineering",
+        "build",
+        "STEM"
+      ]
+    },
+    {
+      "id": "CDM003",
+      "name": "Art & Imagination Lab",
+      "short_description": "A vibrant space where young artists can experiment with different art forms, from painting to sculpture. Encourages creativity and self-expression through hands-on art projects.",
+      "subtype": "Children’s Museums",
+      "address": "Gidan Sarkin Dawaki Mai Tuta, Kofar Kudu, Kano",
+      "opening_hours": "10:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582213782172-f542482329e7",
+      "tags": [
+        "art",
+        "creativity",
+        "crafts"
+      ]
+    },
+    {
+      "id": "CDM004",
+      "name": "Global Explorer's Exhibit",
+      "short_description": "Travel the world without leaving Kano! This museum features miniature versions of global landmarks, cultural artifacts, and interactive exhibits on different countries.",
+      "subtype": "Children’s Museums",
+      "address": "Buk Road, Opposite Bayero University Old Campus, Kano",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549487922-3ac93a681326",
+      "tags": [
+        "culture",
+        "geography",
+        "world"
+      ]
+    },
+    {
+      "id": "IPC001",
+      "name": "Jungle Gym Kingdom",
+      "short_description": "A massive indoor play center with multi-level jungle gyms, slides, ball pits, and obstacle courses for endless active fun, rain or shine.",
+      "subtype": "Indoor Play Centers",
+      "address": "Ado Bayero Mall, Shoprite Wing, Zoo Road, Kano",
+      "opening_hours": "10:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574888147575-b40b8f17669d",
+      "tags": [
+        "active",
+        "climbing",
+        "slides"
+      ]
+    },
+    {
+      "id": "IPC002",
+      "name": "Soft Play Safari",
+      "short_description": "Designed for toddlers and young children, this soft play area offers a safe, padded environment for exploration, crawling, and gentle play with sensory elements.",
+      "subtype": "Indoor Play Centers",
+      "address": "Grand Central Hotel, Recreation Wing, Bompai, Kano",
+      "opening_hours": "09:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579549320294-a4b518c0c4c4",
+      "tags": [
+        "toddler",
+        "safe",
+        "sensory"
+      ]
+    },
+    {
+      "id": "IPC003",
+      "name": "Adventure City Playground",
+      "short_description": "A dynamic indoor playground featuring trampolines, climbing walls, a zip line, and an arcade area. Perfect for high-energy kids seeking thrilling activities.",
+      "subtype": "Indoor Play Centers",
+      "address": "Azikiwe Road, Beside NNPC Mega Station, Sabon Gari, Kano",
+      "opening_hours": "11:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596541223403-1ff6f03e2c69",
+      "tags": [
+        "trampolines",
+        "climbing",
+        "arcade"
+      ]
+    },
+    {
+      "id": "IPC004",
+      "name": "Fun Bounce Haven",
+      "short_description": "An indoor center entirely dedicated to bouncy castles, inflatable slides, and obstacle courses. Kids can jump, slide, and bounce to their heart's content.",
+      "subtype": "Indoor Play Centers",
+      "address": "Hotoro North, Hadejia Road, Kano",
+      "opening_hours": "10:30-19:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1628172856550-9856f70914a8",
+      "tags": [
+        "bouncy castles",
+        "inflatables",
+        "jumping"
+      ]
+    },
+    {
+      "id": "LWP001",
+      "name": "Kano Brick City",
+      "short_description": "A vibrant park where children can build anything they imagine with millions of LEGO bricks. Features massive LEGO sculptures and dedicated building zones.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Zoo Road, Next to Kano Club, Kano",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574636906232-094119d6575d",
+      "tags": [
+        "Lego",
+        "building",
+        "creativity"
+      ]
+    },
+    {
+      "id": "LWP002",
+      "name": "Mega Block Builders Zone",
+      "short_description": "For younger children, this zone offers oversized building blocks and soft bricks for constructing forts, houses, and imaginative structures in a safe environment.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Katsina Road, Adjacent to Sabon Gari Market, Kano",
+      "opening_hours": "09:30-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563200746-1264c7676654",
+      "tags": [
+        "blocks",
+        "toddler",
+        "construction"
+      ]
+    },
+    {
+      "id": "LWP003",
+      "name": "Robo-Build Lab",
+      "short_description": "An advanced construction park where older kids can learn about robotics and engineering by building and programming LEGO Mindstorms robots. STEM-focused fun.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "BUK Road, Opposite Islamic Centre, Kano",
+      "opening_hours": "11:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1594924765799-d450942e566c",
+      "tags": [
+        "robotics",
+        "STEM",
+        "programming"
+      ]
+    },
+    {
+      "id": "LWP004",
+      "name": "Dream House Design Studio",
+      "short_description": "Kids can unleash their inner architects, designing and building their dream homes, cities, or even spaceships using a wide array of specialized LEGO sets and guidance.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "No. 18, Sani Abacha Way, Kano",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574510762956-6dd4216892a0",
+      "tags": [
+        "architecture",
+        "design",
+        "imagination"
+      ]
+    },
+    {
+      "id": "MSA001",
+      "name": "Kano Mini-Olympics Village",
+      "short_description": "A compact sports village offering mini-golf, small football pitches, basketball hoops, and a running track for children to try various sports in a friendly atmosphere.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Audu Bako Way, Adjacent to Race Course, Kano",
+      "opening_hours": "08:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1587391942475-10499e909569",
+      "tags": [
+        "multi-sport",
+        "active",
+        "competition"
+      ]
+    },
+    {
+      "id": "MSA002",
+      "name": "Junior Kicks Arena",
+      "short_description": "Dedicated mini-football pitches and training areas for aspiring young footballers. Offers coaching sessions and casual play for different age groups.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Tudun Wada Road, Adjacent to Kano Pillars Stadium, Kano",
+      "opening_hours": "07:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1502931110036-ed4015694c03",
+      "tags": [
+        "football",
+        "soccer",
+        "training"
+      ]
+    },
+    {
+      "id": "MSA003",
+      "name": "Slam Dunk Kids Court",
+      "short_description": "Multiple child-sized basketball courts with adjustable hoops. Offers free play, organized games, and beginner lessons for children interested in basketball.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Gezawa Road, Opposite Bayero University New Site, Kano",
+      "opening_hours": "09:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1574347717462-8e10d65a8898",
+      "tags": [
+        "basketball",
+        "hoops",
+        "sports"
+      ]
+    },
+    {
+      "id": "MSA004",
+      "name": "Adventure Obstacle Course",
+      "short_description": "A fun and challenging mini obstacle course designed to improve agility, strength, and coordination. Features climbing nets, balance beams, and soft landings.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Sani Mai Nagge, Zaria Road, Kano",
+      "opening_hours": "08:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579361623810-749e75a363a0",
+      "tags": [
+        "obstacle course",
+        "agility",
+        "challenge"
+      ]
+    },
+    {
+      "id": "TPK001",
+      "name": "Kano Joyland Park",
+      "short_description": "A classic theme park experience with gentle rides, carousels, a mini-roller coaster, and interactive play zones designed specifically for young children and families.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Zoo Road, Near Kano Zoo, Kano",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1527871633537-8e6f1f3e7a04",
+      "tags": [
+        "rides",
+        "family",
+        "funfair"
+      ]
+    },
+    {
+      "id": "TPK002",
+      "name": "Fantasy Bay Kiddie Rides",
+      "short_description": "A smaller, charming theme park focused on fantasy and fairy tale themed rides. Perfect for toddlers and preschoolers, offering a safe and imaginative experience.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Gidan Bagauda, Tiga Road, Kano",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1604543666504-2b73b5e4c632",
+      "tags": [
+        "toddlers",
+        "fairy tales",
+        "gentle rides"
+      ]
+    },
+    {
+      "id": "TPK003",
+      "name": "Adventure Springs Park",
+      "short_description": "An adventure-themed park with water slides, a splash pad, a small train ride, and a petting zoo. Combines thrills with animal encounters for a full day of fun.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Maiduguri Road, Near Challawa Waterworks, Kano",
+      "opening_hours": "09:30-18:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1582234031971-d6a0a927a44f",
+      "tags": [
+        "water park",
+        "animals",
+        "adventure"
+      ]
+    },
+    {
+      "id": "TPK004",
+      "name": "Tiny Tot Raceway & Amusements",
+      "short_description": "Featuring mini go-karts, bumper boats, and classic amusement park games adapted for young children. Offers a fun, competitive, and safe environment.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Dawanau Road, Adjacent to Grain Market, Kano",
+      "opening_hours": "11:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549646401-49e0c3a2f790",
+      "tags": [
+        "go-karts",
+        "games",
+        "amusements"
+      ]
+    },
+    {
+      "id": "MIS001",
+      "name": "The Great Kano Magic Show",
+      "short_description": "Witness amazing illusions and dazzling magic tricks performed live by talented magicians. An interactive show designed to captivate children's imaginations.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Sani Abacha Indoor Sports Hall, Kofar Mata, Kano",
+      "opening_hours": "14:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510525000574-855f2c79f94a",
+      "tags": [
+        "magic",
+        "illusions",
+        "live show"
+      ]
+    },
+    {
+      "id": "MIS002",
+      "name": "Wonderland Wizards Academy",
+      "short_description": "Not just a show, but an immersive experience where kids can learn simple magic tricks from 'wizards' and even perform their own illusions on stage.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Bompai Road, Adjacent to Central Hotel, Kano",
+      "opening_hours": "13:00-15:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1508826458564-e0c5025776d6",
+      "tags": [
+        "interactive",
+        "learning",
+        "performance"
+      ]
+    },
+    {
+      "id": "MIS003",
+      "name": "Mystic Miracles Theatre",
+      "short_description": "A family-friendly theatre presenting a variety of magical acts, from comedic magic to grand illusions, ensuring a spellbinding experience for all ages.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Aminu Kano Teaching Hospital Road, Opposite School of Health, Kano",
+      "opening_hours": "16:00-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582213778841-8f5532585918",
+      "tags": [
+        "theatre",
+        "comedy",
+        "family"
+      ]
+    },
+    {
+      "id": "MIS004",
+      "name": "The Illusionist's Apprentice",
+      "short_description": "A unique show where a master illusionist involves children directly in creating and revealing magic. An exciting, participatory magical journey.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Gidan Murtala, BUK Road, Kano",
+      "opening_hours": "10:30-12:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1599553648557-0a3c200b3f88",
+      "tags": [
+        "participatory",
+        "audience",
+        "enchantment"
+      ]
+    },
+    {
+      "id": "PFK001",
+      "name": "Kano Star Dome",
+      "short_description": "Explore the wonders of the cosmos in this immersive digital planetarium. Features engaging shows tailored for young astronomers, revealing planets, stars, and galaxies.",
+      "subtype": "Planetariums for Kids",
+      "address": "Adjacent to Government House, Emir's Palace Road, Kano",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1534723444497-6a16223b2c1f",
+      "tags": [
+        "space",
+        "astronomy",
+        "education"
+      ]
+    },
+    {
+      "id": "PFK002",
+      "name": "Little Astronauts Academy",
+      "short_description": "A special planetarium designed for preschoolers, with soft seating and gentle, animated shows about the sun, moon, and friendly aliens. Includes a 'rocket launch' simulation.",
+      "subtype": "Planetariums for Kids",
+      "address": "Kano Science and Technology University Campus, Wudil, Kano",
+      "opening_hours": "09:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510484556485-f55e090f4251",
+      "tags": [
+        "toddler",
+        "solar system",
+        "fun"
+      ]
+    },
+    {
+      "id": "PFK003",
+      "name": "Galaxy Explorers Dome",
+      "short_description": "An advanced planetarium experience with interactive control panels for kids to navigate through constellations, learn about black holes, and pilot virtual spacecraft.",
+      "subtype": "Planetariums for Kids",
+      "address": "BUK New Site, Gwarzo Road, Kano",
+      "opening_hours": "11:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1601004890684-d6a19f20c427",
+      "tags": [
+        "interactive",
+        "constellations",
+        "technology"
+      ]
+    },
+    {
+      "id": "PFK004",
+      "name": "Cosmic Kids Observatory",
+      "short_description": "Combines a planetarium with a small outdoor observatory for daylight and evening sky gazing (weather permitting). Educational programs focused on celestial events.",
+      "subtype": "Planetariums for Kids",
+      "address": "Along Zaria Road, Near Sa'adatu Rimi College of Education, Kano",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Griffith_Observatory_and_Los_Angeles_dusk_from_Mount_Hollywood.jpg/1920px-Griffith_Observatory_and_Los_Angeles_dusk_from_Mount_Hollywood.jpg",
+      "tags": [
+        "observatory",
+        "stars",
+        "night sky"
+      ]
+    }
+  ]
+}

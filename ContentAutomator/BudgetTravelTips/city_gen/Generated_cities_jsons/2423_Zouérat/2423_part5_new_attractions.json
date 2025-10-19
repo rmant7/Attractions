@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Zouérat",
+    "city_id": "2423"
+  },
+  "items": [
+    {
+      "id": "ZOT-M001",
+      "name": "The Iron Heart Museum",
+      "short_description": "Dive deep into the epic story of Zouérat's iron ore mining, from ancient techniques to modern operations. Interactive exhibits and geological displays bring the town's lifeblood to light.",
+      "address": "Central District, next to SNIM Headquarters, Zouérat",
+      "opening_hours": "09:00-17:00 (Sun-Thu)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616550732890-a35882f05a10?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "history",
+        "mining",
+        "education"
+      ]
+    },
+    {
+      "id": "ZOT-S002",
+      "name": "Zouérat Star Oasis Camp",
+      "short_description": "Experience the unparalleled beauty of the Sahara night sky at this dedicated stargazing site, featuring telescopes and guided astronomy sessions. Escape the city lights for a celestial spectacle.",
+      "address": "15km South of Zouérat, Route de Bir Moghrein",
+      "opening_hours": "19:00-01:00 (Daily, booking required)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506829777174-a6f654b9d031?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "adventure",
+        "astronomy"
+      ]
+    },
+    {
+      "id": "ZOT-A003",
+      "name": "Souk El-Khadra (Green Market)",
+      "short_description": "Discover authentic Mauritanian handicrafts, textiles, and local produce at this vibrant new market. Support local artisans and take home a piece of Zouérat's rich culture.",
+      "address": "Near Grand Mosque, Market District, Zouérat",
+      "opening_hours": "08:00-16:00 (Mon-Sat)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549887550-d4610190ce8a?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "culture",
+        "shopping",
+        "local"
+      ]
+    },
+    {
+      "id": "ZOT-E004",
+      "name": "Tmeimichatt Oasis Park",
+      "short_description": "A newly developed ecological park surrounding a natural oasis, offering walking trails, picnic spots, and birdwatching opportunities. A green sanctuary in the heart of the desert.",
+      "address": "Tmeimichatt Oasis, 10km North-East of Zouérat",
+      "opening_hours": "07:00-19:00 (Daily)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1546765790-25e2e8e918c5?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "family",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "ZOT-T005",
+      "name": "Iron Giant Viewpoint",
+      "short_description": "Witness the legendary Iron Ore Train, one of the longest and heaviest trains in the world, as it rumbles through the desert. A specially constructed viewpoint provides an unforgettable panorama.",
+      "address": "Route de Choum, 20km West of Zouérat",
+      "opening_hours": "24/7 (Best at dawn/dusk for train sightings)",
+      "price_level": "free",
+      "images": "https://images.pexels.com/photos/10186981/pexels-photo-10186981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "adventure",
+        "iconic",
+        "photography"
+      ]
+    },
+    {
+      "id": "ZOT-H006",
+      "name": "The Tents of Timelessness",
+      "short_description": "Immerse yourself in the rich history and traditions of Mauritania's nomadic peoples. This interactive center showcases traditional tents, artifacts, music, and storytelling from the desert.",
+      "address": "El-Waha District, Zouérat",
+      "opening_hours": "10:00-16:00 (Mon-Fri)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579227599023-e59e8f49d21e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "culture",
+        "history",
+        "education"
+      ]
+    },
+    {
+      "id": "ZOT-P007",
+      "name": "Zouérat Sands Fun Park",
+      "short_description": "A modern, desert-themed adventure playground designed for children of all ages, featuring safe climbing structures, slides, and shaded play areas. Perfect for family fun in Zouérat.",
+      "address": "Near City Hall, Residential Area, Zouérat",
+      "opening_hours": "08:00-20:00 (Daily)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1576483472097-4020a6711580?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "family",
+        "children",
+        "recreation"
+      ]
+    },
+    {
+      "id": "ZOT-G008",
+      "name": "The Miners' Path Guided Walk",
+      "short_description": "Join a certified guide on a fascinating walking tour exploring the historical sites of Zouérat's early mining operations and the communities that grew around them. Learn about the tough life of miners.",
+      "address": "Starting point: Iron Heart Museum (ZOT-M001)",
+      "opening_hours": "09:30 & 14:00 (Mon-Fri, booking essential)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582260654877-2e1d0335029e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "history",
+        "walking",
+        "mining"
+      ]
+    },
+    {
+      "id": "ZOT-C009",
+      "name": "Desert Dromedary Adventures",
+      "short_description": "Embark on unforgettable camel treks into the serene Mauritanian desert. Choose from short excursions or overnight camping trips, guided by experienced local nomads.",
+      "address": "North Zouérat, near F'dérik Road junction",
+      "opening_hours": "06:00-18:00 (Daily, booking required)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1517457223793-1994e09f44ee?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "nature",
+        "animals"
+      ]
+    },
+    {
+      "id": "ZOT-S010",
+      "name": "Zouérat Community Arena",
+      "short_description": "A state-of-the-art sports complex featuring indoor basketball courts, football pitches, and a gym. Open to locals and visitors for recreation and friendly competition.",
+      "address": "Adjacent to the new Residential Blocks, Zouérat",
+      "opening_hours": "08:00-22:00 (Daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579952962272-fd6471676839?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sports",
+        "recreation",
+        "community"
+      ]
+    }
+  ]
+}

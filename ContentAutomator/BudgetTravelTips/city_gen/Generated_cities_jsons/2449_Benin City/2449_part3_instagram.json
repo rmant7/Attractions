@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Benin City",
+    "city_id": "2449"
+  },
+  "items": [
+    {
+      "id": "MB_ObaMarketRoyal",
+      "name": "The Royal Buzz of Oba Market",
+      "short_description": "Immerse yourself in the vibrant chaos and rich culture of Benin's largest traditional market, a feast for the senses. Discover everything from intricate crafts to fresh local produce.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "King's Square, City Centre",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596707323164-16a575a7b8e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Local culture",
+        "Street photography",
+        "Authentic"
+      ]
+    },
+    {
+      "id": "MB_NewBeninVibes",
+      "name": "New Benin Market's Daily Rhythm",
+      "short_description": "Experience the bustling heart of local commerce at New Benin Market, known for its diverse goods and lively atmosphere. A perfect spot to capture daily life and local interactions.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "New Benin Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1597405703774-683a45c742c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Shopping",
+        "Local crafts",
+        "Food market"
+      ]
+    },
+    {
+      "id": "MB_UseluTradition",
+      "name": "Uselu Market's Timeless Charm",
+      "short_description": "Step back in time at Uselu Market, offering a glimpse into traditional Benin trading with its array of fabrics, spices, and unique artifacts. A vibrant and photogenic local hub.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Uselu-Ugbowo Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1589133887309-3221c5f850b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Cultural shopping",
+        "Traditional goods",
+        "Bazaar"
+      ]
+    },
+    {
+      "id": "MB_EkiosaSpice",
+      "name": "Ekiosa Market: Aromatic Finds",
+      "short_description": "Explore the aromatic wonders and vibrant produce of Ekiosa Market, a less chaotic but equally authentic market experience. Ideal for discovering local ingredients and engaging with friendly vendors.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Upper Mission Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1590008542918-a6873528b97d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Culinary",
+        "Local produce",
+        "Market life"
+      ]
+    },
+    {
+      "id": "UHS_EdoHeritage",
+      "name": "The Legacy Edo Hotel & Suites",
+      "short_description": "Experience luxury steeped in Edo heritage at this boutique hotel, featuring traditional art and contemporary comforts. A perfect blend of history and hospitality awaits.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "GRA, near Airport Road",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1549429141-a3f5a2f8c5b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Boutique stay",
+        "Edo culture",
+        "Luxury"
+      ]
+    },
+    {
+      "id": "UHS_PalaceView",
+      "name": "Royal Vista Boutique Hotel",
+      "short_description": "Offering unparalleled views of the Oba's Palace and its surroundings, this hotel combines elegant design with a prime cultural location. Enjoy a stay fit for royalty with a modern twist.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Adjacent to King's Square",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Historic view",
+        "Luxury hotel",
+        "City escape"
+      ]
+    },
+    {
+      "id": "UHS_GreenHaven",
+      "name": "Benin Garden Retreat Suites",
+      "short_description": "Find tranquility in this eco-friendly hotel surrounded by lush gardens, offering a peaceful escape within the city. Perfect for nature lovers seeking serenity and comfort.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Government Reservation Area (GRA)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1542662059-e970b8a36ef9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Eco-friendly",
+        "Nature retreat",
+        "Relaxing"
+      ]
+    },
+    {
+      "id": "UHS_ArtisanGuesthse",
+      "name": "Igun Street Artisan Guesthouse",
+      "short_description": "Stay amidst the creative energy of Igun Street, a UNESCO World Heritage Site, known for its bronze casters. This guesthouse offers an immersive cultural experience with local art at your doorstep.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Igun Street",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1577771764658-20d440938f6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Cultural immersion",
+        "Artistic stay",
+        "Heritage site"
+      ]
+    },
+    {
+      "id": "ISP_ObaPalaceSteps",
+      "name": "Steps to the Oba's Realm",
+      "short_description": "Ascend the grand steps leading to the historic Oba's Palace, feeling the echoes of centuries of royal history beneath your feet. A powerful photo opportunity with cultural significance.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Oba's Palace entrance, King's Square",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Oba_Ewuare_II_Palace_in_Benin_City%2C_Edo_State.jpg/1280px-Oba_Ewuare_II_Palace_in_Benin_City%2C_Edo_State.jpg",
+      "tags": [
+        "Historical landmark",
+        "Architecture",
+        "Cultural walk"
+      ]
+    },
+    {
+      "id": "ISP_NationalMuseumPath",
+      "name": "Pathway to Benin's Treasures",
+      "short_description": "Follow the winding pathway leading to the Benin National Museum, where ancient artifacts tell tales of a glorious empire. An artistic approach to cultural discovery.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Benin National Museum, King's Square",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/National_Museum_Benin_City_2.jpg/1280px-National_Museum_Benin_City_2.jpg",
+      "tags": [
+        "Museum access",
+        "Historical journey",
+        "Architectural detail"
+      ]
+    },
+    {
+      "id": "ISP_BeninMoatWalk",
+      "name": "Ancient Moat Interpretive Walk",
+      "short_description": "Discover sections of the ancient Benin Moat, a UNESCO World Heritage site, offering historical pathways through an ingenious defense system. A truly unique and educational stroll.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Around various city outskirts",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Remains_of_the_ancient_walls_and_moat_of_the_kingdom_of_Benin.jpg",
+      "tags": [
+        "Heritage site",
+        "Nature walk",
+        "Historical defense"
+      ]
+    },
+    {
+      "id": "ISP_IgunArtisanLane",
+      "name": "Igun Street's Craft Alley",
+      "short_description": "Wander through the narrow, bustling alleys of Igun Street, home to generations of bronze casters, where every corner reveals artisanal mastery. An immersive cultural pathway.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Igun Street, off Sakponba Road",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a2/One_of_the_Bronze_statues_being_worked_on_at_Igun_Street_Benin.jpg",
+      "tags": [
+        "Artisan street",
+        "Cultural heritage",
+        "Photogenic lanes"
+      ]
+    },
+    {
+      "id": "SAM_EdoHeroesWall",
+      "name": "Edo Heritage Mural Gallery",
+      "short_description": "Discover captivating murals depicting Edo history and heroes splashed across city walls, turning ordinary streets into open-air art galleries. Each piece tells a powerful story.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Along Akpakpava Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596707323164-16a575a7b8e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Public art",
+        "Cultural art",
+        "Urban exploration"
+      ]
+    },
+    {
+      "id": "SAM_BeninBronzesArt",
+      "name": "Bronze Age Street Gallery",
+      "short_description": "Find modern interpretations of the iconic Benin Bronzes in stunning street art, blending ancient artistry with contemporary urban expression. A vibrant tribute to a rich legacy.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Around Ring Road & Airport Road junction",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1627993335016-1f6b8e3a29f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Historical themes",
+        "Modern art",
+        "City walls"
+      ]
+    },
+    {
+      "id": "SAM_MarketDistrictArt",
+      "name": "Market District Murals",
+      "short_description": "Amidst the bustling markets, discover colorful murals depicting scenes of local life, trade, and community, adding artistic flair to everyday commerce. A dynamic backdrop for photos.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near New Benin Market",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1597089914488-812e9b0b46d0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Local life",
+        "Vibrant colors",
+        "Community art"
+      ]
+    },
+    {
+      "id": "SAM_UniversityCampusArt",
+      "name": "Uniben Campus Graffiti Alley",
+      "short_description": "Explore the creative expressions of student artists along pathways and walls within the University of Benin campus, reflecting contemporary youth culture and social commentary. Bold and thought-provoking.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "University of Benin Campus, Ugbowo",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1518774026601-2092c7336582?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Youth culture",
+        "Campus art",
+        "Expressive"
+      ]
+    },
+    {
+      "id": "CI_IgunBronzeWorkshop",
+      "name": "Igun Street Bronze Casting Live",
+      "short_description": "Witness the ancient art of bronze casting firsthand at a traditional workshop on Igun Street, a UNESCO World Heritage site. Observe skilled artisans crafting magnificent Edo pieces.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Igun Street, off Sakponba Road",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Benin_Bronze_caster.jpg/1280px-Benin_Bronze_caster.jpg",
+      "tags": [
+        "Live craft",
+        "Heritage art",
+        "Traditional skills"
+      ]
+    },
+    {
+      "id": "CI_NationalMuseumExhibit",
+      "name": "Benin National Museum Grand Hall",
+      "short_description": "Step into the main exhibition hall of the Benin National Museum, home to a remarkable collection of artifacts showcasing the Edo Kingdom's rich history and artistic prowess. A journey through time.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Benin National Museum, King's Square",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Benin_City%2C_National_Museum_2.jpg/1280px-Benin_City%2C_National_Museum_2.jpg",
+      "tags": [
+        "Museum display",
+        "Ancient artifacts",
+        "Historical exhibits"
+      ]
+    },
+    {
+      "id": "CI_ObaPalaceGrounds",
+      "name": "Oba's Palace Ceremonial Grounds",
+      "short_description": "Explore the expansive ceremonial grounds of the Oba's Palace, where significant cultural events and traditional rites take place. The grand architecture and open space are truly majestic.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Oba's Palace, King's Square",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/The_Oba%27s_Palace%2C_Benin_City.jpg/1280px-The_Oba%27s_Palace%2C_Benin_City.jpg",
+      "tags": [
+        "Royal grounds",
+        "Ceremonial space",
+        "Architectural marvel"
+      ]
+    },
+    {
+      "id": "CI_EdoCulturalCtr",
+      "name": "Edo Cultural Centre Gallery",
+      "short_description": "Discover contemporary Edo art and cultural performances at the Edo Cultural Centre, a vibrant hub for promoting local traditions and artistic talent. Engage with modern cultural expressions.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Edo Cultural Centre, Airport Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1550264104-510bf8b5d32e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Contemporary art",
+        "Cultural center",
+        "Performing arts"
+      ]
+    },
+    {
+      "id": "RV_CitySkylineBar",
+      "name": "Eclipse Sky Lounge",
+      "short_description": "Sip cocktails and enjoy panoramic views of Benin City's evolving skyline from this chic rooftop bar. Perfect for sunset drinks and capturing the city lights at night.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Sapele Road, High-rise Hotel",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1610486663553-bf9c968f9b9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Nightlife",
+        "Cityscape",
+        "Panoramic view"
+      ]
+    },
+    {
+      "id": "RV_RoyalVistaTerrace",
+      "name": "Oba's Palace Rooftop Terrace",
+      "short_description": "Gain a unique perspective of the Oba's Palace and King's Square from this elevated viewpoint, offering stunning photographic opportunities of historic Benin. An exclusive cultural vista.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Royal Vista Boutique Hotel",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1517865239100-34ad84a28625?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Historic view",
+        "Architectural",
+        "Photography spot"
+      ]
+    },
+    {
+      "id": "RV_UniversityOverlook",
+      "name": "Uniben Highpoint Café",
+      "short_description": "Enjoy refreshments with an expansive view of the sprawling University of Benin campus and surrounding green areas. A serene spot for contemplation and wide-angle shots.",
+      "subtype": "Rooftop Views",
+      "location_hint": "University of Benin Main Library (rooftop access)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1541469599661-0498801826b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Campus view",
+        "Relaxation",
+        "Student life"
+      ]
+    },
+    {
+      "id": "RV_BeninPlazaBalcony",
+      "name": "Benin Plaza Hotel Balcony",
+      "short_description": "Experience the urban energy of Benin City from the open-air balcony of a prominent hotel, offering dynamic views of major roads and city life below. Ideal for candid city shots.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Benin Plaza Hotel, Ring Road",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1519782800588-44474323c914?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Urban landscape",
+        "City lights",
+        "Observation deck"
+      ]
+    },
+    {
+      "id": "MA_EdoStateAssembly",
+      "name": "Edo State House of Assembly",
+      "short_description": "Admire the contemporary architectural design of the Edo State House of Assembly, a symbol of modern governance and development. Its sleek lines offer a striking contrast to historical landmarks.",
+      "subtype": "Modern Architecture",
+      "location_hint": "King's Square, facing Oba's Palace",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1599427670185-3e284a754b2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Government building",
+        "Contemporary design",
+        "Urban landmark"
+      ]
+    },
+    {
+      "id": "MA_PhilomenaHall",
+      "name": "Philomena Hall, University of Benin",
+      "short_description": "Explore the innovative and brutalist-inspired architecture of Philomena Hall at the University of Benin, a testament to mid-20th century academic design. A unique photographic subject.",
+      "subtype": "Modern Architecture",
+      "location_hint": "University of Benin, Ugbowo Campus",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596541670929-2183c5011406?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "University building",
+        "Brutalist architecture",
+        "Geometric design"
+      ]
+    },
+    {
+      "id": "MA_BeninMall",
+      "name": "Benin City Mall",
+      "short_description": "Experience modern commercial architecture at Benin City Mall, a vibrant center of commerce and leisure with contemporary aesthetics. A hub for urban activity.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Sapele Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1511215160408-f9d23910c810?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Shopping center",
+        "Commercial space",
+        "Sleek design"
+      ]
+    },
+    {
+      "id": "MA_EdoInnovationHub",
+      "name": "Edo Innovation Hub Complex",
+      "short_description": "Visit the Edo Innovation Hub, a symbol of technological advancement and modern design in Benin City. Its functional and aesthetically pleasing structure embodies progress and future-forward thinking.",
+      "subtype": "Modern Architecture",
+      "location_hint": "ICE Road, Adjacent to Samuel Ogbemudia Stadium",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563214539-c124e4c29c8e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Tech hub",
+        "Futuristic design",
+        "Innovation center"
+      ]
+    },
+    {
+      "id": "FFG_NationalMuseumGardens",
+      "name": "Benin National Museum Sculpture Gardens",
+      "short_description": "Stroll through the tranquil gardens surrounding the Benin National Museum, featuring lush greenery and outdoor sculptures that blend art with nature. A peaceful urban oasis.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Benin National Museum, King's Square",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1520115042284-88aa3a778e73?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Public park",
+        "Art in nature",
+        "Green space"
+      ]
+    },
+    {
+      "id": "FFG_GRA_Botanical",
+      "name": "Government House Botanical Annex",
+      "short_description": "Discover a curated collection of tropical flora and manicured lawns at the Government House Botanical Annex, offering a vibrant burst of color and a serene escape. Ideal for nature photography.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Government Reservation Area (GRA)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1506744038136-4616422b177e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Botanical garden",
+        "Tropical plants",
+        "Manicured lawns"
+      ]
+    },
+    {
+      "id": "FFG_RingRoadFlowerbeds",
+      "name": "Ring Road Bloom Displays",
+      "short_description": "Admire the seasonal flowerbeds and well-maintained green spaces along Benin City's iconic Ring Road, adding natural beauty to the urban landscape. A colorful welcome to the city center.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Around King's Square and Ring Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1502484557929-23c310fb09e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Urban landscaping",
+        "Seasonal flowers",
+        "City beautification"
+      ]
+    },
+    {
+      "id": "FFG_CulturalCentreGarden",
+      "name": "Edo Cultural Centre Courtyard Garden",
+      "short_description": "Relax in the peaceful courtyard garden of the Edo Cultural Centre, a beautifully designed space that complements the center's artistic ambiance with native plants and serene pathways. A hidden green gem.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Edo Cultural Centre, Airport Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1506744038136-4616422b177e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Courtyard garden",
+        "Cultural space",
+        "Relaxation"
+      ]
+    },
+    {
+      "id": "UNW_BeninMoatRemnant",
+      "name": "Ancient Benin Moat Ecosystem",
+      "short_description": "Explore the natural flora and fauna that have reclaimed parts of the ancient Benin Moat, transforming historical defense into a unique urban ecosystem. A blend of history and nature's resilience.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Uselu, along the Moat's preserved sections",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Remains_of_the_ancient_walls_and_moat_of_the_kingdom_of_Benin.jpg/1280px-Remains_of_the_ancient_walls_and_moat_of_the_kingdom_of_Benin.jpg",
+      "tags": [
+        "Historical nature",
+        "Urban greenbelt",
+        "Unique ecosystem"
+      ]
+    },
+    {
+      "id": "UNW_SacredIroko",
+      "name": "The Sacred Iroko of Ogba Zoo",
+      "short_description": "Visit the majestic and ancient Iroko tree within Ogba Zoo, revered for its age and cultural significance. Its towering presence is a natural monument, steeped in local folklore.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Ogba Zoo & Nature Park",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1547432376-7840130635f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Sacred tree",
+        "Folklore",
+        "Ancient nature"
+      ]
+    },
+    {
+      "id": "UNW_BeninRiverbanks",
+      "name": "Ethiope River Source Discovery (Nearby)",
+      "short_description": "While not directly in Benin City, a short trip takes you to the pristine source of the Ethiope River, known for its crystal-clear waters emerging from limestone rocks – a magical natural spring. A refreshing escape.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Oghara (nearby Delta State)",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Source_of_Ethiope_River%2C_Delta_State%2C_Nigeria_2.jpg/1280px-The_Source_of_Ethiope_River%2C_Delta_State%2C_Nigeria_2.jpg",
+      "tags": [
+        "Natural spring",
+        "Clear water",
+        "River source"
+      ]
+    },
+    {
+      "id": "UNW_ForestReservePatch",
+      "name": "Amufi Forest Reserve Remnant",
+      "short_description": "Explore a remaining patch of the Amufi Forest Reserve within the city's reach, offering a glimpse of indigenous forest ecology and diverse birdlife. A small but vital green lung for the city.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Along Sapele Road (outskirts)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1502484557929-23c310fb09e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Urban forest",
+        "Birdwatching",
+        "Ecological spot"
+      ]
+    },
+    {
+      "id": "HAC_IgunStreetAlleys",
+      "name": "Igun Street's Artisan Courtyards",
+      "short_description": "Delve into the hidden courtyards off Igun Street, where bronze casters work their magic in traditional settings, offering an intimate look at their ancient craft. A unique glimpse into cultural preservation.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Behind workshops on Igun Street",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Benin_Bronze_Casters_At_Work.jpg/1280px-Benin_Bronze_Casters_At_Work.jpg",
+      "tags": [
+        "Artisan workshops",
+        "Cultural discovery",
+        "Traditional architecture"
+      ]
+    },
+    {
+      "id": "HAC_OldBeninResidences",
+      "name": "Old Benin Homestead Alleys",
+      "short_description": "Wander through the quiet, shaded alleys connecting traditional residential compounds in older parts of Benin City, revealing an authentic slice of local life. A peaceful step back in time.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Areas off Sakponba Road, near King's Square",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1594950293776-0648f572f44c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Local charm",
+        "Historic homes",
+        "Quiet streets"
+      ]
+    },
+    {
+      "id": "HAC_MarketBackstreet",
+      "name": "New Benin Market's Secret Passages",
+      "short_description": "Explore the narrow backstreets and service alleys behind New Benin Market, where a different kind of commerce and bustling activity unfolds. Raw and authentic street photography opportunities.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Behind main market stalls, New Benin Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596707323164-16a575a7b8e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Urban exploration",
+        "Market life",
+        "Candid photography"
+      ]
+    },
+    {
+      "id": "HAC_CulturalCentreCourtyard",
+      "name": "Edo Cultural Centre's Inner Sanctuary",
+      "short_description": "Discover the serene inner courtyard of the Edo Cultural Centre, a quiet retreat adorned with local art and greenery. A perfect spot for reflection after exploring the exhibitions.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Edo Cultural Centre, Airport Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1506744038136-4616422b177e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "tags": [
+        "Peaceful retreat",
+        "Artistic space",
+        "Green oasis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Makurdi",
+    "city_id": "2459"
+  },
+  "items": [
+    {
+      "id": "MkdRiverResort1",
+      "name": "Benue River View Resort",
+      "short_description": "Experience serene luxury with breathtaking panoramic views of the Benue River right from your suite. Perfect for a peaceful escape and stunning sunsets.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "North Bank, along Benue River",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1629801234567-890123456789?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "luxury stay",
+        "riverfront",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "MkdTradVilla2",
+      "name": "The Tiv Heritage Villa",
+      "short_description": "A charming boutique guesthouse designed with authentic Tiv architectural elements and vibrant local artistry. Immerse yourself in culture and comfort.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "High Level area",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/1234567/pexels-photo-1234567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "boutique hotel",
+        "cultural stay",
+        "traditional decor"
+      ]
+    },
+    {
+      "id": "MkdUrbanStay3",
+      "name": "Makurdi Modern Suites",
+      "short_description": "Contemporary design meets comfort in this stylish hotel, offering excellent amenities and a central location for exploring the city's highlights.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Wurukum Roundabout",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1596386641579-30c102b13c71?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "modern comfort",
+        "city hotel",
+        "business friendly"
+      ]
+    },
+    {
+      "id": "MkdEcoLodge4",
+      "name": "Green Oasis Eco-Lodge",
+      "short_description": "Nestled just outside the bustling city, this eco-friendly lodge offers a tranquil retreat amidst lush greenery and sustainable practices. A true nature escape.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Outskirts of Makurdi, near Apir",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/9876543/pexels-photo-9876543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "eco-friendly",
+        "nature retreat",
+        "peaceful escape"
+      ]
+    },
+    {
+      "id": "MkdKwaghHir1",
+      "name": "Kwagh-Hir Puppet & Mask Festival",
+      "short_description": "Witness the vibrant and dramatic storytelling of the Tiv people through intricate puppets, masks, and captivating performances. A true cultural spectacle.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Benue Arts & Culture Council Auditorium (or open grounds)",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Kwagh-hir_Performer.jpg",
+      "tags": [
+        "Tiv culture",
+        "performance art",
+        "traditional festival"
+      ]
+    },
+    {
+      "id": "MkdHarvestFest2",
+      "name": "Benue Yam Harvest Celebration",
+      "short_description": "Join the joyous celebration of the annual yam harvest, featuring traditional dances, music, and a display of the region's agricultural bounty.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Major market squares or community grounds",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596489345678-123456789012?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "harvest festival",
+        "agriculture",
+        "community event"
+      ]
+    },
+    {
+      "id": "MkdRiverRegatta3",
+      "name": "Makurdi River Boat Regatta",
+      "short_description": "A colorful and thrilling annual event showcasing traditional canoes, speedboats, and cultural displays on the majestic Benue River. Don't miss the excitement!",
+      "subtype": "Festivals & Events",
+      "location_hint": "Benue River shoreline, near Makurdi Bridge",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/2345678/pexels-photo-2345678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "river event",
+        "boat race",
+        "water sports"
+      ]
+    },
+    {
+      "id": "MkdArtsExpo4",
+      "name": "Makurdi Craft & Arts Expo",
+      "short_description": "Discover local craftsmanship, intricate textiles, pottery, and contemporary art from talented Benue artists at this engaging annual expo.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Cultural Centre Makurdi",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1574169208507-6b0429a1e0b9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "local art",
+        "craft fair",
+        "exhibition"
+      ]
+    },
+    {
+      "id": "MkdFreedomArch1",
+      "name": "The Benue Freedom Arch",
+      "short_description": "A majestic monument commemorating the history and resilience of Benue State, featuring intricate carvings depicting local heroes and culture. A symbol of pride.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Government House Roundabout",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Nigerian_Freedom_Arch_Abuja.jpg",
+      "tags": [
+        "monument",
+        "public art",
+        "history"
+      ]
+    },
+    {
+      "id": "MkdHeritageCntr2",
+      "name": "Tiv-Idoma Cultural Centre",
+      "short_description": "Explore a rich collection of artifacts, traditional costumes, and historical exhibits highlighting the vibrant heritage of the Tiv and Idoma people.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Near Benue State University",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/3456789/pexels-photo-3456789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "museum",
+        "ethnography",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "MkdArtGallery3",
+      "name": "Makurdi Contemporary Gallery",
+      "short_description": "A vibrant hub for modern Nigerian art, featuring rotating exhibitions from emerging and established artists with a focus on Benue creativity.",
+      "subtype": "Cultural Installations",
+      "location_hint": "High Level, close to Federal Secretariat",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1541334052302-39f8846c8200?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "art gallery",
+        "modern art",
+        "local artists"
+      ]
+    },
+    {
+      "id": "MkdRiverSculpt4",
+      "name": "Guardians of the Benue Sculptures",
+      "short_description": "A series of striking public sculptures along the river bank, depicting mythical figures and river spirits, offering a unique photo opportunity at sunset.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Benue River promenade",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/4567890/pexels-photo-4567890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "public sculpture",
+        "river art",
+        "mythology"
+      ]
+    },
+    {
+      "id": "MkdSkyeLounge1",
+      "name": "Skye Lounge & Bar",
+      "short_description": "Perched atop one of Makurdi's tallest buildings, offering a chic ambiance and unparalleled panoramic views of the city lights and the Benue River by night.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Modern Suites Hotel (hypothetical)",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1589182390886-f688e4043b3b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "rooftop bar",
+        "city views",
+        "nightlife"
+      ]
+    },
+    {
+      "id": "MkdSunsetTerrace2",
+      "name": "Benue Sunset Terrace",
+      "short_description": "Enjoy delicious local cuisine and refreshing drinks from this elevated restaurant terrace, providing a perfect vantage point for spectacular sunsets over the river.",
+      "subtype": "Rooftop Views",
+      "location_hint": "River View Resort (hypothetical)",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/5678901/pexels-photo-5678901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "sunset spot",
+        "dining with a view",
+        "river panorama"
+      ]
+    },
+    {
+      "id": "MkdOutlookPoint3",
+      "name": "Makurdi Hilltop Outlook",
+      "short_description": "A natural elevated point offering a breathtaking, unobstructed view of the entire Makurdi landscape, including the bridges and winding Benue River.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Ushongo Hills (outskirts)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1546292795-30062a4b8c9d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "panoramic view",
+        "hilltop",
+        "scenic spot"
+      ]
+    },
+    {
+      "id": "MkdUrbanDeck4",
+      "name": "The City Oasis Deck",
+      "short_description": "A hidden rooftop gem in the heart of the city, perfect for quiet contemplation or intimate gatherings with a unique urban backdrop. Escape the bustle.",
+      "subtype": "Rooftop Views",
+      "location_hint": "High Level, commercial building",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/6789012/pexels-photo-6789012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "urban retreat",
+        "quiet spot",
+        "cityscape"
+      ]
+    },
+    {
+      "id": "MkdWadataMkt1",
+      "name": "Wadata Market",
+      "short_description": "Dive into the vibrant chaos of Makurdi's largest market, a bustling hub where you can find everything from fresh produce to local crafts and fabrics.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Wadata area, near the river",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Wadata_Market_Makurdi.jpg",
+      "tags": [
+        "local market",
+        "food market",
+        "authentic experience"
+      ]
+    },
+    {
+      "id": "MkdArtsCrafts2",
+      "name": "Benue Crafts Bazaar",
+      "short_description": "Discover unique handcrafted souvenirs, traditional carvings, colorful textiles, and bespoke jewelry from local artisans at this specialized market.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Near Cultural Centre",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1541423403375-9b6574a441b8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "crafts",
+        "souvenirs",
+        "local art"
+      ]
+    },
+    {
+      "id": "MkdFreshProduce3",
+      "name": "Apir Farm Fresh Market",
+      "short_description": "Experience the true 'Food Basket of the Nation' at this vibrant market specializing in fresh, organic produce directly from local farms. Taste the freshness.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Apir, on the outskirts",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/7890123/pexels-photo-7890123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "farm fresh",
+        "organic produce",
+        "local food"
+      ]
+    },
+    {
+      "id": "MkdNightBazaar4",
+      "name": "Wurukum Night Bazaars",
+      "short_description": "As dusk falls, this lively night market comes alive with street food vendors, local music, and an energetic atmosphere, perfect for an evening stroll.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Wurukum Roundabout environs",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1517441991873-1f19894458d1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "night market",
+        "street food",
+        "lively atmosphere"
+      ]
+    },
+    {
+      "id": "MkdRockForms1",
+      "name": "Ikyogen Hills Rock Formations",
+      "short_description": "Explore ancient, wind-sculpted rock formations that rise dramatically from the landscape, offering a unique geological spectacle and hiking opportunities.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "North-east of Makurdi (requires travel)",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/8901234/pexels-photo-8901234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "geology",
+        "hiking",
+        "natural landscape"
+      ]
+    },
+    {
+      "id": "MkdRiverIsle2",
+      "name": "Benue River Secret Island",
+      "short_description": "A secluded, seasonal sand island emerging in the Benue River, offering pristine sandy shores and a tranquil escape from the city. Discover its charm.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Mid-Benue River (accessible by boat)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1542129031-c4e12e1a3b5b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "river island",
+        "secluded spot",
+        "natural beauty"
+      ]
+    },
+    {
+      "id": "MkdSacredGrove3",
+      "name": "Makurdi Sacred Grove",
+      "short_description": "A preserved ancient forest, whispered to hold spiritual significance, featuring towering trees and unique biodiversity. A peaceful, mystical retreat.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Outskirts, near Ushongo",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/29/Osun-Osogbo_Sacred_Grove.jpg",
+      "tags": [
+        "sacred site",
+        "forest",
+        "biodiversity"
+      ]
+    },
+    {
+      "id": "MkdSpringCreek4",
+      "name": "Onyema Spring & Creek",
+      "short_description": "Discover a crystal-clear natural spring feeding into a serene creek, surrounded by lush vegetation – a refreshing natural oasis hidden away.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "South Bank, hidden gem",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/1012345/pexels-photo-1012345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "natural spring",
+        "creek",
+        "nature walk"
+      ]
+    },
+    {
+      "id": "MkdOldBridge1",
+      "name": "Old Makurdi Bridge",
+      "short_description": "A historic rail and road bridge spanning the Benue River, offering iconic views and a glimpse into Makurdi's past. A popular spot for sunset photos.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Connecting North & South Bank",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Makurdi_Bridge_Sunset.jpg",
+      "tags": [
+        "historic bridge",
+        "iconic landmark",
+        "river views"
+      ]
+    },
+    {
+      "id": "MkdNewBridge2",
+      "name": "New Makurdi Bridge Overlook",
+      "short_description": "Admire the modern architectural marvel of the new Benue Bridge, especially striking against the backdrop of the river and city skyline at night.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "North Bank approach to the new bridge",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-15423145678-90f7d0f98f7c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "modern architecture",
+        "bridge photography",
+        "city lights"
+      ]
+    },
+    {
+      "id": "MkdRiverbankView3",
+      "name": "Benue Riverbank Vista",
+      "short_description": "A designated public overlook along the riverbank, providing expansive views of both Makurdi bridges and the bustling river traffic. Perfect for a morning stroll.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "South Bank, near the bridges",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/12345678/pexels-photo-12345678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "river overlook",
+        "scenic view",
+        "public park"
+      ]
+    },
+    {
+      "id": "MkdRailwayPoint4",
+      "name": "Old Railway Line Panorama",
+      "short_description": "Walk along a disused section of the old railway line, now an elevated path offering unique perspectives of the river, bridges, and surrounding landscape.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Approach to Old Makurdi Bridge (rail section)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1507525428034-b723cf961c33?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "historic railway",
+        "walking trail",
+        "unique perspective"
+      ]
+    },
+    {
+      "id": "MkdSandbarBeach1",
+      "name": "Benue Sunset Sandbar Beach",
+      "short_description": "A pristine stretch of sandy beach along the Benue River, perfect for relaxing, picnicking, and watching spectacular sunsets over the water.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Near Wadata Market area, accessible by boat/foot",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/1234567/pexels-photo-1234567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "river beach",
+        "sunset spot",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "MkdRiverfrontChill2",
+      "name": "Makurdi Riverfront Oasis",
+      "short_description": "Find tranquility at this less-crowded riverfront spot, ideal for a peaceful morning stroll, birdwatching, or simply enjoying the river's calm.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Adjacent to Benue River Resort (hypothetical)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1507525428034-b723cf961c33?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "peaceful spot",
+        "river views",
+        "nature escape"
+      ]
+    },
+    {
+      "id": "MkdIslandGetaway3",
+      "name": "Sandy Island Retreat (Seasonal)",
+      "short_description": "During the dry season, a beautiful sand island emerges in the Benue River, offering a unique 'island getaway' feel just a short boat ride away.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "Mid-river, accessible by local boat",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/2345678/pexels-photo-2345678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "seasonal island",
+        "unique experience",
+        "river adventure"
+      ]
+    },
+    {
+      "id": "MkdFishermanBay4",
+      "name": "Fisherman's Cove Beach",
+      "short_description": "A lively section of the riverbank where local fishermen launch their canoes, offering a glimpse into their daily life and a vibrant community atmosphere.",
+      "subtype": "Beaches & Coastal Views",
+      "location_hint": "North Bank, near Wadata",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Nigerian_fisherman.jpg",
+      "tags": [
+        "local life",
+        "fishing village",
+        "cultural insight"
+      ]
+    },
+    {
+      "id": "MkdColonialRes1",
+      "name": "Old Colonial Residency",
+      "short_description": "A well-preserved example of British colonial architecture, featuring grand verandas and lush gardens, now serving as a state guesthouse.",
+      "subtype": "Historic Architecture",
+      "location_hint": "High Level, near Government House",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582234516782-b7f3b8e7c1f8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "colonial history",
+        "historic building",
+        "architecture"
+      ]
+    },
+    {
+      "id": "MkdEarlyAdmin2",
+      "name": "Makurdi Old Secretariat",
+      "short_description": "One of the earliest administrative buildings in Makurdi, its simple yet sturdy design reflects the functional architecture of early Nigerian governance.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Central Makurdi",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/3456789/pexels-photo-3456789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "historic landmark",
+        "government building",
+        "heritage"
+      ]
+    },
+    {
+      "id": "MkdFirstChurch3",
+      "name": "St. Francis Catholic Church (Original Structure)",
+      "short_description": "The original section of this historic church showcases early missionary architecture and stands as a testament to the city's religious heritage.",
+      "subtype": "Historic Architecture",
+      "location_hint": "North Bank",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Cathedral_of_St._Francis_of_Assisi%2C_Makurdi.jpg",
+      "tags": [
+        "religious heritage",
+        "church architecture",
+        "historic site"
+      ]
+    },
+    {
+      "id": "MkdBenueClub4",
+      "name": "Benue Club House (1950s Wing)",
+      "short_description": "The older wing of this social club retains its 1950s charm, a unique blend of local materials and mid-century colonial influences. Step back in time.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Makurdi Town Centre",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1550995045-816d8a7f1a1c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "mid-century",
+        "social history",
+        "clubhouse"
+      ]
+    },
+    {
+      "id": "MkdLocalChop1",
+      "name": "Mama Nkechi's Traditional Kitchen",
+      "short_description": "Savor authentic Benue and Nigerian delicacies in a warm, welcoming environment. Their pounded yam and egusi soup are legendary!",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Wurukum, local street",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/2234567/pexels-photo-2234567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "local food",
+        "Nigerian cuisine",
+        "authentic taste"
+      ]
+    },
+    {
+      "id": "MkdRiverCafe2",
+      "name": "The Riverside Cafe & Bistro",
+      "short_description": "A charming spot offering gourmet coffee, pastries, and light meals with a picturesque view of the Benue River – perfect for a relaxed morning.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "North Bank, near the river",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582049909456-4c6e93d1f0b0?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "cafe",
+        "river view",
+        "coffee spot"
+      ]
+    },
+    {
+      "id": "MkdNightBistro3",
+      "name": "High Life Bistro & Grill",
+      "short_description": "A trendy spot with a vibrant atmosphere, serving a mix of continental and Nigerian dishes, great cocktails, and often live music in the evenings.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "High Level, commercial strip",
+      "best_time": "Night",
+      "images": "https://images.pexels.com/photos/4567890/pexels-photo-4567890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "tags": [
+        "nightlife",
+        "cocktails",
+        "live music"
+      ]
+    },
+    {
+      "id": "MkdStreetEats4",
+      "name": "Benue Street Food Hub",
+      "short_description": "Explore a lively cluster of street food vendors offering delicious and affordable local snacks, grilled meats (suya), and refreshing drinks. A foodie's delight!",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Wurukum Roundabout, evening",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1555541604-51e18b87c7b8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format",
+      "tags": [
+        "street food",
+        "local snacks",
+        "foodie"
+      ]
+    }
+  ]
+}

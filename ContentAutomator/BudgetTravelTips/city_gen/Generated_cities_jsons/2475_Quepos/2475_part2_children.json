@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Quepos",
+    "city_id": "2475"
+  },
+  "items": [
+    {
+      "id": "que_zoo_01",
+      "name": "Quepos Wildlife Encounter",
+      "short_description": "A sanctuary for rescued local wildlife, offering educational tours and a small petting area with friendly farm animals.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Calle 1, Barrio El Cocal, Quepos, Puntarenas",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1577908985617-1845bb387b92?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "wildlife",
+        "education",
+        "petting zoo"
+      ]
+    },
+    {
+      "id": "que_zoo_02",
+      "name": "Sloth & Bird Haven",
+      "short_description": "Dedicated to sloth conservation, this center allows close encounters with rescued sloths and features an aviary with native birds.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Km 5, Carretera a Manuel Antonio, Quepos, Puntarenas",
+      "opening_hours": "09:30-16:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549419137-b6f3c53cf36f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "sloths",
+        "birds",
+        "conservation"
+      ]
+    },
+    {
+      "id": "que_zoo_03",
+      "name": "Rainforest Reptile House",
+      "short_description": "A specialized zoo showcasing the fascinating reptiles and amphibians of the Costa Rican rainforest, with guided interactive sessions.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Av. Central, Quepos, Puntarenas",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621516084050-410f92b3a164?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "reptiles",
+        "amphibians",
+        "rainforest"
+      ]
+    },
+    {
+      "id": "que_zoo_04",
+      "name": "Mariposa Butterfly Garden",
+      "short_description": "Wander through a lush, netted garden filled with hundreds of colorful native butterflies, learning about their life cycles.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "300m Este del Parque Central, Quepos, Puntarenas",
+      "opening_hours": "08:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1502444330042-d1a2a013404c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "butterflies",
+        "garden",
+        "nature"
+      ]
+    },
+    {
+      "id": "que_rides_01",
+      "name": "Jungle Coaster Adventure",
+      "short_description": "A mini-coaster ride designed for younger children, winding through a simulated jungle environment with friendly animal characters.",
+      "subtype": "Amusement Rides",
+      "address": "Playa Espadilla Norte, Quepos, Puntarenas",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1565538356345-6f17d9179d67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "roller coaster",
+        "jungle theme",
+        "kids"
+      ]
+    },
+    {
+      "id": "que_rides_02",
+      "name": "Quepos Pirate Ship Spin",
+      "short_description": "A classic spinning teacup ride, but with pirate ship-themed carriages, perfect for families and little adventurers.",
+      "subtype": "Amusement Rides",
+      "address": "Marina Pez Vela, Quepos, Puntarenas",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1624637254593-9c84e1b4395e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "spinning ride",
+        "pirate",
+        "family"
+      ]
+    },
+    {
+      "id": "que_rides_03",
+      "name": "Canopy Swing Safari",
+      "short_description": "A gentle swinging ride that lifts kids up for a 'canopy view' simulation, offering a fun, mild thrill with jungle sound effects.",
+      "subtype": "Amusement Rides",
+      "address": "Costado Sur del Parque La Amistad, Quepos, Puntarenas",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1520696956691-884391ae883a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "swing ride",
+        "safari",
+        "gentle thrill"
+      ]
+    },
+    {
+      "id": "que_rides_04",
+      "name": "Mini-Train to Paradise",
+      "short_description": "A delightful miniature train ride that takes children on a scenic loop through a landscaped garden, featuring small tunnels and bridges.",
+      "subtype": "Amusement Rides",
+      "address": "Parque Nacional Manuel Antonio entrada, Quepos, Puntarenas",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1588691888914-63300e2389e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "mini train",
+        "scenic",
+        "gardens"
+      ]
+    },
+    {
+      "id": "que_play_01",
+      "name": "Quepos Jungle Gym",
+      "short_description": "A multi-level indoor playground with slides, ball pits, and climbing structures, all themed as a vibrant rainforest adventure.",
+      "subtype": "Indoor Play Centers",
+      "address": "Plaza Quepos, Carretera a Manuel Antonio, Quepos, Puntarenas",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1603522927233-d8c7c9c0b1f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "playground",
+        "climbing",
+        "indoor fun"
+      ]
+    },
+    {
+      "id": "que_play_02",
+      "name": "Monkey Business Soft Play",
+      "short_description": "A soft play area specifically designed for toddlers and very young children, ensuring a safe and engaging environment for little ones.",
+      "subtype": "Indoor Play Centers",
+      "address": "Edificio El Faro, Centro Quepos, Puntarenas",
+      "opening_hours": "09:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596700870335-515433a0b1f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "toddler",
+        "soft play",
+        "safe play"
+      ]
+    },
+    {
+      "id": "que_play_03",
+      "name": "Pacific Bounce House Arena",
+      "short_description": "An indoor facility packed with various inflatable bounce houses, obstacle courses, and giant slides for endless jumping fun.",
+      "subtype": "Indoor Play Centers",
+      "address": "Detrás de la Municipalidad, Quepos, Puntarenas",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627883204961-d70377e8a946?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "bounce house",
+        "inflatable",
+        "active play"
+      ]
+    },
+    {
+      "id": "que_play_04",
+      "name": "Quepos Arcade & Play",
+      "short_description": "Combining classic arcade games with a small, supervised indoor play area, offering something for kids of all ages.",
+      "subtype": "Indoor Play Centers",
+      "address": "Centro Comercial Marina Pez Vela, Quepos, Puntarenas",
+      "opening_hours": "11:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579782527263-d144ec3c2005?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "arcade",
+        "games",
+        "indoor entertainment"
+      ]
+    },
+    {
+      "id": "que_magic_01",
+      "name": "The Enchanted Rainforest Magic Show",
+      "short_description": "A family-friendly magic show incorporating local wildlife themes and impressive illusions, held in a cozy theater setting.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Teatro Quípos, Calle Larga, Quepos, Puntarenas",
+      "opening_hours": "18:00-19:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520625906232-a5d3f8207909?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "magic show",
+        "illusions",
+        "family entertainment"
+      ]
+    },
+    {
+      "id": "que_magic_02",
+      "name": "Mystical Manuel Antonio Illusions",
+      "short_description": "An intimate show featuring close-up magic, mind-bending illusions, and audience participation, perfect for inquisitive young minds.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Hotel Costa Verde Salón, Manuel Antonio, Quepos, Puntarenas",
+      "opening_hours": "19:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.pexels.com/photos/1769830/pexels-photo-1769830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "close-up magic",
+        "interactive",
+        "mind-bending"
+      ]
+    },
+    {
+      "id": "que_magic_03",
+      "name": "Captain Fantastico's Magic Voyage",
+      "short_description": "A high-energy show with a pirate theme, combining magic tricks, juggling, and comedic storytelling for all ages.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Restaurante El Gran Escape, Quepos, Puntarenas",
+      "opening_hours": "17:30-18:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1594918231364-e53b47e5b128?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "pirate theme",
+        "juggling",
+        "comedy"
+      ]
+    },
+    {
+      "id": "que_magic_04",
+      "name": "The Great Quepos Vanishing Act",
+      "short_description": "Witness a professional magician perform classic vanishing acts and unexpected transformations, with a special focus on audience interaction.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Centro Cultural Quepos, Calle 1, Quepos, Puntarenas",
+      "opening_hours": "16:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1550597375-924b17a1c8b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "magician",
+        "vanishing acts",
+        "audience participation"
+      ]
+    },
+    {
+      "id": "que_fairy_01",
+      "name": "El Duende's Enchanted Trail",
+      "short_description": "A charming walking trail through a lush garden, adorned with tiny houses, gnome statues, and interactive story points from local folklore.",
+      "subtype": "Fairy Tale Parks",
+      "address": "2km Este del Parque Central, Quepos, Puntarenas",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1592395133604-0c58a8a4f9a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "fairy garden",
+        "gnomes",
+        "folklore"
+      ]
+    },
+    {
+      "id": "que_fairy_02",
+      "name": "Princess & Pirate Cove",
+      "short_description": "A themed play area where kids can dress up as princesses or pirates, explore a small 'castle' and a 'shipwreck,' and engage in imaginative play.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Playa Espadilla Sur, Manuel Antonio, Puntarenas",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589182375837-e435905d45f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "dress-up",
+        "imaginative play",
+        "beach theme"
+      ]
+    },
+    {
+      "id": "que_fairy_03",
+      "name": "Rainforest Mythical Creatures Garden",
+      "short_description": "Discover sculptures and art installations depicting mythical creatures from Costa Rican folklore, set within a beautiful botanical garden.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Jardín Botánico Quepos, Carretera a Dominical, Puntarenas",
+      "opening_hours": "08:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517457375823-32454687981b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "mythical creatures",
+        "botanical garden",
+        "folklore"
+      ]
+    },
+    {
+      "id": "que_fairy_04",
+      "name": "The Whispering Woods Story Path",
+      "short_description": "Follow a magical path marked with storyboards and audio points that narrate classic fairy tales and local legends, culminating in a small puppet show area.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Sector Naranjo, Ruta 235, Quepos, Puntarenas",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1451187863213-d8a93817f76e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "storytelling",
+        "nature path",
+        "puppets"
+      ]
+    },
+    {
+      "id": "que_lego_01",
+      "name": "Quepos Brick Builders Studio",
+      "short_description": "A dedicated space for LEGO enthusiasts, featuring large building tables, a vast collection of bricks, and themed build challenges.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Marina Pez Vela, Local 12, Quepos, Puntarenas",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1519782832-15f210a4e723?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "LEGO",
+        "building",
+        "creative play"
+      ]
+    },
+    {
+      "id": "que_lego_02",
+      "name": "Mini-Constructors Zone",
+      "short_description": "An interactive area where young children can play with large, soft building blocks, excavators, and construction-themed toys in a safe environment.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Plaza Central Quepos, frente al Banco Nacional, Quepos, Puntarenas",
+      "opening_hours": "09:30-18:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549216068-15a0c10b7b13?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "construction",
+        "soft blocks",
+        "toddlers"
+      ]
+    },
+    {
+      "id": "que_lego_03",
+      "name": "Robot & Gadget Lab",
+      "short_description": "Focuses on robotics and simple engineering, allowing kids to build and program basic robots using LEGO Mindstorms and similar kits.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "Centro de Convenciones, Quepos, Puntarenas",
+      "opening_hours": "11:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627937402854-32b0a996d9f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "robotics",
+        "engineering",
+        "STEM"
+      ]
+    },
+    {
+      "id": "que_lego_04",
+      "name": "Quepos Tower Building Challenge",
+      "short_description": "A fun, competitive zone where kids can build the tallest, strongest, or most creative structures using various materials, with daily contests.",
+      "subtype": "Lego Worlds & Construction Parks",
+      "address": "100m Norte de la Estación de Buses, Quepos, Puntarenas",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "building challenge",
+        "creativity",
+        "competition"
+      ]
+    },
+    {
+      "id": "que_theme_01",
+      "name": "Quepos Jungle Explorers Park",
+      "short_description": "A mini-theme park with several themed zones focusing on rainforest animals, featuring small rides, educational exhibits, and a play village.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Km 4, Carretera a Manuel Antonio, Quepos, Puntarenas",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1616401666872-680072b05b18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "jungle theme",
+        "mini rides",
+        "educational"
+      ]
+    },
+    {
+      "id": "que_theme_02",
+      "name": "Dino-Rica Adventure Land",
+      "short_description": "Step back in time to a dinosaur-themed park featuring life-sized animatronic dinosaurs, fossil digs, and a prehistoric-themed playground.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Lado Oeste de la Reserva Biológica, Quepos, Puntarenas",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1628174577457-456c2d1591f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "dinosaurs",
+        "adventure",
+        "prehistoric"
+      ]
+    },
+    {
+      "id": "que_theme_03",
+      "name": "The Water Safari Oasis",
+      "short_description": "A small water-themed park perfect for cooling off, with splash pads, mini-slides, and gentle water attractions for younger children.",
+      "subtype": "Theme Parks for Kids",
+      "address": "500m Norte del Centro Quepos, Quepos, Puntarenas",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1600762118430-c5d0706222b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "water park",
+        "splash pad",
+        "summer fun"
+      ]
+    },
+    {
+      "id": "que_theme_04",
+      "name": "Pirates of the Pacific Playhouse",
+      "short_description": "An immersive pirate-themed area with a large shipwreck playground, treasure hunts, and interactive shows with pirate characters.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Playa Bisanz, Manuel Antonio, Quepos, Puntarenas",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1632731175877-c917ee7b6070?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "pirate",
+        "playground",
+        "interactive show"
+      ]
+    },
+    {
+      "id": "que_sports_01",
+      "name": "Quepos Mini Golf Rainforest",
+      "short_description": "A fun 18-hole miniature golf course themed around the local rainforest, complete with animal statues and water features.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Marina Pez Vela, Quepos, Puntarenas",
+      "opening_hours": "10:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1622998379468-b76cf6471e98?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "mini golf",
+        "rainforest theme",
+        "family fun"
+      ]
+    },
+    {
+      "id": "que_sports_02",
+      "name": "Soccer Kidz Futsal Courts",
+      "short_description": "Two indoor futsal courts designed for children's leagues and pickup games, offering a safe and shaded environment for young footballers.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Polideportivo Quepos, Barrio El Cocal, Quepos, Puntarenas",
+      "opening_hours": "08:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510250005396-03f19114b0df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "futsal",
+        "soccer",
+        "indoor sport"
+      ]
+    },
+    {
+      "id": "que_sports_03",
+      "name": "Quepos Ninja Warrior Junior",
+      "short_description": "A scaled-down obstacle course inspired by ninja warrior competitions, designed for kids to test their agility, balance, and strength.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Gimnasio Municipal, Quepos, Puntarenas",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1577908970050-a91262d1645e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "obstacle course",
+        "ninja warrior",
+        "physical activity"
+      ]
+    },
+    {
+      "id": "que_sports_04",
+      "name": "Skateboard & Scooter Parkette",
+      "short_description": "A small, beginner-friendly skate park with gentle ramps, rails, and a smooth surface, perfect for kids learning to skateboard or scooter.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Parque de la Juventud, Quepos, Puntarenas",
+      "opening_hours": "09:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1551820463-c79373ed7f83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "skate park",
+        "scooter",
+        "extreme sports"
+      ]
+    },
+    {
+      "id": "que_science_01",
+      "name": "Manuel Antonio Marine Discovery Center",
+      "short_description": "An interactive center focused on the marine life of the Pacific, with touch tanks, educational exhibits, and a virtual reality dive experience.",
+      "subtype": "Science Centers",
+      "address": "Puerto de Quepos, Quepos, Puntarenas",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1534066060049-7c1510b658d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "marine biology",
+        "aquarium",
+        "interactive exhibits"
+      ]
+    },
+    {
+      "id": "que_science_02",
+      "name": "Rainforest Ecology Lab",
+      "short_description": "Kids can learn about the rainforest ecosystem through hands-on experiments, microscope stations, and guided nature walks.",
+      "subtype": "Science Centers",
+      "address": "Junto a Manuel Antonio National Park, Quepos, Puntarenas",
+      "opening_hours": "08:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1542436411-a8df0b555776?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "ecology",
+        "rainforest",
+        "hands-on learning"
+      ]
+    },
+    {
+      "id": "que_science_03",
+      "name": "Volcanic Wonders Exhibit",
+      "short_description": "Explores Costa Rica's volcanic activity and geology through interactive models, simulated eruptions, and rock collections.",
+      "subtype": "Science Centers",
+      "address": "Centro Cultural Quepos, Calle 1, Quepos, Puntarenas",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582043621458-15c0e181d115?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "volcanoes",
+        "geology",
+        "interactive models"
+      ]
+    },
+    {
+      "id": "que_science_04",
+      "name": "Little Explorers Planetarium",
+      "short_description": "A small, inflatable planetarium offering engaging shows about the stars, planets, and constellations visible from Costa Rica.",
+      "subtype": "Science Centers",
+      "address": "Biblioteca Pública de Quepos, Quepos, Puntarenas",
+      "opening_hours": "14:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1595085350357-19a997d4c81a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "planetarium",
+        "astronomy",
+        "space"
+      ]
+    },
+    {
+      "id": "que_quest_01",
+      "name": "Lost Treasure of Quepos Escape Room (Kids Edition)",
+      "short_description": "A family-friendly escape room challenging teams to solve puzzles and find hidden treasure before time runs out.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Edificio El Sol, Calle Central, Quepos, Puntarenas",
+      "opening_hours": "10:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1543877967-4ae6c051a62d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "escape room",
+        "puzzles",
+        "team building"
+      ]
+    },
+    {
+      "id": "que_quest_02",
+      "name": "The Great Monkey Scavenger Hunt",
+      "short_description": "An outdoor scavenger hunt across a designated nature area, where kids follow clues to find 'monkey treasures' and learn about local wildlife.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Parque Recreativo La Paz, Quepos, Puntarenas",
+      "opening_hours": "09:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601007909384-5f7b0f62d16d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "scavenger hunt",
+        "outdoor",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "que_quest_03",
+      "name": "Jungle Survival Kids Challenge",
+      "short_description": "A guided outdoor adventure where children learn basic survival skills like fire starting (safely), knot tying, and tracking, through a fun quest narrative.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Finca La Amistad, Quepos, Puntarenas",
+      "opening_hours": "08:00-12:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549887702-8a9d023f0445?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "survival skills",
+        "jungle adventure",
+        "outdoor learning"
+      ]
+    },
+    {
+      "id": "que_quest_04",
+      "name": "Marina Mystery: The Missing Dolphin Tale",
+      "short_description": "An interactive role-playing quest set around Marina Pez Vela, where kids interview 'characters' and solve clues to find a 'missing dolphin.'",
+      "subtype": "Adventure & Quest Games",
+      "address": "Marina Pez Vela, Quepos, Puntarenas",
+      "opening_hours": "13:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517524206127-48bbd363fbc1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "role-playing",
+        "mystery",
+        "marina"
+      ]
+    }
+  ]
+}

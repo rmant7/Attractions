@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Owerri",
+    "city_id": "2460"
+  },
+  "items": [
+    {
+      "id": "OWI-FLR-001",
+      "name": "Imo State University Botanical Gardens",
+      "short_description": "Discover a tranquil escape amidst vibrant flora and lush greenery. Perfect for a serene stroll and capturing nature's beauty.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Within Imo State University Campus",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flower_Garden_at_ABUAD.jpg/1280px-Flower_Garden_at_ABUAD.jpg",
+      "tags": [
+        "botanical",
+        "naturewalk",
+        "serene"
+      ]
+    },
+    {
+      "id": "OWI-FLR-002",
+      "name": "Rockview Hotel's Enchanted Gardens",
+      "short_description": "Explore the meticulously landscaped gardens of one of Owerri's premier hotels. A hidden gem for picturesque backdrops and floral photography.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Rockview Hotel Owerri, New Owerri",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1519781541093-6c0b5c1c0a0f",
+      "tags": [
+        "hotelgarden",
+        "landscaped",
+        "floral"
+      ]
+    },
+    {
+      "id": "OWI-FLR-003",
+      "name": "Federal University of Technology Owerri (FUTO) Greens",
+      "short_description": "Stroll through the well-maintained green spaces and occasional flower beds across FUTO's expansive campus. A refreshing spot for academic-themed shots.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "FUTO Campus, Ihiagwa",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1549646875-9e320d3f8f1c",
+      "tags": [
+        "campuslife",
+        "greenery",
+        "studentview"
+      ]
+    },
+    {
+      "id": "OWI-FLR-004",
+      "name": "Owerri Mall's Courtyard Blossoms",
+      "short_description": "A delightful small garden area within the mall complex, offering a splash of color and a moment of calm amidst shopping. Perfect for casual snaps.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Owerri Mall, Egbu Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1528641170362-e1ad69d5f7b6",
+      "tags": [
+        "urbangarden",
+        "shoppingbreak",
+        "vibrant"
+      ]
+    },
+    {
+      "id": "OWI-BRG-001",
+      "name": "Otamiri River Bridge Vista",
+      "short_description": "Capture the majestic flow of the Otamiri River from this prominent bridge, offering expansive views of the water and surrounding lush banks.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Along Nekede Road, crossing Otamiri River",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Otamiri_River.jpg/1280px-Otamiri_River.jpg",
+      "tags": [
+        "riverview",
+        "sunsetspot",
+        "landscape"
+      ]
+    },
+    {
+      "id": "OWI-BRG-002",
+      "name": "Nworie River Pedestrian Bridge",
+      "short_description": "A charming bridge over the Nworie River, popular for evening strolls. The reflections on the water at dusk make for stunning photographs.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near Government House, linking areas across Nworie River",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1502389146522-d74880c8a666",
+      "tags": [
+        "urbanbridge",
+        "riverside",
+        "goldenhour"
+      ]
+    },
+    {
+      "id": "OWI-BRG-003",
+      "name": "Control Post Flyover Overlook",
+      "short_description": "An elevated vantage point offering a dynamic perspective of Owerri's bustling traffic and urban sprawl. Best for capturing the city's energy.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Control Post Roundabout, Okigwe Road",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1542152880-99e7191d4e68",
+      "tags": [
+        "cityview",
+        "urbanlandscape",
+        "nightlights"
+      ]
+    },
+    {
+      "id": "OWI-BRG-004",
+      "name": "MCC Road Bridge Green Outlook",
+      "short_description": "This bridge offers a scenic overlook of the surrounding green areas and residential landscapes along the MCC Road, showcasing Owerri's suburban charm.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Along MCC Road, near Housing Estate",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1620613292152-32b0a996c56b",
+      "tags": [
+        "suburban",
+        "greenview",
+        "roadtrip"
+      ]
+    },
+    {
+      "id": "OWI-CUL-001",
+      "name": "Mbari Cultural & Art Centre Statues",
+      "short_description": "Immerse yourself in traditional Igbo art and mythology through the vibrant mud sculptures and installations at this unique cultural center.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Ikenegbu Layout, Owerri",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Igbo_culture_mbari_house_at_Mbari_centre%2C_Owerri.jpg/1024px-Igbo_culture_mbari_house_at_Mbari_centre%2C_Owerri.jpg",
+      "tags": [
+        "igboart",
+        "tradition",
+        "sculptures"
+      ]
+    },
+    {
+      "id": "OWI-CUL-002",
+      "name": "Heroes Square Monument",
+      "short_description": "A significant monument dedicated to heroes, featuring imposing statues and a grand design, perfect for photos reflecting national pride.",
+      "subtype": "Cultural Installations",
+      "location_hint": "City Centre, off Sam Mbakwe Road",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Heroes_Square_Owerri.jpg/1024px-Heroes_Square_Owerri.jpg",
+      "tags": [
+        "monument",
+        "history",
+        "patriotic"
+      ]
+    },
+    {
+      "id": "OWI-CUL-003",
+      "name": "Eke Ukwu Owerri Gate & Market Life",
+      "short_description": "The grand entrance to the historic Eke Ukwu Market, a bustling hub where traditional commerce meets vibrant local life. Capture the energy and authentic spirit.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Douglas Road, Owerri",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nigerian_Market.jpg/1280px-Nigerian_Market.jpg",
+      "tags": [
+        "marketlife",
+        "culturalhub",
+        "authenticity"
+      ]
+    },
+    {
+      "id": "OWI-CUL-004",
+      "name": "Assumption Cathedral Sculptural Altar",
+      "short_description": "The interior of the majestic Assumption Cathedral boasts impressive sculptural work around its altar, offering a serene and grand backdrop for reflective photography.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Assumpta Cathedral, Wetheral Road",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Assumption_Catholic_Church_Owerri_interior.jpg/1024px-Assumption_Catholic_Church_Owerri_interior.jpg",
+      "tags": [
+        "churchart",
+        "religious",
+        "sacredspace"
+      ]
+    },
+    {
+      "id": "OWI-STR-001",
+      "name": "Imo State University Art Walls",
+      "short_description": "Discover dynamic and colorful student-created murals across various walls within the IMSU campus, showcasing emerging artistic talent.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Imo State University Campus",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549646875-9e320d3f8f1c",
+      "tags": [
+        "studentart",
+        "campusvibes",
+        "graffiti"
+      ]
+    },
+    {
+      "id": "OWI-STR-002",
+      "name": "Owerri Mall Exterior Murals",
+      "short_description": "Some walls around the Owerri Mall complex feature contemporary murals and vibrant graphics, adding a modern artistic touch to the urban landscape.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Owerri Mall, Egbu Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1582234032483-294b0d06f156",
+      "tags": [
+        "urbanart",
+        "modern",
+        "mallvibes"
+      ]
+    },
+    {
+      "id": "OWI-STR-003",
+      "name": "Douglas Road Community Murals",
+      "short_description": "Explore the vibrant, community-focused murals that occasionally adorn buildings along Douglas Road, reflecting local culture and social messages.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Douglas Road, city center",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1620959092490-67d71b8e4c76",
+      "tags": [
+        "communityart",
+        "localculture",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "OWI-STR-004",
+      "name": "Egbu Road Underpass Art",
+      "short_description": "Occasionally, the underpasses along Egbu Road become canvases for local artists, transforming mundane concrete into engaging visual narratives.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Egbu Road underpasses",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1563821817163-42e1d713a290",
+      "tags": [
+        "underpassart",
+        "publicart",
+        "streetstyle"
+      ]
+    },
+    {
+      "id": "OWI-LND-001",
+      "name": "Imo State Government House",
+      "short_description": "The seat of power in Imo State, an impressive architectural structure with well-maintained grounds, symbolizing governance and history.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Along Okigwe Road, Owerri",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Imo_state_governor_office.jpg/1280px-Imo_state_governor_office.jpg",
+      "tags": [
+        "government",
+        "history",
+        "architecture"
+      ]
+    },
+    {
+      "id": "OWI-LND-002",
+      "name": "Maria Assumpta Catholic Cathedral",
+      "short_description": "A magnificent cathedral with stunning architecture and a soaring steeple, it's a spiritual and visual landmark in Owerri's skyline.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Wetheral Road, Owerri",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Assumption_Catholic_Church_Owerri.jpg/1024px-Assumption_Catholic_Church_Owerri.jpg",
+      "tags": [
+        "cathedral",
+        "religioussite",
+        "landmark"
+      ]
+    },
+    {
+      "id": "OWI-LND-003",
+      "name": "Rochas Okorocha's House",
+      "short_description": "A distinctive and imposing private residence, notable for its unique design and prominence, making it a talked-about structure in the city.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Spibat Estate, New Owerri",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/House_of_Rochas_Okorocha_2022.jpeg/1280px-House_of_Rochas_Okorocha_2022.jpeg",
+      "tags": [
+        "architecture",
+        "residential",
+        "notable"
+      ]
+    },
+    {
+      "id": "OWI-LND-004",
+      "name": "Imo International Convention Centre (IICC)",
+      "short_description": "A modern and grand convention center, IICC stands as a symbol of Owerri's aspiration, offering a striking backdrop for urban shots.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Along Sam Mbakwe Road",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/IICC_Conference_Centre_Owerri.jpg/1024px-IICC_Conference_Centre_Owerri.jpg",
+      "tags": [
+        "conventioncenter",
+        "modernlandmark",
+        "eventspace"
+      ]
+    },
+    {
+      "id": "OWI-ARC-001",
+      "name": "Imo International Convention Centre (IICC) Facade",
+      "short_description": "Admire the contemporary design of IICC, with its imposing structure and sleek lines, representing Owerri's architectural modernity.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Along Sam Mbakwe Road",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/IICC_Conference_Centre_Owerri.jpg/1024px-IICC_Conference_Centre_Owerri.jpg",
+      "tags": [
+        "contemporary",
+        "sleekdesign",
+        "publicbuilding"
+      ]
+    },
+    {
+      "id": "OWI-ARC-002",
+      "name": "Owerri Mall Complex",
+      "short_description": "The Owerri Mall boasts a functional yet visually appealing modern design, with clean lines and large glass facades that reflect the sky.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Egbu Road, Owerri",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1621217646695-207d4b4a6b57",
+      "tags": [
+        "shoppingcenter",
+        "urbanretail",
+        "glassfacade"
+      ]
+    },
+    {
+      "id": "OWI-ARC-003",
+      "name": "FUTO Senate Building",
+      "short_description": "The Federal University of Technology Owerri's Senate Building exhibits a distinctive, modern academic architectural style, commanding attention on campus.",
+      "subtype": "Modern Architecture",
+      "location_hint": "FUTO Campus, Ihiagwa",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/FUTO_Main_Gate.jpg/1024px-FUTO_Main_Gate.jpg",
+      "tags": [
+        "academic",
+        "institutional",
+        "futuristic"
+      ]
+    },
+    {
+      "id": "OWI-ARC-004",
+      "name": "Bon Hotel Owerri Exterior",
+      "short_description": "Experience the contemporary elegance of Bon Hotel, a striking example of modern hospitality architecture with inviting aesthetics.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Plot C.5, Area A, New Owerri",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1571004380673-9a7f3d2f9d8f",
+      "tags": [
+        "hoteldesign",
+        "hospitality",
+        "upscale"
+      ]
+    },
+    {
+      "id": "OWI-FST-001",
+      "name": "New Yam Festival (Iwa Ji)",
+      "short_description": "Witness the vibrant celebration of the New Yam Festival, a cultural spectacle showcasing traditional dances, music, and the rich heritage of the Igbo people.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Various community squares across Imo State",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Iwa_Ji_festival.jpg/1280px-Iwa_Ji_festival.jpg",
+      "tags": [
+        "igboculture",
+        "traditionalfestival",
+        "harvest"
+      ]
+    },
+    {
+      "id": "OWI-FST-002",
+      "name": "Imo State Cultural Carnival",
+      "short_description": "Experience the explosion of colors, elaborate costumes, and rhythmic drumming at Owerri's annual cultural carnival, a true feast for the senses.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Procession routes through Owerri city center",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_display_of_culture_and_beauty_by_a_cultural_dance_group.jpg/1280px-The_display_of_culture_and_beauty_by_a_cultural_dance_group.jpg",
+      "tags": [
+        "carnival",
+        "celebration",
+        "parade"
+      ]
+    },
+    {
+      "id": "OWI-FST-003",
+      "name": "Imo State University Freshers' Fair",
+      "short_description": "Join the lively atmosphere of the university's freshers' fair, filled with student activities, music, and a youthful exuberance perfect for energetic shots.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Imo State University Campus",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1533105740523-2895f32b8519",
+      "tags": [
+        "universityevent",
+        "youthful",
+        "campuslife"
+      ]
+    },
+    {
+      "id": "OWI-FST-004",
+      "name": "Owerri City Marathon",
+      "short_description": "Capture the spirit of determination and community at the annual Owerri City Marathon, featuring runners from all walks of life against the city backdrop.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Starts and ends in Owerri City Centre",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1543888560-af60dd4e8674",
+      "tags": [
+        "marathon",
+        "sportsevent",
+        "community"
+      ]
+    },
+    {
+      "id": "OWI-NTW-001",
+      "name": "Otamiri River's Sacred Grove",
+      "short_description": "Discover a hidden, ancient grove along the Otamiri River banks, steeped in local folklore and offering a mysterious, untouched natural beauty.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Remote section of Otamiri River near Nekede",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1533965902179-c5c8f8b8f8a1",
+      "tags": [
+        "sacredsite",
+        "ancientforest",
+        "folklore"
+      ]
+    },
+    {
+      "id": "OWI-NTW-002",
+      "name": "Nekede Zoo's Ancient Trees",
+      "short_description": "Beyond the animal enclosures, Nekede Zoo features towering, ancient trees with impressive root systems, creating a surreal and almost otherworldly natural backdrop.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Nekede Zoo, Owerri",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "tags": [
+        "ancienttrees",
+        "forestmagic",
+        "nature'sart"
+      ]
+    },
+    {
+      "id": "OWI-NTW-003",
+      "name": "Whispering Rock Formations (Conceptual)",
+      "short_description": "Legend speaks of unique rock formations in the surrounding rural areas of Owerri, where wind passing through creates a 'whispering' sound. An intriguing natural phenomenon.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Rural outskirts of Owerri (e.g., Ohaji/Egbema area)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582234032483-294b0d06f156",
+      "tags": [
+        "geology",
+        "naturalphenomenon",
+        "legend"
+      ]
+    },
+    {
+      "id": "OWI-NTW-004",
+      "name": "Oguta Lake's Confluence Phenomenon (Nearby)",
+      "short_description": "A short drive from Owerri, witness the stunning natural wonder where the 'Blue Lake' and 'Green Lake' meet without mixing, creating a distinct visual boundary.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Oguta Lake, Imo State (near Owerri)",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Oguta_Lake%2C_Imo_State.jpg/1280px-Oguta_Lake%2C_Imo_State.jpg",
+      "tags": [
+        "lakephenomenon",
+        "naturalbeauty",
+        "uniquegeography"
+      ]
+    },
+    {
+      "id": "OWI-NAT-001",
+      "name": "Otamiri River Banks",
+      "short_description": "The expansive, lush banks of the Otamiri River provide a serene and picturesque setting for nature photography, with gentle currents and abundant greenery.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Various points along the Otamiri River",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Otamiri_River_Bridge.jpg/1280px-Otamiri_River_Bridge.jpg",
+      "tags": [
+        "riverside",
+        "greenery",
+        "tranquil"
+      ]
+    },
+    {
+      "id": "OWI-NAT-002",
+      "name": "Nworie River Green Corridor",
+      "short_description": "A peaceful urban green space lining the Nworie River, perfect for leisurely walks and capturing the harmonious blend of city and nature.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Along Nworie River, near Government House",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1510128224570-fd1172a3e0f0",
+      "tags": [
+        "urbanpark",
+        "riverwalk",
+        "freshair"
+      ]
+    },
+    {
+      "id": "OWI-NAT-003",
+      "name": "Nekede Zoo Forest Trails",
+      "short_description": "Beyond the animal enclosures, explore the untamed forest trails within Nekede Zoo, offering dense foliage and natural pathways for immersive nature shots.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Nekede Zoo, Owerri",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1473214506323-7a917e75456f",
+      "tags": [
+        "forestpath",
+        "wildnature",
+        "adventure"
+      ]
+    },
+    {
+      "id": "OWI-NAT-004",
+      "name": "Imo State University Agro-Farm",
+      "short_description": "The sprawling agro-farm within IMSU offers a unique rural backdrop within the city, with fields of crops and open skies, ideal for rustic-themed photos.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Imo State University Campus",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1620613292152-32b0a996c56b",
+      "tags": [
+        "farmland",
+        "ruralcharm",
+        "agriculture"
+      ]
+    },
+    {
+      "id": "OWI-POL-001",
+      "name": "Bon Hotel Owerri Executive Pool",
+      "short_description": "Relax by the elegant resort-style pool at Bon Hotel, offering a refreshing swim and a chic ambiance, perfect for capturing sophisticated leisure moments.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Bon Hotel Owerri, New Owerri",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628186105436-1e6878b27f2f",
+      "tags": [
+        "hotelpool",
+        "resortlife",
+        "luxury"
+      ]
+    },
+    {
+      "id": "OWI-POL-002",
+      "name": "Rockview Hotel Owerri Signature Pool",
+      "short_description": "Dive into the expansive pool at Rockview Hotel, known for its inviting blue waters and a well-designed deck, giving an illusion of endless relaxation.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Rockview Hotel Owerri, New Owerri",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1563821817163-42e1d713a290",
+      "tags": [
+        "swimspot",
+        "vacationvibes",
+        "poolside"
+      ]
+    },
+    {
+      "id": "OWI-POL-003",
+      "name": "De Legend Hotel & Suites Pool Deck",
+      "short_description": "Enjoy the serene pool area at De Legend, offering a refreshing dip and a stylish backdrop for your Instagram, evoking a sense of tranquil escape.",
+      "subtype": "Infinity Pools",
+      "location_hint": "De Legend Hotel & Suites, New Owerri",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1506195740411-9a70650d53c7",
+      "tags": [
+        "hotelretreat",
+        "relaxation",
+        "waterscape"
+      ]
+    },
+    {
+      "id": "OWI-POL-004",
+      "name": "Full Moon Hotel's Leisure Pool",
+      "short_description": "The outdoor pool at Full Moon Hotel provides a relaxing environment with ample space and good lighting, making it a great spot for a leisurely swim and photos.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Full Moon Hotel, New Owerri",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1618214247291-0d29402516a2",
+      "tags": [
+        "leisure",
+        "getaway",
+        "cooloff"
+      ]
+    }
+  ]
+}

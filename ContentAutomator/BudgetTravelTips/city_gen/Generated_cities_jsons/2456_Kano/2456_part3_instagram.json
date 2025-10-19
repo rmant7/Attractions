@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Kano",
+    "city_id": "2456"
+  },
+  "items": [
+    {
+      "id": "B_O_1",
+      "name": "Old City Wall Overlook",
+      "short_description": "Ascend parts of Kano's ancient city walls for a historical perspective and views over traditional neighborhoods. It offers a unique blend of heritage and urban landscape.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Kano Old City, near Dala Hill",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Ancient_Walls_Of_Kano.jpg",
+      "tags": [
+        "historic",
+        "cityscape",
+        "ancient walls"
+      ]
+    },
+    {
+      "id": "B_O_2",
+      "name": "Rogo Bridge's Historic Arches",
+      "short_description": "Discover the weathered beauty of Rogo Bridge, a historic structure crossing a seasonal river. Its traditional construction offers a photogenic glimpse into old Kano's infrastructure.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Rogo Local Government Area",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bridges_in_Gombe_state.jpg",
+      "tags": [
+        "historic bridge",
+        "rural views",
+        "ancient architecture"
+      ]
+    },
+    {
+      "id": "B_O_3",
+      "name": "Dala Hill Summit Panorama",
+      "short_description": "Conquer Dala Hill, the birthplace of Kano, for breathtaking panoramic views of the sprawling metropolis. The journey to the top is rewarded with an unmatched vista.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Dala Hill, Old City",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/df/Dala_Hill_in_Kano_city.jpg",
+      "tags": [
+        "panoramic view",
+        "historic site",
+        "city skyline"
+      ]
+    },
+    {
+      "id": "B_O_4",
+      "name": "Kano River Pedestrian Walk",
+      "short_description": "Stroll across a modern pedestrian bridge offering serene views of one of Kano's waterways. It's a peaceful spot for a quiet moment and beautiful photos.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near new urban developments",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Footbridge_over_a_canal_in_Lagos.jpg",
+      "tags": [
+        "modern design",
+        "waterfront",
+        "leisure walk"
+      ]
+    },
+    {
+      "id": "M_B_1",
+      "name": "Kurmi Market Labyrinth",
+      "short_description": "Immerse yourself in Kurmi Market, Kano's oldest and most vibrant bazaar, a UNESCO heritage site. Its narrow alleys buzz with activity, offering everything from spices to crafts.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Old City, near Emirs Palace",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kano_Kurmi_Market_-_Nigeria.jpg",
+      "tags": [
+        "historic market",
+        "local culture",
+        "bustling"
+      ]
+    },
+    {
+      "id": "M_B_2",
+      "name": "Dawanau Grain Market Grandeur",
+      "short_description": "Witness the sheer scale of commerce at Dawanau Grain Market, one of West Africa's largest. It's an overwhelming and fascinating experience of trade and movement.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Dawanau area, northern Kano",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Dawanau_grain_market.jpg",
+      "tags": [
+        "massive market",
+        "commodities",
+        "authentic"
+      ]
+    },
+    {
+      "id": "M_B_3",
+      "name": "Kofar Wambai Textile Hub",
+      "short_description": "Explore Kofar Wambai Market, renowned for its dazzling array of fabrics, textiles, and traditional attire. A vibrant display of colors and patterns awaits.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Kofar Wambai area",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Kofar_Wambai_Market%2C_Kano.jpg",
+      "tags": [
+        "textile market",
+        "colorful",
+        "fashion"
+      ]
+    },
+    {
+      "id": "M_B_4",
+      "name": "Kano Craftsmen's Alley",
+      "short_description": "Stumble upon a charming lane dedicated to local artisans, showcasing handmade crafts and souvenirs. It's a perfect spot to find unique gifts and admire traditional skills.",
+      "subtype": "Markets & Bazaars",
+      "location_hint": "Near Kurmi Market outskirts",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/23/Local_handicrafts.jpg",
+      "tags": [
+        "artisan crafts",
+        "souvenirs",
+        "local art"
+      ]
+    },
+    {
+      "id": "C_I_1",
+      "name": "Kofar Mata Dye Pits",
+      "short_description": "Visit the ancient Kofar Mata Dye Pits, a living historical site where traditional indigo dyeing has been practiced for centuries. The vibrant pits offer a unique visual spectacle.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Kofar Mata area",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/7/77/Kofar_Mata_Dye_Pit_Kano.jpg",
+      "tags": [
+        "traditional craft",
+        "indigo dyeing",
+        "living history"
+      ]
+    },
+    {
+      "id": "C_I_2",
+      "name": "Emir's Palace Grand Gates",
+      "short_description": "Admire the magnificent, intricately designed gates of the Emir's Palace, Gidan Rumfa. These impressive structures are a testament to Kano's rich Islamic architectural heritage.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Emir's Palace, Old City",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Emirs_Palace_Kano.jpg",
+      "tags": [
+        "royal palace",
+        "islamic art",
+        "grand entrance"
+      ]
+    },
+    {
+      "id": "C_I_3",
+      "name": "Gidan Makama Museum Courtyard",
+      "short_description": "Step into the tranquil courtyard of the Gidan Makama Museum, a 15th-century palace now housing historical artifacts. Its traditional architecture provides a serene cultural backdrop.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Old City, near Emir's Palace",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/05/Gidan_Makama_Museum_Kano.jpg",
+      "tags": [
+        "museum",
+        "traditional architecture",
+        "heritage"
+      ]
+    },
+    {
+      "id": "C_I_4",
+      "name": "Murtala Muhammad Library Art",
+      "short_description": "Explore the unique facade and public art installations at the Murtala Muhammad Library. This landmark building blends modern function with symbolic cultural elements.",
+      "subtype": "Cultural Installations",
+      "location_hint": "Kano City Center",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/10/Murtala_Muhammad_Library_Kano.jpg",
+      "tags": [
+        "public art",
+        "modern landmark",
+        "library"
+      ]
+    },
+    {
+      "id": "R_V_1",
+      "name": "Tahir Guest Palace Sky Lounge",
+      "short_description": "Enjoy upscale drinks and dinner at Tahir Guest Palace's Sky Lounge, offering splendid panoramic views of Kano's skyline. It's the perfect spot for an evening out.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Tahir Guest Palace, Guda Abdullahi Road",
+      "best_time": "Night",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Kano_Skyline.jpg",
+      "tags": [
+        "nightlife",
+        "city views",
+        "luxury"
+      ]
+    },
+    {
+      "id": "R_V_2",
+      "name": "Central Hotel's Terrace Dining",
+      "short_description": "Savor a meal on the elevated terrace of the Central Hotel, where you can watch the city's vibrant energy unfold below. A great vantage point for urban photography.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Central Hotel, Bompai Road",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Kano_Skyline.jpg",
+      "tags": [
+        "dining with a view",
+        "urban vista",
+        "sunset spot"
+      ]
+    },
+    {
+      "id": "R_V_3",
+      "name": "Ado Bayero Mall Terrace",
+      "short_description": "Take a break on the outdoor terrace of Ado Bayero Mall, offering unique views over the modern commercial district. It's a refreshing escape with a cityscape backdrop.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Ado Bayero Mall, Zoo Road",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Kano_from_top_of_Ado_Bayero_Mall.jpg",
+      "tags": [
+        "shopping views",
+        "modern city",
+        "relaxing spot"
+      ]
+    },
+    {
+      "id": "R_V_4",
+      "name": "Dala Hill Café Outlook",
+      "short_description": "Discover a charming cafe nestled on the slopes of Dala Hill, providing quaint elevated views of the old city and beyond. A perfect spot for coffee and reflection.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Slopes of Dala Hill",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/df/Dala_Hill_in_Kano_city.jpg",
+      "tags": [
+        "hillside cafe",
+        "historic outlook",
+        "morning views"
+      ]
+    },
+    {
+      "id": "F_G_1",
+      "name": "Kano Zoological & Botanical Garden",
+      "short_description": "Wander through the Kano Zoological & Botanical Garden, a lush expanse featuring diverse plant species and vibrant flower beds. A green oasis in the city.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Audu Bako Way",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Kano_Zoological_and_Botanical_Garden.jpg",
+      "tags": [
+        "botanical garden",
+        "nature escape",
+        "flowers"
+      ]
+    },
+    {
+      "id": "F_G_2",
+      "name": "Gidan Rumfa Palace Gardens",
+      "short_description": "Experience the serene beauty of the well-manicured gardens within the historic Gidan Rumfa (Emir's Palace) complex. A tranquil retreat showcasing traditional landscaping.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Emir's Palace, Old City",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/41/Ancient_architecture_and_aesthetics_at_Kano_Royal_palace.jpg",
+      "tags": [
+        "palace grounds",
+        "serene",
+        "traditional garden"
+      ]
+    },
+    {
+      "id": "F_G_3",
+      "name": "Muhammadu Abdullahi Wase Park",
+      "short_description": "Relax in Muhammadu Abdullahi Wase Park, a public green space featuring landscaped areas and seasonal flower displays. Ideal for picnics and leisurely strolls.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Nasarawa Local Government Area",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Central_Park_Kaduna_1.jpg/800px-Central_Park_Kaduna_1.jpg",
+      "tags": [
+        "public park",
+        "green space",
+        "seasonal blooms"
+      ]
+    },
+    {
+      "id": "F_G_4",
+      "name": "Hidden Courtyard Oasis",
+      "short_description": "Seek out a beautiful secret garden nestled within a traditional guesthouse or private residence. These hidden oases offer vibrant flora and peaceful seclusion.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Old City guesthouses",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596708761244-766723220556",
+      "tags": [
+        "secret garden",
+        "tranquil",
+        "courtyard"
+      ]
+    },
+    {
+      "id": "H_A_C_1",
+      "name": "Walled City Secret Passages",
+      "short_description": "Lose yourself in the enchanting, narrow alleys of Kano's ancient Walled City. These labyrinthine passages offer a timeless glimpse into traditional urban life.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Kano Old City",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/22/Narrow_streets_in_Kano_old_city.jpg",
+      "tags": [
+        "old city",
+        "historic alleys",
+        "atmospheric"
+      ]
+    },
+    {
+      "id": "H_A_C_2",
+      "name": "Traditional House Courtyards",
+      "short_description": "Discover the tranquil inner courtyards of Kano's traditional mud-brick houses, often adorned with intricate designs. Some guesthouses offer access to these serene spaces.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Old City residential areas",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Kano_old_city.jpg",
+      "tags": [
+        "traditional homes",
+        "peaceful",
+        "architecture"
+      ]
+    },
+    {
+      "id": "H_A_C_3",
+      "name": "Kurmi Market Backstreets",
+      "short_description": "Venture beyond the main thoroughfares of Kurmi Market into its hidden backstreets. Here, you'll find unique stalls, local craftsmen, and quieter, authentic scenes.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Kurmi Market periphery",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/7/7b/A_Street_in_the_Old_City_of_Kano.jpg",
+      "tags": [
+        "market life",
+        "authentic",
+        "hidden gems"
+      ]
+    },
+    {
+      "id": "H_A_C_4",
+      "name": "Old City Artisans' Lanes",
+      "short_description": "Stroll through tucked-away lanes where local artisans practice their trades, creating beautiful crafts in traditional workshops. It’s a captivating look at Kano’s craftsmanship.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Near Kofar Mata",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b3/A_street_in_Kano_city.jpg",
+      "tags": [
+        "craftsmanship",
+        "traditional skills",
+        "quaint"
+      ]
+    },
+    {
+      "id": "U_N_W_1",
+      "name": "Dala Hill's Ancient Rock Formations",
+      "short_description": "Explore the unique, weathered rock formations and small caves at the base of historic Dala Hill. These geological features tell a story as old as Kano itself.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Dala Hill, Old City",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/df/Dala_Hill_in_Kano_city.jpg",
+      "tags": [
+        "geological formations",
+        "ancient history",
+        "unique landscape"
+      ]
+    },
+    {
+      "id": "U_N_W_2",
+      "name": "Tiga Dam Scenic Overlook",
+      "short_description": "Witness the vast expanse of Tiga Dam and its surrounding rugged landscape. This impressive man-made lake creates a striking natural vista, especially at sunset.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Tiga, outside Kano city",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tiga_Dam_in_Kano_State.jpg",
+      "tags": [
+        "reservoir",
+        "scenic view",
+        "water body"
+      ]
+    },
+    {
+      "id": "U_N_W_3",
+      "name": "Challawa Gorge Dam Landscape",
+      "short_description": "Visit the Challawa Gorge Dam for dramatic views of the gorge and the serene water body it holds. The interplay of water and rock creates a picturesque setting.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Challawa, outside Kano city",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/8/86/Challawa_Gorge_Dam_in_Kano.jpg",
+      "tags": [
+        "gorge",
+        "dam",
+        "natural beauty"
+      ]
+    },
+    {
+      "id": "U_N_W_4",
+      "name": "Seasonal Riverbed Sculptures",
+      "short_description": "During the dry season, discover the fascinating, naturally sculpted patterns and textures of Kano's dried riverbeds. These ephemeral 'sculptures' are a unique natural artwork.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Outskirts of Kano, along seasonal rivers",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rivulet_in_the_dry_season_in_Nigeria.jpg",
+      "tags": [
+        "dry season",
+        "natural patterns",
+        "ephemeral art"
+      ]
+    },
+    {
+      "id": "I_L_1",
+      "name": "Kano Central Mosque",
+      "short_description": "Marvel at the grandeur of the Kano Central Mosque, a spiritual and architectural centerpiece of the city. Its imposing minarets and domes dominate the skyline.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Kano City Center",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kano_Central_Mosque.jpg",
+      "tags": [
+        "mosque",
+        "islamic architecture",
+        "spiritual"
+      ]
+    },
+    {
+      "id": "I_L_2",
+      "name": "Gidan Makama Museum",
+      "short_description": "Step back in time at the Gidan Makama Museum, housed in a magnificent 15th-century palace. It is one of Nigeria's oldest museums, rich in history and artifacts.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Old City, opposite Emir's Palace",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/05/Gidan_Makama_Museum_Kano.jpg",
+      "tags": [
+        "museum",
+        "ancient palace",
+        "historical"
+      ]
+    },
+    {
+      "id": "I_L_3",
+      "name": "Emir's Palace (Gidan Rumfa)",
+      "short_description": "Witness the impressive Emirs Palace, Gidan Rumfa, a walled complex that has served as the residence of the Emirs of Kano for centuries. Its scale and history are captivating.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Old City",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Emirs_Palace_Kano.jpg",
+      "tags": [
+        "royal residence",
+        "historic complex",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "I_L_4",
+      "name": "Dala Hill",
+      "short_description": "Visit Dala Hill, a place of immense historical significance as the site where Kano was first settled. Its summit offers a perfect vantage point over the city.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Dala Local Government Area",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/df/Dala_Hill_in_Kano_city.jpg",
+      "tags": [
+        "historic origin",
+        "city view",
+        "ancient settlement"
+      ]
+    },
+    {
+      "id": "F_D_S_1",
+      "name": "Street Food Delights at Kofar Wambai",
+      "short_description": "Indulge in authentic Kano street food at the bustling Kofar Wambai Market. From savoury snacks to hearty meals, it's a culinary adventure for your taste buds.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Kofar Wambai Market area",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Street_food_in_Nigeria.jpg",
+      "tags": [
+        "street food",
+        "local cuisine",
+        "authentic"
+      ]
+    },
+    {
+      "id": "F_D_S_2",
+      "name": "Masa & Fura da Nono Haven",
+      "short_description": "Discover a dedicated spot for traditional Kano delicacies like 'masa' (rice cakes) and 'fura da nono' (millet gruel with yogurt). A true taste of local flavour.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Various local eateries",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Fura_da_nono.jpg",
+      "tags": [
+        "traditional snacks",
+        "local drinks",
+        "breakfast"
+      ]
+    },
+    {
+      "id": "F_D_S_3",
+      "name": "Afraks Food Experience",
+      "short_description": "Dine at Afraks Food, a popular restaurant known for its exquisite Nigerian and continental dishes served in a stylish setting. Perfect for a memorable meal.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Zoo Road, Nassarawa",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1517248135467-4c7ed1b63f06",
+      "tags": [
+        "fine dining",
+        "nigerian cuisine",
+        "modern restaurant"
+      ]
+    },
+    {
+      "id": "F_D_S_4",
+      "name": "Tea & Suya Joint by Zoo Road",
+      "short_description": "Join the evening buzz at a vibrant local 'suya' (grilled meat) and tea joint. It's a quintessential Kano experience, perfect for a casual and delicious night out.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Zoo Road strip",
+      "best_time": "Night",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Suya.jpg",
+      "tags": [
+        "suya",
+        "night market",
+        "casual dining"
+      ]
+    },
+    {
+      "id": "M_A_1",
+      "name": "Ado Bayero Mall Facade",
+      "short_description": "Admire the contemporary design of Ado Bayero Mall, Kano's largest shopping center. Its sleek lines and expansive structure represent the city's modern aspirations.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Zoo Road, Nassarawa",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ado_Bayero_Mall_Kano.jpg",
+      "tags": [
+        "shopping mall",
+        "contemporary design",
+        "urban landmark"
+      ]
+    },
+    {
+      "id": "M_A_2",
+      "name": "Kano State Government House",
+      "short_description": "Observe the dignified modern architecture of the Kano State Government House complex. Its design reflects civic importance and contemporary Nigerian administrative style.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Nasarawa GRA",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Government_House%2C_Kano.jpg",
+      "tags": [
+        "government building",
+        "civic architecture",
+        "modern landmark"
+      ]
+    },
+    {
+      "id": "M_A_3",
+      "name": "Bayero University New Campus",
+      "short_description": "Explore the impressive, large-scale modern buildings of Bayero University's new campus. These structures showcase contemporary educational architecture and sprawling grounds.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Gwarzo Road",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bayero_University_Kano_New_Site.jpg",
+      "tags": [
+        "university campus",
+        "educational architecture",
+        "modern facilities"
+      ]
+    },
+    {
+      "id": "M_A_4",
+      "name": "Corporate Banking Headquarters",
+      "short_description": "Discover the sleek, glass-fronted buildings of major banking institutions in Kano's business district. These structures represent the city's economic growth and modern urban development.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Central Business District",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bank_building_in_Lagos.jpg",
+      "tags": [
+        "corporate buildings",
+        "glass facade",
+        "business district"
+      ]
+    }
+  ]
+}

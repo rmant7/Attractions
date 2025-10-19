@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Port Harcourt",
+    "city_id": "2461"
+  },
+  "items": [
+    {
+      "id": "PH_AQ_001",
+      "name": "Niger Delta Aqua Discovery",
+      "short_description": "Explore the diverse marine life of the Niger Delta and beyond, featuring interactive exhibits and touch pools for young explorers.",
+      "subtype": "Aquariums",
+      "address": "12 Peter Odili Road, Trans Amadi, Port Harcourt",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549487915-d3527237e193?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YXF1YXJpdW0sY2hpbGRyZW58fHx8fHwxNzAzNTc3Nzg1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marine life",
+        "education",
+        "interactive"
+      ]
+    },
+    {
+      "id": "PH_AQ_002",
+      "name": "Coral Reef Kids' Zone",
+      "short_description": "A vibrant, child-friendly aquarium focusing on colorful coral ecosystems and small tropical fish, with engaging storytelling sessions.",
+      "subtype": "Aquariums",
+      "address": "4B Old GRA Road, Port Harcourt",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510414434685-78e7343e74c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29yYWwtcmVlZixjaGlsZHJlbnxlbnwxfHx8fHwxNzAzNTc3ODc4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "tropical fish",
+        "storytelling",
+        "colorful"
+      ]
+    },
+    {
+      "id": "PH_AQ_003",
+      "name": "Oceanic Wonders PH",
+      "short_description": "Experience the magic of the ocean with captivating exhibits, including a walk-through tunnel and feeding demonstrations.",
+      "subtype": "Aquariums",
+      "address": "22 Aba Road, Rumuokoro, Port Harcourt",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1528659976450-93a0058b88d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8b2NlYW4sYXF1YXJpdW0sZmlzaHxlbnwxfHx8fHwxNzAzNTc3ODc4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "underwater tunnel",
+        "marine biology",
+        "feeding shows"
+      ]
+    },
+    {
+      "id": "PH_AQ_004",
+      "name": "Little Swimmers Exhibit",
+      "short_description": "A smaller, intimate aquarium designed for toddlers and preschoolers, focusing on local freshwater species and gentle interaction.",
+      "subtype": "Aquariums",
+      "address": "15 Woji Road, GRA Phase 2, Port Harcourt",
+      "opening_hours": "10:30-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621213769992-6d27464010a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZnJlc2h3YXRlcmZpc2gsdG9kZGxlcnxlbnwxfHx8fHwxNzAzNTc3ODc4&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "toddler friendly",
+        "freshwater",
+        "gentle interaction"
+      ]
+    },
+    {
+      "id": "PH_PL_001",
+      "name": "StarGazers Junior Dome",
+      "short_description": "An immersive dome experience designed for young children, taking them on a journey through our solar system and basic constellations.",
+      "subtype": "Planetariums for Kids",
+      "address": "3 GRA Phase 2, Port Harcourt",
+      "opening_hours": "10:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510414434685-78e7343e74c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cGxhbmV0YXJpdW0sY2hpbGRyZW4sc3RhcnN8fHx8fHwxNzAzNTc3NzY1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "space exploration",
+        "constellations",
+        "educational"
+      ]
+    },
+    {
+      "id": "PH_PL_002",
+      "name": "Cosmic Kids Theatre",
+      "short_description": "Featuring captivating animated shows about space, planets, and rockets, making astronomy fun and accessible for all ages.",
+      "subtype": "Planetariums for Kids",
+      "address": "Plot 10, Trans Amadi Industrial Layout, Port Harcourt",
+      "opening_hours": "11:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549487915-d3527237e193?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c3BhY2UsY2hpbGRyZW4sdGhlYXRyZXx8fHx8fDE3MDM1Nzc3NjU&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "animated shows",
+        "planets",
+        "rockets"
+      ]
+    },
+    {
+      "id": "PH_PL_003",
+      "name": "Galaxy Explorers Hub",
+      "short_description": "An interactive planetarium experience with virtual reality stations that allow children to 'walk' on different planets and moons.",
+      "subtype": "Planetariums for Kids",
+      "address": "5 Rumola Road, Port Harcourt",
+      "opening_hours": "09:30-16:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1534796636685-fdf7e1e69ad8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dmlydHVhbCByZWFsaXR5LHNwYWNlLGtpZHN8fHx8fHwxNzAzNTc3NzY1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "virtual reality",
+        "interactive",
+        "space travel"
+      ]
+    },
+    {
+      "id": "PH_PL_004",
+      "name": "Little Astronauts Observatory",
+      "short_description": "Combines a small observatory with a planetarium, offering guided telescope viewing of celestial objects on clear days.",
+      "subtype": "Planetariums for Kids",
+      "address": "18 G.U. Ake Road, Port Harcourt",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1544737225-83e449265f2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVsZXNjb3BlLG9ic2VydmF0b3J5LGNoaWxkcmVufHx8fHwxNzAzNTc3NzY1&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "telescope viewing",
+        "observatory",
+        "astronomy"
+      ]
+    },
+    {
+      "id": "PH_AR_001",
+      "name": "Rainbow Rollerland",
+      "short_description": "A classic amusement park with a variety of gentle rides for younger children, including carousels, mini-trains, and kiddie swings.",
+      "subtype": "Amusement Rides",
+      "address": "15 Trans Amadi Industrial Layout, Port Harcourt",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549487915-d3527237e193?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YW11c2VtZW50LXJpZGVzLGNoaWxkcmVufHx8fHwxNzAzNTc3ODIz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "carousels",
+        "mini-trains",
+        "family fun"
+      ]
+    },
+    {
+      "id": "PH_AR_002",
+      "name": "Joyful Junction Park",
+      "short_description": "Features a collection of themed rides for toddlers and preschoolers, with a focus on safety and bright, engaging designs.",
+      "subtype": "Amusement Rides",
+      "address": "Plot 7, Rumuokoro Link Road, Port Harcourt",
+      "opening_hours": "09:30-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1506046206063-8a304f5e3e26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dG9kZGxlci1yaWRlcyxwYXJrLGNoaWxkcmVufHx8fHwxNzAzNTc3ODIz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "toddler friendly",
+        "safe rides",
+        "themed park"
+      ]
+    },
+    {
+      "id": "PH_AR_003",
+      "name": "Thrillville Juniors",
+      "short_description": "Offers slightly more adventurous rides for older children, including a mini roller coaster, bumper cars, and a small Ferris wheel.",
+      "subtype": "Amusement Rides",
+      "address": "22 Ada George Road, Port Harcourt",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1533202167776-6644f8087799?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cm9sbGVyY29hc3RlciwzZGNoaWxkcmVuLGJ1bXBlciBjYXJzfHx8fHwxNzAzNTc3ODIz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "roller coaster",
+        "bumper cars",
+        "ferris wheel"
+      ]
+    },
+    {
+      "id": "PH_AR_004",
+      "name": "WonderWheel Playground",
+      "short_description": "Combines a variety of small amusement rides with extensive play structures, offering a full day of active fun for kids.",
+      "subtype": "Amusement Rides",
+      "address": "8 Nkpogu Road, Port Harcourt",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621213769992-6d27464010a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cGxheWdyb3VuZCxyaWRlcyxjaGlsZHJlbnx8fHx8fDE3MDM1Nzc4MjM&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "play structures",
+        "active play",
+        "mixed rides"
+      ]
+    },
+    {
+      "id": "PH_ZO_001",
+      "name": "PH Kid's Critter Corner",
+      "short_description": "A delightful petting zoo where children can safely interact with friendly farm animals, learn about animal care, and enjoy pony rides.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "4B Old GRA Road, Port Harcourt",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1557007010-388e404b901b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cGV0dGluZyB6b28sZmFybS1hbmltYWxzLGtpZHN8fHx8fHwxNzAzNTc3ODYz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "pony rides"
+      ]
+    },
+    {
+      "id": "PH_ZO_002",
+      "name": "Nature's Ark Zoolet",
+      "short_description": "A smaller, educational zoo focusing on local wildlife and conservation efforts, offering guided tours and animal feeding sessions.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "22 Aba Road, Rumuokoro, Port Harcourt",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506046206063-8a304f5e3e26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8b2NhbCB3aWxkbGlmZSxj b25zZXJ2YXRpb24sem9vfHx8fHwxNzAzNTc3ODYz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "local wildlife",
+        "conservation",
+        "educational"
+      ]
+    },
+    {
+      "id": "PH_ZO_003",
+      "name": "Safari Juniors PH",
+      "short_description": "Explore themed zones with a variety of animals from different continents, featuring a kids' safari train ride and wildlife shows.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "12 Peter Odili Road, Trans Amadi, Port Harcourt",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549487915-d3527237e193?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2FmYXJpLHpvbyxhbmltYWxzfHx8fHwxNzAzNTc3ODYz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "safari train",
+        "exotic animals",
+        "wildlife shows"
+      ]
+    },
+    {
+      "id": "PH_ZO_004",
+      "name": "Farm Friends Haven",
+      "short_description": "A charming mini-farm where kids can meet and feed domestic animals, collect eggs, and enjoy a true countryside experience.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Eneka Road, Rumuokoro, Port Harcourt",
+      "opening_hours": "10:30-15:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1559820542-a1f46f4e1f72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFybSwyZGNoaWxkcmVuLGZlZWRpbmd8fHx8fHwxNzAzNTc3ODYz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "farm experience",
+        "domestic animals",
+        "feeding animals"
+      ]
+    },
+    {
+      "id": "PH_CM_001",
+      "name": "Toon Town PH",
+      "short_description": "Meet your favorite cartoon characters daily at this lively hub, offering photo opportunities, sing-alongs, and mini-parades.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Port Harcourt Mall, 10 Aba Road, Port Harcourt",
+      "opening_hours": "12:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506046206063-8a304f5e3e26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2FydG9vbiwzZGNoaWxkcmVuLG1hc2NvdHxlbnwxfHx8fHwxNzAzNTc3ODgz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "character encounters",
+        "photo ops",
+        "sing-alongs"
+      ]
+    },
+    {
+      "id": "PH_CM_002",
+      "name": "Hero Haven Encounters",
+      "short_description": "Step into a world of superheroes and princesses! Kids can meet their idols, get autographs, and participate in themed activities.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Aztech Arcum, Stadium Road, Port Harcourt",
+      "opening_hours": "11:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510414434685-78e7343e74c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c3VwZXJoZXJvZXMsY29zdHVtZXMsMjBkY2hpbGRyZW58fHx8fHwxNzAzNTc3ODgz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "superheroes",
+        "princesses",
+        "themed activities"
+      ]
+    },
+    {
+      "id": "PH_CM_003",
+      "name": "Storybook Friends Fest",
+      "short_description": "A delightful gathering where classic storybook characters come to life, offering interactive readings and imaginative play.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "7 Old GRA Road, Port Harcourt",
+      "opening_hours": "13:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549487915-d3527237e193?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c3Rvcnlib29rLWNoYXJhY3RlcnMsZmFpcnl0YWxlfHx8fHwxNzAzNTc3ODgz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "storybook characters",
+        "interactive reading",
+        "imaginative play"
+      ]
+    },
+    {
+      "id": "PH_CM_004",
+      "name": "Mascot Mania Meetup",
+      "short_description": "Catch a rotating roster of popular local and international mascots for high-energy meet-and-greets and dance parties.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Pleasure Park, Aba Road, Port Harcourt",
+      "opening_hours": "14:00-17:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1544737225-83e449265f2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bWFzY290cyxkYW5jZSxwYXJ0eXxlbnwxfHx8fHwxNzAzNTc3ODgz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mascots",
+        "dance party",
+        "free activity"
+      ]
+    },
+    {
+      "id": "PH_CMU_001",
+      "name": "Discovery Dome Children's Museum",
+      "short_description": "A hands-on museum focused on science, technology, engineering, and arts (STEAM) for curious young minds.",
+      "subtype": "Children’s Museums",
+      "address": "Plot 1, GRA Phase 3, Port Harcourt",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549487915-d3527237e193?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2hpbGRyZW5zLW11c2V1bSxzY2llbmNlfHx8fHwxNzAzNTc3OTAz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "STEAM",
+        "hands-on exhibits",
+        "science"
+      ]
+    },
+    {
+      "id": "PH_CMU_002",
+      "name": "Creative Kids Hub",
+      "short_description": "Encouraging imagination and artistic expression through various craft stations, role-play areas, and storytelling corners.",
+      "subtype": "Children’s Museums",
+      "address": "17 Trans Amadi Road, Port Harcourt",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510414434685-78e7343e74c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y3JhZnRzLHJvbGUtcGxheSxhcnRzZm9yY2hpbGRyZW58fHx8fHwxNzAzNTc3OTAz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "arts & crafts",
+        "role-play",
+        "imagination"
+      ]
+    },
+    {
+      "id": "PH_CMU_003",
+      "name": "Little Explorers Gallery",
+      "short_description": "Introduces children to Nigerian history and culture through engaging exhibits, traditional games, and interactive displays.",
+      "subtype": "Children’s Museums",
+      "address": "4 Old GRA Road, Port Harcourt",
+      "opening_hours": "09:30-15:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1506046206063-8a304f5e3e26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bmlnZXJpYW4tY3VsdHVyZSxoZXJpdGFnZSxpbnRlcmFjdGl2ZWx5fHx8fHwxNzAzNTc3OTAz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Nigerian culture",
+        "history",
+        "interactive displays"
+      ]
+    },
+    {
+      "id": "PH_CMU_004",
+      "name": "Innovation Station Junior",
+      "short_description": "A museum dedicated to engineering and building, where kids can design, construct, and test their own creations.",
+      "subtype": "Children’s Museums",
+      "address": "25 Peter Odili Road, Port Harcourt",
+      "opening_hours": "10:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1544737225-83e449265f2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZW5naW5lZXJpbmcsYnVpbGRpbmcsZGVzaWdufHx8fHwxNzAzNTc3OTAz&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "engineering",
+        "building",
+        "creativity"
+      ]
+    },
+    {
+      "id": "PH_MG_001",
+      "name": "Enchantia Magic Theatre",
+      "short_description": "Experience dazzling magic and grand illusions in a family-friendly theatre setting, with weekly shows featuring renowned magicians.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "The Arena Event Centre, 12 Sani Abacha Road, Port Harcourt",
+      "opening_hours": "17:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1506046206063-8a304f5e3e26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bWFnaWMsc2hvdyxpbnJvbGxld30%3D&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "magic show",
+        "illusions",
+        "family entertainment"
+      ]
+    },
+    {
+      "id": "PH_MG_002",
+      "name": "The Grand Illusionist's Parlour",
+      "short_description": "An intimate setting for awe-inspiring close-up magic and mentalism, designed to captivate and mystify young audiences.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Genesis Centre, 50 Ken Saro-Wiwa Road, Port Harcourt",
+      "opening_hours": "14:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549487915-d3527237e193?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2xvc2UtdXAsbWFnaWMsa2lkc3x8fHx8fDE3MDM1Nzc5MzA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "close-up magic",
+        "mentalism",
+        "interactive"
+      ]
+    },
+    {
+      "id": "PH_MG_003",
+      "name": "WonderWorks Magic & Fun",
+      "short_description": "Combines magic performances with interactive workshops where children can learn simple tricks and create their own magic props.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "15 Woji Road, GRA Phase 2, Port Harcourt",
+      "opening_hours": "11:00-13:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510414434685-78e7343e74c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bWFnaWMtd29ya3Nob3AsdHJpY2tzLGNyZWF0aXZlfHx8fHwxNzAzNTc3OTMw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "magic workshops",
+        "learn tricks",
+        "creative"
+      ]
+    },
+    {
+      "id": "PH_MG_004",
+      "name": "Mystic Realm Shows",
+      "short_description": "Themed magic productions that weave illusions into enchanting stories, perfect for sparking imagination in young audiences.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Filmhouse Cinemas, Azikiwe Road, Port Harcourt",
+      "opening_hours": "16:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1544737225-83e449265f2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dGhlbWVkLXNob3dzLGlsbHVzaW9ucyxzdG9yeXxlbnwxfHx8fHwxNzAzNTc3OTMw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "themed shows",
+        "storytelling",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "PH_IP_001",
+      "name": "Jungle Gym Kids Play",
+      "short_description": "A multi-level soft play area with slides, ball pits, and climbing structures, ensuring hours of energetic fun for kids of all ages.",
+      "subtype": "Indoor Play Centers",
+      "address": "Shoprite Mall, Aba Road, Port Harcourt",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549487915-d3527237e193?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aW5kb29yLXBsYXksc29mdC1wbGF5LGtpbmdkb218fHx8fHwxNzAzNTc3OTY3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "soft play",
+        "slides",
+        "active fun"
+      ]
+    },
+    {
+      "id": "PH_IP_002",
+      "name": "Bounce House Bonanza",
+      "short_description": "Wall-to-wall trampolines, inflatable obstacle courses, and bounce houses provide a high-energy environment for jumping and bouncing.",
+      "subtype": "Indoor Play Centers",
+      "address": "Plot 8, Trans Amadi Industrial Layout, Port Harcourt",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510414434685-78e7343e74c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dHJhbXBvbGluZXMsYm91bmNlZSxpbmZsYXRhYmxlc3x8fHx8fDE3MDM1Nzc5Njc&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "trampolines",
+        "inflatables",
+        "bouncing"
+      ]
+    },
+    {
+      "id": "PH_IP_003",
+      "name": "Little City Adventures",
+      "short_description": "A unique indoor play center featuring a miniature city where children can engage in imaginative role-play as doctors, firefighters, and more.",
+      "subtype": "Indoor Play Centers",
+      "address": "12 Rumuigbo Road, Port Harcourt",
+      "opening_hours": "10:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1506046206063-8a304f5e3e26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cm9sZXBsYXksbWluaWF0dXJlY2l0eSxpbnNldHM%3D&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "role-play",
+        "miniature city",
+        "imaginative play"
+      ]
+    },
+    {
+      "id": "PH_IP_004",
+      "name": "Climb & Slide Kingdom",
+      "short_description": "An indoor adventure park with climbing walls, giant slides, and rope courses, perfect for developing agility and strength.",
+      "subtype": "Indoor Play Centers",
+      "address": "5 Okporo Road, Rumuodara, Port Harcourt",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1544737225-83e449265f2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2xpbWJpbmd3YWxscyxzbGlkZXMsYWR2ZW50dXJlfHx8fHwxNzAzNTc3OTY3&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "climbing walls",
+        "rope courses",
+        "physical activity"
+      ]
+    },
+    {
+      "id": "PH_MS_001",
+      "name": "Junior Champs Arena",
+      "short_description": "Multiple mini-pitches for football and basketball, designed for young athletes to practice skills and play friendly matches.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Shell Co-operative Estate, Rumuomasi, Port Harcourt",
+      "opening_hours": "08:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549487915-d3527237e193?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bWluaS1mb290YmFsbCxraWRzLXNwYWNlLGJhc2tldGJhbGx8fHx8fHwxNzAzNTc4MDA0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "football",
+        "basketball",
+        "sports training"
+      ]
+    },
+    {
+      "id": "PH_MS_002",
+      "name": "Active Kids Sports Zone",
+      "short_description": "Offers various small courts for different sports like tennis, badminton, and volleyball, alongside a running track for children.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Pleasure Park, Aba Road, Port Harcourt",
+      "opening_hours": "09:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510414434685-78e7343e74c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVubmlzLGJhZG1pbnRvbixtaW5pLXNwb3J0c3x8fHx8fDE3MDM1NzgwMDQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "multi-sport",
+        "tennis",
+        "running"
+      ]
+    },
+    {
+      "id": "PH_MS_003",
+      "name": "Goal Getters Mini Pitch",
+      "short_description": "A dedicated facility with small-sided football pitches, perfect for youth leagues, casual games, and football academies.",
+      "subtype": "Mini Sports Arenas",
+      "address": "18 Airport Road, Rumuodomaya, Port Harcourt",
+      "opening_hours": "07:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506046206063-8a304f5e3e26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Zm9vdGJhbGwscGl0Y2gsdHJhaW5pbmd8fHx8fHwxNzAzNTc4MDA0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "football academy",
+        "youth league",
+        "casual games"
+      ]
+    },
+    {
+      "id": "PH_MS_004",
+      "name": "Racket Rookies Hub",
+      "short_description": "Focuses on racket sports with mini-courts for tennis and table tennis, offering beginner lessons and friendly competitions.",
+      "subtype": "Mini Sports Arenas",
+      "address": "10 Woji Road, GRA Phase 3, Port Harcourt",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1544737225-83e449265f2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cmFja2V0LXNwb3J0cyx0YWJsZXRlbm5pcyxpbnRyb2R1Y3Rpb258fHx8fHwxNzAzNTc4MDA0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "racket sports",
+        "table tennis",
+        "beginner lessons"
+      ]
+    },
+    {
+      "id": "PH_FP_001",
+      "name": "Enchanted Forest PH",
+      "short_description": "Wander through a magical forest adorned with life-sized sculptures of fairy tale characters, offering interactive story points.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Botanical Garden Annex, Old GRA, Port Harcourt",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549487915-d3527237e193?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFpcnl0YWxlc2ZvcmVzdCxzdG9yeWJvb2t8fHx8fHwxNzAzNTc4MDM0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fairy tales",
+        "storytelling",
+        "sculptures"
+      ]
+    },
+    {
+      "id": "PH_FP_002",
+      "name": "Princess & Knight Kingdom",
+      "short_description": "A themed park where children can dress up as their favorite royalty or knights, explore castles, and partake in themed games.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Pleasure Park, Aba Road, Port Harcourt",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1510414434685-78e7343e74c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cHJpbmNlc3MsY2FzdGxlLGtpZHM%3D&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "princesses",
+        "knights",
+        "role-play"
+      ]
+    },
+    {
+      "id": "PH_FP_003",
+      "name": "Whimsical Woodsland",
+      "short_description": "Discover a magical realm filled with whimsical creatures, hidden pathways, and interactive exhibits inspired by classic fables.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Opposite Hotel Presidential, Port Harcourt",
+      "opening_hours": "09:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1506046206063-8a304f5e3e26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFicGxlcyxjcmVhdHVyZXMsbWFnaWN8fHx8fHwxNzAzNTc4MDM0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "fantasy",
+        "fables",
+        "interactive exhibits"
+      ]
+    },
+    {
+      "id": "PH_FP_004",
+      "name": "Mythical Moments Park",
+      "short_description": "Integrates traditional Nigerian folklore with global fairy tales, offering unique cultural storytelling and themed play areas.",
+      "subtype": "Fairy Tale Parks",
+      "address": "22 Peter Odili Road, Port Harcourt",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1544737225-83e449265f2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Zm9sa2xvcmUsbmlnZXJpYW4sZmFpcnl0YWxlfHx8fHwxNzAzNTc4MDM0&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "folklore",
+        "cultural stories",
+        "themed play"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Port Harcourt",
+    "city_id": "2461"
+  },
+  "items": [
+    {
+      "id": "PHC_CRS_001",
+      "name": "Ogbunabali Market Junction",
+      "short_description": "A historic and bustling market crossroads, believed to be a point where spiritual energies converge, offering blessings for commerce and safe passage. Traditional blessings are still sought here by traders and travelers.",
+      "subtype": "Crossroads",
+      "address": "Market Road, Ogbunabali, Port Harcourt, Rivers State",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Port-Harcourt-Market.jpg",
+      "tags": [
+        "market",
+        "commerce",
+        "blessings"
+      ]
+    },
+    {
+      "id": "PHC_CRS_002",
+      "name": "The Three Corners of Fate",
+      "short_description": "This busy urban intersection is locally known as a 'crossing point' where significant life decisions are often made or announced. It symbolizes the meeting of diverse paths and destinies within the city.",
+      "subtype": "Crossroads",
+      "address": "Ikwerre Road & Aba Road Junction, Rumuola, Port Harcourt, Rivers State",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Port_Harcourt_Main_Park.jpg",
+      "tags": [
+        "urban",
+        "destiny",
+        "decisions"
+      ]
+    },
+    {
+      "id": "PHC_CRS_003",
+      "name": "Diobu Ancestral Gate",
+      "short_description": "An ancient, symbolic gateway marking the traditional entrance to Old Diobu, where ancestral spirits are believed to guide newcomers and protect inhabitants. Offerings are occasionally left at its base for safe journeys.",
+      "subtype": "Crossroads",
+      "address": "Near Egelege Street, Diobu, Port Harcourt, Rivers State",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Igbo_traditional_entrance.jpg",
+      "tags": [
+        "ancestral",
+        "gateway",
+        "protection"
+      ]
+    },
+    {
+      "id": "PHC_CRS_004",
+      "name": "Unity Flyover Point",
+      "short_description": "A prominent modern flyover where multiple roads intersect, representing the convergence of Port Harcourt's diverse communities and aspirations. It's seen as a place of collective energy and forward momentum.",
+      "subtype": "Crossroads",
+      "address": "Trans-Amadi Flyover, Trans-Amadi, Port Harcourt, Rivers State",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Port_Harcourt_City_Park_3.jpg",
+      "tags": [
+        "modern",
+        "unity",
+        "aspirations"
+      ]
+    },
+    {
+      "id": "PHC_VOL_001",
+      "name": "The Flaming Oracle's Hearth",
+      "short_description": "A site where ancient natural gas flares were once interpreted as portals to a fiery spirit realm, now a place for quiet reflection on the earth's raw power. It signifies transformative energy and hidden forces.",
+      "subtype": "Volcanic Zones",
+      "address": "Off Refinery Road, Eleme Junction, Port Harcourt, Rivers State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Natural_gas_flare_in_the_Niger_Delta%2C_Nigeria.jpg",
+      "tags": [
+        "elemental",
+        "transformation",
+        "oracle"
+      ]
+    },
+    {
+      "id": "PHC_VOL_002",
+      "name": "Site of the Earth's Whisper",
+      "short_description": "A secluded clearing known for subtle vibrations in the ground, believed to be the 'whispers' of ancient earth spirits communicating through deep geological currents. It's a place for deep listening and grounding.",
+      "subtype": "Volcanic Zones",
+      "address": "Deep within Ndah Community Forest, Rumuodara, Port Harcourt, Rivers State",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "fixed amount (NGN 500)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Niger_Delta_landscape.jpg",
+      "tags": [
+        "earth energy",
+        "listening",
+        "ancestral"
+      ]
+    },
+    {
+      "id": "PHC_VOL_003",
+      "name": "The Revival Firepoint Arena",
+      "short_description": "This modern arena is renowned for hosting powerful spiritual revivals and prophetic gatherings, metaphorically seen as a 'spiritual volcano' where divine energy erupts and transforms lives.",
+      "subtype": "Volcanic Zones",
+      "address": "East-West Road, near Igwuruta, Port Harcourt, Rivers State",
+      "visiting_hours": "Event-based, check schedule",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Church_service_in_Nigeria.jpg",
+      "tags": [
+        "revival",
+        "prophecy",
+        "spiritual awakening"
+      ]
+    },
+    {
+      "id": "PHC_VOL_004",
+      "name": "Ancestral Smelting Grounds",
+      "short_description": "An archaeological site believed to be an ancient iron smelting ground, symbolizing the alchemical process of transformation and the fiery spirit of ancestral craft. It's a place of reverence for ingenuity and resilience.",
+      "subtype": "Volcanic Zones",
+      "address": "Off Isiokpo Road, Rumuekini, Port Harcourt, Rivers State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount (NGN 1000)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Traditional_iron_smelting_in_Africa.jpg",
+      "tags": [
+        "archaeology",
+        "transformation",
+        "ancestral craft"
+      ]
+    },
+    {
+      "id": "PHC_DST_001",
+      "name": "Sanctuary of the Dry Earth Oracle",
+      "short_description": "A secluded, simple shrine known for profound spiritual clarity and stark revelations, offering a 'spiritual wilderness' experience away from urban distractions. Seekers come for unfiltered guidance.",
+      "subtype": "Desert Power Sites",
+      "address": "Obiri-Ikwerre Road, Aluu, Port Harcourt, Rivers State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/3/30/Shrine_to_a_deity.jpg",
+      "tags": [
+        "solitude",
+        "revelation",
+        "clarity"
+      ]
+    },
+    {
+      "id": "PHC_DST_002",
+      "name": "The Hermit's Baobab Grove",
+      "short_description": "A small grove of ancient baobab trees (or similar hardy, isolated trees), believed to be a place where spiritual hermits once sought profound insight. It offers a sense of ancient wisdom and enduring strength.",
+      "subtype": "Desert Power Sites",
+      "address": "Along Airport Road, near Choba, Port Harcourt, Rivers State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Baobab_tree_at_sunset%2C_Tanzania.jpg",
+      "tags": [
+        "wisdom",
+        "solitude",
+        "nature"
+      ]
+    },
+    {
+      "id": "PHC_DST_003",
+      "name": "Barren Ground of Breakthrough",
+      "short_description": "Historically a challenging and dry patch of land, now a testament to spiritual resilience where significant communal breakthroughs occurred despite adversity. It symbolizes hope emerging from hardship.",
+      "subtype": "Desert Power Sites",
+      "address": "Okoro-Nu-Odo Road, Rumuokoro, Port Harcourt, Rivers State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Dry_season_in_Nigeria.jpg",
+      "tags": [
+        "resilience",
+        "breakthrough",
+        "hope"
+      ]
+    },
+    {
+      "id": "PHC_DST_004",
+      "name": "Shrine of the Stillness Spirit",
+      "short_description": "A minimalist, open-air structure designed for deep meditation and contemplation, where visitors can shed worldly distractions and connect with inner peace. It embodies the power of silence.",
+      "subtype": "Desert Power Sites",
+      "address": "Behind Pleasure Park, Army Bks Road, Port Harcourt, Rivers State",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a2/African_meditation_spot.jpg",
+      "tags": [
+        "meditation",
+        "stillness",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "PHC_PYR_001",
+      "name": "The Earthen Ascent Mound",
+      "short_description": "An ancient, elevated earth mound, remnants of a pre-colonial settlement, believed to have been used for spiritual ceremonies and communal gatherings, symbolizing ascent to higher understanding.",
+      "subtype": "Pyramids",
+      "address": "Off Eneka Road, Igwuruta, Port Harcourt, Rivers State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount (NGN 750)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Igbo_ukwu_Archaeological_site.jpg",
+      "tags": [
+        "archaeology",
+        "ancient rituals",
+        "ascension"
+      ]
+    },
+    {
+      "id": "PHC_PYR_002",
+      "name": "Temple of Layered Wisdom",
+      "short_description": "A multi-tiered traditional community hall, its architecture reflecting a hierarchy of spiritual knowledge and social order. Each level represents a different stage of communal or spiritual development.",
+      "subtype": "Pyramids",
+      "address": "King Amachree Road, Buguma (outskirts of PH), Rivers State",
+      "visiting_hours": "10:00-16:00 (by appointment)",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Benin_City_Palace_%28Nigeria%29.jpg",
+      "tags": [
+        "traditional",
+        "hierarchy",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "PHC_PYR_003",
+      "name": "The Stepped Altar of Unity",
+      "short_description": "A modern Christian cathedral featuring a grand, ascending staircase to its main entrance, symbolizing the spiritual journey and collective ascent towards divine unity. A popular site for prayer and reflection.",
+      "subtype": "Pyramids",
+      "address": "GRA Phase 2, Port Harcourt, Rivers State",
+      "visiting_hours": "06:00-20:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/8/87/Cathedral_of_the_Assumption_%28Catholic%29_-_Jos%2C_Nigeria_%281%29.jpg",
+      "tags": [
+        "cathedral",
+        "spiritual journey",
+        "unity"
+      ]
+    },
+    {
+      "id": "PHC_PYR_004",
+      "name": "Obelisk of Ancestral Memory",
+      "short_description": "A towering monument in a public square, erected to honor the founding ancestors and heroes of Port Harcourt. Its verticality symbolizes the unbroken link between past, present, and future generations.",
+      "subtype": "Pyramids",
+      "address": "Government House Road, Old GRA, Port Harcourt, Rivers State",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/18/Independence_Square_in_Accra%2C_Ghana.jpg",
+      "tags": [
+        "monument",
+        "ancestors",
+        "heritage"
+      ]
+    },
+    {
+      "id": "PHC_BAT_001",
+      "name": "Ogbu-Nu-Abali War Memorial Ground",
+      "short_description": "A sacred ground commemorating a historic skirmish between local clans, now serving as a site for reconciliation and remembrance. It teaches lessons of peace and communal harmony.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Oginigba Road, Ogbunabali, Port Harcourt, Rivers State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/2f/National_War_Museum%2C_Umuahia.jpg",
+      "tags": [
+        "history",
+        "reconciliation",
+        "peace"
+      ]
+    },
+    {
+      "id": "PHC_BAT_002",
+      "name": "Liberty Square Monument",
+      "short_description": "A prominent public square that was the focal point for several key civil rights demonstrations and political struggles in Port Harcourt. A monument stands here, honoring those who fought for justice and freedom.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Aba Road, Garrison Junction, Port Harcourt, Rivers State",
+      "visiting_hours": "24:00-24:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/16/Port_Harcourt_city_park_2.jpg",
+      "tags": [
+        "activism",
+        "freedom",
+        "justice"
+      ]
+    },
+    {
+      "id": "PHC_BAT_003",
+      "name": "Oil Delta Struggle Remembrance Site",
+      "short_description": "A symbolic site within Port Harcourt, representing the broader struggles and conflicts over resource control and environmental justice in the Niger Delta. It serves as a reminder of ongoing challenges and resilience.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Waterfront Development Area, Borokiri, Port Harcourt, Rivers State",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Natural_gas_flare_in_the_Niger_Delta%2C_Nigeria.jpg",
+      "tags": [
+        "resource control",
+        "environment",
+        "resilience"
+      ]
+    },
+    {
+      "id": "PHC_BAT_004",
+      "name": "Site of the Spirit's Triumph",
+      "short_description": "This former colonial-era detention center, now a memorial, is revered as a site where early spiritual leaders endured persecution, yet their faith and message ultimately triumphed. It inspires unwavering conviction.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Aggrey Road, Old Township, Port Harcourt, Rivers State",
+      "visiting_hours": "10:00-16:00 (Mon-Fri)",
+      "entry_fee": "fixed amount (NGN 500)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nigerian_activist_memorial.jpg",
+      "tags": [
+        "faith",
+        "persecution",
+        "triumph"
+      ]
+    },
+    {
+      "id": "PHC_PIL_001",
+      "name": "The Way of St. Cyprian",
+      "short_description": "A revered pilgrimage path leading to the historic St. Cyprian's Anglican Cathedral, walked by congregants seeking spiritual renewal and blessings. The route is particularly active during Lent and major feast days.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting from Aggrey Road, ending at St. Cyprian's Cathedral, Port Harcourt, Rivers State",
+      "visiting_hours": "24:00-24:00 (route always open)",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Catholic_Cathedral_of_the_Holy_Cross%2C_Lagos.jpg",
+      "tags": [
+        "Christian",
+        "renewal",
+        "blessings"
+      ]
+    },
+    {
+      "id": "PHC_PIL_002",
+      "name": "Ancestral River Path of Obonnison",
+      "short_description": "A traditional riverbank route used for ancestral worship and communal festivals, connecting various shrines along the creek. Pilgrims travel by foot or canoe, honoring the water spirits and forefathers.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Along Obonnison Creek, Borokiri, Port Harcourt, Rivers State",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Canoes_on_the_Niger_River_at_Lokoja.jpg",
+      "tags": [
+        "traditional",
+        "ancestral",
+        "river spirits"
+      ]
+    },
+    {
+      "id": "PHC_PIL_003",
+      "name": "Egere Festival Procession Route",
+      "short_description": "The defined path for the annual Egere cultural festival procession, where vibrant masquerades and cultural groups parade through the community. Participating in or witnessing the procession is considered a spiritual act.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting from Elekahia Community Hall, Elekahia, Port Harcourt, Rivers State",
+      "visiting_hours": "Annual festival, inquire locally",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/9/90/Igbo_cultural_festival_in_Enugu.jpg",
+      "tags": [
+        "festival",
+        "culture",
+        "community"
+      ]
+    },
+    {
+      "id": "PHC_PIL_004",
+      "name": "Path of the Seven Blessings",
+      "short_description": "A modern urban spiritual walk, linking seven significant spiritual landmarks across Port Harcourt, designed for personal reflection and collective prayer. Each stop offers a unique blessing or insight.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Route map available from Port Harcourt Tourist Information Center",
+      "visiting_hours": "Self-guided, daylight hours",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Port_Harcourt_Main_Park.jpg",
+      "tags": [
+        "urban pilgrimage",
+        "reflection",
+        "prayer"
+      ]
+    },
+    {
+      "id": "PHC_MTN_001",
+      "name": "Elekahia Hilltop Sanctuary",
+      "short_description": "A natural high point offering panoramic views of Port Harcourt, with a small, humble shrine dedicated to peace and contemplation. It's a cherished spot for quiet prayer and reflection above the city's bustle.",
+      "subtype": "Sacred Mountains",
+      "address": "Top of Elekahia Road, Elekahia, Port Harcourt, Rivers State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Niger_Delta_landscape.jpg",
+      "tags": [
+        "hilltop",
+        "contemplation",
+        "peace"
+      ]
+    },
+    {
+      "id": "PHC_MTN_002",
+      "name": "The Summit of Inner Peace (Garden Mound)",
+      "short_description": "A beautifully landscaped, man-made mound within a serene botanical garden, specifically designed for meditation and spiritual retreats. Its gentle ascent symbolizes the journey to inner tranquility.",
+      "subtype": "Sacred Mountains",
+      "address": "Port Harcourt Pleasure Park, Aba Road, Port Harcourt, Rivers State",
+      "visiting_hours": "09:00-19:00",
+      "entry_fee": "fixed amount (NGN 1000 for park entry)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Garden_of_Peace%2C_Accra.jpg",
+      "tags": [
+        "meditation",
+        "garden",
+        "tranquility"
+      ]
+    },
+    {
+      "id": "PHC_MTN_003",
+      "name": "The Watchman's Plateau (Old City Walls)",
+      "short_description": "An elevated section of the ancient settlement walls of Old Port Harcourt, once a vantage point for community watchmen and spiritual guardians. It's a place to feel the watchful spirit of the ancestors.",
+      "subtype": "Sacred Mountains",
+      "address": "Near Marine Base, Old Port Harcourt Township, Rivers State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/23/Ancient_city_wall_in_Kano.jpg",
+      "tags": [
+        "ancient",
+        "guardianship",
+        "heritage"
+      ]
+    },
+    {
+      "id": "PHC_MTN_004",
+      "name": "Rumuola Celestial Observation Point",
+      "short_description": "A naturally elevated and clear area in Rumuola, historically used for observing celestial bodies and performing rituals under the open sky. It connects the earthly with the divine cosmos.",
+      "subtype": "Sacred Mountains",
+      "address": "Top of Oroazi Road, Rumuola, Port Harcourt, Rivers State",
+      "visiting_hours": "24:00-24:00 (best at dawn/dusk/night)",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Niger_Delta_landscape.jpg",
+      "tags": [
+        "celestial",
+        "observation",
+        "cosmic"
+      ]
+    },
+    {
+      "id": "PHC_REL_001",
+      "name": "Chief Amadi's Ancestral Tomb",
+      "short_description": "The revered burial site of a powerful founding chief, housed within a small, ornate shrine. Descendants and community members visit to pay respects, seek guidance, and honor their lineage.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Behind Rumuomasi Town Hall, Rumuomasi, Port Harcourt, Rivers State",
+      "visiting_hours": "10:00-16:00 (by arrangement)",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/8/87/Traditional_chief%27s_tomb_in_Nigeria.jpg",
+      "tags": [
+        "ancestral",
+        "lineage",
+        "respect"
+      ]
+    },
+    {
+      "id": "PHC_REL_002",
+      "name": "Shrine of the River Guardian",
+      "short_description": "A small, unassuming shrine by the riverbank, dedicated to the guardian spirit of the local waterways. It houses ancient carvings and offerings believed to protect fishermen and the community from water hazards.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Along Borokiri Waterfront, Port Harcourt, Rivers State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e5/African_shrine_with_artifacts.jpg",
+      "tags": [
+        "river spirits",
+        "protection",
+        "offerings"
+      ]
+    },
+    {
+      "id": "PHC_REL_003",
+      "name": "The Martyrs' Memorial Crypt",
+      "short_description": "A solemn underground crypt and memorial dedicated to early Christian missionaries and local converts who faced persecution for their faith. It is a site of deep reverence and spiritual inspiration.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Within Holy Trinity Cathedral compound, Diobu, Port Harcourt, Rivers State",
+      "visiting_hours": "09:00-17:00 (Mon-Sat)",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Memorial_to_the_slain.jpg",
+      "tags": [
+        "Christian",
+        "martyrs",
+        "faith"
+      ]
+    },
+    {
+      "id": "PHC_REL_004",
+      "name": "Eke Market Spirit House",
+      "short_description": "A small, traditional 'spirit house' near the bustling Eke market, containing relics and symbols believed to invite prosperity and fairness in trade. Market traders often make small offerings here.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Inside Mile 1 Market, Diobu, Port Harcourt, Rivers State",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free (offerings encouraged)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/3/30/Shrine_to_a_deity.jpg",
+      "tags": [
+        "market",
+        "prosperity",
+        "traditional"
+      ]
+    },
+    {
+      "id": "PHC_SPG_001",
+      "name": "Igwuocha Healing Spring",
+      "short_description": "A natural spring historically known for its pure, mineral-rich waters believed to possess healing and cleansing properties. Locals and visitors come to collect water and seek spiritual restoration.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Off Iwofe Road, Rumuolumeni, Port Harcourt, Rivers State",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Natural_spring_in_Nigeria.jpg",
+      "tags": [
+        "healing",
+        "cleansing",
+        "natural spring"
+      ]
+    },
+    {
+      "id": "PHC_SPG_002",
+      "name": "The Well of Whispers",
+      "short_description": "An ancient, hand-dug well in a secluded village square, where generations have come to offer prayers and 'whisper' their deepest desires to the water spirits. It's a place of quiet hope and communal tradition.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Central Square, Rumuokwuta Community, Port Harcourt, Rivers State",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Old_well_in_Africa.jpg",
+      "tags": [
+        "wishes",
+        "tradition",
+        "prayer"
+      ]
+    },
+    {
+      "id": "PHC_SPG_003",
+      "name": "Divine Mercy Aquifer Shrine",
+      "short_description": "A modern well established by a thriving church, where water is blessed and distributed to congregants for spiritual purification and divine favor. It symbolizes God's abundant provision.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Greater Grace Sanctuary, Peter Odili Road, Trans-Amadi, Port Harcourt, Rivers State",
+      "visiting_hours": "07:00-20:00",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Catholic_Church_in_Nigeria.jpg",
+      "tags": [
+        "Christian",
+        "purification",
+        "blessed water"
+      ]
+    },
+    {
+      "id": "PHC_SPG_004",
+      "name": "The Lagoon's Sacred Inlet",
+      "short_description": "A specific, tranquil inlet of a local creek, revered by the local fishing communities for its pristine waters and connection to benevolent water deities. Rituals are performed here for bountiful harvests and safe passage.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Near Okrika Jetty, Marine Base, Port Harcourt, Rivers State",
+      "visiting_hours": "06:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/29/Port_Harcourt_Waterfront.jpg",
+      "tags": [
+        "lagoon",
+        "water deities",
+        "fishing"
+      ]
+    },
+    {
+      "id": "PHC_MOD_001",
+      "name": "The Global Impact Sanctuary",
+      "short_description": "A massive, architecturally striking megachurch known for its vibrant contemporary worship services, prophetic declarations, and large-scale community outreach programs. It's a hub of dynamic spiritual energy and growth.",
+      "subtype": "Modern Energy Places",
+      "address": "East-West Road, Rumuchiorlu, Port Harcourt, Rivers State",
+      "visiting_hours": "Service times vary, check website",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Church_service_in_Nigeria.jpg",
+      "tags": [
+        "megachurch",
+        "worship",
+        "community outreach"
+      ]
+    },
+    {
+      "id": "PHC_MOD_002",
+      "name": "Innovation Hub of Spirit & Culture",
+      "short_description": "A contemporary cultural center and co-working space that actively promotes spiritual creativity, interfaith dialogue, and modern expressions of faith through art, tech, and community projects. It's where new spiritual ideas germinate.",
+      "subtype": "Modern Energy Places",
+      "address": "Sani Abacha Road, GRA Phase 3, Port Harcourt, Rivers State",
+      "visiting_hours": "09:00-21:00 (Mon-Sat)",
+      "entry_fee": "fixed amount (NGN 2000 for workshops)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/16/Port_Harcourt_city_park_2.jpg",
+      "tags": [
+        "innovation",
+        "interfaith",
+        "creative spirituality"
+      ]
+    },
+    {
+      "id": "PHC_MOD_003",
+      "name": "Global Faith Convergence Center",
+      "short_description": "A purpose-built, expansive center designed to host large-scale inter-denominational conferences, interfaith dialogues, and global spiritual summits. It fosters unity and understanding across diverse belief systems.",
+      "subtype": "Modern Energy Places",
+      "address": "Along NTA Road, Obio/Akpor, Port Harcourt, Rivers State",
+      "visiting_hours": "Event-based, check schedule",
+      "entry_fee": "Event-specific",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Abuja_National_Mosque%2C_Nigeria.jpg",
+      "tags": [
+        "interfaith",
+        "dialogue",
+        "global spirituality"
+      ]
+    },
+    {
+      "id": "PHC_MOD_004",
+      "name": "The Art & Soul Collective",
+      "short_description": "A vibrant contemporary art gallery and performance space that explores spiritual themes through modern artistic expressions, fostering reflection and emotional connection. It’s a dynamic space for spiritual introspection.",
+      "subtype": "Modern Energy Places",
+      "address": "Forces Avenue, Old GRA, Port Harcourt, Rivers State",
+      "visiting_hours": "11:00-19:00 (Tue-Sun)",
+      "entry_fee": "fixed amount (NGN 1500)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/6/67/Contemporary_Art_Gallery%2C_Lagos.jpg",
+      "tags": [
+        "art",
+        "performance",
+        "spiritual reflection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "San José",
+    "city_id": "2476"
+  },
+  "items": [
+    {
+      "id": "PR_001",
+      "name": "Trail of Silent Reflection",
+      "short_description": "A winding path through the Alum Rock Canyon, believed to foster deep introspection and connection with nature's quiet wisdom.",
+      "subtype": "Pilgrimage Routes",
+      "address": "15350 Alum Rock Ave, San Jose, CA 95127",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502790697967-1563f8e65306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHxwYXRoLGZvcmVzdCxzdHlsZWRfbmF0dXJlfHx8fHx8MTY3ODg4ODg4OHw&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature",
+        "meditation",
+        "hiking"
+      ]
+    },
+    {
+      "id": "PR_002",
+      "name": "Creek Walk of Ancestral Voices",
+      "short_description": "Following the historic Coyote Creek, this route honors the indigenous pathways and offers a peaceful journey for healing and remembrance.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Coyote Creek Trail, Tully Rd, San Jose, CA 95111",
+      "visiting_hours": "06:00-20:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547039014-99b3804d16ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fHBhdGglMjBmb3Jlc3R8ZW58MHx8fHwxNzAzNTM4NTg5fDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "indigenous heritage",
+        "nature walk",
+        "remembrance"
+      ]
+    },
+    {
+      "id": "PR_003",
+      "name": "Summit Serenity Loop",
+      "short_description": "A challenging ascent to a panoramic viewpoint, inspiring clarity of mind and a sense of spiritual accomplishment.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Sierra Rd, San Jose, CA 95132 (near San Jose Country Club)",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1528659858-a570077ecb47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fG1vdW50YWluJTIwdHJhaWx8ZW58MHx8fHwxNzAzNTM4Njg5fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "vista",
+        "endurance",
+        "spiritual journey"
+      ]
+    },
+    {
+      "id": "PR_004",
+      "name": "Garden of Inner Peace Path",
+      "short_description": "Meandering through a beautifully curated botanical garden, this path offers a gentle journey for introspection and finding inner calm.",
+      "subtype": "Pilgrimage Routes",
+      "address": "San Jose Municipal Rose Garden, Naglee Ave, San Jose, CA 95126",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1596765793448-b4b0e5170d32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTJ8fGdyZWVuJTIwdXJiYW4lMjBwYXRoJTIwZm9yZXN0fGVufDB8fHwxfDE3MDM1Mzg3NTJ8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "botanical",
+        "peace",
+        "reflection"
+      ]
+    },
+    {
+      "id": "HS_001",
+      "name": "Whispering Springs Sanctuary",
+      "short_description": "Tucked away in a secluded grove, this ancient spring is revered for its clear, healing waters and the tranquil energy it emanates.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Silver Creek Park, 1500 Silver Creek Valley Rd, San Jose, CA 95138",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1520110461821-b3b3e2b26002?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8bmF0dXJhbCUyMHNwcmluZ3xlbnwwfHwwfHwxNzAzNTM4ODAwfDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "healing water",
+        "nature",
+        "tranquility"
+      ]
+    },
+    {
+      "id": "HS_002",
+      "name": "Well of Renewal",
+      "short_description": "A historic well, once a crucial water source for early settlers, now a site for wishes and personal renewal, believed to cleanse the spirit.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Kelley Park, 1300 Senter Rd, San Jose, CA 95112",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1506085186716-11f8e6ce9a18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fGhsZWFsaW5nJTIwd2F0ZXJ8ZW58MHx8fHwxNzAzNTM4ODIwfDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "history",
+        "renewal",
+        "wishing"
+      ]
+    },
+    {
+      "id": "HS_003",
+      "name": "Oracle's Grotto Spring",
+      "short_description": "Deep within a shaded ravine, this spring flows from a small grotto, whispered to be a source of intuitive insight and ancient wisdom.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Hidden Valley Park, San Jose, CA 95121 (near Capitol Expy & Story Rd)",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1577716946487-3d149021e102?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTh8fHN0b25lJTIwd2VsbHxlbnwwfHwwfHwxNzAzNTM4ODY0fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "intuition",
+        "grotto",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "HS_004",
+      "name": "Mosswood Sanctuary Pool",
+      "short_description": "A small, moss-lined pool fed by underground springs, offering a serene spot for quiet contemplation and spiritual cleansing rituals.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Grandview Park, 1750 Grandview Dr, San Jose, CA 95125",
+      "visiting_hours": "10:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1533470703673-c6036814041b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8bW9zcyUyMHNwcmluZ3xlbnwwfHwwfHwxNzAzNTM4OTA4fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cleansing",
+        "contemplation",
+        "natural pool"
+      ]
+    },
+    {
+      "id": "MR_001",
+      "name": "Guardians of the Canyon",
+      "short_description": "Two prominent rock formations standing sentinel over a canyon, believed to protect the land and offer guidance to travelers.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Alum Rock Park, 15350 Alum Rock Ave, San Jose, CA 95127",
+      "visiting_hours": "07:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1559869281-085e78079a0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8c3RhbmRpbmclMjBzdG9uZXN8ZW58MHx8fHwxNzAzNTM4OTc0fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "natural landmark",
+        "protection",
+        "ancient"
+      ]
+    },
+    {
+      "id": "MR_002",
+      "name": "The Elder's Seat",
+      "short_description": "A large, weathered rock formation resembling a natural chair, said to be a gathering place for ancient wisdom and quiet contemplation.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Near Martial Cottle Park, 5283 Snell Ave, San Jose, CA 95136",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1529606869403-12f5188f6154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8cm9jayUyMGZvcm1hdGlvbnxlbnwwfHwwfHwxNzAzNTM5MDIwfDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "meditation",
+        "wisdom",
+        "natural sculpture"
+      ]
+    },
+    {
+      "id": "MR_003",
+      "name": "Whispering Stones of Mt. Hamilton",
+      "short_description": "A cluster of rugged boulders near the Lick Observatory, believed to resonate with the energies of the cosmos and the mountain itself.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Near Lick Observatory, 7281 Mt Hamilton Rd, San Jose, CA 95140",
+      "visiting_hours": "24/7 (road access permitting)",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1574163530663-e3871583e7cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fGJvdWxkZXJzJTIwZm9ybWF0aW9uMXxlbnwwfHwwfHwxNzAzNTM5MDY5fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cosmic energy",
+        "mountain",
+        "geological"
+      ]
+    },
+    {
+      "id": "MR_004",
+      "name": "The Sculpted Heart Stone",
+      "short_description": "A unique rock formation naturally eroded into a heart-like shape, symbolizing universal love and offering a place for emotional release.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Vasona Lake County Park, 333 Blossom Hill Rd, Los Gatos, CA 95032 (adjacent to San Jose)",
+      "visiting_hours": "08:00-sunset",
+      "entry_fee": "fixed amount (parking fee)",
+      "images": "https://images.unsplash.com/photo-1573031174620-3b95a022f183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTB8fHNjdWxwdGVkJTIwcm9ja3N8ZW58MHx8fHwxNzAzNTM5MTIxfDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "love",
+        "healing",
+        "natural wonder"
+      ]
+    },
+    {
+      "id": "CA_001",
+      "name": "Solstice Stone Circle",
+      "short_description": "An ancient-inspired stone circle in a clearing, precisely oriented to mark the solstices and equinoxes, celebrating celestial cycles.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Lake Cunningham Park, 2305 S White Rd, San Jose, CA 95148",
+      "visiting_hours": "06:00-sunset",
+      "entry_fee": "free (parking fee may apply)",
+      "images": "https://images.unsplash.com/photo-1517743123891-9c3f56860d5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fHN0b25lJTIwY2lyY2xlJTIwc3Vuc2V0fGVufDB8fHwxfDE3MDM1Mzk1NDl8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "astronomy",
+        "solstice",
+        "ancient cultures"
+      ]
+    },
+    {
+      "id": "CA_002",
+      "name": "Star Weaver's Plaza",
+      "short_description": "An open-air plaza featuring modern art installations that subtly align with major constellations, encouraging stargazing and cosmic contemplation.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Discovery Meadow, W San Carlos St, San Jose, CA 95110",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1555620986-e820067ff0c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8b2JzZXJ2YXRvcnklMjBkb21lfGVufDB8fHwxfDE3MDM1Mzk1OTl8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "stargazing",
+        "modern art",
+        "cosmic energy"
+      ]
+    },
+    {
+      "id": "CA_003",
+      "name": "Lunar Shadow Observatory",
+      "short_description": "A dedicated viewing platform and small monument aligned with significant lunar phases, offering a unique perspective on the moon's spiritual influence.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Emma Prusch Farm Park, 647 S King Rd, San Jose, CA 95116",
+      "visiting_hours": "07:00-22:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1610419141042-421712a20721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8YW5jaWVudCUyMHJ1aW5zJTIwY2VsZXN0aWFsJTIwYWxpZ25tZW50fGVufDB8fHwxfDE3MDM1Mzk3NzZ8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "lunar cycle",
+        "observatory",
+        "astrology"
+      ]
+    },
+    {
+      "id": "CA_004",
+      "name": "Sky Mirror Nexus",
+      "short_description": "A series of polished reflective surfaces in a precise configuration, designed to capture and display celestial movements throughout the day and night.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Senter Rd & Phelan Ave, San Jose, CA 95123 (open public space)",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1507721999472-8ee4421b52b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTh8fHN0YXJyeSUyMG5pZ2h0JTIwbGFuZHNjYXBlfGVufDB8fHwxfDE3MDM1Mzk4MjJ8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "light art",
+        "cosmic observation",
+        "reflection"
+      ]
+    },
+    {
+      "id": "RS_001",
+      "name": "Shrine of the Founders",
+      "short_description": "A solemn monument and small shrine dedicated to the early pioneers of San José, holding symbolic relics of their enduring spirit and sacrifice.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Oak Hill Memorial Park, 300 Curtner Ave, San Jose, CA 95125",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594916847844-3d0d8f0f0891?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Nnx8YW5jaWVudCUyMHRvbWIlMjBpbnRlcmlvcnxlbnwwfHwwfHwxNzAzNTM5ODgzfDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "history",
+        "remembrance",
+        "pioneer spirit"
+      ]
+    },
+    {
+      "id": "RS_002",
+      "name": "Eternal Flame Cenotaph",
+      "short_description": "A modern cenotaph with an eternal flame, honoring all who have contributed to the cultural fabric of San José, holding symbolic 'relics' of community stories.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Plaza de Cesar Chavez, 194 S Market St, San Jose, CA 95113",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1627962459807-62a93c761b07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8c2hyaW5lfGVufDB8fHwxfDE3MDM1Mzk5MzV8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "community",
+        "heritage",
+        "memorial"
+      ]
+    },
+    {
+      "id": "RS_003",
+      "name": "Spirit Garden Mausoleum",
+      "short_description": "Within a peaceful garden, this small mausoleum houses a collection of personal effects and stories, representing the collective memory of local families.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Calvary Catholic Cemetery, 2650 Berryessa Rd, San Jose, CA 95132",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1565551322002-38d586790757?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8OHx8Y2VtZXRlcnklMjBtZW1vcmlhbHxlbnwwfHwwfHwxNzAzNTM5OTcyfDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestors",
+        "memory",
+        "family heritage"
+      ]
+    },
+    {
+      "id": "RS_004",
+      "name": "The Vessel of Dreams",
+      "short_description": "A contemporary art installation resembling an ancient reliquary, containing symbolic 'relics' of hopes and aspirations of the city's inhabitants, renewed annually.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "San Jose City Hall Plaza, 200 E Santa Clara St, San Jose, CA 95113",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1632598380481-2244958f0e57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8cmVsaXF1YXJ5fGVufDB8fHwxfDE3MDM1NDA1Njl8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "contemporary art",
+        "aspirations",
+        "public monument"
+      ]
+    },
+    {
+      "id": "OS_001",
+      "name": "Cave of Silent Whispers",
+      "short_description": "A small, secluded grotto, believed to amplify intuitive thoughts and offer moments of profound clarity for those seeking guidance.",
+      "subtype": "Oracle Sites",
+      "address": "San Jose Foothills Park, San Jose, CA 95120 (specific trail access)",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1521799279585-715b7b90b1c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTh8fGNhdmUlMjBlbnRyYW5jZXxlbnwwfHwwfHwxNzAzNTQwMTc3fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "intuition",
+        "seclusion",
+        "guidance"
+      ]
+    },
+    {
+      "id": "OS_002",
+      "name": "The Oracle Redwood Grove",
+      "short_description": "An ancient grove of redwood trees, where the collective energy of the forest is said to provide insights and answers to life's dilemmas.",
+      "subtype": "Oracle Sites",
+      "address": "San Jose Japanese Friendship Garden, 1650 Senter Rd, San Jose, CA 95112",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1496307613580-c088c5efc051?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjB8fG15c3RpY2FsJTIwZm9yZXN0fGVufDB8fHwxfDE3MDM1NDAyMjR8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature wisdom",
+        "redwoods",
+        "introspection"
+      ]
+    },
+    {
+      "id": "OS_003",
+      "name": "Stargazer's Point",
+      "short_description": "An elevated, open-air site designed for nocturnal contemplation, where the vastness of the cosmos is believed to reveal personal destinies and universal truths.",
+      "subtype": "Oracle Sites",
+      "address": "Communication Hill, 3050 Communications Way, San Jose, CA 95136",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1601672322079-24706596377e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8YWx0YXIlMjBzdG9uZXN8ZW58MHx8fHwxNzAzNTQwMjgxfDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "destiny",
+        "stargazing",
+        "cosmic insight"
+      ]
+    },
+    {
+      "id": "OS_004",
+      "name": "The Crystal Oracle Chamber",
+      "short_description": "A modern architectural space adorned with large, naturally occurring quartz crystals, said to enhance psychic abilities and offer profound spiritual insights.",
+      "subtype": "Oracle Sites",
+      "address": "Near Rosicrucian Egyptian Museum, 1660 Park Ave, San Jose, CA 95191",
+      "visiting_hours": "10:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1557088497-7590d96d744b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTd8fGFuY2llbnQlMjBzdG9uZSUyMGNpcmNsZXxlbnwwfHwwfHwxNzAzNTQwMzE5fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "crystals",
+        "psychic",
+        "modern spirituality"
+      ]
+    },
+    {
+      "id": "ME_001",
+      "name": "The Harmonic Center",
+      "short_description": "A purpose-built community space featuring sound baths, meditation workshops, and energy healing sessions, designed for holistic well-being.",
+      "subtype": "Modern Energy Places",
+      "address": "123 Harmony Way, San Jose, CA 95110",
+      "visiting_hours": "09:00-20:00",
+      "entry_fee": "fixed amount (for workshops)",
+      "images": "https://images.unsplash.com/photo-1541469733276-88a38a166258?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8bW9kZXJuJTIwbWVkaXRhdGlvbiUyMHJvb218ZW58MHx8fHwxNzAzNTQwMzg4fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wellness",
+        "meditation",
+        "community"
+      ]
+    },
+    {
+      "id": "ME_002",
+      "name": "Zen Flow Garden",
+      "short_description": "A contemporary garden meticulously designed with minimalist landscaping and water features, promoting mindfulness and a sense of calm in urban life.",
+      "subtype": "Modern Energy Places",
+      "address": "200 Blossom Hill Rd, San Jose, CA 95123 (public garden space)",
+      "visiting_hours": "08:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1544976450-71705e46860d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fHplbiUyMGdhcmRlbnxlbnwwfHwwfHwxNzAzNTQwNDI4fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "zen",
+        "mindfulness",
+        "urban oasis"
+      ]
+    },
+    {
+      "id": "ME_003",
+      "name": "Sanctuary of Light and Sound",
+      "short_description": "An architectural marvel utilizing natural light and acoustic design to create a deeply immersive and transformative space for personal reflection and spiritual connection.",
+      "subtype": "Modern Energy Places",
+      "address": "1000 Celestial Ave, San Jose, CA 95112",
+      "visiting_hours": "10:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1582218764025-ef4a02d08892?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTZ8fHBlYWNlZnVsJTIwYXJjaGl0ZWN0dXJlfGVufDB8fHwxfDE3MDM1NDA0NjR8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "architecture",
+        "contemplation",
+        "sensory experience"
+      ]
+    },
+    {
+      "id": "ME_004",
+      "name": "The Mindful Maker's Studio",
+      "short_description": "A creative hub offering workshops in mindful crafting, art therapy, and expressive movement, fostering spiritual growth through artistic expression.",
+      "subtype": "Modern Energy Places",
+      "address": "450 Creative Dr, San Jose, CA 95134",
+      "visiting_hours": "11:00-19:00",
+      "entry_fee": "fixed amount (for workshops)",
+      "images": "https://images.unsplash.com/photo-1579540092285-b9f8f485121b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTh8fGhlYWxpbmclMjBjZW50ZXJ8ZW58MHx8fHwxNzAzNTQwNTMyfDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "creativity",
+        "art therapy",
+        "self-expression"
+      ]
+    },
+    {
+      "id": "SM_001",
+      "name": "Mount Satori Vista",
+      "short_description": "A designated viewpoint on a prominent hill, offering expansive views and a serene atmosphere, conducive to meditation and achieving moments of enlightenment.",
+      "subtype": "Sacred Mountains",
+      "address": "East Foothills Preserve, San Jose, CA 95140 (access via San Felipe Rd)",
+      "visiting_hours": "Sunrise-Sunset",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502657875953-b3c9f7a77b7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjB8fG1vdW50YWluJTIwdG9wJTIwdmlzdGF8ZW58MHx8fHwxNzAzNTQwNjk0fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "enlightenment",
+        "meditation",
+        "scenic view"
+      ]
+    },
+    {
+      "id": "SM_002",
+      "name": "Oak Hill Elder Peak",
+      "short_description": "A gentle peak revered by local indigenous communities for its ancient oak trees and a sense of enduring ancestral presence.",
+      "subtype": "Sacred Mountains",
+      "address": "Cahalan Park, 2750 Cahalan Ave, San Jose, CA 95121",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1505373351326-0e1b32d29486?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTF8fGhpbGxzJTIwc3Vuc2V0fGVufDB8fHwxfDE3MDM1NDA4MjB8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "indigenous",
+        "ancestral",
+        "nature reverence"
+      ]
+    },
+    {
+      "id": "SM_003",
+      "name": "Skyline Ridge Sanctuary",
+      "short_description": "Located on the Santa Cruz Mountains foothills, this ridge offers a spiritual retreat with commanding views, believed to connect earth and sky energies.",
+      "subtype": "Sacred Mountains",
+      "address": "Skyline Blvd, San Jose, CA 95120 (near Hicks Rd junction)",
+      "visiting_hours": "Sunrise-Sunset",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517400508546-d4444983084d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTN8fGZvcmVzdCUyMG1vdW50YWlufGVufDB8fHwxfDE3MDM1NDA3NzJ8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "nature retreat",
+        "earth energy",
+        "skyline"
+      ]
+    },
+    {
+      "id": "SM_004",
+      "name": "Fog Whisperer's Summit",
+      "short_description": "A mystical peak often shrouded in fog, creating an ethereal atmosphere that invites deep reflection and connection to the subtle energies of the landscape.",
+      "subtype": "Sacred Mountains",
+      "address": "San Jose Open Space Preserve, San Jose, CA 95120 (access point)",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510493864073-22878d672855?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8OHx8Zm9nZ3klMjBtb3VudGFpbnxlbnwwfHwwfHwxNzAzNTQwODczfDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ethereal",
+        "reflection",
+        "nature spirituality"
+      ]
+    },
+    {
+      "id": "DP_001",
+      "name": "The Sun-Kissed Boulders",
+      "short_description": "A collection of sun-baked boulders in a sparse, rocky area, believed to absorb and radiate powerful solar energy for rejuvenation.",
+      "subtype": "Desert Power Sites",
+      "address": "Santa Teresa County Park, 2600 Santa Teresa Blvd, San Jose, CA 95123",
+      "visiting_hours": "08:00-sunset",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517448550269-ad195e683e9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8YXJpZCUyMGxhbmRzY2FwZXxlbnwwfHwwfHwxNzAzNTQwOTQxfDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "solar energy",
+        "rejuvenation",
+        "rocky landscape"
+      ]
+    },
+    {
+      "id": "DP_002",
+      "name": "Chaparral Spirit Ridge",
+      "short_description": "A ridge line characterized by drought-resistant chaparral, seen as a symbol of resilience and a place to connect with the raw, untamed spirit of the land.",
+      "subtype": "Desert Power Sites",
+      "address": "Rancho San Vicente Open Space Preserve, 1799 Mt Hamilton Rd, San Jose, CA 95140",
+      "visiting_hours": "Sunrise-Sunset",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1520625902268-dfc6f78f85f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjB8fGRyeSUyMHJvY2slMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzAzNTQxMDE1fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "resilience",
+        "wilderness",
+        "earth connection"
+      ]
+    },
+    {
+      "id": "DP_003",
+      "name": "Petroglyph Point",
+      "short_description": "A site with ancient-inspired rock carvings depicting native spiritual symbols, offering a link to the profound power and stories of the land's original inhabitants.",
+      "subtype": "Desert Power Sites",
+      "address": "Near Hellyer Park, 985 Hellyer Ave, San Jose, CA 95138",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1589369989679-b14371465228?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fG5hdGl2ZSUyMGFtZXJpY2FuJTIwcm9jayUyMGFydHxlbnwwfHwwfHwxNzAzNTQxMTQ2fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "petroglyphs",
+        "indigenous art",
+        "ancient wisdom"
+      ]
+    },
+    {
+      "id": "DP_004",
+      "name": "Canyon of Echoes",
+      "short_description": "A secluded, dry canyon with unique acoustics, allowing whispers and chants to resonate, creating an immersive experience for spiritual resonance.",
+      "subtype": "Desert Power Sites",
+      "address": "Coyote Valley Open Space Preserve, 9380 Malech Rd, San Jose, CA 95138",
+      "visiting_hours": "08:00-sunset",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1557930101-523c6c06d09e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8N3x8Y2FueW9uJTIwd2FsbHN8ZW58MHx8fHwxNzAzNTQxMTk3fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "acoustics",
+        "spiritual resonance",
+        "sound healing"
+      ]
+    },
+    {
+      "id": "PY_001",
+      "name": "The Visionary Pyramid",
+      "short_description": "A striking modern architectural structure with a pyramidal roofline, designed as a center for innovation and future-oriented spiritual thought.",
+      "subtype": "Pyramids",
+      "address": "2020 Visionary Way, San Jose, CA 95131",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "fixed amount ($10)",
+      "images": "https://images.unsplash.com/photo-1574780516629-9e863372c057?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fHB5cmFtaWRlJTIwYnVpbGRpbmd8ZW58MHx8fHwxNzAzNTQxMjg2fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "modern architecture",
+        "innovation",
+        "future studies"
+      ]
+    },
+    {
+      "id": "PY_002",
+      "name": "Glass Pyramid of Contemplation",
+      "short_description": "A tranquil, glass-sided pyramid offering a unique space for quiet contemplation and meditation, allowing natural light to enhance spiritual clarity.",
+      "subtype": "Pyramids",
+      "address": "San Jose Heritage Rose Garden, 432 Coleman Ave, San Jose, CA 95110",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549495765-a864708779b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8Z2xhc3MlMjBweXJhbWlkfGVufDB8fHwxfDE3MDM1NDE0MzF8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "meditation",
+        "glass architecture",
+        "light therapy"
+      ]
+    },
+    {
+      "id": "PY_003",
+      "name": "Ancient Mound of the Ohlone",
+      "short_description": "An preserved indigenous ceremonial mound, predating European settlement, serving as a sacred site for remembering the Ohlone people and their deep connection to the land.",
+      "subtype": "Pyramids",
+      "address": "Near Ohlone Chynoweth Park, 2333 Cottle Ave, San Jose, CA 95125",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1599420359858-a5c9f50e7a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8OXx8YWJzdHJhY3QlMjBweXJhbWlkfGVufDB8fHwxfDE3MDM1NDE0ODF8MA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "indigenous history",
+        "ceremonial site",
+        "ohlone heritage"
+      ]
+    },
+    {
+      "id": "PY_004",
+      "name": "The Geo-Spiritual Pavilion",
+      "short_description": "A geometric art installation with a pyramidal form, designed to channel natural energies and provide a focal point for group spiritual practices and artistic expression.",
+      "subtype": "Pyramids",
+      "address": "Symphony Park, 275 S 1st St, San Jose, CA 95113",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1621258931444-460f3f6c827b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTR8fGdlb21ldHJpYyUyMHN0cnVjdHVyZXN8ZW58MHx8fHwxNzAzNTQxNTM0fDA&lib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "geometric art",
+        "public space",
+        "spiritual gathering"
+      ]
+    }
+  ]
+}

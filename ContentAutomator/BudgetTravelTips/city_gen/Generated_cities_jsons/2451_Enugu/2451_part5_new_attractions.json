@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Enugu",
+    "city_id": "2451"
+  },
+  "items": [
+    {
+      "id": "EGC001",
+      "name": "Zenith Art Gallery & Studio",
+      "short_description": "A vibrant hub showcasing contemporary Nigerian art, featuring rotating exhibitions, interactive workshops, and artist meet-and-greets. It's a fresh take on Enugu's art scene.",
+      "address": "15 Ogui Road, Enugu",
+      "opening_hours": "10:00-19:00 (Tuesday-Sunday)",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/800x600?art,gallery,modern",
+      "tags": [
+        "art",
+        "culture",
+        "exhibition"
+      ]
+    },
+    {
+      "id": "EGC002",
+      "name": "Harmony Hills Eco-Park",
+      "short_description": "Escape to nature at this serene eco-park offering well-maintained hiking trails, tranquil picnic spots, and opportunities for birdwatching. A perfect green lung for the city.",
+      "address": "Off Enugu-Port Harcourt Expressway, Emene",
+      "opening_hours": "07:00-18:00",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/800x600?nature,park,hiking",
+      "tags": [
+        "nature",
+        "outdoors",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "EGC003",
+      "name": "The Coal City Food Hub",
+      "short_description": "A bustling culinary destination featuring diverse local and international street food vendors, gourmet stalls, and regular live music events. Taste the world in Enugu!",
+      "address": "22 Presidential Road, Enugu",
+      "opening_hours": "11:00-22:00",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/800x600?food,market,streetfood",
+      "tags": [
+        "food",
+        "dining",
+        "localcuisine"
+      ]
+    },
+    {
+      "id": "EGC004",
+      "name": "Innovate Enugu Centre",
+      "short_description": "A state-of-the-art tech hub and co-working space designed to foster innovation, offering modern facilities, tech labs, and a calendar of entrepreneurial workshops.",
+      "address": "Garden Avenue, Independence Layout",
+      "opening_hours": "08:00-21:00 (Monday-Saturday)",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/800x600?tech,coworking,modernoffice",
+      "tags": [
+        "technology",
+        "innovation",
+        "workspace"
+      ]
+    },
+    {
+      "id": "EGC005",
+      "name": "Safari Adventure Park Enugu",
+      "short_description": "An exhilarating family-friendly adventure park featuring zip lines, challenging obstacle courses, and a dedicated, safe play area for younger children. Thrills for all ages!",
+      "address": "Off Nike Lake Road, Trans-Ekulu",
+      "opening_hours": "09:00-18:00",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/800x600?adventure,themepark,kids",
+      "tags": [
+        "family",
+        "adventure",
+        "recreation"
+      ]
+    },
+    {
+      "id": "EGC006",
+      "name": "The Anthill Suites & Lounge",
+      "short_description": "A stylish new boutique hotel renowned for its sophisticated rooftop lounge, offering panoramic city views and a chic ambiance perfect for evening relaxation. Public access to lounge.",
+      "address": "8 Udoji Street, New Haven",
+      "opening_hours": "24/7 (Lounge: 17:00-00:00)",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/800x600?hotel,rooftop,lounge",
+      "tags": [
+        "luxury",
+        "nightlife",
+        "dining"
+      ]
+    },
+    {
+      "id": "EGC007",
+      "name": "Enugu Storytelling Hub",
+      "short_description": "An interactive cultural center dedicated to preserving and sharing Enugu's rich history and vibrant traditions through engaging exhibitions, performances, and guided heritage walks.",
+      "address": "Old Government House Road, GRA",
+      "opening_hours": "09:00-17:00 (Monday-Saturday)",
+      "price_level": "cheap",
+      "images": "https://source.unsplash.com/random/800x600?history,culture,museum",
+      "tags": [
+        "history",
+        "culture",
+        "education"
+      ]
+    },
+    {
+      "id": "EGC008",
+      "name": "Artisan's Village Enugu",
+      "short_description": "A dynamic community market showcasing the incredible talent of local artisans, featuring handmade crafts, traditional Nigerian textiles, and live craft demonstrations. Discover unique souvenirs.",
+      "address": "Agbani Road, Gariki",
+      "opening_hours": "10:00-18:00 (Wednesday-Sunday)",
+      "price_level": "free",
+      "images": "https://source.unsplash.com/random/800x600?crafts,market,localart",
+      "tags": [
+        "shopping",
+        "localcrafts",
+        "souvenirs"
+      ]
+    },
+    {
+      "id": "EGC009",
+      "name": "The Sapphire Eatery",
+      "short_description": "An upscale fine dining restaurant offering an exquisite fusion of Nigerian and continental cuisine in a sleek, contemporary setting. Perfect for special occasions and gourmet experiences.",
+      "address": "Polo Park Mall Complex, Ebeano Tunnel",
+      "opening_hours": "12:00-22:00",
+      "price_level": "expensive",
+      "images": "https://source.unsplash.com/random/800x600?restaurant,finedining,moderncuisine",
+      "tags": [
+        "fine dining",
+        "gourmet",
+        "restaurant"
+      ]
+    },
+    {
+      "id": "EGC010",
+      "name": "FunZone Arcade & Bowling",
+      "short_description": "Enugu's newest indoor entertainment complex, featuring state-of-the-art arcade games, professional bowling lanes, and a lively soft-play area for younger children. Endless family fun.",
+      "address": "Trans-Ekulu Industrial Layout",
+      "opening_hours": "10:00-21:00",
+      "price_level": "moderate",
+      "images": "https://source.unsplash.com/random/800x600?arcade,bowling,familyfun",
+      "tags": [
+        "family",
+        "entertainment",
+        "games"
+      ]
+    }
+  ]
+}

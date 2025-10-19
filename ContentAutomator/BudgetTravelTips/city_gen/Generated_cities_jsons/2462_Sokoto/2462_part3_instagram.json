@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Sokoto",
+    "city_id": "2462"
+  },
+  "items": [
+    {
+      "id": "SokotoGarden1",
+      "name": "Shehu Shagari University Botanical Garden",
+      "short_description": "A serene campus oasis, offering a diverse collection of local flora and vibrant seasonal blooms perfect for a tranquil escape.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Within Shehu Shagari University campus",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/1638634/pexels-photo-1638634.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "campus life",
+        "green space",
+        "flora"
+      ]
+    },
+    {
+      "id": "SokotoGarden2",
+      "name": "Sultan's Palace Secret Courtyard Garden",
+      "short_description": "Discover a hidden gem within the historic Sultan's Palace, featuring traditional landscape design and fragrant indigenous flowers.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Sultan's Palace grounds (requires guided tour access)",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Northern_Nigerian_Compound_2.jpg",
+      "tags": [
+        "historical",
+        "royal garden",
+        "hidden gem"
+      ]
+    },
+    {
+      "id": "SokotoGarden3",
+      "name": "Giginya Memorial Park & Arboretum",
+      "short_description": "A sprawling public park with shaded pathways, dotted with various tree species and small, vibrant flowerbeds. Ideal for picnics and leisurely strolls.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Near Giginya Road",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/10313093/pexels-photo-10313093.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "public park",
+        "family friendly",
+        "nature walk"
+      ]
+    },
+    {
+      "id": "SokotoGarden4",
+      "name": "Khalifa's Herb Garden",
+      "short_description": "A unique garden focusing on traditional medicinal plants and culinary herbs, offering a sensory experience and educational insights.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Off Old Airport Road",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/1070532/pexels-photo-1070532.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "herbal",
+        "medicinal plants",
+        "educational"
+      ]
+    },
+    {
+      "id": "SokotoArch1",
+      "name": "Sokoto State Secretariat Complex",
+      "short_description": "A striking ensemble of contemporary buildings with clean lines and functional design, reflecting modern governance in the city.",
+      "subtype": "Modern Architecture",
+      "location_hint": "City Center, near Government House",
+      "best_time": "Daytime",
+      "images": "https://images.pexels.com/photos/13599426/pexels-photo-13599426.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "government building",
+        "contemporary",
+        "urban"
+      ]
+    },
+    {
+      "id": "SokotoArch2",
+      "name": "Usman Danfodiyo University Library",
+      "short_description": "An impressive academic structure blending modern aesthetics with functional design, a beacon of learning on the university campus.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Usman Danfodiyo University Main Campus",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/16768378/pexels-photo-16768378/free-photo-of-university-building.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "university",
+        "educational",
+        "sleek design"
+      ]
+    },
+    {
+      "id": "SokotoArch3",
+      "name": "Sokoto Modern Civic Center",
+      "short_description": "A newly built cultural and convention center, featuring bold geometric shapes and expansive glass facades, a hub for events and exhibitions.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Along Airport Road",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/13463994/pexels-photo-13463994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "civic",
+        "event venue",
+        "architectural marvel"
+      ]
+    },
+    {
+      "id": "SokotoArch4",
+      "name": "CBN Sokoto Branch Building",
+      "short_description": "The Central Bank of Nigeria's local branch showcases a robust and imposing modern design, a symbol of economic stability.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Off Sultan Abubakar Road",
+      "best_time": "Daytime",
+      "images": "https://images.pexels.com/photos/2790906/pexels-photo-2790906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "corporate",
+        "imposing",
+        "urban landscape"
+      ]
+    },
+    {
+      "id": "SokotoAlley1",
+      "name": "Old City Market Backstreets",
+      "short_description": "Wander through the labyrinthine alleys behind the bustling main market, revealing traditional crafts, local life, and unexpected architectural details.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Behind Kware Market",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/1473188/pexels-photo-1473188.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "market life",
+        "traditional",
+        "street photography"
+      ]
+    },
+    {
+      "id": "SokotoAlley2",
+      "name": "Gidan Rumfa's Secluded Courtyard",
+      "short_description": "A tranquil inner courtyard within one of Sokoto's oldest traditional compounds, offering a glimpse into private domestic architecture and peaceful respite.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Near Sultan Bello Mosque (seek local guidance)",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kano_walled_city.jpg/1280px-Kano_walled_city.jpg",
+      "tags": [
+        "historic home",
+        "peaceful",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "SokotoAlley3",
+      "name": "Artisan's Guild Lane",
+      "short_description": "This narrow lane is home to various artisan workshops, where the sounds of crafting fill the air and vibrant products spill onto the pathways.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Off Emir Yahaya Road",
+      "best_time": "Daytime",
+      "images": "https://images.pexels.com/photos/5431665/pexels-photo-5431665.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "craftsmanship",
+        "local art",
+        "bustling"
+      ]
+    },
+    {
+      "id": "SokotoAlley4",
+      "name": "Mud-Brick Residence Alleyways",
+      "short_description": "Explore the atmospheric, sun-drenched alleys between ancient mud-brick homes, showcasing the timeless architectural traditions of Sokoto.",
+      "subtype": "Hidden Alleys & Courtyards",
+      "location_hint": "Old Kofar Rini neighborhood",
+      "best_time": "Late Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Malian_mud-brick_houses.jpg/1280px-Malian_mud-brick_houses.jpg",
+      "tags": [
+        "traditional architecture",
+        "historic",
+        "authentic"
+      ]
+    },
+    {
+      "id": "SokotoLand1",
+      "name": "Sultan's Palace Gate",
+      "short_description": "The magnificent main entrance to the Sultan's Palace, an emblem of traditional authority and grand Islamic architecture in Sokoto.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Sultan Abubakar Road",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sultan_of_Sokoto%27s_Palace%2C_Sokoto.jpg/1280px-Sultan_of_Sokoto%27s_Palace%2C_Sokoto.jpg",
+      "tags": [
+        "royal",
+        "historic",
+        "architecture"
+      ]
+    },
+    {
+      "id": "SokotoLand2",
+      "name": "Sokoto Central Mosque",
+      "short_description": "A grand and majestic mosque, an important religious and architectural centerpiece for the city and a symbol of Islamic faith.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "City Center, opposite Sultan's Palace",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sokoto_Mosque.jpg/1280px-Sokoto_Mosque.jpg",
+      "tags": [
+        "religious site",
+        "grand",
+        "spiritual"
+      ]
+    },
+    {
+      "id": "SokotoLand3",
+      "name": "Shehu Shagari's Mausoleum",
+      "short_description": "The final resting place of Nigeria's First Executive President, a respectful and historically significant monument in Sokoto.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Sokoto bypass road",
+      "best_time": "Daytime",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/National_Assembly_Complex_2.jpg/1280px-National_Assembly_Complex_2.jpg",
+      "tags": [
+        "memorial",
+        "presidential",
+        "historical"
+      ]
+    },
+    {
+      "id": "SokotoLand4",
+      "name": "Hubbaren Shehu (Tomb of Shehu Usmanu Danfodiyo)",
+      "short_description": "A sacred and revered site, the tomb of the founder of the Sokoto Caliphate, drawing pilgrims and visitors interested in Islamic history.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Within the heart of Sokoto Old City",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wurno_Sultan_Palace_3.jpg/1280px-Wurno_Sultan_Palace_3.jpg",
+      "tags": [
+        "pilgrimage",
+        "religious history",
+        "sacred"
+      ]
+    },
+    {
+      "id": "SokotoFest1",
+      "name": "Eid al-Adha (Sallah Durbar)",
+      "short_description": "Witness the spectacular Sallah Durbar, a vibrant procession of emirs and horsemen adorned in colourful regalia, celebrating Eid with pomp and pageantry.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Sultan's Palace Square to Giginya Stadium",
+      "best_time": "Morning (Eid day)",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Durbar_Festival_in_Kano.jpg/1280px-Durbar_Festival_in_Kano.jpg",
+      "tags": [
+        "cultural festival",
+        "durbar",
+        "equestrian"
+      ]
+    },
+    {
+      "id": "SokotoFest2",
+      "name": "Maulud (Prophet's Birthday) Celebrations",
+      "short_description": "Experience the peaceful and spiritual gatherings, recitations, and processions commemorating the birth of Prophet Muhammad, often accompanied by traditional music.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Various mosques and community centers",
+      "best_time": "Night",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Maulud_celebration_in_Nigeria.jpg/1024px-Maulud_celebration_in_Nigeria.jpg",
+      "tags": [
+        "religious celebration",
+        "spiritual",
+        "community event"
+      ]
+    },
+    {
+      "id": "SokotoFest3",
+      "name": "Sokoto State Cultural Festival",
+      "short_description": "An annual showcase of diverse local traditions, arts, crafts, music, and dance from across Sokoto State, celebrating its rich heritage.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Sokoto Cultural Center / Giginya Stadium",
+      "best_time": "Daytime (annual)",
+      "images": "https://images.pexels.com/photos/10143891/pexels-photo-10143891.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "cultural showcase",
+        "traditional dance",
+        "local crafts"
+      ]
+    },
+    {
+      "id": "SokotoFest4",
+      "name": "Usman Danfodiyo University Convocation",
+      "short_description": "A vibrant event marking academic achievement, with colorful regalia, proud graduates, and celebratory atmosphere on campus.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Usman Danfodiyo University",
+      "best_time": "Daytime (annual)",
+      "images": "https://images.pexels.com/photos/3184611/pexels-photo-3184611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "academic",
+        "graduation",
+        "campus event"
+      ]
+    },
+    {
+      "id": "SokotoRoof1",
+      "name": "Giginya Hotel Rooftop Terrace",
+      "short_description": "Enjoy panoramic views of Sokoto city from this elevated terrace, perfect for sunset drinks and watching the city lights come alive.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Giginya Hotel, Giginya Road",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "hotel bar",
+        "cityscape",
+        "panoramic view"
+      ]
+    },
+    {
+      "id": "SokotoRoof2",
+      "name": "Old Sokoto City Wall Overlook",
+      "short_description": "Gain a unique perspective over parts of the historic mud-brick city from a restored section of the ancient city wall, offering a glimpse into the past.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Near Kofar Rini Gate (seek local guide)",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kano_walled_city.jpg/1280px-Kano_walled_city.jpg",
+      "tags": [
+        "historical site",
+        "old city",
+        "unique perspective"
+      ]
+    },
+    {
+      "id": "SokotoRoof3",
+      "name": "Northern Classic Cafe's Upper Deck",
+      "short_description": "A cozy café with an outdoor upper deck, providing a pleasant spot to sip local tea and observe daily life on the streets below.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Near Emir Yahaya Road",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/386009/pexels-photo-386009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "cafe",
+        "street view",
+        "relaxing"
+      ]
+    },
+    {
+      "id": "SokotoRoof4",
+      "name": "Sunset Point at Hubbaren Shehu",
+      "short_description": "From a slightly elevated point near the Hubbaren Shehu complex, capture breathtaking sunset views over Sokoto's traditional architecture.",
+      "subtype": "Rooftop Views",
+      "location_hint": "Overlooking Hubbaren Shehu complex",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/13599026/pexels-photo-13599026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "historic view",
+        "cityscape",
+        "golden hour"
+      ]
+    },
+    {
+      "id": "SokotoFood1",
+      "name": "Masa Queen's Spot",
+      "short_description": "Savour authentic masa (rice cakes) served with a choice of soup or groundnut oil, a beloved local delicacy prepared fresh on the spot.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Opposite Kware Market entrance",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/6803738/pexels-photo-6803738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "street food",
+        "local delicacy",
+        "breakfast"
+      ]
+    },
+    {
+      "id": "SokotoFood2",
+      "name": "Mama Halima's Tuwo Shinkafa",
+      "short_description": "A legendary eatery for traditional Tuwo Shinkafa (rice swallow) with various local soups like miyan kuka or miyan taushe, offering true Hausa flavors.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Along Airport Road (look for the bustling crowd)",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tuwo_Shinkafa.jpg/1280px-Tuwo_Shinkafa.jpg",
+      "tags": [
+        "traditional cuisine",
+        "authentic",
+        "hearty meal"
+      ]
+    },
+    {
+      "id": "SokotoFood3",
+      "name": "Sokoto Suya Junction",
+      "short_description": "Experience the smoky aroma and mouth-watering taste of perfectly grilled suya (spiced meat skewers), a popular evening street food.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Near Giginya Roundabout",
+      "best_time": "Night",
+      "images": "https://images.pexels.com/photos/7473060/pexels-photo-7473060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "barbecue",
+        "street food",
+        "nightlife"
+      ]
+    },
+    {
+      "id": "SokotoFood4",
+      "name": "Bissap Brews & Bites",
+      "short_description": "A modern spot offering refreshing local drinks like Zobo (hibiscus tea) and Kunun Zaki (millet drink) alongside light snacks in a relaxed ambiance.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Sokoto New Layout",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/5690022/pexels-photo-5690022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "local drinks",
+        "cafe",
+        "refreshments"
+      ]
+    },
+    {
+      "id": "SokotoHotel1",
+      "name": "Sokoto Heritage Inn",
+      "short_description": "A charming boutique hotel designed in traditional Hausa architectural style, offering cultural immersion with modern comforts and personalized service.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Off Sultan Abubakar Road",
+      "best_time": "Daytime",
+      "images": "https://images.pexels.com/photos/2596489/pexels-photo-2596489.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "boutique hotel",
+        "cultural experience",
+        "traditional design"
+      ]
+    },
+    {
+      "id": "SokotoHotel2",
+      "name": "The Caliphate Suites",
+      "short_description": "Luxury accommodations blending contemporary elegance with subtle nods to local heritage, featuring spacious rooms and impeccable service.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Sokoto New Layout",
+      "best_time": "Night",
+      "images": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "luxury",
+        "modern comfort",
+        "upscale stay"
+      ]
+    },
+    {
+      "id": "SokotoHotel3",
+      "name": "Riverview Guest House",
+      "short_description": "A cozy guest house offering picturesque views of the Sokoto River, with a tranquil garden and a homely atmosphere.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Near Sokoto River banks",
+      "best_time": "Sunset",
+      "images": "https://images.pexels.com/photos/1018693/pexels-photo-1018693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "river view",
+        "peaceful",
+        "homely"
+      ]
+    },
+    {
+      "id": "SokotoHotel4",
+      "name": "Nomad's Haven Eco-Lodge",
+      "short_description": "An eco-friendly retreat on the outskirts of Sokoto, designed with sustainable materials and offering a peaceful escape into nature, ideal for stargazing.",
+      "subtype": "Unique Hotels & Stays",
+      "location_hint": "Just outside Sokoto city limits",
+      "best_time": "Night",
+      "images": "https://images.pexels.com/photos/1078978/pexels-photo-1078978.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "eco-lodge",
+        "nature escape",
+        "sustainable"
+      ]
+    },
+    {
+      "id": "SokotoBridge1",
+      "name": "Sokoto River Bridge (Old)",
+      "short_description": "A historic bridge offering a classic view of the Sokoto River, especially beautiful during the dry season when sandbanks appear.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Connecting Old City to southern parts",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/A_bridge_in_Nigeria.jpg/1280px-A_bridge_in_Nigeria.jpg",
+      "tags": [
+        "river view",
+        "historic structure",
+        "sunset spot"
+      ]
+    },
+    {
+      "id": "SokotoBridge2",
+      "name": "Gandi Dam Overlook",
+      "short_description": "A serene viewpoint offering expansive vistas of the Gandi Dam reservoir, a crucial water body for the region, surrounded by tranquil landscapes.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Outside Sokoto, towards Gandi",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/4006907/pexels-photo-4006907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "reservoir",
+        "nature view",
+        "peaceful"
+      ]
+    },
+    {
+      "id": "SokotoBridge3",
+      "name": "Kofar Rini Pedestrian Bridge",
+      "short_description": "A bustling pedestrian bridge over a busy road, offering an elevated perspective of local market activities and urban movement below.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Near Kofar Rini Roundabout",
+      "best_time": "Daytime",
+      "images": "https://images.pexels.com/photos/237699/pexels-photo-237699.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "urban view",
+        "market life",
+        "pedestrian bridge"
+      ]
+    },
+    {
+      "id": "SokotoBridge4",
+      "name": "Rima River Floodplain Vista",
+      "short_description": "An informal overlook providing sweeping views of the Rima River's vast floodplains, particularly scenic during the rainy season's lush greenery.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Along Goronyo Road",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "river landscape",
+        "floodplain",
+        "nature photography"
+      ]
+    },
+    {
+      "id": "SokotoStair1",
+      "name": "Sultan's Palace Grand Steps",
+      "short_description": "The regal and expansive steps leading to the Sultan's Palace, an iconic entrance steeped in history and power, perfect for a grand photo.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Main entrance of Sultan's Palace",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Northern_Nigerian_Compound_2.jpg",
+      "tags": [
+        "royal entrance",
+        "historic steps",
+        "grandeur"
+      ]
+    },
+    {
+      "id": "SokotoStair2",
+      "name": "National Museum Staircase",
+      "short_description": "A beautifully designed staircase within the Sokoto National Museum, leading visitors through exhibits of regional history and culture.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Sokoto National Museum",
+      "best_time": "Daytime",
+      "images": "https://images.pexels.com/photos/159491/pexels-photo-159491.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "museum",
+        "architectural interior",
+        "cultural journey"
+      ]
+    },
+    {
+      "id": "SokotoStair3",
+      "name": "Kano Road Market Steps",
+      "short_description": "Stone steps leading down into one of Sokoto's oldest markets, bustling with activity and offering a vibrant street-level perspective.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Entrance to Kano Road Market",
+      "best_time": "Morning",
+      "images": "https://images.pexels.com/photos/1473188/pexels-photo-1473188.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "market entrance",
+        "historic path",
+        "street scene"
+      ]
+    },
+    {
+      "id": "SokotoStair4",
+      "name": "Usman Danfodiyo University 'Path of Knowledge'",
+      "short_description": "A scenic, tree-lined pathway winding through the university campus, popular with students and offering a peaceful walk or study spot.",
+      "subtype": "Iconic Staircases & Pathways",
+      "location_hint": "Main campus, Usman Danfodiyo University",
+      "best_time": "Afternoon",
+      "images": "https://images.pexels.com/photos/3184611/pexels-photo-3184611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "tags": [
+        "campus walk",
+        "university life",
+        "green pathway"
+      ]
+    }
+  ]
+}

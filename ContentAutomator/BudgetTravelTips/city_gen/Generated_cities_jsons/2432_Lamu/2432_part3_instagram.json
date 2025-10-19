@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Lamu",
+    "city_id": "2432"
+  },
+  "items": [
+    {
+      "id": "LAMI001",
+      "name": "The Majlis Resort's Oceanfront Oasis",
+      "short_description": "Swim in luxury at this stunning infinity pool, seemingly blending into the turquoise Indian Ocean. A perfect blend of Swahili charm and modern elegance.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Manda Island (accessible via boat from Lamu Town)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1594212716186-b4d087f9172f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aW5maW5pdHkgcG9vbCBvY2VhbnxlbnwwfHx8fDE3MDYwMjIwMTU&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Luxury",
+        "Ocean View",
+        "Relaxation"
+      ]
+    },
+    {
+      "id": "LAMI002",
+      "name": "Amu House Rooftop Infinity Dip",
+      "short_description": "Experience the unique blend of traditional Swahili design and modern comfort at Amu House, featuring a small, picturesque rooftop infinity pool overlooking Lamu Old Town.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Lamu Old Town",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1574549247169-d4df5541604c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cm9vZnRvcCUyMHBvb2wlMjBzd2loaWxpJTIwYXJjaGl0ZWN0dXJlfGVufDB8fHx8MTcwNjAyMjQ3Ng&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Rooftop Pool",
+        "Old Town",
+        "Sunset Views"
+      ]
+    },
+    {
+      "id": "LAMI003",
+      "name": "Kijani House's Garden Edge Pool",
+      "short_description": "Immerse yourself in the lush gardens of Kijani House, where their infinity-edge pool offers a serene outlook, surrounded by tropical flora.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Shela Village",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1542153545-0d09d3b4b5e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aW5maW5pdHklMjBwb29sJTIwZ2FyZGVufGVufDB8fHx8MTcwNjAyMjUzMA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Garden Oasis",
+        "Shela",
+        "Tranquil"
+      ]
+    },
+    {
+      "id": "LAMI004",
+      "name": "Lamu Estuary Private Villa Pool",
+      "short_description": "Discover a hidden gem, a private villa pool with an infinity edge offering breathtaking views over the serene Lamu estuary and mangrove forests.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Lamu Estuary (private villas)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1582260656515-5e6081452140?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8aW5maW5pdHklMjBwb29sJTIwZXN0dWFyeXxlbnwwfHx8fDE3MDYwMjI1ODg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Secluded",
+        "Estuary View",
+        "Private Escape"
+      ]
+    },
+    {
+      "id": "LAMI005",
+      "name": "Shela Village Secret Garden Courtyard",
+      "short_description": "Stumble upon a vibrant, hidden garden in Shela, bursting with bougainvillea, frangipani, and tropical greenery, a serene oasis amidst the village's alleys.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Shela Village (various private residences)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1627993096646-97d812d8a5b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dHJvcGljYWwlMjBjb3VydHlhcmQlMjBmbG9yYXxlbnwwfHx8fDE3MDYwMjI3NDc&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Hidden Gem",
+        "Bougainvillea",
+        "Shela Charm"
+      ]
+    },
+    {
+      "id": "LAMI006",
+      "name": "Lamu Museum's Coastal Botanical Display",
+      "short_description": "Explore the beautifully maintained gardens surrounding the Lamu Museum, featuring indigenous plants and shade trees, offering a peaceful respite and historical insights.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Lamu Town (Lamu Museum)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1559590408-cf1c140411a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Ym90YW5pY2FsJTIwZ2FyZGVuJTIwa2VueWF8ZW5wdXwwfHx8fDE3MDYwMjI3OTU&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Museum",
+        "Botanical",
+        "History"
+      ]
+    },
+    {
+      "id": "LAMI007",
+      "name": "Banana House Tropical Serenity Garden",
+      "short_description": "Find tranquility in the exquisite gardens of Banana House, a wellness retreat known for its lush, exotic flora and peaceful ambience, perfect for yoga or meditation.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Shela Village",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1588661706684-25087a118847?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dHJvcGljYWwlMjBob3RlbCUyMGdhcmRlbiUyMGtlbnlhfGVufDB8fHx8MTcwNjAyMjg1Ng&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Wellness",
+        "Tropical",
+        "Shela"
+      ]
+    },
+    {
+      "id": "LAMI008",
+      "name": "Old Town's Bougainvillea-Draped Courtyards",
+      "short_description": "Wander through Lamu Old Town's ancient alleys and discover vibrant bougainvillea spilling over traditional Swahili courtyards, offering bursts of color against coral walls.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Lamu Old Town (various private homes)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1563854727-463e2a9b6b71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Ym91Z2FpbnZpbGxlYSUyMGNvdXJ0eWFyZHxlbnwwfHx8fDE3MDYwMjI5MDM&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Swahili Charm",
+        "Colorful",
+        "Historic Alleys"
+      ]
+    },
+    {
+      "id": "LAMI009",
+      "name": "Lamu Cultural Festival Grand Dhow Race",
+      "short_description": "Witness the exhilarating dhow races during the annual Lamu Cultural Festival, a spectacle of traditional sailing, vibrant crowds, and deep-rooted Swahili heritage.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Lamu Channel",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dhows_in_Lamu_Channel.jpg/1280px-Dhows_in_Lamu_Channel.jpg",
+      "tags": [
+        "Culture",
+        "Dhows",
+        "Tradition"
+      ]
+    },
+    {
+      "id": "LAMI010",
+      "name": "Maulid Festival's Spiritual Procession",
+      "short_description": "Experience the vibrant and spiritual Maulid Festival, celebrating the birth of Prophet Muhammad, with colorful processions, ancient prayers, and traditional performances throughout Lamu Old Town.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Lamu Old Town",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lamu_Maulidi.jpg/1280px-Lamu_Maulidi.jpg",
+      "tags": [
+        "Religious",
+        "Procession",
+        "Swahili Heritage"
+      ]
+    },
+    {
+      "id": "LAMI011",
+      "name": "Lamu Yoga Festival Sunset Sessions",
+      "short_description": "Join international yogis for invigorating sunset yoga sessions on Shela Beach or picturesque rooftops during the annual Lamu Yoga Festival, blending wellness with stunning natural beauty.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Shela Beach / Various Rooftops",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1549576403-2475452f1e40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8eW9nYSUyMHN1bnNldCUyMGJlYWNoJTIwa2VueWF8ZW5wdXwwfHx8fDE3MDYwMjMwOTg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Wellness",
+        "Yoga",
+        "Beach"
+      ]
+    },
+    {
+      "id": "LAMI012",
+      "name": "Annual Donkey Race Spectacle",
+      "short_description": "Cheer on the local jockeys and their donkeys in the hilariously competitive annual Donkey Race, a beloved and unique tradition showcasing Lamu's primary mode of transport.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Lamu Town Waterfront",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Donkey_race_Lamu.JPG/1280px-Donkey_race_Lamu.JPG",
+      "tags": [
+        "Unique",
+        "Tradition",
+        "Local Life"
+      ]
+    },
+    {
+      "id": "LAMI013",
+      "name": "Lamu House's Contemporary Swahili Design",
+      "short_description": "Discover how Lamu House elegantly blends traditional Swahili architecture with minimalist modern interiors, offering sleek lines and open spaces while respecting local aesthetics.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Lamu Old Town Waterfront",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1587588358223-1f19b2a6f4e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c3dhaGllcnklMjBjb250ZW1wb3JhcnklMjBpbnRlcmlvcnxlbnwwfHx8fDE3MDYwMjMxNTI&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Boutique Hotel",
+        "Minimalist",
+        "Interior Design"
+      ]
+    },
+    {
+      "id": "LAMI014",
+      "name": "Shela's Discreet Modern Villa",
+      "short_description": "Explore a stunning private villa in Shela, where contemporary design principles meet traditional building materials, creating spacious, light-filled rooms with subtle modern comforts.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Shela Village (private residences)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1510005703294-84d411f37e19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bW9kZXJuJTIwdmlsbGElMjBhZnJpY2F8ZW5wdXwwfHx8fDE3MDYwMjMyMTM&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Luxury Villa",
+        "Contemporary",
+        "Spacious"
+      ]
+    },
+    {
+      "id": "LAMI015",
+      "name": "Lamu Art Gallery Minimalist Space",
+      "short_description": "Visit a newly established art gallery in Lamu, housed in a renovated traditional building, featuring clean lines and uncluttered spaces that highlight contemporary African art.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Lamu Old Town",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1627096057211-f2f6a7d51b3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YXJ0JTIwZ2FsbGVyeSUyMG1vZGVybiUyMGludGVyaW9yfGVufDB8fHx8MTcwNjAyMzI3NA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Art Space",
+        "Minimalist",
+        "Renovated"
+      ]
+    },
+    {
+      "id": "LAMI016",
+      "name": "The Floating Bar's Unique Design",
+      "short_description": "While not architecturally 'modern' in a building sense, The Floating Bar's unique, innovative concept and functional design for a social space on water makes it a modern experience.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Lamu Channel (accessible by boat)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1623862215442-991f89417830?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmxvYXRpbmclMjByZXN0YXVyYW50fGVufDB8fHx8MTcwNjAyMzMxMg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Innovative Design",
+        "Floating",
+        "Unique Experience"
+      ]
+    },
+    {
+      "id": "LAMI017",
+      "name": "Lamu Fort's Ancient Walls",
+      "short_description": "Explore the imposing Lamu Fort, a 19th-century Omani fortress that stands as a testament to the island's strategic past and now houses a library and cultural center.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Lamu Town Centre",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lamu_Fort.jpg/1280px-Lamu_Fort.jpg",
+      "tags": [
+        "Fortress",
+        "History",
+        "Omani Influence"
+      ]
+    },
+    {
+      "id": "LAMI018",
+      "name": "Lamu Old Town's Maze of Alleys",
+      "short_description": "Get lost (pleasantly) in the labyrinthine, car-free alleyways of Lamu Old Town, a UNESCO World Heritage site renowned for its unique Swahili architecture and bustling local life.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Lamu Old Town",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628108520286-9a2d39891823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFtdSUyMGFsbGV5c2Z1bGxzfGVufDB8fHx8MTcwNjAyMzM4NQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "UNESCO",
+        "Swahili Architecture",
+        "Historic"
+      ]
+    },
+    {
+      "id": "LAMI019",
+      "name": "Lamu Donkey Sanctuary",
+      "short_description": "Visit the heartwarming Lamu Donkey Sanctuary, a vital institution caring for the island's beloved donkeys, which are the main mode of transport, and learn about their welfare.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Lamu Town Outskirts",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Donkey_Lamu.jpg/1280px-Donkey_Lamu.jpg",
+      "tags": [
+        "Animals",
+        "Community",
+        "Welfare"
+      ]
+    },
+    {
+      "id": "LAMI020",
+      "name": "Shela Beach's Towering Sand Dunes",
+      "short_description": "Hike up the majestic sand dunes of Shela Beach for unparalleled panoramic views of the Indian Ocean, Shela Village, and the distant Lamu archipelago.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Shela Beach",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1622329624536-1506b4b4d6b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2FuZCUyMGR1bmVzJTIwa2VueWF8ZW5wdXwwfHx8fDE3MDYwMjM0NjM&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Beach",
+        "Views",
+        "Nature"
+      ]
+    },
+    {
+      "id": "LAMI021",
+      "name": "Lamu Fort's Panoramic Rooftop",
+      "short_description": "Ascend to the rooftop of Lamu Fort for a commanding overlook of Lamu Old Town's intricate rooftops, the bustling waterfront, and the sparkling Lamu Channel.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Lamu Town Centre",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/View_from_Lamu_Fort.jpg/1280px-View_from_Lamu_Fort.jpg",
+      "tags": [
+        "City View",
+        "Historic",
+        "Panoramic"
+      ]
+    },
+    {
+      "id": "LAMI022",
+      "name": "Sunset Dhow Cruise Channel Overlook",
+      "short_description": "Experience the ultimate overlook from a traditional dhow during a sunset cruise, offering breathtaking views of Lamu's skyline silhouetted against a fiery sky, often with dolphins playing.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Lamu Channel",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1628108520286-9a2d39891823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFtdSUyMGRob3clMjBzdW5zZXQmfGVufDB8fHx8MTcwNjAyMzU2Ng&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Sunset",
+        "Dhow Safari",
+        "Ocean View"
+      ]
+    },
+    {
+      "id": "LAMI023",
+      "name": "Shela Dunes Elevated Vista",
+      "short_description": "Climb the iconic Shela sand dunes for a spectacular natural overlook, revealing miles of pristine beach, the Indian Ocean, and the charming rooftops of Shela Village.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Shela Beach",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1622329624536-1506b4b4d6b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2hlaWxhJTIwYmVhY2glMjB2aWV3fGVufDB8fHx8MTcwNjAyMzYxNA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Beach",
+        "Panoramic",
+        "Hiking"
+      ]
+    },
+    {
+      "id": "LAMI024",
+      "name": "Lamu Old Town Rooftop Dining",
+      "short_description": "Savor a meal or drink at one of Lamu's charming rooftop restaurants, offering an elevated perspective of the bustling town life, historic architecture, and starlit skies.",
+      "subtype": "Bridges & Overlooks",
+      "location_hint": "Lamu Old Town (various restaurants)",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1598418018318-7b43b6e82811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cm9vZnRvcCUyMGRpbmluZyUyMGxhbXUxfGVufDB8fHx8MTcwNjAyMzY1OA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Dining",
+        "City Lights",
+        "Night View"
+      ]
+    },
+    {
+      "id": "LAMI025",
+      "name": "Shela Beach's Endless Horizon",
+      "short_description": "Walk along the pristine, uncrowded white sands of Shela Beach, where the gentle waves of the Indian Ocean meet the vast, clear sky, creating a perfect serene backdrop.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Shela Village",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1579548174801-b51c1d0f5b9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGxhbXUlMjByZXNvcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+      "tags": [
+        "Beach",
+        "Ocean",
+        "Serenity"
+      ]
+    },
+    {
+      "id": "LAMI026",
+      "name": "Manda Island Mangrove Maze",
+      "short_description": "Explore the ancient and vital mangrove forests around Manda Island by kayak or SUP, a unique ecosystem providing a lush, green natural backdrop and wildlife viewing opportunities.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Manda Island mangroves",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1593348612196-1c296f8c7921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bWFuZ3JvdmUlMjBmb3Jlc3QlMjBrZW55YXxlbnwwfHx8fDE3MDYwMjM3MTA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Mangroves",
+        "Ecotourism",
+        "Kayaking"
+      ]
+    },
+    {
+      "id": "LAMI027",
+      "name": "Lamu Channel's Fiery Sunset",
+      "short_description": "Capture the dramatic beauty of a Lamu sunset over the channel, as traditional dhows sail gracefully against a backdrop of vibrant reds, oranges, and purples reflecting on the calm water.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Lamu Channel",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1628108520286-9a2d39891823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFtdSUyMHN1bnNldCUyMGRob3dzaGlwfGVufDB8fHx8MTcwNjAyMzc1NA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Sunset",
+        "Dhows",
+        "Ocean"
+      ]
+    },
+    {
+      "id": "LAMI028",
+      "name": "Kizingoni Beach Untamed Beauty",
+      "short_description": "Discover the wilder, less frequented Kizingoni Beach, offering vast stretches of untouched sand, natural vegetation, and powerful waves, ideal for a rugged nature photoshoot.",
+      "subtype": "Nature Backdrops",
+      "location_hint": "Southern Lamu Island",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1634561081829-d50d6f4d2f80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8d2lsZCUyMGJlYWNoJTIwa2VueWF8ZW5wdXwwfHx8fDE3MDYwMjM3OTg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Remote Beach",
+        "Wilderness",
+        "Seclusion"
+      ]
+    },
+    {
+      "id": "LAMI029",
+      "name": "Lamu's Ornate Swahili Door Art",
+      "short_description": "While not murals, the intricate, historic carvings on Lamu's traditional Swahili doors are true masterpieces of street art, telling stories of culture and craftsmanship on every alleyway.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Lamu Old Town",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596792613551-4091a13e5f2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c3dhaGliaSUyMGRvb3IlMjBjYXJ2aW5nc3xlbnwwfHx8fDE3MDYwMjM4NTE&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Craftsmanship",
+        "Historic Doors",
+        "Culture"
+      ]
+    },
+    {
+      "id": "LAMI030",
+      "name": "Artisan Workshop Decorative Fronts",
+      "short_description": "Discover vibrant, hand-painted signs and decorative elements adorning the fronts of local artisan workshops, celebrating Lamu's creative spirit and traditional crafts.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Lamu Old Town (various workshops)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1582260656515-5e6081452140?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YWZyaWNhbiUyMHNob3AlMjBzaWdufGVufDB8fHx8MTcwNjAyMzg5Mg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Local Art",
+        "Handicrafts",
+        "Colorful"
+      ]
+    },
+    {
+      "id": "LAMI031",
+      "name": "Donkey Sanctuary's Themed Art",
+      "short_description": "Look for charming, often humorous, donkey-themed illustrations and simple murals around the Donkey Sanctuary, celebrating these beloved animals and their role on the island.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near Donkey Sanctuary, Lamu Town",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Donkey_Lamu.jpg/1280px-Donkey_Lamu.jpg",
+      "tags": [
+        "Donkey Love",
+        "Themed Art",
+        "Community"
+      ]
+    },
+    {
+      "id": "LAMI032",
+      "name": "Textile & Fabric Pop-Up Displays",
+      "short_description": "While not traditional murals, the vibrant display of patterned khangas and kikois hung by vendors in the alleys create ephemeral 'street art' installations, bursting with color and local patterns.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Lamu Old Town Market Alleys",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1581456006437-02422501a1c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YWZyaWNhbiUyMHRleHRpbGVzJTIwbWFya2V0fGVufDB8fHx8MTcwNjAyMzkzMg&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Textiles",
+        "Colorful",
+        "Market Life"
+      ]
+    },
+    {
+      "id": "LAMI033",
+      "name": "Bush Gardens' Rustic Charm",
+      "short_description": "Dine under the stars at Bush Gardens, a local favorite known for its authentic Swahili cuisine, fresh seafood, and magical, candlelit garden ambiance.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Lamu Old Town",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1514933651105-0646efdfc12d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8b2ZmaWNhbiUyMGdhcmRlbiUyMHJlc3RhdXJhbnR8ZW5wdXwwfHx8fDE3MDYwMjM5ODk&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Swahili Cuisine",
+        "Seafood",
+        "Ambiance"
+      ]
+    },
+    {
+      "id": "LAMI034",
+      "name": "Peponi Hotel's Legendary Bar",
+      "short_description": "Enjoy sundowners at the iconic Peponi Hotel Bar, a beloved institution offering classic cocktails, stunning Shela Beach views, and a lively, sophisticated atmosphere.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Shela Village",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1559828453-294b43b6797a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c3VuZHVucmRzJTIwYmFyJTIwa2VueWF8ZW5wdXwwfHx8fDE3MDYwMjQwMjk&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Cocktails",
+        "Beach Bar",
+        "Social Spot"
+      ]
+    },
+    {
+      "id": "LAMI035",
+      "name": "The Floating Bar's Unique Dining",
+      "short_description": "Dine on the tranquil waters of the Lamu Channel at The Floating Bar, enjoying fresh seafood and cocktails with unparalleled 360-degree views of the island's coastline.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Lamu Channel (accessible by boat)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1623862215442-991f89417830?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmxvYXRpbmclMjByZXN0YXVyYW50fGVufDB8fHx8MTcwNjAyNDAwNQ&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Waterfront",
+        "Seafood",
+        "Unique Experience"
+      ]
+    },
+    {
+      "id": "LAMI036",
+      "name": "Moonrise Restaurant's Panoramic Rooftop",
+      "short_description": "Ascend to the rooftop of Moonrise Restaurant for an authentic Swahili culinary journey with stunning panoramic views of Lamu Old Town and the starry night sky.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Lamu Old Town",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1558244243-7f311c16b5a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cm9vZnRvcCUyMGRpbmluZyUyMGxhbXUxfGVufDB8fHx8MTcwNjAyNDYyNA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Swahili Food",
+        "Rooftop Dining",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "LAMI037",
+      "name": "The Artistry of Swahili Carved Doors",
+      "short_description": "Marvel at the exquisite and historically rich carved doors that adorn nearly every traditional house in Lamu Old Town, each a unique masterpiece of craftsmanship and heritage.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Lamu Old Town",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1596792613551-4091a13e5f2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c3dhaGliaSUyMGRvb3JzJTIwaGlzdG9yaWN8ZW5wdXwwfHx8fDE3MDYwMjQ2OTU&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Craftsmanship",
+        "Historic",
+        "Swahili Culture"
+      ]
+    },
+    {
+      "id": "LAMI038",
+      "name": "Lamu Fort's Omani Legacy",
+      "short_description": "Step back in time at Lamu Fort, an imposing 19th-century fortress representing the island's Omani heritage and now serving as a museum, showcasing Swahili history and artifacts.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Lamu Town Centre",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lamu_Fort.jpg/1280px-Lamu_Fort.jpg",
+      "tags": [
+        "Fortress",
+        "Museum",
+        "Colonial History"
+      ]
+    },
+    {
+      "id": "LAMI039",
+      "name": "Riyadha Mosque's Spiritual Heritage",
+      "short_description": "Visit the historic Riyadha Mosque, a significant center for Islamic learning and a beautiful example of traditional Swahili mosque architecture, especially vibrant during religious festivals.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Lamu Old Town",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Riyadha_Mosque_Lamu.jpg/1280px-Riyadha_Mosque_Lamu.jpg",
+      "tags": [
+        "Mosque",
+        "Islamic History",
+        "Swahili Architecture"
+      ]
+    },
+    {
+      "id": "LAMI040",
+      "name": "Inside a Traditional Swahili Home",
+      "short_description": "Explore the cool, intricate interiors of a traditional Swahili house, characterized by high ceilings, thick coral walls, built-in niches (vidaka), and timeless elegance.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Lamu Old Town (museum houses or guesthouses)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1563854727-463e2a9b6b71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c3dhaGliaSUyMGhvdXNlJTIwaW50ZXJpb3J8ZW5wdXwwfHx8fDE3MDYwMjQ3NjY&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "Interior Design",
+        "Traditional Home",
+        "Cultural Experience"
+      ]
+    }
+  ]
+}

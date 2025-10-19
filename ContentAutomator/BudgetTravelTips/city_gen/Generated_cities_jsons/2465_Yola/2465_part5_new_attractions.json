@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Yola",
+    "city_id": "2465"
+  },
+  "items": [
+    {
+      "id": "YOL-ART-001",
+      "name": "Benue River Art Promenade",
+      "short_description": "Stroll along the newly developed riverfront featuring contemporary art installations, local sculptures, and scenic views of the Benue River. It's a perfect spot for an evening walk or a family outing.",
+      "address": "Along Numan Road, Jimeta, Yola North",
+      "opening_hours": "24/7",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1510414902511-2b0e5d483478?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "riverfront",
+        "leisure"
+      ]
+    },
+    {
+      "id": "YOL-FOOD-002",
+      "name": "Yola Spice Market & Culinary Hub",
+      "short_description": "Experience the vibrant flavors of Adamawa at this modern market dedicated to local spices, fresh produce, and a food court offering traditional Nigerian dishes and cooking classes. A must-visit for food enthusiasts.",
+      "address": "Opposite Modibbo Adama University Teaching Hospital, Jimeta",
+      "opening_hours": "08:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596706037001-c1186e80b435?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food",
+        "market",
+        "local cuisine"
+      ]
+    },
+    {
+      "id": "YOL-TECH-003",
+      "name": "Adamawa Digital Innovation Lab",
+      "short_description": "A cutting-edge co-working space and tech incubation center fostering innovation and digital skills among Yola's youth. Visitors can attend workshops, network, or simply enjoy the modern cafe.",
+      "address": "No. 12 Kashim Ibrahim Way, Yola Town",
+      "opening_hours": "09:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1552583648-b4b6b6b7a7f4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "tech",
+        "innovation",
+        "co-working"
+      ]
+    },
+    {
+      "id": "YOL-HIST-004",
+      "name": "Gongola Heritage Center",
+      "short_description": "Delve into the rich history and cultural legacy of the former Gongola State at this interactive museum. Featuring artifacts, exhibits, and oral histories, it offers a deep dive into the region's diverse heritage.",
+      "address": "Near Government House, Yola South",
+      "opening_hours": "10:00-17:00 (Mon-Sat)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1599824608320-b3b4d2b27a3c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "history",
+        "culture",
+        "museum"
+      ]
+    },
+    {
+      "id": "YOL-PARK-005",
+      "name": "Sunset Eco Park",
+      "short_description": "A tranquil green oasis designed for relaxation and outdoor activities, featuring walking trails, picnic spots, and a dedicated children's play area. Catch breathtaking sunsets over the Yola landscape.",
+      "address": "Off Federal University of Technology Road, Girei",
+      "opening_hours": "06:00-19:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1533158307582-79841d0092c6?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "park",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "YOL-ENT-006",
+      "name": "The Oasis Food Court & Arcade",
+      "short_description": "Yola's newest entertainment hub, offering a wide array of local and international cuisines in a vibrant food court setting, coupled with a modern arcade for all ages. Perfect for a fun evening out.",
+      "address": "Grand Millennium Mall, Hospital Road, Jimeta",
+      "opening_hours": "10:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549488344-93e1b7f0c1c8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "entertainment",
+        "food",
+        "arcade"
+      ]
+    },
+    {
+      "id": "YOL-CRAFT-007",
+      "name": "Yola Craft Village",
+      "short_description": "Showcasing the incredible talent of local artisans, this village is a vibrant marketplace for traditional crafts, textiles, pottery, and jewelry. Support local talent and find unique souvenirs.",
+      "address": "Adjacent to Lamido's Palace, Yola Old Town",
+      "opening_hours": "09:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1598282361665-27a3d2e6d620?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "crafts",
+        "shopping",
+        "local culture"
+      ]
+    },
+    {
+      "id": "YOL-SPRT-008",
+      "name": "Sardauna Sports Complex",
+      "short_description": "A state-of-the-art multi-sport facility offering pitches for football, basketball courts, and a modern gymnasium. Open to the public for sports, fitness classes, and community events.",
+      "address": "Off Numan Road, Opposite State Secretariat, Yola",
+      "opening_hours": "06:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1599187123956-613d76274e1d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sports",
+        "fitness",
+        "community"
+      ]
+    },
+    {
+      "id": "YOL-CAFE-009",
+      "name": "The Yola Storytelling Cafe",
+      "short_description": "A cozy and inviting cafe that doubles as a cultural hub, hosting regular storytelling sessions, poetry readings, and live acoustic music. Enjoy great coffee and connect with Yola's creative scene.",
+      "address": "Along Airport Road, Opposite Yola International Airport",
+      "opening_hours": "08:00-22:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1511920170033-fd5b462ee626?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cafe",
+        "culture",
+        "literature"
+      ]
+    },
+    {
+      "id": "YOL-ADV-010",
+      "name": "Mambilla Peak Indoor Climbing",
+      "short_description": "Conquer new heights at Yola's first indoor climbing gym, offering challenges for all skill levels from beginners to experienced climbers. A thrilling way to stay fit and active.",
+      "address": "2nd Floor, Grandview Plaza, Barracks Road, Jimeta",
+      "opening_hours": "12:00-20:00 (Tues-Sun)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627914856084-2a6d4e5f73d8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "fitness",
+        "indoor sports"
+      ]
+    }
+  ]
+}

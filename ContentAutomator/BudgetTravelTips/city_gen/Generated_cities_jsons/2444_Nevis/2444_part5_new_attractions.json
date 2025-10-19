@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Nevis",
+    "city_id": "2444"
+  },
+  "items": [
+    {
+      "id": "NVA001",
+      "name": "Nevis Peak Canopy Glide",
+      "short_description": "Soar through the lush Nevis Peak rainforest on a thrilling zipline adventure, offering breathtaking panoramic views of the island and the Caribbean Sea.",
+      "address": "Mountravers Estate, Gingerland, Nevis",
+      "opening_hours": "09:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627572791487-1b0d2d3e5b1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8MXx8emlwbGluZSUyMHJhaW5mb3Jlc3R8ZW58MHx8fHwxNjQ1NjczNzc4&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "Adventure",
+        "Nature",
+        "Zipline"
+      ]
+    },
+    {
+      "id": "NVA002",
+      "name": "Nevis Coral Reef Discovery Hub",
+      "short_description": "Learn about Nevis's vibrant marine life and ongoing conservation efforts. Participate in a guided snorkel or dive tour to explore restored coral reefs.",
+      "address": "Oualie Beach, Saint James Windward, Nevis",
+      "opening_hours": "08:30-17:00",
+      "price_level": "moderate",
+      "images": "https://www.pexels.com/photos/colorful-fish-swimming-around-coral-reef-8910112/",
+      "tags": [
+        "Marine",
+        "Education",
+        "Snorkeling"
+      ]
+    },
+    {
+      "id": "NVA003",
+      "name": "The Garden Plate Eatery",
+      "short_description": "Indulge in exquisite Nevisian cuisine crafted from fresh, locally sourced ingredients harvested directly from their organic gardens. Enjoy stunning views and a tranquil ambiance.",
+      "address": "Newcastle Road, Saint Thomas Lowland, Nevis",
+      "opening_hours": "11:00-21:00 (Closed Mondays)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1555555555555-5c5c5c5c5c5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8MXx8Z3JvdW5kc19yZXN0YXVyYW50fGVufDB8fHx8MTY0NTY3Mzk0NQ&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "Dining",
+        "Local Food",
+        "Organic"
+      ]
+    },
+    {
+      "id": "NVA004",
+      "name": "Nevis Heritage Makers Square",
+      "short_description": "Discover unique handcrafted souvenirs, local art, and traditional Nevisian crafts from a vibrant community of island artisans. Enjoy live music and cultural performances on weekends.",
+      "address": "Main Street, Charlestown, Nevis",
+      "opening_hours": "10:00-17:00 (Tue-Sat)",
+      "price_level": "free",
+      "images": "https://www.pexels.com/photos/artisan-market-crafts-stalls-colorful-6789012/",
+      "tags": [
+        "Culture",
+        "Shopping",
+        "Artisans"
+      ]
+    },
+    {
+      "id": "NVA005",
+      "name": "Serenity Springs Nevis",
+      "short_description": "Rejuvenate your mind and body at this tranquil wellness center offering daily yoga classes, meditation sessions, and holistic spa treatments amidst lush tropical gardens.",
+      "address": "Cane Garden Estate, Gingerland, Nevis",
+      "opening_hours": "07:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1587979603099-b1d4e4c9f7d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8MXx8eW9nYSUyMHJldHJlYXR8ZW58MHx8fHwxNjQ1NjczOTQ2&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "Wellness",
+        "Yoga",
+        "Spa"
+      ]
+    },
+    {
+      "id": "NVA006",
+      "name": "Sugar Mill Rum Legacy",
+      "short_description": "Delve into Nevis's rich history of sugar and rum production with an interactive tour of a modern micro-distillery, followed by guided tastings of premium small-batch rums.",
+      "address": "Fothergills Estate, Saint John Figtree, Nevis",
+      "opening_hours": "10:00-16:00 (Mon-Fri)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1605380521369-02c3b28b7e51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8MXx8cnVtJTIwZGlzdGlsbGVyeXxlbnwwfHx8fDE2NDU2NzQwMDE&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "Rum",
+        "Distillery",
+        "History"
+      ]
+    },
+    {
+      "id": "NVA007",
+      "name": "Nevis Night Sky Sanctuary",
+      "short_description": "Escape light pollution and marvel at the dazzling Caribbean night sky through high-powered telescopes. Guided sessions reveal constellations, planets, and distant galaxies.",
+      "address": "Peak View, St. John Figtree, Nevis",
+      "opening_hours": "19:00-22:00 (Seasonal, weather permitting)",
+      "price_level": "cheap",
+      "images": "https://www.pexels.com/photos/starry-night-sky-observatory-telescope-1234567/",
+      "tags": [
+        "Stargazing",
+        "Astronomy",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "NVA008",
+      "name": "Eden's Bloom Gardens & Art",
+      "short_description": "Wander through exquisitely designed botanical gardens showcasing Nevis's native flora, interspersed with captivating sculptures from local and international artists.",
+      "address": "Paradise Estate, Saint Thomas Lowland, Nevis",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549747517-57551000b0d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8MXx8Ym90YW5pY2FsJTIwZ2FyZGVuc3xlbnwwfHx8fDE2NDU2NzQwMDE&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "Gardens",
+        "Art",
+        "Nature"
+      ]
+    },
+    {
+      "id": "NVA009",
+      "name": "Nevis Adventure Cycle Park",
+      "short_description": "Explore challenging and scenic mountain biking trails catering to all skill levels, winding through lush landscapes and offering panoramic island vistas. Bike rentals available.",
+      "address": "Golden Rock Estate, Gingerland, Nevis",
+      "opening_hours": "08:00-17:00",
+      "price_level": "moderate",
+      "images": "https://www.pexels.com/photos/mountain-biking-trail-cyclist-green-landscape-4567890/",
+      "tags": [
+        "Biking",
+        "Adventure",
+        "Outdoors"
+      ]
+    },
+    {
+      "id": "NVA010",
+      "name": "Sunshine Splash Zone",
+      "short_description": "A family-friendly haven featuring water slides, splash pads, and safe play areas designed for children of all ages, offering a refreshing break from the sun.",
+      "address": "Pinney's Beach, Charlestown, Nevis",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579782504-03290236a0c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8MXx8d2F0ZXIlMjBwYXJrJTIwZmFtaWx5fGVufDB8fHx8MTY0NTY3NDA0NA&ixlib=rb-1.2.1&q=80&w=1080",
+      "tags": [
+        "Family",
+        "Kids",
+        "Water Park"
+      ]
+    }
+  ]
+}

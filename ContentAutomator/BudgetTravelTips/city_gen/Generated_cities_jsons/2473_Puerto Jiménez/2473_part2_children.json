@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Puerto Jiménez",
+    "city_id": "2473"
+  },
+  "items": [
+    {
+      "id": "PJ-FA-01",
+      "name": "Finca Aventuras PJ",
+      "short_description": "A working family farm offering interactive tours where kids can feed animals, milk cows, and learn about tropical agriculture.",
+      "subtype": "Farm Attractions",
+      "address": "Calle Central, Barrio La Palma, Puerto Jiménez",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549488340-d996998634e7",
+      "tags": [
+        "animals",
+        "agriculture",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "PJ-FA-02",
+      "name": "Corcovado Mini-Farm",
+      "short_description": "A charming petting zoo and garden focused on local farm animals and organic farming practices, perfect for toddlers and young children.",
+      "subtype": "Farm Attractions",
+      "address": "200m Este del Parque Central, Puerto Jiménez",
+      "opening_hours": "08:30-15:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1509970966367-167bbd564177",
+      "tags": [
+        "petting zoo",
+        "gardening",
+        "educational"
+      ]
+    },
+    {
+      "id": "PJ-FA-03",
+      "name": "La Ceiba Ranch Kids",
+      "short_description": "Experience life on a tropical ranch with pony rides, a small petting area, and a fun scavenger hunt through the fruit orchards.",
+      "subtype": "Farm Attractions",
+      "address": "Ruta 245, Kilómetro 3, Puerto Jiménez",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1605389657064-a696ee8c1b7a",
+      "tags": [
+        "pony rides",
+        "ranch life",
+        "fruit picking"
+      ]
+    },
+    {
+      "id": "PJ-FA-04",
+      "name": "Tropical Harvest Fun",
+      "short_description": "A hands-on experience where kids can help harvest seasonal crops, make fresh fruit juices, and interact with farm animals.",
+      "subtype": "Farm Attractions",
+      "address": "Vía Dos Brazos, Finca La Esperanza, Puerto Jiménez",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1590457813296-658b7245b98f",
+      "tags": [
+        "harvesting",
+        "food preparation",
+        "interactive"
+      ]
+    },
+    {
+      "id": "PJ-PK-01",
+      "name": "Estrella Corcovado Dome",
+      "short_description": "A portable inflatable planetarium dome offering captivating shows about the stars, planets, and constellations visible from the Southern Osa Peninsula.",
+      "subtype": "Planetariums for Kids",
+      "address": "Centro Comunal de Puerto Jiménez, Puerto Jiménez",
+      "opening_hours": "17:00-20:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533086968840-a30ef1488c95",
+      "tags": [
+        "stars",
+        "space",
+        "educational"
+      ]
+    },
+    {
+      "id": "PJ-PK-02",
+      "name": "Osa Sky Gazer",
+      "short_description": "An interactive outdoor astronomy experience with telescopes and guided storytelling about local constellations and celestial myths.",
+      "subtype": "Planetariums for Kids",
+      "address": "Mirador de Osa, Playa Platanares, Puerto Jiménez",
+      "opening_hours": "19:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510312305653-8ed496efae75",
+      "tags": [
+        "night sky",
+        "telescopes",
+        "folklore"
+      ]
+    },
+    {
+      "id": "PJ-PK-03",
+      "name": "Jungle Star Lab",
+      "short_description": "A small, dedicated room with projection technology and interactive displays teaching kids about the solar system and space exploration in a jungle theme.",
+      "subtype": "Planetariums for Kids",
+      "address": "Eco-Lodge El Remanso, Puerto Jiménez",
+      "opening_hours": "10:00-12:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1610486847494-b7713f04499d",
+      "tags": [
+        "solar system",
+        "science",
+        "interactive"
+      ]
+    },
+    {
+      "id": "PJ-PK-04",
+      "name": "Cosmic Canopy Show",
+      "short_description": "A unique nocturnal experience combining a guided night walk through the canopy with laser projections of constellations and celestial bodies on the trees.",
+      "subtype": "Planetariums for Kids",
+      "address": "Reserva Natural Cacao, Puerto Jiménez",
+      "opening_hours": "18:30-20:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1475738870377-62a983ca1377",
+      "tags": [
+        "canopy walk",
+        "laser show",
+        "nature"
+      ]
+    },
+    {
+      "id": "PJ-WP-01",
+      "name": "Osa Jungle Splash",
+      "short_description": "A natural water play area with small, safe pools fed by a gentle stream, mini-slides, and a sandy beach for digging and building.",
+      "subtype": "Water Parks for Kids",
+      "address": "Río Tigre, Sector La Laguna, Puerto Jiménez",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582234057635-c323f46f481f",
+      "tags": [
+        "natural pool",
+        "slides",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "PJ-WP-02",
+      "name": "Río Tigre Wet Fun",
+      "short_description": "Offers guided tubing adventures on a calm stretch of the Río Tigre, suitable for families with young children, focusing on gentle floats and water games.",
+      "subtype": "Water Parks for Kids",
+      "address": "Entrada Río Tigre, Puerto Jiménez",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549488340-d996998634e7",
+      "tags": [
+        "river tubing",
+        "water games",
+        "nature"
+      ]
+    },
+    {
+      "id": "PJ-WP-03",
+      "name": "Golfo Dulce Waterslides",
+      "short_description": "A small, charming area featuring inflatable slides and a shallow splash zone right on the edge of Golfo Dulce, perfect for cooling off.",
+      "subtype": "Water Parks for Kids",
+      "address": "Playa Platanares, al lado del muelle, Puerto Jiménez",
+      "opening_hours": "11:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563297129-373e449a039b",
+      "tags": [
+        "inflatable",
+        "beach access",
+        "splash pad"
+      ]
+    },
+    {
+      "id": "PJ-WP-04",
+      "name": "Corcovado Aqua Adventure",
+      "short_description": "An eco-friendly splash park with interactive water features, spray jets, and a mini-waterfall, designed for safe and refreshing fun in the tropical heat.",
+      "subtype": "Water Parks for Kids",
+      "address": "Carretera a Matapalo, Sector Dos Brazos, Puerto Jiménez",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1589133860007-8e6f1f4b0086",
+      "tags": [
+        "eco-friendly",
+        "splash park",
+        "interactive"
+      ]
+    },
+    {
+      "id": "PJ-CP-01",
+      "name": "PJ Jungle Puppet Show",
+      "short_description": "A local puppet theater featuring handcrafted puppets telling engaging stories inspired by Costa Rican folklore and the wildlife of the Osa Peninsula.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Centro Cultural de Puerto Jiménez, Puerto Jiménez",
+      "opening_hours": "14:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628108422650-6819ff39e18b",
+      "tags": [
+        "puppets",
+        "folklore",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "PJ-CP-02",
+      "name": "Osa Circo Fantástico",
+      "short_description": "A small-scale, vibrant circus show with local acrobats, jugglers, and clowns performing family-friendly acts under a colorful tent.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Campo Ferial, Calle Real, Puerto Jiménez",
+      "opening_hours": "16:00-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1547728796-7489ce459a93",
+      "tags": [
+        "circus",
+        "acrobatics",
+        "clowns"
+      ]
+    },
+    {
+      "id": "PJ-CP-03",
+      "name": "Magic Macaw Theater",
+      "short_description": "A delightful puppet show and interactive storytelling session focused on conservation messages, featuring charismatic macaw and monkey puppets.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Parque Nacional Corcovado Visitor Center, Puerto Jiménez",
+      "opening_hours": "11:00-12:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1589133860007-8e6f1f4b0086",
+      "tags": [
+        "conservation",
+        "puppets",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "PJ-CP-04",
+      "name": "El Tucán Marionettes",
+      "short_description": "An intimate marionette show bringing to life classic tales and new adventures with beautifully crafted wooden puppets, often followed by a puppet-making workshop.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Cafetería La Casita, Calle del Sol, Puerto Jiménez",
+      "opening_hours": "15:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1588102377317-a065c711a37c",
+      "tags": [
+        "marionettes",
+        "crafts",
+        "workshop"
+      ]
+    },
+    {
+      "id": "PJ-PP-01",
+      "name": "Corcovado Canopy Kids",
+      "short_description": "A scaled-down adventure park designed for young explorers, featuring low ropes courses, a mini-zipline, and safe climbing structures amidst the trees.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Carretera a Dos Brazos, Puerto Jiménez",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1606775791924-d2e8e3d8e578",
+      "tags": [
+        "zipline",
+        "ropes course",
+        "adventure"
+      ]
+    },
+    {
+      "id": "PJ-PP-02",
+      "name": "Playground del Sol",
+      "short_description": "A modern and well-maintained public playground with swings, slides, climbing frames, and a dedicated area for toddlers, shaded by tropical trees.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Parque Central de Puerto Jiménez, Puerto Jiménez",
+      "opening_hours": "08:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1566810815132-721204040a45",
+      "tags": [
+        "playground",
+        "public park",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "PJ-PP-03",
+      "name": "Jungle Explorer Park",
+      "short_description": "An imaginative adventure park where kids navigate obstacle courses, build forts, and explore themed play zones designed to spark creativity.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Barrio El Centro, al lado del hotel, Puerto Jiménez",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1620131497914-df619ce29b71",
+      "tags": [
+        "obstacle course",
+        "fort building",
+        "creative play"
+      ]
+    },
+    {
+      "id": "PJ-PP-04",
+      "name": "Osa Adventure Quest",
+      "short_description": "A unique play area featuring natural elements like log bridges, rock climbs, and a 'secret' jungle trail, promoting physical activity and discovery.",
+      "subtype": "Playgrounds & Adventure Parks",
+      "address": "Playa Tamales, Puerto Jiménez",
+      "opening_hours": "08:30-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579803125211-1376829ff5e9",
+      "tags": [
+        "natural playground",
+        "climbing",
+        "discovery"
+      ]
+    },
+    {
+      "id": "PJ-AQ-01",
+      "name": "Osa Treasure Hunt",
+      "short_description": "An exciting, guided treasure hunt through the rainforest, combining clues, puzzles, and nature observations to find hidden 'gold' (a souvenir prize).",
+      "subtype": "Adventure & Quest Games",
+      "address": "Oficina de Aventuras Osa, Calle Principal, Puerto Jiménez",
+      "opening_hours": "08:00-12:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520182470679-b14e305e7178",
+      "tags": [
+        "treasure hunt",
+        "rainforest",
+        "puzzles"
+      ]
+    },
+    {
+      "id": "PJ-AQ-02",
+      "name": "Corcovado Nature Quest",
+      "short_description": "An educational scavenger hunt focused on identifying local plants and animals, with a field guide and nature bingo cards for kids.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Sendero El Ceibo, Puerto Jiménez",
+      "opening_hours": "09:00-13:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1598150493864-a62174668270",
+      "tags": [
+        "scavenger hunt",
+        "nature education",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "PJ-AQ-03",
+      "name": "Pizote's Puzzle Path",
+      "short_description": "A series of engaging riddles and physical challenges set along a winding forest path, leading participants to a final 'secret' location.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Hacienda Bambú, Puerto Jiménez",
+      "opening_hours": "10:00-14:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510469019777-628f9d51c72f",
+      "tags": [
+        "riddles",
+        "physical challenge",
+        "forest trail"
+      ]
+    },
+    {
+      "id": "PJ-AQ-04",
+      "name": "Hidden Waterfall Challenge",
+      "short_description": "A guided adventure hike where kids follow clues to discover a beautiful hidden waterfall, learning about jungle survival skills along the way.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Entrada al Sendero Cascada Escondida, Puerto Jiménez",
+      "opening_hours": "08:30-15:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1547468695-1f9f2e3c0d8b",
+      "tags": [
+        "hiking",
+        "waterfall",
+        "survival skills"
+      ]
+    },
+    {
+      "id": "PJ-ZP-01",
+      "name": "Osa Wildlife Kids Rescue",
+      "short_description": "A small wildlife rescue center where children can learn about and observe rescued animals like sloths, monkeys, and birds, focusing on rehabilitation and release.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Carretera a Carate, Kilómetro 5, Puerto Jiménez",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1583769941951-b0e6e7d6b8b0",
+      "tags": [
+        "wildlife rescue",
+        "conservation",
+        "educational"
+      ]
+    },
+    {
+      "id": "PJ-ZP-02",
+      "name": "Jungle Friends Petting Zoo",
+      "short_description": "A friendly petting zoo featuring domesticated animals and some rescued local species, offering hands-on interaction and feeding opportunities.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Barrio La Ceiba, Puerto Jiménez",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596700877983-6f9a0c6a8b7c",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "interactive"
+      ]
+    },
+    {
+      "id": "PJ-ZP-03",
+      "name": "Sloth Sanctuary & Play",
+      "short_description": "A small, ethical sanctuary dedicated to sloths, offering observation areas and educational programs, plus a sloth-themed playground.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Sendero del Perezoso, Puerto Jiménez",
+      "opening_hours": "09:30-15:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620295287611-3950c4416d10",
+      "tags": [
+        "sloths",
+        "sanctuary",
+        "playground"
+      ]
+    },
+    {
+      "id": "PJ-ZP-04",
+      "name": "Macaw & Monkey Meet",
+      "short_description": "An ethically managed encounter program allowing children to safely observe and learn about the local macaws and monkeys in a semi-wild setting.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Finca La Golondrina, Puerto Jiménez",
+      "opening_hours": "08:00-11:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1574768565949-5980004940f9",
+      "tags": [
+        "macaws",
+        "monkeys",
+        "wildlife encounter"
+      ]
+    },
+    {
+      "id": "PJ-CM-01",
+      "name": "Osa EcoKids Lab",
+      "short_description": "A hands-on discovery center focused on the ecology and biodiversity of the Osa Peninsula, with interactive exhibits for young scientists.",
+      "subtype": "Children’s Museums",
+      "address": "Antiguo Edificio Municipal, Puerto Jiménez",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1594918737298-6a3f12b770b1",
+      "tags": [
+        "ecology",
+        "science",
+        "interactive"
+      ]
+    },
+    {
+      "id": "PJ-CM-02",
+      "name": "Corcovado Discovery Center",
+      "short_description": "An engaging children's museum exploring the flora, fauna, and indigenous cultures of Corcovado National Park through play and learning zones.",
+      "subtype": "Children’s Museums",
+      "address": "Avenida 1, frente al Parque, Puerto Jiménez",
+      "opening_hours": "09:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579762715118-a681a949b2de",
+      "tags": [
+        "biodiversity",
+        "culture",
+        "national park"
+      ]
+    },
+    {
+      "id": "PJ-CM-03",
+      "name": "PJ Little Explorers House",
+      "short_description": "A creative play space designed to resemble a traditional Costa Rican home, encouraging imaginative role-play and cultural learning for preschoolers.",
+      "subtype": "Children’s Museums",
+      "address": "Barrio El Progreso, Calle La Paz, Puerto Jiménez",
+      "opening_hours": "08:30-14:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628108422650-6819ff39e18b",
+      "tags": [
+        "role-play",
+        "culture",
+        "preschool"
+      ]
+    },
+    {
+      "id": "PJ-CM-04",
+      "name": "Tropical Nature Kids Museum",
+      "short_description": "A sensory-rich museum where children can touch, smell, and hear the sounds of the rainforest, with exhibits on insects, plants, and local ecosystems.",
+      "subtype": "Children’s Museums",
+      "address": "Reserva Biológica Esquinas, Puerto Jiménez",
+      "opening_hours": "10:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510469019777-628f9d51c72f",
+      "tags": [
+        "sensory play",
+        "rainforest",
+        "ecosystems"
+      ]
+    },
+    {
+      "id": "PJ-AQM-01",
+      "name": "Golfo Dulce Mini-Aqua",
+      "short_description": "A compact aquarium showcasing the vibrant marine life of Golfo Dulce, including colorful reef fish, seahorses, and local crustaceans in small tanks.",
+      "subtype": "Aquariums",
+      "address": "Muelle de Puerto Jiménez, Puerto Jiménez",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1544465565-51d36d4128f7",
+      "tags": [
+        "marine life",
+        "golfo dulce",
+        "fish"
+      ]
+    },
+    {
+      "id": "PJ-AQM-02",
+      "name": "Mangrove Marine Lab",
+      "short_description": "An educational exhibit focused on the unique ecosystem of the mangrove forests, featuring a touch tank with crabs, juvenile fish, and other estuary inhabitants.",
+      "subtype": "Aquariums",
+      "address": "Sendero de Manglares, Playa Platanares, Puerto Jiménez",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594918737298-6a3f12b770b1",
+      "tags": [
+        "mangroves",
+        "estuary",
+        "touch tank"
+      ]
+    },
+    {
+      "id": "PJ-AQM-03",
+      "name": "Osa Ocean Discoveries",
+      "short_description": "A small visitor center with interactive displays and observation tanks, highlighting marine conservation efforts and the diverse creatures of the Pacific Ocean.",
+      "subtype": "Aquariums",
+      "address": "Centro de Investigaciones Marinas Osa, Puerto Jiménez",
+      "opening_hours": "10:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520182470679-b14e305e7178",
+      "tags": [
+        "ocean conservation",
+        "marine biology",
+        "educational"
+      ]
+    },
+    {
+      "id": "PJ-AQM-04",
+      "name": "Coral Kids Corner",
+      "short_description": "A dedicated section within a dive shop, offering colorful coral reef models, small tanks with local tropical fish, and educational videos for children.",
+      "subtype": "Aquariums",
+      "address": "Tienda de Buceo, Calle del Mar, Puerto Jiménez",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1610486847494-b7713f04499d",
+      "tags": [
+        "coral reef",
+        "tropical fish",
+        "dive shop"
+      ]
+    },
+    {
+      "id": "PJ-DP-01",
+      "name": "Dinosaurios de la Osa",
+      "short_description": "A compact outdoor exhibit featuring life-sized dinosaur replicas hidden among the tropical foliage, with interpretive signs about prehistoric times.",
+      "subtype": "Dinosaur Parks",
+      "address": "Sector La Cascada, Carretera a Matapalo, Puerto Jiménez",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1575005934661-ee2f1b4a3c3f",
+      "tags": [
+        "dinosaurs",
+        "replicas",
+        "prehistoric"
+      ]
+    },
+    {
+      "id": "PJ-DP-02",
+      "name": "Prehistoric Jungle Play",
+      "short_description": "A dinosaur-themed playground with climbing structures, fossil digging pits, and a 'volcano' slide, designed for active imaginative play.",
+      "subtype": "Dinosaur Parks",
+      "address": "Área Recreativa Municipal, Puerto Jiménez",
+      "opening_hours": "08:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596700877983-6f9a0c6a8b7c",
+      "tags": [
+        "playground",
+        "fossils",
+        "imaginative play"
+      ]
+    },
+    {
+      "id": "PJ-DP-03",
+      "name": "T-Rex Trail Fun",
+      "short_description": "A short, engaging walking trail through a forested area featuring smaller dinosaur models, sound effects, and discovery challenges for kids.",
+      "subtype": "Dinosaur Parks",
+      "address": "Sendero Las Pizotes, Puerto Jiménez",
+      "opening_hours": "09:30-15:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1594918737298-6a3f12b770b1",
+      "tags": [
+        "dinosaur trail",
+        "sound effects",
+        "discovery"
+      ]
+    },
+    {
+      "id": "PJ-DP-04",
+      "name": "Raptor Ridge Adventure",
+      "short_description": "An adventurous play zone with climbing walls and ropes themed around raptors and other agile dinosaurs, encouraging physical activity and creative exploration.",
+      "subtype": "Dinosaur Parks",
+      "address": "Parque de Aventura Sol y Selva, Puerto Jiménez",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620131497914-df619ce29b71",
+      "tags": [
+        "climbing",
+        "raptors",
+        "adventure zone"
+      ]
+    }
+  ]
+}

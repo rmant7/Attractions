@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Atar",
+    "city_id": "2419"
+  },
+  "items": [
+    {
+      "id": "ATAR-001",
+      "name": "Adrar Celestial Camp",
+      "short_description": "Experience the magic of the Sahara under a blanket of stars at this premium eco-camp, featuring powerful telescopes, guided astronomy sessions, and traditional Mauritanian hospitality.",
+      "address": "Route de Chinguetti, 15 km Est d'Atar",
+      "opening_hours": "24/7 (seasonal for best viewing)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1502691871866-995a5356942b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "Astronomy",
+        "Eco-tourism",
+        "Desert"
+      ]
+    },
+    {
+      "id": "ATAR-002",
+      "name": "Atar Ksour Discovery Hub",
+      "short_description": "An interactive museum and research center dedicated to the fascinating history, unique architecture, and ongoing preservation efforts of Mauritania's ancient Ksour cities.",
+      "address": "Rue de l'Indépendance, Quartier Ancien, Atar",
+      "opening_hours": "09:00-17:00 (Mon-Sat)",
+      "price_level": "cheap",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ouadane_Mauritanie.jpg",
+      "tags": [
+        "History",
+        "Culture",
+        "Museum"
+      ]
+    },
+    {
+      "id": "ATAR-003",
+      "name": "Desert Artisan Studio",
+      "short_description": "Engage in hands-on workshops where visitors can learn traditional Mauritanian crafts like leatherwork, weaving, and sand painting directly from skilled local artisans.",
+      "address": "Quartier El Jadid, near the Grand Mosquée, Atar",
+      "opening_hours": "10:00-16:00 (Mon-Fri)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574341595180-2d64fce51197?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "Crafts",
+        "Culture",
+        "Workshop"
+      ]
+    },
+    {
+      "id": "ATAR-004",
+      "name": "Palm Grove Serenity Retreat",
+      "short_description": "A tranquil eco-friendly retreat nestled within a verdant oasis, offering traditional desert wellness practices, relaxation, and healthy, locally sourced cuisine for a rejuvenating escape.",
+      "address": "Oasis de Azougui, 20 km Sud-Est d'Atar",
+      "opening_hours": "24/7",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1596706051515-546b3cf7f781?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "Wellness",
+        "Nature",
+        "Retreat"
+      ]
+    },
+    {
+      "id": "ATAR-005",
+      "name": "Modern Atar Souk Extension",
+      "short_description": "Discover a vibrant new wing of Atar's traditional souk, featuring an expanded selection of organic local produce, exotic spices, and a dedicated area for authentic Mauritanian street food vendors.",
+      "address": "Adjacent to the Main Souk, Avenue Commerciale, Atar",
+      "opening_hours": "08:00-19:00 (Daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1596489397940-d9d300d8677c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "Market",
+        "Food",
+        "Local produce"
+      ]
+    },
+    {
+      "id": "ATAR-006",
+      "name": "Adrar Geopark Gateway",
+      "short_description": "The official visitor center for the newly designated Adrar Geopark, offering interactive exhibits on regional geology, paleontology, and serving as the starting point for guided desert explorations.",
+      "address": "Route de Ouadane, just outside Atar",
+      "opening_hours": "09:00-17:00 (Mon-Sat)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1554167341-ceb976d907f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "Geology",
+        "Nature",
+        "Education"
+      ]
+    },
+    {
+      "id": "ATAR-007",
+      "name": "Caravan Routes Experience",
+      "short_description": "Embark on authentic multi-day camel trekking expeditions into the heart of the Adrar, complete with immersive Bedouin hospitality, traditional storytelling, and mesmerizing desert music under the stars.",
+      "address": "Périphérie Sud, Direction Terjit, Atar",
+      "opening_hours": "08:00-18:00 (Booking Office)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1588661858525-4b07e86664d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "tags": [
+        "Adventure",
+        "Culture",
+        "Trekking"
+      ]
+    },
+    {
+      "id": "ATAR-008",
+      "name": "Adrar Manuscripts Library",
+      "short_description": "A newly established library and archive dedicated to the crucial task of preserving and showcasing ancient desert manuscripts, maps, and invaluable oral histories of the Adrar region.",
+      "address": "Rue Cheikh El Guehd, Centre Ville, Atar",
+      "opening_hours": "10:00-17:00 (Mon-Fri)",
+      "price_level": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ancient_Koran_in_Chinguetti_Library.jpg",
+      "tags": [
+        "History",
+        "Education",
+        "Archives"
+      ]
+    },
+    {
+      "id": "ATAR-009",
+      "name": "Atar Solar Innovation Hub",
+      "short_description": "An educational center demonstrating cutting-edge sustainable desert living, showcasing advanced solar energy solutions, innovative water conservation techniques, and eco-friendly architectural designs.",
+      "address": "Zone Industrielle Extension, Route de Nouakchott, Atar",
+      "opening_hours": "09:00-16:00 (Mon-Sat)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1577741604925-50e501a3579b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "Sustainability",
+        "Technology",
+        "Education"
+      ]
+    },
+    {
+      "id": "ATAR-010",
+      "name": "Atar Horizons Youth Center",
+      "short_description": "A vibrant community space fostering creativity and cultural exchange among local youth and visitors through art, music, language workshops, and collaborative projects.",
+      "address": "Avenue Mohammed V, Quartier Central, Atar",
+      "opening_hours": "10:00-20:00 (Tue-Sun)",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1601633596956-628d0979a05b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "Community",
+        "Culture",
+        "Youth"
+      ]
+    }
+  ]
+}

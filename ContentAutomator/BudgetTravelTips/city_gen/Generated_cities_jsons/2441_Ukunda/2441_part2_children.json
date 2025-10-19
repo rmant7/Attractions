@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Ukunda",
+    "city_id": "2441"
+  },
+  "items": [
+    {
+      "id": "UkundaCircus1",
+      "name": "Ukunda Safari Circus",
+      "short_description": "Experience the magic under the big top with acrobats, clowns, and daring acts inspired by local wildlife.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Diani Beach Road, next to Ukunda Airport, Ukunda",
+      "opening_hours": "17:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579895058694-88a4e8d38096?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "circus",
+        "live show",
+        "family entertainment"
+      ]
+    },
+    {
+      "id": "DianiPuppets2",
+      "name": "Diani Beach Puppetry",
+      "short_description": "Traditional and modern puppet shows telling captivating stories from Kenyan folklore for young audiences.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Off Diani Beach Road, near Nomads, Ukunda",
+      "opening_hours": "14:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579895058694-88a4e8d38096?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "puppet show",
+        "folklore",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "CoastalMarionettes3",
+      "name": "Coastal Kids Marionettes",
+      "short_description": "Interactive marionette performances, allowing children to learn about coastal culture through playful characters.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Galu Kinondo Road, Ukunda",
+      "opening_hours": "11:00-13:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579895058694-88a4e8d38096?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "marionettes",
+        "culture",
+        "interactive"
+      ]
+    },
+    {
+      "id": "JamboTentCircus4",
+      "name": "Jambo Tent Circus",
+      "short_description": "A vibrant community circus offering workshops and performances, showcasing local talent and global acts.",
+      "subtype": "Circuses & Puppet Theaters",
+      "address": "Ukunda-Lungalunga Road, near Ukunda CBD, Ukunda",
+      "opening_hours": "16:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579895058694-88a4e8d38096?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "community circus",
+        "workshops",
+        "talent show"
+      ]
+    },
+    {
+      "id": "UkundaMagic1",
+      "name": "Ukunda Mystery Magic",
+      "short_description": "A thrilling magic show filled with mind-bending illusions and dazzling tricks that will amaze the whole family.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Diani Beach Road, Baharini Plaza, Ukunda",
+      "opening_hours": "18:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621252063383-912f718a383d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "magic show",
+        "illusions",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "CoastalIllusions2",
+      "name": "Coastal Wonders Illusionist",
+      "short_description": "Witness the impossible as our illusionist blends magic with coastal tales, creating an unforgettable experience.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Galu Kinondo Road, near The Sands, Ukunda",
+      "opening_hours": "19:30-20:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1621252063383-912f718a383d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "illusionist",
+        "spectacle",
+        "unique"
+      ]
+    },
+    {
+      "id": "SafariSpellbound3",
+      "name": "Safari Spellbound Show",
+      "short_description": "A magical journey incorporating African safari themes, where animals appear and disappear before your eyes.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Ukunda Town Center, near Equity Bank, Ukunda",
+      "opening_hours": "15:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621252063383-912f718a383d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "themed magic",
+        "safari",
+        "family fun"
+      ]
+    },
+    {
+      "id": "DianiDreamweaver4",
+      "name": "Diani Dreamweaver Magic",
+      "short_description": "Interactive magic tricks and storytelling designed to inspire wonder and imagination in young children.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Off Ukunda-Lungalunga Road, near Leisure Lodge, Ukunda",
+      "opening_hours": "14:00-15:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621252063383-912f718a383d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "interactive magic",
+        "storytelling",
+        "imagination"
+      ]
+    },
+    {
+      "id": "UkundaFarm1",
+      "name": "Ukunda Animal Farm",
+      "short_description": "A hands-on experience for children to interact with friendly farm animals, learn about farming, and enjoy fresh produce.",
+      "subtype": "Farm Attractions",
+      "address": "Ukunda-Lungalunga Road, 5km from Ukunda Airport, Ukunda",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1546761005-47ed229d71c1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "petting farm",
+        "farm animals",
+        "educational"
+      ]
+    },
+    {
+      "id": "DianiRanch2",
+      "name": "Diani Kids' Ranch",
+      "short_description": "Kids can enjoy pony rides, feed goats, and participate in daily farm chores, fostering a love for nature and animals.",
+      "subtype": "Farm Attractions",
+      "address": "Off Diani Beach Road, near Kongo Mosque, Ukunda",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1546761005-47ed229d71c1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "pony rides",
+        "animal feeding",
+        "nature"
+      ]
+    },
+    {
+      "id": "ShambaWatoto3",
+      "name": "Shamba La Watoto (Children's Farm)",
+      "short_description": "A unique cultural farm experience where children learn traditional farming methods and interact with indigenous livestock.",
+      "subtype": "Farm Attractions",
+      "address": "Ukunda-Msambweni Road, Ukunda",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1546761005-47ed229d71c1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "cultural farm",
+        "indigenous animals",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "CoconutGrove4",
+      "name": "Coconut Grove Petting Farm",
+      "short_description": "Set amidst a coconut plantation, this farm offers serene animal encounters and eco-friendly activities.",
+      "subtype": "Farm Attractions",
+      "address": "Galu Kinondo Road, near Alfajiri Villas, Ukunda",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1546761005-47ed229d71c1?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "eco-friendly",
+        "petting animals",
+        "plantation"
+      ]
+    },
+    {
+      "id": "UkundaZoo1",
+      "name": "Ukunda Mini Zoo",
+      "short_description": "A small, intimate zoo featuring local and exotic small animals, with educational talks and feeding sessions.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Diani Beach Road, near Diani Shopping Centre, Ukunda",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1606850684242-4f18b321a8d0?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "mini zoo",
+        "exotic animals",
+        "educational"
+      ]
+    },
+    {
+      "id": "DianiWildlife2",
+      "name": "Diani Wildlife Encounter",
+      "short_description": "A sanctuary focused on animal rescue and rehabilitation, offering supervised interactions with gentle creatures.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Off Ukunda-Lungalunga Road, 3km from Ukunda Town, Ukunda",
+      "opening_hours": "10:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1606850684242-4f18b321a8d0?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "wildlife sanctuary",
+        "animal rescue",
+        "interactive"
+      ]
+    },
+    {
+      "id": "CoastalCritter3",
+      "name": "Coastal Critter Corner",
+      "short_description": "A petting zoo dedicated to local coastal species, providing a fun and informative experience for kids.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Galu Kinondo Road, near Kinondo Village, Ukunda",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1606850684242-4f18b321a8d0?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "petting zoo",
+        "local species",
+        "informative"
+      ]
+    },
+    {
+      "id": "SafariPetting4",
+      "name": "Safari Petting Oasis",
+      "short_description": "An open-air petting zoo where children can safely interact with a variety of tame animals in a natural setting.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Ukunda-Msambweni Road, near Mwabungo, Ukunda",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1606850684242-4f18b321a8d0?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "open-air",
+        "tame animals",
+        "natural setting"
+      ]
+    },
+    {
+      "id": "UkundaRides1",
+      "name": "Ukunda Funfair Rides",
+      "short_description": "Classic funfair rides including a carousel, mini Ferris wheel, and bouncy castles for endless family entertainment.",
+      "subtype": "Amusement Rides",
+      "address": "Diani Beach Road, next to Nakumatt Diani, Ukunda",
+      "opening_hours": "16:00-21:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594520337854-15967000216b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "funfair",
+        "carousel",
+        "family rides"
+      ]
+    },
+    {
+      "id": "DianiThrills2",
+      "name": "Diani Beach Thrills",
+      "short_description": "A collection of exciting rides designed for older kids and teens, from spinning teacups to a small roller coaster.",
+      "subtype": "Amusement Rides",
+      "address": "Off Diani Beach Road, near Forty Thieves, Ukunda",
+      "opening_hours": "17:00-22:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1594520337854-15967000216b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "roller coaster",
+        "thrill rides",
+        "teen friendly"
+      ]
+    },
+    {
+      "id": "SafariAdventure3",
+      "name": "Safari Adventure Spins",
+      "short_description": "Safari-themed rides that take children on gentle spins and turns, mimicking a mini-adventure through the bush.",
+      "subtype": "Amusement Rides",
+      "address": "Ukunda-Lungalunga Road, near Ukunda Airstrip, Ukunda",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594520337854-15967000216b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "themed rides",
+        "safari adventure",
+        "gentle rides"
+      ]
+    },
+    {
+      "id": "KiteRiders4",
+      "name": "Kite Riders Coaster",
+      "short_description": "A unique, beach-inspired mini-coaster where kids can 'kite surf' through gentle drops and turns.",
+      "subtype": "Amusement Rides",
+      "address": "Galu Kinondo Road, near Che Shale, Ukunda",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1594520337854-15967000216b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "mini coaster",
+        "beach themed",
+        "unique ride"
+      ]
+    },
+    {
+      "id": "UkundaSplash1",
+      "name": "Ukunda Splash & Play",
+      "short_description": "A vibrant water park featuring small slides, splash pads, and shallow pools perfect for toddlers and young children.",
+      "subtype": "Water Parks for Kids",
+      "address": "Diani Beach Road, adjacent to Alliance Hotel, Ukunda",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616788863633-1493033501a4?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "splash pad",
+        "shallow pools",
+        "toddler friendly"
+      ]
+    },
+    {
+      "id": "DianiAquaKids2",
+      "name": "Diani Aqua Kids Zone",
+      "short_description": "Larger water slides, interactive water features, and a dedicated lazy river section for older children and families.",
+      "subtype": "Water Parks for Kids",
+      "address": "Off Ukunda-Lungalunga Road, near Diani Hospital, Ukunda",
+      "opening_hours": "09:30-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1616788863633-1493033501a4?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "water slides",
+        "lazy river",
+        "family water park"
+      ]
+    },
+    {
+      "id": "CoastalWaves3",
+      "name": "Coastal Waves Water Park",
+      "short_description": "Enjoy miniature wave pools and pirate ship themed play areas, offering hours of aquatic fun.",
+      "subtype": "Water Parks for Kids",
+      "address": "Galu Kinondo Road, near Lantana Galu Beach, Ukunda",
+      "opening_hours": "10:00-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616788863633-1493033501a4?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "wave pool",
+        "pirate ship",
+        "aquatic play"
+      ]
+    },
+    {
+      "id": "BlueLagoonSplash4",
+      "name": "Blue Lagoon Splash Pad",
+      "short_description": "A delightful splash pad with fountains, sprinklers, and water jets, perfect for cooling off on hot Diani days.",
+      "subtype": "Water Parks for Kids",
+      "address": "Ukunda Town Centre, next to Posta, Ukunda",
+      "opening_hours": "11:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616788863633-1493033501a4?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "splash pad",
+        "water fountains",
+        "cooling off"
+      ]
+    },
+    {
+      "id": "UkundaSports1",
+      "name": "Ukunda Junior Sports Park",
+      "short_description": "Multi-sport facility with mini football pitches, basketball courts, and track and field areas for young athletes.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Diani Beach Road, near Diani Reef Resort, Ukunda",
+      "opening_hours": "08:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1587391942940-20519398ec4b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "football",
+        "basketball",
+        "youth sports"
+      ]
+    },
+    {
+      "id": "DianiActiveKids2",
+      "name": "Diani Active Kids Arena",
+      "short_description": "An indoor/outdoor sports complex offering mini-golf, tennis courts, and soft play areas for active fun.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Off Ukunda-Lungalunga Road, near Safaricom Shop, Ukunda",
+      "opening_hours": "09:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1587391942940-20519398ec4b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "mini-golf",
+        "tennis",
+        "indoor play"
+      ]
+    },
+    {
+      "id": "SafariYoungChamps3",
+      "name": "Safari Young Champs Hub",
+      "short_description": "Safari-themed obstacle courses, climbing walls, and team-building challenges designed for adventurous kids.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Galu Kinondo Road, near Neptune Village, Ukunda",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1587391942940-20519398ec4b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "obstacle course",
+        "climbing",
+        "team building"
+      ]
+    },
+    {
+      "id": "CoastalKidsMulti4",
+      "name": "Coastal Kids Multi-Sport",
+      "short_description": "A diverse arena offering beach volleyball, mini-hockey, and agility courses with professional coaching available.",
+      "subtype": "Mini Sports Arenas",
+      "address": "Ukunda Beach Access Road, near local markets, Ukunda",
+      "opening_hours": "08:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1587391942940-20519398ec4b?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "beach volleyball",
+        "mini-hockey",
+        "coaching"
+      ]
+    },
+    {
+      "id": "UkundaSafariLand1",
+      "name": "Ukunda Safari Land",
+      "short_description": "A mini theme park with safari-themed rides, interactive exhibits, and character meet-and-greets.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Ukunda-Lungalunga Road, 10km from Ukunda Airport, Ukunda",
+      "opening_hours": "09:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1563852028678-75c6c646b5d2?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "safari theme",
+        "rides",
+        "character meet"
+      ]
+    },
+    {
+      "id": "DianiExplorers2",
+      "name": "Diani Explorer's Village",
+      "short_description": "An educational theme park focusing on coastal ecology and marine life, with gentle rides and discovery zones.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Diani Beach Road, near Marine Park entrance, Ukunda",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563852028678-75c6c646b5d2?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "marine theme",
+        "ecology",
+        "discovery zone"
+      ]
+    },
+    {
+      "id": "CoastalAdventures3",
+      "name": "Coastal Adventures Park",
+      "short_description": "A park designed for younger adventurers, featuring small ziplines, climbing structures, and obstacle courses.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Galu Kinondo Road, near AfroChic Diani, Ukunda",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563852028678-75c6c646b5d2?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "adventure park",
+        "ziplines",
+        "climbing"
+      ]
+    },
+    {
+      "id": "JungleJourney4",
+      "name": "Jungle Journey Theme Park",
+      "short_description": "Immerse in a lush jungle setting with animatronic animals, hidden pathways, and child-friendly train rides.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Ukunda Town Centre, next to Ukunda Public Library, Ukunda",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563852028678-75c6c646b5d2?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "jungle theme",
+        "animatronics",
+        "train rides"
+      ]
+    },
+    {
+      "id": "UkundaDino1",
+      "name": "Ukunda Dino Discovery",
+      "short_description": "Walk among life-sized dinosaur models, dig for fossils, and learn about prehistoric life in an immersive setting.",
+      "subtype": "Dinosaur Parks",
+      "address": "Ukunda-Lungalunga Road, near Kongo River, Ukunda",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520188610543-9ce3b632e185?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "dinosaur models",
+        "fossil dig",
+        "prehistoric"
+      ]
+    },
+    {
+      "id": "DianiJurassicKids2",
+      "name": "Diani Jurassic Kids",
+      "short_description": "An interactive dinosaur park with animatronic dinosaurs, a paleontology sandbox, and educational presentations.",
+      "subtype": "Dinosaur Parks",
+      "address": "Diani Beach Road, 2km from Ukunda Airport, Ukunda",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1520188610543-9ce3b632e185?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "animatronic dinosaurs",
+        "paleontology",
+        "interactive"
+      ]
+    },
+    {
+      "id": "CoastalPrehistoric3",
+      "name": "Coastal Prehistoric Park",
+      "short_description": "Explore a unique park combining dinosaur exhibits with elements of ancient coastal ecosystems, including a dino-themed play area.",
+      "subtype": "Dinosaur Parks",
+      "address": "Galu Kinondo Road, near The Maji Beach Boutique, Ukunda",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1520188610543-9ce3b632e185?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "dinosaur exhibits",
+        "play area",
+        "ecosystem"
+      ]
+    },
+    {
+      "id": "RaptorRidge4",
+      "name": "Raptor Ridge Roar",
+      "short_description": "A thrilling dinosaur adventure featuring sound and motion effects, a raptor encounter maze, and fossil displays.",
+      "subtype": "Dinosaur Parks",
+      "address": "Ukunda Town Centre, next to Ukunda Police Station, Ukunda",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1520188610543-9ce3b632e185?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "raptor maze",
+        "sound effects",
+        "fossil displays"
+      ]
+    },
+    {
+      "id": "UkundaQuest1",
+      "name": "Ukunda Safari Quest",
+      "short_description": "Embark on an interactive treasure hunt through a simulated safari environment, solving riddles and completing challenges.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Diani Beach Road, near Southern Palms Beach Resort, Ukunda",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1586544971840-7f28ed98c412?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "treasure hunt",
+        "safari theme",
+        "riddles"
+      ]
+    },
+    {
+      "id": "DianiTreasure2",
+      "name": "Diani Treasure Hunt Trails",
+      "short_description": "Outdoor adventure game where teams follow clues across Diani's natural landscapes to find hidden treasures.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Off Diani Beach Road, near Colobus Conservation, Ukunda",
+      "opening_hours": "09:30-15:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1586544971840-7f28ed98c412?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "outdoor game",
+        "clues",
+        "team challenge"
+      ]
+    },
+    {
+      "id": "CoastalLabyrinth3",
+      "name": "Coastal Kid's Labyrinth",
+      "short_description": "A fun and challenging maze constructed with natural materials, designed for children to navigate and discover hidden surprises.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Galu Kinondo Road, near Pinewood Beach Resort, Ukunda",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1586544971840-7f28ed98c412?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "maze",
+        "natural play",
+        "discovery"
+      ]
+    },
+    {
+      "id": "JungleExplorer4",
+      "name": "Jungle Explorer's Challenge",
+      "short_description": "A series of physical and mental challenges set in a jungle-themed adventure park, promoting problem-solving skills.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Ukunda-Msambweni Road, near Mwabungo Forest, Ukunda",
+      "opening_hours": "08:30-16:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1586544971840-7f28ed98c412?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+      "tags": [
+        "physical challenge",
+        "problem solving",
+        "jungle adventure"
+      ]
+    }
+  ]
+}

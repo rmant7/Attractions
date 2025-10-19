@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Malindi",
+    "city_id": "2435"
+  },
+  "items": [
+    {
+      "id": "MAL001",
+      "name": "Malindi Ocean Legacy Center",
+      "short_description": "Dive into interactive exhibits showcasing Malindi's rich marine biodiversity and learn about critical conservation efforts. A must-visit for ocean enthusiasts and families.",
+      "address": "Off Casuarina Road, Near Malindi Marine National Park, Malindi",
+      "opening_hours": "09:30-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620603713028-56accc22e519?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "marine life",
+        "conservation",
+        "education"
+      ]
+    },
+    {
+      "id": "MAL002",
+      "name": "Bahari Canvas Gallery & Studio",
+      "short_description": "Explore contemporary Kenyan art inspired by the coast and participate in engaging craft workshops led by local artisans. A vibrant space for creativity and cultural exchange.",
+      "address": "Lamu Road, Malindi Town, Malindi",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1544717145-8f6a394ef646?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "culture",
+        "workshops"
+      ]
+    },
+    {
+      "id": "MAL003",
+      "name": "Kilifi Creek Eco-Resort & Spice Gardens",
+      "short_description": "A serene escape offering sustainable luxury accommodations amidst lush botanical spice gardens. Indulge in farm-to-table dining and immersive nature walks.",
+      "address": "Off Watamu Road, Malindi (towards Kilifi)",
+      "opening_hours": "24/7 (for guests), Garden tours 10:00-16:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1594968560370-13f508ce1d5d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "eco-tourism",
+        "luxury",
+        "gardens"
+      ]
+    },
+    {
+      "id": "MAL004",
+      "name": "Malindi Sky Trails Adventure Park",
+      "short_description": "Get your adrenaline pumping with thrilling ziplines, rope courses, and obstacle challenges set amidst natural coastal forest. Fun for all ages and fitness levels.",
+      "address": "Galana River Road, Near Malindi Golf & Country Club, Malindi",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579201502476-880629cfd7b2?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "family fun",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "MAL005",
+      "name": "Sunset Azure Rooftop Lounge",
+      "short_description": "Enjoy breathtaking panoramic views of the Indian Ocean while sipping on craft cocktails and indulging in delicious bites. The perfect spot for sundowners and evening relaxation.",
+      "address": "Top Floor, Ocean View Towers, Vasco da Gama Road, Malindi",
+      "opening_hours": "17:00-00:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1597547960309-84d720d2d34a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nightlife",
+        "views",
+        "cocktails"
+      ]
+    },
+    {
+      "id": "MAL006",
+      "name": "Pwani Bites & Culinary Studio",
+      "short_description": "Discover the fusion of traditional Swahili flavors with modern culinary techniques. Enjoy hands-on cooking classes or savor a unique tasting menu in a chic, contemporary setting.",
+      "address": "Biashara Street, Malindi Town, Malindi",
+      "opening_hours": "11:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1578351508212-0cfb3f545a27?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food",
+        "cooking",
+        "culture"
+      ]
+    },
+    {
+      "id": "MAL007",
+      "name": "Shanti Oasis Wellness Retreat",
+      "short_description": "Find your inner peace at this serene sanctuary offering daily yoga classes, meditation sessions, and holistic spa treatments. Embrace tranquility by the coast.",
+      "address": "Off Malindi-Mombasa Highway, Near Mambrui Beach, Malindi",
+      "opening_hours": "07:00-19:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1603988636402-230db436336e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wellness",
+        "yoga",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "MAL008",
+      "name": "Malindi Echoes Heritage Center",
+      "short_description": "Step back in time with immersive exhibits and virtual reality experiences telling the rich history of Malindi, from ancient Swahili trade to colonial influence.",
+      "address": "Near Vasco da Gama Pillar, Malindi Town, Malindi",
+      "opening_hours": "09:00-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1518451480031-c42b879a9cf3?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "history",
+        "culture",
+        "interactive"
+      ]
+    },
+    {
+      "id": "MAL009",
+      "name": "Coast Bean Roasters & Cafe",
+      "short_description": "Experience the aroma of freshly roasted Kenyan coffee right here in Malindi. Enjoy artisanal brews, light snacks, and a cozy atmosphere perfect for relaxing or working.",
+      "address": "Kenyatta Road, Malindi Town, Malindi",
+      "opening_hours": "07:30-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1541167738220-e25f187a0709?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "coffee",
+        "cafe",
+        "local produce"
+      ]
+    },
+    {
+      "id": "MAL010",
+      "name": "Mida Creek Mangrove Boardwalk",
+      "short_description": "Wander through the mystical mangrove forests of Mida Creek on an elevated boardwalk. Discover unique flora and fauna and enjoy unparalleled birdwatching opportunities.",
+      "address": "Mida Creek Road, Watamu (near Malindi)",
+      "opening_hours": "08:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1629853372986-e57a44f33b1e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "birdwatching",
+        "eco-tour"
+      ]
+    }
+  ]
+}

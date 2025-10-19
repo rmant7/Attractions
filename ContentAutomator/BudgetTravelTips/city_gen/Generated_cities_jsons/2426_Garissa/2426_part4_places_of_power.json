@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Garissa",
+    "city_id": "2426"
+  },
+  "items": [
+    {
+      "id": "GarissaOracle01",
+      "name": "Whispering Dunes Oracle",
+      "short_description": "A sacred spot where elders once interpreted the shifting sands and wind whispers for guidance, believed to hold ancestral voices and foresee future events.",
+      "subtype": "Oracle Sites",
+      "address": "Near Bura, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517457373958-b7bdd45823ed?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "divination",
+        "ancestral wisdom",
+        "desert spirituality"
+      ]
+    },
+    {
+      "id": "GarissaOracle02",
+      "name": "Tana River Croc Oracle Shrine",
+      "short_description": "A site along the Tana River where the movements and sounds of crocodiles were traditionally observed for omens and predictions regarding riverine life, rainfall, and community well-being.",
+      "subtype": "Oracle Sites",
+      "address": "Along Tana River, near Sankuri, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549445214-72260654060b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "river spirituality",
+        "animal omens",
+        "traditional beliefs"
+      ]
+    },
+    {
+      "id": "GarissaOracle03",
+      "name": "Baobab of Foresight",
+      "short_description": "An ancient, gnarled baobab tree, revered as a place where community elders sought counsel and prophetic visions under its vast canopy for generations.",
+      "subtype": "Oracle Sites",
+      "address": "Kora National Park boundary, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1548600810-7080a22fb149?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sacred tree",
+        "elder wisdom",
+        "prophetic visions"
+      ]
+    },
+    {
+      "id": "GarissaOracle04",
+      "name": "Moonstone Plateau Divination Site",
+      "short_description": "A high plateau featuring unique, light-colored stones, believed to glow faintly under moonlight, used for celestial divination and seeking guidance from the night sky by ancient mystics.",
+      "subtype": "Oracle Sites",
+      "address": "Liboi-Dadaab Road, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1582260170068-d0b497042055?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "celestial divination",
+        "sacred rocks",
+        "night rituals"
+      ]
+    },
+    {
+      "id": "GarissaForest01",
+      "name": "Tana River Gallery Sanctuary",
+      "short_description": "A protected section of the riverine forest along the Tana, revered for its ancient trees and believed to be a dwelling place for benevolent nature spirits, offering solace and protection.",
+      "subtype": "Sacred Forests",
+      "address": "Near Bura, Tana River County border, Garissa, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547721064-cd278e3752e2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "riverine forest",
+        "nature spirits",
+        "ecological sanctuary"
+      ]
+    },
+    {
+      "id": "GarissaForest02",
+      "name": "Acacia Grove of Tranquility",
+      "short_description": "A secluded grove of ancient acacia trees, known for its profound silence and peaceful aura, used historically for meditation and seeking inner calm amidst the arid landscape.",
+      "subtype": "Sacred Forests",
+      "address": "Along Garissa-Modogashe Road, Garissa, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1507725916056-b0769a6671ba?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "meditation",
+        "sacred grove",
+        "peaceful retreat"
+      ]
+    },
+    {
+      "id": "GarissaForest03",
+      "name": "Dawa's Healing Thicket",
+      "short_description": "A small, dense thicket renowned for its unique medicinal plant species and considered a sacred place for traditional healers to gather herbs and conduct healing rituals.",
+      "subtype": "Sacred Forests",
+      "address": "Eastern outskirts of Garissa town, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1627993358385-e234397a61d7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "healing plants",
+        "traditional medicine",
+        "ritual site"
+      ]
+    },
+    {
+      "id": "GarissaForest04",
+      "name": "Arawale Ancestral Bushland",
+      "short_description": "A significant portion of the Arawale bushland recognized for its historical use by local communities for initiation rites and ancestral veneration, preserving ancient practices and cultural heritage.",
+      "subtype": "Sacred Forests",
+      "address": "Arawale National Reserve boundary, Garissa, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1627885472855-32a514d02633?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "initiation rites",
+        "ancestral veneration",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "GarissaShrine01",
+      "name": "Sheikh Hassan's Mausoleum",
+      "short_description": "A revered tomb of a local Islamic scholar and saint, Sheikh Hassan, whose teachings and spiritual guidance profoundly influenced the Garissa community. It is a place of quiet prayer and pilgrimage.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Central Garissa Town, Garissa, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1549721750-779813589785?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Islamic saint",
+        "mausoleum",
+        "pilgrimage"
+      ]
+    },
+    {
+      "id": "GarissaShrine02",
+      "name": "Cairn of Elder Warsame",
+      "short_description": "An ancient stone cairn marking the resting place of a legendary clan elder, believed to be a source of blessings and a tangible link to the community's founding ancestors.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Near Saka, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1550993077-40c266858e3e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral site",
+        "clan history",
+        "blessing site"
+      ]
+    },
+    {
+      "id": "GarissaShrine03",
+      "name": "Cave of Ashab al-Kahf (Seven Sleepers)",
+      "short_description": "A small, unassuming cave locally believed to be connected to the Islamic legend of the Seven Sleepers, offering a tranquil space for reflection and spiritual connection.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Outskirts of Fafi, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1610427184285-d852a38a7c2f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Islamic legend",
+        "cave sanctuary",
+        "reflection"
+      ]
+    },
+    {
+      "id": "GarissaShrine04",
+      "name": "Imam Nur's Zawiya & Tomb",
+      "short_description": "A historical Sufi center and the tomb of Imam Nur, a revered spiritual guide, where seekers would gather for religious instruction, spiritual guidance, and blessings.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Madogo, along Tana River, Garissa, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1620619728271-e2343a411a76?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Sufism",
+        "spiritual guide",
+        "religious education"
+      ]
+    },
+    {
+      "id": "GarissaMegalith01",
+      "name": "Huria Standing Stones",
+      "short_description": "A cluster of roughly hewn standing stones, believed to be ancient pastoralist markers or ceremonial sites, predating modern settlements and offering insights into early inhabitants.",
+      "subtype": "Megalithic Sites",
+      "address": "North of Garissa town, along Lagh Dera seasonal riverbed, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1549419137-b45b238d330d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancient markers",
+        "pastoralist heritage",
+        "ceremonial site"
+      ]
+    },
+    {
+      "id": "GarissaMegalith02",
+      "name": "Bura Stone Circle",
+      "short_description": "A mysterious arrangement of large stones forming a rough circle, interpreted by some as an ancient meeting place or a ritualistic enclosure from a long-lost culture.",
+      "subtype": "Megalithic Sites",
+      "address": "Near Bura Airstrip, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563852501062-8e104ae53d10?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "prehistoric site",
+        "ritual enclosure",
+        "ancient culture"
+      ]
+    },
+    {
+      "id": "GarissaMegalith03",
+      "name": "Kulan's Sacred Slab",
+      "short_description": "A massive, flat stone slab discovered semi-buried, believed to have served as an altar or a focal point for ancient spiritual gatherings of a nomadic tribe.",
+      "subtype": "Megalithic Sites",
+      "address": "Along Ijara-Garissa Road, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1518714072714-93e1a0d31518?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancient altar",
+        "nomadic heritage",
+        "sacred stone"
+      ]
+    },
+    {
+      "id": "GarissaMegalith04",
+      "name": "Dertu Ancestral Passage Graves",
+      "short_description": "A series of small, stone-lined mounds, potentially ancient burial sites or passage graves, offering a glimpse into the funerary practices of early inhabitants of the region.",
+      "subtype": "Megalithic Sites",
+      "address": "Dertu area, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1551368146-271542f59223?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancient burials",
+        "funerary rites",
+        "archaeological interest"
+      ]
+    },
+    {
+      "id": "GarissaVolcanic01",
+      "name": "Dawa's Ancient Lava Fields",
+      "short_description": "Remnants of ancient, heavily eroded lava flows, now appearing as stark, dark rock formations. Local legends speak of a time when the earth bled fire here, imbuing the site with mystical energy.",
+      "subtype": "Volcanic Zones",
+      "address": "Near Dawa River confluence, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1579261057404-58564b1d7d02?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancient geology",
+        "mythological site",
+        "stark landscape"
+      ]
+    },
+    {
+      "id": "GarissaVolcanic02",
+      "name": "Sangailu Geothermal Springs",
+      "short_description": "A series of naturally warm springs emerging from the earth, attributed to deep geological activity. Revered for their supposed healing properties and considered a sacred bathing site.",
+      "subtype": "Volcanic Zones",
+      "address": "Sangailu area, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1594950005370-520f92265dd5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "geothermal",
+        "healing waters",
+        "sacred bathing"
+      ]
+    },
+    {
+      "id": "GarissaVolcanic03",
+      "name": "Basalt Column Ridge",
+      "short_description": "An unusual ridge composed of distinctive columnar basalt formations, suggestive of ancient volcanic cooling patterns. It's a striking natural wonder with a unique spiritual presence.",
+      "subtype": "Volcanic Zones",
+      "address": "South of Balambala, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1593976378278-f71f6522c070?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "geological marvel",
+        "ancient volcanism",
+        "natural wonder"
+      ]
+    },
+    {
+      "id": "GarissaVolcanic04",
+      "name": "Arawale Ash Hills",
+      "short_description": "A series of low, barren hills characterized by unique, ash-like soil, locally thought to be the dust of primordial fires or ancient earth spirits, a place of stark, spiritual beauty.",
+      "subtype": "Volcanic Zones",
+      "address": "Eastern Arawale National Reserve, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1597463768843-c0529d380e92?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "earth spirits",
+        "unique geology",
+        "desolate beauty"
+      ]
+    },
+    {
+      "id": "GarissaRock01",
+      "name": "Camel's Back Rock",
+      "short_description": "A massive, distinctive rock formation resembling a resting camel, a traditional landmark and a site of blessings for safe journeys for pastoralists traversing the region.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Along Garissa-Liboi Road, Garissa, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1593139369324-7761168f6a96?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "natural landmark",
+        "pastoralist blessings",
+        "journey prayers"
+      ]
+    },
+    {
+      "id": "GarissaRock02",
+      "name": "The Sentinel Monolith",
+      "short_description": "A towering, solitary rock monolith that stands guard over the plains, revered as a watchful ancestor spirit and a powerful symbol of endurance and resilience.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "West of Balambala, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1598583416041-002f2323e079?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral spirit",
+        "endurance symbol",
+        "natural monument"
+      ]
+    },
+    {
+      "id": "GarissaRock03",
+      "name": "Whispering Caves of Korakora",
+      "short_description": "A series of interconnected caves formed by ancient erosion, known for their unusual acoustics, believed to carry the echoes of ancient ceremonies and prayers within their depths.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Korakora area, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1506599158332-9b0d2d64f0f6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cave sanctuary",
+        "ancient echoes",
+        "acoustic marvel"
+      ]
+    },
+    {
+      "id": "GarissaRock04",
+      "name": "The Skull Rock",
+      "short_description": "A fascinating rock outcrop naturally sculpted to resemble a colossal skull, a site traditionally used for storytelling and initiation rites due to its intimidating and symbolic presence.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "South of Balambala, near Tana River, Garissa, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1623916962057-3f1ce4d2217c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "initiation site",
+        "storytelling",
+        "natural sculpture"
+      ]
+    },
+    {
+      "id": "GarissaPilgrim01",
+      "name": "Path of Sheikh Hassan",
+      "short_description": "A traditional route followed by devotees traveling to Sheikh Hassan's Mausoleum, with designated stops for prayer and reflection along the arid landscape, seeking blessings and spiritual solace.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting point near Fafi, Garissa County, Kenya (ends at Sheikh Hassan's Mausoleum)",
+      "visiting_hours": "Always Open",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1509315809715-1cf5527d21c2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Islamic pilgrimage",
+        "devotion",
+        "spiritual journey"
+      ]
+    },
+    {
+      "id": "GarissaPilgrim02",
+      "name": "Tana River Water Blessing Route",
+      "short_description": "A ceremonial route along the banks of the Tana River, undertaken to seek blessings for water, fertility, and prosperity from the life-giving river, a vital source in the region.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Along Tana River, starting near Benane, Garissa, Kenya",
+      "visiting_hours": "Always Open",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1605658145237-775f0a0558b7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "water blessings",
+        "fertility rituals",
+        "riverine culture"
+      ]
+    },
+    {
+      "id": "GarissaPilgrim03",
+      "name": "Dertu Desert Trek of Penance",
+      "short_description": "A challenging, arduous pilgrimage across the Dertu desert, historically undertaken for penance, spiritual purification, or seeking profound insights through hardship and isolation.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Spans across Dertu sub-county, Garissa, Kenya",
+      "visiting_hours": "Always Open",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1508849764504-2ee4a31776ce?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "penance",
+        "spiritual purification",
+        "desert trekking"
+      ]
+    },
+    {
+      "id": "GarissaPilgrim04",
+      "name": "Nomad's Prayer Trail to Qudho",
+      "short_description": "An ancient trail used by nomadic communities, leading to the revered Qudho Holy Well, a vital source of water and spiritual solace in the dry lands, offering a place for communal prayers.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting point near Lagdera, leading to Qudho, Garissa, Kenya",
+      "visiting_hours": "Always Open",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1533554807693-bd8e6b9117f7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nomadic culture",
+        "holy well",
+        "prayer trail"
+      ]
+    },
+    {
+      "id": "GarissaCelestial01",
+      "name": "Sunrise Stone of Balambala",
+      "short_description": "A prominent standing stone whose shadow aligns precisely with a distant peak during the solstices, believed to mark important seasonal transitions for ancient communities and agricultural cycles.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "East of Balambala, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517036665790-28e7529f7983?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "solstice marker",
+        "ancient astronomy",
+        "seasonal rites"
+      ]
+    },
+    {
+      "id": "GarissaCelestial02",
+      "name": "Stargazer's Plateau",
+      "short_description": "A vast, flat plateau offering unparalleled views of the night sky, historically used by traditional astronomers and mystics to observe constellations and track celestial movements for guidance.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "North of Bura, Garissa County, Kenya",
+      "visiting_hours": "18:00-06:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1541870273759-5f11105df5e5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "astronomy",
+        "night sky",
+        "mystical observation"
+      ]
+    },
+    {
+      "id": "GarissaCelestial03",
+      "name": "Moon Gate Rock Arch",
+      "short_description": "A natural rock arch through which the full moon perfectly frames itself on specific nights, believed to open a portal for spiritual communication during these celestial events.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Along Tana River, near Madogo, Garissa, Kenya",
+      "visiting_hours": "18:00-06:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1522080351145-219ee54d4810?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "lunar alignment",
+        "spiritual portal",
+        "natural arch"
+      ]
+    },
+    {
+      "id": "GarissaCelestial04",
+      "name": "Pleiades Peak",
+      "short_description": "A distinctive peak revered as a sacred marker, where the rising of the Pleiades constellation at certain times of the year was used to signal vital planting or migration periods by ancient communities.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Kora National Park boundary, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1534015638848-185d26a27ee0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "constellation tracking",
+        "agricultural cycles",
+        "sacred peak"
+      ]
+    },
+    {
+      "id": "GarissaMonastery01",
+      "name": "Hermitage of Sheikh Ali",
+      "short_description": "A remote and simple dwelling, once home to a revered Sufi ascetic, Sheikh Ali, who sought solitude for intense prayer and meditation in the desert, a site of profound spirituality.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Remote desert, south of Dadaab, Garissa, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1614741753443-42e1329a7384?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Sufi asceticism",
+        "meditation",
+        "desert retreat"
+      ]
+    },
+    {
+      "id": "GarissaMonastery02",
+      "name": "Al-Hikma Study Retreat",
+      "short_description": "The ruins of an ancient retreat where early Islamic scholars and students gathered to study religious texts and contemplate in peace, fostering spiritual knowledge in isolation.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Near Bura town, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1589131627051-1cf2a33f4a7c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Islamic scholarship",
+        "spiritual learning",
+        "ancient ruins"
+      ]
+    },
+    {
+      "id": "GarissaMonastery03",
+      "name": "Cave of Silent Prayer",
+      "short_description": "A secluded natural cave, historically used by spiritual recluses of various traditions for silent prayer, fasting, and deep contemplation, away from worldly distractions.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Eastern Garissa County, along border with Somalia, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1510650974390-50d486d302a2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "spiritual seclusion",
+        "contemplation",
+        "natural sanctuary"
+      ]
+    },
+    {
+      "id": "GarissaMonastery04",
+      "name": "Wajir Gate Ribat Ruins",
+      "short_description": "The historical remains of a small, fortified ribat (Islamic outpost/monastery) at the edge of ancient Garissa territory, serving as both a defense and spiritual refuge for travelers and scholars.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Northwest Garissa, near Wajir border, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1605374465438-6677941fb625?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Islamic outpost",
+        "historic refuge",
+        "desert architecture"
+      ]
+    },
+    {
+      "id": "GarissaSpring01",
+      "name": "Qudho Holy Well",
+      "short_description": "A centuries-old well, famed for its consistently sweet water in the arid landscape. It's a vital watering point and a place of deep spiritual significance for local communities, believed to offer blessings.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Qudho, Lagdera Sub-county, Garissa, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1601614748151-57448373b9e5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8Mjh9MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sacred water",
+        "community hub",
+        "desert blessings"
+      ]
+    },
+    {
+      "id": "GarissaSpring02",
+      "name": "Tana River's Sacred Source Point",
+      "short_description": "A particular eddy or pool along the Tana River's edge, traditionally considered a sacred 'source' where offerings are made to ensure the river's bounty and for safe passage.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Along Tana River, near Balambala, Garissa, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628178877526-724f31c0e39a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "river spirituality",
+        "water offerings",
+        "fertility rituals"
+      ]
+    },
+    {
+      "id": "GarissaSpring03",
+      "name": "Fafi Healing Spring",
+      "short_description": "A natural spring whose waters are believed to possess unique healing properties, attracting people seeking cures for ailments and spiritual rejuvenation from its sacred flow.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Fafi Sub-county, Garissa, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1588661706689-f30894082729?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "healing waters",
+        "spiritual rejuvenation",
+        "natural remedy"
+      ]
+    },
+    {
+      "id": "GarissaSpring04",
+      "name": "Well of the Ancestors, Modogashe",
+      "short_description": "An ancient well, dug and maintained by generations of ancestors, symbolizing the enduring legacy and resilience of the community. It's a focal point for communal prayers and remembrance.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Modogashe Town, Garissa County, Kenya",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1621379967657-fc3602f32f30?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "ancestral legacy",
+        "communal prayers",
+        "resilience symbol"
+      ]
+    }
+  ]
+}

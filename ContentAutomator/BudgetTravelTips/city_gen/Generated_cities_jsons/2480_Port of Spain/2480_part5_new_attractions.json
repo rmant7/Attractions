@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Port of Spain",
+    "city_id": "2480"
+  },
+  "items": [
+    {
+      "id": "PoS_RH_001",
+      "name": "Skyview PoS Lounge",
+      "short_description": "Experience breathtaking panoramic views of the city skyline and Gulf of Paria while enjoying artisanal cocktails and local bites in this chic rooftop setting. Perfect for sunset gatherings.",
+      "address": "Level 10, 10 Wrightson Road, Port of Spain",
+      "opening_hours": "17:00-01:00 (Tue-Sun)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1627041553538-4e3d36e2f1f4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nightlife",
+        "views",
+        "cocktails"
+      ]
+    },
+    {
+      "id": "PoS_AG_002",
+      "name": "The Gallery @ Keate",
+      "short_description": "A dynamic contemporary art space showcasing emerging Trinidadian artists and international exhibits. Features interactive installations and regular artist talks.",
+      "address": "14 Keate Street, Port of Spain",
+      "opening_hours": "10:00-17:00 (Wed-Sat)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1582046429381-81d3f9f4a761?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "culture",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "PoS_SCM_003",
+      "name": "Pan Rhapsody Centre",
+      "short_description": "Dive into the history and evolution of the steelpan, Trinidad and Tobago's national instrument. Interactive displays, live demonstrations, and opportunities to try playing.",
+      "address": "20 Queen's Park East, Port of Spain",
+      "opening_hours": "09:30-16:30 (Mon-Fri)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579543168705-0210e7b8c2d1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "music",
+        "history",
+        "interactive"
+      ]
+    },
+    {
+      "id": "PoS_FM_004",
+      "name": "Savannah Eats Market",
+      "short_description": "A vibrant indoor market featuring diverse local and international cuisine vendors, artisanal food products, and regular cooking demonstrations. A culinary hub for foodies.",
+      "address": "10 Cipriani Boulevard, Port of Spain",
+      "opening_hours": "11:00-20:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1517409249079-a7ed462f790c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food",
+        "market",
+        "dining"
+      ]
+    },
+    {
+      "id": "PoS_UG_005",
+      "name": "St. Clair Eco-Gardens",
+      "short_description": "A serene urban oasis created from a once-neglected plot, offering walking trails, meditation zones, and native plant exhibitions. Perfect for a peaceful escape in the city.",
+      "address": "Corner of Alexandra Street and St. Clair Avenue, Port of Spain",
+      "opening_hours": "06:00-20:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1590740685955-4424317181c0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "relaxation",
+        "park"
+      ]
+    },
+    {
+      "id": "PoS_IH_006",
+      "name": "The Nexus Innovation Hub",
+      "short_description": "A vibrant space fostering creativity and collaboration, offering co-working options, tech workshops, and a regular schedule of public innovation talks and startup pitch events.",
+      "address": "1A Mucurapo Road, Port of Spain",
+      "opening_hours": "08:00-22:00 (Mon-Fri), 10:00-18:00 (Sat)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1610497538965-0c7d5c5f8e5f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "innovation",
+        "technology",
+        "community"
+      ]
+    },
+    {
+      "id": "PoS_CS_007",
+      "name": "The Sapphire Screen & Stage",
+      "short_description": "A sophisticated venue offering an intimate cinematic experience with independent films, along with live local performances from spoken word to acoustic sets. Features a full-service bar.",
+      "address": "42 Tragarete Road, Port of Spain",
+      "opening_hours": "18:00-23:00 (Thu-Sun)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1514757597116-ad9e03d4529f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "cinema",
+        "performing arts",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "PoS_WE_008",
+      "name": "Portside Promenade",
+      "short_description": "A newly revitalized stretch along the waterfront, perfect for leisurely strolls, cycling, and enjoying sea breezes. Features public art installations and pop-up food vendors on weekends.",
+      "address": "Western Main Road, Cocorite (near Audrey Jeffers Highway junction), Port of Spain",
+      "opening_hours": "24/7",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1598101416484-fe6d65c4c1a7?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "outdoors",
+        "scenic",
+        "walking"
+      ]
+    },
+    {
+      "id": "PoS_CB_009",
+      "name": "Caribbean Craft Brews",
+      "short_description": "Discover the art of local craft beer brewing with guided tours, tasting flights, and a lively taproom. Learn about unique Caribbean-inspired flavours and brewing techniques.",
+      "address": "3 Duncan Street, Port of Spain",
+      "opening_hours": "14:00-22:00 (Wed-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1559854497-28522617f699?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "drinks",
+        "tour",
+        "local"
+      ]
+    },
+    {
+      "id": "PoS_VRG_010",
+      "name": "HyperPlay VR Arena",
+      "short_description": "Step into immersive virtual reality worlds and state-of-the-art gaming stations. Offering a range of experiences from competitive multiplayer VR to casual arcade fun for all ages.",
+      "address": "Level 2, The Falls at West Mall, Westmoorings, Port of Spain",
+      "opening_hours": "10:00-21:00 (Mon-Sat), 12:00-20:00 (Sun)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628172807314-e590d96d744f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "gaming",
+        "virtual reality",
+        "entertainment"
+      ]
+    }
+  ]
+}

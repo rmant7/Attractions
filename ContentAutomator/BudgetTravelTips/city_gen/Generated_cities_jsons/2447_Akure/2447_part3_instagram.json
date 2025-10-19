@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "type": "InstagramAttractions",
+    "city": "Akure",
+    "city_id": "2447"
+  },
+  "items": [
+    {
+      "id": "DS001",
+      "name": "Akure Oasis Sands",
+      "short_description": "Discover a surprising expanse of sandy terrain, offering serene desert-like views perfect for a unique photoshoot. It's an unexpected escape within the city's green landscape.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Near the Ogbese River banks (hypothetical)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1549429402-9ae527b134f5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sandy expanse",
+        "unique landscape",
+        "golden hour"
+      ]
+    },
+    {
+      "id": "DS002",
+      "name": "Sunrise Dunes Viewpoint",
+      "short_description": "Ascend to a natural sandy knoll that offers panoramic views, especially stunning as the sun paints the horizon with vibrant hues. A peaceful spot for reflection and photography.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Fringe of Igbatoro Road (hypothetical)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1627915309324-f725a331dd00?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sunrise views",
+        "nature escape",
+        "scenic spot"
+      ]
+    },
+    {
+      "id": "DS003",
+      "name": "Moonlit Sandscapes",
+      "short_description": "Experience the enchanting beauty of Akure's sandy terrains under the soft glow of moonlight, creating mystical shadows and a tranquil atmosphere. A truly unique nighttime adventure.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Near the Akure-Ilesa Expressway (hypothetical)",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1541018901243-d89d44e73b23?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "night photography",
+        "mystical",
+        "tranquil"
+      ]
+    },
+    {
+      "id": "DS004",
+      "name": "Whispering Sands Path",
+      "short_description": "Wander along a winding path through a secluded area of natural sand formations, where the wind creates gentle, whispering sounds. Perfect for a meditative walk or artistic shots.",
+      "subtype": "Desert & Sand Dunes",
+      "location_hint": "Adjacent to the FUTA North Gate (hypothetical)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1551632709-32cf42d76a20?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "walking trail",
+        "nature's sounds",
+        "peaceful"
+      ]
+    },
+    {
+      "id": "IL001",
+      "name": "Akure City Gate",
+      "short_description": "The grand entrance to Akure, this monumental gate features impressive architecture and welcomes visitors with a sense of arrival. A must-capture for its symbolic significance.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Akure-Owo Expressway",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/23/Akure_City_Gate.jpg",
+      "tags": [
+        "city entrance",
+        "monumental",
+        "symbolic"
+      ]
+    },
+    {
+      "id": "IL002",
+      "name": "Deji of Akure's Palace",
+      "short_description": "Step into the heart of Akure's traditional heritage at the Oba's Palace, an ancient seat of power with intricate Yoruba design and rich cultural history. Capture its regal beauty.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Oba Adesida Road",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Deji%27s_Palace_Akure.jpg",
+      "tags": [
+        "royal palace",
+        "Yoruba culture",
+        "historic"
+      ]
+    },
+    {
+      "id": "IL003",
+      "name": "FUTA Clock Tower",
+      "short_description": "A prominent feature of the Federal University of Technology Akure campus, this clock tower stands tall as an academic beacon. Its modern design and vibrant campus life make for lively shots.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Federal University of Technology Akure (FUTA) Campus",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Clock_Tower_at_FUTA.jpg/1024px-Clock_Tower_at_FUTA.jpg",
+      "tags": [
+        "university",
+        "campus life",
+        "modern landmark"
+      ]
+    },
+    {
+      "id": "IL004",
+      "name": "Alagbaka Roundabout",
+      "short_description": "More than just a junction, this iconic roundabout is adorned with artistic sculptures and vibrant landscaping, serving as a dynamic focal point in the city's administrative district.",
+      "subtype": "Iconic Landmarks",
+      "location_hint": "Alagbaka Government Area",
+      "best_time": "Sunset",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/da/Alagbaka_Roundabout_Akure.jpg",
+      "tags": [
+        "city center",
+        "urban art",
+        "bustling"
+      ]
+    },
+    {
+      "id": "HA001",
+      "name": "St. David's Cathedral (Old Wing)",
+      "short_description": "Explore the colonial-era charm of St. David's Cathedral's original structure, showcasing intricate masonry and stained glass. Its timeless beauty offers a glimpse into Akure's past.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Along Hospital Road",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/f/fc/St._David%27s_Cathedral%2C_Akure.jpg",
+      "tags": [
+        "colonial era",
+        "religious site",
+        "stained glass"
+      ]
+    },
+    {
+      "id": "HA002",
+      "name": "The Old Residency Building",
+      "short_description": "A well-preserved example of colonial administration architecture, this building exudes historical significance with its classic facade and sturdy structure. Perfect for history buffs and photographers.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Government Reserved Area (GRA)",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Ondo_State_Government_House%2C_Akure.jpg",
+      "tags": [
+        "colonial history",
+        "architectural heritage",
+        "government building"
+      ]
+    },
+    {
+      "id": "HA003",
+      "name": "Akure Central Mosque (Original Structure)",
+      "short_description": "Witness the elegant simplicity of the original Akure Central Mosque, a spiritual landmark with decades of history embedded in its design. Its minaret stands as a beacon of faith.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Oba Adesida Road, near Oja Oba",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Central_Mosque_Akure.jpg",
+      "tags": [
+        "Islamic heritage",
+        "spiritual",
+        "traditional design"
+      ]
+    },
+    {
+      "id": "HA004",
+      "name": "Oja Oba Market (Historic Section)",
+      "short_description": "Immerse yourself in the bustling atmosphere of Akure's oldest market section, where traditional stalls and vintage structures tell stories of generations of trade and community life. Capture its authentic charm.",
+      "subtype": "Historic Architecture",
+      "location_hint": "Oja Oba, city center",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/d/df/Oja_Oba_Market_Akure.jpg",
+      "tags": [
+        "traditional market",
+        "bustling",
+        "cultural experience"
+      ]
+    },
+    {
+      "id": "IP001",
+      "name": "Azure Horizon Pool, The Royal Suites Akure",
+      "short_description": "Dive into luxury at this stunning infinity pool, offering breathtaking views that blend seamlessly with the horizon. A perfect spot for relaxation and capturing opulent moments.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Alagbaka (Hypothetical Luxury Hotel)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1579548122079-99443ff427f7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "luxury",
+        "panoramic views",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "IP002",
+      "name": "Skyline Serenity Pool, Prestige Grand Hotel Akure",
+      "short_description": "Perched high above the city, this infinity pool offers unparalleled views of Akure's skyline. Enjoy a refreshing dip while capturing the urban landscape melting into the water's edge.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Igbatoro Road (Hypothetical High-rise Hotel)",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1596700086971-8b38346b9a80?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "skyline views",
+        "urban escape",
+        "modern luxury"
+      ]
+    },
+    {
+      "id": "IP003",
+      "name": "The Oasis Edge Pool, Green Meadows Resort",
+      "short_description": "Surrounded by lush greenery, this infinity pool provides a tranquil escape where nature meets elegance. The serene reflections make for stunning, peaceful photographs.",
+      "subtype": "Infinity Pools",
+      "location_hint": "FUTA Road (Hypothetical Eco-Resort)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1563821731657-3f820245a443?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature retreat",
+        "serene",
+        "greenery"
+      ]
+    },
+    {
+      "id": "IP004",
+      "name": "Sunset Vista Pool, Topaz Villa Estate",
+      "short_description": "Witness magical sunsets from the edge of this exquisite infinity pool, where the vibrant colors of the sky mirror beautifully on the water's surface. Ideal for romantic and dramatic shots.",
+      "subtype": "Infinity Pools",
+      "location_hint": "Idanre Road (Hypothetical Private Estate)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1597080928731-2ff0d4e943c2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sunset views",
+        "romantic",
+        "exclusive"
+      ]
+    },
+    {
+      "id": "FD001",
+      "name": "Mama Amala's Joint",
+      "short_description": "Experience authentic local cuisine at Mama Amala's, famous for its rich Amala and Gbegiri soup. The vibrant atmosphere and delicious flavors are truly Instagram-worthy.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Oba Adesida Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1616799049755-e41c4f529683?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "local food",
+        "authentic Nigerian",
+        "street food"
+      ]
+    },
+    {
+      "id": "FD002",
+      "name": "The Grillhouse Akure",
+      "short_description": "Indulge in perfectly grilled meats and savory sides in a chic, modern setting. This popular spot is known for its exquisite dishes and stylish ambiance.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Alagbaka",
+      "best_time": "Night",
+      "images": "https://images.unsplash.com/photo-1582234033104-d537d806326e?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fine dining",
+        "grill",
+        "modern cuisine"
+      ]
+    },
+    {
+      "id": "FD003",
+      "name": "Chop & Chill Lounge",
+      "short_description": "A trendy spot for casual dining and relaxing, offering a menu of contemporary Nigerian and continental dishes, alongside a great selection of drinks. Perfect for a chill evening.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "Oyemekun Road",
+      "best_time": "Evening",
+      "images": "https://images.unsplash.com/photo-1550993014-a90104e76d95?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "lounge",
+        "casual dining",
+        "cocktails"
+      ]
+    },
+    {
+      "id": "FD004",
+      "name": "Oba's Kitchen (Akure Specialities)",
+      "short_description": "Savor traditional Akure delicacies prepared with a modern twist in an elegant setting. This spot is renowned for its culinary excellence and dedication to local flavors.",
+      "subtype": "Food & Drink Spots",
+      "location_hint": "FUTA Road",
+      "best_time": "Lunch / Dinner",
+      "images": "https://images.unsplash.com/photo-1601362758155-25e2d6b797b5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "traditional cuisine",
+        "upscale local",
+        "foodie"
+      ]
+    },
+    {
+      "id": "FE001",
+      "name": "Ekimogun Festival",
+      "short_description": "Immerse yourself in the vibrant cultural celebration of the Ekimogun Festival, a major annual event showcasing rich traditions, music, dance, and ancestral homage. A spectacular visual feast.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Deji of Akure's Palace & City Center",
+      "best_time": "Daytime",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ekimogun_Festival.jpg",
+      "tags": [
+        "cultural festival",
+        "Yoruba culture",
+        "traditional dance"
+      ]
+    },
+    {
+      "id": "FE002",
+      "name": "FUTA Cultural Day",
+      "short_description": "Experience the youthful energy and diverse cultural expressions at the Federal University of Technology Akure's annual Cultural Day, featuring student performances and ethnic displays.",
+      "subtype": "Festivals & Events",
+      "location_hint": "FUTA Campus",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/FUTA_Cultural_Day.jpg/1024px-FUTA_Cultural_Day.jpg",
+      "tags": [
+        "university event",
+        "youth culture",
+        "student performance"
+      ]
+    },
+    {
+      "id": "FE003",
+      "name": "Akure Arts & Craft Fair",
+      "short_description": "Discover local talent and unique handmade crafts at Akure's vibrant Arts & Craft Fair. A bustling market of creativity, perfect for finding souvenirs and capturing artisan work.",
+      "subtype": "Festivals & Events",
+      "location_hint": "The Dome (International Event Centre)",
+      "best_time": "Daytime",
+      "images": "https://images.unsplash.com/photo-1542844766-267dfc729505?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "artisan market",
+        "local crafts",
+        "creative"
+      ]
+    },
+    {
+      "id": "FE004",
+      "name": "Annual Akure Marathon (Finish Line)",
+      "short_description": "Join the excitement at the finish line of the Annual Akure Marathon, witnessing inspiring athletic achievements and community spirit. Capture the triumphant moments and festive atmosphere.",
+      "subtype": "Festivals & Events",
+      "location_hint": "Akure Sports Stadium / City Gate",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1606700877983-503c23a76e73?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sports event",
+        "community spirit",
+        "athletic"
+      ]
+    },
+    {
+      "id": "FG001",
+      "name": "FUTA Botanical Garden",
+      "short_description": "Wander through the diverse collection of plants and vibrant floral displays at the Federal University of Technology Akure's botanical garden. A tranquil haven for nature lovers and photographers.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "FUTA Campus",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Futa_Botanical_Garden_1.jpg/1024px-Futa_Botanical_Garden_1.jpg",
+      "tags": [
+        "botanical",
+        "nature",
+        "peaceful"
+      ]
+    },
+    {
+      "id": "FG002",
+      "name": "Akure Township Garden",
+      "short_description": "A beautifully maintained public park offering colorful flowerbeds, manicured lawns, and shaded pathways. Ideal for a relaxing stroll or capturing Akure's green urban spaces.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Adjacent to the Government House",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1555416200-a2327702f235?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "public park",
+        "landscaped",
+        "urban oasis"
+      ]
+    },
+    {
+      "id": "FG003",
+      "name": "Royal Blossom Gardens",
+      "short_description": "An exquisite private garden known for its meticulously cultivated floral arrangements and serene ponds. This hidden gem offers a luxurious backdrop for sophisticated photos.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Off Akure-Ondo Road (Hypothetical)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1621644781442-f3f880cf5581?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "private garden",
+        "elegant",
+        "floral beauty"
+      ]
+    },
+    {
+      "id": "FG004",
+      "name": "Emerald Green Estate Park",
+      "short_description": "A sprawling estate park featuring extensive green spaces, a variety of trees, and seasonal flower displays. Perfect for picnics, leisurely walks, and capturing nature's bounty.",
+      "subtype": "Flower Fields & Gardens",
+      "location_hint": "Near Idanre Road (Hypothetical)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1628172960623-1d48c8230501?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "green space",
+        "picnic spot",
+        "lush"
+      ]
+    },
+    {
+      "id": "SM001",
+      "name": "Unity Wall Mural, Alagbaka",
+      "short_description": "A magnificent large-scale mural celebrating Nigerian unity and heritage, adorning a prominent wall in the Alagbaka district. Its vibrant colors and powerful message make it a must-see.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Alagbaka Government Area",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1549414594-522f28148b1d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "public art",
+        "cultural",
+        "vibrant"
+      ]
+    },
+    {
+      "id": "SM002",
+      "name": "The Storyteller's Lane Art",
+      "short_description": "Wander down this charming alleyway adorned with a series of captivating murals, each depicting tales from Yoruba folklore and history. A hidden gem for art enthusiasts.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Near Oja Oba Market",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1596791696236-4d058a9ce2b9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "Yoruba folklore",
+        "alley art",
+        "narrative"
+      ]
+    },
+    {
+      "id": "SM003",
+      "name": "Hope & Harmony Mural, FUTA Campus",
+      "short_description": "Located within the FUTA campus, this inspiring mural promotes themes of education, hope, and coexistence, reflecting the university's values through dynamic artistic expression.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Federal University of Technology Akure (FUTA) Campus",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1621252655554-18e3845ff658?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "university art",
+        "inspirational",
+        "student life"
+      ]
+    },
+    {
+      "id": "SM004",
+      "name": "Cultural Heritage Art Walk",
+      "short_description": "Explore a series of murals near the city's historical sites, each depicting scenes from Akure's rich past and traditional customs. A colorful journey through time.",
+      "subtype": "Street Art & Murals",
+      "location_hint": "Along Hospital Road",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1548679808-7264585c98d6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "heritage art",
+        "historical scenes",
+        "colorful"
+      ]
+    },
+    {
+      "id": "UNW001",
+      "name": "Idanre Hills",
+      "short_description": "Just a short drive from Akure, these ancient, mystical hills offer breathtaking vistas, unique rock formations, and a rich history. A UNESCO World Heritage site candidate, perfect for adventure.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Idanre (near Akure)",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Idanre_hills.jpg",
+      "tags": [
+        "rock formations",
+        "hiking",
+        "scenic views"
+      ]
+    },
+    {
+      "id": "UNW002",
+      "name": "Ebomi Lake",
+      "short_description": "Discover the tranquil and enigmatic Ebomi Lake, a natural freshwater lake surrounded by dense forest, rumored to have mystical powers. Its calm waters and lush banks are a serene escape.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Ipesi, Akoko South-East LGA (Ondo State)",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/2/23/Ebomi_Lake_1.jpg",
+      "tags": [
+        "natural lake",
+        "serene",
+        "mystical"
+      ]
+    },
+    {
+      "id": "UNW003",
+      "name": "Ogbese River Gorge",
+      "short_description": "Explore a lesser-known natural marvel, a striking gorge carved by the Ogbese River, revealing fascinating geological layers and a verdant riverside ecosystem. An adventure for the intrepid.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Ogbese, on the outskirts of Akure (Hypothetical)",
+      "best_time": "Morning",
+      "images": "https://images.unsplash.com/photo-1598923485458-941865910903?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "river gorge",
+        "geological",
+        "adventure"
+      ]
+    },
+    {
+      "id": "UNW004",
+      "name": "The Talking Rocks of Oore",
+      "short_description": "Encounter a unique cluster of rock formations that produce unusual echo phenomena and resonant sounds when interacted with, inspiring local legends. A truly auditory and visual wonder.",
+      "subtype": "Unusual Natural Wonders",
+      "location_hint": "Oore Forest Reserve (Hypothetical)",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1547842340-0255c4535359?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "rock formations",
+        "auditory phenomenon",
+        "local legends"
+      ]
+    },
+    {
+      "id": "MA001",
+      "name": "Ondo State International Event Centre (The Dome)",
+      "short_description": "A marvel of contemporary design, The Dome is a sprawling event center with a distinctive roof and elegant interiors, hosting major conferences and events. Its grandeur is impressive.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Igbatoro Road",
+      "best_time": "Afternoon",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Dome%2C_Akure.jpg/1024px-The_Dome%2C_Akure.jpg",
+      "tags": [
+        "event venue",
+        "contemporary design",
+        "grandeur"
+      ]
+    },
+    {
+      "id": "MA002",
+      "name": "Shoprite Mall Akure",
+      "short_description": "A bustling hub of commerce and leisure, this modern shopping mall features sleek lines, expansive glass facades, and a vibrant atmosphere. A popular spot for retail therapy and urban shots.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Along Oba Adesida Road",
+      "best_time": "Afternoon",
+      "images": "https://images.unsplash.com/photo-1627931309852-c4391e65e52a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "shopping mall",
+        "commercial",
+        "urban"
+      ]
+    },
+    {
+      "id": "MA003",
+      "name": "FUTA Senate Building",
+      "short_description": "An architectural highlight on the FUTA campus, this Senate Building combines functional design with modern aesthetics, reflecting the progressive spirit of the institution.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Federal University of Technology Akure (FUTA) Campus",
+      "best_time": "Morning",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Futa_Senate_Building.jpg/1024px-Futa_Senate_Building.jpg",
+      "tags": [
+        "university building",
+        "academic",
+        "functional design"
+      ]
+    },
+    {
+      "id": "MA004",
+      "name": "The Pinnacle Towers",
+      "short_description": "A striking example of Akure's evolving urban landscape, these hypothetical twin towers showcase sleek glass and steel, symbolizing modern ambition and architectural prowess.",
+      "subtype": "Modern Architecture",
+      "location_hint": "Alagbaka (Hypothetical Corporate Hub)",
+      "best_time": "Sunset",
+      "images": "https://images.unsplash.com/photo-1549490150-1c3132e185c6?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "skyscraper",
+        "urban development",
+        "glass facade"
+      ]
+    }
+  ]
+}

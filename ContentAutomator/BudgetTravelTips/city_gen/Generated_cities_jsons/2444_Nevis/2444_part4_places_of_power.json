@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Nevis",
+    "city_id": "2444"
+  },
+  "items": [
+    {
+      "id": "AC001",
+      "name": "Whispering Carib Settlement",
+      "short_description": "Unearth the remnants of Nevis's earliest inhabitants, where Carib spirits are said to still linger, offering ancient wisdom to those who listen. A site of profound pre-colonial cultural memory.",
+      "subtype": "Ancient Cities",
+      "address": "Near Nelson's Spring, Nevis",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1579737150020-21a4f0a0c649?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwxfHx8fHx8fDJ8fDE3MTQ5OTQwNjR8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "indigenous heritage",
+        "archaeology",
+        "spiritual history"
+      ]
+    },
+    {
+      "id": "AC002",
+      "name": "Old Charlestown's Foundations of Faith",
+      "short_description": "Explore the foundational ruins of Nevis's original capital, believed to hold the energetic blueprint of early colonial resilience and the intertwined spiritual journeys of its diverse settlers.",
+      "subtype": "Ancient Cities",
+      "address": "Lower Charlestown, Nevis",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628173435649-14a5957d5440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwyfHx8fHx8fDJ8fDE3MTQ5OTQwNjR8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "colonial history",
+        "resilience",
+        "urban archaeology"
+      ]
+    },
+    {
+      "id": "AC003",
+      "name": "Golden Rock Plantation Echoes",
+      "short_description": "Wander through the historical remnants of this sugar plantation, a place where the echoes of labor, endurance, and quiet faith resonate through the ancient stone structures and lush gardens.",
+      "subtype": "Ancient Cities",
+      "address": "Golden Rock Estate, Gingerland, Nevis",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1563811776953-b0e77d7f9988?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMXx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "plantation history",
+        "reflection",
+        "heritage site"
+      ]
+    },
+    {
+      "id": "AC004",
+      "name": "Indian Castle Ancestral Pathways",
+      "short_description": "Follow the winding paths of what is believed to be a significant ancestral village site, where ancient spirits guide visitors towards a deeper understanding of Nevis's original inhabitants and their connection to the land.",
+      "subtype": "Ancient Cities",
+      "address": "Near Indian Castle Beach, Nevis",
+      "visiting_hours": "07:00-15:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1628173435649-14a5957d5440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMnx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "indigenous culture",
+        "sacred paths",
+        "historical site"
+      ]
+    },
+    {
+      "id": "SM001",
+      "name": "Nevis Peak's Crown of Awe",
+      "short_description": "The majestic Nevis Peak is revered as the island's spiritual heart, a powerful natural altar reaching for the heavens, offering profound perspectives and a sense of oneness with creation.",
+      "subtype": "Sacred Mountains",
+      "address": "Central Nevis, accessible via various trails.",
+      "visiting_hours": "06:00-14:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1547463695-46b04e6c271b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwyfHx8fHx8fDJ8fDE3MTQ5OTQwNjR8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "spiritual ascent",
+        "nature worship",
+        "panoramic views"
+      ]
+    },
+    {
+      "id": "SM002",
+      "name": "Saddle Hill's Watchtower of Wisdom",
+      "short_description": "Historically a lookout point, Saddle Hill now serves as a place for contemplation, where the expansive views inspire foresight and connect visitors to the island's resilient spirit through centuries of watchfulness.",
+      "subtype": "Sacred Mountains",
+      "address": "Southern Nevis, near Gingerland",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1563200782-b6d41829e05e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwxNnx8fHx8fHwyfHwxNzE0OTk0MDY0fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "contemplation",
+        "historical lookout",
+        "resilience"
+      ]
+    },
+    {
+      "id": "SM003",
+      "name": "Mountravers Serenity Rise",
+      "short_description": "A gentle incline offering breathtaking vistas, believed to be a place of profound peace where the spirit of the land encourages deep reflection and inner harmony. Ideal for quiet meditation and connecting with nature.",
+      "subtype": "Sacred Mountains",
+      "address": "Mountravers, Nevis",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1547463695-46b04e6c271b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMXx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "meditation",
+        "natural harmony",
+        "peaceful retreat"
+      ]
+    },
+    {
+      "id": "SM004",
+      "name": "Morning Star Ascent Trail",
+      "short_description": "This winding trail up a smaller peak is known for its stunning sunrise views and is considered a pilgrimage for new beginnings, inspiring hope and clarity with each step.",
+      "subtype": "Sacred Mountains",
+      "address": "Near Golden Rock, Nevis",
+      "visiting_hours": "05:30-10:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1516086820245-c324c3a2f7c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMnx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "pilgrimage",
+        "new beginnings",
+        "sunrise"
+      ]
+    },
+    {
+      "id": "MR001",
+      "name": "Booby Island Sentinel Stone",
+      "short_description": "A magnificent rock formation near Booby Island, revered as a guardian spirit of Nevis's shores. Sailors and fishermen traditionally offer respects for safe passage and abundant catches.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Offshore, near Booby Island, Nevis (best viewed from Oualie Beach)",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1537877142168-3e9a4f6617a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzfHx8fHx8fDJ8fDE3MTQ5OTQwNjR8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ocean spirit",
+        "maritime heritage",
+        "natural landmark"
+      ]
+    },
+    {
+      "id": "MR002",
+      "name": "Monkey Rock's Ancient Gaze",
+      "short_description": "This naturally sculpted rock, resembling a pensive primate, is believed to be an ancient watcher over the island's wildlife and nature. Visitors often feel a deep connection to the earth's primal energy here.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Near Cades Bay, Nevis",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1587522538161-0d3f82054c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwyMHx8fHx8fHwyfHwxNzE0OTk0MDY0fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "earth energy",
+        "wildlife connection",
+        "natural sculpture"
+      ]
+    },
+    {
+      "id": "MR003",
+      "name": "Lovers' Beach Stone Circles",
+      "short_description": "A series of naturally arranged, ancient stones along Lovers' Beach, said to amplify love and connection. Couples visit to renew vows or seek blessings for enduring relationships.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Lovers' Beach, St. James Parish, Nevis",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1537877142168-3e9a4f6617a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMXx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "love and unity",
+        "spiritual blessings",
+        "sacred geometry"
+      ]
+    },
+    {
+      "id": "MR004",
+      "name": "Cades Bay Volcanic Altar",
+      "short_description": "An impressive formation of ancient volcanic rock at Cades Bay, believed to be a powerful natural altar. It offers a unique connection to Nevis's fiery origins and grounding earth energies.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Cades Bay, Nevis",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1502477382404-b91c01e6cf22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMnx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "earth energy",
+        "volcanic origin",
+        "natural altar"
+      ]
+    },
+    {
+      "id": "BD001",
+      "name": "Fort Charles' Valiant Stand",
+      "short_description": "The historic ruins of Fort Charles stand as a testament to Nevis's resilience, embodying the spirit of those who defended their home. It is a place for reflection on courage and perseverance.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Fort Charles, Charlestown, Nevis",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1541460984950-c651ae87520e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHw0fHx8fHx8fDJ8fDE3MTQ5OTQwNjR8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "resilience",
+        "historical defense",
+        "courage"
+      ]
+    },
+    {
+      "id": "BD002",
+      "name": "Montpelier's Freedom Grounds",
+      "short_description": "This site at Montpelier Estate, where significant moments of resistance and the eventual emancipation unfolded, is a powerful memorial to the struggle for freedom and human dignity.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Montpelier Estate, Nevis",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1555546255-b4612d3b5b63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwyMHx8fHx8fHwyfHwxNzE0OTk0MDY0fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "emancipation",
+        "human rights",
+        "historical memory"
+      ]
+    },
+    {
+      "id": "BD003",
+      "name": "The Narrows' Guardian Shore",
+      "short_description": "The waters and shores of The Narrows, historically a strategic passage, are believed to hold the echoes of countless journeys and skirmishes, inspiring introspection on protection and passage.",
+      "subtype": "Battlefields of Destiny",
+      "address": "The Narrows, between Nevis and St. Kitts",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1548651877-4a0050e05217?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMXx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "maritime history",
+        "strategic passage",
+        "reflection"
+      ]
+    },
+    {
+      "id": "BD004",
+      "name": "Gingerland Uprising Point",
+      "short_description": "A revered site in Gingerland commemorating pivotal moments of social justice struggles. It serves as a spiritual reminder of the ongoing fight for equity and the power of collective action.",
+      "subtype": "Battlefields of Destiny",
+      "address": "Gingerland, Nevis (specific marker)",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1541460984950-c651ae87520e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMnx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "social justice",
+        "community spirit",
+        "historical struggle"
+      ]
+    },
+    {
+      "id": "L001",
+      "name": "Botanical Garden's Contemplation Maze",
+      "short_description": "A beautifully designed living labyrinth within the Nevis Botanical Garden, offering a path for meditative walking and finding clarity amidst the island's vibrant flora.",
+      "subtype": "Labyrinths",
+      "address": "Nevis Botanical Garden, Montpelier Estate, Nevis",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1589179040333-d9d80d28b9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHw1fHx8fHx8fDJ8fDE3MTQ5OTQwNjR8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "meditative walk",
+        "inner peace",
+        "garden sanctuary"
+      ]
+    },
+    {
+      "id": "L002",
+      "name": "Eden's Path of Reflection",
+      "short_description": "A natural labyrinth formed by ancient trees and meandering trails, leading visitors on a symbolic journey of self-discovery and reconnection with the pristine natural world of Nevis.",
+      "subtype": "Labyrinths",
+      "address": "Upper Montpelier, Nevis (trailhead)",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1517457375806-0043818e32c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwyMHx8fHx8fHwyfHwxNzE0OTk0MDY0fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "self-discovery",
+        "nature walk",
+        "reflection"
+      ]
+    },
+    {
+      "id": "L003",
+      "name": "Golden Rock Pathway of Peace",
+      "short_description": "Nestled within the tranquil grounds of Golden Rock Estate, this stone labyrinth offers a quiet space for spiritual grounding and mindfulness, surrounded by tropical beauty.",
+      "subtype": "Labyrinths",
+      "address": "Golden Rock Estate, Gingerland, Nevis",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1589179040333-d9d80d28b9d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMXx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "mindfulness",
+        "tranquility",
+        "spiritual grounding"
+      ]
+    },
+    {
+      "id": "L004",
+      "name": "Whispering Palms Labyrinth",
+      "short_description": "A coastal labyrinth made of natural materials and swaying palms, inviting visitors to walk a contemplative path while listening to the rhythmic sounds of the ocean, fostering profound peace.",
+      "subtype": "Labyrinths",
+      "address": "Near Oualie Beach, Nevis",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1548651877-4a0050e05217?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMnx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coastal meditation",
+        "sound healing",
+        "natural path"
+      ]
+    },
+    {
+      "id": "RS001",
+      "name": "Fig Tree Church's Sacred Reliquary",
+      "short_description": "The historic Fig Tree Church, famous for hosting Lord Nelson's marriage, houses a quiet reliquary with artifacts and memorials that speak to centuries of faith and personal devotion on Nevis.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Fig Tree, St. John Figtree Parish, Nevis",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1628173435649-14a5957d5440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHw2fHx8fHx8fDJ8fDE3MTQ5OTQwNjR8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "historical church",
+        "sacred relics",
+        "devotion"
+      ]
+    },
+    {
+      "id": "RS002",
+      "name": "Hamilton's Ancestral Plot",
+      "short_description": "A revered, quiet burial ground associated with the family lineage of Alexander Hamilton, offering a poignant connection to the roots of a foundational figure in American history and Nevis's past.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Near the Hamilton Estate, Charlestown, Nevis",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594917951590-4e46059d0838?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwyMnx8fHx8fHwyfHwxNzE0OTk0MDY0fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral heritage",
+        "historical figures",
+        "reflection"
+      ]
+    },
+    {
+      "id": "RS003",
+      "name": "Bath Spring's Healing Waters Shrine",
+      "short_description": "The ancient Bath Spring, known for its therapeutic waters since colonial times, is now revered as a natural shrine where visitors seek physical and spiritual rejuvenation.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Bath Village, Nevis",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1610480373809-7756e18f8e02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMXx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "healing waters",
+        "rejuvenation",
+        "natural shrine"
+      ]
+    },
+    {
+      "id": "RS004",
+      "name": "St. John's Anglican Crypts of Remembrance",
+      "short_description": "Beneath the historic St. John's Anglican Church lie crypts and ancient grave markers, offering a solemn space for remembrance and connecting with the island's enduring spiritual legacy.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Main Street, Fig Tree Parish, Nevis",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1628173435649-14a5957d5440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMnx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral remembrance",
+        "historic church",
+        "spiritual legacy"
+      ]
+    },
+    {
+      "id": "CS001",
+      "name": "Bat Cave's Ancient Whispers",
+      "short_description": "Explore the mysterious Bat Cave, a natural sanctuary where ancient energies are palpable. Indigenous peoples may have once used this hidden grotto for ceremonies, and its depths still hold a sense of sacred quiet.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Near Cotton Ground, Nevis",
+      "visiting_hours": "09:00-15:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1520630896264-b5a8e0e64811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHw3fHx8fHx8fDJ8fDE3MTQ5OTQwNjR8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sacred grotto",
+        "ancient ceremonies",
+        "mystical experience"
+      ]
+    },
+    {
+      "id": "CS002",
+      "name": "Oualie Beach Grotto of Tranquility",
+      "short_description": "A secluded natural grotto on Oualie Beach, offering a peaceful sanctuary for quiet reflection and connection with the soothing rhythms of the sea.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Oualie Beach, St. Thomas Parish, Nevis",
+      "visiting_hours": "07:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1594917951590-4e46059d0838?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwyMnx8fHx8fHwyfHwxNzE0OTk0MDY0fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "coastal sanctuary",
+        "peaceful retreat",
+        "ocean sounds"
+      ]
+    },
+    {
+      "id": "CS003",
+      "name": "Nevis Peak's Hidden Hermitage Cave",
+      "short_description": "High on the slopes of Nevis Peak lies a small, secluded cave, traditionally used by hermits seeking solitude and spiritual enlightenment. It's a challenging journey but offers profound peace.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Nevis Peak Trail, Nevis (specific marker)",
+      "visiting_hours": "07:00-14:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1520630896264-b5a8e0e64811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMXx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "hermitage",
+        "spiritual quest",
+        "mountain sanctuary"
+      ]
+    },
+    {
+      "id": "CS004",
+      "name": "Monkey Shoals Sea Sanctuary",
+      "short_description": "An underwater cave system and reef near Monkey Shoals, revered as a vibrant marine sanctuary. Divers connect with the profound life energy and tranquility of the ocean's hidden world.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Offshore, near Monkey Shoals, Nevis (boat access)",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1577742057270-4a8157754326?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMnx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "marine life",
+        "underwater sanctuary",
+        "life energy"
+      ]
+    },
+    {
+      "id": "ME001",
+      "name": "Pinney's Beach Sunset Chakra Point",
+      "short_description": "At a specific spot on Pinney's Beach, known for its breathtaking sunsets, visitors practice mindful meditation, believing it's a powerful point for chakra alignment and energy renewal.",
+      "subtype": "Modern Energy Places",
+      "address": "Pinney's Beach, near Four Seasons, Nevis",
+      "visiting_hours": "17:00-19:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1574312061245-d8518925239a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHw4fHx8fHx8fDJ8fDE3MTQ5OTQwNjR8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "chakra alignment",
+        "sunset meditation",
+        "energy renewal"
+      ]
+    },
+    {
+      "id": "ME002",
+      "name": "Botanical Garden's Harmonic Nexus",
+      "short_description": "A contemporary art installation within the botanical garden, designed to resonate with natural frequencies, creating a space for sound healing and profound energetic balance.",
+      "subtype": "Modern Energy Places",
+      "address": "Nevis Botanical Garden, Montpelier Estate, Nevis",
+      "visiting_hours": "10:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1517457375806-0043818e32c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwyfHx8fHx8fDJ8fDE3MTQ5OTQwNjR8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "sound healing",
+        "energetic balance",
+        "modern art"
+      ]
+    },
+    {
+      "id": "ME003",
+      "name": "Paradise Beach Healing Pavilion",
+      "short_description": "A newly constructed, open-air pavilion on Paradise Beach, offering guided meditation, yoga, and wellness workshops, drawing on the restorative energies of the sea and sun.",
+      "subtype": "Modern Energy Places",
+      "address": "Paradise Beach, St. Thomas Parish, Nevis",
+      "visiting_hours": "08:00-18:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1542841662-7905187766ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMXx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "wellness retreat",
+        "yoga",
+        "restorative energy"
+      ]
+    },
+    {
+      "id": "ME004",
+      "name": "The Source of Bath Plain",
+      "short_description": "The very point where Nevis's natural geothermal spring emerges from the earth, revered as a source of potent earth energy, offering deep grounding and revitalization to those who visit.",
+      "subtype": "Modern Energy Places",
+      "address": "Bath Plain, Nevis (near the Bath Hotel)",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1610480373809-7756e18f8e02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMnx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "earth energy",
+        "grounding",
+        "revitalization"
+      ]
+    },
+    {
+      "id": "MH001",
+      "name": "Saddle Hill Hermitage Ruins",
+      "short_description": "The secluded ruins on Saddle Hill are believed to be the remnants of an early hermit's retreat, offering a powerful sense of quiet contemplation and historical solitude amidst panoramic views.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Saddle Hill, Southern Nevis",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1528642470716-e41c499c3546?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHw5fHx8fHx8fDJ8fDE3MTQ5OTQwNjR8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "solitude",
+        "contemplation",
+        "historical retreat"
+      ]
+    },
+    {
+      "id": "MH002",
+      "name": "Zenith Ridge Contemplation Center",
+      "short_description": "A modern, minimalist retreat nestled on Zenith Ridge, designed for silent contemplation, meditation, and spiritual workshops, offering serene views and a profound connection to inner peace.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Zenith Ridge, Gingerland, Nevis",
+      "visiting_hours": "By appointment for workshops",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1517457375806-0043818e32c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwyfHx8fHx8fDJ8fDE3MTQ5OTQwNjR8&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "modern retreat",
+        "meditation",
+        "spiritual growth"
+      ]
+    },
+    {
+      "id": "MH003",
+      "name": "St. Thomas' Sanctuary of Quietude",
+      "short_description": "A peaceful, secluded garden and small chapel grounds affiliated with St. Thomas Anglican Church, offering a haven for personal prayer, quiet reflection, and spiritual refreshment.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "Near St. Thomas Anglican Church, Nevis",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://images.unsplash.com/photo-1628173435649-14a5957d5440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMXx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "prayer garden",
+        "church history",
+        "quiet reflection"
+      ]
+    },
+    {
+      "id": "MH004",
+      "name": "New River Estate's Solitude Cell",
+      "short_description": "Within the historical New River Estate, a preserved small room or cell is interpreted as a place for solitary meditation and spiritual withdrawal, offering a glimpse into past monastic aspirations.",
+      "subtype": "Monasteries & Hermitages",
+      "address": "New River Estate, St. James Parish, Nevis",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1555546255-b4612d3b5b63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMnx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "solitary retreat",
+        "historical aspiration",
+        "meditation space"
+      ]
+    },
+    {
+      "id": "P001",
+      "name": "Nevis Peak's Pyramid Summit",
+      "short_description": "The natural, conical form of Nevis Peak is revered as a cosmic pyramid, a colossal natural monument channeling celestial energy and connecting the island to the greater universe.",
+      "subtype": "Pyramids",
+      "address": "Central Nevis (viewable from most parts of the island)",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1547463695-46b04e6c271b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwxMHx8fHx8fHwyfHwxNzE0OTk0MDY0fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "cosmic energy",
+        "natural wonder",
+        "celestial connection"
+      ]
+    },
+    {
+      "id": "P002",
+      "name": "Stone Tower of Zion",
+      "short_description": "The impressive, pyramid-like structure of an ancient sugar mill chimney, towering over the landscape, is seen as a symbolic pyramid of perseverance and transformation from past labors.",
+      "subtype": "Pyramids",
+      "address": "Zion Village, Nevis",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1588665046205-0275817c9135?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwxMXx8fHx8fHwyfHwxNzE0OTk0MDY0fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "symbolic pyramid",
+        "transformation",
+        "historical monument"
+      ]
+    },
+    {
+      "id": "P003",
+      "name": "The Planters' Memorial Cairn",
+      "short_description": "A large, carefully stacked stone cairn, constructed by early planters in memory of their ancestors and as a spiritual marker, embodying enduring legacy and connection to the land.",
+      "subtype": "Pyramids",
+      "address": "Near Fothergills Estate, Nevis",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://images.unsplash.com/photo-1588665046205-0275817c9135?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMXx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "ancestral tribute",
+        "legacy",
+        "stone monument"
+      ]
+    },
+    {
+      "id": "P004",
+      "name": "Coral Reef Pyramid of the Sea",
+      "short_description": "An extraordinary natural coral formation resembling a submerged pyramid, revered by divers as a vibrant underwater spiritual site, teeming with life and ancient ocean wisdom.",
+      "subtype": "Pyramids",
+      "address": "Offshore, Nags Head Reef, Nevis (dive site)",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "fixed amount",
+      "images": "https://images.unsplash.com/photo-1577742057270-4a8157754326?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODU1OTV8MHwxfGFsbHwzMnx8fHx8fHwyfHwxNzE0OTkyODc1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "tags": [
+        "underwater wonder",
+        "ocean wisdom",
+        "marine spirituality"
+      ]
+    }
+  ]
+}

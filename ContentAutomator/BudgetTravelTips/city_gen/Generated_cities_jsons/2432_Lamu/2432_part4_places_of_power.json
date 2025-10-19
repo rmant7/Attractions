@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Lamu",
+    "city_id": "2432"
+  },
+  "items": [
+    {
+      "id": "Lamu001",
+      "name": "Sheikh Sharif Al-Hussein's Zawiya",
+      "short_description": "This venerated zawiya houses the tomb of Sheikh Sharif Al-Hussein, a revered Islamic scholar and Sufi mystic, whose teachings greatly influenced Lamu's spiritual life. Pilgrims visit seeking blessings and spiritual guidance.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Old Town, Lamu Island",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lamu_Old_Town%2C_Kenya_%2850907153578%29.jpg",
+      "tags": [
+        "Sufi",
+        "pilgrimage",
+        "heritage"
+      ]
+    },
+    {
+      "id": "Lamu002",
+      "name": "Utamaduni Grove",
+      "short_description": "Tucked away behind Shela Village, Utamaduni Grove is a small, protected forest patch revered by local elders for its ancient trees and spiritual tranquility. It is believed to be a dwelling place for ancestral spirits and is used for quiet contemplation and traditional ceremonies.",
+      "subtype": "Sacred Forests",
+      "address": "Near Shela Village, Lamu Island",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lamu_Island_vegetation.jpg",
+      "tags": [
+        "nature",
+        "ancestral worship",
+        "meditation"
+      ]
+    },
+    {
+      "id": "Lamu003",
+      "name": "Birika Baraka (Well of Blessings)",
+      "short_description": "This ancient well, fed by an underground spring, is believed to possess healing properties and is a source of spiritual cleansing. Locals and visitors alike come to draw water, offer prayers, and seek blessings for health and prosperity.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Central Lamu Old Town, near Friday Mosque",
+      "visiting_hours": "24/7",
+      "entry_fee": "free",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Lamu_well.jpg",
+      "tags": [
+        "healing",
+        "blessings",
+        "water"
+      ]
+    },
+    {
+      "id": "Lamu004",
+      "name": "Pango La Roho (Cave of Spirits)",
+      "short_description": "Located along the secluded coastline, Pango La Roho is a natural rock formation used since ancient times as a sanctuary for quiet contemplation and ritual practices. Its tranquil ambiance provides a powerful space for introspection and connection with the natural world.",
+      "subtype": "Caves & Sanctuaries",
+      "address": "Manda Island (accessible by dhow from Lamu), off Shela coast",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "KES 300",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Indian_ocean%27s_cave%2C_Watamu%2C_Kenya.jpg",
+      "tags": [
+        "meditation",
+        "rituals",
+        "coastline"
+      ]
+    }
+  ]
+}

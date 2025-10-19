@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "type": "NewAttractions",
+    "city": "Akure",
+    "city_id": "2447"
+  },
+  "items": [
+    {
+      "id": "AKU-ART-001",
+      "name": "The Akure Canvas Gallery",
+      "short_description": "A vibrant space showcasing contemporary Nigerian art and emerging local talent, with rotating exhibitions and workshops. It's a must-visit for art enthusiasts and culture lovers.",
+      "address": "15 Oba Adesida Road, Akure, Ondo State",
+      "opening_hours": "10:00-18:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616422320703-010d8a5c3a3b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "art",
+        "culture",
+        "exhibition"
+      ]
+    },
+    {
+      "id": "AKU-TECH-002",
+      "name": "Ignite Akure Innovation Hub",
+      "short_description": "A cutting-edge co-working and innovation space fostering tech startups and digital skills development in Akure. It's a vibrant community for entrepreneurs and tech enthusiasts.",
+      "address": "Alagbaka Estate, Akure, Ondo State",
+      "opening_hours": "08:00-20:00 (Mon-Sat)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596526113271-26c96576f33d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "technology",
+        "coworking",
+        "innovation"
+      ]
+    },
+    {
+      "id": "AKU-FAM-003",
+      "name": "Kids' Kingdom Fun Centre",
+      "short_description": "An exciting indoor play area and arcade for children of all ages, offering safe and engaging activities. Perfect for family outings and birthday parties.",
+      "address": "Oyemekun Road, Akure, Ondo State",
+      "opening_hours": "11:00-20:00 (Daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517457375252-040228d63a35?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "family",
+        "children",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "AKU-FOOD-004",
+      "name": "Akure Bites Food Park",
+      "short_description": "A vibrant open-air food park featuring diverse culinary stalls, live music, and a relaxed atmosphere. Discover local delicacies and international flavors.",
+      "address": "Ilesha Road, Akure, Ondo State",
+      "opening_hours": "16:00-22:00 (Tue-Sun)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1504985675409-e88390b16f2c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "food",
+        "dining",
+        "nightlife"
+      ]
+    },
+    {
+      "id": "AKU-ECO-005",
+      "name": "Serenity Eco Gardens",
+      "short_description": "A beautifully landscaped botanical garden offering tranquil walking paths, diverse plant collections, and a breath of fresh air. Ideal for nature lovers and relaxation.",
+      "address": "FUTA South Gate Road, Akure, Ondo State",
+      "opening_hours": "08:00-18:00 (Daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549429141-8f5f6f47f2f1?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature",
+        "gardens",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "AKU-ADV-006",
+      "name": "Akure Sky Adventures",
+      "short_description": "An exhilarating outdoor adventure park featuring ziplining, obstacle courses, and canopy walks. Get your adrenaline pumping and enjoy the natural surroundings.",
+      "address": "Idanre Hills Road, Akure, Ondo State",
+      "opening_hours": "09:00-17:00 (Tue-Sun)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510414842594-a21221b21443?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "adventure",
+        "outdoors",
+        "thrill"
+      ]
+    },
+    {
+      "id": "AKU-CIN-007",
+      "name": "Grand Cinemas Akure",
+      "short_description": "Akure's newest state-of-the-art multiplex cinema offering the latest blockbusters in comfortable, modern auditoriums. Enjoy a premium movie-watching experience.",
+      "address": "Shoprite Mall, Alagbaka, Akure, Ondo State",
+      "opening_hours": "10:00-23:00 (Daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1574512403612-4d0089f2a4a7?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "entertainment",
+        "movies",
+        "leisure"
+      ]
+    },
+    {
+      "id": "AKU-HOTEL-008",
+      "name": "The Zenith Grand Hotel & Sky Lounge",
+      "short_description": "A luxurious boutique hotel offering upscale accommodation and a chic rooftop bar with panoramic city views. Experience refined elegance and vibrant nightlife.",
+      "address": "Redemption Avenue, Akure, Ondo State",
+      "opening_hours": "24/7 (Hotel), 17:00-01:00 (Sky Lounge)",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1550746430-c313a96880bb?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "luxury",
+        "nightlife",
+        "hotel"
+      ]
+    },
+    {
+      "id": "AKU-SPA-009",
+      "name": "Oasis Wellness & Spa",
+      "short_description": "A serene sanctuary offering a range of spa treatments, massages, and holistic wellness programs. Rejuvenate your mind, body, and spirit in a tranquil environment.",
+      "address": "Adegbemile Cultural Centre Road, Akure, Ondo State",
+      "opening_hours": "09:00-19:00 (Mon-Sat)",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1544161517-f273b0709f19?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wellness",
+        "relaxation",
+        "spa"
+      ]
+    },
+    {
+      "id": "AKU-SPORT-010",
+      "name": "Akure Champions Sports Arena",
+      "short_description": "A modern multi-purpose sports complex featuring pitches for football and basketball, a well-equipped gym, and fitness classes. Promoting community health and sports.",
+      "address": "Ado-Ekiti Road, Akure, Ondo State",
+      "opening_hours": "06:00-22:00 (Daily)",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1579758784841-f62f3a69a0a4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "sports",
+        "fitness",
+        "community"
+      ]
+    }
+  ]
+}

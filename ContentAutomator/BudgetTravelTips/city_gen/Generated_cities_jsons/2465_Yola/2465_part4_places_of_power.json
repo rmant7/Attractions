@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "PlacesOfPower",
+    "city": "Yola",
+    "city_id": "2465"
+  },
+  "items": [
+    {
+      "id": "YLRST-001",
+      "name": "Tomb of Lamido Yola I",
+      "short_description": "Revered burial site of the first Lamido of Yola, believed to bestow wisdom and protection upon visitors who offer prayers.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Lamido Palace Road, Old Yola Town, Yola, Adamawa State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://source.unsplash.com/random/?ancient,tomb,nigeria",
+      "tags": [
+        "history",
+        "sufi heritage",
+        "ancestral veneration"
+      ]
+    },
+    {
+      "id": "YLRST-002",
+      "name": "Maigari's Healing Shrine",
+      "short_description": "A sacred hut dedicated to Maigari, a legendary healer whose spirit is said to bless offerings and prayers for wellness and recovery.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Daware Area, near River Benue bank, Jimeta, Yola, Adamawa State",
+      "visiting_hours": "08:30-16:30",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/random/?african,shrine,healing",
+      "tags": [
+        "healing",
+        "traditional beliefs",
+        "spiritual offerings"
+      ]
+    },
+    {
+      "id": "YLRST-003",
+      "name": "Kuka Clan Reliquary",
+      "short_description": "Contains ancestral relics and symbols of the ancient Kuka clan, revered for their historical and spiritual continuity in the region.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Kofan Sarki, Yola Town, Yola, Adamawa State",
+      "visiting_hours": "10:00-15:00",
+      "entry_fee": "NGN 500",
+      "images": "https://source.unsplash.com/random/?reliquary,artifact,sacred",
+      "tags": [
+        "heritage",
+        "clan history",
+        "sacred objects"
+      ]
+    },
+    {
+      "id": "YLRST-004",
+      "name": "The Spirit Baobab Shrine",
+      "short_description": "An ancient baobab tree and its surrounding area, believed to house the spirits of early settlers and offer protection to pilgrims and visitors.",
+      "subtype": "Relic Shrines & Tombs",
+      "address": "Along Girei Road, just outside Jimeta, Yola, Adamawa State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/random/?baobab,tree,spirit",
+      "tags": [
+        "nature worship",
+        "ancestral spirits",
+        "ancient tree"
+      ]
+    },
+    {
+      "id": "YLVZ-001",
+      "name": "Kasa Caldera Ridge",
+      "short_description": "The remnants of an ancient caldera, its rugged landscape is believed to hold primordial earth energies and inspire deep introspection.",
+      "subtype": "Volcanic Zones",
+      "address": "Near Kasa Village, North of Jimeta, Yola, Adamawa State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/random/?caldera,volcanic,ridge",
+      "tags": [
+        "geology",
+        "earth energy",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "YLVZ-002",
+      "name": "Pillar of Fire Rocks",
+      "short_description": "Naturally formed basalt columns, thought to be petrified giants or a gateway to the spirit world due to their striking, otherworldly appearance.",
+      "subtype": "Volcanic Zones",
+      "address": "Off Numan Road, towards the Benue River, Yola, Adamawa State",
+      "visiting_hours": "09:00-18:00",
+      "entry_fee": "NGN 750",
+      "images": "https://source.unsplash.com/random/?basalt,columns,rock",
+      "tags": [
+        "natural wonder",
+        "mythology",
+        "geomancy"
+      ]
+    },
+    {
+      "id": "YLVZ-003",
+      "name": "Gwaza Magma Outcrop",
+      "short_description": "A massive igneous rock formation etched with ancient symbols, rumored to be a site where ancestral spirits communicate during solstices.",
+      "subtype": "Volcanic Zones",
+      "address": "East Bank of River Benue, Fufore LGA, Yola, Adamawa State",
+      "visiting_hours": "07:30-17:30",
+      "entry_fee": "donation",
+      "images": "https://source.unsplash.com/random/?igneous,outcrop,carvings",
+      "tags": [
+        "ancient art",
+        "spirit communication",
+        "geological wonder"
+      ]
+    },
+    {
+      "id": "YLVZ-004",
+      "name": "Dumi Healing Waters",
+      "short_description": "A natural hot spring whose mineral-rich waters are believed to possess potent healing properties for both body and spirit, attracting many seekers.",
+      "subtype": "Volcanic Zones",
+      "address": "Dumi Village, near Federal University of Technology, Yola, Adamawa State",
+      "visiting_hours": "06:00-19:00",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/random/?hotspring,healing,water",
+      "tags": [
+        "healing",
+        "natural spring",
+        "geothermal"
+      ]
+    },
+    {
+      "id": "YLMRF-001",
+      "name": "The Mambilla Balance Stone",
+      "short_description": "A colossal balancing rock formation, a marvel of nature believed to be a symbol of divine equilibrium and resilience against all odds.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Mandara Foothills, near Gurin, Yola, Adamawa State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://source.unsplash.com/random/?balancing,rock,nature",
+      "tags": [
+        "natural wonder",
+        "balance",
+        "sacred geometry"
+      ]
+    },
+    {
+      "id": "YLMRF-002",
+      "name": "Echoing Grotto of Yelwa",
+      "short_description": "A massive rock formation with a hidden grotto, known for its resonant acoustics and believed to be a portal for ancestral voices and wisdom.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Yelwa District, along Mayo-Belwa Road, Yola, Adamawa State",
+      "visiting_hours": "09:30-16:30",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/random/?grotto,cave,rock",
+      "tags": [
+        "ancestral voices",
+        "acoustics",
+        "hidden place"
+      ]
+    },
+    {
+      "id": "YLMRF-003",
+      "name": "Guardian Sentinel Rock",
+      "short_description": "A towering monolith naturally sculpted into the form of a human sentinel, said to protect the land and its people from harm.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Off Jambutu Bypass, Jimeta, Yola, Adamawa State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "donation",
+      "images": "https://source.unsplash.com/random/?sentinel,rock,formation",
+      "tags": [
+        "guardian spirit",
+        "natural sculpture",
+        "protection"
+      ]
+    },
+    {
+      "id": "YLMRF-004",
+      "name": "The Congregation of Stones",
+      "short_description": "A cluster of ancient, weather-beaten standing rocks, revered as a meeting place for ancient spirits and traditional elders seeking counsel.",
+      "subtype": "Monoliths & Rock Formations",
+      "address": "Along Yola-Gombe Road, before Federal College of Education, Yola, Adamawa State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 200",
+      "images": "https://source.unsplash.com/random/?standing,stones,cluster",
+      "tags": [
+        "ancient gathering",
+        "sacred space",
+        "earth spirits"
+      ]
+    },
+    {
+      "id": "YLCAS-001",
+      "name": "Sun & Moon Stone Circle",
+      "short_description": "An ancient stone circle precisely aligned with solstices and equinoxes, used by early inhabitants for calendrical and ritualistic purposes.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Remote area near Njoboliyo, Yola, Adamawa State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://source.unsplash.com/random/?stone,circle,celestial",
+      "tags": [
+        "astronomy",
+        "ancient rituals",
+        "solstice"
+      ]
+    },
+    {
+      "id": "YLCAS-002",
+      "name": "Star Gazer's Hill",
+      "short_description": "A prominent hilltop offering unparalleled views of the night sky, historically used for celestial observations and divination by ancient seers.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "North-East of Yola Town, along the hills, Yola, Adamawa State",
+      "visiting_hours": "18:00-23:00 (night viewing)",
+      "entry_fee": "donation",
+      "images": "https://source.unsplash.com/random/?stargazing,hill,nightsky",
+      "tags": [
+        "astronomy",
+        "divination",
+        "night sky"
+      ]
+    },
+    {
+      "id": "YLCAS-003",
+      "name": "Cave of Cosmic Markings",
+      "short_description": "A hidden cave adorned with ancient petroglyphs depicting stars, planets, and constellations, hinting at sophisticated astronomical knowledge.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Foot of Sukur Hills, near Jada, Adamawa State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 1500",
+      "images": "https://source.unsplash.com/random/?cave,petroglyphs,cosmic",
+      "tags": [
+        "ancient knowledge",
+        "petroglyphs",
+        "cosmic art"
+      ]
+    },
+    {
+      "id": "YLCAS-004",
+      "name": "The Celestial Altar Platform",
+      "short_description": "A raised stone platform believed to be an ancient altar where rituals were performed to honor celestial deities and seek their blessings.",
+      "subtype": "Celestial Alignment Sites",
+      "address": "Rural area near Bajama, Yola North, Yola, Adamawa State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/random/?altar,stone,ritual",
+      "tags": [
+        "sky worship",
+        "ancient altar",
+        "blessings"
+      ]
+    },
+    {
+      "id": "YLLAB-001",
+      "name": "The Path of Inner Journey",
+      "short_description": "A natural stone labyrinth, walked by pilgrims seeking clarity, meditation, and a deeper connection to their spiritual self and purpose.",
+      "subtype": "Labyrinths",
+      "address": "Within Gerei Forest Reserve, Yola, Adamawa State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://source.unsplash.com/random/?stone,labyrinth,path",
+      "tags": [
+        "meditation",
+        "self-discovery",
+        "spiritual path"
+      ]
+    },
+    {
+      "id": "YLLAB-002",
+      "name": "Grove of Whispering Wisdom",
+      "short_description": "A sacred forest with winding, intentional paths, believed to lead seekers to profound insights and ancient wisdom from nature spirits.",
+      "subtype": "Labyrinths",
+      "address": "Near Mayo-Belwa road, South of Yola Town, Yola, Adamawa State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/random/?forest,path,wisdom",
+      "tags": [
+        "wisdom",
+        "nature retreat",
+        "meditative walk"
+      ]
+    },
+    {
+      "id": "YLLAB-003",
+      "name": "The Spiraling Ancestor Walk",
+      "short_description": "A ritual path spiraling around an ancient, sacred tree, symbolizing the cyclical nature of life, death, and rebirth within the clan.",
+      "subtype": "Labyrinths",
+      "address": "Kofan Sarki, Old Yola Town, Yola, Adamawa State",
+      "visiting_hours": "09:00-17:00",
+      "entry_fee": "NGN 300",
+      "images": "https://source.unsplash.com/random/?spiral,path,tree",
+      "tags": [
+        "cycles",
+        "ancestral veneration",
+        "rebirth"
+      ]
+    },
+    {
+      "id": "YLLAB-004",
+      "name": "Earth Serpent's Flow",
+      "short_description": "An ancient earthwork labyrinth, visible from above, representing the flow of vital energy and believed to cleanse the spirit of those who walk it.",
+      "subtype": "Labyrinths",
+      "address": "Low hills near Pella, East of Yola, Adamawa State",
+      "visiting_hours": "08:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://source.unsplash.com/random/?earthwork,serpent,aerial",
+      "tags": [
+        "earth energy",
+        "purification",
+        "ancient design"
+      ]
+    },
+    {
+      "id": "YLHSW-001",
+      "name": "The Benue Blessing Spring",
+      "short_description": "A revered natural spring whose pure, cold waters are believed to bestow blessings, fertility, and spiritual cleansing upon those who drink from it.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Near the confluence of Faro & Benue Rivers, Yola, Adamawa State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/random/?spring,river,blessing",
+      "tags": [
+        "blessings",
+        "fertility",
+        "purification"
+      ]
+    },
+    {
+      "id": "YLHSW-002",
+      "name": "Ancestral Wisdom Well",
+      "short_description": "An ancient hand-dug well, its depths are said to hold the wisdom of generations and provide insight to those who seek spiritual guidance.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Old Yola Market, Yola Town, Yola, Adamawa State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://source.unsplash.com/random/?ancient,well,wisdom",
+      "tags": [
+        "wisdom",
+        "guidance",
+        "ancestral history"
+      ]
+    },
+    {
+      "id": "YLHSW-003",
+      "name": "Kofar Numa Healing Oasis",
+      "short_description": "A secluded oasis centered around a spring with unique mineral deposits, traditionally visited for its potent healing and restorative powers.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Kofar Numa, near Federal Medical Centre, Jimeta, Yola, Adamawa State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 400",
+      "images": "https://source.unsplash.com/random/?oasis,healing,mineral",
+      "tags": [
+        "healing waters",
+        "restoration",
+        "mineral spring"
+      ]
+    },
+    {
+      "id": "YLHSW-004",
+      "name": "Spirit Falls of Ribadu",
+      "short_description": "A tranquil cascade revered for its gentle flow, believed to wash away worries and connect pilgrims to the calming spirits of nature.",
+      "subtype": "Holy Springs & Wells",
+      "address": "Ribadu area, South of Jimeta, Yola, Adamawa State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/random/?waterfall,spirit,tranquil",
+      "tags": [
+        "calmness",
+        "nature spirits",
+        "meditation"
+      ]
+    },
+    {
+      "id": "YLPGR-001",
+      "name": "The Path to Lamido's Rest",
+      "short_description": "An ancient route traversed by pilgrims seeking blessings and spiritual solace at the Tomb of Lamido Yola I, often undertaken during significant festivals.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting Point: Palace Gate, Yola Town, Yola, Adamawa State",
+      "visiting_hours": "Open 24 hours (route)",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/random/?pilgrimage,path,ancient",
+      "tags": [
+        "pilgrimage",
+        "blessings",
+        "historical trek"
+      ]
+    },
+    {
+      "id": "YLPGR-002",
+      "name": "Seven Hills Spiritual Trek",
+      "short_description": "A challenging pilgrimage route winding through seven sacred hills, each offering unique views and opportunities for contemplation and prayer.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Trailhead: Near Modibbo Adama University, Yola, Adamawa State",
+      "visiting_hours": "06:00-18:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://source.unsplash.com/random/?hiking,spiritual,hills",
+      "tags": [
+        "contemplation",
+        "nature walk",
+        "spiritual journey"
+      ]
+    },
+    {
+      "id": "YLPGR-003",
+      "name": "Harvest Blessing Walk",
+      "short_description": "An annual procession route followed during the harvest festival, symbolizing gratitude for abundance and seeking blessings for the next season.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Route begins from Jibiro Village to the main market, Jimeta, Yola, Adamawa State",
+      "visiting_hours": "Seasonal (check local calendar)",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/random/?harvest,festival,procession",
+      "tags": [
+        "harvest festival",
+        "gratitude",
+        "procession"
+      ]
+    },
+    {
+      "id": "YLPGR-004",
+      "name": "Benue River Purification Journey",
+      "short_description": "A traditional riverine pilgrimage using canoes, where participants seek purification and connection with the powerful spirits of the River Benue.",
+      "subtype": "Pilgrimage Routes",
+      "address": "Starting point: Numan Bridge, Adamawa State, towards Yola",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://source.unsplash.com/random/?river,canoe,purification",
+      "tags": [
+        "river ritual",
+        "purification",
+        "canoe journey"
+      ]
+    },
+    {
+      "id": "YLSMT-001",
+      "name": "Mount Patali of the Ancestors",
+      "short_description": "The highest peak in the immediate Yola area, home to ancient shrines and believed to be a direct channel for ancestral communication and blessings.",
+      "subtype": "Sacred Mountains",
+      "address": "Patali Hills, North of Jimeta, Yola, Adamawa State",
+      "visiting_hours": "06:00-17:00",
+      "entry_fee": "NGN 700",
+      "images": "https://source.unsplash.com/random/?mountain,shrine,ancestors",
+      "tags": [
+        "ancestral spirits",
+        "mountain shrine",
+        "revelation"
+      ]
+    },
+    {
+      "id": "YLSMT-002",
+      "name": "Kugho's Whispering Summit",
+      "short_description": "A mountain known for its unique rock formations and a hidden cave, where ancient priests sought visions and guidance from mountain spirits.",
+      "subtype": "Sacred Mountains",
+      "address": "Kugho Hills, near Girei, Yola, Adamawa State",
+      "visiting_hours": "07:00-16:00",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/random/?rocky,summit,cave",
+      "tags": [
+        "vision quest",
+        "mountain spirits",
+        "natural sanctuary"
+      ]
+    },
+    {
+      "id": "YLSMT-003",
+      "name": "The Twin Peaks of Destiny",
+      "short_description": "Two distinct mountain peaks, revered as symbols of duality and balance, where ancient rituals were performed to harmonize opposing forces.",
+      "subtype": "Sacred Mountains",
+      "address": "Towards Song LGA, Adamawa State (approx 1 hour drive from Yola)",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 1200",
+      "images": "https://source.unsplash.com/random/?twin,peaks,mountains",
+      "tags": [
+        "duality",
+        "balance",
+        "ancient rituals"
+      ]
+    },
+    {
+      "id": "YLSMT-004",
+      "name": "Balewa's Sacred Watcher",
+      "short_description": "A majestic mountain regarded as a living deity, a silent protector of the land, inspiring awe and deep respect from local communities.",
+      "subtype": "Sacred Mountains",
+      "address": "Balewa Hills, East of Yola-Jada Road, Adamawa State",
+      "visiting_hours": "06:30-18:30",
+      "entry_fee": "donation",
+      "images": "https://source.unsplash.com/random/?majestic,mountain,sacred",
+      "tags": [
+        "deity worship",
+        "protection",
+        "natural wonder"
+      ]
+    },
+    {
+      "id": "YLORS-001",
+      "name": "Cave of the Silent Oracle",
+      "short_description": "A secluded cave where ancient oracles once interpreted divine messages, its stillness still inviting profound introspection and spiritual clarity.",
+      "subtype": "Oracle Sites",
+      "address": "Within Gurin Hills, North of Yola, Adamawa State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "NGN 800",
+      "images": "https://source.unsplash.com/random/?oracle,cave,secluded",
+      "tags": [
+        "divination",
+        "prophecy",
+        "introspection"
+      ]
+    },
+    {
+      "id": "YLORS-002",
+      "name": "Mirrored Pool of Visions",
+      "short_description": "A crystal-clear natural pool, historically used for scrying and receiving visions from the spirit world, especially during moonlit nights.",
+      "subtype": "Oracle Sites",
+      "address": "Remote area near Wuro Jabbe, Yola, Adamawa State",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "donation",
+      "images": "https://source.unsplash.com/random/?pool,scrying,visions",
+      "tags": [
+        "scrying",
+        "visions",
+        "spirit communication"
+      ]
+    },
+    {
+      "id": "YLORS-003",
+      "name": "The Baobab Oracle Tree",
+      "short_description": "An ancient, colossal baobab tree, its branches and roots are believed to house an oracle spirit offering guidance through natural signs.",
+      "subtype": "Oracle Sites",
+      "address": "Near Koma Hills, Fufore LGA, Yola, Adamawa State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "free",
+      "images": "https://source.unsplash.com/random/?baobab,oracle,tree",
+      "tags": [
+        "tree spirit",
+        "guidance",
+        "natural signs"
+      ]
+    },
+    {
+      "id": "YLORS-004",
+      "name": "Whispering Stone of Fate",
+      "short_description": "A unique rock formation with natural crevices where the wind creates haunting sounds, interpreted by traditional seers as omens and prophecies.",
+      "subtype": "Oracle Sites",
+      "address": "Rocky outcrop near Gombi Road, North of Yola, Adamawa State",
+      "visiting_hours": "08:30-17:30",
+      "entry_fee": "NGN 250",
+      "images": "https://source.unsplash.com/random/?whispering,stone,omen",
+      "tags": [
+        "omens",
+        "prophecy",
+        "traditional seers"
+      ]
+    },
+    {
+      "id": "YLMGS-001",
+      "name": "Wuro Dole Stone Alignment",
+      "short_description": "A series of ancient standing stones arranged in precise alignment, believed to be a ceremonial ground for ancestral rites and earth worship.",
+      "subtype": "Megalithic Sites",
+      "address": "Wuro Dole Village, near Mayo-Belwa, Yola, Adamawa State",
+      "visiting_hours": "07:00-18:00",
+      "entry_fee": "NGN 1000",
+      "images": "https://source.unsplash.com/random/?stone,alignment,megalithic",
+      "tags": [
+        "ancient rites",
+        "earth worship",
+        "ceremonial site"
+      ]
+    },
+    {
+      "id": "YLMGS-002",
+      "name": "The Giant's Gateway Dolmen",
+      "short_description": "A large stone structure resembling a gateway, rumored to be an ancient portal tomb or a passage to the spirit realm, erected by early settlers.",
+      "subtype": "Megalithic Sites",
+      "address": "Hidden valley near Demsa LGA, Yola, Adamawa State",
+      "visiting_hours": "09:00-16:00",
+      "entry_fee": "donation",
+      "images": "https://source.unsplash.com/random/?dolmen,gateway,ancient",
+      "tags": [
+        "ancient burial",
+        "spirit realm",
+        "prehistoric"
+      ]
+    },
+    {
+      "id": "YLMGS-003",
+      "name": "Ring of Elder's Council",
+      "short_description": "A large, enigmatic stone circle, believed to be an ancient meeting place where tribal elders made crucial decisions and performed sacred oaths.",
+      "subtype": "Megalithic Sites",
+      "address": "Elevated plateau near Toungo, Adamawa State (approx 2 hours drive from Yola)",
+      "visiting_hours": "08:00-17:00",
+      "entry_fee": "NGN 1500",
+      "images": "https://source.unsplash.com/random/?stone,circle,elder",
+      "tags": [
+        "tribal council",
+        "sacred oaths",
+        "ancient history"
+      ]
+    },
+    {
+      "id": "YLMGS-004",
+      "name": "The Enigmatic Stone Walls of Gashaka",
+      "short_description": "Remnants of massive, unmortared stone walls, hinting at an advanced ancient civilization and serving as a protective spiritual barrier for the region.",
+      "subtype": "Megalithic Sites",
+      "address": "Gashaka Gumti National Park area, near Yola, Adamawa State",
+      "visiting_hours": "07:30-16:30",
+      "entry_fee": "NGN 2000",
+      "images": "https://source.unsplash.com/random/?ancient,walls,ruins",
+      "tags": [
+        "ancient civilization",
+        "fortification",
+        "protective magic"
+      ]
+    }
+  ]
+}

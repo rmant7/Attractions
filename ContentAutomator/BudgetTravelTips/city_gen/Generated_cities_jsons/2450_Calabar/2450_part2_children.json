@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Calabar",
+    "city_id": "2450"
+  },
+  "items": [
+    {
+      "id": "FEF001",
+      "name": "Calabar Enchanted Forest",
+      "short_description": "A magical park where classic fairy tales come alive with interactive displays and character meet-and-greets. Children can wander through enchanted groves and discover beloved story scenes.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Off IBB Way, Calabar",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579737190011-e408544a49c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "storyland",
+        "characters",
+        "interactive"
+      ]
+    },
+    {
+      "id": "WWL002",
+      "name": "Whispering Woods Storyland",
+      "short_description": "Experience a serene park dedicated to folk tales and fables, featuring gentle walking paths, whimsical sculptures, and designated areas for storytelling sessions. Perfect for younger children and peaceful exploration.",
+      "subtype": "Fairy Tale Parks",
+      "address": "12 Marina Resort Road, Calabar",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582234032585-cd28e20f1ec3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "fables",
+        "nature",
+        "sculptures"
+      ]
+    },
+    {
+      "id": "PKK003",
+      "name": "Princess & Knight Kingdom",
+      "short_description": "A themed area where children can dress up as their favorite princesses or knights, participate in mock jousting, and explore a friendly castle. Imagination and role-playing are encouraged.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Eyo Ita Street, Off MCC Road, Calabar",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1610476025128-444f8f4a1f6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "role-play",
+        "costumes",
+        "castle"
+      ]
+    },
+    {
+      "id": "CSV004",
+      "name": "Calabar Storybook Village",
+      "short_description": "A charming miniature village designed to represent different storybook settings, from Hansel and Gretel's gingerbread house to Rapunzel's tower. Children can explore and play within these iconic scenes.",
+      "subtype": "Fairy Tale Parks",
+      "address": "Near University of Calabar, Calabar",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1522204523234-87295a0a6d1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "miniatures",
+        "exploration",
+        "storybook"
+      ]
+    },
+    {
+      "id": "CSL001",
+      "name": "Calabar Splash Lagoon",
+      "short_description": "A vibrant water park featuring multiple shallow pools, interactive splash pads, and gentle water slides perfect for younger children. Lifeguards are always on duty ensuring safety and fun.",
+      "subtype": "Water Parks for Kids",
+      "address": "Off Adiabo Road, Calabar",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621535940003-8919630c79f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "splash pad",
+        "slides",
+        "safe"
+      ]
+    },
+    {
+      "id": "AKF002",
+      "name": "Aqua Kids Paradise",
+      "short_description": "This water park offers a variety of aquatic fun, from a lazy river designed for tubes to small wave pools and a dedicated toddlers' area. Shaded relaxation zones are available for parents.",
+      "subtype": "Water Parks for Kids",
+      "address": "5 Afokang Street, Calabar South",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1559814407-e542d93540a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "lazy river",
+        "toddler zone",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": "TSP003",
+      "name": "Tropical Splashdown Park",
+      "short_description": "A nature-inspired water park blending tropical aesthetics with exciting water features like a waterfall grotto, spray zones, and themed mini-slides. It's an immersive and refreshing experience.",
+      "subtype": "Water Parks for Kids",
+      "address": "Goldie Street Extension, Calabar",
+      "opening_hours": "10:30-18:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1574360408453-936611593c20?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "themed",
+        "waterfalls",
+        "spray-zones"
+      ]
+    },
+    {
+      "id": "CRR004",
+      "name": "Calabar River Rapids Junior",
+      "short_description": "A unique water attraction offering scaled-down river rapids experience for children, complete with inflatable tubes and gentle currents. It simulates a natural river adventure in a safe environment.",
+      "subtype": "Water Parks for Kids",
+      "address": "Along Calabar River Banks, Ikot Omin",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-157833054170-c75266e74483?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "rapids",
+        "tubing",
+        "adventure-lite"
+      ]
+    },
+    {
+      "id": "CYSL001",
+      "name": "Calabar Young Scientists Lab",
+      "short_description": "An interactive science center designed to spark curiosity in children through hands-on experiments, engaging demonstrations, and discovery zones covering physics, chemistry, and biology basics.",
+      "subtype": "Science Centers",
+      "address": "34 Target Road, Calabar",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628170289721-a47318721c5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "experiments",
+        "hands-on",
+        "discovery"
+      ]
+    },
+    {
+      "id": "IKHC002",
+      "name": "Innovation Kids Hub Calabar",
+      "short_description": "Focuses on technology and engineering with age-appropriate robotics workshops, coding games, and construction challenges. Encourages problem-solving and creative thinking in a fun environment.",
+      "subtype": "Science Centers",
+      "address": "Along Parliamentary Extension, Calabar",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1607592476046-d250c66741aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "robotics",
+        "coding",
+        "engineering"
+      ]
+    },
+    {
+      "id": "ECDC003",
+      "name": "Eco-Kids Discovery Center",
+      "short_description": "An environmental science center where children learn about nature, ecology, and sustainability through interactive exhibits, a mini-garden, and animal encounters. Promotes environmental awareness.",
+      "subtype": "Science Centers",
+      "address": "By Calabar Botanical Garden, Asari Eso",
+      "opening_hours": "09:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1533038656-78832a8740c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "ecology",
+        "nature",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "CKO004",
+      "name": "Cosmic Kids Observatory",
+      "short_description": "A small, kid-friendly observatory and planetarium offering simplified explanations of the solar system, stars, and galaxies. Features engaging visual shows and telescope viewing sessions (weather permitting).",
+      "subtype": "Science Centers",
+      "address": "7 Etim Edem Road, Calabar",
+      "opening_hours": "14:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1620023640209-669f6e1f0612?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "astronomy",
+        "planetarium",
+        "space"
+      ]
+    },
+    {
+      "id": "CFFG001",
+      "name": "Calabar Fables & Folktales Garden",
+      "short_description": "A serene garden park with designated storytelling corners where local and international folktales are brought to life by professional storytellers. Features interactive exhibits based on popular narratives.",
+      "subtype": "Storytelling Parks",
+      "address": "Along State Housing Estate Road, Calabar",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563858062-fe099c27d4c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "folktales",
+        "storytellers",
+        "garden"
+      ]
+    },
+    {
+      "id": "ETA002",
+      "name": "Echoing Tales Amphitheater",
+      "short_description": "An outdoor amphitheater setting where vibrant storytelling performances, puppet shows, and dramatic readings captivate young audiences. Special events and guest storytellers are regular features.",
+      "subtype": "Storytelling Parks",
+      "address": "Near Millennium Park, Calabar",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1598466649721-e0c608129a0f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "performances",
+        "puppet shows",
+        "amphitheater"
+      ]
+    },
+    {
+      "id": "MCSP003",
+      "name": "Mythical Creatures Story Path",
+      "short_description": "A winding path through a decorated park, where each stop reveals a new mythical creature from Nigerian and global lore, accompanied by a short audio story or a live storyteller.",
+      "subtype": "Storytelling Parks",
+      "address": "Off Mary Sless Street, Calabar",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627051460301-4c12d4d8c1e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "mythology",
+        "audio stories",
+        "exploration"
+      ]
+    },
+    {
+      "id": "SGTH004",
+      "name": "Storyteller's Grand Treehouse",
+      "short_description": "A unique storytelling space built around a large, ancient tree, offering cozy nooks and a central stage for intimate storytelling sessions. Encourages children to share their own tales.",
+      "subtype": "Storytelling Parks",
+      "address": "Ikot Ansa Community, Calabar",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1610476025128-444f8f4a1f6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "treehouse",
+        "interactive",
+        "creative writing"
+      ]
+    },
+    {
+      "id": "CJMG001",
+      "name": "Calabar Junior Magicians Guild",
+      "short_description": "A dedicated venue offering daily magic and illusion shows tailored for children, featuring local magicians and interactive segments where kids can learn simple tricks.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "8 Duke Town Road, Calabar",
+      "opening_hours": "14:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1605374493390-ffb801a61e0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "magic tricks",
+        "interactive",
+        "live show"
+      ]
+    },
+    {
+      "id": "MMT002",
+      "name": "Mystical Mirage Theater",
+      "short_description": "A specialized theater showcasing grand illusions and captivating magical acts that will astound children and adults alike. Features advanced techniques and dazzling presentations.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Inside Tinapa Lakeside Hotel, Calabar",
+      "opening_hours": "16:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-154406282-3531b7f9408e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "illusions",
+        "spectacular",
+        "theater"
+      ]
+    },
+    {
+      "id": "GCCD003",
+      "name": "The Great Calabar Conjurer's Den",
+      "short_description": "An intimate setting where close-up magic and mentalism tricks are performed right before the children's eyes. Encourages audience participation and leaves kids amazed by the seemingly impossible.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "23 Boco Street, Calabar",
+      "opening_hours": "13:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1627051460301-4c12d4d8c1e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "close-up magic",
+        "mentalism",
+        "audience participation"
+      ]
+    },
+    {
+      "id": "EPMT004",
+      "name": "Enchanted Puppet & Magic Theatre",
+      "short_description": "Combines the charm of puppet shows with magical elements, creating a unique theatrical experience. Stories unfold with magical twists and surprise illusions, delighting younger audiences.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Cultural Center Complex, Calabar",
+      "opening_hours": "11:00-13:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1510525000078-d42199ac0035?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "puppets",
+        "theatrical",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "CKCC001",
+      "name": "Calabar Kiddie Coasters & Carousel",
+      "short_description": "A classic amusement park section dedicated to younger thrill-seekers, featuring a gentle kiddie roller coaster, a beautifully themed carousel, and miniature Ferris wheel.",
+      "subtype": "Amusement Rides",
+      "address": "Alongside Marina Resort, Calabar",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1550993072-8854f3c05128?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "carousel",
+        "kiddie rides",
+        "mini-coaster"
+      ]
+    },
+    {
+      "id": "AJAC002",
+      "name": "Adventure Junction Arcade",
+      "short_description": "Beyond just rides, this park offers a mix of classic amusement rides like bumper cars and teacups, combined with an indoor arcade featuring redemption games and virtual reality experiences for older kids.",
+      "subtype": "Amusement Rides",
+      "address": "15 Ekom Anang Road, Calabar",
+      "opening_hours": "11:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1607592476046-d250c66741aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "arcade",
+        "bumper cars",
+        "VR games"
+      ]
+    },
+    {
+      "id": "CRFG003",
+      "name": "Cross River Funfair Grounds",
+      "short_description": "A vibrant funfair offering seasonal and permanent carnival rides, including swings, a mini-drop tower, and various skill games. Perfect for a lively family outing.",
+      "subtype": "Amusement Rides",
+      "address": "Off Murtala Mohammed Highway, Calabar",
+      "opening_hours": "16:00-22:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1507006894025-fb355b252504?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "carnival",
+        "skill games",
+        "thrill rides"
+      ]
+    },
+    {
+      "id": "TTEX004",
+      "name": "Toddler Town Express",
+      "short_description": "A miniature train ride that takes toddlers and their parents on a scenic journey through a themed landscape. Features gentle movements and delightful visual attractions suitable for very young children.",
+      "subtype": "Amusement Rides",
+      "address": "Inside Transcorp Hilton Calabar Grounds",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621535940003-8919630c79f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "train ride",
+        "toddler-friendly",
+        "scenic"
+      ]
+    },
+    {
+      "id": "CDEP001",
+      "name": "Calabar Dino Explorers Park",
+      "short_description": "Step back in time to the Mesozoic era! This park features life-sized animatronic dinosaurs, fossil digging sites, and an educational museum for aspiring paleontologists.",
+      "subtype": "Dinosaur Parks",
+      "address": "5 Ekong Anaku Street, Calabar",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558223635-4384a5a5d1c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "animatronics",
+        "fossils",
+        "paleontology"
+      ]
+    },
+    {
+      "id": "JCAP002",
+      "name": "Jurassic Creek Adventure",
+      "short_description": "An immersive adventure through a simulated prehistoric jungle, where children can spot various dinosaur species in their 'natural habitat.' Includes a small jeep ride and a discovery trail.",
+      "subtype": "Dinosaur Parks",
+      "address": "Along Atimbo Road, Calabar",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1574360408453-936611593c20?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "prehistoric",
+        "jungle walk",
+        "jeep ride"
+      ]
+    },
+    {
+      "id": "DDPZ003",
+      "name": "Dino Dig & Play Zone",
+      "short_description": "A hands-on play area where children can unearth 'dinosaur bones' in a giant sandpit, climb on dinosaur-themed play structures, and learn about different species in a fun way.",
+      "subtype": "Dinosaur Parks",
+      "address": "Marian Road Extension, Calabar",
+      "opening_hours": "10:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621535940003-8919630c79f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "sandpit",
+        "play structures",
+        "educational"
+      ]
+    },
+    {
+      "id": "TRRE004",
+      "name": "T-Rex Roar & Ride Experience",
+      "short_description": "Offers a thrilling but safe virtual reality ride that takes children on an encounter with a T-Rex. Also includes a simulator ride and photo opportunities with static dinosaur models.",
+      "subtype": "Dinosaur Parks",
+      "address": "3 Calabar Road, Calabar",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1502444330042-d1708705a10f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "VR experience",
+        "simulator",
+        "T-Rex"
+      ]
+    },
+    {
+      "id": "CEM001",
+      "name": "Calabar Explorer's Maze",
+      "short_description": "A large, outdoor maze with interactive challenges and riddles at each turn. Children follow clues to find a hidden treasure, promoting teamwork and problem-solving skills.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Off Ndidem Usang Iso Road, Calabar",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582234032585-cd28e20f1ec3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "maze",
+        "riddles",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "JQPK002",
+      "name": "Jungle Quest Park",
+      "short_description": "An adventure park set in a natural jungle-like environment, offering age-appropriate obstacle courses, zip lines (miniature), and nature scavenger hunts. Fosters physical activity and exploration.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Near Calabar Zoo, Calabar",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574360408453-936611593c20?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "obstacle course",
+        "zip lines",
+        "nature hunt"
+      ]
+    },
+    {
+      "id": "PTIC003",
+      "name": "Pirate's Treasure Island Challenge",
+      "short_description": "A themed adventure zone where children embark on a pirate-themed quest, solving puzzles, navigating 'seas,' and searching for hidden treasure. Interactive characters guide the journey.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Along Calabar Riverfront, Duke Town",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621535940003-8919630c79f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "pirate theme",
+        "puzzles",
+        "treasure hunt"
+      ]
+    },
+    {
+      "id": "EERJ004",
+      "name": "Enigma Escape Room Junior",
+      "short_description": "Specially designed escape rooms for children, featuring fun themes, age-appropriate challenges, and engaging storylines. Perfect for small groups to solve mysteries together.",
+      "subtype": "Adventure & Quest Games",
+      "address": "18 Eta Agbor Road, Calabar",
+      "opening_hours": "12:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1620023640209-669f6e1f0612?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "escape room",
+        "mystery",
+        "brain games"
+      ]
+    },
+    {
+      "id": "CWPK001",
+      "name": "Calabar Wonderland Park",
+      "short_description": "A classic children's theme park with multiple themed zones, including a fantasy land, a wild west town, and a futuristic city. Offers a mix of gentle rides, shows, and character greetings.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Along 8 Miles, Calabar-Itu Road",
+      "opening_hours": "10:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558223635-4384a5a5d1c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "multi-zone",
+        "rides",
+        "character meet"
+      ]
+    },
+    {
+      "id": "ASKR002",
+      "name": "African Safari Kids Resort",
+      "short_description": "A unique theme park experience focused on African wildlife and culture, featuring safari-themed rides, animal-themed play areas, and educational shows about various animals.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Near Calabar Zoo, Ikom Road",
+      "opening_hours": "09:30-17:30",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1574360408453-936611593c20?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "safari theme",
+        "wildlife",
+        "cultural"
+      ]
+    },
+    {
+      "id": "STLL003",
+      "name": "Sweet Tooth Land",
+      "short_description": "A whimsical, candy-themed theme park where everything is designed to look like sweets and desserts. Features brightly colored rides, a 'chocolate river' boat ride, and a candy-making workshop.",
+      "subtype": "Theme Parks for Kids",
+      "address": "10 Diamond Hill, Calabar",
+      "opening_hours": "11:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1522204523234-87295a0a6d1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "candy theme",
+        "whimsical",
+        "workshops"
+      ]
+    },
+    {
+      "id": "TTBP004",
+      "name": "Tiny Town Builders Park",
+      "short_description": "A construction-themed park where children can operate miniature diggers, build with giant blocks, and navigate a scaled-down road system in electric cars. Encourages creativity and hands-on play.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Off Ekpo Abasi Street, Calabar",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1507006894025-fb355b252504?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "construction",
+        "building",
+        "electric cars"
+      ]
+    },
+    {
+      "id": "CFF001",
+      "name": "Calabar Fun Factory",
+      "short_description": "A large indoor play center featuring multi-level soft play structures, ball pits, slides, and climbing frames. Designed for children of all ages to burn energy in a safe environment.",
+      "subtype": "Indoor Play Centers",
+      "address": "1 Marian Road, Calabar",
+      "opening_hours": "10:00-20:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1558223635-4384a5a5d1c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "soft play",
+        "ball pit",
+        "climbing"
+      ]
+    },
+    {
+      "id": "BBZ002",
+      "name": "Bounce & Beyond Zone",
+      "short_description": "Specializes in inflatable bounce houses, trampolines, and obstacle courses, all within an air-conditioned indoor space. Perfect for high-energy play regardless of the weather.",
+      "subtype": "Indoor Play Centers",
+      "address": "Goodluck Jonathan Bypass, Calabar",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574360408453-936611593c20?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "trampolines",
+        "inflatables",
+        "obstacle course"
+      ]
+    },
+    {
+      "id": "CKCC003",
+      "name": "Creative Kids Corner Calabar",
+      "short_description": "An indoor play center focusing on creative and imaginative play, with dress-up areas, building blocks, art stations, and a miniature pretend-play town (e.g., hospital, market, fire station).",
+      "subtype": "Indoor Play Centers",
+      "address": "Behind Watt Market, Calabar",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1621535940003-8919630c79f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "pretend play",
+        "art activities",
+        "building blocks"
+      ]
+    },
+    {
+      "id": "MCEH004",
+      "name": "Mini-City Exploration Hub",
+      "short_description": "A miniature city where children can role-play various adult professions and scenarios, complete with scaled-down shops, roads, and interactive exhibits. It's an educational and fun experience.",
+      "subtype": "Indoor Play Centers",
+      "address": "State Library Complex, Calabar Road",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1507006894025-fb355b252504?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "tags": [
+        "role-playing",
+        "educational",
+        "mini-city"
+      ]
+    }
+  ]
+}

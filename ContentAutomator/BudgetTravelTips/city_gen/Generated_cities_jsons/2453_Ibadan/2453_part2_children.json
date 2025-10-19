@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "type": "ChildrenAttractions",
+    "city": "Ibadan",
+    "city_id": "2453"
+  },
+  "items": [
+    {
+      "id": "IBD-ADV-001",
+      "name": "The Great Jungle Quest",
+      "short_description": "Navigate a thrilling indoor maze filled with jungle sounds and hidden challenges. Perfect for young explorers aged 5-12.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Agodi Gardens Road, Agodi, Ibadan",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1549727717-36e7a2b9f7a7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "maze",
+        "indoor adventure",
+        "puzzle"
+      ]
+    },
+    {
+      "id": "IBD-ADV-002",
+      "name": "Captain Blackbeard's Treasure",
+      "short_description": "A themed escape room where kids solve puzzles to find pirate treasure before time runs out. Best for groups of friends and families.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Samonda Road, Sango, Ibadan",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1595701750278-f73c68198f7e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "escape room",
+        "pirate",
+        "team building"
+      ]
+    },
+    {
+      "id": "IBD-ADV-003",
+      "name": "Knight's Apprentice Quest",
+      "short_description": "An outdoor obstacle course designed like a medieval castle, complete with drawbridges, climbing walls, and secret passages.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Old Ife Road, Gbagi, Ibadan",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627916053426-5b4859a43a01?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "obstacle course",
+        "outdoor play",
+        "knights"
+      ]
+    },
+    {
+      "id": "IBD-ADV-004",
+      "name": "Junior Spy Missions",
+      "short_description": "Kids get to complete spy missions, decipher codes, and navigate laser mazes in this interactive espionage experience.",
+      "subtype": "Adventure & Quest Games",
+      "address": "Ring Road, Challenge, Ibadan",
+      "opening_hours": "10:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1579737152011-236b33453b3f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "spy games",
+        "laser maze",
+        "interactive"
+      ]
+    },
+    {
+      "id": "IBD-CMG-001",
+      "name": "Toon Town Jamboree",
+      "short_description": "A vibrant indoor space where children can meet and interact with their favorite animated characters, enjoy storytelling, and get photos.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Palms Mall, Ring Road, Ibadan",
+      "opening_hours": "11:00-19:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1571407914480-1a613f36dd3d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "character interaction",
+        "photo opportunities",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "IBD-CMG-002",
+      "name": "League of Young Heroes",
+      "short_description": "Meet iconic superheroes, learn some 'hero moves,' and take part in mini-missions to save the day. A hit for aspiring heroes.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Jericho GRA, Ibadan",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1543168256-418a0b411d51?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "superheroes",
+        "role play",
+        "costumes"
+      ]
+    },
+    {
+      "id": "IBD-CMG-003",
+      "name": "Enchanted Palace Gathering",
+      "short_description": "Dress up and meet beloved princesses for a magical afternoon of dancing, singing, and royal tea parties. Dreams come true for little royalty.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Bodija Estate, Ibadan",
+      "opening_hours": "14:00-17:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1588698944588-e21443684a0d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "princesses",
+        "dress-up",
+        "tea party"
+      ]
+    },
+    {
+      "id": "IBD-CMG-004",
+      "name": "Barnyard Buddies Bash",
+      "short_description": "Join popular farm animal cartoon characters for interactive games, sing-alongs, and hands-on activities in a charming barnyard setting.",
+      "subtype": "Cartoon Meet & Greets",
+      "address": "Akobo, Ibadan",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1582215848800-47864c88a82d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "farm animals",
+        "games",
+        "sing-alongs"
+      ]
+    },
+    {
+      "id": "IBD-SCI-001",
+      "name": "Future Explorers Lab",
+      "short_description": "An interactive science center offering hands-on exhibits in physics, biology, and chemistry, designed to ignite curiosity in young minds.",
+      "subtype": "Science Centers",
+      "address": "University of Ibadan Road, Ibadan",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1601639352668-edc764724a73?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "interactive exhibits",
+        "STEM",
+        "learning"
+      ]
+    },
+    {
+      "id": "IBD-SCI-002",
+      "name": "Eco-Innovators Hub",
+      "short_description": "Focuses on environmental science and sustainability, with exhibits on renewable energy, recycling, and urban farming for kids.",
+      "subtype": "Science Centers",
+      "address": "New Gbagi Market Road, Ibadan",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1557997380-5a30f1437102?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "environmental science",
+        "sustainability",
+        "eco-friendly"
+      ]
+    },
+    {
+      "id": "IBD-SCI-003",
+      "name": "Little Engineers Workshop",
+      "short_description": "A hands-on center where children can build simple robots, learn coding basics, and explore engineering principles through play.",
+      "subtype": "Science Centers",
+      "address": "Onireke, Ibadan",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1581090467778-9844f24f8d55?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "robotics",
+        "coding",
+        "engineering"
+      ]
+    },
+    {
+      "id": "IBD-SCI-004",
+      "name": "My Amazing Body Experience",
+      "short_description": "Fascinating exhibits that teach kids about the human body, from how muscles work to the wonders of the brain, using interactive models.",
+      "subtype": "Science Centers",
+      "address": "Mokola Hill, Ibadan",
+      "opening_hours": "10:00-16:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1517404215381-1c00e885145b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "human anatomy",
+        "biology",
+        "health"
+      ]
+    },
+    {
+      "id": "IBD-WPK-001",
+      "name": "SunSplash Kids Park",
+      "short_description": "A vibrant water park with shallow pools, mini slides, splash pads, and interactive water features perfect for younger children.",
+      "subtype": "Water Parks for Kids",
+      "address": "Akobo-Olorunda Road, Ibadan",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563273188-0f04c6ed28c7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "water slides",
+        "splash pad",
+        "family fun"
+      ]
+    },
+    {
+      "id": "IBD-WPK-002",
+      "name": "Tropical Wave Park",
+      "short_description": "Featuring a gentle wave pool, a lazy river, and several age-appropriate water slides for an exciting day of aquatic fun.",
+      "subtype": "Water Parks for Kids",
+      "address": "Iwo Road, Ibadan",
+      "opening_hours": "09:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1577789013233-030ec6062ae2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wave pool",
+        "lazy river",
+        "water slides"
+      ]
+    },
+    {
+      "id": "IBD-WPK-003",
+      "name": "Puddle Jumper Park",
+      "short_description": "Specifically designed for toddlers and preschoolers, with very shallow water, gentle sprays, and soft play structures.",
+      "subtype": "Water Parks for Kids",
+      "address": "Basorun, Ibadan",
+      "opening_hours": "09:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1632822165840-0230554d3062?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddler-friendly",
+        "preschoolers",
+        "safe play"
+      ]
+    },
+    {
+      "id": "IBD-WPK-004",
+      "name": "Wet & Wild Climb",
+      "short_description": "Combines water play with inflatable obstacle courses and climbing structures, offering a unique and active water experience for older kids.",
+      "subtype": "Water Parks for Kids",
+      "address": "UI Road, Ibadan",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1574512727181-435773177893?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "inflatable games",
+        "climbing",
+        "active play"
+      ]
+    },
+    {
+      "id": "IBD-AQU-001",
+      "name": "Ocean Wonders Aquarium",
+      "short_description": "Explore diverse marine life from across the globe, including vibrant coral reefs, exotic fish, and touch pools for a sensory experience.",
+      "subtype": "Aquariums",
+      "address": "Agodi GRA, Ibadan",
+      "opening_hours": "10:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1596700084050-cf522f7ae88e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "marine life",
+        "coral reefs",
+        "touch pool"
+      ]
+    },
+    {
+      "id": "IBD-AQU-002",
+      "name": "Naija Aquatic Life",
+      "short_description": "Showcasing the rich biodiversity of Nigeria's rivers and lakes, with educational exhibits on local fish species and aquatic ecosystems.",
+      "subtype": "Aquariums",
+      "address": "Challenge, Ibadan",
+      "opening_hours": "09:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627883318210-dd76632f01f8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "freshwater fish",
+        "local species",
+        "ecosystem"
+      ]
+    },
+    {
+      "id": "IBD-AQU-003",
+      "name": "Bioluminescent Abyss",
+      "short_description": "A unique exhibit focusing on deep-sea creatures, highlighting bioluminescence and the mysterious life forms of the ocean's depths.",
+      "subtype": "Aquariums",
+      "address": "UI Main Gate, Ibadan",
+      "opening_hours": "10:30-18:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1616790516629-b6b8b1e42a9b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "deep sea",
+        "bioluminescence",
+        "mysterious creatures"
+      ]
+    },
+    {
+      "id": "IBD-AQU-004",
+      "name": "Scale & Slither Sanctuary",
+      "short_description": "While not strictly an aquarium, this center focuses on aquatic and semi-aquatic reptiles and amphibians, including turtles, frogs, and snakes.",
+      "subtype": "Aquariums",
+      "address": "Dugbe, Ibadan",
+      "opening_hours": "09:30-17:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1549463510-48a0429713e2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "reptiles",
+        "amphibians",
+        "conservation"
+      ]
+    },
+    {
+      "id": "IBD-ZOO-001",
+      "name": "Agodi Zoological Gardens",
+      "short_description": "Home to a variety of native and exotic animals in spacious enclosures, offering educational programs and guided tours for children.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Agodi Gardens, Parliament Road, Ibadan",
+      "opening_hours": "09:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1601616869811-13769c8114f2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "wildlife",
+        "zoo",
+        "educational"
+      ]
+    },
+    {
+      "id": "IBD-ZOO-002",
+      "name": "Farm Friends & Fun",
+      "short_description": "A hands-on petting zoo where children can interact with friendly farm animals like goats, sheep, rabbits, and chickens.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Akala Express Way, Ibadan",
+      "opening_hours": "10:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1627914041187-b9979c34e7cf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "petting zoo",
+        "farm animals",
+        "interactive"
+      ]
+    },
+    {
+      "id": "IBD-ZOO-003",
+      "name": "Feathered Friends Sanctuary",
+      "short_description": "An immersive aviary featuring colorful birds from around the world, allowing children to walk through and observe them up close.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "UI Zoo, University of Ibadan, Ibadan",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510414842594-efb08493d562?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "aviary",
+        "birds",
+        "nature"
+      ]
+    },
+    {
+      "id": "IBD-ZOO-004",
+      "name": "Slithery Safari",
+      "short_description": "Get up close and personal with a variety of snakes, lizards, and other reptiles in a safe and educational environment.",
+      "subtype": "Zoos & Petting Zoos",
+      "address": "Moniya, Ibadan",
+      "opening_hours": "10:30-16:30",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1605662770747-d5334752c1e4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "reptiles",
+        "snakes",
+        "lizards"
+      ]
+    },
+    {
+      "id": "IBD-PLN-001",
+      "name": "Little Astronaut's Journey",
+      "short_description": "An immersive digital planetarium showing kid-friendly films about stars, planets, and constellations, making space accessible and fun.",
+      "subtype": "Planetariums for Kids",
+      "address": "UI Campus, Ibadan",
+      "opening_hours": "10:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1543729577-74075f6e804f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "stars",
+        "planets",
+        "space"
+      ]
+    },
+    {
+      "id": "IBD-PLN-002",
+      "name": "Galaxy Explorers Program",
+      "short_description": "Combines planetarium shows with interactive workshops where kids can build rockets, learn about gravity, and simulate space travel.",
+      "subtype": "Planetariums for Kids",
+      "address": "Agbowo, Ibadan",
+      "opening_hours": "09:00-15:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1610423180424-34dd68c34791?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "space travel",
+        "workshops",
+        "astronomy"
+      ]
+    },
+    {
+      "id": "IBD-PLN-003",
+      "name": "Planet Parade Experience",
+      "short_description": "A specialized planetarium focused on our solar system, with 3D projections and engaging narration suitable for all ages.",
+      "subtype": "Planetariums for Kids",
+      "address": "Bodija Housing Estate, Ibadan",
+      "opening_hours": "11:00-17:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1616405204481-9b19e2764f66?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "solar system",
+        "3D projections",
+        "planets"
+      ]
+    },
+    {
+      "id": "IBD-PLN-004",
+      "name": "Twinkle Little Stars Dome",
+      "short_description": "A gentle introduction to the night sky for very young children, featuring simplified celestial views and calming stories.",
+      "subtype": "Planetariums for Kids",
+      "address": "Ring Road, Ibadan",
+      "opening_hours": "09:30-14:30",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1536657960167-27b2a59292a4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "toddlers",
+        "night sky",
+        "stories"
+      ]
+    },
+    {
+      "id": "IBD-MAG-001",
+      "name": "The Amazing Illusion Palace",
+      "short_description": "A dedicated theatre showcasing family-friendly magic and illusion shows with dazzling acts and audience participation.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Mokola Roundabout, Ibadan",
+      "opening_hours": "16:00-18:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1563207198-47ac639b7407?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "magic show",
+        "illusions",
+        "live performance"
+      ]
+    },
+    {
+      "id": "IBD-MAG-002",
+      "name": "Learn to Be a Magician",
+      "short_description": "Interactive sessions where professional magicians teach children simple tricks and the art of illusion, culminating in a mini-show.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Ring Road, Challenge, Ibadan",
+      "opening_hours": "11:00-13:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1547849495-a43b67941786?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "magic tricks",
+        "workshop",
+        "interactive"
+      ]
+    },
+    {
+      "id": "IBD-MAG-003",
+      "name": "Enchanted Mystery Show",
+      "short_description": "A visual spectacular of magic and wonder set in a whimsical, dome-shaped venue, creating an immersive fantasy experience.",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Old Ife Road, Ibadan",
+      "opening_hours": "15:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1521487691684-21147a7479ed?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fantasy",
+        "visuals",
+        "immersive"
+      ]
+    },
+    {
+      "id": "IBD-MAG-004",
+      "name": "Ibadan Street Wizards",
+      "short_description": "Catch spontaneous and engaging street magic performances at various public spaces, perfect for a quick dose of wonder. (Check schedule online).",
+      "subtype": "Magic & Illusion Shows",
+      "address": "Trans Amusement Park Area, Ibadan",
+      "opening_hours": "14:00-16:00",
+      "price_level": "free",
+      "images": "https://images.unsplash.com/photo-1579895691458-9580137d2f9d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "street performance",
+        "free entertainment",
+        "surprise"
+      ]
+    },
+    {
+      "id": "IBD-TFK-001",
+      "name": "Jolly Land Adventure Park",
+      "short_description": "A full-scale theme park with gentle rides, themed play zones, and live entertainment, catering specifically to younger children.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Ibadan-Lagos Expressway, Egbeda, Ibadan",
+      "opening_hours": "10:00-18:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1523995400244-6a8492c6c39a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "rides",
+        "entertainment",
+        "family park"
+      ]
+    },
+    {
+      "id": "IBD-TFK-002",
+      "name": "Tiny Explorers' World",
+      "short_description": "A smaller, nautical-themed park with soft play areas, mini-golf, a carousel, and pirate ship playground for active fun.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Bodija, Ibadan",
+      "opening_hours": "09:30-17:30",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1510525000575-c0813f044917?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "playground",
+        "mini-golf",
+        "carousel"
+      ]
+    },
+    {
+      "id": "IBD-TFK-003",
+      "name": "Enchanted Woods Rides",
+      "short_description": "Set within a beautifully landscaped area, this park features nature-inspired rides, a fairy tale village, and gentle roller coasters.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Agodi Gardens Area, Ibadan",
+      "opening_hours": "10:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1543789397-2a62a6321487?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "nature theme",
+        "fairy tales",
+        "gentle rides"
+      ]
+    },
+    {
+      "id": "IBD-TFK-004",
+      "name": "Future Fun Zone",
+      "short_description": "An indoor/outdoor theme park combining classic arcade games with modern virtual reality experiences and kid-friendly mechanical rides.",
+      "subtype": "Theme Parks for Kids",
+      "address": "Ring Road, Ibadan",
+      "opening_hours": "11:00-20:00",
+      "price_level": "expensive",
+      "images": "https://images.unsplash.com/photo-1549645229-87a4128f62c0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "arcade",
+        "VR",
+        "indoor rides"
+      ]
+    },
+    {
+      "id": "IBD-DNP-001",
+      "name": "Dino Roar Adventure Park",
+      "short_description": "Walk among life-sized animatronic dinosaurs, dig for fossils, and learn about prehistoric life in an exciting and interactive park.",
+      "subtype": "Dinosaur Parks",
+      "address": "Ibadan-Oyo Road, Ibadan",
+      "opening_hours": "09:00-17:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1621535974026-6466f27b9c6d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "dinosaurs",
+        "animatronics",
+        "fossil dig"
+      ]
+    },
+    {
+      "id": "IBD-DNP-002",
+      "name": "Dino Kid's Expedition",
+      "short_description": "A dinosaur-themed playground with climbing structures shaped like dinosaurs, splash pads, and a 'volcano' slide.",
+      "subtype": "Dinosaur Parks",
+      "address": "Ikolaba, Ibadan",
+      "opening_hours": "10:00-18:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1563729906103-e83792c3a50d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "playground",
+        "dinosaur theme",
+        "outdoor fun"
+      ]
+    },
+    {
+      "id": "IBD-DNP-003",
+      "name": "The Age of Giants Exhibit",
+      "short_description": "An indoor museum showcasing authentic dinosaur skeletons, fossils, and interactive displays on geology and ancient Earth.",
+      "subtype": "Dinosaur Parks",
+      "address": "UI Museum Area, Ibadan",
+      "opening_hours": "09:00-16:00",
+      "price_level": "moderate",
+      "images": "https://images.unsplash.com/photo-1584989679198-d621586526e8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "fossils",
+        "museum",
+        "paleontology"
+      ]
+    },
+    {
+      "id": "IBD-DNP-004",
+      "name": "Putt-Putt Prehistory",
+      "short_description": "Enjoy a challenging mini-golf course set among roaring dinosaur models, lush prehistoric plants, and active 'volcanoes.'",
+      "subtype": "Dinosaur Parks",
+      "address": "Ventura Mall, Samonda, Ibadan",
+      "opening_hours": "11:00-19:00",
+      "price_level": "cheap",
+      "images": "https://images.unsplash.com/photo-1628172960627-2b7b5f0d922a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": [
+        "mini-golf",
+        "dinosaurs",
+        "outdoor activity"
+      ]
+    }
+  ]
+}
