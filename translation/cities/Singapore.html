@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+<meta content="Discover the vibrant city-state of Singapore, a budget traveller's paradise with a unique blend of cultures, stunning architecture, and delicious food. Explore free or low-cost attractions and add this must-visit destination to your travel bucket list." name="description"/>
+<meta content="Singapore, budget travel, cultures, architecture, food, attractions, Gardens by the Bay, Chinatown, Little India, Marina Bay Sands" name="keywords"/>
+<meta content="CheapTrip" property="og:title"/>
+<meta content="Discover the vibrant city-state of Singapore, a budget traveller's paradise with a unique blend of cultures, stunning architecture, and delicious food. Explore free or low-cost attractions and add this must-visit destination to your travel bucket list." property="og:description"/>
+<meta content="en" property="og:locale"/>
+<meta content="website" property="og:type"/>
+<title>
+        Singapore
+    </title>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+<link href="../../../assets/favicon-32x32.png" rel="icon" type="image/png"/>
+<link href="{{ url_for('static' , filename='/css/main.css')}}" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+<link href="{{ url_for('static', filename='assets/cities/cities/favicon-32x32.png') }}" rel="icon"/>
+<link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+<link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='assets/favicon-32x32.png') }}" rel="icon"/>
+    <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+      
+    <link href="{{ url_for('static', filename='css/list.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/mdb.min.css') }}" rel="stylesheet"/>
+
+    <link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='assets/favicon-32x32.png') }}" rel="icon"/>
+    <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+      
+    <link href="{{ url_for('static', filename='css/list.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/mdb.min.css') }}" rel="stylesheet"/>
+
+    <link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+</head>
+<body>
+<header class="container-fluid header">
+<div class="headline">
+<a aria-current="page" href="{{ url_for('index') }}">
+<h1 class="headline__logo">
+                    CheapTrip
+                </h1>
+</a>
+<h6 class="headline__slogan">
+                Pay less, visit more!
+            </h6>
+</div>
+</header>
+<div class="section-btn">
+<a class="action-btn" href="https://cheaptrip.guru/">
+            Find cheapest routes
+        </a>
+<a class="budget-btn" href="{{ url_for('index') }}">
+            Budget travel tips
+        </a>
+</div>
+<div class="centered-container">
+<h1 class="section-title">
+            Singapore
+        </h1>
+<div class="flex-container">
+<img alt="City image" class="city-img-attraction" src="{{ url_for('static', filename='assets/cities/Singapore.jpg') }}">
+<p id="text">
+                Singapore is a vibrant city-state that offers a unique blend of cultures, traditions, and modernity.
+                This bustling metropolis is a budget traveller's paradise, with plenty of free or low-cost attractions
+                to explore. The city's architecture is a stunning mix of old and new, with towering skyscrapers and
+                colonial-era buildings coexisting in harmony. <br/><br/>Singapore's culture is a melting pot of Chinese,
+                Malay, Indian, and Western influences, making it a fascinating destination for those interested in
+                history and diversity. The city is home to a plethora of festivals throughout the year, including the
+                famous Chinese New Year celebrations and the Hindu festival of lights, Diwali. <br/><br/>Art lovers will
+                be delighted by the city's thriving arts scene, with numerous galleries and museums showcasing both
+                local and international talent. Singapore's national food, the beloved dish of chicken rice, is a
+                must-try for any foodie. <br/><br/>Despite its small size, Singapore is packed with surprises. Did you
+                know that it is illegal to chew gum in public? Or that the city has one of the world's most efficient
+                public transport systems? <br/><br/>For budget travellers, there are plenty of free or low-cost
+                attractions to explore, such as the stunning Gardens by the Bay, the bustling Chinatown, and the vibrant
+                Little India. The city's hawker centres offer delicious and affordable food options, and the stunning
+                Marina Bay Sands light show is a must-see. <br/><br/>In conclusion, Singapore is a city that offers
+                something for everyone. Its unique blend of cultures, stunning architecture, and delicious food make it
+                a must-visit destination for budget travellers. With plenty of free or low-cost attractions to explore,
+                there's no reason not to add this vibrant city-state to your travel bucket list.
+            </p>
+</div>
+</div>
+<!-- <script>
+    fetch('https://api.allorigins.win/get?url=' + encodeURIComponent('http://content.cheaptrip.guru/files/seo_jsons/city_descriptions/en/London.json'))
+        .then(response => response.json())
+        .then(data => {
+            const jsonData = JSON.parse(data.contents);
+            document.getElementById('text').textContent = jsonData.text;
+            
+        })
+        .catch(error => {
+            console.log('Error:', error);
+        });
+</script> -->
+<div class="buttons">
+<div class="act-btn-cont">
+<a class="action-btn" href="https://www.booking.com/searchresults.en.html" target="_blank">
+            Booking.com
+        </a>
+<a class="action-btn" href="https://www.hostelworld.com/?source=affiliate-PHG-1101lmmsq&amp;affiliate=PHG&amp;ref_id=1101lwISQRVm" target="_blank">
+            Hostel world
+        </a>
+</div>
+</div>
+<div class="custom-divider"></div>
+<div class="buttons">
+<div>
+<a class="action-btn-active" href='{{ url_for("city_description", lang_code=g.lang_code, city_slug="singapore") }}'>
+            Description
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_accommodations", lang_code=g.lang_code, city_slug="singapore") }}'>
+            Accommodations
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_events", lang_code=g.lang_code, city_slug="singapore") }}'>
+            Events &amp; festivals
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_attractions", lang_code=g.lang_code, city_slug="singapore") }}'>
+            City attractions
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_cheap_eats", lang_code=g.lang_code, city_slug="singapore") }}'>
+            Cheap eats
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_children_attractions", lang_code=g.lang_code, city_slug="singapore") }}'>
+            Children attractions
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_transport", lang_code=g.lang_code, city_slug="singapore") }}'>
+            Transportations
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_routes", lang_code=g.lang_code, city_slug="singapore") }}'>
+            Routes from Singapore
+        </a>
+</div>
+</div>
+</body>
+</html>

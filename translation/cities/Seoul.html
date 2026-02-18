@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+<meta content="Discover the vibrant city of Seoul, South Korea, with its rich cultural heritage, stunning architecture, and delicious cuisine, all perfect for budget travellers." name="description"/>
+<meta content="Seoul, South Korea, budget travellers, culture, history, architecture, festivals, art, food, attractions, public transportation" name="keywords"/>
+<meta content="CheapTrip" property="og:title"/>
+<meta content="Discover the vibrant city of Seoul, South Korea, with its rich cultural heritage, stunning architecture, and delicious cuisine, all perfect for budget travellers." property="og:description"/>
+<meta content="en" property="og:locale"/>
+<meta content="website" property="og:type"/>
+<title>
+        Seoul
+    </title>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+<link href="../../../assets/favicon-32x32.png" rel="icon" type="image/png"/>
+<link href="{{ url_for('static' , filename='/css/main.css')}}" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+<link href="{{ url_for('static', filename='assets/cities/cities/favicon-32x32.png') }}" rel="icon"/>
+<link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+<link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='assets/favicon-32x32.png') }}" rel="icon"/>
+    <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+      
+    <link href="{{ url_for('static', filename='css/list.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/mdb.min.css') }}" rel="stylesheet"/>
+
+    <link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='assets/favicon-32x32.png') }}" rel="icon"/>
+    <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+      
+    <link href="{{ url_for('static', filename='css/list.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/mdb.min.css') }}" rel="stylesheet"/>
+
+    <link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+</head>
+<body>
+<header class="container-fluid header">
+<div class="headline">
+<a aria-current="page" href="{{ url_for('index') }}">
+<h1 class="headline__logo">
+                    CheapTrip
+                </h1>
+</a>
+<h6 class="headline__slogan">
+                Pay less, visit more!
+            </h6>
+</div>
+</header>
+<div class="section-btn">
+<a class="action-btn" href="https://cheaptrip.guru/">
+            Find cheapest routes
+        </a>
+<a class="budget-btn" href="{{ url_for('index') }}">
+            Budget travel tips
+        </a>
+</div>
+<div class="centered-container">
+<h1 class="section-title">
+            Seoul
+        </h1>
+<div class="flex-container">
+<img alt="City image" class="city-img-attraction" src="{{ url_for('static', filename='assets/cities/Seoul.jpg') }}">
+<p id="text">
+                Seoul, the bustling capital city of South Korea, is a vibrant destination that offers a unique blend of
+                ancient traditions and modern innovations. This city is a perfect destination for budget travellers who
+                want to experience the rich culture and history of Korea without breaking the bank. Seoul is a city that
+                is steeped in history, with ancient palaces, temples, and shrines that are a testament to its rich
+                cultural heritage.<br/><br/>The city is known for its stunning architecture, with towering skyscrapers and
+                traditional hanok houses coexisting side by side. Seoul is also famous for its festivals, which
+                celebrate everything from traditional Korean culture to modern art and music. The city's art scene is
+                thriving, with numerous galleries and museums showcasing the works of both local and international
+                artists.<br/><br/>One of the highlights of any trip to Seoul is the food. Korean cuisine is famous for its
+                bold flavors and unique ingredients, and Seoul is home to some of the best restaurants in the country.
+                From street food to fine dining, there is something for every budget and taste.<br/><br/>Seoul is also a
+                city of surprises, with hidden gems around every corner. Did you know that Seoul is home to the world's
+                largest underground shopping mall? Or that the city has a vibrant street art scene that rivals that of
+                any major city in the world?<br/><br/>For budget travellers, there are plenty of free or low-cost
+                attractions to explore in Seoul. From hiking in the city's many parks to visiting traditional markets
+                and temples, there is no shortage of things to see and do. And with a world-class public transportation
+                system, getting around the city is easy and affordable.<br/><br/>In short, Seoul is a city that has
+                something for everyone. Whether you're interested in history, culture, art, or food, this vibrant
+                destination is sure to leave a lasting impression. So why not book your trip today and experience the
+                magic of Seoul for yourself?
+            </p>
+</div>
+</div>
+<!-- <script>
+    fetch('https://api.allorigins.win/get?url=' + encodeURIComponent('http://content.cheaptrip.guru/files/seo_jsons/city_descriptions/en/London.json'))
+        .then(response => response.json())
+        .then(data => {
+            const jsonData = JSON.parse(data.contents);
+            document.getElementById('text').textContent = jsonData.text;
+            
+        })
+        .catch(error => {
+            console.log('Error:', error);
+        });
+</script> -->
+<div class="buttons">
+<div class="act-btn-cont">
+<a class="action-btn" href="https://www.booking.com/searchresults.en.html" target="_blank">
+            Booking.com
+        </a>
+<a class="action-btn" href="https://www.hostelworld.com/?source=affiliate-PHG-1101lmmsq&amp;affiliate=PHG&amp;ref_id=1101lwISQRVm" target="_blank">
+            Hostel world
+        </a>
+</div>
+</div>
+<div class="custom-divider"></div>
+<div class="buttons">
+<div>
+<a class="action-btn-active" href='{{ url_for("city_description", lang_code=g.lang_code, city_slug="seoul") }}'>
+            Description
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_accommodations", lang_code=g.lang_code, city_slug="seoul") }}'>
+            Accommodations
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_events", lang_code=g.lang_code, city_slug="seoul") }}'>
+            Events &amp; festivals
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_attractions", lang_code=g.lang_code, city_slug="seoul") }}'>
+            City attractions
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_cheap_eats", lang_code=g.lang_code, city_slug="seoul") }}'>
+            Cheap eats
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_children_attractions", lang_code=g.lang_code, city_slug="seoul") }}'>
+            Children attractions
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_transport", lang_code=g.lang_code, city_slug="seoul") }}'>
+            Transportations
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_routes", lang_code=g.lang_code, city_slug="seoul") }}'>
+            Routes from Seoul
+        </a>
+</div>
+</div>
+</body>
+</html>

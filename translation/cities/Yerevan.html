@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+<meta content="Yerevan is a hidden gem for budget travellers seeking an authentic cultural experience. This vibrant city boasts a rich history and unique architecture, with a blend of Soviet-era buildings and ancient landmarks. Visitors can immerse themselves in the local way of life by attending one of the many festivals that take place throughout the year. The city is also home to a thriving art scene, with numerous galleries and museums showcasing the works of local artists. Armenian food is a delicious fusion of Mediterranean and Middle Eastern flavors. Yerevan is full of surprises, with hidden gems waiting to be discovered around every corner. For budget travellers, Yerevan offers plenty of free or low-cost attractions." name="description"/>
+<meta content="Yerevan, Armenia, budget travellers, cultural experience, festivals, art scene, local cuisine, hidden gems, free attractions, low-cost attractions" name="keywords"/>
+<meta content="CheapTrip" property="og:title"/>
+<meta content="Yerevan is a hidden gem for budget travellers seeking an authentic cultural experience. This vibrant city boasts a rich history and unique architecture, with a blend of Soviet-era buildings and ancient landmarks. Visitors can immerse themselves in the local way of life by attending one of the many festivals that take place throughout the year. The city is also home to a thriving art scene, with numerous galleries and museums showcasing the works of local artists. Armenian food is a delicious fusion of Mediterranean and Middle Eastern flavors. Yerevan is full of surprises, with hidden gems waiting to be discovered around every corner. For budget travellers, Yerevan offers plenty of free or low-cost attractions." property="og:description"/>
+<meta content="en" property="og:locale"/>
+<meta content="website" property="og:type"/>
+<title>
+        Yerevan
+    </title>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+<link href="../../../assets/favicon-32x32.png" rel="icon" type="image/png"/>
+<link href="{{ url_for('static' , filename='/css/main.css')}}" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+<link href="{{ url_for('static', filename='assets/cities/cities/favicon-32x32.png') }}" rel="icon"/>
+<link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+<link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='assets/favicon-32x32.png') }}" rel="icon"/>
+    <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+      
+    <link href="{{ url_for('static', filename='css/list.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/mdb.min.css') }}" rel="stylesheet"/>
+
+    <link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='assets/favicon-32x32.png') }}" rel="icon"/>
+    <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+      
+    <link href="{{ url_for('static', filename='css/list.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/mdb.min.css') }}" rel="stylesheet"/>
+
+    <link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+</head>
+<body>
+<header class="container-fluid header">
+<div class="headline">
+<a aria-current="page" href="{{ url_for('index') }}">
+<h1 class="headline__logo">
+                    CheapTrip
+                </h1>
+</a>
+<h6 class="headline__slogan">
+                Pay less, visit more!
+            </h6>
+</div>
+</header>
+<div class="section-btn">
+<a class="action-btn" href="https://cheaptrip.guru/">
+            Find cheapest routes
+        </a>
+<a class="budget-btn" href="{{ url_for('index') }}">
+            Budget travel tips
+        </a>
+</div>
+<div class="centered-container">
+<h1 class="section-title">
+            Yerevan
+        </h1>
+<div class="flex-container">
+<img alt="City image" class="city-img-attraction" src="{{ url_for('static', filename='assets/cities/Yerevan.jpg') }}">
+<p id="text">
+                Yerevan, the capital city of Armenia, is a hidden gem for budget travellers seeking an authentic
+                cultural experience. This vibrant city boasts a rich history and unique architecture, with a blend of
+                Soviet-era buildings and ancient landmarks. The city's pink-hued stone buildings and wide boulevards
+                create a charming atmosphere that is perfect for exploring on foot.<br/><br/>Yerevan is a city that is
+                deeply rooted in its traditions and culture. Visitors can immerse themselves in the local way of life by
+                attending one of the many festivals that take place throughout the year. The Armenian Genocide Memorial
+                Day, celebrated on April 24th, is a particularly poignant event that pays tribute to the victims of the
+                genocide.<br/><br/>The city is also home to a thriving art scene, with numerous galleries and museums
+                showcasing the works of local artists. The National Gallery of Armenia is a must-visit for art lovers,
+                with an impressive collection of Armenian art spanning several centuries.<br/><br/>No visit to Yerevan
+                would be complete without sampling the local cuisine. Armenian food is a delicious fusion of
+                Mediterranean and Middle Eastern flavors, with dishes such as khorovats (barbecue) and dolma (stuffed
+                grape leaves) being popular choices. Visitors can also indulge in sweet treats such as baklava and gata,
+                a traditional Armenian pastry.<br/><br/>Yerevan is full of surprises, with hidden gems waiting to be
+                discovered around every corner. The city is home to the world's oldest winery, Areni-1, which dates back
+                to 4100 BC. Visitors can also explore the underground tunnels of the Erebuni Fortress, which was built
+                in 782 BC.<br/><br/>For budget travellers, Yerevan offers plenty of free or low-cost attractions. The
+                Cascade Complex, a giant stairway that leads up to a panoramic view of the city, is a popular spot for
+                locals and tourists alike. The Vernissage Market is another must-visit, with a wide range of handmade
+                crafts and souvenirs available at affordable prices.<br/><br/>In conclusion, Yerevan is a city that is
+                full of character and charm, with a rich history and culture that is waiting to be explored. From its
+                unique architecture to its delicious cuisine, there is something for everyone in this vibrant city. So
+                why not pack your bags and discover the magic of Yerevan for yourself?
+            </p>
+</div>
+</div>
+<!-- <script>
+    fetch('https://api.allorigins.win/get?url=' + encodeURIComponent('http://content.cheaptrip.guru/files/seo_jsons/city_descriptions/en/London.json'))
+        .then(response => response.json())
+        .then(data => {
+            const jsonData = JSON.parse(data.contents);
+            document.getElementById('text').textContent = jsonData.text;
+            
+        })
+        .catch(error => {
+            console.log('Error:', error);
+        });
+</script> -->
+<div class="buttons">
+<div class="act-btn-cont">
+<a class="action-btn" href="https://www.booking.com/searchresults.en.html" target="_blank">
+            Booking.com
+        </a>
+<a class="action-btn" href="https://www.hostelworld.com/?source=affiliate-PHG-1101lmmsq&amp;affiliate=PHG&amp;ref_id=1101lwISQRVm" target="_blank">
+            Hostel world
+        </a>
+</div>
+</div>
+<div class="custom-divider"></div>
+<div class="buttons">
+<div>
+<a class="action-btn-active" href='{{ url_for("city_description", lang_code=g.lang_code, city_slug="yerevan") }}'>
+            Description
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_accommodations", lang_code=g.lang_code, city_slug="yerevan") }}'>
+            Accommodations
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_events", lang_code=g.lang_code, city_slug="yerevan") }}'>
+            Events &amp; festivals
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_attractions", lang_code=g.lang_code, city_slug="yerevan") }}'>
+            City attractions
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_cheap_eats", lang_code=g.lang_code, city_slug="yerevan") }}'>
+            Cheap eats
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_children_attractions", lang_code=g.lang_code, city_slug="yerevan") }}'>
+            Children attractions
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_transport", lang_code=g.lang_code, city_slug="yerevan") }}'>
+            Transportations
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_routes", lang_code=g.lang_code, city_slug="yerevan") }}'>
+            Routes from Yerevan
+        </a>
+</div>
+</div>
+</body>
+</html>

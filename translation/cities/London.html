@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+<meta content="Discover the vibrant and diverse city of London on a budget with its stunning architecture, world-class museums, and diverse food scene." name="description"/>
+<meta content="London, budget travellers, history, culture, museums, food scene, public transport, free attractions" name="keywords"/>
+<meta content="CheapTrip" property="og:title"/>
+<meta content="Discover the vibrant and diverse city of London on a budget with its stunning architecture, world-class museums, and diverse food scene." property="og:description"/>
+<meta content="en" property="og:locale"/>
+<meta content="website" property="og:type"/>
+<title>
+        London
+    </title>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+<link href="../../../assets/favicon-32x32.png" rel="icon" type="image/png"/>
+<link href="{{ url_for('static' , filename='/css/main.css')}}" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+<link href="{{ url_for('static', filename='assets/cities/cities/favicon-32x32.png') }}" rel="icon"/>
+<link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+<link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='assets/favicon-32x32.png') }}" rel="icon"/>
+    <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+      
+    <link href="{{ url_for('static', filename='css/list.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/mdb.min.css') }}" rel="stylesheet"/>
+
+    <link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='assets/favicon-32x32.png') }}" rel="icon"/>
+    <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+      
+    <link href="{{ url_for('static', filename='css/list.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/mdb.min.css') }}" rel="stylesheet"/>
+
+    <link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+</head>
+<body>
+<header class="container-fluid header">
+<div class="headline">
+<a aria-current="page" href="{{ url_for('index') }}">
+<h1 class="headline__logo">
+                    CheapTrip
+                </h1>
+</a>
+<h6 class="headline__slogan">
+                Pay less, visit more!
+            </h6>
+</div>
+</header>
+<div class="section-btn">
+<a class="action-btn" href="https://cheaptrip.guru/">
+            Find cheapest routes
+        </a>
+<a class="budget-btn" href="{{ url_for('index') }}">
+            Budget travel tips
+        </a>
+</div>
+<div class="centered-container">
+<h1 class="section-title">
+            London
+        </h1>
+<div class="flex-container">
+<img alt="City image" class="city-img-attraction" src="{{ url_for('static', filename='assets/cities/London.jpg') }}">
+<p id="text">
+                London, the capital city of England, is a vibrant and bustling metropolis that offers a wealth of
+                experiences for budget travellers. With its rich history, diverse culture, and stunning architecture,
+                London is a city that never fails to impress. From the iconic Big Ben and the Tower Bridge to the modern
+                Shard and the London Eye, the city's skyline is a sight to behold.<br/><br/>London is a melting pot of
+                cultures, with a vibrant arts scene, world-class museums, and a thriving music and theatre scene. The
+                city is home to some of the world's most famous museums, including the British Museum, the National
+                Gallery, and the Tate Modern. For those interested in history, the Tower of London is a must-visit,
+                while the Houses of Parliament and Buckingham Palace are also popular attractions.<br/><br/>London is also
+                known for its festivals and events, with something happening almost every week. From the Notting Hill
+                Carnival to the Christmas markets, there is always something to see and do. The city is also famous for
+                its food, with a wide range of international cuisines on offer. From traditional fish and chips to
+                Indian curries and Chinese dim sum, there is something for everyone.<br/><br/>One of the most surprising
+                facts about London is that it is home to over 8 million people, making it one of the largest cities in
+                the world. Despite its size, however, the city is easy to navigate, with an extensive public transport
+                system that includes buses, trains, and the famous London Underground.<br/><br/>For budget travellers,
+                there are plenty of free or low-cost attractions to enjoy. The city's parks, including Hyde Park and
+                Regent's Park, are perfect for a picnic or a leisurely stroll. The Southbank Centre and the National
+                Theatre offer free performances and events throughout the year, while the street art in Shoreditch and
+                Camden is a must-see.<br/><br/>In conclusion, London is a city that has something for everyone. Whether
+                you're interested in history, culture, or simply want to experience the buzz of a vibrant city, London
+                is the perfect destination for budget travellers. With its stunning architecture, world-class museums,
+                and diverse food scene, London is a city that will leave you wanting more.
+            </p>
+</div>
+</div>
+<!-- <script>
+    fetch('https://api.allorigins.win/get?url=' + encodeURIComponent('http://content.cheaptrip.guru/files/seo_jsons/city_descriptions/en/London.json'))
+        .then(response => response.json())
+        .then(data => {
+            const jsonData = JSON.parse(data.contents);
+            document.getElementById('text').textContent = jsonData.text;
+            
+        })
+        .catch(error => {
+            console.log('Error:', error);
+        });
+</script> -->
+<div class="buttons">
+<div class="act-btn-cont">
+<a class="action-btn" href="https://www.booking.com/searchresults.en.html" target="_blank">
+            Booking.com
+        </a>
+<a class="action-btn" href="https://www.hostelworld.com/?source=affiliate-PHG-1101lmmsq&amp;affiliate=PHG&amp;ref_id=1101lwISQRVm" target="_blank">
+            Hostel world
+        </a>
+</div>
+</div>
+<div class="custom-divider"></div>
+<div class="buttons">
+<div>
+<a class="action-btn-active" href='{{ url_for("city_description", lang_code=g.lang_code, city_slug="london") }}'>
+            Description
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_accommodations", lang_code=g.lang_code, city_slug="london") }}'>
+            Accommodations
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_events", lang_code=g.lang_code, city_slug="london") }}'>
+            Events &amp; festivals
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_attractions", lang_code=g.lang_code, city_slug="london") }}'>
+            City attractions
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_cheap_eats", lang_code=g.lang_code, city_slug="london") }}'>
+            Cheap eats
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_children_attractions", lang_code=g.lang_code, city_slug="london") }}'>
+            Children attractions
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_transport", lang_code=g.lang_code, city_slug="london") }}'>
+            Transportations
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_routes", lang_code=g.lang_code, city_slug="london") }}'>
+            Routes from London
+        </a>
+</div>
+</div>
+</body>
+</html>

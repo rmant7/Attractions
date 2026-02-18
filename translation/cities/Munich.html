@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+<meta content="Discover the perfect blend of history, culture, and modernity in Munich, Germany. Explore stunning architecture, world-famous festivals, and delicious Bavarian food on a budget." name="description"/>
+<meta content="Munich, Bavaria, budget travellers, Neuschwanstein Castle, beer gardens, Oktoberfest, Pinakothek der Moderne, Bavarian National Museum, Weisswurst, Englischer Garten, Marienplatz, Viktualienmarkt" name="keywords"/>
+<meta content="CheapTrip" property="og:title"/>
+<meta content="Discover the perfect blend of history, culture, and modernity in Munich, Germany. Explore stunning architecture, world-famous festivals, and delicious Bavarian food on a budget." property="og:description"/>
+<meta content="en" property="og:locale"/>
+<meta content="website" property="og:type"/>
+<title>
+        Munich
+    </title>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+<link href="../../../assets/favicon-32x32.png" rel="icon" type="image/png"/>
+<link href="{{ url_for('static' , filename='/css/main.css')}}" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+<link href="{{ url_for('static', filename='assets/cities/cities/favicon-32x32.png') }}" rel="icon"/>
+<link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+<link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='assets/favicon-32x32.png') }}" rel="icon"/>
+    <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+      
+    <link href="{{ url_for('static', filename='css/list.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/mdb.min.css') }}" rel="stylesheet"/>
+
+    <link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='assets/favicon-32x32.png') }}" rel="icon"/>
+    <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet"/>
+      
+    <link href="{{ url_for('static', filename='css/list.css') }}" rel="stylesheet"/>
+    <link href="{{ url_for('static', filename='css/mdb.min.css') }}" rel="stylesheet"/>
+
+    <link href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css" rel="stylesheet"/>
+
+</head>
+<body>
+<header class="container-fluid header">
+<div class="headline">
+<a aria-current="page" href="{{ url_for('index') }}">
+<h1 class="headline__logo">
+                    CheapTrip
+                </h1>
+</a>
+<h6 class="headline__slogan">
+                Pay less, visit more!
+            </h6>
+</div>
+</header>
+<div class="section-btn">
+<a class="action-btn" href="https://cheaptrip.guru/">
+            Find cheapest routes
+        </a>
+<a class="budget-btn" href="{{ url_for('index') }}">
+            Budget travel tips
+        </a>
+</div>
+<div class="centered-container">
+<h1 class="section-title">
+            Munich
+        </h1>
+<div class="flex-container">
+<img alt="City image" class="city-img-attraction" src="{{ url_for('static', filename='assets/cities/Munich.jpg') }}">
+<p id="text">
+                Munich, the capital of Bavaria, is a city that offers a perfect blend of history, culture, and
+                modernity. It is a city that is rich in tradition and has a unique charm that attracts budget travellers
+                from all over the world. The city is known for its stunning architecture, including the famous
+                Neuschwanstein Castle, which is a must-visit for anyone who loves fairy tales.<br/><br/>Munich is also
+                famous for its beer gardens, where you can enjoy a cold beer and traditional Bavarian food while soaking
+                up the atmosphere. The city is home to some of the world's most famous festivals, including Oktoberfest,
+                which attracts millions of visitors every year.<br/><br/>The city is also known for its art and culture,
+                with numerous museums and galleries showcasing works by some of the world's most famous artists. The
+                Pinakothek der Moderne is a must-visit for anyone interested in modern art, while the Bavarian National
+                Museum is a great place to learn about the history and culture of the region.<br/><br/>Munich is also
+                famous for its food, with traditional Bavarian dishes such as Weisswurst, Brezen, and Schweinshaxe being
+                popular with locals and visitors alike. The city is also home to some of the best bakeries in Germany,
+                where you can indulge in delicious pastries and cakes.<br/><br/>One of the most surprising facts about
+                Munich is that it is home to the largest urban park in the world, the Englischer Garten. This beautiful
+                park is a great place to relax and enjoy nature, and it even has its own beer garden.<br/><br/>For budget
+                travellers, Munich offers plenty of free or low-cost attractions, including the Marienplatz, the heart
+                of the city, where you can watch the famous Glockenspiel clock tower chime. The Viktualienmarkt is
+                another great place to visit, with its colourful stalls selling fresh produce and traditional Bavarian
+                souvenirs.<br/><br/>In conclusion, Munich is a city that has something for everyone, from its stunning
+                architecture and rich history to its vibrant culture and delicious food. It is a city that is sure to
+                leave a lasting impression on any budget traveller who visits.
+            </p>
+</div>
+</div>
+<!-- <script>
+    fetch('https://api.allorigins.win/get?url=' + encodeURIComponent('http://content.cheaptrip.guru/files/seo_jsons/city_descriptions/en/London.json'))
+        .then(response => response.json())
+        .then(data => {
+            const jsonData = JSON.parse(data.contents);
+            document.getElementById('text').textContent = jsonData.text;
+            
+        })
+        .catch(error => {
+            console.log('Error:', error);
+        });
+</script> -->
+<div class="buttons">
+<div class="act-btn-cont">
+<a class="action-btn" href="https://www.booking.com/searchresults.en.html" target="_blank">
+            Booking.com
+        </a>
+<a class="action-btn" href="https://www.hostelworld.com/?source=affiliate-PHG-1101lmmsq&amp;affiliate=PHG&amp;ref_id=1101lwISQRVm" target="_blank">
+            Hostel world
+        </a>
+</div>
+</div>
+<div class="custom-divider"></div>
+<div class="buttons">
+<div>
+<a class="action-btn-active" href='{{ url_for("city_description", lang_code=g.lang_code, city_slug="munich") }}'>
+            Description
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_accommodations", lang_code=g.lang_code, city_slug="munich") }}'>
+            Accommodations
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_events", lang_code=g.lang_code, city_slug="munich") }}'>
+            Events &amp; festivals
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_attractions", lang_code=g.lang_code, city_slug="munich") }}'>
+            City attractions
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_cheap_eats", lang_code=g.lang_code, city_slug="munich") }}'>
+            Cheap eats
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_children_attractions", lang_code=g.lang_code, city_slug="munich") }}'>
+            Children attractions
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_transport", lang_code=g.lang_code, city_slug="munich") }}'>
+            Transportations
+        </a>
+</div>
+<div>
+<a class="action-btn" href='{{ url_for("city_routes", lang_code=g.lang_code, city_slug="munich") }}'>
+            Routes from Munich
+        </a>
+</div>
+</div>
+</body>
+</html>
